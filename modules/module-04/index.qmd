@@ -27,12 +27,12 @@ Footnotes are bidirectional (click number → source; caret → back). Foldouts 
 
 ## The four lessons
 
-Each sitting is one pack branch—the same four-way split as the owner's source packs. Read in order for the full story, or hop to the lesson you need.
+Each sitting is one pack branch—the same four-way split as the owner's source packs. Lessons are now **full sittings** (story voice, footnotes, collapsed foldouts)—still **no invented economics**. Read in order or hop.
 
-1. **[Fast blurts and careful checks](01-dual-process.qmd)**
-2. **[Losses that sting, tomorrows that fade](02-risk-waiting.qmd)**
-3. **[Games of trust, fairness, and cooperation](03-trust-games.qmd)**
-4. **[How careful studies are usually built](04-study-protocols.qmd)**
+1. **[Fast blurts and careful checks](01-dual-process.qmd)** — System 1/2 spectrum; CRT / Stroop / RVIP doses
+2. **[Losses that sting, tomorrows that fade](02-risk-waiting.qmd)** — λ, discounting *k*, BART (lab doses ≠ career advice)
+3. **[Games of trust, fairness, and cooperation](03-trust-games.qmd)** — Ultimatum / Trust / Dilemma; opening ≠ forever
+4. **[How careful studies are usually built](04-study-protocols.qmd)** — washout, 60°C mugs, +40 min, decaf limits
 
 **Start with lesson 1:** [Fast blurts and careful checks](01-dual-process.qmd)
 

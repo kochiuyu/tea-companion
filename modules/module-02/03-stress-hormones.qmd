@@ -10,62 +10,116 @@ title: "2.3 When the fire alarm rings"
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
 :::
 
+## Stress has a chemistry too
 
-## When the fire alarm rings
+Brain receptors ([2.1](01-brain-action.qmd)) and brain rhythms ([2.2](02-brainwaves.qmd)) are two windows on tea's dual story. This sitting opens a third: **stress hormones**—what happens when the day itself is noisy.
 
 When you are stressed, the body runs a loop often called the **HPA axis** (brain → pituitary → adrenals). One output is **cortisol**, a main stress hormone. Another related signal is **epinephrine** (adrenaline).
 
-Plain takeaways from the packs:
+::: {.callout-tip title="Words to know in this sitting"}
+- **HPA axis** — stress-hormone loop from brain to adrenals.
+- **Cortisol** — a main stress hormone.
+- **Epinephrine (adrenaline)** — a fast sympathetic "go" signal.
+- **Salivary alpha-amylase (sAA)** — a stress-linked enzyme often used as a sympathetic marker.
+- **Tolerance / adaptation** — repeated caffeine can blunt *caffeine-driven* cortisol spikes; stress can still ring the alarm.
+:::
+
+## Plain takeaways (then the fine print)
+
+Plain takeaways from the packs and the papers behind them:
 
 - Caffeine can activate the HPA axis and raise cortisol.
-- L-theanine co-use can keep cortisol nearer baseline under cognitive stress.
-- Unmitigated caffeine can sharply raise epinephrine, with blood-pressure and vessel-tone effects; L-theanine is described as helping keep pressure steadier via nitric-oxide–related relaxation [^1][^2].
+- L-theanine co-use is studied for keeping stress markers nearer baseline under cognitive or real-life load.
+- Unmitigated caffeine can raise epinephrine, with blood-pressure and vessel-tone effects; L-theanine is described as helping keep pressure steadier via nitric-oxide–related relaxation in cell work—and has human data on blood pressure under stress.[^1][^2][^3]
 
-Imagine a fire alarm (stress) and also a loud caffeine "boost" siren. With daily caffeine use around **300–400 mg/day**, the caffeine-driven cortisol spike is often nearly gone within about **five days**. The fire alarm of real stress can still ring—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms.
+Imagine a fire alarm (stress) and also a loud caffeine "boost" siren. Habitual caffeine use can quiet the *caffeine* siren over days. The fire alarm of real stress can still ring—and L-theanine is studied for blunting *stress*-linked responses even after caffeine habit forms.
 
 | Measure | Condition | Finding | Source |
 | --- | --- | --- | --- |
-| Heart rate / salivary IgA under arithmetic stress | L-theanine vs placebo | L-theanine reduced heart-rate and salivary immune-stress responses; HRV pattern suggested less sympathetic drive | Kimura et al. (2007) [^1] |
-| Salivary cortisol | 200 mg L-theanine vs placebo under acute cognitive stress | L-theanine stayed nearer baseline; placebo rose more (pack narrative) | Yoto et al. (2012; pack) |
-| Salivary alpha-amylase (stress enzyme) | 200 mg L-theanine vs placebo in multi-tasking | About 28% decrease (pack narrative) | Unno et al. (2013; pack) |
-| Serum cortisol / epinephrine | 250 mg caffeine | Cortisol and epinephrine rose sharply (pack narrative; Lovallo et al., 2005) | Pack / Bibliography |
+| Heart rate / salivary IgA under arithmetic stress | L-theanine vs placebo | L-theanine reduced heart-rate and salivary immune-stress responses; HRV pattern suggested less sympathetic drive | Kimura et al. (2007)[^1] |
+| Blood pressure / tension-anxiety under mental tasks | L-theanine vs placebo | L-theanine attenuated BP rise in high-response adults and lowered Tension-Anxiety scores vs placebo | Yoto et al. (2012)[^3] |
+| Morning salivary alpha-amylase during stressful practice | ~200 mg L-theanine twice daily vs placebo | Theanine group showed lower pre-practice sAA and lower subjective stress during a multi-day pharmacy practice | Unno et al. (2013)[^4] |
+| Salivary cortisol across the day | 250 mg caffeine challenges after controlled intake weeks | After abstinence, caffeine raised cortisol robustly; after ~5 days at 300–600 mg/day, morning challenge responses were blunted but not all-day abolished | Lovallo et al. (2005)[^5] |
 
-A big caffeine hit can raise cortisol and adrenaline. L-theanine often blunts that stress spike in the cited work. "My body adapted to coffee" does not mean "stress no longer raises cortisol."
+::: {.callout-important collapse="true" title="Honesty note: where pack tables and papers diverge"}
+Some companion pack tables attribute a neat salivary-cortisol delta (L-theanine ~±5% vs placebo ~+22%) to **Yoto et al. (2012)**. The published Yoto 2012 paper measures **blood pressure and mood under stress**, not that cortisol contrast.[^3] This lesson therefore cites Yoto for BP/anxiety, Kimura for HR/sIgA, Unno for sAA under real student stress, and Lovallo for caffeine–cortisol adaptation—and does **not** repeat the mismatched cortisol attribution as fact.
 
-People sometimes tell a stronger story: "Caffeine permanently wrecks your adrenals." Acute caffeine can raise cortisol a lot. With daily use around **300–400 mg/day**, that caffeine-driven cortisol spike is often nearly gone within about **five days**. Stress-driven cortisol can still rise, though—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms. Systematic reviews of L-theanine and stress/anxiety are still cautious: effects exist in some trials, but dose, setting, and outcome measure matter [^3].
+Pack tables also sometimes phrase caffeine–cortisol adaptation as "nearly gone within five days." Lovallo's controlled trial is more precise: after five days at 300 or 600 mg/day, the **morning** caffeine-challenge cortisol response was largely abolished, but cortisol could still rise later in the day after further doses—**reduced, not eliminated**.[^5]
+:::
 
-Vessel tone is part of the same chapter. Caffeine can constrict cerebral vessels as part of its adenosine blockade story [^4]. L-theanine has been shown in cell work to promote nitric-oxide production in endothelial cells—one plausible path for "steadier pressure" language in the packs [^2]. That is mechanism talk, not a home blood-pressure prescription.
+## Myth check: "Caffeine permanently wrecks your adrenals"
+
+Acute caffeine can raise cortisol a lot. With daily use in the hundreds of milligrams, that caffeine-driven spike often shrinks within about five days of controlled intake—but Lovallo's data say **incomplete** tolerance at everyday levels, not permanent adrenal destruction and not a total mute button.[^5] Stress-driven responses can still rise, which is exactly where L-theanine studies (Kimura, Yoto, Unno) earn their keep.[^1][^3][^4] Systematic reviews of L-theanine and stress/anxiety stay cautious: effects exist in some trials, but dose, setting, and outcome measure matter.[^6]
+
+## Vessel tone is part of the same chapter
+
+Caffeine can constrict cerebral vessels as part of its adenosine blockade story.[^7] L-theanine has been shown in cell work to promote nitric-oxide production in endothelial cells—one plausible path for "steadier pressure" language in the packs.[^2] Yoto's human stress design adds a behavioral-physiology bridge: L-theanine can blunt task-related blood-pressure climbs in high-responders.[^3] That is mechanism-plus-trial talk, not a home blood-pressure prescription.
 
 ::: {.callout-note collapse="true" title="More detail: cortisol, amylase, and the five-day caffeine adaptation"}
 | Measure | Condition | Finding | Trail |
 | --- | --- | --- | --- |
 | Heart rate / salivary IgA under arithmetic stress | L-theanine vs placebo | Lower HR and stress-linked immune marker; HRV pattern → less sympathetic drive | Kimura et al. (2007)[^1] |
-| Salivary cortisol | **200 mg** L-theanine vs placebo under acute cognitive stress | L-theanine nearer baseline; placebo rose more (pack narrative ~±5% vs ~+22%) | Yoto et al. (2012; pack) |
-| Salivary alpha-amylase | **200 mg** L-theanine vs placebo in multi-tasking | About **28%** decrease (pack) | Unno et al. (2013; pack) |
-| Serum cortisol / epinephrine | **250 mg** caffeine | Sharp rises (pack narrative of Lovallo et al., 2005) | Pack / Bibliography |
+| BP / Tension-Anxiety under mental tasks | L-theanine vs placebo | Attenuated BP rise in high-responders; lower Tension-Anxiety | Yoto et al. (2012)[^3] |
+| Morning sAA during pharmacy practice | **200 mg** L-theanine ×2/day vs placebo | Lower pre-practice sAA and lower subjective stress in theanine group | Unno et al. (2013)[^4] |
+| Salivary cortisol to caffeine challenges | **250 mg** caffeine after 0 / 300 / 600 mg/day weeks | Abstinence → robust rise; 5 days intake → morning response blunted, later-day rises still possible | Lovallo et al. (2005)[^5] |
 
-**Adaptation nuance.** Acute caffeine can raise cortisol a lot. With daily use around **300–400 mg/day**, that caffeine-driven spike is often nearly gone within about **five days** (pack narrative). Stress-driven cortisol can still rise—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms. Systematic reviews stay cautious: effects exist in some trials; dose, setting, and outcome measure matter.[^3]
+**Adaptation nuance.** Acute caffeine can raise cortisol a lot. Habitual intake reduces that caffeine-driven spike within days, but Lovallo concludes responses are **reduced, not eliminated** at intake levels common in daily life.[^5] Stress-driven markers can still move—and L-theanine is studied for blunting those *stress*-linked responses.[^1][^3][^4][^6]
 
 Cell work showing L-theanine promoting endothelial nitric-oxide production is a plausible "steadier pressure" mechanism—not a home blood-pressure prescription.[^2]
 :::
+
+## A bridge into Chapter 4
 
 This hormone thread also reaches forward into Chapter 4: when stress hormones rise, people can become more aggressive risk seekers in some lab settings. Softened loss aversion under pressure is one of the bridges on the [Linkages](../../linkages.qmd) page.
 
 Hormones are still somewhat invisible. What can you see on the outside of the body?
 
 
+## Story in one minute
+
+Stress runs the HPA loop toward cortisol and related signals. Caffeine can push that loop; habitual intake blunts caffeine-driven cortisol spikes incompletely. L-theanine is studied for keeping heart rate, blood pressure, salivary stress enzymes, and subjective stress nearer baseline under load. Pack tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here: Yoto is BP/mood; Lovallo is caffeine–cortisol adaptation.
+
+## What this means when you drink tea
+
+- "I adapted to coffee" ≠ "stress no longer raises cortisol."[^5]
+- L-theanine stress findings are often **task** or **real-life stress** designs (Kimura arithmetic; Unno pharmacy practice)—not magic on a sofa.[^1][^4]
+- Vessel/BP talk is supportive physiology, not a treatment plan.[^2][^3]
+
+::: {.callout-note collapse="true" title="More detail: which paper answers which question?"}
+| Question | Better primary trail |
+| --- | --- |
+| Does L-theanine reduce HR / stress markers under acute lab stress? | Kimura et al. (2007)[^1] |
+| Does L-theanine blunt BP / tension under mental tasks? | Yoto et al. (2012)[^3] |
+| Does multi-day theanine change sAA / subjective stress in real student stress? | Unno et al. (2013)[^4] |
+| Does daily caffeine blunt caffeine-driven cortisol? | Lovallo et al. (2005) — reduced, not eliminated[^5] |
+| Do reviews stay cautious? | Williams et al. (2020)[^6] |
+
+Keeping the question matched to the paper is how this course stays honest when secondary tables blur together.
+:::
+
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 2.3"}
+1. HPA → cortisol; caffeine can push it.
+2. Habituation ≠ zero stress chemistry.[^5]
+3. L-theanine evidence is marker- and setting-specific.[^1][^3][^4]
+4. Correct pack/paper mismatches when you see them.
+5. Next: body meters you can measure without a hormone assay.
+:::
+
 
 ---
 
 **Navigate:** [↑ Module 2 hub](index.qmd) · [← Previous](02-brainwaves.qmd) · [Next →](04-body-signals.qmd)
 
-
-
 [^1]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
 
 [^2]: Siamwala, J. H., et al. (2013). L-Theanine promotes nitric oxide production in human endothelial cells via eNOS phosphorylation. *Journal of Nutritional Biochemistry, 24*(3), 595–605.
 
-[^3]: Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine consumption on the ability to manage stress and anxiety levels: A systematic review. *Plant Foods for Human Nutrition, 75*(1), 12–23.
+[^3]: Yoto, A., Motoki, M., Murao, S., & Yokogoshi, H. (2012). Effects of L-theanine or caffeine intake on changes in blood pressure under physical and psychological stresses. *Journal of Physiological Anthropology, 31*, 28. https://doi.org/10.1186/1880-6805-31-28
 
-[^4]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+[^4]: Unno, K., et al. (2013). Anti-stress effect of theanine on students during pharmacy practice: positive correlation among salivary α-amylase activity, trait anxiety and subjective stress. *Pharmacology Biochemistry and Behavior, 111*, 128–135. https://doi.org/10.1016/j.pbb.2013.09.004
 
+[^5]: Lovallo, W. R., et al. (2005). Caffeine stimulation of cortisol secretion across the waking hours in relation to caffeine intake levels. *Psychosomatic Medicine, 67*(5), 734–739. https://doi.org/10.1097/01.psy.0000181270.20036.06
+
+[^6]: Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine consumption on the ability to manage stress and anxiety levels: A systematic review. *Plant Foods for Human Nutrition, 75*(1), 12–23.
+
+[^7]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83

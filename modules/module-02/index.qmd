@@ -27,12 +27,12 @@ Superscript numbers are clickable footnotes (jump to the source, caret jumps bac
 
 ## The four lessons
 
-Each sitting is one pack branch—the same four-way split as the owner's source packs. Read in order for the full story, or hop to the lesson you need.
+Each sitting is one pack branch—the same four-way split as the owner's source packs. These lessons are written as **full sittings** (mechanism story + study snapshots + collapsed foldouts + clickable footnotes), not stubs. Read in order for the dual-story arc, or hop to the lesson you need.
 
-1. **[Gas pedals, brakes, and a busy road](01-brain-action.qmd)**
-2. **[Listening to the brain's tempo](02-brainwaves.qmd)**
-3. **[When the fire alarm rings](03-stress-hormones.qmd)**
-4. **[What the body quietly admits](04-body-signals.qmd)**
+1. **[Gas pedals, brakes, and a busy road](01-brain-action.qmd)** — caffeine, L-theanine, alcohol at the synapse; GABA-slogan myth.
+2. **[Listening to the brain's tempo](02-brainwaves.qmd)** — alpha/beta/theta; rest vs load; timing clocks.
+3. **[When the fire alarm rings](03-stress-hormones.qmd)** — HPA, cortisol adaptation, stress markers (with pack/paper honesty notes).
+4. **[What the body quietly admits](04-body-signals.qmd)** — HRV, pupils, skin conductance; wired has a skin signature.
 
 **Start with lesson 1:** [Gas pedals, brakes, and a busy road](01-brain-action.qmd)
 
