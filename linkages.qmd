@@ -8,9 +8,13 @@ The four chapters can be read as separate rooms. This page is the hallway betwee
 
 No new links were invented. Citations stay the same. Think of each bridge as a thread someone pulls, and suddenly two chapters lean toward each other.
 
-For fuller Wikipedia-style numbered lists with URLs and DOIs, open each chapter's end-of-page **References** section.
+For fuller citations with URLs and DOIs, open each chapter and use its **clickable footnotes** (tap the number, then the caret to return; hover often shows a popup). Denser side-detail sits in collapsed "More detail…" foldouts.
 
 **Warmth caveat (from Chapter 3's fact-check):** the opening-trust nudge from a warm mug is real in some cited designs, but large replications of the classic gift-choice warmth effect have often failed—so treat bridge 2 as a careful hint, not a negotiation trick.
+
+::: {.callout-note collapse="true" title="Click for more detail: how to use these eleven bridges"}
+Each bridge is a hallway, not a new claim. Follow the plain connection into the named chapters, then use chapter footnotes for DOIs/URLs. Where a pack still listed Brooks et al. (2016) on ritual anxiety, this page now points to Hobson reviews instead—the Brooks article was **retracted in 2024**.
+:::
 
 You do not have to memorize all eleven. Pick the question you actually have—“why wait after drinking?” “does mug temperature matter?”—and follow that thread into the chapters and the bibliography.
 
@@ -44,7 +48,7 @@ When stress hormones rise, people can become more aggressive risk seekers in som
 
 A fixed tea-making sequence is not only cultural (Chapter 3). It is linked with higher HRV (about **+15.4 ms** on one common HRV index in an L-theanine task study) and lower stress arousal. Ritual steps plus tea compounds can point in the same “calmer control” direction—hands busy, heart a little freer.
 
-**Citations:** Brooks et al. (2016); Lang et al. (2015); Kimura et al. (2007)
+**Citations:** Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) — *Brooks et al. (2016) omitted after 2024 retraction*
 
 ### 6. Softening noisy excitement, sustaining attention
 
@@ -74,7 +78,7 @@ Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong pres
 
 Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 3). The packs discuss that alongside fewer hyper-aggressive rejections of unfair offers (Chapter 4 ultimatum patterns). Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
 
-**Citations:** Hobson et al. (2017); Brooks et al. (2016); Morewedge et al. (2014)
+**Citations:** Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) — *Brooks et al. (2016) omitted after 2024 retraction*
 
 ### 11. Why Assam leaves love a dark cup
 
@@ -92,12 +96,12 @@ Higher catechin levels in *assamica* (about **25%–35%** dry weight) give more 
 | Warm cup → trust-game sending | Warm (~**60°C**) cup; about **+24.8%** first-mover trust in cited work | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
 | Brew temperature → EGCG in the cup | Well below **80°C** tends to lower EGCG-to-caffeine ratio | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
 | Stress cortisol → risk taking | Softer loss aversion (λ around **1.62** in one caffeine study) under pressure | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
-| Brewing ritual → calmer heart rhythm | Higher HRV (about **+15.4 ms** on one index in an L-theanine task study) | Brooks et al. (2016); Lang et al. (2015); Kimura et al. (2007) |
+| Brewing ritual → calmer heart rhythm | Higher HRV (about **+15.4 ms** on one index in an L-theanine task study) | Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) |
 | L-theanine calming excitation → careful attention | Softened excess glutamate signaling; better sustained attention on hard tasks | Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008) |
 | Caffeine alertness → sweaty stress signal | About **+0.88 µS** skin conductance for caffeine alone in one comparison | Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008) |
 | Eisai’s “nourishes the heart” → vagal tone | 1211 phrase beside modern calming HRV tone findings | Eisai (1211); Sen (1998); Kimura et al. (2007) |
 | Alcohol’s slowing of the brain → living for now | Inhibitory signaling boost linked with strong present bias | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
-| Ritual calms anxiety → fairer bargaining reactions | Blunted error-alarm / lower anxiety discussed with less hyper-aggressive unfair-offer rejection | Hobson et al. (2017); Brooks et al. (2016); Morewedge et al. (2014) |
+| Ritual calms anxiety → fairer bargaining reactions | Blunted error-alarm / lower anxiety discussed with less hyper-aggressive unfair-offer rejection | Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) |
 | Assam chemistry → darker black tea | About **25%–35%** dry-weight catechins as raw material for dark pigments | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |
 
 From any thread, you can step back into the [Modules overview](modules/index.qmd) or into the [Bibliography](bibliography.qmd) for the papers behind the names.

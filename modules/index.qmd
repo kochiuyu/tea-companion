@@ -6,7 +6,7 @@ Imagine this site as a short trip with four stops—and each stop is now a fulle
 
 You begin in a garden and a kitchen—plants, processing, and a mug. You travel inward into the body and brain. You climb out again into history, monasteries, warm hands, and ritual. You end in a lab where people play careful games about risk and trust. Each stop answers a question the previous stop left hanging.
 
-Nothing here requires a science degree. Each chapter opens with a hook, walks you through the facts in story order, cites sources with numbered markers, and leaves a door open to the next chapter.
+Nothing here requires a science degree. Each chapter opens with a hook, walks you through the facts in story order, cites sources with **clickable footnotes**, tucks denser detail into **collapsed foldouts**, and leaves a door open to the next chapter.
 
 ## The itinerary
 
@@ -43,3 +43,9 @@ No. [Chapter 3](module-03.qmd) is the zoom-out: trade, monasteries, warm mugs, b
 [Chapter 4](module-04.qmd)—with the packs' caveats that lab doses are not your everyday mug.
 
 When you are ready to begin at the beginning, open [Chapter 1](module-01.qmd). The water is already hot.
+
+
+::: {.callout-tip collapse="true" title="Click for more detail: footnotes and foldouts"}
+- **Footnotes:** superscript numbers jump to the full citation; the caret jumps back. Hover often pops the note.
+- **Foldouts:** boxes titled "More detail…" or "Click for more detail" stay closed until you open them—so the main story stays readable while the expansion stays one click away.
+:::

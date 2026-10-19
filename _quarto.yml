@@ -47,3 +47,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    footnotes-hover: true
+    reference-location: document
