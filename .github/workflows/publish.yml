@@ -1,0 +1,51 @@
+# Render Quarto site and deploy to GitHub Pages on every push to main.
+# One-time repo setup (you do this in GitHub Settings — this agent does not change settings):
+#   1. Settings → Pages → Build and deployment → Source: GitHub Actions
+#   2. Settings → Actions → General → Workflow permissions: Read and write permissions
+#      (needed so the workflow can write the Pages deployment)
+# Site URL after first successful run: https://kochiuyu.github.io/tea-companion/
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+name: Quarto Publish
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Quarto project
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
