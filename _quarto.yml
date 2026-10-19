@@ -37,6 +37,18 @@ project:
     - zh-hans/tea-basics.qmd
     - zh-hans/cup-reference.qmd
     - zh-hans/glossary.qmd
+    - zh-hant-hk/modules/index.qmd
+    - zh-hant-hk/modules/module-01/index.qmd
+    - zh-hant-hk/modules/module-01/01-plants.qmd
+    - zh-hant-hk/modules/module-01/02-processing.qmd
+    - zh-hant-hk/modules/module-01/03-brewing.qmd
+    - zh-hant-hk/modules/module-01/04-compounds.qmd
+    - zh-hans/modules/index.qmd
+    - zh-hans/modules/module-01/index.qmd
+    - zh-hans/modules/module-01/01-plants.qmd
+    - zh-hans/modules/module-01/02-processing.qmd
+    - zh-hans/modules/module-01/03-brewing.qmd
+    - zh-hans/modules/module-01/04-compounds.qmd
 
 website:
   title: "Tea, Caffeine & Decision Companion"

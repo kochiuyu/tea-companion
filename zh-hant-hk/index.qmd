@@ -6,11 +6,11 @@ lang: zh-Hant-HK
 {{< include ../_includes/lang-switcher/home.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd)
+**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [模組總覽](modules/index.qmd) · [模組一](modules/module-01/index.qmd)
 :::
 
 ::: {.callout-important}
-**以下單元暫以英文提供：** [四大模組](../modules/index.qmd)、[連結橋樑](../linkages.qmd)、[參考文獻](../bibliography.qmd)。中文版會在往後階段陸續翻譯。
+**模組一已有中文版**（[化學核心](modules/module-01/index.qmd)）。模組二至四、[連結橋樑](../linkages.qmd)、[參考文獻](../bibliography.qmd)暫以英文提供。
 :::
 
 你把熱水倒在一把茶葉上。蒸汽升起。水色漸漸變深——有時是綠金色，有時是深琥珀色——房間裡瀰漫一種又銳利又柔和的香氣。大約二十分鐘後，你會覺得清醒一點。有時，心裡也會平靜一點。咖啡同樣能提神。那為甚麼*茶*常常帶來另一種清醒感？
@@ -27,7 +27,7 @@ lang: zh-Hant-HK
 | --- | --- |
 | **標籤** — *English Breakfast*、*煎茶*、*抹茶*、茶包與散茶通常指甚麼 | [茶葉入門](tea-basics.qmd) |
 | **數字** — 一杯約 250 mL 裡常見的毫克數 | [杯量參考](cup-reference.qmd) |
-| **完整故事** — 四大模組、十六課（英文） | [模組總覽](../modules/index.qmd) |
+| **完整故事** — 四大模組、十六課（模組一已有中文） | [模組總覽](modules/index.qmd) |
 
 ## 這趟旅程在講甚麼
 
@@ -39,12 +39,12 @@ lang: zh-Hant-HK
 
 ## 四大模組（一覽）
 
-1. **[化學核心](../modules/module-01/index.qmd)**（英文）— 植物 · 加工 · 沖泡 · 化合物
+1. **[化學核心](modules/module-01/index.qmd)** — 植物 · 加工 · 沖泡 · 化合物
 2. **[身體、大腦與心情](../modules/module-02/index.qmd)**（英文）— 腦部作用 · 腦波 · 壓力荷爾蒙 · 身體訊號
 3. **[歷史、儀式與溫暖](../modules/module-03/index.qmd)**（英文）— 貿易史 · 寺院之路 · 溫暖與信任 · 儀式與壓力
 4. **[決策與選擇](../modules/module-04/index.qmd)**（英文）— 雙重歷程 · 風險與等待 · 信任遊戲 · 研究規程
 
-十六課的完整課表見 [模組總覽](../modules/index.qmd)（英文）。
+十六課的完整課表見 [模組總覽](modules/index.qmd)（模組一中文；其餘暫英文）。
 
 ## 怎樣與本站同行
 
@@ -62,4 +62,4 @@ lang: zh-Hant-HK
 
 我們**不會**發明新的百分比、機制、歷史數字或研究結果。我們**不會**貼上一整牆實驗室方程式。這裡的一切都應能追溯到已核實的資料包，或我們打開並列出的來源。這種誠實本身就是故事的一部分：好奇，但不戴假珠寶。
 
-準備好了嗎？先倒一杯想像中的茶——若標籤令人困惑，從 [茶葉入門](tea-basics.qmd) 開始，再到 [模組一：化學核心](../modules/module-01/index.qmd)（英文）——或先瀏覽 [路線圖](../modules/index.qmd)（英文）。
+準備好了嗎？先倒一杯想像中的茶——若標籤令人困惑，從 [茶葉入門](tea-basics.qmd) 開始，再到 [模組一：化學核心](modules/module-01/index.qmd)——或先瀏覽 [路線圖](modules/index.qmd)。

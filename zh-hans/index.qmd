@@ -6,11 +6,11 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/home.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [模块总览](modules/index.qmd) · [模块一](modules/module-01/index.qmd)
 :::
 
 ::: {.callout-important}
-**以下单元暂以英文提供：** [四大模块](../modules/index.qmd)、[联结桥梁](../linkages.qmd)、[参考文献](../bibliography.qmd)。中文版会在后续阶段陆续翻译。
+**模块一已有中文版**（[化学核心](modules/module-01/index.qmd)）。模块二至四、[联结桥梁](../linkages.qmd)、[参考文献](../bibliography.qmd)暂以英文提供。
 :::
 
 你把热水倒在一把茶叶上。蒸汽升起。水色渐渐变深——有时是绿金色，有时是深琥珀色——房间里弥漫一种又锐利又柔和的香气。大约二十分钟后，你会觉得清醒一点。有时，心里也会平静一点。咖啡同样能提神。那为什么*茶*常常带来另一种清醒感？
@@ -27,7 +27,7 @@ lang: zh-Hans
 | --- | --- |
 | **标签** — *English Breakfast*、*煎茶*、*抹茶*、茶包与散茶通常指什么 | [茶叶入门](tea-basics.qmd) |
 | **数字** — 一杯约 250 mL 里常见的毫克数 | [杯量参考](cup-reference.qmd) |
-| **完整故事** — 四大模块、十六课（英文） | [模块总览](../modules/index.qmd) |
+| **完整故事** — 四大模块、十六课（模块一已有中文） | [模块总览](modules/index.qmd) |
 
 ## 这趟旅程在讲什么
 
@@ -39,12 +39,12 @@ lang: zh-Hans
 
 ## 四大模块（一览）
 
-1. **[化学核心](../modules/module-01/index.qmd)**（英文）— 植物 · 加工 · 冲泡 · 化合物
+1. **[化学核心](modules/module-01/index.qmd)** — 植物 · 加工 · 冲泡 · 化合物
 2. **[身体、大脑与心情](../modules/module-02/index.qmd)**（英文）— 脑部作用 · 脑波 · 压力激素 · 身体讯号
 3. **[历史、仪式与温暖](../modules/module-03/index.qmd)**（英文）— 贸易史 · 寺院之路 · 温暖与信任 · 仪式与压力
 4. **[决策与选择](../modules/module-04/index.qmd)**（英文）— 双加工 · 风险与等待 · 信任游戏 · 研究规程
 
-十六课的完整课表见 [模块总览](../modules/index.qmd)（英文）。
+十六课的完整课表见 [模块总览](modules/index.qmd)（模块一中文；其余暂英文）。
 
 ## 怎样与本站同行
 
@@ -62,4 +62,4 @@ lang: zh-Hans
 
 我们**不会**发明新的百分比、机制、历史数字或研究结果。我们**不会**贴上一整墙实验室方程序。这里的一切都应能追溯到已核实的资料包，或我们打开并列出的来源。这种诚实本身就是故事的一部分：好奇，但不戴假珠宝。
 
-准备好了吗？先倒一杯想像中的茶——若标签令人困惑，从 [茶叶入门](tea-basics.qmd) 开始，再到 [模块一：化学核心](../modules/module-01/index.qmd)（英文）——或先浏览 [路线图](../modules/index.qmd)（英文）。
+准备好了吗？先倒一杯想像中的茶——若标签令人困惑，从 [茶叶入门](tea-basics.qmd) 开始，再到 [模块一：化学核心](modules/module-01/index.qmd)——或先浏览 [路线图](modules/index.qmd)。

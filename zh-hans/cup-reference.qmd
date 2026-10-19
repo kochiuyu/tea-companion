@@ -10,7 +10,7 @@ lang: zh-Hans
 :::
 
 ::: {.callout-important}
-**以下单元暂以英文提供：** [模块一 · 冲泡](../modules/module-01/03-brewing.qmd)、[化合物](../modules/module-01/04-compounds.qmd)、[模块总览](../modules/index.qmd)。
+**模块一已有中文版：** [冲泡](modules/module-01/03-brewing.qmd)、[化合物](modules/module-01/04-compounds.qmd)、[模块总览](modules/index.qmd)。模块二至四暂以英文提供。
 :::
 
 在模块一谈植物与加工、模块二谈你*感觉*如何之前，先搞清楚“一杯”到底指什么，很有帮助。口语里人人都说这句话；实验室与家用厨房的浓度却可以差很远。若*盒子上的字*仍觉得跟化学对不上，先扫一眼 [茶叶入门](tea-basics.qmd)（货架标签 → 加工路径），再回到这里看毫克数。
@@ -19,7 +19,7 @@ lang: zh-Hans
 
 ## 为什么数字会变动
 
-茶叶质量、品牌与浸泡时间都会推动数字。绿茶与红茶也因加工而不同（见 [模块一 · 冲泡](../modules/module-01/03-brewing.qmd) 与 [化合物](../modules/module-01/04-compounds.qmd)，英文）：许多儿茶素在绿茶里仍较“简单”；在红茶里许多连成较深色的色素，因此杯中的 EGCG 与总儿茶素通常低得多 [^1][^2]。
+茶叶质量、品牌与浸泡时间都会推动数字。绿茶与红茶也因加工而不同（见 [模块一 · 冲泡](modules/module-01/03-brewing.qmd) 与 [化合物](modules/module-01/04-compounds.qmd)，英文）：许多儿茶素在绿茶里仍较“简单”；在红茶里许多连成较深色的色素，因此杯中的 EGCG 与总儿茶素通常低得多 [^1][^2]。
 
 下表采用常见家用基准：**每 250 mL 约 2 g 干叶**（一包茶包或一小匙）。正式品评（ISO 3103）约用 **每 100 mL 2 g**（约等于 **每 250 mL 5 g**）——比许多家用杯更浓。
 
@@ -63,7 +63,7 @@ Keenan 团队在真实 **200 mL** 杯、**两分钟**浸泡后量度过 L-茶氨
 当模块二说“**200 mg** L-茶氨酸”时，对照本页：典型绿茶杯约 **15–30 mg**（遮荫玉露／抹茶常 **45–80 mg**）。实验室胶囊往往比平常一杯浓很多。
 :::
 
-从这里，自然下一步是 [模块一入口](../modules/module-01/index.qmd)（英文）——那些数字一开始如何进到水里。仍搞不清 *sencha* 与 *English Breakfast*？打开 [茶叶入门](tea-basics.qmd)。
+从这里，自然下一步是 [模块一入口](modules/module-01/index.qmd)——那些数字一开始如何进到水里。仍搞不清 *sencha* 与 *English Breakfast*？打开 [茶叶入门](tea-basics.qmd)。
 
 [^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
 

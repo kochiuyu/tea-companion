@@ -10,12 +10,12 @@ lang: zh-Hans
 :::
 
 ::: {.callout-important}
-**以下单元暂以英文提供：** [模块一：化学核心](../modules/module-01/index.qmd)、[联结桥梁](../linkages.qmd)、[参考文献](../bibliography.qmd)。
+**模块一已有中文版：** [模块一：化学核心](modules/module-01/index.qmd)。[联结桥梁](../linkages.qmd)、[参考文献](../bibliography.qmd)暂以英文提供。
 :::
 
 你站在超市货架前。盒子上写着 *English Breakfast*、*Earl Grey*、*绿茶*、*洋甘菊*、*抹茶*。咖啡店餐牌再加上 *煎茶*、*乌龙*、*阿萨姆*。伴侣章节开始谈 *Camellia sinensis*、氧化与儿茶素。这些日常标签怎样连起来？
 
-本页是**桥梁**。它不是第二本化学课本，也不是购物指南。它把常见商品名称对应到 [模块一](../modules/module-01/index.qmd)（英文）所用的植物与加工概念——这样当模块一说“绿茶对红茶”时，你已经知道超市盒子大概指什么。
+本页是**桥梁**。它不是第二本化学课本，也不是购物指南。它把常见商品名称对应到 [模块一](modules/module-01/index.qmd)所用的植物与加工概念——这样当模块一说“绿茶对红茶”时，你已经知道超市盒子大概指什么。
 
 课文章节术语（*HPA 轴*、*ERN*、*BART*）请用 [词汇表](glossary.qmd)。一杯约 250 mL 的典型毫克数请用 [杯量参考](cup-reference.qmd)。当货架上的标签感觉跟故事脱节时，用**这一页**。
 
@@ -92,7 +92,7 @@ lang: zh-Hans
 | 你看到的标签 | 通常指什么 | 链回本站 |
 | --- | --- | --- |
 | **English Breakfast** | 为早上浓杯而选的**红茶拼配**（常含阿萨姆及／或其他厚实红茶；配方因品牌而异） | 红茶加工路径；咖啡因常靠向日常杯的高位——见 [杯量参考](cup-reference.qmd) |
-| **Assam（阿萨姆）** | 印度东北部阿萨姆的红茶；常麦芽味、浓；该区是大叶 *assamica* 类型的家乡故事 | 中国型 vs 阿萨姆型见 [模块一](../modules/module-01/index.qmd) |
+| **Assam（阿萨姆）** | 印度东北部阿萨姆的红茶；常麦芽味、浓；该区是大叶 *assamica* 类型的家乡故事 | 中国型 vs 阿萨姆型见 [模块一](modules/module-01/index.qmd) |
 | **Darjeeling（大吉岭）** | 喜马拉雅山麓大吉岭的茶；常细致、高海拔；多作红茶卖，有些批次氧化偏轻 | 地理＋加工；不是另一物种 |
 | **Earl Grey** | 通常是**用香柠檬（佛手柑）加味的红茶**；底子仍是茶树红茶 | 在红路径之上加味——不是新植物 |
 | **Ceylon／Kenyan** | 以产地命名的红茶（斯里兰卡；肯尼亚）——拼配常见建材 | 产地标签 ≠ 不同物种 |
@@ -126,7 +126,7 @@ lang: zh-Hans
 
 **资料包的诚实：**“阿萨姆一定咖啡因高很多”太武断。平均往往偏向 *assamica* 较高，但遮荫、肥料与采哪片叶可以翻转单次比较。[^10] 模块一会带数字讲这个 caveat；本页只需地图。
 
-→ 完整故事：[第 1.1 课 — 两种植株，一个物种](../modules/module-01/01-plants.qmd)（英文）
+→ 完整故事：[第 1.1 课 — 两种植株，一个物种](modules/module-01/01-plants.qmd)
 
 ---
 
@@ -159,7 +159,7 @@ lang: zh-Hans
 把本站当成三层巢状地图来读：
 
 1. **茶叶入门（本页）** — *盒子上的字*通常指什么。
-2. **[模块一](../modules/module-01/index.qmd)（英文）** — *叶与厂房*在化学上做什么（中国／阿萨姆型；停 vs 跑氧化；冲泡；咖啡因、L-茶氨酸、EGCG）。
+2. **[模块一](modules/module-01/index.qmd)** — *叶与厂房*在化学上做什么（中国／阿萨姆型；停 vs 跑氧化；冲泡；咖啡因、L-茶氨酸、EGCG）。
 3. **[杯量参考](cup-reference.qmd)** — 在资料包冲泡基准下，*一杯 250 mL 的典型毫克数*。
 
 许多读者喜欢的短路径：
@@ -174,7 +174,7 @@ lang: zh-Hans
 
 ## 下一步去哪里
 
-对茶标签还新？你来对地方了。准备好看那些标签底下的化学故事？开始 [模块一：化学核心](../modules/module-01/index.qmd)（英文）。想先看标准杯的数字？打开 [杯量参考](cup-reference.qmd)。
+对茶标签还新？你来对地方了。准备好看那些标签底下的化学故事？开始 [模块一：化学核心](modules/module-01/index.qmd)。想先看标准杯的数字？打开 [杯量参考](cup-reference.qmd)。
 
 [^1]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html (Notes that herbal teas are made from leaves of other plants and should name the plant.)
 
@@ -184,7 +184,7 @@ lang: zh-Hans
 
 [^4]: Wong, M., et al. (2022). Phytochemical profile of differently processed tea: A review. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.16137 (Green / white / oolong / black / pu-erh as processing categories.)
 
-[^5]: Source packs (Module 1 verification): ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See also Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [模块一](../modules/module-01/index.qmd).
+[^5]: Source packs (Module 1 verification): ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See also Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [模块一](modules/module-01/index.qmd).
 
 [^6]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark) sorted by processing and oxidation—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
@@ -194,7 +194,7 @@ lang: zh-Hans
 
 [^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Pack-cited naming frame for China-type vs Assam-type talk.)
 
-[^10]: Pack Module 1 verification note on caffeine averages vs growing conditions; Takeda (1994) cultivar survey as used in [模块一](../modules/module-01/index.qmd).
+[^10]: Pack Module 1 verification note on caffeine averages vs growing conditions; Takeda (1994) cultivar survey as used in [模块一](modules/module-01/index.qmd).
 
 [^11]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html (Formal ~2 g / 100 mL vs everyday ~2 g / 250 mL baseline on Cup reference.)
 

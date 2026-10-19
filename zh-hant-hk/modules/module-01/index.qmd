@@ -1,0 +1,134 @@
+---
+title: "1. 化學核心"
+lang: zh-Hant-HK
+---
+
+{{< include ../../../_includes/lang-switcher/module-01.zh-hant-hk.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../index.qmd) · [模組一](index.qmd)
+:::
+
+::: {.callout-important}
+**模組一已有中文版。** 模組二至四、[連結橋樑](../../../linkages.qmd)、[參考文獻](../../../bibliography.qmd)暫以英文提供。
+:::
+
+這裡有一個幾乎每個喝茶的人都經歷過的小謎題。
+
+你買了兩盒。兩邊都寫着「茶」。一盒倒出來淡而帶草青；另一盒深而帶麥芽。一盒讓你輕輕清醒；另一盒可以感覺更強，更「接近咖啡」。同一個貨架。標籤上同一個字。那麼改變了甚麼——是植物、廠房，還是你浸泡的方式？
+
+::: {.callout-tip}
+**對茶標籤還新？** 先從 **[茶葉入門](../../tea-basics.qmd)** 開始——短短的貨架到杯子地圖（*English Breakfast*、*抹茶*、茶包 vs 散茶，以及花草「茶」通常指甚麼）——再回來這裡看化學。
+:::
+
+本章按順序回答那個問題——用白話廚房語言。首先認識幾乎所有商品茶背後的**茶樹**（一個物種，兩種日常葉的性格）。然後看着採摘之後發生甚麼——製茶人要麼**停住**葉子褐變（綠茶），要麼**讓**它在空氣中褐變（紅茶）。接着看着熱水像選擇性的萃取器：有些客人早早離開葉子；有一位需要更多熱與時間。最後認識三位按不同時鐘到來的具名客人：**咖啡因**（提神）、**L-茶胺酸**（平靜專注），以及 **EGCG（綠茶裡最突出的植物化合物）**。
+
+**讀故事；只有好奇時才打開「更多詳情」。** 要跟上打開的故事，你**不需要**拉丁變種名、酶標籤、分子式或密密的劑量表。那些細節住在摺疊的**「更多詳情」**裡。點腳註標記跳到來源，再點箭嘴跳回。滑鼠懸停也常會彈出摘要。
+
+讀完你會明白，為甚麼「我杯裡有甚麼？」不是一個數字——以及為甚麼那一杯為第 2 章（吞下之後）的一切鋪路。
+
+::: {.callout-tip title="這趟旅程的日常詞"}
+- **茶樹** — 幾乎所有商品茶背後的灌木（摺疊裡有實驗室名）。
+- **停住褐變／讓它褐變** — 令同一片葉變成綠或紅的廠房分叉。
+- **萃取** — 熱（或冷）水把化合物從葉拉進你的杯子。
+- **三位客人** — 提神（咖啡因）、平靜專注（L-茶胺酸），以及綠茶裡最突出的植物化合物（EGCG）。
+:::
+
+::: {.callout-tip collapse="true" title="更多詳情：摺疊裡你可能遇到的實驗室詞"}
+- **Camellia sinensis** — 茶樹物種。
+- **中國型／阿薩姆型** — 兩大主要植株風格（平均上較小、較涼的山丘 vs 較大、較暖的低地）。
+- **氧化／PPO** — 葉酶＋空氣令葉子變深；熱可以把那些酶鎖死。
+- **兒茶素／茶黃素／茶紅素** — 簡單的綠茶化合物 vs 較深的紅茶色素。
+- **EGCG** — epigallocatechin-3-gallate 的簡寫；綠茶裡最突出的兒茶素。
+:::
+
+::: {.callout-note collapse="true" title="怎樣讀本章（腳註＋摺疊）"}
+兩個導航技巧讓故事保持輕盈：
+
+1. **腳註。** 上標數字是真正的連結。點一下跳到完整引用（作者、年份、標題、DOI／URL）。點註旁的箭嘴跳回句子。在許多瀏覽器上，懸停會彈出摘要。
+2. **摺疊。** 標題為「更多詳情…」或「點開更多詳情」的方框預設關閉。主線故事保持可讀；較密的研究快照、表格與支線故事住在裡面。
+
+兩個技巧都不發明事實。它們只改變有多少細節放在打開的頁面上。
+:::
+
+## 四課
+
+每一坐對應資料包的一個分支。打開的頁面保持白話；想要化學深度時再打開摺疊。
+
+1. **[兩個植物性格，同一物種](01-plants.qmd)** — 中國型 vs 阿薩姆型作為日常葉的性格；園藝細則；貨架橋樑。
+2. **[路上的分叉：停住褐變，或讓它跑](02-processing.qmd)** — 廚房裡「停住褐變」vs「讓它褐變」；烏龍中間路；發酵迷思。
+3. **[沖泡實際上做甚麼](03-brewing.qmd)** — 熱水作為選擇性萃取器；時間、溫度、葉量；茶包 vs 散茶直覺。
+4. **[杯裡的三位角色](04-compounds.qmd)** — 三位客人按不同時鐘；杯子 vs 膠囊；「不是即時禪」。
+
+**從第 1 課開始：** [兩個植物性格，同一物種](01-plants.qmd)
+
+## 飲者的田野指南（仍以事實為本）
+
+離開化學核心之前，這裡有一份短指南——平日早上可以放在腦裡那種。密密的數字住在下面的摺疊；打開的清單保持實用。
+
+**若你想要草青、偏植物化合物：** 選綠（或輕微褐變）茶，用熱但不是滾沸的水泡綠，並給較慢的客人時間溶解——又不要把杯子煮成苦澀。[^1]
+
+**若你想要麥芽與體感：** 選紅茶。你是故意選「讓它褐變」的廠房路徑——較深的色素就是口感的製造者。[^2]
+
+**若你既在乎平靜專注，也在乎提神：** 記得普通杯子送出的 L-茶胺酸是**數十毫克**，不是許多實驗室試驗用的 **100–200 mg** 膠囊。[^3][^4] 抹茶或遮蔭綠茶可以更高；快速的紅茶包通常茶胺酸較低、較偏「熟悉的咖啡因」一邊（見 [杯量參考](../../cup-reference.qmd)）。
+
+**若有人說冷泡沒有咖啡因：** 微笑，然後記得時鐘。冷只會減慢咖啡因離開葉子；不會刪掉它。[^5] 時間才是真正的變量。
+
+**若有人說阿薩姆一定把中國型咖啡因加倍：** 記得品種調查與資料包的反例。平均偏向阿薩姆較高；園藝與採摘標準寫下細則。[^6]
+
+**若你想要品評實驗室那種濃度：** 實驗室感官杯往往比許多家用杯更濃。[^7] [杯量參考](../../cup-reference.qmd) 堅持日常基準，免得實驗室與廚房混在一起。
+
+以上都不是醫療建議。那是植物化學遇上水壺——並附上你可以核對的來源。
+
+::: {.callout-note collapse="true" title="更多詳情：田野指南背後的數字"}
+- 綠茶萃取研究描繪溫度與時間如何改變兒茶素與咖啡因回收；熱與時間推得太遠，可以毀掉你希望抽出的化合物。[^1]
+- 紅茶色素（茶黃素 → 茶紅素）在製茶人讓酶遇上空氣時形成。[^2]
+- Keenan 等人量度過真實杯裡的 L-茶胺酸；Owen 等人在認知試驗裡用已知毫克數的膠囊。[^3][^4]
+- 浸泡動力學：冷減慢咖啡因離開；不會刪掉它。[^5]
+- Takeda 的品種調查：阿薩姆組平均咖啡因高於中國組——仍不是任何一罐的保證。[^6]
+- ISO 3103（感官製備）用約 **2 g 葉／100 mL** 沸水——大約 **5 g／250 mL**——比許多家用約 **2 g／250 mL** 的杯子更濃。[^7]
+:::
+
+## 往前看
+
+你現在知道植物怎樣變成一杯，以及哪三位角色通常搶鏡頭。下一章正好從本章停的地方接上：**在你吞下之後**。為甚麼茶常常感覺與咖啡不同？腦波、壓力荷爾蒙與身體訊號實際上顯示甚麼？
+
+準備好時打開 [第 2 章：身體、大腦與心情](../../../modules/module-02/index.qmd)（英文）——化合物已經開始它們的旅程。
+
+::: {.callout-tip collapse="true" title="點開更多詳情：一頁化學檢查清單"}
+- 同一物種，兩大主要植株風格：中國型 vs 阿薩姆型平均有別，園藝決定細則。[^8][^6]
+- 綠 vs 紅多半是**加工分叉**（用熱殺死褐變酶 vs 讓氧化跑），不是普通商品茶裡的不同植物。[^9][^2][^10]
+- 沖泡是萃取：咖啡因與 L-茶胺酸容易出來；EGCG 想要更多熱／時間，煮過頭又會降解。[^5][^3][^1]
+- 三位客人，三個時鐘：咖啡因以小時計，L-茶胺酸以數十分鐘計，EGCG 介乎其間——所以「我剛喝了一口」≠ 峰值效應。[^11][^12][^13]
+- 實驗室膠囊（例如 100–200 mg L-茶胺酸）不是超市茶包杯子；核對 [杯量參考](../../cup-reference.qmd)。[^3][^4]
+:::
+
+---
+
+**導航：** [← 模組總覽](../index.qmd) · [第一課 →](01-plants.qmd) · [模組二入口 →](../../../modules/module-02/index.qmd)（英文）
+
+[^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
+
+[^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205. (Title abbreviated in some pack lists as chemical features of theaflavins/thearubigins.)
+
+[^3]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
+
+[^4]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
+
+[^5]: Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion: Kinetics of extraction of caffeine and theaflavins. *Journal of the Science of Food and Agriculture, 33*(4), 333–340.
+
+[^6]: Takeda, Y. (1994). Differences in caffeine and tannin contents between tea cultivars, and application to tea breeding. *Japan Agricultural Research Quarterly, 28*(2), 117–123. https://www.jircas.go.jp/en/publication/jarq/28/2/117
+
+[^7]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html
+
+[^8]: Wight, W. (1959). Nomenclature and classification of the tea plant. *Nature, 183*(4677), 1726–1728. https://doi.org/10.1038/1831726a0
+
+[^9]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Enzymatic browning in tea: Polyphenol oxidase and peroxidase. *Journal of the Science of Food and Agriculture, 79*(11), 1431–1436.
+
+[^10]: Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
+
+[^11]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^12]: van der Pijl, P. C., et al. (2010). Human pharmacokinetic profile of green tea catechins and L-theanine. *British Journal of Nutrition, 104*(8), 1157–1164.
+
+[^13]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/

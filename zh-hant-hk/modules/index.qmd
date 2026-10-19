@@ -1,0 +1,76 @@
+---
+title: "模組"
+lang: zh-Hant-HK
+---
+
+{{< include ../../_includes/lang-switcher/modules.zh-hant-hk.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首頁](../index.qmd) · [茶葉入門](../tea-basics.qmd) · [杯量參考](../cup-reference.qmd) · [詞彙表](../glossary.qmd) · [模組總覽](index.qmd) · [模組一](module-01/index.qmd)
+:::
+
+::: {.callout-important}
+**模組一已有中文版。** 模組二至四、[連結橋樑](../../linkages.qmd)、[參考文獻](../../bibliography.qmd)暫以英文提供。
+:::
+
+想像本站是一趟短途旅程，共有四站——每一站現在各有**四課**（合共十六堂），對應站長原始資料包的分支。
+
+你從花園與廚房出發——植物、加工、沖泡，以及杯裡的化合物。接着走進身體與大腦。再爬出來，進入歷史、寺院、溫熱的手與儀式。最後停在實驗室，人們在那裡小心玩着風險與信任的遊戲。每一課都回答上一課留下的問題。
+
+這裡不需要科學學位。每一課以鉤子開頭，按故事順序走過事實，用**可點擊的腳註**標明來源，把較密的細節收進**摺疊的「更多詳情」**，並留下上一課／下一課的門。
+
+## 行程（四個入口）
+
+| 站 | 把你往前拉的問題 | 打開 |
+| --- | --- | --- |
+| 1. 化學核心 | 為甚麼同一株植物做出來的兩杯茶，味道——與感覺——可以差那麼遠？ | [模組一入口](module-01/index.qmd) |
+| 2. 身體、大腦與心情 | 為甚麼茶常常既清醒，又比咖啡更平靜？ | [模組二入口](../../modules/module-02/index.qmd)（英文） |
+| 3. 歷史、儀式與溫暖 | 茶只是化學——還是也關乎帝國、儀式與一隻溫熱的手？ | [模組三入口](../../modules/module-03/index.qmd)（英文） |
+| 4. 決策與選擇 | 杯子會不會改變我們怎樣選擇——研究者又怎樣量度？ | [模組四入口](../../modules/module-04/index.qmd)（英文） |
+
+## 課表地圖（十六課）
+
+| 模組 | 課 | 打開 |
+| --- | --- | --- |
+| 1. 化學核心 | 1.1 兩個植物性格，同一物種 | [打開](module-01/01-plants.qmd) |
+| | 1.2 路上的分叉（綠 vs 紅） | [打開](module-01/02-processing.qmd) |
+| | 1.3 沖泡實際上做甚麼 | [打開](module-01/03-brewing.qmd) |
+| | 1.4 杯裡的三位角色 | [打開](module-01/04-compounds.qmd) |
+| 2. 身體、大腦與心情 | 2.1 油門、煞車與繁忙的路 | [打開](../../modules/module-02/01-brain-action.qmd)（英文） |
+| | 2.2 聽腦的節奏 | [打開](../../modules/module-02/02-brainwaves.qmd)（英文） |
+| | 2.3 當火警鈴響 | [打開](../../modules/module-02/03-stress-hormones.qmd)（英文） |
+| | 2.4 身體安靜承認的事 | [打開](../../modules/module-02/04-body-signals.qmd)（英文） |
+| 3. 歷史、儀式與溫暖 | 3.1 白銀、船隻，以及誰掌控了葉子 | [打開](../../modules/module-03/01-trade-history.qmd)（英文） |
+| | 3.2 從藥湯到寺院到茶室 | [打開](../../modules/module-03/02-monastic-path.qmd)（英文） |
+| | 3.3 溫熱的手，更溫暖的判斷？ | [打開](../../modules/module-03/03-warmth-trust.qmd)（英文） |
+| | 3.4 泡茶休息作為壓力重置 | [打開](../../modules/module-03/04-ritual-stress.qmd)（英文） |
+| 4. 決策與選擇 | 4.1 快速脫口而出與仔細核對 | [打開](../../modules/module-04/01-dual-process.qmd)（英文） |
+| | 4.2 刺痛的損失，淡去的明天 | [打開](../../modules/module-04/02-risk-waiting.qmd)（英文） |
+| | 4.3 信任、公平與合作的遊戲 | [打開](../../modules/module-04/03-trust-games.qmd)（英文） |
+| | 4.4 謹慎研究通常怎樣建成 | [打開](../../modules/module-04/04-study-protocols.qmd)（英文） |
+
+為甚麼每個模組是**四**課，不是三課？原始資料包在每個模組已用四分支骨架。把一長章拆成四堂，讓每一頁仍是完整的一坐——而不把三個題目塞進超長捲軸。
+
+## 若你只有十分鐘
+
+**「貨架標籤是甚麼意思？」**  
+從 [茶葉入門](../tea-basics.qmd) 開始，再到 [模組一入口](module-01/index.qmd)。
+
+**「我杯裡有甚麼？」**  
+從 [杯量參考](../cup-reference.qmd) 開始，再到 [1.3 沖泡](module-01/03-brewing.qmd) 與 [1.4 化合物](module-01/04-compounds.qmd)。
+
+**「為甚麼清醒卻不焦躁？」**  
+去 [模組二入口](../../modules/module-02/index.qmd)（英文），再到 [連結橋樑](../../linkages.qmd#1-why-waiting-after-the-first-sip-matters)（英文）關於 L-茶胺酸時間與平靜腦波的那座橋。
+
+**「茶只是化學嗎？」**  
+不是。[模組三入口](../../modules/module-03/index.qmd)（英文）是拉遠鏡頭：貿易、寺院、溫杯、泡茶休息。
+
+**「飲品會改變選擇嗎？」**  
+[模組四入口](../../modules/module-04/index.qmd)（英文）——並帶着資料包的提醒：實驗室劑量不是你平日那一杯。
+
+準備好從起點開始時，打開 [模組一](module-01/index.qmd)。水已經熱了。
+
+::: {.callout-tip collapse="true" title="點開更多詳情：腳註與摺疊"}
+- **腳註：** 上標數字跳到完整引用；箭嘴跳回。滑鼠懸停常會彈出摘要。
+- **摺疊：** 標題為「更多詳情…」或「點開更多詳情」的方框預設關閉——主線故事保持可讀，展開內容一點即開。
+:::
