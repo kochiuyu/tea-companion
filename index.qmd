@@ -2,18 +2,34 @@
 title: "Tea, Caffeine & Decision Companion"
 ---
 
-A comprehensive scientific and socio-ritual database organized as a **symmetric 4×4 grid**: four foundational modules, each with four fact-packed branches—tables, parameter definitions, and equations grounded in peer-reviewed biochemistry, clinical pharmacology, behavioral economics, and historical sources. Content on these pages comes only from owner-supplied verified packs.
+## Story in one minute
 
-**Modules**
+Imagine you pour hot water over tea leaves. Color and smell change. Later you feel a bit more awake, maybe a bit calmer. This site explains **why that happens**, using facts checked against owner-supplied source packs—not marketing slogans.
 
-- [1. The Chemical Core](modules/module-01.qmd) — species genetics, enzymatic oxidation, extraction kinetics, and active compound profiles.
-- [2. Synaptic Mechanisms & Physiological Biomarkers](modules/module-02.qmd) — synaptic receptor kinetics, neural wave signatures, endocrinology, and autonomic biomarkers.
-- [3. Geopolitics, Ritual & Embodied Cognition](modules/module-03.qmd) — trade and sovereignty history, monastic contexts, thermal priming, and ritual psychology.
-- [4. Dual-Process Decision Dynamics](modules/module-04.qmd) — dual-process effort, risk and intertemporal choice, game-theoretic payoffs, and empirical protocols.
+You do not need chemistry or psychology class. If a smart high-school student can follow a clear explanation with an everyday example, you are in the right place.
 
-**Reference pages**
+## Who this is for
 
-- [Cup reference](cup-reference.qmd) — standard-cup (250 mL) yield ranges for caffeine, L-theanine, EGCG, and total catechins.
-- [Glossary](glossary.qmd) — 29 technical terms mapped to module branches.
-- [Linkages](linkages.qmd) — 11 cross-branch scientific linkages with citations.
-- [Bibliography](bibliography.qmd) — primary citations from the master database, additions packs, and bibliographic audit.
+This guide is for **curious beginners**: high-school and early college readers who want plain English. The owner of this site is an economist. We do **not** invent economic theories here. We only explain tea chemistry, how a cup can relate to alertness and calm, how tea shaped trade and ritual, and how researchers study drinks and decisions—using numbers and stories already in the source packs.
+
+## What you will learn (four modules)
+
+Think of the site as four rooms in one house. You can visit any room first.
+
+1. **[The Chemical Core](modules/module-01.qmd)** — Tea comes from one plant species with two main types. How the leaf is processed (green vs black) and how you brew it changes what ends up in your cup.
+2. **[Body, Brain & Mood](modules/module-02.qmd)** — Caffeine wakes you up by blocking a “time for sleep” signal. L-theanine (a calming amino acid in tea) tends to support calm focus. Researchers measure this with brain-wave patterns, stress hormones, and simple body signals—not only with how you feel.
+3. **[History, Ritual & Warmth](modules/module-03.qmd)** — Tea remade trade balances, became a monastic focus aid, and—even as a warm mug in the hand—shows up in psychology experiments on trust. A short brewing break can also act as a practical stress reset.
+4. **[Decisions & Choices](modules/module-04.qmd)** — Drinks do not flip a magic “smart switch.” They can nudge how fast you answer, how much risk you take, how much you care about tomorrow, and how trusting you are in a first move. Lab games measure those nudges.
+
+## How to use this site
+
+- Start with any module, or skim the [Modules overview](modules/index.qmd).
+- When a number appears (for example “about 30–50 mg caffeine”), treat it as a **typical range from the packs**, not a promise about your exact mug.
+- When a technical word appears, we define it in plain language the first time. You can also check the [Glossary](glossary.qmd).
+- [Linkages](linkages.qmd) shows how ideas across modules connect (for example: brew temperature → what ends up in the cup → how you might feel later).
+- [Cup reference](cup-reference.qmd) is a quick table of what is often in a 250 mL cup.
+- [Bibliography](bibliography.qmd) lists the sources. We keep a few useful numbers on the pages; dense lab detail stays in the papers.
+
+## What we deliberately leave out
+
+We do **not** invent new percentages, mechanisms, history figures, or study results. We do **not** paste walls of lab equations. Everything here should trace back to the verified packs or the bibliography list.

@@ -2,84 +2,55 @@
 title: "Glossary"
 ---
 
-# Companion Glossary: Key Terms in Tea, Neurobiology, and Decision Mechanics
+# Glossary
 
-A standardized, fact-grounded glossary of key technical terms used across the four research modules. Each term is defined in one sentence, including its primary module and branch mapping (Companion Glossary pack; 29 terms).
+## How to use this glossary
 
-| Technical Term | Definition | Primary Mapping |
+This page is a **dictionary for beginners**. When a module uses a technical word, look it up here for a one-sentence definition in everyday English. Module numbers point to where the term matters most.
+
+You do not need to memorize the whole table. Skim the “By module” list at the bottom when you start a new chapter. Ultra-niche lab constants and diffusion equations are left out on purpose; see the [Bibliography](bibliography.qmd) if you need the primary papers.
+
+## Story in one minute
+
+Science writing often packs five ideas into one word (for example “HPA axis”). This glossary unpacks those words so a smart high-school reader can keep going without a textbook.
+
+## Terms (simple definitions)
+
+| Term | Simple definition | Where it shows up |
 | --- | --- | --- |
-| Adenosine Receptors (A1 and A2A) | These G-protein coupled receptors bind endogenous adenosine to promote sleep and slow neuronal activity, and they serve as the primary targets for competitive antagonism by caffeine to sustain wakefulness. | Module 2, Branch 2.1 (Synaptic Mechanisms and Receptor Kinetics) |
-| Alpha Brainwaves | These neural oscillations, ranging from 8.0 to 12.0 Hz on an EEG, represent a relaxed yet highly focused and alert cognitive state, which is actively promoted by the consumption of L-theanine. | Module 2, Branch 2.2 (Neural Wave Signatures and Spectral Band Modulation) |
-| Anterior Insular Cortex | A key brain region responsible for processing both physical homeostatic changes (such as temperature) and abstract social sentiments (such as empathy and trust), acting as the biological substrate for physical-social warmth priming. | Module 3, Branch 3.3 (Embodied Cognition: Thermal Priming and The Insular Cortex) |
-| Balloon Analogue Risk Task (BART) | A standardized computerized behavioral testing battery that assesses real-world risk-taking propensity by measuring how many times a participant pumps a virtual balloon before it pops. | Module 4, Branch 4.4 (Empirical Protocols and Controlled Trial Standards) |
-| Beta Brainwaves | These rapid cortical oscillations (12.0 to 30.0 Hz) represent states of active focus, high alertness, or physical anxiety, and they are prominently up-regulated by unmitigated caffeine consumption. | Module 2, Branch 2.2 (Neural Wave Signatures and Spectral Band Modulation) |
-| Camellia sinensis var. assamica | The broad-leaved, fast-growing tropical variety of the tea plant native to Assam and Yunnan, characterized by higher genetic baselines of caffeine and bitter polyphenols. | Module 1, Branch 1.1 (Species Genetics and Botanical Taxonomy) |
-| Camellia sinensis var. sinensis | The small-leaved, highly cold-hardy shrub variety of the tea plant native to China, possessing higher concentrations of sweet, volatile aromatic compounds and L-theanine. | Module 1, Branch 1.1 (Species Genetics and Botanical Taxonomy) |
-| Canton System | The historic trade framework established by the Qing Dynasty (1757 to 1842) that restricted all Western maritime trade to the port of Canton and demanded settlement strictly in physical silver bullion. | Module 3, Branch 3.1 (Geopolitics and Macro-History) |
-| Chanyuan Qinggui | The earliest surviving comprehensive Chan Buddhist monastic code (1103 AD) that codified formal communal tea drinking rituals to maintain discipline and wakefulness during long meditation sessions. | Module 3, Branch 3.2 (Spiritual and Micro-History) |
-| Delta Brainwaves | High-amplitude, slow cortical oscillations (0.5 to 4.0 Hz) typically indicative of deep slow-wave sleep, which are prominently up-regulated by high doses of alcohol. | Module 2, Branch 2.2 (Neural Wave Signatures and Spectral Band Modulation) |
-| Dual-Process Theory | A cognitive psychology model formulated by Kahneman and Tversky proposing that human decisions are governed by two distinct systems: the fast, automatic System 1 and the slow, deliberative System 2. | Module 4, Branch 4.1 (Dual-Process Dynamics and Cognitive Effort) |
-| EGCG (Epigallocatechin-3-Gallate) | The most biologically active monomeric flavan-3-ol (catechin) in green tea, representing 40 to 60 percent of its total polyphenol profile and carrying potent cellular signaling benefits. | Module 1, Branch 1.4 (Active Compound Profiles and Chemical Half-Lives) |
-| Embodied Cognition | A cognitive paradigm asserting that abstract psychological concepts and social judgments are systematically grounded in, and primed by, physical somatosensory experiences. | Module 3, Branch 3.3 (Embodied Cognition: Thermal Priming and The Insular Cortex) |
-| Error-Related Negativity (ERN) | An event-related brain potential registering in the anterior cingulate cortex within 100 ms of an error, which serves as a neurophysiological alarm response and is significantly blunted by structured, repetitive rituals. | Module 3, Branch 3.4 (Ritual Psychology and Stress Reduction) |
-| Fick's Second Law of Diffusion | A mathematical partial differential equation describing how solute concentration changes over time relative to its spatial gradient, serving as the governing kinetic equation for tea extraction. | Module 1, Branch 1.3 (Extraction Kinetics and Mass Transfer Equations) |
-| Heart Rate Variability (HRV) | The variation in time intervals between consecutive heartbeats, where higher values indicate high parasympathetic tone, robust emotional regulation, and superior prefrontal top-down control. | Module 2, Branch 2.4 (Physiological Biomarkers and Autonomic Balance) |
-| HPA Axis (Hypothalamic-Pituitary-Adrenal Axis) | The core neuroendocrine feedback system that regulates the body's physiological response to stress, which is directly triggered by high-dose caffeine and blunted by L-theanine. | Module 2, Branch 2.3 (Endocrinological Response and Stress Modulators) |
-| Iowa Gambling Task (IGT) | A computerized card-game paradigm used in behavioral economics to evaluate a subject's decision-learning speed and sensitivity to long-term expected outcomes versus short-term, risky losses under ambiguous conditions. | Module 4, Branch 4.4 (Empirical Protocols and Controlled Trial Standards) |
-| Kissa Yojoki | The seminal pharmacological and spiritual treatise written by the Japanese Zen priest Eisai in 1211 AD, which promoted drinking tea as a medicinal elixir to balance the internal organs and extend longevity. | Module 3, Branch 3.2 (Spiritual and Micro-History) |
-| Loss-Aversion Coefficient | A critical mathematical parameter in Cumulative Prospect Theory representing the ratio of an individual's sensitivity to losses relative to gains, where values greater than 1 indicate loss aversion. | Module 4, Branch 4.2 (Risk Propensity and Intertemporal Choice) |
-| L-Theanine | A unique, non-protein amino acid synthesized in the roots of the tea plant that crosses the blood-brain barrier to act as a glutamate receptor antagonist and facilitate alpha wave production. | Module 1, Branch 1.4 (Active Compound Profiles and Chemical Half-Lives) |
-| Michaelis Constant | A fundamental enzyme kinetic constant indicating the substrate concentration at which reaction velocity is half of its maximum value, denoting the binding affinity between PPO and leaf catechins. | Module 1, Branch 1.2 (Enzymatic Oxidation Kinetics and Phase Transitions) |
-| Polyphenol Oxidase (PPO) | A copper-containing enzyme located within the cellular plastids of tea leaves that rapidly oxidizes monomeric catechins into unstable quinones upon cellular disruption. | Module 1, Branch 1.2 (Enzymatic Oxidation Kinetics and Phase Transitions) |
-| Present-Bias Parameter | A mathematical variable in quasi-hyperbolic discounting models representing an individual's preference for immediate gratification over future outcomes. | Module 4, Branch 4.2 (Risk Propensity and Intertemporal Choice) |
-| Skin Conductance Response (SCR) | A real-time measure of physiological arousal and somatic anxiety derived from sweat gland activity under the control of the sympathetic nervous system. | Module 2, Branch 2.4 (Physiological Biomarkers and Autonomic Balance) |
-| Theaflavins | A family of bright, golden-red pigment dimers formed by the PPO-catalyzed enzymatic coupling of simple catechol catechins and pyrogallol catechins during black tea processing. | Module 1, Branch 1.2 (Enzymatic Oxidation Kinetics and Phase Transitions) |
-| Thearubigins | A highly complex, heterogeneous class of dark-red polymeric compounds formed by the further oxidation of theaflavins, providing black tea its rich body, coppery-red color, and astringency. | Module 1, Branch 1.2 (Enzymatic Oxidation Kinetics and Phase Transitions) |
-| Theta Brainwaves | Slower cortical oscillations ranging from 4.0 to 8.0 Hz on an EEG, which indicate states of cognitive fatigue, drowsiness, and degraded error-monitoring networks. | Module 2, Branch 2.2 (Neural Wave Signatures and Spectral Band Modulation) |
-| Treaty of Nanking (1842) | The historic unequal peace treaty signed between the British Empire and the Qing Dynasty that ended the First Opium War, opened five treaty ports, ceded Hong Kong, and established a massive silver indemnity. | Module 3, Branch 3.1 (Geopolitics and Macro-History) |
+| Adenosine receptors (A1, A2A) | Brain “slow down / sleep” sensors that caffeine blocks so you stay awake. | Module 2 |
+| Alpha brainwaves | Slower calm-focus brain rhythms (about 8–12 Hz), often linked with L-theanine. | Module 2 |
+| Anterior insular cortex | Brain area that handles both body temperature and feelings like trust or empathy. | Module 3 |
+| Balloon Analogue Risk Task (BART) | Computer game that measures risk-taking by how far people pump a virtual balloon. | Module 4 |
+| Beta brainwaves | Faster alert (or anxious) brain rhythms (about 12–30 Hz), often up with caffeine. | Module 2 |
+| *Camellia sinensis* var. *assamica* | Large-leaf, tropical tea type; often higher caffeine and stronger bitterness. | Module 1 |
+| *Camellia sinensis* var. *sinensis* | Small-leaf, cold-hardier China type; often richer in L-theanine and aroma. | Module 1 |
+| Canton System | Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment. | Module 3 |
+| *Chanyuan Qinggui* | Chan monastic rulebook (1103) that set formal tea routines for discipline and wakefulness. | Module 3 |
+| Dual-process theory | Idea that decisions use fast gut thinking (System 1) and slow careful thinking (System 2). | Module 4 |
+| EGCG | The standout catechin in green tea; a large share of green tea’s polyphenols. | Module 1 |
+| Embodied cognition | The claim that body feelings (like warmth) can shape social judgments. | Module 3 |
+| Error-related negativity (ERN) | A quick brain “oops” signal after mistakes; rituals can blunt it. | Module 3 |
+| Heart rate variability (HRV) | How much the time between heartbeats varies; higher often means calmer control. | Module 2 |
+| HPA axis | The body’s main stress-hormone loop (brain → pituitary → adrenals). | Module 2 |
+| Iowa Gambling Task (IGT) | Card game that tests learning from long-run gains and losses. | Module 4 |
+| *Kissa Yōjōki* | Eisai’s 1211 essay promoting tea for health and alertness. | Module 3 |
+| Loss-aversion coefficient (λ) | How much more painful losses feel than equal gains; above 1 means loss-averse. | Module 4 |
+| L-Theanine | A calming amino acid found in tea that supports relaxed focus. | Module 1 |
+| Polyphenol oxidase (PPO) | Leaf enzyme that darkens crushed tea by oxidizing catechins (key to black tea). | Module 1 |
+| Present-bias parameter | How strongly someone prefers rewards *now* over better rewards later. | Module 4 |
+| Skin conductance response (SCR) | Tiny sweat changes that track stress and arousal. | Module 2 |
+| Theaflavins | Bright golden-red pigments formed while black tea oxidizes. | Module 1 |
+| Thearubigins | Darker, larger pigments that give black tea body and color. | Module 1 |
+| Theta brainwaves | Slower drowsy rhythms (about 4–8 Hz), often up with fatigue or alcohol. | Module 2 |
+| Treaty of Nanking (1842) | Unequal treaty ending the First Opium War: indemnity, five ports, Hong Kong ceded. | Module 3 |
 
+## By module
 
-## Module mapping index
+**Module 1 — leaf and cup:** *assamica*, *sinensis*, EGCG, L-theanine, PPO, theaflavins, thearubigins  
 
-To support targeted research, the 29 technical terms are categorized below by their primary research module and branch (from the Companion Glossary pack).
+**Module 2 — body and mind:** adenosine receptors, alpha / beta / theta waves, HRV, HPA axis, skin conductance  
 
-### Module 1: Species genetics, botanical taxonomy, and chemical kinetics
+**Module 3 — history and ritual:** Canton System, *Chanyuan Qinggui*, embodied cognition, ERN, insular cortex, *Kissa Yōjōki*, Treaty of Nanking  
 
-- *Camellia sinensis* var. *assamica*
-- *Camellia sinensis* var. *sinensis*
-- EGCG (Epigallocatechin-3-Gallate)
-- Fick's Second Law of Diffusion
-- L-Theanine
-- Michaelis Constant
-- Polyphenol Oxidase (PPO)
-- Theaflavins
-- Thearubigins
-
-### Module 2: Synaptic mechanisms, neural wave signatures, and physiology
-
-- Adenosine Receptors (A1 and A2A)
-- Alpha Brainwaves
-- Beta Brainwaves
-- Delta Brainwaves
-- Heart Rate Variability (HRV)
-- HPA Axis (Hypothalamic-Pituitary-Adrenal Axis)
-- Skin Conductance Response (SCR)
-- Theta Brainwaves
-
-### Module 3: Geopolitics, spiritual history, and embodied cognition
-
-- Anterior Insular Cortex
-- Canton System
-- Chanyuan Qinggui
-- Embodied Cognition
-- Error-Related Negativity (ERN)
-- Kissa Yojoki
-- Treaty of Nanking (1842)
-
-### Module 4: Dual-process dynamics, risk propensity, and empirical protocols
-
-- Balloon Analogue Risk Task (BART)
-- Dual-Process Theory
-- Iowa Gambling Task (IGT)
-- Loss-Aversion Coefficient
-- Present-Bias Parameter
+**Module 4 — decisions:** BART, dual-process theory, IGT, loss-aversion coefficient, present-bias parameter  

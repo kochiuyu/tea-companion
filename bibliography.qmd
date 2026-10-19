@@ -2,9 +2,28 @@
 title: "Bibliography"
 ---
 
-Primary citations compiled from the master 4×4 database, module additions packs, standard cup reference, linkages, and the citation completeness audit. Entries follow APA style where the packs supply full metadata; shorter pack citations are listed as given. No sources are invented.
+## Story in one minute
 
-## Biochemistry, plant physiology, and extraction
+This page is the **source list**—not a homework reading list. When a module says “about 30–50 mg caffeine” or “Williams & Bargh (2008),” that claim should trace back to an entry here (or to the owner-supplied packs behind this list). Nothing on this page was invented for decoration.
+
+## Why sources matter (for beginners)
+
+Anyone can put a confident sentence on a website. A **citation** is a trail: author, year, and usually a journal or book so another person can check the original. That does not mean every paper is perfect. It means we are not asking you to trust a slogan.
+
+For this site:
+
+- Numbers and study snapshots on the module pages should match entries below (or the verified packs).
+- Some pack citations are short (year and journal only). We left them as the packs gave them rather than guessing missing titles.
+- Entries follow APA style when the packs give full details.
+- Dense lab constants we removed from the beginner pages still live in many of these papers if you want them later.
+
+## How to use this page
+
+1. Spot a name-and-year on a module page (for example Nobre et al., 2008).  
+2. Find that entry in the section below.  
+3. If you need the full methods, open the paper itself—this list is a map, not a reprint.
+
+## Plant chemistry and brewing
 
 Ashihara, H., Sano, H., & Suzuki, T. (2008). An update on caffeine biosynthesis in tea plants of *Camellia sinensis*. *Natural Product Communications, 3*(8), 1369–1378.
 
@@ -60,7 +79,7 @@ Wight, W. (1962). *Nature, 196*, 441. (Cited in Module 1 additions for somatic c
 
 Xia, E. H., et al. (2017). *Proceedings of the National Academy of Sciences, 114*(17), E3569–E3558. (Cited in Module 1 additions for relative genomic size; page string as given in that pack.)
 
-## Neuroscience, psychopharmacology, and physiology
+## Brain, mood, and body measures
 
 Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-norepinephrine function: Adaptive gain and optimal performance. *Annual Review of Neuroscience, 28*, 403–450.
 
@@ -110,7 +129,7 @@ Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine c
 
 Yoto, A., et al. (2012). *Journal of Physiological Anthropology, 31*(1), 28. (Cited in Module 2 additions for salivary cortisol under cognitive stress.)
 
-## Socio-history, embodied cognition, and ritual psychology
+## History, warmth, and ritual
 
 Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
 
@@ -158,7 +177,7 @@ Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes in
 
 Yifa. (2002). *The Origins of Buddhist Monastic Codes in China: An Annotated Translation of the Chanyuan Qinggui* (pp. 114–118). University of Hawaii Press.
 
-## Behavioral economics, decision theory, and empirical protocols
+## Decisions, games, and study methods
 
 Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books.
 
@@ -196,6 +215,6 @@ Steele, C. M., & Josephs, R. A. (1990). Alcohol myopia: Its prized and dangerous
 
 Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5*(4), 297–323.
 
-## Audit note
+## Note on completeness
 
 The citation completeness audit reports full primary provenance across all 16 branches (59 foundational references in the master database plus supplementary clinical and historical sources in the additions packs). Four claims were explicitly fortified with primary papers during that audit: PPO denaturation (Subramanian et al., 1999), L-theanine receptor affinity (Kakuda et al., 2002), opium trade chest quantities (Morse, 1926), and ERN amplitude delta (Hobson et al., 2017).
