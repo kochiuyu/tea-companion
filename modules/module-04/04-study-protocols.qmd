@@ -7,28 +7,36 @@ title: "4.4 How careful studies are usually built"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold washout clocks, matched-mug rules, and a headline checklist. This lesson is the "how do they know?" sitting after the flashy games.
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold washout clocks, matched-mug parameter tables, and a headline checklist. This lesson is the "how do they know?" sitting after the flashy games.
 :::
 
 ## Why methods deserve their own lesson
 
 If you read a headline—"tea improves decisions!"—ask how the trial was built. Good trials try to separate the drug effect from expectation, temperature, and bitter taste.
 
-Lessons 4.1–4.3 showed *what* gets measured (CRT, BART, Ultimatum…). This lesson shows *how* careful studies try not to fool themselves. Without washout, matched mugs, and timed testing, you may be measuring "this feels like tea" as much as chemistry.
+Lessons 4.1–4.3 showed *what* gets measured (fast blurts, balloon pumps, unfair splits, first sends…). This lesson shows *how* careful studies try not to fool themselves. Without a caffeine-free weekend, matched mugs, and timed testing, you may be measuring "this feels like tea" as much as chemistry.
 
 Holding temperature constant also matters because Chapter 3 showed that mere warmth can nudge social judgments—so a decision study that forgets mug temperature may mix pharmacology with thermal priming.[^4][^5]
 
-## Common standards in the packs
+Think of methods as the quiet spine under the flashy findings. Interesting results still need boring controls. That is the deal.
+
+## Three plain ideas before any checklist
+
+**Matched mug.** If one group gets hot, bitter, fragrant tea in a clear glass and the other gets plain lukewarm water in a different cup, you have not isolated L-theanine. You have mixed chemistry with theater. Careful designs try to make the cups *feel* alike—same volume, same warmth, same bitterness—so expectation does not wear a lab coat.
+
+**Wait for the peak.** Kitchen intuition already knows this: "I just sipped" and "I feel focused" are different moments. Many attention and decision batteries start about forty minutes after drinking—near the windows where oral L-theanine and caffeine often peak.[^7] Test at five minutes and you may catch expectation plus incomplete absorption. Test at three hours and you may miss the peak the study claims to care about.
+
+**Decaf is not magic placebo.** Decaf still carries a little leftover caffeine and leftover plant compounds. Matching astringency and umami without changing smell or look is hard. The difficulty is the point: hard controls are how you earn soft claims.
+
+::: {.callout-note collapse="true" title="More detail: washout, matched mugs, and protocol parameters"}
+Common standards in the packs:
 
 - **Exclude** people with major sleep or heart disease, or very high daily caffeine (over about **400 mg/day**).
 - **Washout:** no coffee, tea, energy drinks, chocolate, or alcohol for at least **48 hours** (sometimes **72** for heavy users)—long enough for typical caffeine clearance (half-life often cited around ~**5 hours**, with wide person-to-person spread).[^6]
-- **Same cup experience:** **250 mL**, opaque insulated mug, about **60°C ± 2°C**, bitterness matched (e.g. tiny quinine in placebo—pack example **0.05 mg/L** quinine HCl).
-- **Timing:** start cognitive tests about **+40 minutes** after drinking—near typical peak timing for oral L-theanine (**35–50 min**) and caffeine (**30–60 min**).[^7]
+- **Same cup experience:** **250 mL**, opaque insulated mug, about **60°C ± 2°C**, bitterness matched (e.g. tiny quinine in placebo—pack example **0.05 mg/L** quinine HCl)—also controlling Chapter 3's thermal priming confound.[^4][^5]
+- **Timing:** start cognitive tests about **+40 minutes** after drinking—near typical peaks for oral L-theanine (**35–50 min**) and caffeine (**30–60 min**).[^7]
 - **Tasks:** tools such as the Balloon Analogue Risk Task (BART) and Iowa Gambling Task (IGT).[^1][^2]
-
-Example active dose used in matched designs: **200 mg L-theanine + 100 mg caffeine** vs sensory-matched placebo.[^3]
-
-If one group gets hot, bitter, fragrant tea and the other gets plain lukewarm water, you may be measuring "this feels like tea" as much as chemistry. That is why packs stress opaque mugs, matched bitterness, and washout days.
+- Example active dose in matched designs: **200 mg L-theanine + 100 mg caffeine** vs sensory-matched placebo.[^3]
 
 | Protocol element | Pack standard | Why it matters |
 | --- | --- | --- |
@@ -38,26 +46,24 @@ If one group gets hot, bitter, fragrant tea and the other gets plain lukewarm wa
 | Test latency | About **+40 min** | Aligns with L-theanine and caffeine peak windows [^7] |
 | Active example | **200 mg** L-theanine + **100 mg** caffeine | Isolates a known combo vs matched vehicle [^3] |
 
-::: {.callout-note collapse="true" title="More detail: washout, matched mugs, and why decaf is not a perfect placebo"}
-Common standards in the packs:
-
-- **Exclude** major sleep/heart disease, or very high daily caffeine (over ~**400 mg/day**).
-- **Washout:** no coffee, tea, energy drinks, chocolate, or alcohol for at least **48 hours** (sometimes **72** for heavy users).[^6]
-- **Same cup experience:** **250 mL**, opaque insulated mug, about **60°C ± 2°C**, bitterness matched (e.g. tiny quinine in placebo)—also controlling Chapter 3's thermal priming confound.[^4][^5]
-- **Timing:** start cognitive tests about **+40 minutes** after drinking—near typical peaks for oral L-theanine (**35–50 min**) and caffeine (**30–60 min**).[^7]
-- **Tasks:** BART and Iowa Gambling Task (IGT) among others.[^1][^2]
-- Example active dose in matched designs: **200 mg L-theanine + 100 mg caffeine** vs sensory-matched placebo.[^3]
-
 **Decaf is not a perfect placebo:** it still has trace caffeine (~**2–5 mg**) and leftover polyphenols. Matching astringency and umami without changing smell or look is hard. Without opaque, taste-matched delivery, studies may measure expectation as much as pharmacology (pack "double-blind sham tea" verification note).
 
 BART measures how far people push a risky balloon before it pops.[^1] IGT watches learning from wins and losses under ambiguity—originally used after prefrontal injury.[^2] Neither is "your career in a cup."
 :::
 
-## What the tasks are for (again, briefly)
+## Expectation wears a lab coat if you let it
 
-The Iowa Gambling Task—originally used to study how people learn from wins and losses after prefrontal injury—is one more tool in the pack's "feedback learning" kit.[^2] BART measures how far people push a risky balloon before it pops.[^1] Neither task is "your career in a cup." Both are controlled ways to watch risk and learning under a drink.
+Suppose Arm A gets fragrant, astringent, obviously-tea liquid in a clear glass. Arm B gets lukewarm water in a different cup. Whatever happens next, you have not isolated L-theanine. You have mixed pharmacology with theater.
 
-Notice how the study clock matches Chapter 1 and Chapter 2: tests at about **+40 minutes** sit near the L-theanine and caffeine peaks you already met on [Cup reference](../../cup-reference.qmd) and in Module 1's compound lesson. The kitchen timing and the lab timing are the same story told twice.
+That is why the packs obsess over opaque mugs, matched bitterness, matched temperature, and washout. Double-blind "sham tea" is hard—but the difficulty is the point.
+
+Notice how the study clock matches Chapter 1 and Chapter 2: tests near the shared peak window sit beside the timing you already met on [Cup reference](../../cup-reference.qmd) and in Module 1's compound lesson. The kitchen timing and the lab timing are the same story told twice.
+
+::: {.callout-note collapse="true" title="More detail: why +40 minutes keeps showing up"}
+Oral L-theanine often peaks around **35–50 minutes**; caffeine around **30–60 minutes** (pack / Scheid-line timing).[^7] Starting the battery near **+40 minutes** aims at that shared window.
+
+Test at +5 minutes and you may catch expectation plus incomplete absorption. Test at +3 hours and you may miss the peak the study claims to care about. Kitchen intuition ("wait a bit after the cup") and lab timing are cousins—see also [Cup reference](../../cup-reference.qmd) and Module 1's compound peaks.
+:::
 
 ::: {.callout-note collapse="true" title="More detail: five questions for a headline"}
 When a headline says a drink "improves decisions," ask:
@@ -66,16 +72,18 @@ When a headline says a drink "improves decisions," ask:
 2. **Matched cup?** Same volume, temperature (~**60°C**), bitterness—or was one arm obviously "real tea"?
 3. **Timing?** Were tasks started near the **+40 min** peak window, or right after the first sip?
 4. **Dose vs mug?** Was it **200 mg** L-theanine + **100 mg** caffeine—or a grocery bag?
-5. **Task?** BART, IGT, CRT, Ultimatum—each measures a different nudge.[^1][^2][^3]
+5. **Task?** Balloon risk, gambling learning, reflection traps, unfair splits—each measures a different nudge.[^1][^2][^3]
 
 If those answers are missing, treat the claim as marketing until the methods show up. The [module hub](index.qmd) keeps an economist's caution list for the same reason.
 :::
 
-## Closing the methods sitting
+## How this lesson polices the rest of Module 4
 
-Careful protocols are not bureaucracy for its own sake. They are how you keep Chapter 3's warmth story from silently contaminating Chapter 4's pharmacology story—and how you keep expectation from wearing a lab coat.
+- Dual-process headlines → ask dose, task, timing ([4.1](01-dual-process.qmd)).
+- Risk / patience headlines → ask whether it was ethanol/caffeine capsules or a grocery mug ([4.2](02-risk-waiting.qmd)).
+- Trust / tea-service headlines → ask warmth controls and replication history ([4.3](03-trust-games.qmd); [3.3](../module-03/03-warmth-trust.qmd)).
 
-Interesting findings still need boring methods. That is the deal.
+Methods are how an economist-owned teaching site stays honest without inventing new theory.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: a one-page protocol sketch (teaching, not a grant application)"}
 A pack-faithful teaching sketch:
@@ -89,43 +97,28 @@ A pack-faithful teaching sketch:
 This is how the packs describe *credible* beverage–decision work. Real labs add ethics review, power analysis, and a lot more paperwork—as they should.
 :::
 
-
-## Expectation wears a lab coat if you let it
-
-Suppose Arm A gets fragrant, astringent, obviously-tea liquid in a clear glass. Arm B gets lukewarm water in a different cup. Whatever happens next, you have not isolated L-theanine. You have mixed pharmacology with theater.
-
-That is why the packs obsess over opaque mugs, matched bitterness (quinine example), matched temperature, and washout. Double-blind "sham tea" is hard—decaf still carries **2–5 mg** caffeine and leftover polyphenols—but the difficulty is the point. Hard controls are how you earn soft claims.
-
-::: {.callout-note collapse="true" title="More detail: why +40 minutes keeps showing up"}
-Oral L-theanine often peaks around **35–50 minutes**; caffeine around **30–60 minutes** (pack / Scheid-line timing).[^7] Starting the battery near **+40 minutes** aims at that shared window.
-
-Test at +5 minutes and you may catch expectation plus incomplete absorption. Test at +3 hours and you may miss the peak the study claims to care about. Kitchen intuition ("wait a bit after the cup") and lab timing are cousins—see also [Cup reference](../../cup-reference.qmd) and Module 1's compound peaks.
-:::
-
-## How this lesson polices the rest of Module 4
-
-- Dual-process headlines → ask dose, task, timing ([4.1](01-dual-process.qmd)).
-- Risk / λ / *k* headlines → ask whether it was ethanol/caffeine capsules or a grocery mug ([4.2](02-risk-waiting.qmd)).
-- Trust / tea-service headlines → ask warmth controls and replication history ([4.3](03-trust-games.qmd); [3.3](../module-03/03-warmth-trust.qmd)).
-
-Methods are how an economist-owned teaching site stays honest without inventing new theory.
-
-
-
-## A closing honesty note for the whole module
-
-Module 4's flashy findings—CRT errors, BART pumps, Trust sends—only deserve as much confidence as their methods. This lesson is the spine. If you remember only the games and forget washout, temperature, and timing, you will overfit kitchen folklore to lab posters.
-
-The economist-friendly posture stays the same as the hub: measured shifts under controlled doses; no invented theory; stakes and reputation usually dominate beverage nudges outside the lab.
-
-
-
 ## Opaque mugs and the warmth confound (one more time)
 
-Chapter 3 taught that ~**60°C** hands can tint trust. Chapter 4 therefore treats **60°C ± 2°C** as a *controlled constant*, not a cozy accident. Opaque walls hide color cues. Quinine matching fights "this tastes like the real thing." Washout fights yesterday's coffee.
+Chapter 3 taught that warm hands can tint trust. Chapter 4 therefore treats matched mug temperature as a *controlled constant*, not a cozy accident. Opaque walls hide color cues. Bitterness matching fights "this tastes like the real thing." Washout fights yesterday's coffee.
 
 Skip those controls and your "tea effect" may be theater plus residual caffeine plus a warm palm.
 
+## A closing honesty note for the whole module
+
+Module 4's flashy findings—reflection errors, balloon pumps, trust sends—only deserve as much confidence as their methods. This lesson is the spine. If you remember only the games and forget washout, temperature, and timing, you will overfit kitchen folklore to lab posters.
+
+The economist-friendly posture stays the same as the hub: measured shifts under controlled doses; no invented theory; stakes and reputation usually dominate beverage nudges outside the lab.
+
+Careful protocols are not bureaucracy for its own sake. They are how you keep Chapter 3's warmth story from silently contaminating Chapter 4's pharmacology story—and how you keep expectation from wearing a lab coat.
+
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 4.4"}
+1. Open story = matched mug / wait for peak / decaf ≠ magic placebo.
+2. Washout, **60°C**, quinine match, **+40 min**, **200+100** dose live in foldouts.[^3][^6][^7]
+3. Warmth confound from Chapter 3 is why temperature is controlled, not cozy.[^4][^5]
+4. Methods police 4.1–4.3 headlines.
+5. No invented economics—shared tools only.
+6. Back to the [module hub](index.qmd) or [Cup reference](../../cup-reference.qmd) when you want numbers.
+:::
 
 ---
 

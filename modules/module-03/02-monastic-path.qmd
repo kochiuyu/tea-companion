@@ -48,7 +48,37 @@ What it does *not* show: that every modern cafe ritual descends unbroken from Ch
 
 In **1211**, Eisai's *Kissa Yōjōki* (*Drinking Tea for Nourishment of Life*) framed tea through a Five Elements / Five Organs idea: tea's bitter flavor (*ku*) nourishes the heart (*shin*), balances the other viscera, and curbs lethargy.[^2][^3]
 
+::: {.callout-note collapse="true" title="More detail: Eisai's Kissa Yōjōki — bitter flavor, heart, lethargy"}
+Eisai (Myōan Eisai) wrote *Kissa Yōjōki* in **1211** after bringing Song-dynasty tea practice to Japan. Sen's standard English-language history walks the treatise as pharmacology-plus-promotion, not as a modern clinical trial.[^2][^3]
+
+Pack teaching snapshot (aligned with Sen's discussion):
+
+- **Five Elements / Five Organs frame.** Each flavor is paired with an organ. Tea's bitterness (*ku*) is said to nourish the heart (*shin*).
+- **Practical pitch.** Drink tea to balance the other viscera and to suppress lethargy—wakefulness as medical claim, not only as cafe branding.
+- **Historical job.** Help tea take root in Japan as nourishment and as a monastic/elite practice, decades before later *chado* aesthetics fully flower.
+
+**Read it as:** a 1211 sales-and-care argument that tea keeps people awake and well.
+
+**Do not read it as:** an fMRI abstract, an HRV paper, or proof that Eisai measured parasympathetic tone. The packs place his "nourishes the heart" phrase *beside* modern HRV findings on [Linkages](../../linkages.qmd)—rhyme, not anachronism.[^2]
+:::
+
 Centuries earlier in China, Lu Yu's *Cha Jing* (about **760**) had already treated boiling as an attention practice: three stages by bubble look—"fish eyes," "pearls," "billowing waves."[^7] Watching water carefully is not only aesthetics. It is a script for noticing.
+
+::: {.callout-note collapse="true" title="More detail: Lu Yu's Cha Jing — ten chapters and three boils"}
+The *Cha Jing* (*Classic of Tea*) is short—about **7,000** classical Chinese characters in the form usually summarized as **three scrolls, ten chapters**—and it is the earliest surviving tea monograph of its kind.[^8] Chapter 5 (*Boiling*) is the packs' teaching favorite, and the Chinese text itself matches the pack's three-stage picture:[^7][^9]
+
+| Stage (pack / Carpenter) | What the boil looks like | What Lu Yu has you do (plain English) |
+| --- | --- | --- |
+| First boil | Small bubbles like **fish eyes**, faint sound | Season the water lightly with salt; taste; do not drown the leaf in salt |
+| Second boil | Bubbles at the rim like a **string of pearls** | Ladle out one scoop and set it aside; stir a whirlpool; drop measured tea powder into the center |
+| Third boil | **Billowing waves** | Pour the reserved water back to calm the boil and keep the surface froth (*hua*) |
+
+Beyond the third boil, the Classic warns, the water is "old" and unfit. Tang practice here is cake tea: roast, grind, sieve, boil—not a modern steeping bag. Chapter 10 even tells the reader to hang the contents on scrolls where tea is made, so the handbook stays visible at the workbench.[^8]
+
+**What this shows:** attention to heat as a curriculum of noticing—long before EEG.
+
+**What it does not show:** that every modern cafe timer descends unbroken from Lu Yu, or that bubble poetry is a clinical stress protocol. The packs keep that fence; so do we.[^1]
+:::
 
 | When | Text / practice | What it did | Source |
 | --- | --- | --- | --- |
@@ -72,9 +102,18 @@ Pathway in plain words: medicinal drink (Han) → focus aid in Chan/Zen monaster
 
 ## Folklore check: Bodhidharma's eyelids
 
-And because folklore loves a dramatic birth story: Bodhidharma's eyelids grew into tea bushes, people say. That is popular folklore, not early Chan history. The story is missing from early Chinese Chan collections (for example the *Records of the Transmission of the Lamp*, 1004). It shows up much later in Jesuit travel writing and late-Edo Japanese popular books (pack historiography note).
+And because folklore loves a dramatic birth story: Bodhidharma's eyelids grew into tea bushes, people say. That is popular folklore, not early Chan history. Keep the legend as a *legend*—not as monastic primary evidence.
 
-Useful teaching move: keep the legend as a *legend*. Do not cite it as monastic primary evidence.
+::: {.callout-caution collapse="true" title="More detail: Bodhidharma's eyelids — folklore check"}
+Popular tellings say Bodhidharma tore off his eyelids to stay awake through years of wall-gazing, and that tea bushes sprouted where the lids fell. It is a vivid allegory for wakefulness. It is **not** early Chan documentary history.
+
+Pack historiography note (our baseline):[^10]
+
+- The story is **absent** from early Chinese Chan collections such as the *Records of the Transmission of the Lamp* (*Jingde chuandeng lu*, **1004**).
+- It appears much later in **European Jesuit travel writing** and in **late-Edo** Japanese popular books—as a mythic explanation, not as an attested Tang/Song monastic record.
+
+So: use it to talk about how cultures *explain* tea and sleep. Do **not** cite it beside *Chanyuan Qinggui* (1103) or Eisai (1211) as if it were the same kind of source.[^6][^2]
+:::
 
 ::: {.callout-caution collapse="true" title="More detail: reading the timetable without romance"}
 The monastic codes and Eisai's essay are **prescriptions and promotions**, not lab notebooks. *Chanyuan Qinggui* (1103) shows tea written into a communal schedule; *Kissa Yōjōki* (1211) argues for tea as nourishment against lethargy; Lu Yu's *Cha Jing* teaches attention to the boil by eye.[^1][^2][^6][^7]
@@ -119,6 +158,26 @@ Monastic scheduling also foreshadows Chapter 3's ritual lesson: fixed steps, sha
 
 Okakura's 1906 *Book of Tea* gave many English-language readers their first aesthetic vocabulary for tea.[^4] Use it as a doorway into *chado* atmosphere—not as a substitute for Yifa's monastic code, Eisai's treatise, or Benn's religious-cultural history.[^1][^6][^2] Popular books can open curiosity; primary and scholarly trails keep the timetable honest.
 
+::: {.callout-note collapse="true" title="More detail: The Book of Tea (1906) — doorway, not gospel"}
+Okakura Kakuzō wrote *The Book of Tea* in **English** (Fox Duffield, **1906**) for Western readers—especially an early-twentieth-century American audience curious about Japan.[^4] It popularized "Teaism": simplicity, harmony, and care for everyday beauty, including reverence for imperfect things often associated with *wabi* aesthetics and with Sen no Rikyū's tea-room legacy in later reception.[^2][^4]
+
+**Useful doorway:**
+
+- A readable English invitation to tea-room atmosphere and to the idea that preparing tea is an aesthetic and ethical practice, not only a beverage step.
+- A historical artifact of *how Japan was explained to the West* in 1906—itself a cultural document.
+
+**Not a substitute for:**
+
+| If you want… | Prefer… |
+| --- | --- |
+| Monastic timetable rules | Yifa's *Chanyuan Qinggui* translation [^6] |
+| Eisai's medical-spiritual pitch | *Kissa Yōjōki* via Sen [^2][^3] |
+| Chinese religious-cultural history | Benn [^1] |
+| Botanical/tech long view | Needham [^5] |
+
+Romance to refuse: treating Okakura's 1906 English essay as if it *were* the Tang Classic, the 1103 Chan code, or a lab notebook. Doorway yes. Gospel no.[^4]
+:::
+
 
 ---
 
@@ -137,3 +196,9 @@ Okakura's 1906 *Book of Tea* gave many English-language readers their first aest
 [^6]: Yifa. (2002). *The Origins of Buddhist Monastic Codes in China: An Annotated Translation of the Chanyuan Qinggui* (pp. 114–118). University of Hawaii Press.
 
 [^7]: Lu, Yu (c. 760). *The Classic of Tea*. Translation by Carpenter, F. R. (1974). Little, Brown and Company. (Pack-cited boiling stages, pp. 85–92.)
+
+[^8]: *The Classic of Tea* (*Cha Jing*). Overview of the three-scrolls / ten-chapters structure and Chapter 5 (Boiling). https://en.wikipedia.org/wiki/The_Classic_of_Tea
+
+[^9]: Lu Yu. *Cha Jing*, Chapter 5 (*五之煮*). Chinese Text (Wikisource). Fish-eye / pearl-string / billowing-wave boil stages. https://zh.wikisource.org/wiki/%E8%8C%B6%E7%B6%93/%E4%BA%94%E4%B9%8B%E7%85%AE
+
+[^10]: Pack historiography note on the Bodhidharma eyelid legend: absent from early Chinese Chan collections such as the *Jingde chuandeng lu* (*Records of the Transmission of the Lamp*, 1004); appears later in Jesuit travel writing and late-Edo Japanese popular books as allegory rather than early monastic record. (Module 3 socio-ritual pack verification note.)
