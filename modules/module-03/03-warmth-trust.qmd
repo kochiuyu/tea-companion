@@ -2,6 +2,8 @@
 title: "3.3 Warm hands, warmer judgments?"
 ---
 
+{{< include ../../_includes/lang-switcher/module-03-warmth-trust.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 3 · Lesson 3 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

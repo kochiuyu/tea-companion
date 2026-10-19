@@ -2,6 +2,8 @@
 title: "4.3 Games of trust, fairness, and cooperation"
 ---
 
+{{< include ../../_includes/lang-switcher/module-04-trust-games.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 4 · Lesson 3 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

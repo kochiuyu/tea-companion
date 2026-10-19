@@ -2,6 +2,8 @@
 title: "2.3 When the fire alarm rings"
 ---
 
+{{< include ../../_includes/lang-switcher/module-02-stress-hormones.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 2 · Lesson 3 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

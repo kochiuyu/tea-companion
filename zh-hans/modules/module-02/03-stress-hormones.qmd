@@ -1,0 +1,125 @@
+---
+title: "2.3 当火警铃响"
+lang: zh-Hans
+---
+
+{{< include ../../../_includes/lang-switcher/module-02-stress-hormones.zh-hans.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [模块总览](../index.qmd) · [模块一](../module-01/index.qmd) · [模块二](index.qmd) · [模块三](../module-03/index.qmd) · [模块四](../module-04/index.qmd)
+:::
+
+::: {.callout-important}
+**四大模块已有中文版。** [联结桥梁](../../../linkages.qmd)、[参考文献](../../../bibliography.qmd)暂以英文提供。
+:::
+
+::: {.callout-tip}
+**模块二 · 第 3 课／共 4 课** — 属于 [2. 身体、大脑与心情](index.qmd)。刚来？先到 [模块入口](index.qmd) 看完整章节地图。
+:::
+
+::: {.callout-note collapse="true" title="怎样读这一课（脚注＋折叠）"}
+上标数字是可点击的脚注（跳到来源，箭头跳回；悬停常会弹出摘要）。折叠的「更多详情…」方框收着荷尔蒙回路名、剂量表，以及一篇篇论文的诚实笔记，让打开的页面保持白话。
+:::
+
+## 压力也有化学
+
+大脑讯号（[2.1](01-brain-action.qmd)）与脑节奏（[2.2](02-brainwaves.qmd)）是茶双重故事的两个窗口。这一坐打开第三个：**当日子本身嘈杂时，身体里发生什么**。
+
+当你受压时，身体跑着一条化学火警回路。一个主要输出是许多人听过的压力荷尔蒙：**皮质醇**。另一个快速的「前进」讯号是肾上腺素。你不需要完整回路图也能跟上故事——折叠里有它。
+
+## 白话带走
+
+想象一个火警铃（真实压力），也想象一声响亮的咖啡因「助推」警报。
+
+- 咖啡因可以推动压力化学回路，并抬高皮质醇。
+- 在每日使用咖啡因时，那个*由咖啡因驱动*的警报往往数天内变得较安静——但**真实压力**的火警铃仍可以响。[^5]
+- L-茶氨酸被研究用于：在负荷加上时，帮助令心率、血压、与压力相关的酶，以及人们*感觉*有多受压，较接近基线。[^1][^3][^4]
+
+用日常衣装说：习惯可以令咖啡因警报变安静。它不会删掉火警铃。那正是 L-茶氨酸研究赚到席位的地方。
+
+::: {.callout-note collapse="true" title="更多详情：压力回路、研究表，与诚实笔记"}
+当你受压时，身体跑着一条常被称为 **HPA 轴**的回路（脑 → 垂体 → 肾上腺）。一个输出是**皮质醇**。另一个相关讯号是**epinephrine**（肾上腺素）。**唾液 α-淀粉酶（sAA）** 是常被用作「前进系统」标记的压力相关酶。
+
+| 量度 | 条件 | 发现 | 来源 |
+| --- | --- | --- | --- |
+| 算术压力下的心率／唾液 IgA | L-茶氨酸 vs 安慰剂 | L-茶氨酸减少心率与唾液免疫—压力反应；心跳节奏模式提示较少「前进」驱动 | Kimura et al. (2007)[^1] |
+| 心智作业下的血压／紧张—焦虑 | L-茶氨酸 vs 安慰剂 | L-茶氨酸减弱高反应成人的血压上升，并降低紧张—焦虑分数（相对安慰剂） | Yoto et al. (2012)[^3] |
+| 压力实习期间的早晨唾液 α-淀粉酶 | 每日两次约 200 mg L-茶氨酸 vs 安慰剂 | 茶氨酸组在多日药学实习中显示较低的实习前 sAA，以及较低的主观压力 | Unno et al. (2013)[^4] |
+| 整天的唾液皮质醇 | 控制摄入数周后的 250 mg 咖啡因挑战 | 戒断后，咖啡因有力抬高皮质醇；约 5 天每日 300–600 mg 后，早晨挑战反应变钝，但并非整天全部消失 | Lovallo et al. (2005)[^5] |
+
+**诚实笔记：资料包表与论文在何处分歧**
+
+有些配套资料包表把一个整齐的唾液皮质醇差值（L-茶氨酸约 ±5% vs 安慰剂约 +22%）归给 **Yoto et al. (2012)**。发表的 Yoto 2012 论文量的是**压力下的血压与心情**，不是那个皮质醇对照。[^3] 因此这一课为血压／焦虑引用 Yoto，为心率／sIgA 引用 Kimura，为真实学生压力下的 sAA 引用 Unno，为咖啡因—皮质醇适应引用 Lovallo——并且**不**把错配的皮质醇归属当成事实重复。
+
+资料包表有时也把咖啡因—皮质醇适应说成「五天内几乎消失」。Lovallo 的控制试验更精确：在每日 300 或 600 mg 五天后，**早晨**咖啡因挑战的皮质醇反应大致被取消，但整天稍后在进一步剂量后皮质醇仍可上升——**减少，不是消除**。[^5]
+
+**血管张力。** 咖啡因可以作为其想睡讯号阻挡故事的一部分，令脑血管收缩。[^7] L-茶氨酸在细胞工作中被显示可促进内皮细胞一氧化氮生成——「较稳血压」语言的一条可信路径。[^2] Yoto 的人类压力设计加上一座桥：L-茶氨酸可以在高反应者中钝化与作业相关的血压攀升。[^3] 那是机制加试验的说法，不是家用血压处方。
+:::
+
+::: {.callout-tip}
+**在相信压力标题之前：** 核对**剂量**、**作业 vs 休息**、**时序**，以及**比较了什么**——正是模块 2.2 教给脑波宣称的同一四个问题。
+:::
+
+## 迷思检查：「咖啡因永久摧毁你的肾上腺」
+
+急性咖啡因可以大幅抬高皮质醇。在每日数百毫克的使用下，那个由咖啡因驱动的尖峰往往在约五天的控制摄入内缩小——但仔细的试验说的是日常水平下**不完整**的安静，不是永久肾上腺摧毁，也不是总静音键。[^5] 由压力驱动的反应仍可以上升，那正是 L-茶氨酸研究（Kimura、Yoto、Unno）赚到席位的地方。[^1][^3][^4] 关于 L-茶氨酸与压力／焦虑的系统综述保持谨慎：部分试验有效应，但剂量、场景，以及你量什么都很重要。[^6]
+
+## 通往第 4 章的桥
+
+这条荷尔蒙线索也向前伸进第 4 章：当压力化学上升时，人们在某些实验室场景可以变成较 агре的风险追求者。压力下软化的损失厌恶，是 [联结桥梁](../../../linkages.qmd)（英文）页上的桥之一。
+
+荷尔蒙仍有点看不见。身体外面你可以看到什么？
+
+## 一分钟故事
+
+压力跑着一条朝向皮质醇与相关讯号的化学火警回路。咖啡因可以推动那条回路；习惯摄入不完全地钝化由咖啡因驱动的尖峰。L-茶氨酸被研究用于：在负荷下令心率、血压、压力酶与主观压力较接近基线。错把皮质醇数字归给 Yoto 2012 的资料包表在这里被改正：Yoto 是血压与心情；Lovallo 是咖啡因—皮质醇适应。
+
+::: {.callout-tip title="你可以停在这里"}
+- 压力有化学：火警荷尔蒙故事，不只是心情词。
+- 咖啡因可以抬高警报；与 L-茶氨酸相关的饮品，在引用设计里更常令标记较接近基线。
+- 相信压力标题之前：**剂量、作业、时序、对照**（与模块 2.2 同一素养）。
+:::
+
+::: {.callout-note collapse="true" title="更多详情：喝这杯茶时这意味着什么"}
+- 「我已适应咖啡」≠「压力不再抬高皮质醇」。[^5]
+- L-茶氨酸压力发现常常是**作业**或**真实生活压力**设计——不是沙发上的魔法。[^1][^4]
+- 血管与血压说法是支持性生理，不是治疗计划。[^2][^3]
+:::
+
+::: {.callout-note collapse="true" title="更多详情：哪篇论文回答哪个问题？"}
+| 问题 | 较好的主要路径 |
+| --- | --- |
+| L-茶氨酸是否在急性实验室压力下减少心率／压力标记？ | Kimura et al. (2007)[^1] |
+| L-茶氨酸是否在心智作业下钝化血压／紧张？ | Yoto et al. (2012)[^3] |
+| 多日茶氨酸是否改变真实学生压力下的 sAA／主观压力？ | Unno et al. (2013)[^4] |
+| 每日咖啡因是否钝化由咖啡因驱动的皮质醇？ | Lovallo et al. (2005) — 减少，不是消除[^5] |
+| 综述是否保持谨慎？ | Williams et al. (2020)[^6] |
+
+把问题对准论文，就是本课程在次级表糊在一起时保持诚实的方式。
+:::
+
+::: {.callout-tip collapse="true" title="点开更多详情：第 2.3 课带走检查清单"}
+1. 压力回路 → 皮质醇；咖啡因可以推动它（上面折叠里有 HPA 轴）。
+2. 习惯化 ≠ 零压力化学。[^5]
+3. L-茶氨酸证据依标记与场景而异。[^1][^3][^4]
+4. 看见资料包／论文错配时改正它们（Yoto ≠ 那个皮质醇差值）。
+5. 下一课：不用荷尔蒙化验也能量的身体仪表。
+:::
+
+---
+
+**导航：** [↑ 模块二入口](index.qmd) · [← 上一课](02-brainwaves.qmd) · [下一课 →](04-body-signals.qmd)
+
+[^1]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
+
+[^2]: Siamwala, J. H., et al. (2013). L-Theanine promotes nitric oxide production in human endothelial cells via eNOS phosphorylation. *Journal of Nutritional Biochemistry, 24*(3), 595–605.
+
+[^3]: Yoto, A., Motoki, M., Murao, S., & Yokogoshi, H. (2012). Effects of L-theanine or caffeine intake on changes in blood pressure under physical and psychological stresses. *Journal of Physiological Anthropology, 31*, 28. https://doi.org/10.1186/1880-6805-31-28
+
+[^4]: Unno, K., et al. (2013). Anti-stress effect of theanine on students during pharmacy practice: positive correlation among salivary α-amylase activity, trait anxiety and subjective stress. *Pharmacology Biochemistry and Behavior, 111*, 128–135. https://doi.org/10.1016/j.pbb.2013.09.004
+
+[^5]: Lovallo, W. R., et al. (2005). Caffeine stimulation of cortisol secretion across the waking hours in relation to caffeine intake levels. *Psychosomatic Medicine, 67*(5), 734–739. https://doi.org/10.1097/01.psy.0000181270.20036.06
+
+[^6]: Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine consumption on the ability to manage stress and anxiety levels: A systematic review. *Plant Foods for Human Nutrition, 75*(1), 12–23.
+
+[^7]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83

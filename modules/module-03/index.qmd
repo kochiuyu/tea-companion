@@ -2,6 +2,8 @@
 title: "3. History, Ritual & Warmth"
 ---
 
+{{< include ../../_includes/lang-switcher/module-03.en.qmd >}}
+
 If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back until the whole room comes into view.
 
 Tea is not only chemistry in a cup. It remade **trade balances** between China and Britain. It became a **monastic focus aid** in Chan/Zen practice. Even holding a **warm mug** shows up in psychology experiments on trust. And a short, familiar **brewing sequence**—measure leaves, watch the water, wait—can act as a practical stress break under pressure.

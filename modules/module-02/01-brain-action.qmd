@@ -2,6 +2,8 @@
 title: "2.1 Gas pedals, brakes, and a busy road"
 ---
 
+{{< include ../../_includes/lang-switcher/module-02-brain-action.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 2 · Lesson 1 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

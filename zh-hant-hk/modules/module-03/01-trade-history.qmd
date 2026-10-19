@@ -1,0 +1,247 @@
+---
+title: "3.1 白銀、船隻，以及誰控制了葉子"
+lang: zh-Hant-HK
+---
+
+{{< include ../../../_includes/lang-switcher/module-03-trade-history.zh-hant-hk.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../index.qmd) · [模組一](../module-01/index.qmd) · [模組二](../module-02/index.qmd) · [模組三](index.qmd) · [模組四](../module-04/index.qmd)
+:::
+
+::: {.callout-important}
+**四大模組已有中文版。** [連結橋樑](../../../linkages.qmd)、[參考文獻](../../../bibliography.qmd)暫以英文提供。
+:::
+
+::: {.callout-tip}
+**模組三 · 第 1 課／共 4 課** — 屬於 [3. 歷史、儀式與溫暖](index.qmd)。剛來？先到 [模組入口](index.qmd) 看完整章節地圖。
+:::
+
+::: {.callout-note collapse="true" title="怎樣讀這一課（腳註＋摺疊）"}
+上標數字是可點擊的腳註（跳到來源，箭嘴跳回；懸停常會彈出摘要）。摺疊的「更多詳情…」方框收着較密的貿易數字與植物轉移時間線，令打開的頁面保持故事，而不是表格牆。
+:::
+
+## 便宜茶包背後的昂貴過去
+
+從超市貨架上的奇蹟開始：一包便宜的茶。那便宜有地緣政治的過去。在茶成為超市日常之前，它是戰略商品——用白銀支付、用炮艇爭奪，最終種在殖民種植園上，好讓一個帝國不必永遠依賴另一個。
+
+把兩幅圖並排。一幅裡，1830 年代英國帳房看着白銀流向廣州，茶箱運回家。另一幅裡，你廚房水壺咔嗒關掉，一包茶比三文治還便宜。這一課走過兩者之間的路——不發明新的經濟理論，也不把茶包變成道德劇。數字與條約條款來自主人資料包與下面具名的歷史。
+
+若模組一問的是*杯裡是甚麼植物*，這一課問的是*誰控制了葉子*——以及那控制代價是甚麼。
+
+## 白銀向東流
+
+在**廣州體制（Canton System）**時代（1757–1842），西洋與清廷的海上貿易經廣州（Guangzhou）集中。買家為中國茶、絲綢與瓷器，多半以**實體白銀**支付。英國要茶；清廷對英國回報的製成品興趣不大。白銀向東流，英國商人與東印度公司尋找扭轉外流的方法。[^1][^2]
+
+資料包統計把早期壓力寫成硬數字：在**1710 至 1759**年間，公司向廣州輸出約 **£26.5 million** 銀條——佔該窗口對中國出口總值逾 **90%**（Pritchard, 1936；資料包）。那不是「貿易失衡」的隱喻。那是船上的金銀條。
+
+他們的答案是**鴉片**：在英屬印度種植，走私進中國換白銀——再買更多茶。到 1830 年代末，鴉片銷售幫助為英國茶貿易融資。清廷官員試圖阻止；衝突隨之而來。
+
+想像一家店是唯一賣人人都想喝的飲品的地方，顧客必須用稀有硬幣支付。最終買家另找農場——有時用武力與政治改寫規則。那就是茶—白銀—鴉片故事的粗略形狀（真實日期與數字在下面）。
+
+::: {.callout-note collapse="true" title="更多詳情：白銀外流與鴉片箱"}
+| 事實 | 數字 | 情境 | 路徑 |
+| --- | --- | --- | --- |
+| 公司白銀到廣州，1710–1759 | 約 **£26.5 million** | 佔該窗口公司對中國出口總值逾 **90%** | Pritchard (1936；資料包) |
+| 鴉片箱到中國 | **4,244**（1820）→ **40,200**（1839）；約 **133 lb**／箱 | 有助扭轉貿易平衡；中國白銀外流約 **$34 million**（1831–1838） | Morse (1926；資料包)[^10] |
+
+廣州體制要求白銀結算，並把西洋貿易限制在廣州。[^1][^2] 英國要茶；清廷對英國貨興趣不大；英屬印度種植的鴉片成為再平衡工具——然後是戰爭與條約。[^1][^5][^6]
+
+這些數字是資料包裡的**歷史次級統計**（Pritchard；Morse）。我們按資料包所給複述——有用的數量級錨，不是關於清廷財政的新計量模型。
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：廣州貿易的一天（行商，不是自由市場）"}
+西洋船並不溜進中國市集、跟任何人討價還價。從十八世紀中葉到《南京條約》，清廷把西洋海上貿易經廣州集中，並特許一個小公會——**公行（Cohong）**（*gonghang*）——處理。[^11][^1]
+
+Britannica 對日常規則的素描，用白話說：[^11]
+
+- 一位行商**擔保**每艘到來的外國船：關稅已付，外國人行為有人負責。
+- **1757** 年後，當廣州是唯一對這貿易開放的中國口岸時，只有行商獲准向西洋人賣**茶與絲**。
+- 行號理論上有 **13** 家，但活躍的常常只有少數。有幾位，如 Howqua（伍秉鑑），變得出了名地富——即使官員以沉重勒索擠壓公會。
+- 英國與清廷在這渠道裡並非政府對政府打交道。東印度公司與公行夾在中間。
+
+那正是為甚麼從 1842 年才開始的「便宜茶包」故事已經晚了。戰前幾十年，茶經特許商人、白銀結算與官方監督的瓶頸離開中國——不是經開放的商品交易所。[^11][^2]
+
+**誠實圍欄：** 這個摺疊描述的是*貿易架構*，不是宣稱行商「導致」鴉片戰爭，或每一箱茶都經某個漫畫反派。白銀、鴉片、主權與強制外交糾纏在一起。[^5][^6]
+:::
+
+## 戰爭、條約與開放口岸
+
+第一次鴉片戰爭（1839–1842）以英方勝利與**《南京條約》（Treaty of Nanking）**結束（1842 年 8 月 29 日簽署；1843 年 6 月 26 日批准）：五個通商口岸開放、香港島割讓、公行壟斷廢除，並施加大筆賠款。[^1][^3][^4]
+
+常列的口岸包括 Canton、Amoy、Foochow、Ningpo 與 Shanghai。[^3][^4] 賠款很大——在資料包教學統計裡約 **21 million** 銀元——美元切片與條款編號細則住在摺疊裡（條約文本與資料包簡寫並不以同一方式標每一片）。
+
+英國接着在自己殖民地推動種茶，好不必永遠依賴中國葉。那就是從「中國壟斷」到「種植園商品」的鉸鏈。
+
+四時代地圖（廣州 → 戰爭 → 植物轉移 → 種植園）與 Article VI／IV–VII 美元拆解坐在摺疊裡——打開的路徑保持故事，不是試算表。
+
+::: {.callout-note collapse="true" title="更多詳情：四時代地圖（廣州 → 種植園）"}
+| 時代 | 誰 | 核心故事 | 結果 | 來源 |
+| --- | --- | --- | --- | --- |
+| 廣州體制（1757–1842） | 清廷 vs 英國／東印度公司 | 西洋買家多半以白銀買中國茶，抽乾西方白銀並造成貿易逆差 | 公司轉向向中國走私鴉片以再平衡貿易 | Farooqui (2005)；National Army Museum [^5][^1] |
+| 鴉片戰爭（1839–1860） | 英國、清廷、公司 | 武力與條約開放口岸；香港割讓 | 英國在自己殖民地推動種茶以減少對中國依賴 | Lovell (2011)；Britannica 概覽 [^6][^4] |
+| 公司植物轉移（1848–） | Kew 網絡、公司、Robert Fortune | Fortune 進入中國內地尋找植物、種子與加工知識 | 中國加工知識移到英國經營的印度種植園 | Kew 歷史；Brockway (1979) [^7][^8] |
+| 十九世紀末種植園 | 英屬印度（Assam、Darjeeling） | 在讓渡土地上的大型工業園 | 全球中國壟斷被打破；茶成為便宜的大眾商品 | Sharma (2011)；Kew [^9][^7] |
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：《南京條約》條款（資料包讀法）與 $6／$3／$12"}
+| 條款（資料包框法） | 內容 | 為甚麼對茶重要 |
+| --- | --- | --- |
+| Article II | 開放 **5** 個通商口岸 | 打破單一口岸的廣州漏斗 |
+| Article III | 割讓**香港島** | 永久英國立足點 |
+| Article VI | 約 **21 million** 銀元的賠款 | 資料包摘要裡的補償拆解：約 **$6M** 鴉片、約 **$3M** 債務、約 **$12M** 戰爭費用 |
+
+條約文本與學術概覽同意口岸—香港—賠款骨架。[^3][^4] 資料包的美元拆解是當代人怎樣算帳的教學快照——不是宣稱茶單獨「導致」戰爭。白銀、鴉片、主權與強制外交糾纏在一起。[^5][^6]
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：《南京條約》實際寫下了甚麼"}
+英文文本（1842 年 8 月 29 日簽署；1843 年 6 月 26 日換約）比一行「中國開放了」更具體。公開的條款轉錄與資料包教學拆解對齊：[^12][^3]
+
+| 條款 | 簡短說甚麼 | 茶故事鉤子 |
+| --- | --- | --- |
+| **II** | 英國商人可在 **Canton、Amoy、Foochow-fu、Ningpo 與 Shanghai** 居住與貿易，以領事為中介 | 結束單一口岸漏斗 |
+| **III** | **香港島**「永久」割讓，作為修船與貯船口岸 | 永久英國立足點——對香港讀者並非抽象 |
+| **IV** | **六百萬**元，為 1839 年 3 月在廣州交出的鴉片 | 帳單上點名鴉片，不只在後來口號裡 |
+| **V** | 英國商人居住口岸廢除**行／公行**專營；**三百萬**元為無力償債行商的債務 | 特許公會失去法律壟斷，*且*未付英國債務轉到清廷國庫 |
+| **VI** | **一千二百萬**元作為英軍遠征費用（扣減 1841 年 8 月 1 日後所取贖金） | 軍費是最大一片 |
+| **VII** | **二千一百萬**總額分期：即時 6m、1843 年 6m、1844 年 5m、1845 年 4m；逾期分期每年 **5%** | 資料包的「$6M／$3M／$12M」是 Articles IV–VI 加總——不是 Article VI 裡單一神秘整塊 |
+
+**資料包 vs 條約措辭。** 主人資料包把整筆 **21 million** 以教學標籤歸在「Article VI」下，再拆成 6／3／12。條約文本本身把鴉片補償放在 **IV**、行商債務放在 **V**、戰爭費用放在 **VI**，**21 million 總額**放在 **VII**。[^12] *美元*對得上。資料包簡寫裡的*條款編號*是壓縮標籤，不是取代條款。我們兩者都看得見，好讓仔細的讀者不感意外。
+
+仍不是宣稱茶單獨導致戰爭。[^5][^6]
+:::
+
+## Fortune 迷思，改正
+
+人們有時講一個整齊的起源迷思：「Robert Fortune 在 1848 年首次把茶帶到印度。」時間線更豐富——也更有趣。
+
+一位蘇格蘭軍官 **Robert Bruce**，得知 Assam 的 Singhpho 社群種茶；他死後弟弟 **Charles Bruce** 栽培植物並送樣。**1834** 年聖誕夜，植物學家 **Nathaniel Wallich** 確認它們是茶。東印度公司在 1833 年 Saint Helena Act 下失去中國貿易壟斷，突然非常在乎印度來源。[^7]
+
+**Robert Fortune** 1848–1851 的任務仍然重要——但理由不同。他喬裝進入中國內地，收集植物、種子、工具，以及——關鍵地——中國茶工與加工知識，給英國經營的種植園。Kew 的公開歷史強調 Fortune 在地上也注意到的一點：綠與紅來自同一植物；加工決定顏色。[^7] Fortune 並沒有「發明」印度茶。野生 Assam 茶已在 1820 年代被識別，1830 年代獲確認。Fortune 的贈禮是中國 *sinensis* 品種、來自安徽與福建等地的熟練製茶人，以及疊加到已在進行的 Assam 產業上的小規模工藝知識。[^7][^8][^9]
+
+那個植物故事回到 [模組一 · 植物](../module-01/01-plants.qmd)：中國型與阿薩姆型葉不只是品飲筆記——它們是這次轉移的植物學殘留。
+
+::: {.callout-note collapse="true" title="更多詳情：Assam 在先，Fortune 在後"}
+**資料包堅持的順序：**
+
+1. **1820 年代** — Robert Bruce 得知 Singhpho 種植的 Assam 茶；Charles Bruce 栽培並送樣。
+2. **1834 年聖誕夜** — Nathaniel Wallich 在 Calcutta Botanic Garden 確認植物是茶。[^7]
+3. **1833** — 公司中國壟斷在 Saint Helena Act 下結束；印度葉突然顯得戰略。
+4. **1848–1851** — Fortune 的任務取得 *sinensis* 品種、工具、工人與加工秘密——不是「印度第一株茶」。[^7][^8]
+
+說「Fortune 在 1848 年把茶引入印度」的次級歷史，把步驟 1–3 壓成單一間諜傳奇。資料包的核對筆記拒絕那種壓縮。Kew 的公開歷史是同一改正的可讀主要路徑。[^7]
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：按順序的植物獵人——Banks、Bruce、Wallich、Fortune"}
+Kew 的公開歷史（Andrew Butterworth, 2015）與資料包核對筆記講同一順序，若你想要名字，還有額外色彩：[^7]
+
+1. **1788 — Joseph Banks 先看印度。** 在任何「偷秘密」傳奇之前，Banks 向東印度公司建議，印度東北部部分地方可能適合茶。興趣比 Fortune 更早。
+2. **1820 年代 — Robert Bruce 與 Singhpho。** Bruce 從 Assam 貴族 **Maniram Datta Barua** 得知 Singhpho 社群已在種茶。Robert 於 **1824** 年去世；他曾把種子送給弟弟 **Charles**，後者種植物並後來報告 Assam 製茶（他 1839 年報告在 Kew 頁上被引用）。
+3. **1834 年聖誕夜 — Wallich。** Nathaniel Wallich 在 Calcutta 確認 Charles Bruce 的樣本是茶。資料包與 Kew 同意那個日期。
+4. **1833 — 公司中國壟斷結束。** Saint Helena Act（亦稱 Government of India Act 1833）移除公司對中國貿易的壟斷。印度葉突然顯得戰略，*因為英國或許不能永遠控制中國來源*——不是因為沒人注意到 Assam 茶。
+5. **1848–1851 — Fortune 不同的工作。** 東印度公司派 Robert Fortune 進入中國內地，尋找品種、工具與熟練製茶人。在他自己 1852 年序言裡，他說 **1848 年 6 月 20 日**離開 Southampton，**8 月 14 日**在香港上岸，並帶回**逾兩萬**茶苗、**八**位製茶人，以及給公司喜馬拉雅種植園的器具。[^13] Kew 記下 **Wardian cases**（密封玻璃植物箱）與加工洞見：綠與紅來自同一植物。RHS 記錄一次更早、分開的旅程（1843–1846）給園藝學會——觀賞植物——在茶委託之前。[^14]
+
+**要拒絕甚麼：**「Fortune 在 1848 年首次把茶帶到印度。」野生 Assam 茶在他出航*之前*已被識別並經植物學確認。他的貨物是中國 *sinensis* 知識，疊加到已在進行的產業上。[^7][^8]
+
+**餘震，仍來自 Kew——不是新經濟模型：** 到 **1890**，Kew 歷史說，印度供應英國國內茶市場約 **90 percent**。同一頁對清理土地建園的人力代價直言不諱，並記下曾先告訴 Robert Bruce 葉子的 Maniram，在 1857 年起義後被處決。Sharma 的 *Empire's Garden* 是種植園怎樣改造土地與勞動的更長學術路徑。[^9] 那些行是超市茶包的情境。它們不是宣稱我們重新估算了殖民利潤份額。
+:::
+
+## 從壟斷葉到大眾商品
+
+十九世紀末 Assam 與 Darjeeling 的英國種植園，把茶變成讓渡土地上的工業作物。全球中國壟斷被打破；茶成為便宜的大眾商品。[^9][^7] 你超市茶包之所以存在，部分因為帝國、植物學與工業種植園改寫了誰種葉、以及它能多便宜地運送。
+
+那是歷史——不是化學宣稱。模組一仍解釋為甚麼袋子味道如此。這一課解釋為甚麼袋子*在那裡*，價錢只是零錢。
+
+帝國解釋茶怎樣變得便宜而無處不在。但在鴉片戰爭很久以前，茶有另一份工作：幫助人們為長時間修行保持清醒。那條路——藥湯到寺院到茶室——是下一課。
+
+::: {.callout-tip collapse="true" title="點開更多詳情：這一課不在宣稱甚麼"}
+- 不宣稱茶單獨「導致」鴉片戰爭——白銀、鴉片、主權與強制外交糾纏在一起。[^5][^6]
+- 不發明清廷或英國財政的新模型——資料包數字（Pritchard；Morse）作為教學錨複述。
+- 不說 Fortune「把茶偷進印度存在」——Assam 識別早於他的任務。[^7]
+- 不是模組一植物與加工故事的替代——兩者並用：[植物](../module-01/01-plants.qmd) · [加工](../module-01/02-processing.qmd)。
+:::
+
+
+## 為甚麼經濟學家擁有的站仍講這個故事
+
+本站主人是經濟學家。那是**謙卑**的理由，不是發明私有清廷白銀流模型的理由。資料包已給出教學統計（Pritchard；Morse）與條約骨架。我們複述它們，好讓初學者感覺外流的*規模*——不是假裝重新估算十九世紀貿易彈性。
+
+注意這一課拒絕甚麼：
+
+- 它不宣稱茶單獨「導致」戰爭。
+- 它不把 Fortune 當成「發明」印度茶的漫畫小偷。
+- 它不把「今天便宜的超市茶包」與「道德簡單的歷史」混淆。
+
+帝國、植物學與工業種植園打破了更舊的壟斷。化學（模組一）仍解釋杯的內容。歷史解釋杯的價錢與存在。
+
+::: {.callout-note collapse="true" title="更多詳情：這一課怎樣連到模組一與茶葉入門"}
+| 日常標籤 | 這一課的歷史鉸鏈 | 下一步去哪裡 |
+| --- | --- | --- |
+| Assam／英式早餐風格的濃紅茶 | Assam 產業在 1830 年代獲確認；後來工業園 | [1.1 植物](../module-01/01-plants.qmd) · [茶葉入門](../../tea-basics.qmd) |
+| 中國風格綠茶／較淡紅茶 | Fortune 的 *sinensis* 品種＋加工知識疊加到 Assam | [1.2 加工](../module-01/02-processing.qmd) |
+| 「便宜茶包」 | 壟斷打破後十九世紀末種植園商品 | 這一課的結尾 |
+
+若貨架詞仍覺得滑，先從 [茶葉入門](../../tea-basics.qmd) 開始，再回來這裡看地緣政治情節。
+:::
+
+## 白銀—鴉片迴路的慢讀
+
+試着按資料包所講，用四拍走迴路：
+
+1. **需求。** 英國要茶（以及絲、瓷器）。
+2. **結算。** 清廷廣州規則要求白銀，不要英國製成品。
+3. **再平衡嘗試。** 英屬印度鴉片賣進中國換白銀；白銀買更多茶。
+4. **碰撞。** 清廷查禁遇上英方武力；條約開放口岸並轉移主權；殖民種植園減少對中國葉的依賴。
+
+箱數令第 3 拍有體感：**4,244** 箱（1820）→ **40,200**（1839）。中國白銀外流約 **$34 million**（1831–1838）坐在資料包表裡那次激增旁邊（Morse）。你不需要經濟史博士學位才感覺流向——只需要謙卑，把數字標為次級統計。
+
+《南京條約》接着把第 4 拍寫進法律：口岸、香港島、賠款。Lovell 的敘事史與博物館／檔案解說，是若你想要試算表之外的人性與政治質地時的可讀同伴。[^6][^1][^2]
+
+
+
+## 香港、口岸，與餘震
+
+對亞洲／香港讀者尤其，《南京條約》並非抽象：Article III 對香港島的割讓，坐在五個通商口岸與賠款帳單旁邊。[^3][^4] 直到 1860 年的後來衝突，進一步擴展通商口岸體系（資料包鴉片戰爭時代那一行）。茶故事只是那更大主權與貿易轉型裡的一條線——但它是一條結束在你櫥櫃裡的線。
+
+Sharma 的 *Empire's Garden* 跟着 Assam 種植園在植物學與政治碎片到位後，怎樣改造土地、勞動與商品市場。[^9] Kew 的公開歷史仍是 Fortune vs Bruce vs Wallich 時序最易接近的開放路徑。[^7]
+
+
+
+::: {.callout-tip title="你可以停在這裡"}
+- 便宜的超市茶包有地緣政治過去：白銀向東、鴉片向西、戰爭，然後殖民種植園。
+- 廣州經特許行商漏斗貿易——不是開放市集。
+- Fortune **沒有**「發明」印度茶；Assam 更早被識別。他的贈禮是中國植物、製茶人與知識。
+- 化學（模組一）仍解釋杯子；這一課解釋為甚麼袋子在那裡，價錢只是零錢。
+:::
+
+---
+
+**導航：** [↑ 模組三入口](index.qmd) · [← 入口](index.qmd) · [下一課 →](02-monastic-path.qmd)
+
+[^1]: National Army Museum. First China War (First Opium War), 1839–1842. https://www.nam.ac.uk/explore/first-china-war-1839-1842
+
+[^2]: The National Archives (UK). Hong Kong and the Opium Wars (education resource). https://www.nationalarchives.gov.uk/education/teaching-resources/hong-kong-and-the-opium-wars/
+
+[^3]: MIT Visualizing Cultures. The First Opium War (essay / primary-image context). https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay_04.pdf
+
+[^4]: Britannica. First Opium War (scholarly overview). https://www.britannica.com/topic/Opium-Wars
+
+[^5]: Farooqui, A. (2005). *Opium City: The Making of Early Victorian Bombay*. Three Essays Collective.
+
+[^6]: Lovell, J. (2011). *The Opium War: Drugs, Dreams, and the Making of Modern China*. Picador.
+
+[^7]: Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
+
+[^8]: Brockway, L. H. (1979). Science and colonial expansion: The role of the British Royal Botanic Gardens. *American Ethnologist, 6*(3), 449–465.
+
+[^9]: Sharma, J. (2011). *Empire's Garden: Assam and the Making of India*. Duke University Press.
+
+[^10]: Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press. (Pack-cited chest and silver-outflow tallies.)
+
+[^11]: Britannica. Canton system; Cohong (hong merchants). https://www.britannica.com/event/Canton-system · https://www.britannica.com/money/cohong
+
+[^12]: Treaty of Nanking (Nanjing), signed 29 August 1842. English text transcription, USC U.S.–China Institute. https://china.usc.edu/node/20462 (Articles II–VII: five ports, Hong Kong Island, the 6 + 3 + 12 million dollar clauses, and the 21 million schedule with 5% interest on arrears.)
+
+[^13]: Fortune, R. (1852). *A Journey to the Tea Countries of China*. London: John Murray. Preface (departure 20 June 1848; Hong Kong 14 August 1848; "upwards of twenty thousand" plants and eight manufacturers).
+
+[^14]: Royal Horticultural Society. Plant Collector Archive: Robert Fortune (1812–1880), including the 1843–1846 Horticultural Society journey and the 1848 East India Company tea commission. https://collections.rhs.org.uk/view/327706/rhs-plant-collector-archive-robert-fortune

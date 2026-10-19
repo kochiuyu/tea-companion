@@ -2,6 +2,8 @@
 title: "3.2 From medicine soup to monastery to tea room"
 ---
 
+{{< include ../../_includes/lang-switcher/module-03-monastic-path.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 3 · Lesson 2 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::
