@@ -2,6 +2,8 @@
 title: "1.1 Two plants, one species"
 ---
 
+{{< include ../../_includes/lang-switcher/module-01-plants.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 1 · Lesson 1 of 4** — part of [1. The Chemical Core](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

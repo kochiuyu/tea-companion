@@ -2,6 +2,8 @@
 title: "1. The Chemical Core"
 ---
 
+{{< include ../../_includes/lang-switcher/module-01.en.qmd >}}
+
 Here is a small mystery almost every tea drinker has lived through.
 
 You buy two boxes. Both say "tea." One pours pale and grassy. The other pours dark and malty. One leaves you gently alert. The other can feel stronger, more "coffee-adjacent." Same grocery aisle. Same word on the label. So what changed—the plant, the factory, or the way you steeped it?

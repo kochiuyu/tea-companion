@@ -2,6 +2,8 @@
 title: "Modules"
 ---
 
+{{< include ../_includes/lang-switcher/modules.en.qmd >}}
+
 Imagine this site as a short trip with four stops—and each stop now has **four lessons** (sixteen sittings in all), matching the owner's source-pack branches.
 
 You begin in a garden and a kitchen—plants, processing, brewing, and the compounds in a mug. You travel inward into the body and brain. You climb out again into history, monasteries, warm hands, and ritual. You end in a lab where people play careful games about risk and trust. Each lesson answers a question the previous one left hanging.

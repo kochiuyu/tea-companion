@@ -1,0 +1,167 @@
+---
+title: "1.4 杯里的三位角色"
+lang: zh-Hans
+---
+
+{{< include ../../../_includes/lang-switcher/module-01-compounds.zh-hans.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [模块总览](../index.qmd) · [模块一](index.qmd)
+:::
+
+::: {.callout-important}
+**模块一已有中文版。** 模块二至四、[联结桥梁](../../../linkages.qmd)、[参考文献](../../../bibliography.qmd)暂以英文提供。
+:::
+
+::: {.callout-tip}
+**模块一 · 第 4 课／共 4 课** — 属于 [1. 化学核心](index.qmd)。刚来？先到 [模块入口](index.qmd) 看完整章节地图。
+:::
+
+::: {.callout-note collapse="true" title="怎样读这一课（脚注＋折叠）"}
+上标数字是可点击的脚注（跳到来源，箭头跳回；悬停常会弹出摘要）。折叠的「更多详情…」方框收着分子式、半衰期表、受体／路径标签，以及胶囊 vs 罐子数学，让打开的页面保持白话。
+:::
+
+## 按不同时钟到来的客人
+
+日常谈茶化学，多数围绕三个名字。把它们当成以不同速度到来、在不同时间离开的客人——在植物（[1.1](01-plants.qmd)）、厂房分叉（[1.2](02-processing.qmd)）与水壶（[1.3](03-brewing.qmd)）已做完它们的工作之后。
+
+打开的故事你只需要三个白话时钟：**提神**（以小时计）、**平静专注**（数十分钟），以及**绿茶植物化合物**（介乎其间）。分子式、半衰期表、肝酶名与受体细节，住在折叠里。
+
+::: {.callout-tip title="这趟旅程的日常词"}
+- **提神客人** — 咖啡因；挡住「该睡觉了」的感觉。
+- **平静专注客人** — L-茶氨酸；把嘈杂的闲聊调柔，令注意力感觉不那么慌。
+- **绿茶植物化合物客人** — EGCG；绿茶里最突出的儿茶素。
+- **不是即时禅** — 峰值效应在喝后数十分钟，不在第一口。
+:::
+
+## 咖啡因——熟悉的提神客人
+
+**咖啡因**支持清醒。白话说，它挡住脑里「你开始困了」的讯号，所以你继续工作。血里的典型故事：它往往盘桓**数小时**——不过人与人差很多。[^1]
+
+最后那句很重要。朋友「晚饭还在Buzz」可以是生物化学，不是戏剧。想要分子式、半衰期范围，以及那份差异背后的肝酶名时，打开下面的折叠。
+
+## L-茶氨酸——平静专注客人
+
+**L-茶氨酸**是茶里一种令人平静的氨基酸。白话说，它轻轻关掉过量的「冲」闲聊，支持较平静、较可控的注意力——想像音量旋钮，不是安眠药。血里的典型故事：时钟比咖啡因**短**，往往以**数十分钟**量到稍多于一小时。[^2][^3]
+
+## EGCG——绿茶儿茶素客人
+
+**EGCG**是主要的绿茶植物化合物（一种儿茶素）。在模块一的日常说法里，它是 [第 1.3 课](03-brewing.qmd) 里需要更多热与时间才离开叶子的那位客人。研究文献里，它出现在炎症与细胞讯号的对话中。血里的典型故事：口服剂量后的**多小时**尺度——夹在咖啡因的长盘桓与 L-茶氨酸的较短时钟之间。[^4]
+
+## 为什么「我一小时前喝了茶」是三个故事
+
+日常衣服里的「半衰期」意思是：血里量大约减半要多久——不是「完全消失」。这很重要，因为「我一小时前喝了茶」对每种化合物不是同一个故事。咖啡因往往盘桓数小时。L-茶氨酸的血浆时钟较短。EGCG 介乎其间。人体时程工作显示，口服峰值大约在数十分钟到一两小时，视化合物与剂型而定。[^5][^6]
+
+那么喝的时候该预期什么？来自咖啡因的清醒，以及来自 L-茶氨酸的平静专注贡献——但不是第一口的「即时禅」。L-茶氨酸的血峰值往往约在喝后 **35–50 分钟**。与 L-茶氨酸相关的清楚脑波变化，通常约在摄入后 **30–45 分钟** 报告。[^7] 志愿者研究里，L-茶氨酸加咖啡因的饮品，注意力益处往往约在一小时标记附近。[^8][^10]
+
+最后一点杀死一个流行说法：「茶给你即时禅专注。」L-茶氨酸确实到达脑，但来源报告的是上面的时间——不是第一口。
+
+::: {.callout-note collapse="true" title="更多详情：分子式、半衰期，以及为什么人与人不同"}
+| 客人 | 分子式 | 约分子量 | 典型血浆半衰期 | 日常角色 |
+| --- | --- | --- | --- | --- |
+| 咖啡因 | C₈H₁₀N₄O₂ | 194.19 g/mol | 约 **3–7 小时** | 挡住腺苷「困」受体 |
+| L-茶氨酸 | C₇H₁₄N₂O₃ | 174.20 g/mol | 约 **50–80 分钟** | 调柔过量兴奋闲聊；支持平静专注 |
+| EGCG | C₂₂H₁₈O₁₁ | 458.37 g/mol | 约 **2–5 小时** | 主要绿茶儿茶素；炎症／细胞讯号研究 |
+
+半衰期意思是「血水平大约减半要多久」，不是「完全消失」。咖啡因往往盘桓数小时；L-茶氨酸的血浆时钟较短；EGCG 介乎其间。[^1][^4][^5]
+
+**为什么咖啡因范围很宽。** 多数咖啡因清除经由肝酶 **CYP1A2**，而那项活性人与人差很多。吸烟、荷尔蒙、药物、肝健康与基因（包括常见 CYP1A2 变体）都会移动一剂量盘桓多久。[^9] 所以「我三小时前喝了茶」对每位饮者不是同一个故事——甚至在你计算杯浓度之前。
+
+**受体／路径标签（给模块二交叉链接）。** 咖啡因的日常作用是腺苷受体拮抗。[^1] L-茶氨酸可以在某些麸胺酸受体位点（AMPA、kainate、NMDA 相关）弱竞争——远不如麸胺酸本身有力——符合「调柔嘈杂闲聊」的画面。[^2][^3] EGCG 出现在资料包里与 NF-κB 相关及其他细胞讯号的谈话；模块一只需要时钟与绿茶身分。[^4]
+
+人体时程工作显示，口服峰值大约在数十分钟到一两小时，视化合物与剂型而定。[^5][^6] 与 L-茶氨酸相关的清楚 α 波变化，往往约在摄入后 **30–45 分钟** 报告；L-茶氨酸加咖啡因的注意力益处往往约在一小时标记。[^7][^8]
+:::
+
+::: {.callout-note collapse="true" title="更多详情：实验室毫克 vs 超市杯"}
+许多认知与脑电试验用**纯化**的 L-茶氨酸与咖啡因、已知毫克剂量——例如 Owen 等人的 **50–100 mg** L-茶氨酸配 **50 mg** 咖啡因，或其他设计里更高的分离剂量（包括 Haskell 等人）。[^8][^10] 你超市的茶包是混合物，随叶、牌子与浸泡而变。
+
+Keenan 的杯测量提醒我们：普通两分钟杯往往送出 **数十毫克** L-茶氨酸，不是 200 mg 胶囊。[^11] 抹茶与遮荫绿可以爬高；快速红茶包通常茶氨酸较低、较偏「熟悉的咖啡因」一边。标题说「茶做 X」时，打开 [杯量参考](../../cup-reference.qmd)——问**哪些毫克、哪个基质、哪个时钟**。
+
+第 2 章会接上脑里的双重故事（咖啡因＋L-茶氨酸）。这一课只坚持剂量与时间要诚实。
+:::
+
+::: {.callout-tip}
+三位客人看完了？[模块入口](index.qmd) 保留一份短短的**饮者田野指南**（绿 vs 红选择、冷泡迷思、实验室 vs 杯子剂量），再踏进第 2 章。
+:::
+
+
+## 一分钟故事
+
+三位具名客人共享杯子。咖啡因挡住困意讯号，可以盘桓数小时。L-茶氨酸在较短血浆时钟上支持较平静的专注。EGCG 是多小时尺度上最突出的绿茶植物化合物。没有一位在第一口达峰。实验室胶囊与超市茶包是不同世界。
+
+::: {.callout-tip title="你可以停在这里"}
+- 三位客人，三个时钟：提神（咖啡因）、平静专注（L-茶氨酸）、绿茶植物化合物（EGCG）。
+- 杯子送出**数十 mg**；许多实验室试验用 **100–200 mg** 胶囊——别搞混。
+- 「不是即时禅」：平静专注往往落后第一口数十分钟。
+:::
+
+::: {.callout-note collapse="true" title="更多详情：这对你喝茶意味着什么"}
+- 若你在乎 L-茶氨酸相关的平静专注，把注意力计划在 **30–60+ 分钟** 窗口——不是第一吞。[^7][^8]
+- 别把茶包跟 200 mg 茶氨酸胶囊比，除非打开 [杯量参考](../../cup-reference.qmd)。
+- 记得人清除咖啡因的方式不同：朋友「还在Buzz」可以是生物化学，不是戏剧。[^9]
+:::
+
+::: {.callout-note collapse="true" title="更多详情：一条时间线上的三个时钟"}
+想像你 9:00 喝。
+
+- **约 9:30–9:45** — 文献里许多 L-茶氨酸 α／早期认知窗口打开。[^7]
+- **约 10:00–10:30** — 咖啡因＋茶氨酸合并注意力测试往往坐在这里。[^8][^10]
+- **下午** — 咖啡因可能仍盘桓（半衰期以小时计），而 L-茶氨酸的血浆故事大多已往前走。[^1]
+
+那条错开的时间线，就是为什么模块二可以谈「清醒却较平静」，而不承诺第一口就有魔法。
+:::
+
+::: {.callout-tip collapse="true" title="点开更多详情：第 1.4 课带走检查清单"}
+1. 咖啡因：腺苷拮抗剂；半衰期范围以小时计。[^1]
+2. L-茶氨酸：低亲和力麸胺酸拮抗；较短血浆时钟。[^2][^3]
+3. EGCG：主要绿儿茶素；多小时药代。[^4]
+4. 剂量诚实：杯子 ≠ 胶囊（[杯量参考](../../cup-reference.qmd)）。
+5. CYP1A2 等：人与人不同。[^9]
+6. 下一步：模块二跟着客人，在你吞下之后。
+:::
+
+## 三位客人怎样为模块二铺路
+
+模块二的双重故事，只有在你记得谁在血流里时才成立：
+
+1. **咖啡因**令困意讯号较难停车——对许多人是数小时。[^1]
+2. **L-茶氨酸**以较短时钟到来，被研究用来谈较平静的注意力与压力缓冲——不是第一口咒语。[^7][^8]
+3. **EGCG**是绿茶儿茶素头条化合物；它关乎萃取出了什么（[第 1.3 课](03-brewing.qmd)），即使模块二花更多字在咖啡因×茶氨酸。
+
+若你跳过剂量与时间，模块二变成口号。若你留住它们，模块二变成地图。
+
+::: {.callout-note collapse="true" title="更多详情：在茶罐旁边读补充剂标签"}
+假设胶囊写着 **200 mg L-茶氨酸**，论文在 60 分钟报告注意力效应。Keenan 的普通杯，两分钟浸泡后往往落在茶氨酸**数十毫克**附近。[^11] 那不令茶「没用」。它表示：
+
+- 多杯、抹茶／遮荫叶，或较长浸泡会改写数学；
+- 胶囊试验回答胶囊问题；
+- 你诚实的一步，是先问*你*的杯子送出什么，再宣称试验的效应量。
+
+[杯量参考](../../cup-reference.qmd) 就是为那次翻译而存在。
+:::
+
+---
+
+**导航：** [↑ 模块一入口](index.qmd) · [← 上一课](03-brewing.qmd) · [下一模块 →](../../../modules/module-02/index.qmd)（英文）
+
+[^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^2]: Kakuda, T., Nozawa, A., Sugimoto, A., & Niino, H. (2002). Inhibition by theanine of binding of [³H]AMPA, [³H]kainate, and [³H]MDL 105,519 to glutamate receptors. *Bioscience, Biotechnology, and Biochemistry, 66*(12), 2683–2686. https://doi.org/10.1271/bbb.66.2683
+
+[^3]: Kakuda, T. (2011). Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction. *Pharmacological Research, 64*(2), 162–168.
+
+[^4]: Chow, H. H. S., et al. (2001). Pharmacokinetics and safety of green tea polyphenols after multiple-dose administration of epigallocatechin gallate and Polyphenon E in healthy individuals. *Clinical Cancer Research, 7*(5), 1204–1212.
+
+[^5]: van der Pijl, P. C., et al. (2010). Human pharmacokinetic profile of green tea catechins and L-theanine. *British Journal of Nutrition, 104*(8), 1157–1164.
+
+[^6]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake and metabolism in healthy humans (pack-cited *Journal of Nutrition* entry).
+
+[^7]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
+
+[^8]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
+
+[^9]: Nehlig, A. (2018). Interindividual differences in caffeine metabolism and factors driving caffeine consumption. *Pharmacological Reviews, 70*(2), 384–411. https://doi.org/10.1124/pr.117.014407
+
+[^10]: Haskell, C. F., et al. (2008). The effects of L-theanine, caffeine and their combination on cognition and mood. *Biological Psychology, 77*(2), 113–122. https://doi.org/10.1016/j.biopsycho.2007.09.008
+
+[^11]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
