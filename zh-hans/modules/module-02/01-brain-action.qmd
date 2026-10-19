@@ -1,0 +1,131 @@
+---
+title: "2.1 油门、煞车，与一条繁忙的路"
+lang: zh-Hans
+---
+
+{{< include ../../../_includes/lang-switcher/module-02-brain-action.zh-hans.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [模块总览](../index.qmd) · [模块一](../module-01/index.qmd) · [模块二](index.qmd) · [模块三](../module-03/index.qmd) · [模块四](../module-04/index.qmd)
+:::
+
+::: {.callout-important}
+**四大模块已有中文版。** [联结桥梁](../../../linkages.qmd)、[参考文献](../../../bibliography.qmd)暂以英文提供。
+:::
+
+::: {.callout-tip}
+**模块二 · 第 1 课／共 4 课** — 属于 [2. 身体、大脑与心情](index.qmd)。刚来？先到 [模块入口](index.qmd) 看完整章节地图。
+:::
+
+::: {.callout-note collapse="true" title="怎样读这一课（脚注＋折叠）"}
+上标数字是可点击的脚注（跳到来源，箭头跳回；悬停常会弹出摘要）。折叠的「更多详情…」方框收着受体名、剂量表与研究快照，让打开的页面保持白话。
+:::
+
+## 为什么茶与咖啡感觉可以不同
+
+第 1 章把三位客人留在你的血液里。这一坐问那个令许多人改喝——又要辩护的问题：
+
+*为什么茶常常感觉既清醒又较平静，而咖啡可以像一记猛冲？*
+
+想象两个朋友在同一个上班时段。一个喝完一大杯咖啡，飞快回邮件——手指快，肩膀高。另一个喝完一杯茶，也在工作，但房间感觉较安静。两人都清醒。只有一个看起来随时会对 Slack 提示发脾气。那个日常对比，正是这一课开始解释的——不靠俚语，也不做奇迹宣称。
+
+打开的故事你只需要三个白话想法：**想睡讯号**、**油门**，以及**煞车**。实验室名称住在折叠里。
+
+## 油门、煞车，与一条繁忙的路
+
+把大脑讯号想成一条有油门与煞车的繁忙道路。
+
+**咖啡因**——咖啡与茶里熟悉的提神化合物——挡住大脑「你开始想睡了」的讯号。神经元保持较清醒。相关的前进讯号可以上升。Fredholm 与同事的经典综述仍给出最清晰的公开地图：在日常剂量下，咖啡因主要占住想睡讯号的座位，令平常的客人较难坐下——不是神秘的「能量分子」。[^1]
+
+**L-茶氨酸**——茶里有、咖啡没有的平静氨基酸——温和地调低过量的「前进」杂音。那可以钝化过度兴奋，并支持较平静、较受控的专注。[^2][^3] 想成「温和地转一下音量旋钮」，不是「拔掉扩音器插头」。
+
+**酒精**则不同。它用力靠向煞车那一面，并削弱一些与学习与谨慎记忆有关的前进讯号。神经活动变慢；谨慎思考可以淡去。[^4][^5]
+
+用日常衣装说：
+
+- 咖啡因像把「你开始想睡了」的便条从桌上拿走，好让你继续工作。
+- L-茶氨酸更像调低嘈杂杂音，好让你专注而无恐慌。
+- 酒精像把整间房的灯光调暗——一切都变慢，包括谨慎思考。
+
+::: {.callout-note collapse="true" title="更多详情：受体座位与研究快照"}
+| 饮品／化合物 | 实验室想法 | 粗略下游效应 | 关键证据 |
+| --- | --- | --- | --- |
+| 咖啡因 | 在 A₁ 与 A₂A 受体与腺苷竞争（竞争性拮抗剂） | 神经元保持较「清醒」；相关多巴胺／去甲肾上腺素／谷氨酸讯号可以上升 | Fredholm et al. (1999)[^1] |
+| L-茶氨酸 | 在部分谷氨酸受体（AMPA、kainate、NMDA 相关）弱竞争；与较平静的抑制张力有关 | 可以钝化过度兴奋；与较平静、较受控的专注相关 | Kakuda (2011); Kakuda et al. (2002)[^2][^3] |
+| 酒精（ethanol） | 加强 GABA_A 抑制，并挡住部分 NMDA 谷氨酸讯号 | 神经活动变慢；学习与记忆过程可被打乱 | Mihic et al. (1997); Lovinger et al. (1989)[^4][^5] |
+
+**两个轻量研究快照（请读剂量）：**
+
+- **咖啡因与多巴胺受体：** Volkow 与同事的 PET 研究发现，口服咖啡因提高纹状体 D2/D3 受体可用度。发表的剂量是 **300 mg** 咖啡因（不是次级表有时列出的 200 mg）；增幅大约是 putamen／腹侧纹状体几个百分点的量级——谈的是敏感度，不是巨大的多巴胺倾泻。[^6]
+- **L-茶氨酸结合：** Kakuda 结合工作显示在谷氨酸相关位点的低亲和力竞争（IC50 约 **~10 mM** 量级）——远弱于谷氨酸本身。资料包表有时引用口服 **200 mg** L-茶氨酸后两小时血浆 GABA 上升；把那当作资料包来源的快照。主要的 Kakuda 路径仍把平静效应主要框在低亲和力谷氨酸拮抗，加上较温和、间接的 GABA 促进——不是直接 GABA_A 促效剂故事。[^2][^3]
+
+**关于「GABA 助推器」口号的诚实检查。** 次级养生文案常称 L-茶氨酸是「GABA 助推器」。资料包的主要路径说它**不会**作为促效剂结合 GABA_A／GABA_B 活性位点；平静效应主要框为低亲和力谷氨酸受体拮抗，加上较温和、间接的 GABA 促进。[^2][^3]
+:::
+
+## 茶的双重故事——不过度推销
+
+茶的双重故事——咖啡因**加上** L-茶氨酸——有助解释为什么许多人形容茶是「清醒却不像咖啡那么抖」。同时给予两种化合物的志愿者研究，在温和剂量下，常常发现比单有咖啡因更好的注意力切换，以及较少分心。[^7][^8][^9]
+
+资料包仍警告不要过度推销。这里有一个常见说法：「L-茶氨酸是直接的大脑冷静助推器」（养生货架常点名一种特定煞车化学物）。次级短文常那样说。更好的日常说法是：**它温和地调低过量的前进杂音，并支持较平静的专注**——不是「它是镇静安眠药」。打开上面的折叠看精确的实验室名称。
+
+::: {.callout-tip collapse="true" title="更多详情：一段话里的咖啡 vs 茶"}
+咖啡多半是**咖啡因递送系统**（加上本课程三位客人阵容之外的其他咖啡化合物）。茶通常递送**比大杯咖啡少的咖啡因**，*以及*咖啡没有的第二种化合物：**L-茶氨酸**。第 1 章的时序仍然重要——L-茶氨酸血中峰值与许多注意力发现，坐在喝后数十分钟，而不是第一口。实验室胶囊不是超市袋子；把 [杯量参考](../../cup-reference.qmd) 放在旁边。
+
+组合试验（Owen、Kelly、Haskell）比较了单独与一起的 L-茶氨酸与咖啡因；组合轮廓与单有咖啡因并不相同。[^7][^8][^9]
+:::
+
+
+## 一分钟故事
+
+咖啡因把想睡的便条从桌上拿走。L-茶氨酸温和地调低嘈杂杂音，令专注感觉较少恐慌。酒精把整间房调暗。茶的双重化学是咖啡因**加上** L-茶氨酸——不是换了更好品牌的咖啡因。
+
+::: {.callout-tip title="你可以停在这里"}
+- 咖啡因挡住想睡讯号；L-茶氨酸偏向平静、受控的专注。
+- 茶的双重故事是清醒*又*较安静——不是口号式的「咖啡减去坏部分」。
+- 实验室受体名住在折叠里；打开的故事只需要油门／煞车。
+:::
+
+::: {.callout-note collapse="true" title="更多详情：喝这杯茶时这意味着什么"}
+- 「清醒却不抖」是**机制故事**，不是每一杯的保证。
+- 承诺直接大脑冷静化学助推的养生文案过度简化。[^2][^3]
+- 组合试验用已知毫克数——用 [杯量参考](../../cup-reference.qmd) 换算。[^7][^8][^9]
+:::
+
+::: {.callout-note collapse="true" title="更多详情：一幅你记得住的双重故事漫画"}
+1. 想睡讯号想令道路变慢 → 咖啡因挡住那些座位 → 交通保持热闹。[^1]
+2. 前进杂音变大声 → L-茶氨酸弱弱地调低音量 → 专注感觉较少恐慌。[^3]
+3. 酒精打开煞车水闸，并卡住一些与学习有关的前进门 → 谨慎思考淡去。[^4][^5]
+
+记住漫画。核对剂量。忽略奇迹货架。
+:::
+
+::: {.callout-tip collapse="true" title="点开更多详情：第 2.1 课带走检查清单"}
+1. 咖啡因 ≈ 腺苷 A₁/A₂A 拮抗。[^1]
+2. L-茶氨酸 ≈ 弱谷氨酸拮抗＋较平静的专注——不是 GABA 促效剂。[^2][^3]
+3. 酒精 ≈ 更多 GABA_A＋较少 NMDA 功能。[^4][^5]
+4. Volkow PET 剂量＝**300 mg**（不是次级表的 200 mg）。[^6]
+5. 组合试验 ≠ 超市袋子。
+6. 下一坐：不用打开页面里的实验室方程式，听大脑节拍。
+:::
+
+---
+
+**导航：** [↑ 模块二入口](index.qmd) · [← 入口](index.qmd) · [下一课 →](02-brainwaves.qmd)
+
+[^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^2]: Kakuda, T. (2011). Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction. *Pharmacological Research, 64*(2), 162–168.
+
+[^3]: Kakuda, T., Nozawa, A., Sugimoto, A., & Niino, H. (2002). Inhibition by theanine of binding of [³H]AMPA, [³H]kainate, and [³H]MDL 105,519 to glutamate receptors. *Bioscience, Biotechnology, and Biochemistry, 66*(12), 2683–2686. https://doi.org/10.1271/bbb.66.2683
+
+[^4]: Mihic, S. J., et al. (1997). Sites of alcohol and volatile anaesthetic action on GABA_A and glycine receptors. *Nature, 389*(6649), 385–389.
+
+[^5]: Lovinger, D. M., White, G., & Weight, F. F. (1989). Ethanol inhibits NMDA-activated ion current in hippocampal neurons. *Science, 243*(4899), 1721–1724.
+
+[^6]: Volkow, N. D., et al. (2015). Caffeine increases striatal dopamine D2/D3 receptor availability in the human brain. *Translational Psychiatry, 5*, e541. https://doi.org/10.1038/tp.2015.46
+
+[^7]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
+
+[^8]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
+
+[^9]: Haskell, C. F., et al. (2008). The effects of L-theanine, caffeine and their combination on cognition and mood. *Biological Psychology, 77*(2), 113–122. https://doi.org/10.1016/j.biopsycho.2007.09.008

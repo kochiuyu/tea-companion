@@ -2,6 +2,8 @@
 title: "2.4 What the body quietly admits"
 ---
 
+{{< include ../../_includes/lang-switcher/module-02-body-signals.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 2 · Lesson 4 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

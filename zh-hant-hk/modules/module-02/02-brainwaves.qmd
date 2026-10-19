@@ -1,0 +1,144 @@
+---
+title: "2.2 聽大腦的節拍"
+lang: zh-Hant-HK
+---
+
+{{< include ../../../_includes/lang-switcher/module-02-brainwaves.zh-hant-hk.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../index.qmd) · [模組一](../module-01/index.qmd) · [模組二](index.qmd) · [模組三](../module-03/index.qmd) · [模組四](../module-04/index.qmd)
+:::
+
+::: {.callout-important}
+**四大模組已有中文版。** [連結橋樑](../../../linkages.qmd)、[參考文獻](../../../bibliography.qmd)暫以英文提供。
+:::
+
+::: {.callout-tip}
+**模組二 · 第 2 課／共 4 課** — 屬於 [2. 身體、大腦與心情](index.qmd)。剛來？先到 [模組入口](index.qmd) 看完整章節地圖。
+:::
+
+::: {.callout-note collapse="true" title="怎樣讀這一課（腳註＋摺疊）"}
+上標數字是可點擊的腳註（跳到來源，箭嘴跳回；懸停常會彈出摘要）。摺疊的「更多詳情…」方框收着波段頻率（Hz）、劑量表與研究設計，讓打開的頁面保持白話。
+:::
+
+## 給大腦皮層的耳機
+
+[第 2.1 課](01-brain-action.qmd) 給了你油門與煞車。這一坐問：研究員能不能*聽見*那些變化。
+
+實驗室把感應器放在頭皮上，聽大腦的電節拍——像按每分鐘拍子替歌曲分類。你**不需要**實驗室方程式。你需要一份初學者地圖：
+
+- 哪種節奏感覺像**安靜的自修室**，
+- 哪種感覺像**繁忙的辦公室**，
+- 哪種感覺像**在課堂上點頭欲睡**。
+
+## 聽大腦的節拍
+
+研究員把腦節奏分成幾個家族。在本課程的白話地圖裡：
+
+- **平靜專注**節奏常與選擇性注意有關——尤其在閉眼休息時。L-茶胺酸常與這個家族連在一起。[^1][^3]
+- **忙碌警覺**節奏是主動專注——或焦慮。單有咖啡因偏向這邊；早期酒精可以減少它。[^1]
+- **昏沉／疲勞**節奏較接近點頭欲睡。酒精效應加深時它常上升；咖啡因可以減少它。[^2]
+- **深度鎮靜**家族在較高酒精劑量時較常出現。[^2]
+
+用日常衣裝說：L-茶胺酸常與**平靜專注**連在一起。單有咖啡因較與**忙碌警覺**連在一起。酒精推向與疲勞或鎮靜有關的較慢波段。[^2]
+
+::: {.callout-note collapse="true" title="更多詳情：EEG 波段、Hz，與例子發現"}
+**EEG** 指從頭皮記錄大腦的電節奏。波段按頻率分類：
+
+| 波段 | 粗略頻率 | 這些資料包裡的典型連結 | 飲者的主要想法 |
+| --- | --- | --- | --- |
+| Alpha | 約 8–12 Hz | 隨 L-茶胺酸上升（尤其後頭部約 10–12 Hz） | 平靜、選擇性注意 |
+| Beta | 約 12–30 Hz | 隨咖啡因上升；早期酒精可以減少它 | 主動專注或焦慮 |
+| Theta | 約 4–8 Hz | 酒精效應加深時上升；咖啡因可以減少它 | 疲勞、較弱的錯誤監控 |
+| Delta | 約 0.5–4 Hz | 較高酒精劑量時上升 | 深度鎮靜 |
+
+**你可以核對的例子發現：**
+
+- **50 mg L-茶胺酸：** 在閉眼測量的年輕成人中，休息 alpha 活動隨時間的升幅大於安慰劑——劑量較接近幾杯茶，而不是巨型膠囊。[^3]
+- **100 mg L-茶胺酸＋50 mg 咖啡因：** 在視空間注意力作業上，擊中率與目標辨別力較好，作者把 alpha 模式讀成較投入的注意狀態。[^4]
+- **單有咖啡因：** 經典 EEG 工作把咖啡因與較高的主觀清醒、以及休息狀態節奏變化連在一起；作業期間前額 theta 可以在咖啡因減少昏沉時下降。[^1]
+- **注意力負荷下的茶胺酸：** Gomez-Ramirez 與同事發現，茶胺酸可以在要求高的注意力作業期間*降低*背景 alpha，同時*加強*與注意有關的 alpha 效應——談的是優化，不是簡單鎮靜。[^5]
+
+**狀態依賴。** 休息時，L-茶胺酸常抬高 alpha。[^3] 在艱難注意力作業下，忙碌腦區上的 alpha 可以*下降*，而在不相干區保持高。那看起來更像專注注意，而不是簡單鎮靜。[^4][^5]
+:::
+
+## 迷思檢查：「L-茶胺酸總會猛推平靜節奏」
+
+情境重要。休息時，平靜專注節奏常上升。[^3] 在艱難注意力作業下，同一化合物可以重塑那個節奏，令忙碌區安靜背景雜音，而與注意有關的效應變大。那看起來更像專注注意，而不是在課堂上睡着。[^4][^5]
+
+一個習慣可以防止多數初學者誤解：**在相信腦波標題之前，先問記錄是休息還是努力工作。**
+
+## 廚房時鐘仍然屬於這裡
+
+還記得第 1 章的時序筆記嗎？L-茶胺酸常常在喝後數十分鐘才在血中達峰，而清晰的平靜專注節奏變化也常在類似窗口被報告——不是第一口。[^3] 組合劑量的認知測試常見坐在喝後一小時或更久。[^6] 那個對齊的滯後，正是為甚麼廚房時鐘與實驗室屬於同一個故事——也為甚麼「我剛喝了一口」與「我感覺專注」不是同一時刻。
+
+::: {.callout-tip collapse="true" title="更多詳情：時序時鐘，以及怎樣讀 EEG 茶標題"}
+**時序（資料包＋論文時鐘）：**
+
+- L-茶胺酸血中峰值常約 **35–50 min** 於喝後。
+- 清晰的 alpha 波變化常約 **30–45 min**。
+- 組合認知測試常見約 **60–90 min**。[^6][^3]
+
+**相信腦波宣稱之前，先問四個問題：**
+
+1. **休息還是作業？** 休息時平靜節奏上升 ≠ 負荷下同一模式。
+2. **劑量？** 50 mg 較近幾杯茶；250 mg 是膠囊領地。
+3. **單獨還是連同咖啡因？** 組合發現不是單有咖啡因的發現。
+4. **何時測量？** 30–90 分鐘重要；第一口魔法不成立。
+
+然後打開 [杯量參考](../../cup-reference.qmd)，問你的杯子是否可能對得上實驗室毫克數。
+:::
+
+腦節奏是一個窗口。壓力化學是另一個——尤其當日子本身嘈雜時。
+
+## 一分鐘故事
+
+實驗室按速度替腦節奏分類。L-茶胺酸常抬高休息時的平靜專注。咖啡因偏向忙碌警覺。酒精推向較慢的疲勞／鎮靜波段。同一個茶胺酸故事取決於**狀態**：休息 vs 努力工作。時序仍對齊第 1 章的延遲時鐘——不是第一口魔法。
+
+::: {.callout-tip title="你可以停在這裡"}
+- 平靜專注／忙碌警覺／昏沉是日常家族——Hz 波段住在摺疊裡。
+- 休息記錄 ≠ 努力工作記錄；相信標題之前先問哪一種。
+- 時序仍對齊第 1 章的延遲時鐘——不是第一口魔法。
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：喝這杯茶時這意味着甚麼"}
+- 不要把每一個「平靜腦波」標題當成證明：你會在第一口感到鎮靜——或激光般專注。
+- 休息記錄 ≠ 作業記錄。[^3][^5]
+- 溫和茶胺酸發現較接近杯子，而不是巨型膠囊設計。[^3]
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：一幅圖裡的休息 vs 負荷"}
+**休息時（閉眼）：** 與 Nobre 相關的工作——L-茶胺酸與相對於安慰劑上升的 alpha 相關。[^3]
+
+**注意力負荷下：** Kelly 組合工作與 Gomez-Ramirez 作業中茶胺酸工作——alpha 模式看起來更像**選擇性注意調諧**（背景變化＋較強的注意相關效應），而不是在課堂上睡着。[^4][^5]
+
+若一篇網誌把兩者壓成「茶胺酸＝alpha＝禪」，它跳過了資料包已經警告的狀態依賴。
+:::
+
+::: {.callout-tip collapse="true" title="點開更多詳情：第 2.2 課帶走檢查清單"}
+1. 平靜專注（alpha）≈ 選擇性注意——但**情境重要**。
+2. 忙碌警覺（beta）≈ 清醒／緊繃；昏沉／鎮靜波段（theta／delta）≈ 這些資料包裡的疲勞。
+3. 狀態依賴不是漏洞——它就是發現。
+4. 對齊時鐘：約 30–90 分鐘。
+5. 下一課：日子嘈雜時的壓力化學。
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：酒精作為慢波段對照"}
+酒精在這一課裡作為對照，不是喝茶貼士。效應加深時，與疲勞與鎮靜有關的較慢波段，在經典人類 EEG 工作裡上升。[^2] 那與茶的雙重「清醒＋平靜專注」敘事相反：不只是少一點咖啡因，而是不同的網絡故事。把這個對照留給模組二入口頁結尾的那幅圖。
+:::
+
+---
+
+**導航：** [↑ 模組二入口](index.qmd) · [← 上一課](01-brain-action.qmd) · [下一課 →](03-stress-hormones.qmd)
+
+[^1]: Barry, R. J., et al. (2005). Caffeine effects on resting-state EEG, subjective alertness and arousal. *Neuropsychobiology, 51*(2), 89–95.
+
+[^2]: Ehlers, C. L., et al. (1989). EEG and evoked potential changes following acute ethanol administration in humans. *Alcohol, 6*(3), 221–226.
+
+[^3]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
+
+[^4]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
+
+[^5]: Gomez-Ramirez, M., et al. (2007). The deployment of intersensory selective attention: A high-density electrical mapping study of the effects of theanine. *Clinical Neuropharmacology, 30*(1), 25–38. https://doi.org/10.1097/01.WNF.0000240940.13876.17
+
+[^6]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513

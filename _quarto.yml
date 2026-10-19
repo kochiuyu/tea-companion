@@ -49,6 +49,36 @@ project:
     - zh-hans/modules/module-01/02-processing.qmd
     - zh-hans/modules/module-01/03-brewing.qmd
     - zh-hans/modules/module-01/04-compounds.qmd
+    - zh-hant-hk/modules/module-02/index.qmd
+    - zh-hant-hk/modules/module-02/01-brain-action.qmd
+    - zh-hant-hk/modules/module-02/02-brainwaves.qmd
+    - zh-hant-hk/modules/module-02/03-stress-hormones.qmd
+    - zh-hant-hk/modules/module-02/04-body-signals.qmd
+    - zh-hant-hk/modules/module-03/index.qmd
+    - zh-hant-hk/modules/module-03/01-trade-history.qmd
+    - zh-hant-hk/modules/module-03/02-monastic-path.qmd
+    - zh-hant-hk/modules/module-03/03-warmth-trust.qmd
+    - zh-hant-hk/modules/module-03/04-ritual-stress.qmd
+    - zh-hant-hk/modules/module-04/index.qmd
+    - zh-hant-hk/modules/module-04/01-dual-process.qmd
+    - zh-hant-hk/modules/module-04/02-risk-waiting.qmd
+    - zh-hant-hk/modules/module-04/03-trust-games.qmd
+    - zh-hant-hk/modules/module-04/04-study-protocols.qmd
+    - zh-hans/modules/module-02/index.qmd
+    - zh-hans/modules/module-02/01-brain-action.qmd
+    - zh-hans/modules/module-02/02-brainwaves.qmd
+    - zh-hans/modules/module-02/03-stress-hormones.qmd
+    - zh-hans/modules/module-02/04-body-signals.qmd
+    - zh-hans/modules/module-03/index.qmd
+    - zh-hans/modules/module-03/01-trade-history.qmd
+    - zh-hans/modules/module-03/02-monastic-path.qmd
+    - zh-hans/modules/module-03/03-warmth-trust.qmd
+    - zh-hans/modules/module-03/04-ritual-stress.qmd
+    - zh-hans/modules/module-04/index.qmd
+    - zh-hans/modules/module-04/01-dual-process.qmd
+    - zh-hans/modules/module-04/02-risk-waiting.qmd
+    - zh-hans/modules/module-04/03-trust-games.qmd
+    - zh-hans/modules/module-04/04-study-protocols.qmd
 
 website:
   title: "Tea, Caffeine & Decision Companion"

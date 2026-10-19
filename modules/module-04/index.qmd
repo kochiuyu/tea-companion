@@ -2,6 +2,8 @@
 title: "4. Decisions & Choices"
 ---
 
+{{< include ../../_includes/lang-switcher/module-04.en.qmd >}}
+
 You have followed tea from plant to cup, through the body, and out into history and ritual. Here is the question that hangs over the whole journey—especially for anyone who makes hard choices for a living:
 
 **Does the cup change how we choose?**

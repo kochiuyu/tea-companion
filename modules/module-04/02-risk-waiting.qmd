@@ -2,6 +2,8 @@
 title: "4.2 Losses that sting, tomorrows that fade"
 ---
 
+{{< include ../../_includes/lang-switcher/module-04-risk-waiting.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 4 · Lesson 2 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

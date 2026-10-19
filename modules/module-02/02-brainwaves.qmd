@@ -2,6 +2,8 @@
 title: "2.2 Listening to the brain's tempo"
 ---
 
+{{< include ../../_includes/lang-switcher/module-02-brainwaves.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 2 · Lesson 2 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

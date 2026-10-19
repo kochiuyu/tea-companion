@@ -2,6 +2,8 @@
 title: "4.4 How careful studies are usually built"
 ---
 
+{{< include ../../_includes/lang-switcher/module-04-study-protocols.en.qmd >}}
+
 ::: {.callout-tip}
 **Module 4 · Lesson 4 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
 :::

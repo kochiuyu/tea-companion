@@ -1,0 +1,101 @@
+---
+title: "2. 身体、大脑与心情"
+lang: zh-Hans
+---
+
+{{< include ../../../_includes/lang-switcher/module-02.zh-hans.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [模块总览](../index.qmd) · [模块一](../module-01/index.qmd) · [模块二](index.qmd) · [模块三](../module-03/index.qmd) · [模块四](../module-04/index.qmd)
+:::
+
+::: {.callout-important}
+**四大模块已有中文版。** [联结桥梁](../../../linkages.qmd)、[参考文献](../../../bibliography.qmd)暂以英文提供。
+:::
+
+第 1 章把三位客人留在你的血液里：**咖啡因**（熟悉的提神化合物）、**L-茶氨酸**（茶里有、咖啡没有的平静氨基酸），以及——尤其在绿茶——EGCG。现在来到那个令许多人从咖啡改喝茶、又要向朋友辩护的问题：
+
+**为什么茶常常感觉既清醒又较平静——而咖啡可以像一记猛冲？**
+
+**读故事；只有好奇时才打开「更多详情」。** 本章用白话跟着那个感觉走进身体。首先认识大脑的「该睡了」讯号，以及咖啡因怎样挡住它，而 L-茶氨酸倾向支持平静、受控的专注。然后看研究员记录的脑波模式——不必需要实验室方程式。接着是压力化学。再来是安静的身体讯号，例如心跳节奏与细微的压力汗变化。酒精作为对照出现：它拖慢谨慎控制，而不是把它磨利。
+
+想象两个朋友在同一个上班时段。一个喝完一大杯咖啡，飞快回邮件——手指快，肩膀高。另一个喝完一杯茶，也在工作，但房间感觉较安静。两人都清醒。只有一个看起来随时会对 Slack 提示发脾气。那个日常对比，正是本章想解释的——不靠俚语，也不做奇迹宣称。
+
+要跟上故事，你**不需要**受体名称或波段频率。那些细节住在折叠的**「更多详情」**里。点脚注标记跳到来源，再点箭头跳回。鼠标悬停也常会弹出摘要。
+
+::: {.callout-tip title="这趟旅程的日常词"}
+- **想睡讯号** — 那句「慢下来」的化学便条；咖啡因挡住它。
+- **平静专注** — 清醒却没有紧绷的边缘；茶的双重故事瞄准这里。
+- **压力化学** — 日子嘈杂时上升的荷尔蒙与身体仪表。
+- **安静的身体仪表** — 心跳弹性、细微汗变、瞳孔大小——实验室量得到、你未必感觉到的东西。
+:::
+
+::: {.callout-note collapse="true" title="怎样读本章（脚注＋折叠）"}
+上标数字是可点击的脚注（跳到来源，箭头跳回；悬停常会弹出摘要）。折叠的「更多详情…」方框收着较密的研究快照——受体名、波段、荷尔蒙表、毫克数——让打开的页面保持故事。
+:::
+
+## 四课
+
+每一坐对应资料包的一个分支。打开的页面保持白话；想要科学深度时再打开折叠。
+
+1. **[油门、煞车，与一条繁忙的路](01-brain-action.qmd)** — 为什么咖啡因提神、L-茶氨酸怎样软化边缘，以及为什么酒精是另一个故事。
+2. **[听大脑的节拍](02-brainwaves.qmd)** — 平静专注 vs 忙碌警觉 vs 昏沉节奏；休息 vs 努力工作。
+3. **[当火警铃响](03-stress-hormones.qmd)** — 压力化学、习惯 vs 真实压力，以及 L-茶氨酸研究实际量了什么。
+4. **[身体安静承认的事](04-body-signals.qmd)** — 心脏弹性、瞳孔、细微压力汗；「紧绷」有皮肤签名。
+
+**从第 1 课开始：** [油门、煞车，与一条繁忙的路](01-brain-action.qmd)
+
+## 把双重故事放进一幅图
+
+四课结束时，双重故事应感觉比较不像口号，而更像一条链：
+
+1. 咖啡因抬起想睡的煞车，令心智之路保持繁忙。[^1]  
+2. L-茶氨酸温和地调低过量的「前进」杂音，并支持较平静的专注风格。[^2][^3]  
+3. 休息时，那常常呈现为较平静的脑节奏；在努力工作时，则是较好的选择性注意，而不是昏沉空白。[^4][^5]  
+4. 在压力下，与 L-茶氨酸相关的饮品，比起单有咖啡因，更常令心率、汗与压力标记较接近基线。[^6][^7]  
+5. 酒精则相反：它淹没「全部慢下来」那一面，并削弱你做艰难选择时需要的谨慎监控。[^8][^9][^10]
+
+为什么这对精明的高中或大学初年级读者重要？因为它不用魔法就解释了熟悉的体验。茶不是广告说的「咖啡减去坏部分」。它通常是**比大杯咖啡少的咖啡因**，加上**咖啡没有的第二种化合物**，并按**延迟的时钟**到来。第 1 章那 30–50 分钟的滞后不是冷知识——那正是为什么「我刚喝了一口」与「我感觉专注」是不同时刻。
+
+再多一次诚实检查：多数认知试验用已知毫克数的纯 L-茶氨酸与咖啡因。你超市袋子是随叶、牌子与浸泡而变的混合物。[杯量参考](../../cup-reference.qmd) 就在这里，免得实验室剂量与杯剂量混在一起。
+
+::: {.callout-tip collapse="true" title="点开更多详情：双重故事检查清单（附科学标签）"}
+1. 咖啡因 ≈ 腺苷受体拮抗（抬起想睡的煞车）。[^1]
+2. L-茶氨酸 ≈ 弱谷氨酸拮抗＋较平静的专注——不是直接 GABA 促效剂。[^2][^3]
+3. 休息时 → 较多 alpha；负荷下 → 较好的选择性注意，不是昏沉空白。[^4][^5]
+4. 压力下 → 心率、汗与压力标记在引用设计里比单有咖啡因较接近基线。[^6][^7]
+5. 酒精 ≈ 更多 GABA_A 抑制＋较少 NMDA 功能——淹没谨慎监控。[^8][^9][^10]
+6. 实验室毫克 ≠ 超市杯子——用 [杯量参考](../../cup-reference.qmd)。
+:::
+
+## 往前看
+
+你已跟着杯子走进大脑、压力回路，以及身体的安静仪表。茶的双重化学有助解释一种较平静的清醒——却不承诺魔法。
+
+但茶比实验室机器更古老。它改写过贸易平衡，坐过寺院，在信任实验里暖过手，并在日子嘈杂时仍提供三步冲泡休息。第 3 章刻意把镜头拉远。
+
+准备好时打开 [第 3 章：历史、仪式与温暖](../module-03/index.qmd)——叶子即将离开实验室，进入人类历史。
+
+---
+
+**导航：** [← 模块总览](../index.qmd) · [← 模块一入口](../module-01/index.qmd) · [第一课 →](01-brain-action.qmd) · [模块三入口 →](../module-03/index.qmd)
+
+[^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^2]: Kakuda, T. (2011). Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction. *Pharmacological Research, 64*(2), 162–168.
+
+[^3]: Kakuda, T., Nozawa, A., Sugimoto, A., & Niino, H. (2002). Inhibition by theanine of binding of [³H]AMPA, [³H]kainate, and [³H]MDL 105,519 to glutamate receptors. *Bioscience, Biotechnology, and Biochemistry, 66*(12), 2683–2686. https://doi.org/10.1271/bbb.66.2683
+
+[^4]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
+
+[^5]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
+
+[^6]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
+
+[^7]: Rogers, P. J., et al. (2008). Time for tea: Mood, blood pressure and cognitive performance effects of caffeine and theanine administered alone and together. *Psychopharmacology, 195*(4), 569–577.
+
+[^8]: Mihic, S. J., et al. (1997). Sites of alcohol and volatile anaesthetic action on GABA_A and glycine receptors. *Nature, 389*(6649), 385–389.
+
+[^9]: Lovinger, D. M., White, G., & Weight, F. F. (1989). Ethanol inhibits NMDA-activated ion current in hippocampal neurons. *Science, 243*(4899), 1721–1724.
+
+[^10]: Ehlers, C. L., et al. (1989). EEG and evoked potential changes following acute ethanol administration in humans. *Alcohol, 6*(3), 221–226.
