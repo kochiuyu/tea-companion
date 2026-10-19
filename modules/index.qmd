@@ -2,11 +2,11 @@
 title: "Modules"
 ---
 
-Imagine this site as a short trip with four stops.
+Imagine this site as a short trip with four stops—and each stop is now a fuller chapter, not a flyer.
 
 You begin in a garden and a kitchen—plants, processing, and a mug. You travel inward into the body and brain. You climb out again into history, monasteries, warm hands, and ritual. You end in a lab where people play careful games about risk and trust. Each stop answers a question the previous stop left hanging.
 
-Nothing here requires a science degree. Each chapter opens with a hook, walks you through the facts in story order, and leaves a door open to the next chapter.
+Nothing here requires a science degree. Each chapter opens with a hook, walks you through the facts in story order, cites sources with numbered markers, and leaves a door open to the next chapter.
 
 ## The itinerary
 
@@ -19,7 +19,7 @@ Nothing here requires a science degree. Each chapter opens with a hook, walks yo
 
 ## Four branches inside each chapter
 
-The owner’s source packs use the same four-branch pattern in every module. The site keeps that skeleton so you can bounce between story and pack without getting lost.
+The owner's source packs use the same four-branch pattern in every module. The site keeps that skeleton so you can bounce between story and pack without getting lost.
 
 | Chapter | The four branches (story beats) |
 | --- | --- |
@@ -30,16 +30,16 @@ The owner’s source packs use the same four-branch pattern in every module. The
 
 ## If you only have ten minutes
 
-**“What’s in my cup?”**  
-Start with [Cup reference](../cup-reference.qmd), then Chapter 1’s brewing and compounds sections.
+**"What's in my cup?"**  
+Start with [Cup reference](../cup-reference.qmd), then Chapter 1's brewing and compounds sections.
 
-**“Why awake but not jittery?”**  
+**"Why awake but not jittery?"**  
 Go straight to [Chapter 2](module-02.qmd), then the linkages note on L-theanine timing and calm brain waves.
 
-**“Is tea only chemistry?”**  
+**"Is tea only chemistry?"**  
 No. [Chapter 3](module-03.qmd) is the zoom-out: trade, monasteries, warm mugs, brewing breaks.
 
-**“Do drinks change choices?”**  
-[Chapter 4](module-04.qmd)—with the packs’ caveats that lab doses are not your everyday mug.
+**"Do drinks change choices?"**  
+[Chapter 4](module-04.qmd)—with the packs' caveats that lab doses are not your everyday mug.
 
 When you are ready to begin at the beginning, open [Chapter 1](module-01.qmd). The water is already hot.
