@@ -1,0 +1,86 @@
+---
+title: "3.1 Silver, ships, and who controlled the leaf"
+---
+
+::: {.callout-tip}
+**Module 3 · Lesson 1 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## Silver, ships, and who controlled the leaf
+
+Start with a grocery-shelf miracle: a cheap bag of tea. That cheapness has a geopolitical past.
+
+In the Canton System era (1757–1842), Western buyers paid for Chinese tea largely in **silver**. Britain wanted tea, silk, and porcelain; Qing China wanted little that Britain made in return. Silver flowed east, and British merchants and the East India Company looked for a way to reverse the drain [^1][^2].
+
+Their answer was **opium** grown in British India and smuggled into China for silver—which then bought more tea. By the late 1830s, opium sales helped finance the British tea trade. Qing officials tried to stop the trade; conflict followed. The First Opium War (1839–1842) ended with British victory and the **Treaty of Nanking** (29 August 1842): five treaty ports opened, Hong Kong Island ceded, the Cohong monopoly abolished, and a large indemnity imposed [^1][^3][^4].
+
+Britain then pushed tea growing in its own colonies so it would not depend forever on Chinese leaf. That is the hinge from "China monopoly" to "plantation commodity."
+
+Imagine one shop is the only place that sells a drink everyone wants, and customers must pay in rare coins. Eventually buyers look for other farms—and sometimes use force and politics to change the rules. That is the rough shape of the tea–silver–opium story (with real dates and figures below).
+
+| Era | Who | Core story | Outcome | Source |
+| --- | --- | --- | --- | --- |
+| Canton System (1757–1842) | Qing China vs Britain / East India Company | Western buyers paid for Chinese tea largely in silver, draining Western silver and creating a trade deficit | Company turned to opium smuggling into China to rebalance trade | Farooqui (2005); National Army Museum [^5][^1] |
+| Opium Wars (1839–1860) | Britain, Qing, Company | Force and treaties opened ports; Hong Kong ceded | Britain pushed tea growing in its own colonies to reduce dependence on China | Lovell (2011); Britannica overview [^6][^4] |
+| Corporate plant transfer (1848–) | Kew networks, Company, Robert Fortune | Fortune entered interior China for plants, seed, and processing know-how | Chinese processing knowledge moved to British-run Indian plantations | Kew history; Brockway (1979) [^7][^8] |
+| Late 19th c. plantations | British Raj (Assam, Darjeeling) | Large industrial estates on conceded land | Global Chinese monopoly broken; tea became a cheap mass commodity | Sharma (2011); Kew [^9][^7] |
+
+A few key numbers keep the plot honest (pack figures, with historical secondary support):
+
+| Fact | Figure | Context | Source |
+| --- | --- | --- | --- |
+| British Company silver to Canton, 1710–1759 | About **£26.5 million** in silver | Over **90%** of Company outbound export value to China in that window | Pritchard (1936; pack) |
+| Opium chests to China | **4,244** (1820) → **40,200** (1839); about **133 lb** per chest | Helped reverse the trade balance; China silver outflow about **$34 million** (1831–1838) | Morse (1926; pack) |
+| Treaty of Nanking (1842) | Indemnity on the order of **20–21 million** silver dollars; **5** treaty ports; Hong Kong Island ceded | Ports often listed as Canton, Amoy, Foochow, Ningpo, Shanghai; indemnity covered opium, debts, and war costs in contemporary accounts | Treaty summaries [^3][^4]; pack |
+
+Your supermarket tea bag exists partly because empire, botany, and industrial plantations broke an older monopoly. That is history—not a chemistry claim.
+
+::: {.callout-note collapse="true" title="More detail: silver drain, opium chests, and the Treaty of Nanking"}
+| Fact | Figure | Context | Trail |
+| --- | --- | --- | --- |
+| Company silver to Canton, 1710–1759 | About **£26.5 million** | Over **90%** of Company outbound export value to China in that window | Pritchard (1936; pack) |
+| Opium chests to China | **4,244** (1820) → **40,200** (1839); ~**133 lb**/chest | Helped reverse the trade balance; China silver outflow about **$34 million** (1831–1838) | Morse (1926; pack) |
+| Treaty of Nanking (1842) | Indemnity on the order of **20–21 million** silver dollars; **5** treaty ports; Hong Kong Island ceded | Ports often listed as Canton, Amoy, Foochow, Ningpo, Shanghai | Treaty summaries[^3][^4]; pack |
+
+The Canton System (1757–1842) funneled Western trade through Canton and demanded silver.[^1][^2] Britain wanted tea; Qing China wanted little British goods in return; opium grown in British India became the rebalancing tool—then war and treaties.[^1][^5][^6]
+
+**Fortune myth, corrected.** Robert Bruce learned of Singhpho-grown Assam tea; Charles Bruce cultivated and sent samples; on Christmas Eve **1834** Nathaniel Wallich confirmed they were tea.[^7] Fortune's 1848–1851 missions still matter—for *sinensis* cultivars, tools, workers, and processing know-how layered onto an Assam industry already underway—not for "inventing" Indian tea.[^7][^8][^9] Kew's public history also underlines Fortune's practical observation: green and black tea come from the same plant; processing decides the color.[^7]
+:::
+
+People sometimes tell a tidy origin myth: "Robert Fortune first brought tea to India in 1848." The timeline is richer. A Scottish officer, **Robert Bruce**, learned of tea grown by Singhpho communities in Assam; after his death his brother **Charles Bruce** cultivated plants and sent samples. On Christmas Eve **1834**, the botanist **Nathaniel Wallich** confirmed they were tea. The East India Company, losing its China trade monopoly under the 1833 Saint Helena Act, suddenly cared a lot about an Indian source [^7].
+
+**Robert Fortune's** 1848–1851 missions still matter—but for a different reason. Disguised and traveling in interior China, he gathered plants, seeds, tools, and—crucially—Chinese tea workers and processing know-how for British-run plantations. Kew's public history underlines the point Fortune also noticed on the ground: green and black tea come from the same plant; processing decides the color [^7]. Fortune did not "invent" Indian tea. Wild Assam tea was already identified in the 1820s and validated in the 1830s. Fortune's gift was Chinese *sinensis* cultivars, skilled makers, and small-scale craft knowledge layered onto an Assam industry already underway [^7][^9].
+
+Empire explains how tea became cheap and everywhere. But long before the Opium Wars, tea had another job: helping people stay awake for long practice.
+
+
+
+---
+
+**Navigate:** [↑ Module 3 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-monastic-path.qmd)
+
+
+
+[^1]: National Army Museum. First China War (First Opium War), 1839–1842. https://www.nam.ac.uk/explore/first-china-war-1839-1842
+
+[^2]: The National Archives (UK). Hong Kong and the Opium Wars (education resource). https://www.nationalarchives.gov.uk/education/teaching-resources/hong-kong-and-the-opium-wars/
+
+[^3]: MIT Visualizing Cultures. The First Opium War (essay / primary-image context). https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay_04.pdf
+
+[^4]: Britannica. First Opium War (scholarly overview). https://www.britannica.com/topic/Opium-Wars
+
+[^5]: Farooqui, A. (2005). *Opium City: The Making of Early Victorian Bombay*. Three Essays Collective.
+
+[^6]: Lovell, J. (2011). *The Opium War: Drugs, Dreams, and the Making of Modern China*. Picador.
+
+[^7]: Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
+
+[^8]: Brockway, L. H. (1979). Science and colonial expansion: The role of the British Royal Botanic Gardens. *American Ethnologist, 6*(3), 449–465.
+
+[^9]: Sharma, J. (2011). *Empire's Garden: Assam and the Making of India*. Duke University Press.
+

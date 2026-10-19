@@ -1,0 +1,14 @@
+/* Minimal site styles — no content. Expand only as needed for layout. */
+
+body {
+  /* intentionally sparse */
+}
+
+/* Soften wide tables on small screens */
+@media (max-width: 768px) {
+  .table-responsive, main table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}

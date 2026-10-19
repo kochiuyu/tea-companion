@@ -1,0 +1,97 @@
+---
+title: "2. Body, Brain & Mood"
+---
+
+Chapter 1 left three guests in your bloodstream: caffeine, L-theanine, and—especially in green tea—EGCG. Now comes the question that makes people switch from coffee to tea, or defend the switch to friends:
+
+**Why does tea so often feel awake *and* calmer—while coffee can feel like a jolt?**
+
+This chapter follows that feeling into the body. First we meet the brain's "time for sleep" signal and how caffeine blocks it, while L-theanine tends to support calm, controlled attention. Then we look at brain-wave patterns researchers record—without needing the lab equations. Then stress hormones. Then body signals such as heart-beat rhythm and tiny stress-sweat changes. Alcohol appears as a contrast: it slows careful control rather than sharpening it.
+
+Picture two friends at the same office hour. One finishes a large coffee and answers email at speed—fingers fast, shoulders high. The other finishes a mug of tea and also works, but the room feels quieter. Both are awake. Only one looks ready to snap at a Slack ping. That everyday contrast is what this chapter tries to explain without slang and without miracle claims.
+
+Researchers do not stop at "I feel better." They track numbers. Your own cup still depends on dose, habit, and setting—but the patterns in the packs are clear enough to tell a story. Tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style. Hover often shows a popup too. Boxes titled "More detail…" stay closed until you open them.
+
+::: {.callout-tip title="Words to know on this journey"}
+- **Adenosine receptors** — brain "slow down / sleep" sensors that caffeine blocks.
+- **Alpha / beta / theta waves** — different speeds of brain rhythm; alpha is often "calm focus," beta "alert or tense," theta "drowsy / fatigue" in these packs.
+- **Cortisol** — a main stress hormone.
+- **HPA axis** — the body's stress-hormone loop (brain → pituitary → adrenals).
+- **Heart rate variability (HRV)** — how much the gap between heartbeats varies; higher often means calmer control.
+- **Skin conductance** — tiny sweat changes that track stress and arousal.
+:::
+
+::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+## The four lessons
+
+Each sitting is one pack branch—the same four-way split as the owner's source packs. Read in order for the full story, or hop to the lesson you need.
+
+1. **[Gas pedals, brakes, and a busy road](01-brain-action.qmd)**
+2. **[Listening to the brain's tempo](02-brainwaves.qmd)**
+3. **[When the fire alarm rings](03-stress-hormones.qmd)**
+4. **[What the body quietly admits](04-body-signals.qmd)**
+
+**Start with lesson 1:** [Gas pedals, brakes, and a busy road](01-brain-action.qmd)
+
+## Putting the dual story in one picture
+
+By now the dual story should feel less like a slogan and more like a chain:
+
+1. Caffeine lifts the adenosine brake so the road stays busy [^1].  
+2. L-theanine gently turns down excess excitatory chatter and supports a calmer attentional style [^2][^3].  
+3. At rest, that often shows up as more alpha; under load, as better selective attention rather than sleepy blankness [^4][^5].  
+4. Under stress, L-theanine-linked drinks more often keep heart rate, sweat, and stress markers nearer baseline than caffeine alone [^6][^7].  
+5. Alcohol, by contrast, floods the inhibitory side and weakens the careful monitoring you need for hard choices [^8][^9][^10].
+
+Why does that matter for a high-school-smart reader who is not going to medical school? Because it explains a familiar experience without magic. Tea is not "coffee minus the bad parts" by advertising. It is usually **less caffeine than a large coffee** plus **a second compound coffee does not share**, arriving on a **delayed clock**. Chapter 1's 30–50 minute lag is not trivia—it is why "I just sipped" and "I feel focused" are different moments.
+
+One more honesty check: most cognitive trials use purified L-theanine and caffeine in known milligram doses. Your grocery bag is a mixture that varies by leaf, brand, and steep. The [Cup reference](../../cup-reference.qmd) is there so lab doses and mug doses do not get confused.
+
+## Looking ahead
+
+You have followed the cup into the brain, the stress loop, and the body's quiet meters. Tea's dual chemistry helps explain a calmer kind of alertness—without promising magic.
+
+But tea is older than EEG machines. It remade trade balances, sat in monasteries, warmed hands in trust experiments, and still offers a three-step brewing break when the day is loud. Chapter 3 zooms out on purpose.
+
+Open [Chapter 3: History, Ritual & Warmth](../module-03/index.qmd) when you are ready—the leaf is about to leave the lab and enter human history.
+
+::: {.callout-tip collapse="true" title="Click for more detail: dual-story checklist"}
+1. Caffeine lifts the adenosine brake.[^1]
+2. L-theanine gently turns down excess excitatory chatter.[^2][^3]
+3. At rest → more alpha; under load → better selective attention, not sleepy blankness.[^4][^5]
+4. Under stress → heart rate, sweat, and stress markers nearer baseline than caffeine alone in cited designs.[^6][^7]
+5. Alcohol floods inhibition and weakens careful monitoring.[^8][^9][^10]
+6. Lab milligrams ≠ grocery mug—use the [Cup reference](../../cup-reference.qmd).
+:::
+
+
+
+---
+
+**Navigate:** [← Modules overview](../index.qmd) · [← Module 1 hub](../module-01/index.qmd) · [First lesson →](01-brain-action.qmd) · [Module 3 hub →](../module-03/index.qmd)
+
+
+
+[^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^2]: Kakuda, T. (2011). Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction. *Pharmacological Research, 64*(2), 162–168.
+
+[^3]: Kakuda, T., Nozawa, A., Sugimoto, A., & Niino, H. (2002). Inhibition by theanine of binding of [³H]AMPA, [³H]kainate, and [³H]MDL 105,519 to glutamate receptors. *Bioscience, Biotechnology, and Biochemistry, 66*(12), 2683–2686. https://doi.org/10.1271/bbb.66.2683
+
+[^4]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
+
+[^5]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
+
+[^6]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
+
+[^7]: Rogers, P. J., et al. (2008). Time for tea: Mood, blood pressure and cognitive performance effects of caffeine and theanine administered alone and together. *Psychopharmacology, 195*(4), 569–577.
+
+[^8]: Mihic, S. J., et al. (1997). Sites of alcohol and volatile anaesthetic action on GABA_A and glycine receptors. *Nature, 389*(6649), 385–389.
+
+[^9]: Lovinger, D. M., White, G., & Weight, F. F. (1989). Ethanol inhibits NMDA-activated ion current in hippocampal neurons. *Science, 243*(4899), 1721–1724.
+
+[^10]: Ehlers, C. L., et al. (1989). EEG and evoked potential changes following acute ethanol administration in humans. *Alcohol, 6*(3), 221–226.
+

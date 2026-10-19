@@ -1,0 +1,87 @@
+---
+title: "4.2 Losses that sting, tomorrows that fade"
+---
+
+::: {.callout-tip}
+**Module 4 · Lesson 2 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## Losses that sting, tomorrows that fade
+
+Two plain ideas shape a lot of choice research. Neither was invented for this website; both come from the prospect-theory and intertemporal-choice literatures that economists and psychologists already use.
+
+**Loss aversion:** most people feel losses more strongly than equal gains. Researchers summarize that with a number λ; if λ > 1, losses weigh more [^1].
+
+**Present bias:** people often prefer a smaller reward *now* over a larger one later. Strong present bias means "tomorrow counts for less." Alcohol research often describes a related narrowing: when intoxicated, people overweight what is immediate and underweight delayed costs [^2][^3].
+
+How the packs describe drink states (qualitative, not a prescription):
+
+| State | Loss sensitivity (λ idea) | Waiting for future rewards |
+| --- | --- | --- |
+| Tea (described pattern) | Often stays in a balanced range (about **1.8–2.5** in the narrative framing) | More patience; present bias closer to stable |
+| High-caffeine / high-cortisol coffee pattern | Can soften loss aversion → more aggressive risk seeking under stress | Mixed; depends on context |
+| Alcohol | Loss sensitivity can collapse ("alcohol myopia") | Strong present bias; future costs fade |
+
+Loss aversion in everyday clothes: losing $10 often stings more than finding $10 feels good. Present bias: "one cookie now" beats "two cookies tomorrow" for many people—especially when alcohol makes tomorrow fade.
+
+Lab snapshots (isolated doses, not "your mug at work"):
+
+| Task | Condition | Finding | Source |
+| --- | --- | --- | --- |
+| Balloon risk task (BART) | Alcohol ~0.08% BrAC (pack narrative of Lejuez designs) | Mean adjusted pumps higher than placebo | Lejuez et al. (2002) [^4] |
+| Delay discounting | Alcohol ~0.06% BAC (pack) | Discount parameter *k* rises (future rewards worth less) | Reynolds et al. (2006; pack) |
+| Loss aversion λ | 200 mg caffeine in trading simulation (pack) | λ **2.15 → 1.62** | Rogers et al. (2013; pack) |
+| Alcohol + gambling paradigms | Intoxication | Riskier play consistent with alcohol myopia | George et al. (2005) [^3] |
+
+Full Prospect Theory and hyperbolic-discounting equations are skipped here; the idea is the same in words. Kahneman and Tversky's original prospect-theory paper and later cumulative updates are the formal home for λ [^1]. See the Bibliography for those papers if you want the math.
+
+Pure caffeine or ethanol in the lab can shift discounting or loss aversion. Jumping from that to "one green tea makes you a patient investor" overstates the evidence.
+
+That slogan is popular. The packs push back: stake size, income, habit, and social setting all confound real choices. And remember Chapter 2's stress thread—when cortisol rises under pressure, softer loss aversion and riskier choices can show up together. Field work on traders even links endogenous steroids with risk-taking on real floors—another reminder that chemistry and choices meet under pressure, without turning tea into a trading system [^5].
+
+Alcohol's boost of inhibitory signaling (Chapter 2) is linked with strong present bias—future costs weigh less. That is one reason the packs discuss alcohol beside "tomorrow counts for less," not only beside "feeling drunk."
+
+::: {.callout-note collapse="true" title="More detail: loss aversion λ, discounting, and BART"}
+| State (pack qualitative framing) | Loss sensitivity (λ idea) | Waiting for future rewards |
+| --- | --- | --- |
+| Tea pattern | Often stays in a balanced range (~**1.8–2.5** in the narrative framing) | More patience; present bias closer to stable |
+| High-caffeine / high-cortisol coffee pattern | Can soften loss aversion → more aggressive risk seeking under stress | Mixed; depends on context |
+| Alcohol | Loss sensitivity can collapse ("alcohol myopia") | Strong present bias; future costs fade |
+
+Lab snapshots (isolated doses):
+
+| Task | Condition | Finding | Trail |
+| --- | --- | --- | --- |
+| BART | Alcohol ~0.08% BrAC (pack narrative of Lejuez designs) | Mean adjusted pumps higher than placebo | Lejuez et al. (2002)[^4] |
+| Delay discounting | Alcohol ~0.06% BAC (pack) | Discount parameter *k* rises | Reynolds et al. (2006; pack) |
+| Loss aversion λ | **200 mg** caffeine in trading simulation (pack) | λ **2.15 → 1.62** | Rogers et al. (2013; pack) |
+| Alcohol + gambling | Intoxication | Riskier play consistent with alcohol myopia | George et al. (2005)[^3] |
+
+Prospect theory is the formal home for λ;[^1] field work on traders even links endogenous steroids with risk-taking on real floors—chemistry and choices meet under pressure without turning tea into a trading system.[^5] Jumping from lab ethanol/caffeine to "one green tea makes you a patient investor" overstates the evidence.
+:::
+
+Risk and patience are often measured alone. Trust and fairness need someone else in the room.
+
+
+
+---
+
+**Navigate:** [↑ Module 4 hub](index.qmd) · [← Previous](01-dual-process.qmd) · [Next →](03-trust-games.qmd)
+
+
+
+[^1]: Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–291.
+
+[^2]: Steele, C. M., & Josephs, R. A. (1990). Alcohol myopia: Its prized and dangerous effects. *American Psychologist, 45*(8), 921–933.
+
+[^3]: George, S., et al. (2005). Alcohol and risk-taking: Evidence of alcohol myopia in computerized gambling paradigms. *Neuropsychopharmacology, 30*(4), 819–828.
+
+[^4]: Lejuez, C. W., et al. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied, 8*(2), 75–84.
+
+[^5]: Coates, J. M., & Herbert, J. (2008). Endogenous steroids and financial risk taking on a London trading floor. *Proceedings of the National Academy of Sciences, 105*(16), 6167–6172.
+

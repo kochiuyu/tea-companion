@@ -1,0 +1,76 @@
+---
+title: "1.1 Two plants, one species"
+---
+
+::: {.callout-tip}
+**Module 1 · Lesson 1 of 4** — part of [1. The Chemical Core](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## Two plants, one species
+
+Commercial tea is *Camellia sinensis*. Think of it as one species with two main "flavors" of plant, the way dogs are one species with many breeds. Botanists have argued for decades about how to name those forms. A classic *Nature* note by W. Wight sorted the naming problem for tea taxonomists and still sits behind how growers talk about China-type and Assam-type plants [^1].
+
+The **China type** (var. *sinensis*) tends to be a smaller-leaved shrub. It grows more slowly and handles cold better. It is often linked with cooler, higher hills. The **Assam type** (var. *assamica*) tends to be larger-leaved and more tree-like. It grows faster in warm, humid lowlands [^2][^3].
+
+Why should a drinker care? Because dry-leaf chemistry differs on average. Assam-type leaves often carry more caffeine and more polyphenols (a big family of plant compounds). China-type leaves often carry more L-theanine. Growing conditions and which leaf you pick still matter a lot—so averages are guides, not laws [^4][^5].
+
+Picture a small, hardy bush on a cool hillside versus a larger, leafy plant in a hot lowland garden. That contrast is the China-type vs Assam-type story. One careful survey of world cultivars found that the Assam group showed the widest spread in tannin (polyphenol) and caffeine, and that cultivars with especially high tannin (above about 25% dry weight) appeared only in the Assam group—useful breeding material, and a reminder that "Assam" is not a single cookie-cutter plant [^4].
+
+::: {.callout-note collapse="true" title="More detail: what the cultivar survey actually measured"}
+Takeda's 1994 Japan Agricultural Research Quarterly survey compared caffeine and tannin across tea cultivars used in breeding.[^4] Mean caffeine sat near **4.09%** dry weight for Assam-group material versus about **3.11%** for China-group material—a real average gap, not a guarantee for any one garden. The same survey's high-tannin (above ~25% dry weight) outliers appeared only in the Assam group, which is why breeders still mine *assamica* when they want polyphenol punch.
+
+A separate East African clonal study under matched field design likewise found Assam-type clones richer in catechins and total polyphenols than chinary types—useful because it holds growing site roughly constant.[^6]
+
+**What this does *not* say:** your supermarket "Assam" blend is not a single genotype. Blending, plucking standard (two leaves and a bud vs coarser leaf), shade, and fertilizer can move caffeine by percentage points. The pack narrative already notes a shaded, well-fed China-type bud near **4.5%** caffeine and a poorly fed mature Assam leaf near **2.5%**. Averages lean Assam-higher; gardens write the fine print.
+:::
+
+The table below puts typical dry-leaf ranges from the source packs in one place so you can see the pattern at a glance.
+
+| | China type (var. *sinensis*) | Assam type (var. *assamica*) | Source trail |
+| --- | --- | --- | --- |
+| Leaf style | Smaller leaves | Larger leaves | Barua (1989) [^2] |
+| Growth | Slower shrub, about 1–3 m; more cold-tolerant | Faster tree-like plant, about 8–15 m; prefers warm climates | Wight (1959); Mondal (2014) [^1][^3] |
+| Typical leaf area | About 15–40 cm² | About 50–150 cm² | Mondal (2014) [^3] |
+| Cold limit (rough) | Can survive about −15°C to −20°C | Damage often below about −5°C | Ban et al. (2017) [^7] |
+| Polyphenols (dry leaf) | About 15%–25% | About 25%–35% | Borchetia et al. (2009); Takeda (1994) [^5][^4] |
+| L-theanine (dry leaf) | Often higher (about 1.5%–3.0%) | Often moderate (about 0.5%–1.5%) | Wei et al. (2018) [^8] |
+| Caffeine (dry leaf) | About 2.0%–3.5% | About 3.5%–5.5% | Ashihara et al. (2008); Takeda (1994) [^9][^4] |
+| Typical growing area | Cooler, higher hills | Warm, humid lowlands | Carr (2018); packs |
+
+Here is a common story people tell: "Assam always has far more caffeine." Average figures often put *assamica* higher—Takeda's cultivar survey reported Assam-group mean caffeine around 4.09% versus about 3.11% for China-group material [^4]—but growing conditions and which leaf you pick matter a lot. A well-fed, shaded China-type bud can reach about 4.5% caffeine; a poorly fed mature Assam leaf can sit near 2.5% (pack narrative ranges). So "Assam = double caffeine" is too blunt.
+
+And there is one more plant-to-cup thread worth remembering for later: higher catechin levels in *assamica* give more raw material for the dark pigments of black tea. That is why Assam-type leaves are such a natural fit for strong black-tea processing—a bridge we will meet again on the [Linkages](../../linkages.qmd) page. East African clonal work likewise often finds Assam-type material richer in catechins and total polyphenols than chinary types under the same field design [^6].
+
+So far we have the leaf on the bush. Next comes the factory choice that decides whether that leaf stays green or turns dark.
+
+
+
+---
+
+**Navigate:** [↑ Module 1 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-processing.qmd)
+
+
+
+[^1]: Wight, W. (1959). Nomenclature and classification of the tea plant. *Nature, 183*(4677), 1726–1728. https://doi.org/10.1038/1831726a0
+
+[^2]: Barua, D. N. (1989). *Science and Practice in Tea Culture*. Tea Research Association, Jorhat.
+
+[^3]: Mondal, T. K. (2014). Breeding and biotechnology of tea (*Camellia sinensis*). *Biotechnology in Agriculture and Forestry, 66*, 123–144.
+
+[^4]: Takeda, Y. (1994). Differences in caffeine and tannin contents between tea cultivars, and application to tea breeding. *Japan Agricultural Research Quarterly, 28*(2), 117–123. https://www.jircas.go.jp/en/publication/jarq/28/2/117
+
+[^5]: Borchetia, S., et al. (2009). Chemical evaluation of tea (*Camellia sinensis*) germplasm for crop diversification. *Industrial Crops and Products, 30*(2), 270–274.
+
+[^6]: Ochanda, S. O., et al. (2013). Variation in catechin composition of popularly cultivated tea clones in East Africa (Kenya). *American Journal of Plant Sciences, 4*(3), 628–640. https://doi.org/10.4236/ajps.2013.43081
+
+[^7]: Ban, Q., et al. (2017). Comparative transcriptome analysis reveals key pathways for cold acclimation in *Camellia sinensis*. *Plant Physiology and Biochemistry, 118*, 441–453.
+
+[^8]: Wei, C., et al. (2018). Draft genome sequence of *Camellia sinensis* var. *sinensis* provides insights into the evolution of tea flavor compounds. *Proceedings of the National Academy of Sciences, 115*(18), E4151–E4158. https://doi.org/10.1073/pnas.1719622115
+
+[^9]: Ashihara, H., Sano, H., & Suzuki, T. (2008). An update on caffeine biosynthesis in tea plants of *Camellia sinensis*. *Natural Product Communications, 3*(8), 1369–1378.
+

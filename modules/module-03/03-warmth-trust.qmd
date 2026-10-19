@@ -1,0 +1,71 @@
+---
+title: "3.3 Warm hands, warmer judgments?"
+---
+
+::: {.callout-tip}
+**Module 3 · Lesson 3 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## Warm hands, warmer judgments?
+
+Holding something warm can bias how "warm" or trustworthy another person feels. The brain region often discussed is the **anterior insular cortex**, which handles both physical temperature and social feelings. Effects on real choices are real in some studies—but not magic, and not always easy to replicate.
+
+Williams and Bargh (2008) reported that people who briefly held a warm cup of coffee rated a stranger as having a "warmer" personality than people who held an iced cup, and that holding a warm (versus cold) therapeutic pad raised the chance of choosing a gift for a friend rather than for oneself [^1]. Follow-on work linked physical and social "warmth" in the insula [^2]. Kang and colleagues reported that physical temperature also shifted responses to fairness in bargaining games [^3].
+
+| Condition | Stimulus | Typical behavioral skew in cited work | Source |
+| --- | --- | --- | --- |
+| Warm prime | Warm insulated cup / hot coffee briefly held | Partners rated warmer/more trustworthy; more friend-oriented gift choice in original Study 2 | Williams & Bargh (2008) [^1] |
+| Cold prime | Iced cup / cold pad | Partners framed as colder/distant; more self-oriented choice | Williams & Bargh (2008); Inagaki & Eisenberger (2013) [^1][^2] |
+| Warm mug in Trust / fairness settings | Warm ~60°C mug (pack narrative of Kang et al.) | Higher first-mover investment / fairness sensitivity in cited designs | Kang et al. (2011) [^3] |
+
+You meet someone while holding a cozy mug versus an icy can. In some lab setups, that body feeling spills into how "warm" the person seems. That is the embodied-cognition idea in everyday clothes.
+
+Study snapshots from the packs and the papers:
+
+- Warm vs cold mug: personality "warmth" ratings about **5.63** vs **4.04** on a 1–7 scale (Williams & Bargh, 2008) [^1].  
+- Gift choice: warm prime **54%** chose a gift for a friend; cold prime **75%** chose for self (same paper) [^1].  
+- Trust Game: warm mug (~60°C) raised first-mover investment about **+24.8%** vs cold pad (Kang et al., 2011; pack narrative) [^3].  
+
+A warm cup can nudge first impressions and opening trust in cited work. It does not guarantee generosity forever, and one famous behavioral result did not copy cleanly in a large replication.
+
+People sometimes say: "Warm mug always makes people generous." Williams & Bargh (2008) reported a very large effect. A large preregistered multi-lab replication of Study 2 (Lynott et al., 2014; total N = 861) failed to copy the pure behavioral gift-choice result [^4]. Later independent replications have also reported near-zero effects for the original warmth-to-prosocial link [^5]. Overlap between physical warmth and social bonding in the insula looks more robust in neuroimaging designs [^2]; outward behavior depends on person and setting. That honesty is part of the story: interesting claim, checked claim, limited claim.
+
+This warmth thread will reappear in Chapter 4's Trust Game—the same first-mover figure is one of the bridges on [Linkages](../../linkages.qmd).
+
+::: {.callout-note collapse="true" title="More detail: warmth priming results—and what failed to replicate"}
+| Condition | Stimulus | Behavioral skew in cited work | Trail |
+| --- | --- | --- | --- |
+| Warm prime | Warm cup / hot coffee briefly held | "Warmer" personality ratings; more friend-oriented gift choice in original Study 2 | Williams & Bargh (2008)[^1] |
+| Cold prime | Iced cup / cold pad | Colder/distant framing; more self-oriented choice | Williams & Bargh; Inagaki & Eisenberger[^1][^2] |
+| Warm mug in fairness / trust settings | Warm ~**60°C** mug (pack narrative of Kang et al.) | Higher first-mover investment / fairness sensitivity in cited designs | Kang et al. (2011)[^3] |
+
+Snapshots: warmth ratings about **5.63** vs **4.04** (1–7); gift choice warm **54%** friend vs cold **75%** self; Trust Game first-mover investment about **+24.8%** warm vs cold (pack narrative of Kang).[^1][^3]
+
+**Replication honesty.** A large preregistered multi-lab replication of Williams & Bargh Study 2 (Lynott et al., 2014; N = 861) **failed** to copy the pure behavioral gift-choice result.[^4] Later independent reports have also found near-zero effects for the original warmth-to-prosocial link.[^5] Insula overlap between physical and social warmth looks more robust in neuroimaging designs;[^2] outward behavior depends on person and setting. Interesting claim → checked claim → limited claim.
+:::
+
+Warmth is passive. Ritual is active. What happens when you *make* the tea on purpose?
+
+
+
+---
+
+**Navigate:** [↑ Module 3 hub](index.qmd) · [← Previous](02-monastic-path.qmd) · [Next →](04-ritual-stress.qmd)
+
+
+
+[^1]: Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
+
+[^2]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280.
+
+[^3]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness. *PLOS ONE, 6*(1), e15836. https://doi.org/10.1371/journal.pone.0015836
+
+[^4]: Lynott, D., et al. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
+
+[^5]: Chabris, C. F., et al. (2018 preprint / later reports). Failures to replicate Williams and Bargh (2008) warmth priming in field settings. https://doi.org/10.31234/osf.io/mvn9b
+

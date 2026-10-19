@@ -2,7 +2,7 @@
 title: "Bibliography"
 ---
 
-# Bibliography
+**Footnotes live on lesson pages** (click the number, then the caret to return). This page is the master map by theme. Start from a [module hub](modules/index.qmd) if you want the story first.
 
 Every claim on this site should leave a trail.
 

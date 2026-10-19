@@ -2,11 +2,9 @@
 title: "Tea basics"
 ---
 
-# Tea basics: from aisle to cup
-
 You stand in a grocery aisle. Boxes say *English Breakfast*, *Earl Grey*, *green tea*, *chamomile*, *matcha*. Cafe menus add *sencha*, *oolong*, *Assam*. The companion chapters start talking about *Camellia sinensis*, oxidation, and catechins. How do those everyday labels connect?
 
-This page is the **bridge**. It is not a second chemistry textbook and not a shopping guide. It maps common commercial names onto the plant and processing ideas that [Chapter 1](modules/module-01.qmd) uses—so when Module 1 says "green vs black," you already know what your supermarket box probably meant.
+This page is the **bridge**. It is not a second chemistry textbook and not a shopping guide. It maps common commercial names onto the plant and processing ideas that [Chapter 1](modules/module-01/index.qmd) uses—so when Module 1 says "green vs black," you already know what your supermarket box probably meant.
 
 Keep the [Glossary](glossary.qmd) for chapter jargon (*HPA axis*, *ERN*, *BART*). Keep the [Cup reference](cup-reference.qmd) for typical milligrams in a 250 mL mug. Use **this** page when a label on a shelf feels disconnected from the story.
 
@@ -74,7 +72,7 @@ Labels mix three things: **place** (Assam, Darjeeling), **factory style** (sench
 | Label you see | What it usually means | Bridge into this site |
 | --- | --- | --- |
 | **English Breakfast** | A **blend** of black teas chosen for a strong morning cup (often Assam and/or other robust blacks; recipes vary by brand) | Black-tea processing path; caffeine often toward the higher end of everyday cups—see [Cup reference](cup-reference.qmd) |
-| **Assam** | Black tea from Assam (northeast India); often malty and strong; the region is the home story of the large-leaf *assamica* type | China-type vs Assam-type in [Chapter 1](modules/module-01.qmd) |
+| **Assam** | Black tea from Assam (northeast India); often malty and strong; the region is the home story of the large-leaf *assamica* type | China-type vs Assam-type in [Chapter 1](modules/module-01/index.qmd) |
 | **Darjeeling** | Tea from Darjeeling (Himalayan foothills); often delicate, high-grown; sold as black tea though some lots sit toward lighter oxidation | Geography + processing; not a separate species |
 | **Earl Grey** | Usually **black tea flavored with bergamot** (citrus aroma); the base is still *Camellia* black tea | Flavoring on top of a black path—not a new plant |
 | **Ceylon / Kenyan** | Black teas named for origin (Sri Lanka; Kenya)—common building blocks in blends | Origin labels ≠ different species |
@@ -108,7 +106,7 @@ Chapter 1's first big plant idea is simple: almost all commercial tea is one spe
 
 **Honesty from the packs:** "Assam always has far more caffeine" is too blunt. Averages often lean *assamica*-higher, but shade, fertilizer, and which leaf you pick can flip a single comparison.[^10] Chapter 1 walks that caveat with numbers; this page only needs the map.
 
-→ Full story: [Chapter 1 — Two plants, one species](modules/module-01.qmd)
+→ Full story: [Lesson 1.1 — Two plants, one species](modules/module-01/01-plants.qmd)
 
 ---
 
@@ -141,7 +139,7 @@ Smaller particles expose more surface area, so soluble solids—including caffei
 Read this site as three nested maps:
 
 1. **Tea basics (this page)** — what the *words on the box* usually mean.
-2. **[Chapter 1](modules/module-01.qmd)** — what the *leaf and factory* do chemically (China/Assam types; stop vs run oxidation; brewing; caffeine, L-theanine, EGCG).
+2. **[Chapter 1](modules/module-01/index.qmd)** — what the *leaf and factory* do chemically (China/Assam types; stop vs run oxidation; brewing; caffeine, L-theanine, EGCG).
 3. **[Cup reference](cup-reference.qmd)** — typical *milligrams in a 250 mL cup* under pack brewing baselines.
 
 A short path many readers like:
@@ -156,7 +154,7 @@ When you want chapter jargon (*PPO*, *theaflavins*, *HPA axis*), open the [Gloss
 
 ## Where to go next
 
-New to tea labels? You are in the right place. Ready for the chemistry story those labels sit on? Start [Chapter 1: The Chemical Core](modules/module-01.qmd). Want numbers for a standard mug first? Open the [Cup reference](cup-reference.qmd).
+New to tea labels? You are in the right place. Ready for the chemistry story those labels sit on? Start [Chapter 1: The Chemical Core](modules/module-01/index.qmd). Want numbers for a standard mug first? Open the [Cup reference](cup-reference.qmd).
 
 [^1]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html (Notes that herbal teas are made from leaves of other plants and should name the plant.)
 
@@ -166,7 +164,7 @@ New to tea labels? You are in the right place. Ready for the chemistry story tho
 
 [^4]: Wong, M., et al. (2022). Phytochemical profile of differently processed tea: A review. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.16137 (Green / white / oolong / black / pu-erh as processing categories.)
 
-[^5]: Source packs (Module 1 verification): ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See also Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [Chapter 1](modules/module-01.qmd).
+[^5]: Source packs (Module 1 verification): ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See also Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [Chapter 1](modules/module-01/index.qmd).
 
 [^6]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark) sorted by processing and oxidation—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
@@ -176,7 +174,7 @@ New to tea labels? You are in the right place. Ready for the chemistry story tho
 
 [^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Pack-cited naming frame for China-type vs Assam-type talk.)
 
-[^10]: Pack Module 1 verification note on caffeine averages vs growing conditions; Takeda (1994) cultivar survey as used in [Chapter 1](modules/module-01.qmd).
+[^10]: Pack Module 1 verification note on caffeine averages vs growing conditions; Takeda (1994) cultivar survey as used in [Chapter 1](modules/module-01/index.qmd).
 
 [^11]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html (Formal ~2 g / 100 mL vs everyday ~2 g / 250 mL baseline on Cup reference.)
 

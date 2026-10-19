@@ -1,0 +1,76 @@
+---
+title: "2.1 Gas pedals, brakes, and a busy road"
+---
+
+::: {.callout-tip}
+**Module 2 · Lesson 1 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## Gas pedals, brakes, and a busy road
+
+Think of brain signaling as a busy road with gas pedals and brakes.
+
+**Caffeine** blocks adenosine (the chemical that promotes sleepiness) at A₁ and A₂A receptors. Neurons stay more "awake." Related signaling for dopamine, norepinephrine, and glutamate can rise. The classic review by Fredholm and colleagues still gives the clearest public map of that story: caffeine is mainly an adenosine-receptor antagonist at everyday doses, not a mysterious "energy molecule" [^1].
+
+**L-theanine** weakly competes at some glutamate receptors and is also linked to more calming inhibitory tone. That can blunt over-excitation and support calmer, more controlled attention [^2][^3]. Binding studies show theanine can occupy AMPA, kainate, and NMDA-related sites—but with much weaker affinity than glutamate itself. Think "gentle nudge on the volume knob," not "unplug the amp" [^3].
+
+**Alcohol (ethanol)** boosts GABA_A inhibition and blocks some NMDA glutamate signaling. Neural activity slows; learning and memory processes can be disrupted [^4][^5].
+
+In everyday clothes: caffeine is like taking the "you're getting sleepy" note off the desk so you keep working. L-theanine is more like turning down noisy chatter so you can focus without panic. Alcohol is like dimming the whole room's lights—everything slows, including careful thinking.
+
+| Drink / compound | Main idea | Rough downstream effect | Key evidence |
+| --- | --- | --- | --- |
+| Caffeine | Competes with adenosine at A₁ and A₂A receptors | Neurons stay more "awake"; related dopamine / norepinephrine / glutamate signaling can rise | Fredholm et al. (1999) [^1] |
+| L-Theanine | Weakly competes at some glutamate receptors; linked to more calming inhibitory tone | Can blunt over-excitation; associated with calmer, more controlled attention | Kakuda (2011); Kakuda et al. (2002) [^2][^3] |
+| Alcohol (ethanol) | Boosts GABA_A inhibition and blocks some NMDA glutamate signaling | Neural activity slows; learning and memory processes can be disrupted | Mihic et al. (1997); Lovinger et al. (1989) [^4][^5] |
+
+Two light study snapshots keep the story grounded:
+
+- About **200 mg caffeine**: small increase (about 2%–3%) in striatal D2 receptor availability in one PET study (Volkow et al., 2015; pack citation).  
+- About **200 mg L-theanine**: plasma GABA reported about **18.5% ± 4.2%** higher over two hours in one study (Lu et al., 2019; pack citation).  
+
+Detailed receptor-binding lab constants stay in the Bibliography.
+
+Tea's dual story—caffeine plus L-theanine—helps explain why many people describe tea as "awake but not as jittery as coffee." Volunteer studies that give both compounds together often find better attention switching and less distractibility than caffeine alone at modest doses [^6][^7]. The packs still warn against overselling. Here is a common story people tell: "L-theanine is a direct GABA booster." Secondary blurbs often say that. The packs' sources say otherwise: L-theanine does not bind the main GABA receptor sites as an agonist. It mainly acts as a low-affinity blocker at certain glutamate receptors, with a milder, indirect lift in GABA release [^2][^3].
+
+::: {.callout-note collapse="true" title="More detail: receptor snapshots (doses from the packs)"}
+| Parameter | Condition | Finding | Trail |
+| --- | --- | --- | --- |
+| Striatal D2 availability | ~**200 mg** caffeine | About **2%–3%** increase (PET) | Volkow et al. (2015; pack) |
+| Plasma GABA | ~**200 mg** L-theanine | About **18.5% ± 4.2%** higher over 2 h | Lu et al. (2019; pack) |
+| NMDA competition | L-theanine binding | Low-affinity competitive block (IC50 on the order of **~10 mM** in Kakuda binding work) | Kakuda et al. (2002)[^3] |
+
+Fredholm and colleagues' review remains the clearest public map of caffeine as an adenosine A₁ / A₂A antagonist at everyday doses—not a mysterious "energy molecule."[^1] Alcohol, by contrast, boosts GABA_A inhibition and blocks some NMDA currents, slowing careful neural work.[^4][^5]
+
+**Honesty check on the GABA slogan.** Secondary wellness copy often calls L-theanine a "GABA booster." The packs' primary trail says it does **not** bind GABA_A / GABA_B active sites as an agonist; calming effects are framed mainly as low-affinity glutamate-receptor antagonism plus milder, indirect GABA facilitation.[^2][^3]
+:::
+
+So the road has gas and brakes. Can researchers *hear* that difference in the brain's rhythms?
+
+
+
+---
+
+**Navigate:** [↑ Module 2 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-brainwaves.qmd)
+
+
+
+[^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^2]: Kakuda, T. (2011). Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction. *Pharmacological Research, 64*(2), 162–168.
+
+[^3]: Kakuda, T., Nozawa, A., Sugimoto, A., & Niino, H. (2002). Inhibition by theanine of binding of [³H]AMPA, [³H]kainate, and [³H]MDL 105,519 to glutamate receptors. *Bioscience, Biotechnology, and Biochemistry, 66*(12), 2683–2686. https://doi.org/10.1271/bbb.66.2683
+
+[^4]: Mihic, S. J., et al. (1997). Sites of alcohol and volatile anaesthetic action on GABA_A and glycine receptors. *Nature, 389*(6649), 385–389.
+
+[^5]: Lovinger, D. M., White, G., & Weight, F. F. (1989). Ethanol inhibits NMDA-activated ion current in hippocampal neurons. *Science, 243*(4899), 1721–1724.
+
+[^6]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
+
+[^7]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
+
