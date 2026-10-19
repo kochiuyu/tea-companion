@@ -2,7 +2,7 @@
 title: "Tea, Caffeine & Decision Companion"
 ---
 
-This Quarto site holds verified materials for the **Tea, Caffeine & Decision Companion**. Content on the pages below comes only from owner-supplied packs; no additional factual claims are added here.
+A comprehensive scientific and socio-ritual database organized as a **symmetric 4×4 grid**: four foundational modules, each with four fact-packed branches—tables, parameter definitions, and equations grounded in peer-reviewed biochemistry, clinical pharmacology, behavioral economics, and historical sources. Content on these pages comes only from owner-supplied verified packs.
 
 **Modules**
 
@@ -13,9 +13,7 @@ This Quarto site holds verified materials for the **Tea, Caffeine & Decision Com
 
 **Reference pages**
 
-- [Cup reference](cup-reference.qmd) — standard-cup yield ranges for caffeine, L-theanine, EGCG, and total catechins.
-- [Glossary](glossary.qmd) — technical terms mapped to module branches.
-- [Linkages](linkages.qmd) — cross-branch scientific linkages with citations.
-- [Bibliography](bibliography.qmd) — awaiting a verified bibliography pack.
-
-Commit or publish only when the owner explicitly says to **commit these files**.
+- [Cup reference](cup-reference.qmd) — standard-cup (250 mL) yield ranges for caffeine, L-theanine, EGCG, and total catechins.
+- [Glossary](glossary.qmd) — 29 technical terms mapped to module branches.
+- [Linkages](linkages.qmd) — 11 cross-branch scientific linkages with citations.
+- [Bibliography](bibliography.qmd) — primary citations from the master database, additions packs, and bibliographic audit.
