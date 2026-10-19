@@ -2,7 +2,14 @@
 title: "Modules"
 ---
 
-Overview of the four modules. All modules are filled from owner-supplied verified materials.
+Website master curriculum map (symmetric 4×4 grid), from the master database pack:
+
+| Module | Branches |
+| --- | --- |
+| 1. Chemical Core | 1.1 Genetics · 1.2 Oxidation · 1.3 Extraction · 1.4 Compounds |
+| 2. Cognitive / Physiological | 2.1 Synaptic · 2.2 Neural Wave Signatures · 2.3 Endocrine Response · 2.4 Physio Biomarkers |
+| 3. Socio-Ritual | 3.1 History-Macro · 3.2 History-Micro · 3.3 Psycho-Prime · 3.4 Ritual Stress |
+| 4. Decision | 4.1 Dual-Process · 4.2 Risk / Choice · 4.3 Game Theory · 4.4 Protocols |
 
 | Module | Page | Status |
 |--------|------|--------|
