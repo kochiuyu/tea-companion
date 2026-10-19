@@ -6,11 +6,11 @@ lang: zh-Hant-HK
 {{< include ../../../_includes/lang-switcher/module-03-warmth-trust.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../index.qmd) · [模組一](../module-01/index.qmd) · [模組二](../module-02/index.qmd) · [模組三](index.qmd) · [模組四](../module-04/index.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../../modules/index.qmd) · [模組一](../module-01/index.qmd) · [模組二](../module-02/index.qmd) · [模組三](index.qmd) · [模組四](../module-04/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模組已有中文版。** [連結橋樑](../../../linkages.qmd)、[參考文獻](../../../bibliography.qmd)暫以英文提供。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
 ::: {.callout-tip}
@@ -73,7 +73,7 @@ Lynott et al.（2014）在任何場地或合計 N = 861 分析裡，都沒有複
 
 **作為方法警告仍有用。** 若熱啟動可以在*某些*設計裡移動*某些*社會與公平行為，[^3] 那麼忽略杯溫的決策研究有把化學與溫暖混在一起的風險。那正是為甚麼 [4.4 研究方案](../module-04/04-study-protocols.qmd)指定不透明杯子約 **60°C ± 2°C**。
 
-這條溫暖線索在 [4.3 信任博弈](../module-04/03-trust-games.qmd)再出現——同一個先手數字是 [連結橋樑](../../../linkages.qmd)（英文）上的橋之一。
+這條溫暖線索在 [4.3 信任博弈](../module-04/03-trust-games.qmd)再出現——同一個先手數字是 [連結橋樑](../../linkages.qmd)上的橋之一。
 :::
 
 ## 被動溫暖 vs 主動儀式

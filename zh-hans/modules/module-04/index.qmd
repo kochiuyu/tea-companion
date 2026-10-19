@@ -6,11 +6,11 @@ lang: zh-Hans
 {{< include ../../../_includes/lang-switcher/module-04.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [模块总览](../index.qmd) · [模块一](../module-01/index.qmd) · [模块二](../module-02/index.qmd) · [模块三](../module-03/index.qmd) · [模块四](index.qmd)
+**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [模块总览](../../modules/index.qmd) · [模块一](../module-01/index.qmd) · [模块二](../module-02/index.qmd) · [模块三](../module-03/index.qmd) · [模块四](index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模块已有中文版。** [联结桥梁](../../../linkages.qmd)、[参考文献](../../../bibliography.qmd)暂以英文提供。
+::: {.callout-note}
+**英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
 :::
 
 你已跟着茶从植物到杯子、穿过身体，再走进历史与仪式。这里是整趟旅程悬着的问题——尤其对以艰难选择为生的人：
@@ -93,7 +93,7 @@ lang: zh-Hans
 
 你从叶上的蒸汽开始。你遇见两种植物、一个加工分叉、一次冲泡，以及三种化合物。你跟着那些化合物走进清醒、平静、压力与身体讯号。你拉远到白银与帝国、寺院与茶室、暖手与仪式休息。你结束在量轻推——不是魔法开关——的实验室场景，以及试图令预期诚实的方案里。
 
-若想要快速杯量数字，打开 [杯量参考](../../cup-reference.qmd)。若某个词仍觉得滑，试 [词汇表](../../glossary.qmd)。若想看各章怎样缝在一起，走 [联结桥梁](../../../linkages.qmd)（英文）上的十一条线。若想要论文，每章现在用可点击脚注——而 [参考文献](../../../bibliography.qmd)（英文）仍是总地图。
+若想要快速杯量数字，打开 [杯量参考](../../cup-reference.qmd)。若某个词仍觉得滑，试 [词汇表](../../glossary.qmd)。若想看各章怎样缝在一起，走 [联结桥梁](../../linkages.qmd)上的十一条线。若想要论文，每章现在用可点击脚注——而 [参考文献](../../bibliography.qmd)仍是总地图。
 
 杯子很普通。故事不是。而下一次你倒茶时，你会多知道一点为什么。
 

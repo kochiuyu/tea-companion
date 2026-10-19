@@ -6,18 +6,18 @@ lang: zh-Hant-HK
 {{< include ../_includes/lang-switcher/glossary.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [模組總覽](modules/index.qmd) · [模組一](modules/module-01/index.qmd) · [模組二](modules/module-02/index.qmd) · [模組三](modules/module-03/index.qmd) · [模組四](modules/module-04/index.qmd)
+**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [模組總覽](modules/index.qmd) · [模組一](modules/module-01/index.qmd) · [模組二](modules/module-02/index.qmd) · [模組三](modules/module-03/index.qmd) · [模組四](modules/module-04/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模組已有中文版**（見[模組總覽](modules/index.qmd)）。[連結橋樑](../linkages.qmd)、[參考文獻](../bibliography.qmd)暫以英文提供。詞彙表裡「出現位置」連結均指向中文模組頁。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
 每趟旅程都會蒐集新詞。有些第一次見面就親切——*咖啡因*、*儀式*。有些則塞得滿滿——*HPA 軸*、*錯誤相關負波*——像把五個想法摺進同一個行李箱。
 
 本頁把這些行李箱拆開。當課文用到技術詞時，來這裡查一句白話定義。模組編號指出該詞在故事裡最重要的位置。
 
-你不必背整張表。開始新模組時，掃一眼頁底「按模組」清單即可。極冷門的實驗室常數與擴散方程式刻意略過；若要原始論文，見 [參考文獻](../bibliography.qmd)（英文）。
+你不必背整張表。開始新模組時，掃一眼頁底「按模組」清單即可。極冷門的實驗室常數與擴散方程式刻意略過；若要原始論文，見 [參考文獻](bibliography.qmd)。
 
 把這裡想成四大模組的口袋短語手冊——不是第二本教科書。
 

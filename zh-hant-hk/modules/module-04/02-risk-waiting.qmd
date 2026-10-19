@@ -6,11 +6,11 @@ lang: zh-Hant-HK
 {{< include ../../../_includes/lang-switcher/module-04-risk-waiting.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../index.qmd) · [模組一](../module-01/index.qmd) · [模組二](../module-02/index.qmd) · [模組三](../module-03/index.qmd) · [模組四](index.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../../modules/index.qmd) · [模組一](../module-01/index.qmd) · [模組二](../module-02/index.qmd) · [模組三](../module-03/index.qmd) · [模組四](index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模組已有中文版。** [連結橋樑](../../../linkages.qmd)、[參考文獻](../../../bibliography.qmd)暫以英文提供。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
 ::: {.callout-tip}
@@ -54,7 +54,7 @@ lang: zh-Hant-HK
 
 ***k*（簡單模型裡的折現率）。** 較高 *k* → 未來獎勵縮得更快 → 更強偏好現在。酒精的資料包 *k* 跳躍是單一數字裡的現時偏誤故事。[^7] 準雙曲 β–δ 模型（Laibson）若你想要經濟學版本，把「現在 vs 稍後」與「稍後 vs 更稍後」分開。[^9]
 
-完整前景理論與雙曲折現方程式故意跳過打開的故事。Kahneman & Tversky (1979)、Tversky & Kahneman (1992) 與 Laibson (1997) 住在 [參考文獻](../../../bibliography.qmd)（英文），若你想要數學。[^1][^6][^9]
+完整前景理論與雙曲折現方程式故意跳過打開的故事。Kahneman & Tversky (1979)、Tversky & Kahneman (1992) 與 Laibson (1997) 住在 [參考文獻](../../bibliography.qmd)，若你想要數學。[^1][^6][^9]
 :::
 
 ::: {.callout-note collapse="true" title="更多詳情：λ 2.15 → 1.62 的玩具算術（僅教學）"}

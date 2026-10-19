@@ -6,11 +6,11 @@ lang: zh-Hant-HK
 {{< include ../../_includes/lang-switcher/modules.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../index.qmd) · [茶葉入門](../tea-basics.qmd) · [杯量參考](../cup-reference.qmd) · [詞彙表](../glossary.qmd) · [模組總覽](index.qmd) · [模組一](module-01/index.qmd) · [模組二](module-02/index.qmd) · [模組三](module-03/index.qmd) · [模組四](module-04/index.qmd)
+**本站中文入口：** [首頁](../index.qmd) · [茶葉入門](../tea-basics.qmd) · [杯量參考](../cup-reference.qmd) · [詞彙表](../glossary.qmd) · [模組總覽](index.qmd) · [模組一](module-01/index.qmd) · [模組二](module-02/index.qmd) · [模組三](module-03/index.qmd) · [模組四](module-04/index.qmd) · [連結橋樑](../linkages.qmd) · [參考文獻](../bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模組已有中文版。** [連結橋樑](../../linkages.qmd)、[參考文獻](../../bibliography.qmd)暫以英文提供。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
 想像本站是一趟短途旅程，共有四站——每一站現在各有**四課**（合共十六堂），對應站長原始資料包的分支。
@@ -60,7 +60,7 @@ lang: zh-Hant-HK
 從 [杯量參考](../cup-reference.qmd) 開始，再到 [1.3 沖泡](module-01/03-brewing.qmd) 與 [1.4 化合物](module-01/04-compounds.qmd)。
 
 **「為甚麼清醒卻不焦躁？」**  
-去 [模組二入口](module-02/index.qmd)，再到 [連結橋樑](../../linkages.qmd#1-why-waiting-after-the-first-sip-matters)（英文）關於 L-茶胺酸時間與平靜腦波的那座橋。
+去 [模組二入口](module-02/index.qmd)，再到 [連結橋樑](../linkages.qmd#why-waiting-after-the-first-sip-matters)關於 L-茶胺酸時間與平靜腦波的那座橋。
 
 **「茶只是化學嗎？」**  
 不是。[模組三入口](module-03/index.qmd)是拉遠鏡頭：貿易、寺院、溫杯、泡茶休息。

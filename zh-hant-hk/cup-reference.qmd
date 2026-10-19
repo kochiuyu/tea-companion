@@ -6,11 +6,11 @@ lang: zh-Hant-HK
 {{< include ../_includes/lang-switcher/cup-reference.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [模組總覽](modules/index.qmd) · [模組一](modules/module-01/index.qmd) · [模組二](modules/module-02/index.qmd) · [模組三](modules/module-03/index.qmd) · [模組四](modules/module-04/index.qmd)
+**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [模組總覽](modules/index.qmd) · [模組一](modules/module-01/index.qmd) · [模組二](modules/module-02/index.qmd) · [模組三](modules/module-03/index.qmd) · [模組四](modules/module-04/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模組已有中文版。** [連結橋樑](../linkages.qmd)、[參考文獻](../bibliography.qmd)暫以英文提供。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
 在模組一談植物與加工、模組二談你*感覺*如何之前，先搞清楚「一杯」到底指甚麼，很有幫助。口語裡人人都說這句話；實驗室與家用廚房的濃度卻可以差很遠。若*盒子上的字*仍覺得跟化學對不上，先掃一眼 [茶葉入門](tea-basics.qmd)（貨架標籤 → 加工路徑），再回到這裡看毫克數。
