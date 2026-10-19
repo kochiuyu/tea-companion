@@ -1,0 +1,26 @@
+---
+title: "2. Synaptic Mechanisms & Physiological Biomarkers"
+---
+
+# 2. Module 2: Synaptic Mechanisms & Physiological Biomarkers
+
+## 2.1 Synaptic Mechanisms & Receptor Kinetics
+
+| Compound | Primary Target Receptor | Receptor Mechanism of Action | Synaptic Downstream Effect | Key Evidence |
+| --- | --- | --- | --- | --- |
+| Caffeine | Adenosine A₁ & A₂A | Competitive Antagonism (Ki ≈ 2.9 µM) | Inhibits the slow, tonic hyperpolarization of neurons; increases baseline exocytosis of Dopamine, Norepinephrine, and Glutamate. | Fredholm et al. (1999) |
+| L-Theanine | Ionotropic Glutamate (NMDA, AMPA, Kainate) | Weak Competitive Antagonism (Ki ≈ 5 mM) | Blunts excessive glutamate excitotoxicity; promotes presynaptic release of GABA, raising baseline inhibitory control. | Kakuda (2011) |
+| Ethanol (Alcohol) | GABA_A (α₁ containing subunits) | Positive Allosteric Modulation (PAM) | Increases chloride current (I_Cl⁻) conductance, causing postsynaptic membrane hyperpolarization and widespread neural slowing. | Mihic et al. (1997) |
+| Ethanol (Alcohol) | NMDA (Glutamate) | Non-Competitive Antagonism | Directly blocks the calcium-conducting pore (I_Ca²⁺), disrupting long-term potentiation (LTP) in the hippocampus. | Lovinger et al. (1989) |
+
+### Additions
+
+| Parameter / Variable | Substance & Dose Condition | Quantified Finding | Synaptic/Systemic Context | Primary Citation |
+| --- | --- | --- | --- | --- |
+| Striatal Dopamine (D2) Binding | Caffeine oral dose: 200 mg (equivalent to 3 mg/kg) | 2.0% to 3.0% increase in D2 receptor availability | Increases synaptic sensitivity to dopamine without altering baseline dopamine release. | Volkow, N. D., et al. (2015). Translational Psychiatry, 5(4), e541. |
+| GABA Plasma Concentrations | L-Theanine oral dose: 200 mg | 18.5% ± 4.2% rise from baseline over 2 hours | Indicative of systemic GABAergic up-regulation and presynaptic release. | Lu, K., et al. (2019). Human Psychopharmacology, 34(5), e2711. |
+| NMDA Receptor Blockade (IC50) | L-Theanine competitive binding | IC50 ≈ 10 mM | Direct low-affinity competitive antagonism at NMDA receptors, preventing excess glutamate binding. | Kakuda, T., et al. (2002). Bioscience, Biotechnology, and Biochemistry, 66(12), 2683-2686. |
+
+::: {.callout-note title="Verification Note"}
+**The Oversimplified “GABA Booster” Label:** Secondary sources routinely label L-theanine as a direct GABA agonist. This is biochemically incorrect. L-theanine does not bind to the GABAA or GABAB active sites. Instead, it acts as a low-affinity competitive antagonist at glutamate NMDA, AMPA, and kainate receptors. Its anti-stress and calming properties are primarily driven by blocking the excitatory binding of glutamate, alongside a mild, indirect facilitation of presynaptic GABA release.
+:::

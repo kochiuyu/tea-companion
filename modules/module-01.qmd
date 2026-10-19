@@ -1,0 +1,32 @@
+---
+title: "1. The Chemical Core"
+---
+
+# 1. Module 1: The Chemical Core
+
+## 1.1 Species Genetics & Botanical Taxonomy
+
+This section profiles the distinct genetic, morphological, and chemical properties of the two primary varieties of *Camellia sinensis* used in commercial cultivation.
+
+| Parameter / Variable | Camellia sinensis var. sinensis (China Variety) | Camellia sinensis var. assamica (Assam Variety) | Primary Scientific Source |
+| --- | --- | --- | --- |
+| Taxonomic Classification | Small-leaf variety (var. sinensis) | Large-leaf variety (var. assamica) | Barua, D. N. (1989) |
+| Growth Habit | Slower-growing, multi-stemmed cold-resistant shrub (1–3 m) | Rapid-growing, single-stem tropical tree (8–15 m) | Wight, W. (1959) |
+| Typical Leaf Area (Al) | 15 cm² - 40 cm² | 50 cm² - 150 cm² | Mondal, T. K. (2014) |
+| Cold Hardiness Threshold | Survived temperatures as low as -15°C to -20°C | Severe cellular damage below -5°C | Ban et al. (2017) |
+| Total Polyphenol Content | 15% - 25% dry weight | 25% - 35% dry weight | Borchetia et al. (2009) |
+| Baseline L-Theanine Yield | Elevated (1.5% - 3.0% dry weight) | Moderate (0.5% - 1.5% dry weight) | Wei et al. (2018) |
+| Caffeine Concentration | 2.0% - 3.5% dry weight | 3.5% - 5.5% dry weight | Ashihara et al. (2008) |
+| Primary Cultivation Terroir | Subtropical, high-altitude mountains | Tropical, humid, sea-level basins | Carr, M. K. V. (2018) |
+
+### Additions
+
+| Parameter | variety: sinensis | variety: assamica | Unit | Primary Citation |
+| --- | --- | --- | --- | --- |
+| Somatic Chromosome Number (2n) | 30 (diploid; rare triploid variants) | 30 (diploid) | Chromosomes | Wight, W. (1962). Nature, 196, 441. |
+| Stomatal Density (Ds) | 150–250 | 100–180 | stomata/mm² | Wey et al. (2021). PLOS ONE, 16(11), e0259836. |
+| Relative Genomic Size (1C DNA) | 2.55–2.89 | 2.95–3.12 | Picograms (pg) | Xia, E. H., et al. (2017). PNAS, 114(17), E3569-E3558. |
+
+::: {.callout-note title="Verification Note"}
+**The “Assamica has more caffeine” Overstatement:** While broad averages in textbooks state that var. *assamica* has double the caffeine of var. *sinensis*, this is highly context-dependent. The genetic potential for caffeine synthesis is modulated dramatically by nitrogen fertilization and pluck position (first leaf vs. third leaf). A shaded, heavily fertilized var. *sinensis* bud can exhibit a caffeine concentration of up to 4.5%, exceeding a poorly fertilized, mature var. *assamica* leaf (2.5%).
+:::
