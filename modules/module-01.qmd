@@ -4,11 +4,15 @@ title: "1. The Chemical Core"
 
 # 1. The Chemical Core
 
-## Story in one minute
+Here is a small mystery almost every tea drinker has lived through.
 
-Tea is not a mystery powder. It comes from a real plant. Two main types of that plant grow in different climates. After picking, workers either **stop** the leaf from browning (green tea) or **let** it brown in air (black tea). Then hot water pulls compounds into your cup. Three names matter most for everyday talk: **caffeine** (alertness), **L-theanine** (calm focus), and **EGCG** (a major green-tea plant compound).
+You buy two boxes. Both say “tea.” One pours pale and grassy. The other pours dark and malty. One leaves you gently alert. The other can feel stronger, more “coffee-adjacent.” Same grocery aisle. Same word on the label. So what changed—the plant, the factory, or the way you steeped it?
 
-::: {.callout-tip title="Words to know (Module 1)"}
+This chapter answers that question in order. First we meet the plant behind almost all commercial tea. Then we watch what happens after picking—when makers either **stop** the leaf from browning (green tea) or **let** it brown in air (black tea). Then we watch hot water pull compounds into the cup. Finally we meet three names that matter most in everyday talk: **caffeine** (alertness), **L-theanine** (calm focus), and **EGCG** (a major green-tea plant compound).
+
+By the end you will know why “what’s in my mug?” is not one number—and why that mug sets up everything that happens in Chapter 2, after you swallow.
+
+::: {.callout-tip title="Words to know on this journey"}
 - **Camellia sinensis** — the tea plant species that almost all commercial tea comes from.
 - **Oxidation** — when leaf enzymes react with air and the leaf darkens (tea people often say “fermentation,” but for ordinary green/black tea they usually mean this).
 - **Catechins** — natural plant compounds in fresh tea leaves; many stay simple in green tea and link into darker pigments in black tea.
@@ -17,28 +21,17 @@ Tea is not a mystery powder. It comes from a real plant. Two main types of that 
 - **EGCG** — short for epigallocatechin-3-gallate; the standout catechin in green tea.
 :::
 
-## What this means when you drink tea
-
-The plant type, the processing path, and your brew (temperature and time) all change **what is in the cup**—and how strong or calm the drink can feel. Your exact mug still varies with brand and leaf quality; the numbers below are typical ranges from the source packs.
-
 ---
 
-## 1.1 Two main tea plants
-
-### What is going on
+## Two plants, one species
 
 Commercial tea is *Camellia sinensis*. Think of it as one species with two main “flavors” of plant, the way dogs are one species with many breeds.
 
-- The **China type** (var. *sinensis*) tends to be a smaller-leaved shrub. It grows more slowly and handles cold better. It is often linked with cooler, higher hills.
-- The **Assam type** (var. *assamica*) tends to be larger-leaved and more tree-like. It grows faster in warm, humid lowlands.
+The **China type** (var. *sinensis*) tends to be a smaller-leaved shrub. It grows more slowly and handles cold better. It is often linked with cooler, higher hills. The **Assam type** (var. *assamica*) tends to be larger-leaved and more tree-like. It grows faster in warm, humid lowlands.
 
-Why does that matter for your cup? Dry-leaf chemistry differs on average. Assam-type leaves often carry more caffeine and more polyphenols (a big family of plant compounds). China-type leaves often carry more L-theanine. Growing conditions and which leaf you pick still matter a lot—so averages are guides, not laws.
+Why should a drinker care? Because dry-leaf chemistry differs on average. Assam-type leaves often carry more caffeine and more polyphenols (a big family of plant compounds). China-type leaves often carry more L-theanine. Growing conditions and which leaf you pick still matter a lot—so averages are guides, not laws.
 
-### Everyday example
-
-If you picture a small, hardy bush on a cool hillside versus a larger, leafy plant in a hot lowland garden, you have the basic China-type vs Assam-type contrast the packs describe.
-
-### Pack numbers (typical dry-leaf ranges)
+Picture a small, hardy bush on a cool hillside versus a larger, leafy plant in a hot lowland garden. That contrast is the China-type vs Assam-type story the packs describe. The table below puts the typical dry-leaf ranges in one place so you can see the pattern at a glance.
 
 | | China type (var. *sinensis*) | Assam type (var. *assamica*) | Source |
 | --- | --- | --- | --- |
@@ -51,67 +44,52 @@ If you picture a small, hardy bush on a cool hillside versus a larger, leafy pla
 | Caffeine (dry leaf) | About 2.0%–3.5% | About 3.5%–5.5% | Ashihara et al. (2008) |
 | Typical growing area | Cooler, higher hills | Warm, humid lowlands | Carr (2018) |
 
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “Assam always has far more caffeine.”  
+Here is a common story people tell: “Assam always has far more caffeine.” Average figures often put *assamica* higher—but growing conditions and which leaf you pick matter a lot. A well-fed, shaded China-type bud can reach about 4.5% caffeine; a poorly fed mature Assam leaf can sit near 2.5%. So “Assam = double caffeine” is too blunt.
 
-**What the sources say:** Average figures often put *assamica* higher, but growing conditions and which leaf you pick matter a lot. A well-fed, shaded China-type bud can reach about 4.5% caffeine; a poorly fed mature Assam leaf can sit near 2.5%. So “Assam = double caffeine” is too blunt.
-:::
+And there is one more plant-to-cup thread worth remembering for later: higher catechin levels in *assamica* (about **25%–35%** dry weight) give more raw material for the dark pigments of black tea. That is why Assam-type leaves are such a natural fit for strong black-tea processing—a bridge we will meet again on the [Linkages](../linkages.qmd) page.
+
+So far we have the leaf on the bush. Next comes the factory choice that decides whether that leaf stays green or turns dark.
 
 ---
 
-## 1.2 How green tea stays green (and black tea turns dark)
+## The fork in the road: stop the browning, or let it run
 
-### What is going on
+When you cut an apple and leave it on the counter, it browns. Tea leaves do something similar. When leaves are rolled or crushed, leaf enzymes meet catechins (those natural plant compounds). Two main enzymes are **polyphenol oxidase (PPO)** and **peroxidase (POD)**.
 
-When you cut an apple and leave it on the counter, it browns. Tea leaves do something similar. When leaves are rolled or crushed, leaf enzymes meet catechins (natural plant compounds). Two main enzymes are **polyphenol oxidase (PPO)** and **peroxidase (POD)**.
+Tea makers choose one of two big paths.
 
-Tea makers choose one of two big paths:
+**Path one: stop the browning early with heat.** Heat the leaf above about **82°C–85°C** and PPO is permanently shut off. Catechins stay in their simple form. That is the chemical basis of **green tea**—the leaf stays greener because those simple catechins were not allowed to link into dark pigments.
 
-1. **Stop the browning early with heat.** Heat the leaf above about **82°C–85°C** and PPO is permanently shut off. Catechins stay in their simple form. That is the chemical basis of **green tea**—the leaf stays greener because those simple catechins were not allowed to link into dark pigments.
-2. **Let the enzymes work with air.** Leave the enzymes active and simple catechins link into larger colored compounds: **theaflavins** (bright golden-red) and then **thearubigins** (darker, fuller body). That path leads toward **black tea**.
+**Path two: let the enzymes work with air.** Leave the enzymes active and simple catechins link into larger colored compounds: **theaflavins** (bright golden-red) and then **thearubigins** (darker, fuller body). That path leads toward **black tea**.
 
-Best enzyme activity is often around a mild acidity (**pH about 5.5–6.0**).
-
-In plain steps:
+Best enzyme activity is often around a mild acidity (**pH about 5.5–6.0**). In plain steps:
 
 1. Simple catechins + air + PPO → theaflavins  
 2. Theaflavins + further oxidation → thearubigins (and related darker pigments)
 
-### Everyday example
-
 Think of toasting bread: stop early and you have pale toast; leave it longer and it darkens. Green vs black tea is not exactly toasting—but the idea of **stopping a change early vs letting it run** is the same kind of choice.
 
-### What this means when you drink tea
+So “green” and “black” are not different plant species in ordinary commercial tea. They are mostly different **processing paths** on *Camellia sinensis*. That is why the same species can become either style.
 
-“Green” and “black” are not different plant species in ordinary commercial tea. They are mostly different **processing paths** on *Camellia sinensis*. That is why the same species can become either style.
+Here is another common story: “Black tea is fermented like wine.” In ordinary oolong and black tea making, the change is aerobic enzymatic oxidation—leaf enzymes plus air. Microbes are not the driver. True microbial fermentation shows up mainly in post-fermented teas such as Pu-erh.
 
-Dense enzyme-lab constants (binding affinity, reaction speed, heat energy numbers) are omitted here; see the Bibliography for the primary papers.
+Dense enzyme-lab constants (binding affinity, reaction speed, heat energy numbers) stay in the primary papers; see the [Bibliography](../bibliography.qmd) if you want them later.
 
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “Black tea is fermented like wine.”  
-
-**What the sources say:** In ordinary oolong and black tea making, the change is aerobic enzymatic oxidation—leaf enzymes plus air. Microbes are not the driver. True microbial fermentation shows up mainly in post-fermented teas such as Pu-erh.
-:::
+We now have a processed leaf in a tin. The next scene is the one you control every morning: what does brewing actually *do*?
 
 ---
 
-## 1.3 What brewing actually does
+## What brewing actually does
 
-### What is going on
+Brewing is dissolving plant solids into water—like a tea bag sitting in a mug. Warmer water speeds that process. Different compounds come out at different speeds, and that is where everyday choices start to matter.
 
-Brewing is dissolving plant solids into water—like a tea bag sitting in a mug. Warmer water speeds that process. Different compounds come out at different speeds:
-
-- **Caffeine** dissolves readily and comes out relatively easily.
-- **L-theanine** is very soluble even at lower temperatures and also comes out early.
-- **EGCG** needs more heat and time. It is also less stable in more alkaline water.
+**Caffeine** dissolves readily and comes out relatively easily. **L-theanine** is very soluble even at lower temperatures and also comes out early. **EGCG** needs more heat and time. It is also less stable in more alkaline water.
 
 Cold brew is *slower*, not “caffeine-free.” Given enough time, cold water can still pull a lot of caffeine.
 
-### Everyday example
-
 If you dunk a tea bag for ten seconds, the drink is pale and mild. If you leave it for minutes in hot water, it gets stronger. That is extraction: more time and heat usually mean more compounds in the water—until taste turns too bitter for you.
 
-### Pack snapshots (order-of-magnitude, not cooking recipes)
+The snapshot below is an order-of-magnitude guide from the packs—not a cooking recipe.
 
 | Compound | How it behaves in water | Notes from sources |
 | --- | --- | --- |
@@ -119,62 +97,38 @@ If you dunk a tea bag for ten seconds, the drink is pale and mild. If you leave 
 | L-Theanine | Very soluble even at lower temperatures | About 350 g/L at 25°C (Keenan et al., 2011) |
 | EGCG | Needs more heat; less stable if the brew is too alkaline | About 33.8 g/L at 80°C; unstable above about pH 6.5 (Perva-Uzunalić et al., 2006) |
 
-### What this means when you drink tea
-
 If you want more of the “green tea catechin” side of the cup, hotter water and a bit more time help EGCG extract—but they can also pull more bitter material. Caffeine and L-theanine are already relatively easy to extract. For typical cup yields, see the [Cup reference](../cup-reference.qmd).
 
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “Cold brew means no caffeine.”  
+And here is the cold-brew story people tell: “Cold brew means no caffeine.” Cold water only *slows* extraction. Given enough time (often 12–24 hours in the literature discussed in the packs), caffeine in cold brew can reach levels similar to—or even above—a short hot steep.
 
-**What the sources say:** Cold water only *slows* extraction. Given enough time (often 12–24 hours in the literature discussed in the packs), caffeine in cold brew can reach levels similar to—or even above—a short hot steep.
-:::
+There is also a quiet bridge from this kitchen scene to Chapter 2: EGCG needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So temperature is not only about taste—it changes which compounds dominate the cup you later feel.
+
+The leaf has given up its guests. Time to name the three who matter most in everyday talk.
 
 ---
 
-## 1.4 The three headline compounds
+## Three characters in the cup
 
-### What is going on
+Most everyday talk about tea chemistry centers on three names. Meet them as guests who arrive at different speeds and leave at different times.
 
-Most everyday talk about tea chemistry centers on three names:
+**Caffeine** supports alertness. In plain terms, it blocks adenosine receptors that normally promote sleepiness. Formula: C₈H₁₀N₄O₂; molecular weight about 194.19 g/mol. Typical plasma half-life: about **3–7 hours** (varies a lot between people).
 
-1. **Caffeine** — supports alertness. In plain terms, it blocks adenosine receptors that normally promote sleepiness.
-2. **L-theanine** — a calming amino acid in tea. In plain terms, it softens excess excitatory signaling and supports calming inhibitory tone (GABA-related pathways in the sources).
-3. **EGCG** — a major green-tea catechin. In the research literature it is involved in inflammatory and cell-signaling pathways.
+**L-theanine** is a calming amino acid in tea. In plain terms, it softens excess excitatory signaling and supports calming inhibitory tone (GABA-related pathways in the sources). Formula: C₇H₁₄N₂O₃; molecular weight about 174.20 g/mol. Typical plasma half-life: about **50–80 minutes**.
 
-How long they stay in the body differs. That matters because “I drank tea an hour ago” is not the same story for each compound.
+**EGCG** (epigallocatechin-3-gallate) is a major green-tea catechin. In the research literature it is involved in inflammatory and cell-signaling pathways. Formula: C₂₂H₁₈O₁₁; molecular weight about 458.37 g/mol. Typical plasma half-life: about **2–5 hours**.
 
-### Everyday example
+Half-life here means: roughly how long until the amount in blood falls by about half—not “gone completely.” That matters because “I drank tea an hour ago” is not the same story for each compound. Caffeine often hangs around for hours. L-theanine’s plasma half-life is shorter. EGCG sits in between.
 
-Imagine three guests who arrive at different speeds and leave at different times. Caffeine often hangs around for hours. L-theanine’s plasma half-life is shorter (about **50–80 minutes** in the packs). EGCG sits in between (about **2–5 hours**). Half-life here means: roughly how long until the amount in blood falls by about half—not “gone completely.”
+Detailed blood-level curves (peak concentration, area-under-curve, clearance rates) live in the Bibliography papers, not as lab tables here.
 
-### Pack facts (headline compounds)
+So what should you expect when you drink? Alertness from caffeine and a calmer-focus contribution from L-theanine—but not “instant Zen” at the first sip. Peak blood levels for L-theanine are often around **35–50 minutes** after drinking. Clear brain-wave changes tied to L-theanine are usually reported about **30–45 minutes** after ingestion.
 
-#### Caffeine
+That last point kills a popular story: “Tea gives instant Zen focus.” L-theanine does cross into the brain, but the timing above is what the sources report—not the first sip.
 
-- Formula: C₈H₁₀N₄O₂; molecular weight about 194.19 g/mol  
-- Typical plasma half-life: about **3–7 hours** (varies a lot between people)  
-- Plain mechanism: blocks adenosine receptors that normally promote sleepiness  
+---
 
-#### L-Theanine (a calming amino acid in tea)
+## Looking ahead
 
-- Formula: C₇H₁₄N₂O₃; molecular weight about 174.20 g/mol  
-- Typical plasma half-life: about **50–80 minutes**  
-- Plain mechanism: softens excess excitatory signaling and supports calming inhibitory tone (GABA-related pathways in the sources)  
+You now know how a plant becomes a cup, and which three characters usually steal the scene. The next chapter picks up exactly where this one leaves off: **after you swallow**. Why does tea so often feel different from coffee? What do brain waves, stress hormones, and body signals actually show?
 
-#### EGCG (epigallocatechin-3-gallate)
-
-- Formula: C₂₂H₁₈O₁₁; molecular weight about 458.37 g/mol  
-- Typical plasma half-life: about **2–5 hours**  
-- Plain mechanism: involved in inflammatory and cell-signaling pathways in the research literature  
-
-Detailed blood-level curves (peak concentration, area-under-curve, clearance rates) are in the Bibliography papers, not repeated as lab tables here.
-
-### What this means when you drink tea
-
-Expect alertness from caffeine and a calmer-focus contribution from L-theanine—but not “instant Zen” at the first sip. Peak blood levels for L-theanine are often around **35–50 minutes** after drinking. Clear brain-wave changes tied to L-theanine are usually reported about **30–45 minutes** after ingestion.
-
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “Tea gives instant Zen focus.”  
-
-**What the sources say:** L-theanine does cross into the brain, but peak blood levels are often around **35–50 minutes** after drinking. Clear brain-wave changes tied to L-theanine are usually reported about **30–45 minutes** after ingestion—not the first sip.
-:::
+Open [Chapter 2: Body, Brain & Mood](module-02.qmd) when you are ready—the compounds have already started their trip.

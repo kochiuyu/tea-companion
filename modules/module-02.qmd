@@ -4,11 +4,15 @@ title: "2. Body, Brain & Mood"
 
 # 2. Body, Brain & Mood
 
-## Story in one minute
+Chapter 1 left three guests in your bloodstream: caffeine, L-theanine, and—especially in green tea—EGCG. Now comes the question that makes people switch from coffee to tea, or defend the switch to friends:
 
-Your brain has a natural “time for sleep” chemical called **adenosine**. **Caffeine** competes with it, so you stay more awake. **L-theanine** (from tea) tends to support calm, controlled attention rather than a wired jolt. **Alcohol** does the opposite of careful focus: it slows neural activity. Researchers do not stop at “I feel better.” They also track brain-wave patterns, stress hormones, and body signals such as heart-beat rhythm.
+**Why does tea so often feel awake *and* calmer—while coffee can feel like a jolt?**
 
-::: {.callout-tip title="Words to know (Module 2)"}
+This chapter follows that feeling into the body. First we meet the brain’s “time for sleep” signal and how caffeine blocks it, while L-theanine tends to support calm, controlled attention. Then we look at brain-wave patterns researchers record—without needing the lab equations. Then stress hormones. Then body signals such as heart-beat rhythm and tiny stress-sweat changes. Alcohol appears as a contrast: it slows careful control rather than sharpening it.
+
+Researchers do not stop at “I feel better.” They track numbers. Your own cup still depends on dose, habit, and setting—but the patterns in the packs are clear enough to tell a story.
+
+::: {.callout-tip title="Words to know on this journey"}
 - **Adenosine receptors** — brain “slow down / sleep” sensors that caffeine blocks.
 - **Alpha / beta / theta waves** — different speeds of brain rhythm; alpha is often “calm focus,” beta “alert or tense,” theta “drowsy / fatigue” in these packs.
 - **Cortisol** — a main stress hormone.
@@ -17,27 +21,19 @@ Your brain has a natural “time for sleep” chemical called **adenosine**. **C
 - **Skin conductance** — tiny sweat changes that track stress and arousal.
 :::
 
-## What this means when you drink tea
-
-Caffeine wakes you up by blocking a “time for sleep” signal. L-theanine tends to support calm focus. Together, tea patterns in these packs often look **calmer** than coffee alone on some body measures. Alcohol patterns often look worse for careful control. Your own cup still depends on dose, habit, and setting.
-
 ---
 
-## 2.1 How the main drinks act in the brain (plain version)
-
-### What is going on
+## Gas pedals, brakes, and a busy road
 
 Think of brain signaling as a busy road with gas pedals and brakes.
 
-- **Caffeine** blocks adenosine (the chemical that promotes sleepiness) at A₁ and A₂A receptors. Neurons stay more “awake.” Related signaling for dopamine, norepinephrine, and glutamate can rise (Fredholm et al., 1999).
-- **L-theanine** weakly competes at some glutamate receptors and is also linked to more calming inhibitory tone. That can blunt over-excitation and support calmer, more controlled attention (Kakuda, 2011).
-- **Alcohol (ethanol)** boosts GABA_A inhibition and blocks some NMDA glutamate signaling. Neural activity slows; learning and memory processes can be disrupted (Mihic et al., 1997; Lovinger et al., 1989).
+**Caffeine** blocks adenosine (the chemical that promotes sleepiness) at A₁ and A₂A receptors. Neurons stay more “awake.” Related signaling for dopamine, norepinephrine, and glutamate can rise (Fredholm et al., 1999).
 
-### Everyday example
+**L-theanine** weakly competes at some glutamate receptors and is also linked to more calming inhibitory tone. That can blunt over-excitation and support calmer, more controlled attention (Kakuda, 2011).
 
-Caffeine is like taking the “you’re getting sleepy” note off the desk so you keep working. L-theanine is more like turning down noisy chatter so you can focus without panic. Alcohol is like dimming the whole room’s lights—everything slows, including careful thinking.
+**Alcohol (ethanol)** boosts GABA_A inhibition and blocks some NMDA glutamate signaling. Neural activity slows; learning and memory processes can be disrupted (Mihic et al., 1997; Lovinger et al., 1989).
 
-### Pack table
+In everyday clothes: caffeine is like taking the “you’re getting sleepy” note off the desk so you keep working. L-theanine is more like turning down noisy chatter so you can focus without panic. Alcohol is like dimming the whole room’s lights—everything slows, including careful thinking.
 
 | Drink / compound | Main idea | Rough downstream effect | Key evidence |
 | --- | --- | --- | --- |
@@ -45,41 +41,26 @@ Caffeine is like taking the “you’re getting sleepy” note off the desk so y
 | L-Theanine | Weakly competes at some glutamate receptors; also linked to more calming inhibitory tone | Can blunt over-excitation; associated with calmer, more controlled attention | Kakuda (2011) |
 | Alcohol (ethanol) | Boosts GABA_A inhibition and blocks some NMDA glutamate signaling | Neural activity slows; learning and memory processes can be disrupted | Mihic et al. (1997); Lovinger et al. (1989) |
 
-### Study snapshots from the packs (kept light)
+Two light study snapshots keep the story grounded:
 
 - About **200 mg caffeine**: small increase (about 2%–3%) in striatal D2 receptor availability in one PET study (Volkow et al., 2015).  
 - About **200 mg L-theanine**: plasma GABA reported about **18.5% ± 4.2%** higher over two hours in one study (Lu et al., 2019).  
 
-Detailed receptor-binding lab constants are omitted; see the Bibliography.
+Detailed receptor-binding lab constants stay in the Bibliography.
 
-### What this means when you drink tea
+Tea’s dual story—caffeine plus L-theanine—helps explain why many people describe tea as “awake but not as jittery as coffee.” The packs still warn against overselling. Here is a common story people tell: “L-theanine is a direct GABA booster.” Secondary blurbs often say that. The packs’ sources say otherwise: L-theanine does not bind the main GABA receptor sites as an agonist. It mainly acts as a low-affinity blocker at certain glutamate receptors, with a milder, indirect lift in GABA release.
 
-Tea’s dual story—caffeine plus L-theanine—helps explain why many people describe tea as “awake but not as jittery as coffee.” The packs still warn against overselling: L-theanine is **not** a direct GABA-receptor agonist in the sense secondary blurbs often claim.
-
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “L-theanine is a direct GABA booster.”  
-
-**What the sources say:** Secondary blurbs often say that. The packs’ sources say otherwise: L-theanine does not bind the main GABA receptor sites as an agonist. It mainly acts as a low-affinity blocker at certain glutamate receptors, with a milder, indirect lift in GABA release.
-:::
+So the road has gas and brakes. Can researchers *hear* that difference in the brain’s rhythms?
 
 ---
 
-## 2.2 Brain-wave patterns (without the lab equation)
-
-### What is going on
+## Listening to the brain’s tempo
 
 EEG studies sort brain rhythms by speed—like sorting songs by beats per minute.
 
-- **Alpha** (about 8–12 Hz): often linked with calm, selective attention. L-theanine is often linked with alpha (especially around 10–12 Hz in back-of-head regions).
-- **Beta** (about 12–30 Hz): active focus or anxiety. Caffeine alone is more linked with beta; early alcohol can reduce it.
-- **Theta** (about 4–8 Hz): fatigue, weaker error monitoring. Often up as alcohol effects deepen; caffeine can reduce it.
-- **Delta** (about 0.5–4 Hz): deep sedation; up with higher alcohol doses.
+**Alpha** (about 8–12 Hz) is often linked with calm, selective attention. L-theanine is often linked with alpha (especially around 10–12 Hz in back-of-head regions). **Beta** (about 12–30 Hz) is active focus or anxiety. Caffeine alone is more linked with beta; early alcohol can reduce it. **Theta** (about 4–8 Hz) is fatigue, weaker error monitoring—often up as alcohol effects deepen; caffeine can reduce it. **Delta** (about 0.5–4 Hz) is deep sedation; up with higher alcohol doses.
 
-### Everyday example
-
-Alpha is the “quiet study hall” rhythm in these packs. Beta is the “busy office” rhythm. Theta is closer to “nodding off in class.” The labels are simplifications—but they help beginners read the study snapshots below.
-
-### Pack table
+In these packs, alpha is the “quiet study hall” rhythm. Beta is the “busy office” rhythm. Theta is closer to “nodding off in class.” The labels are simplifications—but they help beginners read the snapshots below.
 
 | Band | Rough frequency | Typical link in these packs | Main idea for a drinker |
 | --- | --- | --- | --- |
@@ -88,27 +69,23 @@ Alpha is the “quiet study hall” rhythm in these packs. Beta is the “busy o
 | Theta | About 4–8 Hz | Up as alcohol effects deepen; caffeine can reduce it | Fatigue, weaker error monitoring |
 | Delta | About 0.5–4 Hz | Up with higher alcohol doses | Deep sedation |
 
-### Example findings (packs)
+Example findings from the packs:
 
 - **50 mg L-theanine:** about **12.4% ± 3.1%** higher relative alpha at rest (Nobre et al., 2008).  
 - **100 mg L-theanine + 50 mg caffeine:** tonic alpha patterns under load that fit better selective attention (Gomez-Ramirez et al., 2007).  
 - **150 mg caffeine:** about **15.8% ± 2.9%** less frontal theta during tasks (Barry et al., 2005).  
 
-### What this means when you drink tea
+Put simply: L-theanine is often linked with **alpha** (calm, focused). Caffeine alone is more linked with **beta** (alert, sometimes tense). Alcohol pushes slower bands linked with fatigue or sedation.
 
-L-theanine is often linked with **alpha** (calm, focused). Caffeine alone is more linked with **beta** (alert, sometimes tense). Alcohol pushes slower bands linked with fatigue or sedation. Context matters: under hard attention tasks, alpha can *fall* over busy brain regions while staying high over irrelevant ones.
+Context matters. Here is a common story: “L-theanine always spikes alpha waves.” At rest, alpha often rises. Under hard attention tasks, alpha can *fall* over busy brain regions while staying high over irrelevant ones. That looks more like focused attention than simple sedation.
 
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “L-theanine always spikes alpha waves.”  
+Remember Chapter 1’s timing note? L-theanine often peaks in blood about **35–50 minutes** after drinking, and clear alpha-wave changes are often reported about **30–45 minutes** in. That matching lag is why the kitchen clock and the EEG lab belong in the same story.
 
-**What the sources say:** At rest, alpha often rises. Under hard attention tasks, alpha can *fall* over busy brain regions while staying high over irrelevant ones. That looks more like focused attention than simple sedation.
-:::
+Brain rhythms are one window. Stress hormones are another—especially when the day itself is noisy.
 
 ---
 
-## 2.3 Stress hormones
-
-### What is going on
+## When the fire alarm rings
 
 When you are stressed, the body runs a loop often called the **HPA axis** (brain → pituitary → adrenals). One output is **cortisol**, a main stress hormone. Another related signal is **epinephrine** (adrenaline).
 
@@ -118,13 +95,7 @@ Plain takeaways from the packs:
 - L-theanine co-use can keep cortisol nearer baseline under cognitive stress.
 - Unmitigated caffeine can sharply raise epinephrine, with blood-pressure and vessel-tone effects; L-theanine is described as helping keep pressure steadier via nitric-oxide–related relaxation.
 
-Habitual coffee drinkers adapt to the **caffeine-driven** cortisol bump—but stress itself can still raise cortisol, and that is where L-theanine still matters in the studies cited here.
-
-### Everyday example
-
 Imagine a fire alarm (stress) and also a loud caffeine “boost” siren. With daily caffeine use around **300–400 mg/day**, the caffeine-driven cortisol spike is often nearly gone within about **five days**. The fire alarm of real stress can still ring—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms.
-
-### Study snapshots
 
 | Measure | Condition | Finding | Source |
 | --- | --- | --- | --- |
@@ -132,36 +103,25 @@ Imagine a fire alarm (stress) and also a loud caffeine “boost” siren. With d
 | Salivary alpha-amylase (stress enzyme) | 200 mg L-theanine vs placebo in multi-tasking | About 28.3% ± 5.1% decrease | Unno et al. (2013) |
 | Serum cortisol / epinephrine | 250 mg caffeine | Cortisol about +32.0% ± 6.4%; epinephrine about +211% | Lovallo et al. (2005) |
 
-### What this means when you drink tea
-
 A big caffeine hit can raise cortisol and adrenaline. L-theanine often blunts that stress spike in the cited work. “My body adapted to coffee” does not mean “stress no longer raises cortisol.”
 
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “Caffeine permanently wrecks your adrenals.”  
+People sometimes tell a stronger story: “Caffeine permanently wrecks your adrenals.” Acute caffeine can raise cortisol a lot. With daily use around **300–400 mg/day**, that caffeine-driven cortisol spike is often nearly gone within about **five days**. Stress-driven cortisol can still rise, though—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms.
 
-**What the sources say:** Acute caffeine can raise cortisol a lot. With daily use around **300–400 mg/day**, that caffeine-driven cortisol spike is often nearly gone within about **five days**. Stress-driven cortisol can still rise, though—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms.
-:::
+This hormone thread also reaches forward into Chapter 4: when stress hormones rise, people can become more aggressive risk seekers in some lab settings. Softened loss aversion under pressure is one of the bridges on the [Linkages](../linkages.qmd) page.
+
+Hormones are still somewhat invisible. What can you see on the outside of the body?
 
 ---
 
-## 2.4 Body signals researchers watch
+## What the body quietly admits
 
-### What is going on
+Besides mood surveys, labs track signals you might never notice yourself.
 
-Besides mood surveys, labs track:
-
-- **Heart rate variability (HRV)** — how much the gap between beats varies; higher often means calmer “rest-and-digest” tone.
-- **Pupil size** — pupils widen with sympathetic arousal.
-- **Skin conductance** — tiny sweat changes from stress.
-- **Vessel tone** — how tight or relaxed blood vessels are.
+**Heart rate variability (HRV)** — how much the gap between beats varies; higher often means calmer “rest-and-digest” tone. **Pupil size** — pupils widen with sympathetic arousal. **Skin conductance** — tiny sweat changes from stress. **Vessel tone** — how tight or relaxed blood vessels are.
 
 Tea patterns in the packs often look calmer than coffee alone; alcohol often looks worse for these control signals.
 
-### Everyday example
-
 Think of HRV as how flexibly your heart “breathes” between beats when you are calm versus locked tight when you are stressed. Skin conductance is like a tiny stress sweat meter you cannot feel but a lab can.
-
-### Pack table
 
 | Measure | Plain meaning | Tea / caffeine / alcohol pattern in the packs |
 | --- | --- | --- |
@@ -170,18 +130,24 @@ Think of HRV as how flexibly your heart “breathes” between beats when you ar
 | Skin conductance | Tiny sweat changes from stress | Coffee can spike it; tea often keeps it steadier |
 | Vessel tone | How tight or relaxed blood vessels are | Caffeine can constrict cerebral vessels; L-theanine may counteract via nitric oxide pathways |
 
-### Example numbers from the packs
+Example numbers from the packs:
 
 - **200 mg L-theanine** during mental arithmetic: one common HRV index up about **15.4 ± 3.2 ms** (Kimura et al., 2007).  
 - **150 mg caffeine** in attention tasks: mean pupil diameter up about **0.42 ± 0.08 mm** (Wetzel et al., 2016).  
 - **200 mg L-theanine + 100 mg caffeine** under stress: skin conductance up only about **0.15 ± 0.04 µS** vs about **+0.88 µS** for caffeine alone (Rogers et al., 2008).  
 
-### What this means when you drink tea
-
 Besides mood, these signals help researchers say “calmer control” with numbers. In these sources, higher HRV during hard thinking is also read as better top-down control—less impulsive, better emotional regulation.
 
-::: {.callout-note title="Common myth vs what the sources say"}
-**Myth:** “HRV is only a fitness score.”  
+People sometimes shrug: “HRV is only a fitness score.” In these sources, higher HRV during hard thinking is also read as better top-down control. L-theanine is described as protecting that balance; coffee or alcohol often reduce it.
 
-**What the sources say:** In these sources, higher HRV during hard thinking is also read as better top-down control—less impulsive, better emotional regulation. L-theanine is described as protecting that balance; coffee or alcohol often reduce it.
-:::
+Notice how the wired feeling has a skin signature too: caffeine-driven alert patterns line up with higher skin conductance (about **+0.88 µS** for caffeine alone in one comparison). Feeling “wired” is not only a mood word.
+
+---
+
+## Looking ahead
+
+You have followed the cup into the brain, the stress loop, and the body’s quiet meters. Tea’s dual chemistry helps explain a calmer kind of alertness—without promising magic.
+
+But tea is older than EEG machines. It remade trade balances, sat in monasteries, warmed hands in trust experiments, and still offers a three-step brewing break when the day is loud. Chapter 3 zooms out on purpose.
+
+Open [Chapter 3: History, Ritual & Warmth](module-03.qmd) when you are ready—the leaf is about to leave the lab and enter human history.

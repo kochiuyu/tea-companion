@@ -2,34 +2,41 @@
 title: "Tea, Caffeine & Decision Companion"
 ---
 
-## Story in one minute
+You tip hot water over a handful of leaves. Steam rises. The water darkens—maybe green-gold, maybe deep amber—and a smell fills the room that is somehow both sharp and soft. Twenty minutes later you are a little more awake. Sometimes you also feel a little calmer. Coffee can wake you up too. So why does *tea* so often feel like a different kind of alertness?
 
-Imagine you pour hot water over tea leaves. Color and smell change. Later you feel a bit more awake, maybe a bit calmer. This site explains **why that happens**, using facts checked against owner-supplied source packs—not marketing slogans.
+That question is the door into this site.
 
-You do not need chemistry or psychology class. If a smart high-school student can follow a clear explanation with an everyday example, you are in the right place.
+This is not a lab notebook and not a sales brochure. It is a short journey through a drink that almost everyone has tried and almost nobody fully explains. The facts come from owner-supplied source packs: chemistry that was checked, history that was dated, and psychology studies that were named. The owner of this site is an economist. We do **not** invent economic theories here. We only retell what those packs already support—in plain English a smart high-school student can follow.
 
-## Who this is for
+## What this journey is about
 
-This guide is for **curious beginners**: high-school and early college readers who want plain English. The owner of this site is an economist. We do **not** invent economic theories here. We only explain tea chemistry, how a cup can relate to alertness and calm, how tea shaped trade and ritual, and how researchers study drinks and decisions—using numbers and stories already in the source packs.
+Think of four chapters that follow one continuous thread.
 
-## What you will learn (four modules)
+First you meet the **leaf**—where tea comes from, why green and black look so different, and what hot water actually pulls into your mug. Then you follow those compounds **into the body**: how caffeine blocks a “time for sleep” signal, how L-theanine (a calming amino acid in tea) tends to support calm focus, and what researchers measure beyond “I feel better.” Next you zoom out. Tea remade **trade balances**, became a monastic focus aid, and even a warm mug in the hand shows up in experiments on trust. A short brewing break can also act as a practical stress reset. Finally you ask the decision question: do drinks **nudge** how fast we answer, how much risk we take, how much we care about tomorrow, and how trusting we are in a first move? Lab games measure those nudges—and the packs are honest about the limits.
 
-Think of the site as four rooms in one house. You can visit any room first.
+You can start anywhere. But if you read in order, each chapter hands you a reason to open the next.
 
-1. **[The Chemical Core](modules/module-01.qmd)** — Tea comes from one plant species with two main types. How the leaf is processed (green vs black) and how you brew it changes what ends up in your cup.
-2. **[Body, Brain & Mood](modules/module-02.qmd)** — Caffeine wakes you up by blocking a “time for sleep” signal. L-theanine (a calming amino acid in tea) tends to support calm focus. Researchers measure this with brain-wave patterns, stress hormones, and simple body signals—not only with how you feel.
-3. **[History, Ritual & Warmth](modules/module-03.qmd)** — Tea remade trade balances, became a monastic focus aid, and—even as a warm mug in the hand—shows up in psychology experiments on trust. A short brewing break can also act as a practical stress reset.
-4. **[Decisions & Choices](modules/module-04.qmd)** — Drinks do not flip a magic “smart switch.” They can nudge how fast you answer, how much risk you take, how much you care about tomorrow, and how trusting you are in a first move. Lab games measure those nudges.
+## The four chapters (at a glance)
 
-## How to use this site
+1. **[The Chemical Core](modules/module-01.qmd)** — One plant species, two main types; processing that chooses green or black; brewing that decides what leaves the leaf; three headline characters in the cup: caffeine, L-theanine, and EGCG.
+2. **[Body, Brain & Mood](modules/module-02.qmd)** — Why tea can feel “awake but not as jittery as coffee,” told through brain signaling, brain-wave patterns, stress hormones, and simple body signals.
+3. **[History, Ritual & Warmth](modules/module-03.qmd)** — Empires and silver, monks and tea rooms, warm hands and trust, and the brewing sequence as a stress break.
+4. **[Decisions & Choices](modules/module-04.qmd)** — Fast gut thinking versus careful thinking, risk and waiting for payoffs, trust games, and how careful studies are usually built.
 
-- Start with any module, or skim the [Modules overview](modules/index.qmd).
-- When a number appears (for example “about 30–50 mg caffeine”), treat it as a **typical range from the packs**, not a promise about your exact mug.
-- When a technical word appears, we define it in plain language the first time. You can also check the [Glossary](glossary.qmd).
-- [Linkages](linkages.qmd) shows how ideas across modules connect (for example: brew temperature → what ends up in the cup → how you might feel later).
-- [Cup reference](cup-reference.qmd) is a quick table of what is often in a 250 mL cup.
-- [Bibliography](bibliography.qmd) lists the sources. We keep a few useful numbers on the pages; dense lab detail stays in the papers.
+A map of the whole trip sits on the [Modules overview](modules/index.qmd). Treat it like a travel itinerary: you can hop, or you can follow the route.
 
-## What we deliberately leave out
+## How to travel with this site
 
-We do **not** invent new percentages, mechanisms, history figures, or study results. We do **not** paste walls of lab equations. Everything here should trace back to the verified packs or the bibliography list.
+When a number appears—say “about 30–50 mg caffeine”—treat it as a **typical range from the packs**, not a promise about your exact mug. Brands, leaves, and steep times differ. The [Cup reference](cup-reference.qmd) is the quick table for a common 250 mL cup.
+
+When a technical word appears, we define it in the story the first time. The [Glossary](glossary.qmd) is there when you want a one-line reminder.
+
+When you wonder how a brewing fact connects to mood, or a warm mug to a trust game, open [Linkages](linkages.qmd). Those eleven bridges are the threads that sew the chapters together.
+
+When you want the paper behind a name-and-year, use the [Bibliography](bibliography.qmd).
+
+## What we refuse to invent
+
+We do **not** invent new percentages, mechanisms, history figures, or study results. We do **not** paste walls of lab equations. Everything here should trace back to the verified packs or the bibliography list. That honesty is part of the story: curiosity without costume jewelry.
+
+Ready? Pour an imaginary cup—and start with [Chapter 1: The Chemical Core](modules/module-01.qmd), or skim the [roadmap](modules/index.qmd) first.

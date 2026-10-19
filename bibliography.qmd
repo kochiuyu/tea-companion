@@ -2,26 +2,24 @@
 title: "Bibliography"
 ---
 
-## Story in one minute
+# Bibliography
 
-This page is the **source list**—not a homework reading list. When a module says “about 30–50 mg caffeine” or “Williams & Bargh (2008),” that claim should trace back to an entry here (or to the owner-supplied packs behind this list). Nothing on this page was invented for decoration.
+Every claim on this site should leave a trail.
 
-## Why sources matter (for beginners)
+When a chapter says “about 30–50 mg caffeine” or “Williams & Bargh (2008),” that sentence should point somewhere you can check—an entry on this page, or the owner-supplied packs behind it. Nothing here was invented for decoration. The story is meant to be interesting; the sources are meant to keep it honest.
 
-Anyone can put a confident sentence on a website. A **citation** is a trail: author, year, and usually a journal or book so another person can check the original. That does not mean every paper is perfect. It means we are not asking you to trust a slogan.
+Anyone can put a confident sentence on a website. A **citation** is a trail: author, year, and usually a journal or book so another person can open the original. That does not mean every paper is perfect. It means we are not asking you to trust a slogan.
 
 For this site:
 
-- Numbers and study snapshots on the module pages should match entries below (or the verified packs).
+- Numbers and study snapshots on the chapter pages should match entries below (or the verified packs).
 - Some pack citations are short (year and journal only). We left them as the packs gave them rather than guessing missing titles.
 - Entries follow APA style when the packs give full details.
 - Dense lab constants we removed from the beginner pages still live in many of these papers if you want them later.
 
-## How to use this page
+**How to use this page.** Spot a name-and-year on a chapter page (for example Nobre et al., 2008). Find that entry in the section below. If you need the full methods, open the paper itself—this list is a map, not a reprint.
 
-1. Spot a name-and-year on a module page (for example Nobre et al., 2008).  
-2. Find that entry in the section below.  
-3. If you need the full methods, open the paper itself—this list is a map, not a reprint.
+When you are done hunting a source, the [Modules overview](modules/index.qmd) will take you back into the story.
 
 ## Plant chemistry and brewing
 

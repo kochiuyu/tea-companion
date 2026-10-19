@@ -2,85 +2,79 @@
 title: "Linkages"
 ---
 
-# How the modules connect
+# Threads in the story
 
-## Story in one minute
+The four chapters can be read as separate rooms. This page is the hallway between them—eleven bridges from the Cross-Branch Linkages pack, rewritten so you can *feel* why a brewing fact matters for mood, or why a warm mug shows up in a trust game.
 
-The four modules are rooms in one house. This page is the **hallway**: eleven bridges from the Cross-Branch Linkages pack, rewritten so a beginner can see why a brewing fact matters for mood, or why a warm mug shows up in a trust game. Citations stay the same. No new links were invented.
+No new links were invented. Citations stay the same. Think of each bridge as a thread someone pulls, and suddenly two chapters lean toward each other.
 
-## What is going on
-
-Each row below is one connection. Read it as: **Fact A** (from one module) helps explain **Fact B** (from another). The short paragraphs unpack the bridge in everyday English. The table at the end is the compact checklist.
-
-## What this means for a reader
-
-You do not have to memorize all eleven. Pick one that matches your question—for example “why wait after drinking?” or “does mug temperature matter?”—and follow the citations into the modules and bibliography.
+You do not have to memorize all eleven. Pick the question you actually have—“why wait after drinking?” “does mug temperature matter?”—and follow that thread into the chapters and the bibliography.
 
 ---
 
-### 1. L-theanine timing → calm brain waves
+### 1. Why waiting after the first sip matters
 
-L-theanine does not act at the first sip. In the packs, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Module 1’s timing note and Module 2’s EEG note belong together.
+L-theanine does not act at the first sip. In the packs, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Chapter 1’s timing note and Chapter 2’s EEG note belong together—the kitchen clock and the lab clock tell the same story.
 
 **Citations:** van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012)
 
-### 2. Warm cup → trust-game sending
+### 2. From warm hands to first trust
 
-Module 3’s warmth studies and Module 4’s Trust Game meet here. Holding a warm (~**60°C**) cup can raise first-mover trust allocations by about **+24.8%** in cited work. The packs link that to warmth–trust overlap in the insula (the brain area that handles both temperature and social feelings).
+Chapter 3’s warmth studies and Chapter 4’s Trust Game meet here. Holding a warm (~**60°C**) cup can raise first-mover trust allocations by about **+24.8%** in cited work. The packs link that to warmth–trust overlap in the insula (the brain area that handles both temperature and social feelings). A cozy mug is not a negotiation strategy forever—but it can change the opening move.
 
 **Citations:** Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013)
 
-### 3. Brew temperature → EGCG in the cup
+### 3. How brew heat reshapes the cup you feel
 
-EGCG (a major green-tea catechin) needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So Module 1’s brewing section is not only about taste—it changes which compounds dominate the cup you drink in Module 2’s world.
+EGCG (a major green-tea catechin) needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So Chapter 1’s brewing section is not only about taste—it changes which compounds dominate the cup you drink in Chapter 2’s world.
 
 **Citations:** Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004)
 
-### 4. Stress cortisol → risk taking
+### 4. When stress hormones meet risk taking
 
-When stress hormones rise, people can become more aggressive risk seekers in some lab settings. Stress-driven cortisol rises are linked with softer loss aversion (λ around **1.62** in one caffeine study) and more risky choices under pressure. That bridges Module 2’s hormone section to Module 4’s risk section.
+When stress hormones rise, people can become more aggressive risk seekers in some lab settings. Stress-driven cortisol rises are linked with softer loss aversion (λ around **1.62** in one caffeine study) and more risky choices under pressure. That bridges Chapter 2’s hormone section to Chapter 4’s risk section—the fire alarm and the betting table share a hallway.
 
 **Citations:** Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013)
 
-### 5. Brewing ritual → calmer heart rhythm
+### 5. Ritual steps and a calmer heart rhythm
 
-A fixed tea-making sequence is not only cultural (Module 3). It is linked with higher HRV (about **+15.4 ms** on one common HRV index in an L-theanine task study) and lower stress arousal. Ritual steps plus tea compounds can point in the same “calmer control” direction.
+A fixed tea-making sequence is not only cultural (Chapter 3). It is linked with higher HRV (about **+15.4 ms** on one common HRV index in an L-theanine task study) and lower stress arousal. Ritual steps plus tea compounds can point in the same “calmer control” direction—hands busy, heart a little freer.
 
 **Citations:** Brooks et al. (2016); Lang et al. (2015); Kimura et al. (2007)
 
-### 6. L-theanine calming excitation → careful attention
+### 6. Softening noisy excitement, sustaining attention
 
-By softening excess glutamate signaling, L-theanine is linked with better sustained attention on hard switching tasks. That is the bridge from Module 2’s receptor story to Module 4’s careful-thinking tasks (for example fewer false alarms on rapid attention tests in the packs).
+By softening excess glutamate signaling, L-theanine is linked with better sustained attention on hard switching tasks. That is the bridge from Chapter 2’s receptor story to Chapter 4’s careful-thinking tasks (for example fewer false alarms on rapid attention tests in the packs). Turning down the chatter helps the careful check.
 
 **Citations:** Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008)
 
-### 7. Caffeine alertness → sweaty stress signal
+### 7. The “wired” feeling has a skin signature
 
-Caffeine-driven alert brain patterns line up with higher skin conductance (about **+0.88 µS** for caffeine alone in one comparison). Feeling “wired” is not only a mood word—Module 2’s body-signal section gives it a measurable skin response.
+Caffeine-driven alert brain patterns line up with higher skin conductance (about **+0.88 µS** for caffeine alone in one comparison). Feeling “wired” is not only a mood word—Chapter 2’s body-signal section gives it a measurable skin response.
 
 **Citations:** Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008)
 
-### 8. Eisai’s “nourishes the heart” → vagal tone
+### 8. Eisai’s “nourishes the heart,” beside modern HRV tone
 
-Eisai’s 1211 claim about tea and the heart (Module 3 history) sits beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone (Module 2). The packs present this as a historical phrase meeting a modern measure—not as proof that Eisai ran an HRV lab.
+Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone (Chapter 2). The packs present this as a historical phrase meeting a modern measure—not as proof that Eisai ran an HRV lab. Old language, new meter; same curiosity.
 
 **Citations:** Eisai (1211); Sen (1998); Kimura et al. (2007)
 
-### 9. Alcohol’s slowing of the brain → living for now
+### 9. When the brain slows, tomorrow fades
 
-Alcohol’s boost of inhibitory signaling (Module 2) is linked with strong present bias—future costs weigh less (Module 4). That is one reason the packs discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
+Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong present bias—future costs weigh less (Chapter 4). That is one reason the packs discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
 
 **Citations:** Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005)
 
-### 10. Ritual calms anxiety → fairer bargaining reactions
+### 10. Calmer anxiety, less hair-trigger bargaining
 
-Ritual can blunt the brain’s error-alarm and lower anxiety (Module 3). The packs discuss that alongside fewer hyper-aggressive rejections of unfair offers (Module 4 ultimatum patterns). Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
+Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 3). The packs discuss that alongside fewer hyper-aggressive rejections of unfair offers (Chapter 4 ultimatum patterns). Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
 
 **Citations:** Hobson et al. (2017); Brooks et al. (2016); Morewedge et al. (2014)
 
-### 11. Assam chemistry → darker black tea
+### 11. Why Assam leaves love a dark cup
 
-Higher catechin levels in *assamica* (about **25%–35%** dry weight) give more raw material for the dark pigments of black tea. Module 1’s plant table therefore helps explain why Assam-type leaves are such a natural fit for strong black-tea processing.
+Higher catechin levels in *assamica* (about **25%–35%** dry weight) give more raw material for the dark pigments of black tea. Chapter 1’s plant table therefore helps explain why Assam-type leaves are such a natural fit for strong black-tea processing—the garden already hinted at the factory.
 
 **Citations:** Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000)
 
@@ -101,3 +95,5 @@ Higher catechin levels in *assamica* (about **25%–35%** dry weight) give more 
 | Alcohol’s slowing of the brain → living for now | Inhibitory signaling boost linked with strong present bias | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
 | Ritual calms anxiety → fairer bargaining reactions | Blunted error-alarm / lower anxiety discussed with less hyper-aggressive unfair-offer rejection | Hobson et al. (2017); Brooks et al. (2016); Morewedge et al. (2014) |
 | Assam chemistry → darker black tea | About **25%–35%** dry-weight catechins as raw material for dark pigments | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |
+
+From any thread, you can step back into the [Modules overview](modules/index.qmd) or into the [Bibliography](bibliography.qmd) for the papers behind the names.
