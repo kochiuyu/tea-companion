@@ -13,53 +13,53 @@ lang: zh-Hans
 **英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
 :::
 
-每趟旅程都会搜集新词。有些第一次见面就亲切——*咖啡因*、*仪式*。有些则塞得满满——*HPA 轴*、*错误相关负波*——像把五个想法折进同一个行李箱。
+每趟旅程都会搜集新词。有些第一次见面就亲切——咖啡因、仪式。有些则塞得满满——下丘脑–垂体–肾上腺轴（HPA 轴）、错误相关负波——像把五个想法折进同一个行李箱。
 
 本页把这些行李箱拆开。当课文用到技术词时，来这里查一句白话定义。模块编号指出该词在故事里最重要的位置。
 
-你不必背整张表。开始新模块时，扫一眼页底“按模块”清单即可。极冷门的实验室常数与扩散方程序刻意略过；若要原始论文，见 [参考文献](bibliography.qmd)。
+你不必背整张表。开始新模块时，扫一眼页底“按模块”清单即可。极冷门的实验室常数与扩散方程式刻意略过；若要原始论文，见 [参考文献](bibliography.qmd)。
 
 把这里想成四大模块的口袋短语手册——不是第二本教科书。
 
-日常与商业茶标签（*English Breakfast*、*煎茶*、*抹茶*、茶包与散茶、花草“茶”）请改用 **[茶叶入门](tea-basics.qmd)**——本词汇表只收课文章节术语。
+日常与商业茶标签（英式早餐茶、煎茶、抹茶、茶包与散茶、花草“茶”）请改用 **[茶叶入门](tea-basics.qmd)**——本词汇表只收课文章节术语。
 
 ## 词条（简易定义）
 
 | 词条 | 简易定义 | 出现位置 |
 | --- | --- | --- |
 | 腺苷受体（A1、A2A） | 脑里“慢下来／想睡”的感应器；咖啡因阻挡它们，让你保持清醒。 | [模块二](modules/module-02/index.qmd) |
-| Alpha 脑波 | 较慢的平静专注脑节奏（约 8–12 Hz），常与 L-茶氨酸相关。 | [模块二](modules/module-02/index.qmd) |
-| 前岛叶皮质 | 同时处理体温与信任、同理等感受的脑区。 | [模块三](modules/module-03/index.qmd) |
+| 阿尔法脑波（Alpha） | 较慢的平静专注脑节奏（约 8–12 Hz），常与茶氨酸相关。 | [模块二](modules/module-02/index.qmd) |
+| 前岛叶皮层 | 同时处理体温与信任、同理等感受的脑区。 | [模块三](modules/module-03/index.qmd) |
 | 气球类比风险任务（BART） | 以虚拟气球打气多远来量风险承担的电脑游戏。 | [模块四](modules/module-04/index.qmd) |
-| Beta 脑波 | 较快的警觉（或焦虑）脑节奏（约 12–30 Hz），常随咖啡因上升。 | [模块二](modules/module-02/index.qmd) |
-| *Camellia sinensis* var. *assamica* | 大叶、热带型茶树；往往咖啡因较高、苦味较强。 | [模块一](modules/module-01/index.qmd) |
-| *Camellia sinensis* var. *sinensis* | 小叶、较耐寒的中国型；往往 L-茶氨酸与香气较丰富。 | [模块一](modules/module-01/index.qmd) |
-| 广州贸易制度（Canton System） | 清朝（1757–1842）规定西方贸易集中广州、并要求以白银结算的制度。 | [模块三](modules/module-03/index.qmd) |
+| 贝塔脑波（Beta） | 较快的警觉（或焦虑）脑节奏（约 12–30 Hz），常随咖啡因上升。 | [模块二](modules/module-02/index.qmd) |
+| 阿萨姆大叶种（var. *assamica*） | 大叶、偏热带的茶树类型；往往咖啡因较高、苦味较强。 | [模块一](modules/module-01/index.qmd) |
+| 中国小叶种（var. *sinensis*） | 小叶、较耐寒的中国型；往往茶氨酸与香气较丰富。 | [模块一](modules/module-01/index.qmd) |
+| 广州贸易制度（一口通商） | 清朝（1757–1842）规定西方贸易集中广州、并要求以白银结算的制度。 | [模块三](modules/module-03/index.qmd) |
 | 《禅苑清规》 | 禅宗寺院规约（1103），为纪律与清醒订下正式茶务常规。 | [模块三](modules/module-03/index.qmd) |
 | 双加工理论 | 决策同时用快速直觉思考（系统一）与慢速仔细思考（系统二）的想法。 | [模块四](modules/module-04/index.qmd) |
 | EGCG | 绿茶中最突出的儿茶素；占绿茶多酚很大一部分。 | [模块一](modules/module-01/index.qmd) |
 | 具身认知 | 主张身体感受（如温暖）可以塑造社会判断。 | [模块三](modules/module-03/index.qmd) |
-| 错误相关负波（ERN） | 犯错后很快的脑部“哎呀”讯号；仪式可令它变钝。 | [模块三](modules/module-03/index.qmd) |
+| 错误相关负波（ERN） | 犯错后很快的脑部“哎呀”信号；仪式可令它变钝。 | [模块三](modules/module-03/index.qmd) |
 | 心率变异性（HRV） | 心跳间隔变动有多大；较高往往代表较平静的调控。 | [模块二](modules/module-02/index.qmd) |
-| HPA 轴 | 身体主要的压力激素回路（脑 → 垂体 → 肾上腺）。 | [模块二](modules/module-02/index.qmd) |
+| 下丘脑–垂体–肾上腺轴（HPA 轴） | 身体主要的压力激素回路（脑 → 垂体 → 肾上腺）。 | [模块二](modules/module-02/index.qmd) |
 | 爱荷华赌博任务（IGT） | 测试从长期得失中学习的纸牌游戏。 | [模块四](modules/module-04/index.qmd) |
 | 《吃茶养生记》 | 荣西 1211 年提倡饮茶以养生与提神的短论。 | [模块三](modules/module-03/index.qmd) |
 | 损失厌恶系数（λ） | 损失比同等收益“痛”多少；大于 1 表示厌恶损失。 | [模块四](modules/module-04/index.qmd) |
-| L-茶氨酸 | 茶中一种有助放松专注的氨基酸。 | [模块一](modules/module-01/index.qmd) |
+| 茶氨酸（L-theanine） | 茶中一种有助放松专注的氨基酸。 | [模块一](modules/module-01/index.qmd) |
 | 多酚氧化酶（PPO） | 叶中酶，通过氧化儿茶素使压碎的茶叶变深（红茶关键）。 | [模块一](modules/module-01/index.qmd) |
 | 现时偏误参数 | 某人多强烈地偏好*现在*的奖励，胜过稍后更好的奖励。 | [模块四](modules/module-04/index.qmd) |
 | 皮肤电导反应（SCR） | 追踪压力与唤起的微小出汗变化。 | [模块二](modules/module-02/index.qmd) |
 | 茶黄素 | 红茶氧化时形成的明亮金红色色素。 | [模块一](modules/module-01/index.qmd) |
 | 茶红素 | 较深、较大的色素，赋予红茶体感与颜色。 | [模块一](modules/module-01/index.qmd) |
-| Theta 脑波 | 较慢的昏沉节奏（约 4–8 Hz），常随疲劳或酒精上升。 | [模块二](modules/module-02/index.qmd) |
+| 西塔脑波（Theta） | 较慢的昏沉节奏（约 4–8 Hz），常随疲劳或酒精上升。 | [模块二](modules/module-02/index.qmd) |
 | 《南京条约》（1842） | 第一次鸦片战争结束后的不平等条约：赔款、五口通商、割让香港。 | [模块三](modules/module-03/index.qmd) |
 
 ## 按模块
 
-**[模块一 — 叶与杯](modules/module-01/index.qmd)：** *assamica*、*sinensis*、EGCG、L-茶氨酸、PPO、茶黄素、茶红素  
+**[模块一 — 叶与杯](modules/module-01/index.qmd)：** 阿萨姆大叶种、中国小叶种、EGCG、茶氨酸、多酚氧化酶、茶黄素、茶红素  
 
-**[模块二 — 身与心](modules/module-02/index.qmd)：** 腺苷受体、alpha／beta／theta 波、HRV、HPA 轴、皮肤电导  
+**[模块二 — 身与心](modules/module-02/index.qmd)：** 腺苷受体、阿尔法／贝塔／西塔脑波、心率变异性、HPA 轴、皮肤电导  
 
-**[模块三 — 历史与仪式](modules/module-03/index.qmd)：** 广州贸易制度、《禅苑清规》、具身认知、ERN、岛叶皮质、《吃茶养生记》、《南京条约》  
+**[模块三 — 历史与仪式](modules/module-03/index.qmd)：** 广州贸易制度、《禅苑清规》、具身认知、错误相关负波、岛叶皮层、《吃茶养生记》、《南京条约》  
 
-**[模块四 — 决策](modules/module-04/index.qmd)：** BART、双加工理论、IGT、损失厌恶系数、现时偏误参数  
+**[模块四 — 决策](modules/module-04/index.qmd)：** 气球类比风险任务、双加工理论、爱荷华赌博任务、损失厌恶系数、现时偏误参数  

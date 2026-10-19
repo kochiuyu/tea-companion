@@ -13,121 +13,121 @@ lang: zh-Hans
 **英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
 :::
 
-四大模块可以当分开的房间来读。这一页是它们之间的走廊——来自跨分支联结资料包的十一座桥，改写成让你*感觉到*为什么一个冲泡事实关乎心情，或为什么温杯会出现在信任游戏里。
+四个模块可以当作四个独立的房间来读，这一页则是连接它们的走廊。这里有十一座桥，来自“跨分支联结”资料包，我们用更好懂的方式重新讲了一遍，让你能*体会到*：为什么一个冲泡上的事实会关系到心情，为什么一只热杯子会出现在信任游戏里。
 
-没有发明新联结。引文保持不变。把每座桥想成有人拉起一条线，于是两章突然彼此靠近。
+这里没有凭空发明任何新的联结，引用的文献也一字未改。不妨把每座桥想象成一根线：有人轻轻一拉，两章内容就突然靠到了一起。
 
-若要带 URL 与 DOI 的完整引文，打开各章，用它的**可点击脚注**（点号码，再点箭嘴回来；鼠标悬停常会弹出摘要）。较密的旁支细节收在折叠的「更多详情…」里。
+想看带网址和 DOI 的完整出处，请打开各章，使用其中**可点击的脚注**（点数字跳过去，再点小箭头回来；鼠标停在数字上，多数时候也会弹出摘要）。更密的补充细节，收在折叠起来的“更多详情……”里。
 
-**温暖注意（来自模块三事实核对）：** 温杯带来的开场信任轻推，在某些被引用的设计里是真的，但经典「送礼物选择」温暖效应的大型复现往往失败——因此把第 2 座桥当仔细的提示，不是谈判技巧。
+**关于温暖的提醒（来自模块三的事实核查）：** 在部分被引用的实验设计中，热杯子确实能轻轻推动开局时的信任；但经典的“温暖影响选礼物”效应，在大型复现研究中屡屡失败——所以请把第 2 座桥当作一条审慎的提示，而不是谈判技巧。
 
-::: {.callout-note collapse="true" title="点开更多详情：怎样用这十一座桥"}
-每座桥是走廊，不是新宣称。跟着白话联结走进点名的模块，再用各章脚注找 DOI／URL。若资料包仍列出 Brooks et al.（2016）谈仪式焦虑，本页改指 Hobson 综述——Brooks 一文已于 **2024 年撤稿**。
+::: {.callout-note collapse="true" title="点开更多详情：怎样使用这十一座桥"}
+每座桥都是一条走廊，而不是一个新主张。顺着白话的联结走进对应的模块，再用各章的脚注查找 DOI 和网址。资料包里原本列出布鲁克斯（Brooks）等人（2016）关于仪式与焦虑的论文，本页已改为引用霍布森（Hobson）的综述——布鲁克斯那篇文章已于 **2024 年被撤稿**。
 :::
 
-你不必背下全部十一座。挑你真正有的问题——「为什么喝完要等？」「杯温有没有关系？」——跟着那条线走进课文与参考文献。
+十一座桥不必全都记住。挑一个你真正关心的问题——“为什么喝完要等一会儿？”“杯子的温度有关系吗？”——顺着那条线，走进相关的课和参考文献就好。
 
 ---
 
-### 1. 为什么第一口之后要等待 {#why-waiting-after-the-first-sip-matters}
+### 1. 为什么喝第一口之后要等一等 {#why-waiting-after-the-first-sip-matters}
 
-L-茶氨酸不会在第一口就起作用。在资料包里，它常在饮用后约 **35–50 分钟**在血液中达峰。清楚的阿尔法波变化（平静专注的脑节律）常约在 **30–45 分钟**内被报告。那匹配的时滞，正是模块一的时间注记与模块二的 EEG 注记该放在一起的原因——厨房时钟与实验室时钟讲同一个故事。
+茶氨酸不会在你喝第一口时就起作用。按资料包的说法，它在血液中的浓度通常在饮用后约 **35–50 分钟**达到高峰；而明显的阿尔法脑波变化（与平静专注有关的脑电节律），也常在约 **30–45 分钟**时出现。两边的时间差刚好对得上，所以模块一关于时间的提示和模块二关于脑电图的说明应该放在一起看——厨房里的钟和实验室里的钟，讲的是同一个故事。
 
-**打开：** [1.4 化合物](modules/module-01/04-compounds.qmd) · [2.2 脑波](modules/module-02/02-brainwaves.qmd)
+**打开：** [1.4 三种主要成分](modules/module-01/04-compounds.qmd) · [2.2 脑电波](modules/module-02/02-brainwaves.qmd)
 
 **引文：** [van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012)](bibliography.qmd#brain-mood-and-body-measures)
 
-### 2. 从暖手到第一次信任 {#from-warm-hands-to-first-trust}
+### 2. 从暖手到最初的信任 {#from-warm-hands-to-first-trust}
 
-模块三的温暖研究与模块四的信任游戏在此相遇。握住约 **60°C** 的温杯，在被引用的工作里可以把先手信任分配提高约 **+24.8%**。资料包把那连到岛叶中温暖与信任的重叠（同时处理体温与社会感受的脑区）。温暖杯子不是永远的谈判策略——但它可以改变开场一步。
+模块三的温暖研究和模块四的信任游戏在这里相遇。在被引用的研究中，握着一只热杯子（约 **60°C**），能让先行者在信任分配上多投入约 **24.8%**。资料包把这一点与岛叶（同时处理温度和社交感受的脑区）中“温暖”与“信任”的重叠联系起来。一只暖乎乎的杯子不是永远管用的谈判策略——但它可能改变开局的那一步。
 
 **打开：** [3.3 温暖与信任](modules/module-03/03-warmth-trust.qmd) · [4.3 信任游戏](modules/module-04/03-trust-games.qmd)
 
 **引文：** [Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013)](bibliography.qmd#history-warmth-and-ritual)
 
-### 3. 冲泡热度怎样重塑你感觉到的那杯 {#how-brew-heat-reshapes-the-cup-you-feel}
+### 3. 冲泡的温度，怎样改变你喝到的那一杯 {#how-brew-heat-reshapes-the-cup-you-feel}
 
-EGCG（一种主要的绿茶儿茶素）需要较多热才能好好萃出。把绿茶远低于 **80°C** 冲泡，倾向降低 EGCG 对咖啡因的比例。因此模块一的冲泡一节不只关乎味道——它改变在模块二世界里支配那杯饮品的化合物。
+表没食子儿茶素没食子酸酯（EGCG，绿茶中最主要的儿茶素之一）需要较高的温度才能充分萃取。用远低于 **80°C** 的水泡绿茶，EGCG 与咖啡因的比例往往会降低。所以模块一讲冲泡的那一节不只关乎口味——它决定了在模块二的世界里，你喝下的那杯茶以哪些成分为主。
 
-**打开：** [1.3 冲泡](modules/module-01/03-brewing.qmd) · [1.4 化合物](modules/module-01/04-compounds.qmd)
+**打开：** [1.3 冲泡](modules/module-01/03-brewing.qmd) · [1.4 三种主要成分](modules/module-01/04-compounds.qmd)
 
 **引文：** [Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004)](bibliography.qmd#plant-chemistry-and-brewing)
 
-### 4. 当压力激素遇上风险承担 {#when-stress-hormones-meet-risk-taking}
+### 4. 当压力激素遇上冒险 {#when-stress-hormones-meet-risk-taking}
 
-当压力激素上升，人们在某些实验室场景可以变成较积极的风险追求者。火警铃的感觉与赌桌共用一条走廊：压力下，损失可以稍不那么刺痛，风险选择可以上升。模块二的荷尔蒙坐席与模块四的风险坐席在此相遇。
+在某些实验室情境中，压力激素升高时，人们会变得更激进地追逐风险。火警铃响时的那种紧张感，和赌桌之间只隔着一条走廊：压力之下，损失可能没那么疼了，冒险的选择也可能变多。模块二讲激素的那一课和模块四讲风险的那一课，在这里相遇。
 
-::: {.callout-note collapse="true" title="更多详情：λ 与咖啡因快照"}
-压力驱动的皮质醇上升，与较软的损失厌恶（一项咖啡因研究里 λ 约 **1.62**）以及压力下较多风险选择连在一起。教学标签 λ／*k* 住在 [4.2](modules/module-04/02-risk-waiting.qmd) 折叠里——打开的走廊不需要它们。
+::: {.callout-note collapse="true" title="更多详情：λ 与咖啡因研究的速写"}
+压力导致的皮质醇升高，与损失厌恶减弱（在一项咖啡因研究中 λ 约为 **1.62**）以及压力下更多的冒险选择有关。λ／*k* 这些教学用的术语放在 [4.2](modules/module-04/02-risk-waiting.qmd) 的折叠框里——走正文这条走廊并不需要它们。
 :::
 
 **打开：** [2.3 压力激素](modules/module-02/03-stress-hormones.qmd) · [4.2 风险与等待](modules/module-04/02-risk-waiting.qmd)
 
 **引文：** [Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013)](bibliography.qmd#decisions-games-and-study-methods)
 
-### 5. 仪式步骤与较平静的心律 {#ritual-steps-and-a-calmer-heart-rhythm}
+### 5. 泡茶的步骤与更平稳的心跳 {#ritual-steps-and-a-calmer-heart-rhythm}
 
-固定的泡茶程序不只是文化（模块三）。它与较高的**心跳弹性**与较低的压力唤起连在一起。仪式步骤加上茶化合物，可以指向同一「较平静的控制」方向——手在忙，心稍自由一点。
+一套固定的泡茶流程不只是文化现象（模块三），它还与更高的**心跳弹性**、更低的压力唤醒水平有关。仪式的步骤加上茶的成分，可以指向同一个“更平静、更有掌控”的方向——手上忙着，心跳反倒松快了一点。
 
-::: {.callout-note collapse="true" title="更多详情：HRV 毫秒"}
-一项 L-茶氨酸任务研究，以常见 HRV 指标约 **+15.4 ms** 来教。实验室名：HRV。打开的走廊只需要「心跳弹性」。
+::: {.callout-note collapse="true" title="更多详情：心率变异性的毫秒数"}
+本站介绍的一项茶氨酸任务研究显示，一个常用的心率变异性指标提高了约 **+15.4 ms**。实验室里的名称是心率变异性（HRV）；走正文这条走廊，只需要记住“心跳弹性”就够了。
 :::
 
-**打开：** [3.4 仪式与压力](modules/module-03/04-ritual-stress.qmd) · [2.4 身体讯号](modules/module-02/04-body-signals.qmd)
+**打开：** [3.4 泡茶与压力](modules/module-03/04-ritual-stress.qmd) · [2.4 身体信号](modules/module-02/04-body-signals.qmd)
 
-**引文：** [Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) — *Brooks et al. (2016) 于 2024 撤稿后略去*](bibliography.qmd#history-warmth-and-ritual)
+**引文：** [Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) — *Brooks et al. (2016) 已于 2024 年撤稿，故不列入*](bibliography.qmd#history-warmth-and-ritual)
 
-### 6. 软化嘈杂兴奋，维持注意 {#softening-noisy-excitement-sustaining-attention}
+### 6. 压低嘈杂的兴奋，维持专注 {#softening-noisy-excitement-sustaining-attention}
 
-L-茶氨酸与较安静的兴奋杂音、以及艰难切换任务上较好的持续注意连在一起。那是从模块二「油门与煞车」故事到模块四仔细思考任务的桥（例如资料包里快速注意测试上较少虚报）。把杂音调低，有助仔细核对。
+茶氨酸与更安静的兴奋性“杂音”，以及在高难度切换任务上更好的持续注意有关。这座桥连接了模块二“油门与刹车”的故事，和模块四那些考验审慎思考的任务（例如资料包里，在快速注意力测试中误报更少）。把杂音调低，“再查一遍”就更容易做到。
 
-::: {.callout-note collapse="true" title="更多详情：谷氨酸讯号"}
-实验室说法：借由软化过量**谷氨酸**讯号，L-茶氨酸与较好的持续注意连在一起。受体座位住在 [2.1](modules/module-02/01-brain-action.qmd) 折叠里。
+::: {.callout-note collapse="true" title="更多详情：谷氨酸信号"}
+实验室的说法是：茶氨酸能缓和过多的**谷氨酸**信号，因而与更好的持续注意有关。具体的受体位点放在 [2.1](modules/module-02/01-brain-action.qmd) 的折叠框里。
 :::
 
-**打开：** [2.1 脑部作用](modules/module-02/01-brain-action.qmd) · [4.1 双加工](modules/module-04/01-dual-process.qmd)
+**打开：** [2.1 大脑里的作用](modules/module-02/01-brain-action.qmd) · [4.1 双加工](modules/module-04/01-dual-process.qmd)
 
 **引文：** [Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008)](bibliography.qmd#brain-mood-and-body-measures)
 
-### 7. 「亢奋」感觉有皮肤签名 {#the-wired-feeling-has-a-skin-signature}
+### 7. “亢奋”的感觉，会在皮肤上留下痕迹 {#the-wired-feeling-has-a-skin-signature}
 
-咖啡因驱动的警觉，可以呈现为皮肤上微小的压力汗讯号——觉得「亢奋」不只是心情词。模块二的身体讯号坐席，给那句日常话一个可量度的签名。
+咖啡因带来的警觉，可以表现为皮肤上一丝微弱的“紧张汗”信号——“整个人很亢奋”不只是形容心情的词。模块二讲身体信号的那一课，给这句日常说法找到了一个可以测量的标志。
 
-::: {.callout-note collapse="true" title="更多详情：皮肤电导微西门"}
-一项比较以咖啡因单独约 **+0.88 µS** 皮肤电导来教。实验室名：SCR／皮肤电导。打开的走廊只需要「微小的压力汗」。
+::: {.callout-note collapse="true" title="更多详情：皮肤电导的微西门子数"}
+本站介绍的一项对比研究显示，单独摄入咖啡因时，皮肤电导约增加 **+0.88 µS**。实验室里的名称是皮肤电导反应（SCR）；走正文这条走廊，只需要记住“一丝紧张汗”就够了。
 :::
 
-**打开：** [2.4 身体讯号](modules/module-02/04-body-signals.qmd) · [2.2 脑波](modules/module-02/02-brainwaves.qmd)
+**打开：** [2.4 身体信号](modules/module-02/04-body-signals.qmd) · [2.2 脑电波](modules/module-02/02-brainwaves.qmd)
 
 **引文：** [Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008)](bibliography.qmd#brain-mood-and-body-measures)
 
-### 8. 荣西的「养心」，旁靠现代 HRV 张力 {#eisais-nourishes-the-heart-beside-modern-hrv-tone}
+### 8. 荣西的“养心”，与现代的心率变异性 {#eisais-nourishes-the-heart-beside-modern-hrv-tone}
 
-荣西 1211 年关于茶与心的宣称（模块三历史）坐在现代发现旁边：茶化合物可以提高平静的休息与消化／心跳弹性张力（模块二）。资料包把这呈现为历史用语遇上现代量度——不是证明荣西开过 HRV 实验室。旧语言，新仪表；同一份好奇。
+荣西在 1211 年关于茶与心的说法（模块三的历史），与现代研究发现并排摆放：茶的成分可以提升让人平静的“休息与消化”状态，也就是心跳弹性（模块二）。资料包把这当作一句历史上的说法遇上了现代的测量，而不是证明荣西开过心率变异性实验室。老话，新仪表，同样的好奇心。
 
-**打开：** [3.2 寺院之路](modules/module-03/02-monastic-path.qmd) · [2.4 身体讯号](modules/module-02/04-body-signals.qmd)
+**打开：** [3.2 从药汤到禅寺](modules/module-03/02-monastic-path.qmd) · [2.4 身体信号](modules/module-02/04-body-signals.qmd)
 
 **引文：** [Eisai (1211); Sen (1998); Kimura et al. (2007)](bibliography.qmd#history-warmth-and-ritual)
 
-### 9. 当大脑变慢，明天淡去 {#when-the-brain-slows-tomorrow-fades}
+### 9. 大脑一慢下来，明天就淡了 {#when-the-brain-slows-tomorrow-fades}
 
-酒精对抑制性讯号的加强（模块二）与强烈的现时偏误连在一起——未来成本权重较低（模块四）。这是资料包把酒精放在「明天比较不算数」旁边讨论的原因之一，而不只放在「觉得醉」旁边。
+酒精会增强抑制性信号（模块二），这与强烈的现时偏误有关——未来的代价显得没那么重（模块四）。这也是资料包把酒精和“明天不太算数”放在一起讨论、而不只是和“喝醉的感觉”放在一起的原因之一。
 
-**打开：** [2.1 脑部作用](modules/module-02/01-brain-action.qmd) · [4.2 风险与等待](modules/module-04/02-risk-waiting.qmd)
+**打开：** [2.1 大脑里的作用](modules/module-02/01-brain-action.qmd) · [4.2 风险与等待](modules/module-04/02-risk-waiting.qmd)
 
 **引文：** [Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005)](bibliography.qmd#decisions-games-and-study-methods)
 
-### 10. 较平静的焦虑，较少一触即发的讨价还价 {#calmer-anxiety-less-hair-trigger-bargaining}
+### 10. 焦虑少一点，讨价还价时就不那么一点就炸 {#calmer-anxiety-less-hair-trigger-bargaining}
 
-仪式可以钝化大脑的错误警报并降低焦虑（模块三）。资料包把那与较少对不公平提议的过度攻击性拒绝（模块四最后通牒模式）一起讨论。较平静的身体可以意味较少一触即发的讨价还价——不是永远自动公平。
+仪式可以减弱大脑的错误警报、降低焦虑（模块三）。资料包把这一点和“对不公平出价的过激拒绝减少”放在一起讨论（模块四的最后通牒博弈规律）。身体更平静，可能意味着讨价还价时没那么一点就炸——而不是自动地、永远地公平。
 
-**打开：** [3.4 仪式与压力](modules/module-03/04-ritual-stress.qmd) · [4.3 信任游戏](modules/module-04/03-trust-games.qmd)
+**打开：** [3.4 泡茶与压力](modules/module-03/04-ritual-stress.qmd) · [4.3 信任游戏](modules/module-04/03-trust-games.qmd)
 
-**引文：** [Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) — *Brooks et al. (2016) 于 2024 撤稿后略去*](bibliography.qmd#decisions-games-and-study-methods)
+**引文：** [Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) — *Brooks et al. (2016) 已于 2024 年撤稿，故不列入*](bibliography.qmd#decisions-games-and-study-methods)
 
-### 11. 为什么阿萨姆叶喜爱深色杯 {#why-assam-leaves-love-a-dark-cup}
+### 11. 为什么阿萨姆茶叶天生适合做深色的红茶 {#why-assam-leaves-love-a-dark-cup}
 
-*assamica* 较高的儿茶素水平（干重约 **25%–35%**）给红茶深色素更多原料。因此模块一的植物表有助解释为什么阿萨姆型叶天然适合做浓郁红茶加工——茶园早已暗示工厂。
+阿萨姆大叶种（*assamica*）的儿茶素含量较高（约占干重的 **25%–35%**），为红茶的深色色素提供了更多原料。所以模块一的植物对照表，能帮助解释为什么阿萨姆型茶叶这么适合走浓郁红茶的加工路线——茶园早就给工厂埋下了伏笔。
 
 **打开：** [1.1 植物](modules/module-01/01-plants.qmd) · [1.2 加工](modules/module-01/02-processing.qmd)
 
@@ -135,20 +135,20 @@ L-茶氨酸与较安静的兴奋杂音、以及艰难切换任务上较好的持
 
 ---
 
-## 精简清单 {#compact-checklist}
+## 简明清单 {#compact-checklist}
 
 | 从 → 到 | 白话联结 | 引文 |
 | --- | --- | --- |
-| L-茶氨酸时间 → 平静脑波 | 约 **35–50 分钟**达峰；阿法变化常约 **30–45 分钟**内 | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |
-| 温杯 → 信任游戏送出 | 约 **60°C** 温杯；被引用工作约 **+24.8%** 先手信任 | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
-| 冲泡温度 → 杯中 EGCG | 远低于 **80°C** 倾向降低 EGCG 对咖啡因比例 | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
-| 压力皮质醇 → 风险承担 | 压力下损失可较不刺痛／风险上升（λ 快照在桥折叠） | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
-| 冲泡仪式 → 较平静心律 | 较高心跳弹性（+ms 细节在桥折叠） | Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) |
-| L-茶氨酸平静兴奋 → 仔细注意 | 较安静的兴奋杂音；艰难任务上较好持续注意 | Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008) |
-| 咖啡因警觉 → 出汗压力讯号 | 微小压力汗签名（µS 细节在桥折叠） | Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008) |
-| 荣西「养心」 → 迷走张力 | 1211 用语旁靠现代平静 HRV 张力发现 | Eisai (1211); Sen (1998); Kimura et al. (2007) |
-| 酒精令脑变慢 → 为现在而活 | 抑制性讯号加强与强烈现时偏误连在一起 | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
-| 仪式平静焦虑 → 较公平讨价还价反应 | 钝化错误警报／较低焦虑与较少过度攻击性拒绝不公平提议一起讨论 | Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) |
-| 阿萨姆化学 → 较深红茶 | 干重约 **25%–35%** 儿茶素作为深色素原料 | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |
+| 茶氨酸起效时间 → 平静的脑电波 | 约 **35–50 分钟**达到高峰；阿尔法波变化常在约 **30–45 分钟**时出现 | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |
+| 热杯子 → 信任游戏中的送出 | 约 **60°C** 的热杯；被引用研究中先行者信任约 **+24.8%** | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
+| 冲泡温度 → 杯中的 EGCG | 远低于 **80°C** 时，EGCG 与咖啡因的比例往往降低 | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
+| 压力下的皮质醇 → 冒险 | 压力下损失没那么疼／冒险增加（λ 速写见该桥的折叠框） | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
+| 泡茶仪式 → 更平稳的心跳 | 心跳弹性更高（毫秒数见该桥的折叠框） | Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) |
+| 茶氨酸平息兴奋 → 审慎的注意 | 兴奋性杂音更少；高难度任务上持续注意更好 | Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008) |
+| 咖啡因带来的警觉 → 出汗的紧张信号 | 一丝紧张汗的标志（微西门子数见该桥的折叠框） | Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008) |
+| 荣西的“养心” → 迷走神经张力 | 1211 年的说法，与现代关于平静的心率变异性研究并排 | Eisai (1211); Sen (1998); Kimura et al. (2007) |
+| 酒精让大脑变慢 → 只顾眼前 | 抑制性信号增强，与强烈的现时偏误有关 | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
+| 仪式平息焦虑 → 讨价还价时反应更平和 | 错误警报减弱／焦虑降低，与对不公平出价的过激拒绝减少放在一起讨论 | Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) |
+| 阿萨姆的化学成分 → 颜色更深的红茶 | 约占干重 **25%–35%** 的儿茶素，是深色色素的原料 | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |
 
-从任何一条线，你可以退回 [模块总览](modules/index.qmd)、打开上面联结的课，或跳进每条引文联结点名的 [参考文献](bibliography.qmd) 分节。
+从任何一条线出发，你都可以退回 [模块总览](modules/index.qmd)，打开上面列出的课，或者跳到每条引文链接所指向的 [参考文献](bibliography.qmd) 分节。
