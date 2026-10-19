@@ -1,0 +1,233 @@
+---
+title: "参考文献"
+lang: zh-Hans
+---
+
+{{< include ../_includes/lang-switcher/bibliography.zh-hans.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [模块总览](modules/index.qmd) · [模块一](modules/module-01/index.qmd) · [模块二](modules/module-02/index.qmd) · [模块三](modules/module-03/index.qmd) · [模块四](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+:::
+
+::: {.callout-note}
+**英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
+:::
+
+**脚注住在各课页上**（点号码，再点箭嘴回来）。本页是按主题排列的总地图。若想先看故事，从[模块总览](modules/index.qmd)开始。
+
+本站每一项宣称都应留下痕迹。
+
+当某一章说「约 30–50 mg 咖啡因」或「Williams & Bargh (2008)」，那句话应该指向你可以核对的地方——本页的一条条目，或站长提供的资料包。这里没有为装饰而发明的东西。故事意在有趣；来源意在诚实。
+
+任何人都可以在网站上写下一句自信的话。**引文**是一条痕迹：作者、年份，通常还有期刊或书名，好让另一个人打开原文。那不表示每篇论文都完美。它表示我们不是要你相信一句口号。
+
+就本站而言：
+
+- 各章页上的数字与研究快照应与下方条目（或已核对的资料包）相符。
+- 有些资料包引文很短（只有年份与期刊）。我们照资料包所给留下，而不是猜补缺的标题。
+- 当资料包给出完整细节时，条目依 APA 体例。
+- 我们从初学者页面拿掉的密实验室常数，若你之后想找，仍住在许多这些论文里。
+
+**怎样用本页。** 在课文上看到一个「姓名—年份」（例如 Nobre et al., 2008）。在下方分节找到那条。若需要完整方法，打开论文本身——本清单是地图，不是重印。
+
+查完来源后，[模块总览](modules/index.qmd)会带你回到故事。
+
+## 植物化学与冲泡 {#plant-chemistry-and-brewing}
+
+Ashihara, H., Sano, H., & Suzuki, T. (2008). An update on caffeine biosynthesis in tea plants of *Camellia sinensis*. *Natural Product Communications, 3*(8), 1369–1378.
+
+Ban, Q., et al. (2017). Comparative transcriptome analysis reveals key pathways for cold acclimation in *Camellia sinensis*. *Plant Physiology and Biochemistry, 118*, 441–453.
+
+Barua, D. N. (1989). *Science and Practice in Tea Culture*. Tea Research Association, Jorhat.
+
+Bhagwat, S., et al. (2011). *USDA Database for the Flavonoid Content of Selected Foods, Release 3.0*. (Cited in Standard Cup Reference for total catechins, green tea.)
+
+Borchetia, S., et al. (2009). Chemical evaluation of tea (*Camellia sinensis*) germplasm for crop diversification. *Industrial Crops and Products, 30*(2), 270–274.
+
+Carr, M. K. V. (2018). (Cited in master Module 1.1 cultivation-terroir row; full title not supplied in the packs.)
+
+Chin, J. M., et al. (2008). *Journal of Analytical Toxicology, 32*(8), 702–704. (Cited in Standard Cup Reference for caffeine, green tea.)
+
+Chow, H. H. S., et al. (2001). Pharmacokinetics and safety of green tea polyphenols after multiple-dose administration of epigallocatechin gallate and Polyphenon E in healthy individuals. *Clinical Cancer Research, 7*(5), 1204–1212.
+
+Del Rio, D., et al. (2004). *Journal of Agricultural and Food Chemistry, 52*(10), 2807–2815. (Cited in Standard Cup Reference for EGCG, black tea.)
+
+Halder, J., et al. (1998). *Journal of Nutritional Biochemistry, 9*(2), 75–80. (Cited in Module 1 additions for PPO Michaelis constant.)
+
+Hicks, M. B., et al. (1996). *Food Chemistry, 56*(4), 425–428. (Cited in Standard Cup Reference for caffeine, black tea.)
+
+Jiang, L., et al. (2014). *Food Chemistry, 153*, 312–318. (Cited in Module 1 additions for PPO thermal denaturation activation energy.)
+
+Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594.
+
+Lakenbrink, C., et al. (2000). *Journal of Agricultural and Food Chemistry, 48*(7), 2575–2582. (Cited in Standard Cup Reference for total catechins, black tea.)
+
+Mondal, T. K. (2014). Breeding and biotechnology of tea (*Camellia sinensis*). *Biotechnology in Agriculture and Forestry, 66*, 123–144.
+
+Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605.
+
+Scheid, L., et al. (2012). *Journal of Nutrition, 142*(12), 2091–2096. (Cited in Module 1 and Module 4 additions for L-theanine Cmax / Tmax.)
+
+Spiro, M., & Hunter, M. (1985). *Journal of the Science of Food and Agriculture, 36*(9), 871–876. (Cited in Module 1 additions for caffeine diffusion activation energy.)
+
+Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion: Kinetics of extraction of caffeine and theaflavins. *Journal of the Science of Food and Agriculture, 33*(4), 333–340. (Partition coefficient also cited via *J. Chem. Soc., Faraday Trans. 1, 78*(1), 127–139 in Module 1 additions.)
+
+Spiro, M., & Siddique, S. (1981). Kinetics and equilibria of tea infusion: Part 1. Analysis and partition constants of the components of black tea. *Journal of the Science of Food and Agriculture, 32*(10), 1027–1032.
+
+Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Enzymatic browning in tea: Polyphenol oxidase and peroxidase. *Journal of the Science of Food and Agriculture, 79*(11), 1431–1436.
+
+Tanaka, T., & Kouno, I. (2003). Chemical features and formation mechanism of theaflavins and thearubigins. *Annals of Nutrition and Metabolism, 47*(5), 200–205.
+
+Wei, C., et al. (2018). Draft genome sequence of *Camellia sinensis* var. *sinensis* provides insights into the evolution of tea flavor compounds. *Proceedings of the National Academy of Sciences, 115*(18), E4151–E4158.
+
+Wey et al. (2021). *PLOS ONE, 16*(11), e0259836. (Cited in Module 1 additions for stomatal density.)
+
+Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728.
+
+Wight, W. (1962). *Nature, 196*, 441. (Cited in Module 1 additions for somatic chromosome number.)
+
+Xia, E. H., et al. (2017). *Proceedings of the National Academy of Sciences, 114*(17), E3569–E3558. (Cited in Module 1 additions for relative genomic size; page string as given in that pack.)
+
+
+## 脑、心情与身体量度 {#brain-mood-and-body-measures}
+
+Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-norepinephrine function: Adaptive gain and optimal performance. *Annual Review of Neuroscience, 28*, 403–450.
+
+Barry, R. J., et al. (2005). Caffeine effects on resting-state EEG, subjective alertness and arousal. *Neuropsychobiology, 51*(2), 89–95. (Frontal theta finding also cited as *Clinical Neurophysiology, 116*(10), 2344–2357 in Module 2 additions.)
+
+Dawson, M. E., Schell, A. M., & Filion, D. L. (2007). The electrodermal system. *Handbook of Psychophysiology, 3*, 159–181.
+
+Ehlers, C. L., et al. (1989). EEG and evoked potential changes following acute ethanol administration in humans. *Alcohol, 6*(3), 221–226.
+
+Fredholm, B. B., et al. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133.
+
+Gomez-Ramirez, M., et al. (2007). *Clinical Neurophysiology, 118*(10), 2243–2257. (Cited in Module 2 additions for task-related alpha.)
+
+Kakuda, T. (2011). Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction. *Pharmacological Research, 64*(2), 162–168.
+
+Kakuda, T., Nozawa, A., Sugimoto, A., & Niino, H. (2002). Inhibition by theanine of binding of \[3H]AMPA, \[3H]kainate, and \[3H]MDL 105,519 to glutamate receptors. *Bioscience, Biotechnology, and Biochemistry, 66*(12), 2683–2686.
+
+Kimura, K., et al. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45.
+
+Lovallo, W. R., et al. (2005). *Psychosomatic Medicine, 67*(5), 734–739. (Cited in Module 2 additions for caffeine cortisol / epinephrine.)
+
+Lovinger, D. M., White, G., & Weight, F. F. (1989). Ethanol inhibits NMDA-activated ion current in hippocampal neurons. *Science, 243*(4899), 1721–1724.
+
+Lu, K., et al. (2019). *Human Psychopharmacology, 34*(5), e2711. (Cited in Module 2 additions for GABA plasma concentrations.)
+
+Mihic, S. J., et al. (1997). Sites of alcohol and volatile anaesthetic action on GABA_A and glycine receptors. *Nature, 389*(6649), 385–389.
+
+Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168.
+
+Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198.
+
+Rangaswamy, M., et al. (2003). Beta power in the EEG of alcoholics. *Biological Psychiatry, 53*(3), 235–242.
+
+Rogers, P. J., et al. (2008). Time for tea: Mood, blood pressure and cognitive performance effects of caffeine and theanine administered alone and together. *Psychopharmacology, 195*(4), 569–577.
+
+Siamwala, J. H., et al. (2013). L-Theanine promotes nitric oxide production in human endothelial cells via eNOS phosphorylation. *Journal of Nutritional Biochemistry, 24*(3), 595–605.
+
+Unno, K., et al. (2013). *Pharmacology Biochemistry and Behavior, 111*, 28–33. (Cited in Module 2 additions for salivary alpha-amylase.)
+
+van der Pijl, P. C., et al. (2010). Human pharmacokinetic profile of green tea catechins and L-theanine. *British Journal of Nutrition, 104*(8), 1157–1164.
+
+Volkow, N. D., et al. (2015). *Translational Psychiatry, 5*(4), e541. (Cited in Module 2 additions for striatal D2 binding.)
+
+Wetzel, N., et al. (2016). *Psychophysiology, 53*(12), 1733–1742. (Cited in Module 2 additions for pupillary dilation under caffeine.)
+
+Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine consumption on the ability to manage stress and anxiety levels: A systematic review. *Plant Foods for Human Nutrition, 75*(1), 12–23.
+
+Yoto, A., et al. (2012). *Journal of Physiological Anthropology, 31*(1), 28. (Cited in Module 2 additions for salivary cortisol under cognitive stress.)
+
+
+## 历史、温暖与仪式 {#history-warmth-and-ritual}
+
+Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
+
+Brockway, L. H. (1979). Science and colonial expansion: The role of the British Royal Botanic Gardens. *American Ethnologist, 6*(3), 449–465.
+
+Brooks, A. W., et al. (2016). Don't stop believing: Rituals improve performance by decreasing anxiety. *Organizational Behavior and Human Decision Processes, 137*, 71–85. **Retracted 2024** — listed only as a caution; not used as evidence on this site.
+
+Eisai, Myōan. (1211). *Kissa Yōjōki* (“Drinking Tea for Nourishment of Life”). Translation in Sen, S. (1998), pp. 62–74.
+
+Farooqui, A. (2005). *Opium City: The Making of Early Victorian Bombay*. Three Essays Collective.
+
+Hobson, N. M., et al. (2017). *Social Cognitive and Affective Neuroscience, 12*(11), 1779–1788. (Cited in Module 3 additions and the bibliographic audit for ERN amplitude delta.)
+
+Hobson, N. M., et al. (2018). The psychology of rituals: An integrative review and process-informed framework. *Personality and Social Psychology Review, 22*(3), 260–284.
+
+Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280.
+
+Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness in the Ultimatum Game. *PLOS ONE, 6*(1), e15836.
+
+Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology, 15*(3), 169–182.
+
+Lang, M., et al. (2015). Effects of predictable behavioral sequences on anxiety and autonomic regulation. *Human Nature, 26*(3), 295–314.
+
+Lovell, J. (2011). *The Opium War: Drugs, Dreams, and the Making of Modern China*. Picador.
+
+Lu, Yu. (c. 760). *Cha Jing* (“The Classic of Tea”), Chapter 5: “Boiling.” Translation by Carpenter, F. R. (1974). Little, Brown and Company, pp. 85–92.
+
+Lynott, D., et al. (2014). *Perspectives on Psychological Science*. (Cited in Module 3 thermal-priming verification note as a preregistered direct replication that failed to replicate the purely behavioral choice finding.)
+
+Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press.
+
+Needham, J. (1986). *Science and Civilisation in China: Volume 6, Biology and Biological Technology; Part 1, Botany*. Cambridge University Press.
+
+Okakura, K. (1906). *The Book of Tea*. Fox Duffield & Company.
+
+Pritchard, E. H. (1936). *The Crucial Years of Early Anglo-Chinese Relations, 1750–1800* (pp. 112–115). Washington State College.
+
+Sen, S. (1998). *The Japanese Way of Tea: From Its Origins in China to Sen Rikyu*. University of Hawaii Press.
+
+Sharma, J. (2011). *Empire's Garden: Assam and the Making of India*. Duke University Press.
+
+Treaty of Peace, Friendship, Commerce, etc. (Treaty of Nanking). (1842, August 29; ratified 1843, June 26). Articles II, III, and VI as cited in Module 3 additions.
+
+Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607.
+
+Yifa. (2002). *The Origins of Buddhist Monastic Codes in China: An Annotated Translation of the Chanyuan Qinggui* (pp. 114–118). University of Hawaii Press.
+
+
+## 决策、游戏与研究方法 {#decisions-games-and-study-methods}
+
+Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books.
+
+Bechara, A., Damasio, A. R., Damasio, H., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition, 50*(1–3), 7–15.
+
+Berg, J., Dickhaut, J., & McCabe, K. (1995). Trust, reciprocity, and social history. *Games and Economic Behavior, 10*(1), 122–142.
+
+Brunyé, T. T., et al. (2012). *Cognition, 123*(2), 221–236. (Cited in Module 4 additions for Cognitive Reflection Test under caffeine.)
+
+Coates, J. M., & Herbert, J. (2008). Endogenous steroids and financial risk taking on a London trading floor. *Proceedings of the National Academy of Sciences, 105*(16), 6167–6172.
+
+George, S., et al. (2005). Alcohol and risk-taking: Evidence of alcohol myopia in computerized gambling paradigms. *Neuropsychopharmacology, 30*(4), 819–828.
+
+Güth, W., Schmittberger, R., & Schwarze, B. (1982). An experimental analysis of ultimatum bargaining. *Journal of Economic Behavior & Organization, 3*(4), 367–388.
+
+Haskell, C. F., et al. (2005). *Cognitive Brain Research, 24*(3), 433–444. (Cited in Module 4 additions for pre-trial methylxanthine washout.)
+
+Haskell, C. F., et al. (2008). *Biological Psychology, 77*(2), 113–122. (Cited in Module 4 additions for RVIP under L-theanine + caffeine.)
+
+Higashiyama, A., et al. (2011). *Journal of Functional Foods, 3*(3), 171–178. (Cited in Module 4 additions for Stroop interference cost.)
+
+Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+
+Laibson, D. (1997). Golden eggs and hyperbolic discounting. *Quarterly Journal of Economics, 112*(2), 443–478.
+
+Lejuez, C. W., et al. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied, 8*(2), 75–84. (Alcohol BART parameters also cited as *Experimental and Clinical Psychopharmacology, 10*(3), 305–313 in Module 4 additions.)
+
+Morewedge, C. K., et al. (2014). Consumption of alcohol increases altruistic punishment and rejection of unfair offers in bargaining. *Journal of Behavioral Decision Making, 27*(4), 329–338.
+
+Reynolds, B., et al. (2006). Dimensions of impulsive behavior: Personality and intertemporal choice in alcohol-preferring subjects. *Experimental and Clinical Psychopharmacology, 14*(2), 213–224.
+
+Rogers, P. J., et al. (2013). Association of caffeine intake with risk-taking and cognitive performance in simulated high-pressure environments. *Psychology of Addictive Behaviors, 27*(3), 742–750.
+
+Steele, C. M., & Josephs, R. A. (1990). Alcohol myopia: Its prized and dangerous effects. *American Psychologist, 45*(8), 921–933.
+
+Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5*(4), 297–323.
+
+
+## 完整性说明 {#note-on-completeness}
+
+引文完整性审核报告：全部 16 个分支皆有完整一级出处（主资料库 59 条基础文献，加上增补资料包中的临床与历史来源）。该审核期间有四项宣称明确以一级论文加固：PPO 变性（Subramanian et al., 1999）、L-茶氨酸受体亲和（Kakuda et al., 2002）、鸦片贸易箱数（Morse, 1926），以及 ERN 振幅差（Hobson et al., 2017）。

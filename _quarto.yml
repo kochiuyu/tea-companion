@@ -79,6 +79,10 @@ project:
     - zh-hans/modules/module-04/02-risk-waiting.qmd
     - zh-hans/modules/module-04/03-trust-games.qmd
     - zh-hans/modules/module-04/04-study-protocols.qmd
+    - zh-hant-hk/linkages.qmd
+    - zh-hant-hk/bibliography.qmd
+    - zh-hans/linkages.qmd
+    - zh-hans/bibliography.qmd
 
 website:
   title: "Tea, Caffeine & Decision Companion"
@@ -128,3 +132,5 @@ format:
     toc: true
     footnotes-hover: true
     reference-location: document
+    include-after-body:
+      - assets/lang-nav.html

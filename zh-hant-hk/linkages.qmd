@@ -1,0 +1,154 @@
+---
+title: "連結橋樑"
+lang: zh-Hant-HK
+---
+
+{{< include ../_includes/lang-switcher/linkages.zh-hant-hk.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [模組總覽](modules/index.qmd) · [模組一](modules/module-01/index.qmd) · [模組二](modules/module-02/index.qmd) · [模組三](modules/module-03/index.qmd) · [模組四](modules/module-04/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
+:::
+
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
+:::
+
+四大模組可以當分開的房間來讀。這一頁是它們之間的走廊——來自跨分支連結資料包的十一座橋，改寫成讓你*感覺到*為甚麼一個沖泡事實關乎心情，或為甚麼溫杯會出現在信任遊戲裡。
+
+沒有發明新連結。引文保持不變。把每座橋想成有人拉起一條線，於是兩章突然彼此靠近。
+
+若要帶 URL 與 DOI 的完整引文，打開各章，用它的**可點擊腳註**（點號碼，再點箭嘴回來；滑鼠懸停常會彈出摘要）。較密的旁支細節收在摺疊的「更多詳情…」裡。
+
+**溫暖注意（來自模組三事實核對）：** 溫杯帶來的開場信任輕推，在某些被引用的設計裡是真的，但經典「送禮物選擇」溫暖效應的大型複現往往失敗——因此把第 2 座橋當仔細的提示，不是談判技巧。
+
+::: {.callout-note collapse="true" title="點開更多詳情：怎樣用這十一座橋"}
+每座橋是走廊，不是新宣稱。跟着白話連結走進點名的模組，再用各章腳註找 DOI／URL。若資料包仍列出 Brooks et al.（2016）談儀式焦慮，本頁改指 Hobson 綜述——Brooks 一文已於 **2024 年撤稿**。
+:::
+
+你不必背下全部十一座。挑你真正有的問題——「為甚麼喝完要等？」「杯溫有沒有關係？」——跟着那條線走進課文與參考文獻。
+
+---
+
+### 1. 為甚麼第一口之後要等待 {#why-waiting-after-the-first-sip-matters}
+
+L-茶胺酸不會在第一口就起作用。在資料包裡，它常在飲用後約 **35–50 分鐘**在血液中達峰。清楚的阿法波變化（平靜專注的腦節律）常約在 **30–45 分鐘**內被報告。那匹配的時滯，正是模組一的時間註記與模組二的 EEG 註記該放在一起的原因——廚房時鐘與實驗室時鐘講同一個故事。
+
+**打開：** [1.4 化合物](modules/module-01/04-compounds.qmd) · [2.2 腦波](modules/module-02/02-brainwaves.qmd)
+
+**引文：** [van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012)](bibliography.qmd#brain-mood-and-body-measures)
+
+### 2. 從暖手到第一次信任 {#from-warm-hands-to-first-trust}
+
+模組三的溫暖研究與模組四的信任遊戲在此相遇。握住約 **60°C** 的溫杯，在被引用的工作裡可以把先手信任分配提高約 **+24.8%**。資料包把那連到島葉中溫暖與信任的重疊（同時處理體溫與社會感受的腦區）。溫暖杯子不是永遠的談判策略——但它可以改變開場一步。
+
+**打開：** [3.3 溫暖與信任](modules/module-03/03-warmth-trust.qmd) · [4.3 信任遊戲](modules/module-04/03-trust-games.qmd)
+
+**引文：** [Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013)](bibliography.qmd#history-warmth-and-ritual)
+
+### 3. 沖泡熱度怎樣重塑你感覺到的那杯 {#how-brew-heat-reshapes-the-cup-you-feel}
+
+EGCG（一種主要的綠茶兒茶素）需要較多熱才能好好萃出。把綠茶遠低於 **80°C** 沖泡，傾向降低 EGCG 對咖啡因的比例。因此模組一的沖泡一節不只關乎味道——它改變在模組二世界裡支配那杯飲品的化合物。
+
+**打開：** [1.3 沖泡](modules/module-01/03-brewing.qmd) · [1.4 化合物](modules/module-01/04-compounds.qmd)
+
+**引文：** [Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004)](bibliography.qmd#plant-chemistry-and-brewing)
+
+### 4. 當壓力激素遇上風險承擔 {#when-stress-hormones-meet-risk-taking}
+
+當壓力激素上升，人們在某些實驗室場景可以變成較積極的風險追求者。火警鈴的感覺與賭桌共用一條走廊：壓力下，損失可以稍不那麼刺痛，風險選擇可以上升。模組二的激素坐席與模組四的風險坐席在此相遇。
+
+::: {.callout-note collapse="true" title="更多詳情：λ 與咖啡因快照"}
+壓力驅動的皮質醇上升，與較軟的損失厭惡（一項咖啡因研究裡 λ 約 **1.62**）以及壓力下較多風險選擇連在一起。教學標籤 λ／*k* 住在 [4.2](modules/module-04/02-risk-waiting.qmd) 摺疊裡——打開的走廊不需要它們。
+:::
+
+**打開：** [2.3 壓力激素](modules/module-02/03-stress-hormones.qmd) · [4.2 風險與等待](modules/module-04/02-risk-waiting.qmd)
+
+**引文：** [Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013)](bibliography.qmd#decisions-games-and-study-methods)
+
+### 5. 儀式步驟與較平靜的心律 {#ritual-steps-and-a-calmer-heart-rhythm}
+
+固定的泡茶程序不只是文化（模組三）。它與較高的**心跳彈性**與較低的壓力喚起連在一起。儀式步驟加上茶化合物，可以指向同一「較平靜的控制」方向——手在忙，心稍自由一點。
+
+::: {.callout-note collapse="true" title="更多詳情：HRV 毫秒"}
+一項 L-茶胺酸任務研究，以常見 HRV 指標約 **+15.4 ms** 來教。實驗室名：HRV。打開的走廊只需要「心跳彈性」。
+:::
+
+**打開：** [3.4 儀式與壓力](modules/module-03/04-ritual-stress.qmd) · [2.4 身體訊號](modules/module-02/04-body-signals.qmd)
+
+**引文：** [Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) — *Brooks et al. (2016) 於 2024 撤稿後略去*](bibliography.qmd#history-warmth-and-ritual)
+
+### 6. 軟化嘈雜興奮，維持注意 {#softening-noisy-excitement-sustaining-attention}
+
+L-茶胺酸與較安靜的興奮雜音、以及艱難切換任務上較好的持續注意連在一起。那是從模組二「油門與煞車」故事到模組四仔細思考任務的橋（例如資料包裡快速注意測試上較少虛報）。把雜音調低，有助仔細核對。
+
+::: {.callout-note collapse="true" title="更多詳情：麩胺酸訊號"}
+實驗室說法：藉由軟化過量**麩胺酸**訊號，L-茶胺酸與較好的持續注意連在一起。受體座位住在 [2.1](modules/module-02/01-brain-action.qmd) 摺疊裡。
+:::
+
+**打開：** [2.1 腦部作用](modules/module-02/01-brain-action.qmd) · [4.1 雙重歷程](modules/module-04/01-dual-process.qmd)
+
+**引文：** [Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008)](bibliography.qmd#brain-mood-and-body-measures)
+
+### 7. 「亢奮」感覺有皮膚簽名 {#the-wired-feeling-has-a-skin-signature}
+
+咖啡因驅動的警覺，可以呈現為皮膚上微小的壓力汗訊號——覺得「亢奮」不只是心情詞。模組二的身體訊號坐席，給那句日常話一個可量度的簽名。
+
+::: {.callout-note collapse="true" title="更多詳情：皮膚電導微西門"}
+一項比較以咖啡因單獨約 **+0.88 µS** 皮膚電導來教。實驗室名：SCR／皮膚電導。打開的走廊只需要「微小的壓力汗」。
+:::
+
+**打開：** [2.4 身體訊號](modules/module-02/04-body-signals.qmd) · [2.2 腦波](modules/module-02/02-brainwaves.qmd)
+
+**引文：** [Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008)](bibliography.qmd#brain-mood-and-body-measures)
+
+### 8. 榮西的「養心」，旁靠現代 HRV 張力 {#eisais-nourishes-the-heart-beside-modern-hrv-tone}
+
+榮西 1211 年關於茶與心的宣稱（模組三歷史）坐在現代發現旁邊：茶化合物可以提高平靜的休息與消化／心跳彈性張力（模組二）。資料包把這呈現為歷史用語遇上現代量度——不是證明榮西開過 HRV 實驗室。舊語言，新儀表；同一份好奇。
+
+**打開：** [3.2 寺院之路](modules/module-03/02-monastic-path.qmd) · [2.4 身體訊號](modules/module-02/04-body-signals.qmd)
+
+**引文：** [Eisai (1211); Sen (1998); Kimura et al. (2007)](bibliography.qmd#history-warmth-and-ritual)
+
+### 9. 當大腦變慢，明天淡去 {#when-the-brain-slows-tomorrow-fades}
+
+酒精對抑制性訊號的加強（模組二）與強烈的現時偏誤連在一起——未來成本權重較低（模組四）。這是資料包把酒精放在「明天比較不算數」旁邊討論的原因之一，而不只放在「覺得醉」旁邊。
+
+**打開：** [2.1 腦部作用](modules/module-02/01-brain-action.qmd) · [4.2 風險與等待](modules/module-04/02-risk-waiting.qmd)
+
+**引文：** [Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005)](bibliography.qmd#decisions-games-and-study-methods)
+
+### 10. 較平靜的焦慮，較少一觸即發的討價還價 {#calmer-anxiety-less-hair-trigger-bargaining}
+
+儀式可以鈍化大腦的錯誤警報並降低焦慮（模組三）。資料包把那與較少對不公平提議的過度攻擊性拒絕（模組四最後通牒模式）一起討論。較平靜的身體可以意味較少一觸即發的討價還價——不是永遠自動公平。
+
+**打開：** [3.4 儀式與壓力](modules/module-03/04-ritual-stress.qmd) · [4.3 信任遊戲](modules/module-04/03-trust-games.qmd)
+
+**引文：** [Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) — *Brooks et al. (2016) 於 2024 撤稿後略去*](bibliography.qmd#decisions-games-and-study-methods)
+
+### 11. 為甚麼阿薩姆葉喜愛深色杯 {#why-assam-leaves-love-a-dark-cup}
+
+*assamica* 較高的兒茶素水平（乾重約 **25%–35%**）給紅茶深色素更多原料。因此模組一的植物表有助解釋為甚麼阿薩姆型葉天然適合做濃郁紅茶加工——茶園早已暗示工廠。
+
+**打開：** [1.1 植物](modules/module-01/01-plants.qmd) · [1.2 加工](modules/module-01/02-processing.qmd)
+
+**引文：** [Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000)](bibliography.qmd#plant-chemistry-and-brewing)
+
+---
+
+## 精簡清單 {#compact-checklist}
+
+| 從 → 到 | 白話連結 | 引文 |
+| --- | --- | --- |
+| L-茶胺酸時間 → 平靜腦波 | 約 **35–50 分鐘**達峰；阿法變化常約 **30–45 分鐘**內 | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |
+| 溫杯 → 信任遊戲送出 | 約 **60°C** 溫杯；被引用工作約 **+24.8%** 先手信任 | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
+| 沖泡溫度 → 杯中 EGCG | 遠低於 **80°C** 傾向降低 EGCG 對咖啡因比例 | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
+| 壓力皮質醇 → 風險承擔 | 壓力下損失可較不刺痛／風險上升（λ 快照在橋摺疊） | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
+| 沖泡儀式 → 較平靜心律 | 較高心跳彈性（+ms 細節在橋摺疊） | Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) |
+| L-茶胺酸平靜興奮 → 仔細注意 | 較安靜的興奮雜音；艱難任務上較好持續注意 | Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008) |
+| 咖啡因警覺 → 出汗壓力訊號 | 微小壓力汗簽名（µS 細節在橋摺疊） | Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008) |
+| 榮西「養心」 → 迷走張力 | 1211 用語旁靠現代平靜 HRV 張力發現 | Eisai (1211); Sen (1998); Kimura et al. (2007) |
+| 酒精令腦變慢 → 為現在而活 | 抑制性訊號加強與強烈現時偏誤連在一起 | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
+| 儀式平靜焦慮 → 較公平討價還價反應 | 鈍化錯誤警報／較低焦慮與較少過度攻擊性拒絕不公平提議一起討論 | Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) |
+| 阿薩姆化學 → 較深紅茶 | 乾重約 **25%–35%** 兒茶素作為深色素原料 | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |
+
+從任何一條線，你可以退回 [模組總覽](modules/index.qmd)、打開上面連結的課，或跳進每條引文連結點名的 [參考文獻](bibliography.qmd) 分節。

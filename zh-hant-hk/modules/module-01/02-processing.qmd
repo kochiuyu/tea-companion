@@ -6,11 +6,11 @@ lang: zh-Hant-HK
 {{< include ../../../_includes/lang-switcher/module-01-processing.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../index.qmd) · [模組一](index.qmd) · [模組二](../module-02/index.qmd) · [模組三](../module-03/index.qmd) · [模組四](../module-04/index.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../../modules/index.qmd) · [模組一](index.qmd) · [模組二](../module-02/index.qmd) · [模組三](../module-03/index.qmd) · [模組四](../module-04/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模組已有中文版。** [連結橋樑](../../../linkages.qmd)、[參考文獻](../../../bibliography.qmd)暫以英文提供。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
 ::: {.callout-tip}
@@ -57,7 +57,7 @@ lang: zh-Hant-HK
 
 後續則是茶黃素走向茶紅素（以及相關深色素），過氧化物酶幫忙。[^2]
 
-資料包裡酶最適活性約在溫和酸性（**pH 約 5.5–6.0**）。密密的米氏常數與反應速率表住在原論文與 [參考文獻](../../../bibliography.qmd)（英文）——初學者跟上路上分叉的故事，不需要那些。
+資料包裡酶最適活性約在溫和酸性（**pH 約 5.5–6.0**）。密密的米氏常數與反應速率表住在原論文與 [參考文獻](../../bibliography.qmd)——初學者跟上路上分叉的故事，不需要那些。
 
 為甚麼葡萄酒隱喻會誤導：葡萄酒發酵是微生物把糖 → 酒精。廠房話裡普通紅／烏龍「發酵」，多半是**酶促氧化**。普洱與某些黑茶*確實*牽涉微生物；那是家族樹的另一枝。
 

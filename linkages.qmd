@@ -2,6 +2,8 @@
 title: "Linkages"
 ---
 
+{{< include _includes/lang-switcher/linkages.en.qmd >}}
+
 The four modules can be read as separate rooms. This page is the hallway between them—eleven bridges from the Cross-Branch Linkages pack, rewritten so you can *feel* why a brewing fact matters for mood, or why a warm mug shows up in a trust game.
 
 No new links were invented. Citations stay the same. Think of each bridge as a thread someone pulls, and suddenly two chapters lean toward each other.

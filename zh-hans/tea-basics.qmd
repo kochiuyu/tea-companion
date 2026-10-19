@@ -6,11 +6,11 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/tea-basics.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [模块总览](modules/index.qmd) · [模块一](modules/module-01/index.qmd) · [模块二](modules/module-02/index.qmd) · [模块三](modules/module-03/index.qmd) · [模块四](modules/module-04/index.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [模块总览](modules/index.qmd) · [模块一](modules/module-01/index.qmd) · [模块二](modules/module-02/index.qmd) · [模块三](modules/module-03/index.qmd) · [模块四](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模块已有中文版。** [联结桥梁](../linkages.qmd)、[参考文献](../bibliography.qmd)暂以英文提供。
+::: {.callout-note}
+**英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
 :::
 
 你站在超市货架前。盒子上写着 *English Breakfast*、*Earl Grey*、*绿茶*、*洋甘菊*、*抹茶*。咖啡店餐牌再加上 *煎茶*、*乌龙*、*阿萨姆*。伴侣章节开始谈 *Camellia sinensis*、氧化与儿茶素。这些日常标签怎样连起来？
@@ -168,7 +168,7 @@ lang: zh-Hans
 - 看到 *煎茶* 或 *抹茶* → 绿路径 → 杯量参考绿茶列（以及抹茶／玉露 L-茶氨酸注）→ 模块一热杀／儿茶素故事。
 - 看到 *洋甘菊茶* → 花草浸泡 → 不是模块一化学核心。
 
-若要课章术语（*PPO*、*茶黄素*、*HPA 轴*），打开 [词汇表](glossary.qmd)。若要冲泡事实如何缝到心情或决策，打开 [联结桥梁](../linkages.qmd)（英文）。
+若要课章术语（*PPO*、*茶黄素*、*HPA 轴*），打开 [词汇表](glossary.qmd)。若要冲泡事实如何缝到心情或决策，打开 [联结桥梁](linkages.qmd)。
 
 ---
 

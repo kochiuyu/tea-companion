@@ -6,11 +6,11 @@ lang: zh-Hant-HK
 {{< include ../../../_includes/lang-switcher/module-04-dual-process.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../index.qmd) · [模組一](../module-01/index.qmd) · [模組二](../module-02/index.qmd) · [模組三](../module-03/index.qmd) · [模組四](index.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../../modules/index.qmd) · [模組一](../module-01/index.qmd) · [模組二](../module-02/index.qmd) · [模組三](../module-03/index.qmd) · [模組四](index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
-::: {.callout-important}
-**四大模組已有中文版。** [連結橋樑](../../../linkages.qmd)、[參考文獻](../../../bibliography.qmd)暫以英文提供。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
 ::: {.callout-tip}
@@ -89,7 +89,7 @@ lang: zh-Hant-HK
 - **Stroop** — 字說別的東西時命名墨水色（抑制自動閱讀）。
 - **RVIP／切換** — 負荷下的持續注意。
 
-酒精經酒精近視令系統一佔優——注意收窄到最立即的線索。[^3] 第 2 章的 L-茶胺酸故事連到這裡：藉由軟化過量麩胺酸訊號，L-茶胺酸與艱難切換任務上較好的持續注意連在一起（見 [連結橋樑](../../../linkages.qmd)（英文）與 [2.1 腦部作用](../module-02/01-brain-action.qmd)）。
+酒精經酒精近視令系統一佔優——注意收窄到最立即的線索。[^3] 第 2 章的 L-茶胺酸故事連到這裡：藉由軟化過量麩胺酸訊號，L-茶胺酸與艱難切換任務上較好的持續注意連在一起（見 [連結橋樑](../../linkages.qmd) 與 [2.1 腦部作用](../module-02/01-brain-action.qmd)）。
 :::
 
 ::: {.callout-tip collapse="true" title="點開更多詳情：怎樣讀「茶令你更明智」標題"}
@@ -121,7 +121,7 @@ L-茶胺酸＋咖啡因幫助警覺擊中，不等於：
 
 ## 通往模組二的橋（以及為甚麼虛報重要）
 
-第 2 章的 L-茶胺酸故事關乎較安靜的興奮雜音與較平靜的壓力標記。第 4 章的注意電池問：那較安靜的控制會不會呈現為較少虛報與較好切換。連結頁縫起那些宣稱；這一課令劑量保持誠實（[2.1 腦部作用](../module-02/01-brain-action.qmd)；[連結橋樑](../../../linkages.qmd)（英文））。
+第 2 章的 L-茶胺酸故事關乎較安靜的興奮雜音與較平靜的壓力標記。第 4 章的注意電池問：那較安靜的控制會不會呈現為較少虛報與較好切換。連結頁縫起那些宣稱；這一課令劑量保持誠實（[2.1 腦部作用](../module-02/01-brain-action.qmd)；[連結橋樑](../../linkages.qmd)）。
 
 思考速度是一個軸。風險胃口——以及對明天的耐心——是另一個。那是下一坐。
 
