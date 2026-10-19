@@ -2,9 +2,102 @@
 title: "Linkages"
 ---
 
-Cross-branch linkages from owner-supplied verified materials only.
+# How the modules connect
 
-| Source Branch → Target Branch | Scientific Rationale & Primary Citations |
-| --- | --- |
-| 1.4 L-Theanine Tmax → 2.2 Resting Alpha onset | Oral L-theanine reaches peak plasma concentration (Tmax) between 35–50 minutes post-ingestion, directly predicting the 30–45 minute physiological delay observed before significant relative alpha-band power increases. |
-| 3.3 Thermal Priming → 4.3 Trust Game payoffs | Holding a warm beverage cup activates the anterior insular cortex, which increases first-mover trust allocations in the Trust Game. |
+## Story in one minute
+
+The four modules are rooms in one house. This page is the **hallway**: eleven bridges from the Cross-Branch Linkages pack, rewritten so a beginner can see why a brewing fact matters for mood, or why a warm mug shows up in a trust game. Citations stay the same. No new links were invented.
+
+## What is going on
+
+Each row below is one connection. Read it as: **Fact A** (from one module) helps explain **Fact B** (from another). The short paragraphs unpack the bridge in everyday English. The table at the end is the compact checklist.
+
+## What this means for a reader
+
+You do not have to memorize all eleven. Pick one that matches your question—for example “why wait after drinking?” or “does mug temperature matter?”—and follow the citations into the modules and bibliography.
+
+---
+
+### 1. L-theanine timing → calm brain waves
+
+L-theanine does not act at the first sip. In the packs, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Module 1’s timing note and Module 2’s EEG note belong together.
+
+**Citations:** van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012)
+
+### 2. Warm cup → trust-game sending
+
+Module 3’s warmth studies and Module 4’s Trust Game meet here. Holding a warm (~**60°C**) cup can raise first-mover trust allocations by about **+24.8%** in cited work. The packs link that to warmth–trust overlap in the insula (the brain area that handles both temperature and social feelings).
+
+**Citations:** Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013)
+
+### 3. Brew temperature → EGCG in the cup
+
+EGCG (a major green-tea catechin) needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So Module 1’s brewing section is not only about taste—it changes which compounds dominate the cup you drink in Module 2’s world.
+
+**Citations:** Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004)
+
+### 4. Stress cortisol → risk taking
+
+When stress hormones rise, people can become more aggressive risk seekers in some lab settings. Stress-driven cortisol rises are linked with softer loss aversion (λ around **1.62** in one caffeine study) and more risky choices under pressure. That bridges Module 2’s hormone section to Module 4’s risk section.
+
+**Citations:** Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013)
+
+### 5. Brewing ritual → calmer heart rhythm
+
+A fixed tea-making sequence is not only cultural (Module 3). It is linked with higher HRV (about **+15.4 ms** on one common HRV index in an L-theanine task study) and lower stress arousal. Ritual steps plus tea compounds can point in the same “calmer control” direction.
+
+**Citations:** Brooks et al. (2016); Lang et al. (2015); Kimura et al. (2007)
+
+### 6. L-theanine calming excitation → careful attention
+
+By softening excess glutamate signaling, L-theanine is linked with better sustained attention on hard switching tasks. That is the bridge from Module 2’s receptor story to Module 4’s careful-thinking tasks (for example fewer false alarms on rapid attention tests in the packs).
+
+**Citations:** Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008)
+
+### 7. Caffeine alertness → sweaty stress signal
+
+Caffeine-driven alert brain patterns line up with higher skin conductance (about **+0.88 µS** for caffeine alone in one comparison). Feeling “wired” is not only a mood word—Module 2’s body-signal section gives it a measurable skin response.
+
+**Citations:** Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008)
+
+### 8. Eisai’s “nourishes the heart” → vagal tone
+
+Eisai’s 1211 claim about tea and the heart (Module 3 history) sits beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone (Module 2). The packs present this as a historical phrase meeting a modern measure—not as proof that Eisai ran an HRV lab.
+
+**Citations:** Eisai (1211); Sen (1998); Kimura et al. (2007)
+
+### 9. Alcohol’s slowing of the brain → living for now
+
+Alcohol’s boost of inhibitory signaling (Module 2) is linked with strong present bias—future costs weigh less (Module 4). That is one reason the packs discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
+
+**Citations:** Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005)
+
+### 10. Ritual calms anxiety → fairer bargaining reactions
+
+Ritual can blunt the brain’s error-alarm and lower anxiety (Module 3). The packs discuss that alongside fewer hyper-aggressive rejections of unfair offers (Module 4 ultimatum patterns). Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
+
+**Citations:** Hobson et al. (2017); Brooks et al. (2016); Morewedge et al. (2014)
+
+### 11. Assam chemistry → darker black tea
+
+Higher catechin levels in *assamica* (about **25%–35%** dry weight) give more raw material for the dark pigments of black tea. Module 1’s plant table therefore helps explain why Assam-type leaves are such a natural fit for strong black-tea processing.
+
+**Citations:** Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000)
+
+---
+
+## Compact checklist
+
+| From → To | Plain connection | Citations |
+| --- | --- | --- |
+| L-theanine timing → calm brain waves | Peaks about **35–50 min**; alpha changes often **30–45 min** in | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |
+| Warm cup → trust-game sending | Warm (~**60°C**) cup; about **+24.8%** first-mover trust in cited work | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
+| Brew temperature → EGCG in the cup | Well below **80°C** tends to lower EGCG-to-caffeine ratio | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
+| Stress cortisol → risk taking | Softer loss aversion (λ around **1.62** in one caffeine study) under pressure | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
+| Brewing ritual → calmer heart rhythm | Higher HRV (about **+15.4 ms** on one index in an L-theanine task study) | Brooks et al. (2016); Lang et al. (2015); Kimura et al. (2007) |
+| L-theanine calming excitation → careful attention | Softened excess glutamate signaling; better sustained attention on hard tasks | Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008) |
+| Caffeine alertness → sweaty stress signal | About **+0.88 µS** skin conductance for caffeine alone in one comparison | Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008) |
+| Eisai’s “nourishes the heart” → vagal tone | 1211 phrase beside modern calming HRV tone findings | Eisai (1211); Sen (1998); Kimura et al. (2007) |
+| Alcohol’s slowing of the brain → living for now | Inhibitory signaling boost linked with strong present bias | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
+| Ritual calms anxiety → fairer bargaining reactions | Blunted error-alarm / lower anxiety discussed with less hyper-aggressive unfair-offer rejection | Hobson et al. (2017); Brooks et al. (2016); Morewedge et al. (2014) |
+| Assam chemistry → darker black tea | About **25%–35%** dry-weight catechins as raw material for dark pigments | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |

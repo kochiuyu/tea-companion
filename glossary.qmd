@@ -2,10 +2,55 @@
 title: "Glossary"
 ---
 
-Companion glossary. Terms only from owner-supplied verified materials.
+# Glossary
 
-| Technical Term | Definition | Primary Mapping |
+## How to use this glossary
+
+This page is a **dictionary for beginners**. When a module uses a technical word, look it up here for a one-sentence definition in everyday English. Module numbers point to where the term matters most.
+
+You do not need to memorize the whole table. Skim the “By module” list at the bottom when you start a new chapter. Ultra-niche lab constants and diffusion equations are left out on purpose; see the [Bibliography](bibliography.qmd) if you need the primary papers.
+
+## Story in one minute
+
+Science writing often packs five ideas into one word (for example “HPA axis”). This glossary unpacks those words so a smart high-school reader can keep going without a textbook.
+
+## Terms (simple definitions)
+
+| Term | Simple definition | Where it shows up |
 | --- | --- | --- |
-| Adenosine Receptors (A1 and A2A) | These G-protein coupled receptors bind endogenous adenosine to promote sleep and slow neuronal activity, and they serve as the primary targets for competitive antagonism by caffeine to sustain wakefulness. | Module 2, Branch 2.1 |
-| L-Theanine | A unique, non-protein amino acid synthesized in the roots of the tea plant that crosses the blood-brain barrier to act as a glutamate receptor antagonist and facilitate alpha wave production. | Module 1, Branch 1.4 |
-| Polyphenol Oxidase (PPO) | A copper-containing enzyme located within the cellular plastids of tea leaves that rapidly oxidizes monomeric catechins into unstable quinones upon cellular disruption. | Module 1, Branch 1.2 |
+| Adenosine receptors (A1, A2A) | Brain “slow down / sleep” sensors that caffeine blocks so you stay awake. | Module 2 |
+| Alpha brainwaves | Slower calm-focus brain rhythms (about 8–12 Hz), often linked with L-theanine. | Module 2 |
+| Anterior insular cortex | Brain area that handles both body temperature and feelings like trust or empathy. | Module 3 |
+| Balloon Analogue Risk Task (BART) | Computer game that measures risk-taking by how far people pump a virtual balloon. | Module 4 |
+| Beta brainwaves | Faster alert (or anxious) brain rhythms (about 12–30 Hz), often up with caffeine. | Module 2 |
+| *Camellia sinensis* var. *assamica* | Large-leaf, tropical tea type; often higher caffeine and stronger bitterness. | Module 1 |
+| *Camellia sinensis* var. *sinensis* | Small-leaf, cold-hardier China type; often richer in L-theanine and aroma. | Module 1 |
+| Canton System | Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment. | Module 3 |
+| *Chanyuan Qinggui* | Chan monastic rulebook (1103) that set formal tea routines for discipline and wakefulness. | Module 3 |
+| Dual-process theory | Idea that decisions use fast gut thinking (System 1) and slow careful thinking (System 2). | Module 4 |
+| EGCG | The standout catechin in green tea; a large share of green tea’s polyphenols. | Module 1 |
+| Embodied cognition | The claim that body feelings (like warmth) can shape social judgments. | Module 3 |
+| Error-related negativity (ERN) | A quick brain “oops” signal after mistakes; rituals can blunt it. | Module 3 |
+| Heart rate variability (HRV) | How much the time between heartbeats varies; higher often means calmer control. | Module 2 |
+| HPA axis | The body’s main stress-hormone loop (brain → pituitary → adrenals). | Module 2 |
+| Iowa Gambling Task (IGT) | Card game that tests learning from long-run gains and losses. | Module 4 |
+| *Kissa Yōjōki* | Eisai’s 1211 essay promoting tea for health and alertness. | Module 3 |
+| Loss-aversion coefficient (λ) | How much more painful losses feel than equal gains; above 1 means loss-averse. | Module 4 |
+| L-Theanine | A calming amino acid found in tea that supports relaxed focus. | Module 1 |
+| Polyphenol oxidase (PPO) | Leaf enzyme that darkens crushed tea by oxidizing catechins (key to black tea). | Module 1 |
+| Present-bias parameter | How strongly someone prefers rewards *now* over better rewards later. | Module 4 |
+| Skin conductance response (SCR) | Tiny sweat changes that track stress and arousal. | Module 2 |
+| Theaflavins | Bright golden-red pigments formed while black tea oxidizes. | Module 1 |
+| Thearubigins | Darker, larger pigments that give black tea body and color. | Module 1 |
+| Theta brainwaves | Slower drowsy rhythms (about 4–8 Hz), often up with fatigue or alcohol. | Module 2 |
+| Treaty of Nanking (1842) | Unequal treaty ending the First Opium War: indemnity, five ports, Hong Kong ceded. | Module 3 |
+
+## By module
+
+**Module 1 — leaf and cup:** *assamica*, *sinensis*, EGCG, L-theanine, PPO, theaflavins, thearubigins  
+
+**Module 2 — body and mind:** adenosine receptors, alpha / beta / theta waves, HRV, HPA axis, skin conductance  
+
+**Module 3 — history and ritual:** Canton System, *Chanyuan Qinggui*, embodied cognition, ERN, insular cortex, *Kissa Yōjōki*, Treaty of Nanking  
+
+**Module 4 — decisions:** BART, dual-process theory, IGT, loss-aversion coefficient, present-bias parameter  

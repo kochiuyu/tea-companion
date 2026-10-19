@@ -1,14 +1,177 @@
 ---
-title: "4. Dual-Process Decision Dynamics"
+title: "4. Decisions & Choices"
 ---
 
-# 4. Dual-Process Decision Dynamics
+# 4. Decisions & Choices
 
-## 4.1 Dual-Process Dynamics & Cognitive Effort
+## Story in one minute
 
-| Cognitive Metric | System 1 (Heuristic / Reactive) | System 2 (Analytical / Deliberative) | Theoretical Grounding |
+Drinks do not flip a magic “smart switch.” They can **nudge** how fast you answer, how much risk you take, how much you care about tomorrow, and how trusting you are in a first move. Psychologists talk about fast gut thinking versus slow careful thinking. Economists and psychologists use lab games (balloons, trust games, ultimatum offers) to measure those nudges. Real life still depends on stakes and setting—and a lab dose is not the same as your everyday mug.
+
+::: {.callout-tip title="Words to know (Module 4)"}
+- **System 1 / System 2** — fast automatic thinking vs slow careful thinking (dual-process idea).
+- **Loss aversion** — feeling losses more strongly than equal gains (summarized with a number λ; if λ > 1, losses weigh more).
+- **Present bias** — preferring a smaller reward *now* over a larger one later.
+- **Trust Game / Ultimatum / Prisoner’s Dilemma** — classic lab games about sending money, splitting offers, and cooperating.
+- **BART** — Balloon Analogue Risk Task; how far people pump a virtual balloon.
+- **Washout** — a period before a study when people avoid caffeine, alcohol, etc., so the test is cleaner.
+:::
+
+## What this means for a decision-maker
+
+Treat study findings as **careful hints**, not life rules. The packs show patterns for tea, high-caffeine coffee stress, and alcohol—in isolated lab conditions. Stake size, habit, and social setting all matter outside the lab.
+
+---
+
+## 4.1 Fast thinking vs careful thinking
+
+### What is going on
+
+Psychologists often talk about two modes (Kahneman & Tversky’s dual-process idea):
+
+- **System 1** — fast, automatic, low effort.  
+- **System 2** — slow, careful, effortful.
+
+Tea patterns in these packs are described as helping keep impulsive reactions in check, with L-theanine + caffeine synergy linked with longer careful focus (Owen et al., 2008). Coffee under stress can push rapid shortcuts; it may help simple arithmetic but can suffer on complex reflective tasks (Rogers et al., 2013). Alcohol makes System 1 dominant and careful control drops sharply (Steele & Josephs, 1990).
+
+### Everyday example
+
+System 1 is blurting an answer in a quiz show. System 2 is checking your work on a hard homework problem. Caffeine can speed the blurting; under time pressure or anxiety it can hurt the careful check. L-theanine + caffeine is studied for sustained attention—not for deleting every bias.
+
+### Pack table
+
+| Metric | System 1 | System 2 | Source frame |
 | --- | --- | --- | --- |
-| Processing Speed | Fast, automatic, low metabolic demand. | Slow, effortful, high glucose and metabolic demand. | Kahneman (2011) |
-| Tea Modulation | Highly stable. Maintains executive control over impulsive reactions. | Strongly Up-Regulated. High L-theanine/caffeine synergy sustains System 2 processing for extended periods. | Owen et al. (2008) |
-| Coffee Modulation | Up-Regulated under stress. Spikes in beta-waves and cortisol shift processing toward rapid, intuitive shortcuts. | Temporarily enhanced for simple mathematical operations; degrades under high-complexity logical tasks. | Rogers et al. (2013) |
-| Alcohol Modulation | Dominant. Prefrontal cortex inhibition completely shuts down System 2 control networks. | Profoundly Down-Regulated. Impairs deductive and analytical capability. | Steele & Josephs (1990) |
+| Speed / effort | Fast, low metabolic cost | Slow, costly | Kahneman (2011) |
+| Tea pattern in these packs | Helps keep impulsive reactions in check | L-theanine + caffeine synergy linked with longer careful focus | Owen et al. (2008) |
+| Coffee pattern | Under stress, can push rapid shortcuts | May help simple arithmetic; can suffer on complex reflective tasks | Rogers et al. (2013) |
+| Alcohol pattern | Becomes dominant | Careful control drops sharply | Steele & Josephs (1990) |
+
+### Study snapshots
+
+| Task | Condition | Finding | Source |
+| --- | --- | --- | --- |
+| Cognitive Reflection Test | 200 mg caffeine vs placebo (N = 78) | Impulsive errors up about **14.2%** | Brunyé et al. (2012) |
+| Rapid Visual Information Processing | 100 mg L-theanine + 50 mg caffeine (N = 24) | Hits up about **+8.6%**; false alarms down about **−12.1%** | Haskell et al. (2008) |
+| Stroop interference | 200 mg L-theanine (N = 48) | Interference cost down about **28.4 ± 6.1 ms** | Higashiyama et al. (2011) |
+
+### What this means when you make a choice
+
+Dual-process work treats this as a **spectrum of effort**, not a binary drink switch. Do not read the table as “coffee = dumb, tea = wise.”
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** “Coffee = System 1, tea = System 2.”  
+
+**What the sources say:** Too neat. Dual-process work treats this as a **spectrum of effort**, not a binary drink switch. Caffeine speeds basic responding; under time pressure or anxiety it can hurt hard reflective tasks. L-theanine + caffeine helps sustained attention, but bias reduction (anchoring, framing) still depends on the task and the person.
+:::
+
+---
+
+## 4.2 Risk and waiting for rewards
+
+### What is going on
+
+Two plain ideas:
+
+- **Loss aversion:** most people feel losses more strongly than equal gains. Researchers summarize that with a number λ; if λ > 1, losses weigh more.  
+- **Present bias:** people often prefer a smaller reward *now* over a larger one later. Strong present bias means “tomorrow counts for less.”
+
+How the packs describe drink states (qualitative, not a prescription):
+
+| State | Loss sensitivity (λ idea) | Waiting for future rewards |
+| --- | --- | --- |
+| Tea (described pattern) | Often stays in a balanced range (about **1.8–2.5** in the narrative framing) | More patience; present bias closer to stable |
+| High-caffeine / high-cortisol coffee pattern | Can soften loss aversion → more aggressive risk seeking under stress | Mixed; depends on context |
+| Alcohol | Loss sensitivity can collapse (“alcohol myopia”) | Strong present bias; future costs fade |
+
+### Everyday example
+
+Loss aversion: losing $10 often stings more than finding $10 feels good. Present bias: “one cookie now” beats “two cookies tomorrow” for many people—especially when alcohol makes tomorrow fade.
+
+### Lab snapshots (isolated doses, not “your mug at work”)
+
+| Task | Condition | Finding | Source |
+| --- | --- | --- | --- |
+| Balloon risk task (BART) | Alcohol ~0.08% BrAC (N = 64) | Mean adjusted pumps **38.6** vs **31.2** placebo | Lejuez et al. (2002) |
+| Delay discounting | Alcohol ~0.06% BAC (N = 40) | Discount parameter *k* **0.018 → 0.042** per day | Reynolds et al. (2006) |
+| Loss aversion λ | 200 mg caffeine in trading simulation (N = 52) | λ **2.15 → 1.62** | Rogers et al. (2013) |
+
+Full Prospect Theory and hyperbolic-discounting equations are skipped here; the idea is the same in words. See the Bibliography for formal papers.
+
+### What this means when you make a choice
+
+Pure caffeine or ethanol in the lab can shift discounting or loss aversion. Jumping from that to “one green tea makes you a patient investor” overstates the evidence.
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** “One green tea makes you a patient investor.”  
+
+**What the sources say:** Pure caffeine or ethanol in the lab can shift discounting or loss aversion. Jumping from that to everyday beverages overstates the evidence. Stake size, income, habit, and social setting all confound real choices.
+:::
+
+---
+
+## 4.3 Trust, fairness, and simple games
+
+### What is going on
+
+These are classic lab games. “Nash” here just means the cold, self-interested prediction—not what people always do.
+
+| Game | Cold prediction | Tea / warmth pattern in packs | Alcohol pattern in packs | Anchors |
+| --- | --- | --- | --- | --- |
+| Ultimatum | Tiny offers; accept anything above zero | Offers nearer fair **40%–50%** splits | More rejection of unfair offers (≤ about 30%) | Güth et al. (1982); Morewedge et al. (2014) |
+| Prisoner’s Dilemma | Both defect | More mutual cooperation | Volatile defection or sloppy play | Axelrod (1984) |
+| Trust Game | Send nothing; return nothing | Higher first sends and more reciprocity | High sends with higher betrayal risk | Berg et al. (1995) |
+
+### Everyday example
+
+Ultimatum: someone offers you a split of $10; if you reject, both get nothing. Cold theory says accept $1; many people reject unfair splits. Trust Game: you send money that grows; the other person decides how much to return. Opening trust is not the same as forever trust.
+
+### Snapshots
+
+| Game | Result | Source |
+| --- | --- | --- |
+| Ultimatum, alcohol ~0.06% BAC (N = 92) | Unfair-offer (≤20%) rejection **82.4%** vs **58.1%** placebo | Morewedge et al. (2014) |
+| Trust Game, warm 60°C mug (N = 60) | First-mover investment about **+24.8%** | Kang et al. (2011) |
+| Iterated Dilemma, warm drink (N = 80 dyads) | Mutual cooperation rounds 1–10: **62.5%** vs **47.2%** control | Inagaki & Eisenberger (2013) |
+
+### What this means when you make a choice
+
+Warmth and ritual can lift **opening** trust (about **+15% to +25%** in cited work). If the other side defects in later rounds, cooperation often collapses. Incentives still dominate over a long game.
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** “Serve tea and the negotiation becomes win–win forever.”  
+
+**What the sources say:** Warmth and ritual can lift **opening** trust (about **+15% to +25%** in cited work). If the other side defects in later rounds, cooperation often collapses. Incentives still dominate over a long game.
+:::
+
+---
+
+## 4.4 How careful studies are usually run
+
+### What is going on
+
+If you read a headline—“tea improves decisions!”—ask how the trial was built. Good trials try to separate the drug effect from expectation, temperature, and bitter taste.
+
+Common standards in the packs:
+
+- **Exclude** people with major sleep or heart disease, or very high daily caffeine (over about **400 mg/day**).  
+- **Washout:** no coffee, tea, energy drinks, chocolate, or alcohol for at least **48 hours** (sometimes **72** for heavy users).  
+- **Same cup experience:** **250 mL**, opaque insulated mug, about **60°C ± 2°C**, bitterness matched (e.g. tiny quinine in placebo).  
+- **Timing:** start cognitive tests about **+40 minutes** after drinking—near typical peak timing for oral L-theanine (**35–50 min**) and caffeine (**30–60 min**).  
+- **Tasks:** tools such as the Balloon Analogue Risk Task (BART) and Iowa Gambling Task (IGT).  
+
+Example active dose used in matched designs: **200 mg L-theanine + 100 mg caffeine** vs sensory-matched placebo (Rogers et al., 2008).
+
+### Everyday example
+
+If one group gets hot, bitter, fragrant tea and the other gets plain lukewarm water, you may be measuring “this feels like tea” as much as chemistry. That is why packs stress opaque mugs, matched bitterness, and washout days.
+
+### What this means if you read a headline
+
+Decaf tea is **not** a perfect placebo: it still has trace caffeine (about **2–5 mg**) and leftover polyphenols. Matching astringency and umami without changing smell or look is hard.
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** “Decaf tea is a perfect placebo.”  
+
+**What the sources say:** Decaf still has trace caffeine (about **2–5 mg**) and leftover polyphenols. Matching astringency and umami without changing smell or look is hard. Without opaque, taste-matched delivery, studies may measure expectation as much as pharmacology.
+:::

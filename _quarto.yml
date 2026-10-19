@@ -25,13 +25,13 @@ website:
         menu:
           - text: Modules overview
             href: modules/index.qmd
-          - text: Module 1
+          - text: "1. The Chemical Core"
             href: modules/module-01.qmd
-          - text: Module 2
+          - text: "2. Body, Brain & Mood"
             href: modules/module-02.qmd
-          - text: Module 3
+          - text: "3. History, Ritual & Warmth"
             href: modules/module-03.qmd
-          - text: Module 4
+          - text: "4. Decisions & Choices"
             href: modules/module-04.qmd
       - text: Cup reference
         href: cup-reference.qmd

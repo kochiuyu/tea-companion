@@ -2,10 +2,41 @@
 title: "Cup reference"
 ---
 
-Standard cup reference table from owner-supplied verified materials only.
+# What’s in a standard cup (250 mL)
 
-| Compound | Tea Type | Typical Yield Range | Brewing Conditions | Primary Citation |
+## Story in one minute
+
+When people say “a cup of tea,” they often mean very different strengths. This page standardizes on a **250 mL** cup and lists typical lab and consumer-brew ranges from the source packs. Use it as a **map**, not a promise about your exact mug.
+
+## What is going on
+
+Leaf quality, brand, and steep time move the numbers. Green and black tea also differ because of processing (see [Module 1](modules/module-01.qmd)): many catechins stay simple in green tea; in black tea many are linked into darker pigments, so EGCG and total catechins in the cup are usually much lower.
+
+The table uses a common everyday baseline: **2 g dry leaf per 250 mL** (one bag or a modest spoonful). Formal tasting (ISO 3103) uses about **2 g per 100 mL** (about **5 g per 250 mL**)—stronger than many home cups.
+
+## What this means when you drink tea
+
+If your green tea tastes mild, you may be below these ranges. If your black tea keeps you up, you may be toward the high end of caffeine (about **40–80 mg** in these sources for the black-tea row). Compare cups using the same volume when you can.
+
+## Typical yields (packs)
+
+| Compound | Tea type | Typical yield | Usual brew in these sources | Citation |
 | --- | --- | --- | --- | --- |
-| Caffeine | Green Tea | 30 mg – 50 mg | Loose-leaf green tea; 2 g dry weight; infused in 250 mL water at 80 °C for 3 minutes. | Chin et al. (2008) |
-| Caffeine | Black Tea | 40 mg – 80 mg | Loose-leaf black tea; 2 g dry weight; infused in 250 mL water at 100 °C for 3–5 minutes. | Hicks et al. (1996) |
-| L-Theanine | Green Tea | 15 mg – 30 mg | Premium green tea; 2 g dry weight; infused in 250 mL water at 80 °C for 3 minutes. | Keenan et al. (2011) |
+| Caffeine | Green | **30–50 mg** | 2 g leaf, 250 mL, 80°C, 3 min | Chin et al. (2008) |
+| Caffeine | Black | **40–80 mg** | 2 g leaf, 250 mL, 100°C, 3–5 min | Hicks et al. (1996) |
+| L-Theanine | Green | **15–30 mg** (shaded Gyokuro or Matcha often **45–80 mg**) | 2 g, 250 mL, 80°C, 3 min | Keenan et al. (2011) |
+| L-Theanine | Black | **10–25 mg** | 2 g, 250 mL, 100°C, 3–5 min | Keenan et al. (2011) |
+| EGCG | Green | **50–120 mg** | 2 g, 250 mL, 80°C, 3 min | Perva-Uzunalić et al. (2006) |
+| EGCG | Black | **1–10 mg** (most converted during oxidation) | 2 g, 250 mL, 100°C, 3–5 min | Del Rio et al. (2004) |
+| Total catechins | Green | **100–300 mg** | 2 g, 250 mL, 80°C, 3 min | Bhagwat et al. (2011) |
+| Total catechins | Black | **10–50 mg** (many linked into darker pigments) | 2 g, 250 mL, 100°C, 5 min | Lakenbrink et al. (2000) |
+
+## Practical notes (still from the packs)
+
+**Water temperature.** Hotter water pulls more catechins. Steeping green tea at **100°C** instead of **80°C** can raise total catechin yield by about **25%**, but it also pulls more bitter material and can hurt taste.
+
+**Why 250 mL?** Papers often use 200 mL or 250 mL. This site standardizes on **250 mL** so comparisons stay consistent.
+
+**Leaf amount.** Formal tasting (ISO 3103) uses about **2 g per 100 mL** (about **5 g per 250 mL**). The table above uses a common everyday baseline: **2 g dry leaf per 250 mL** cup (one bag or modest spoonful).
+
+**Beginner tip.** When you read Module 2 study doses like “200 mg L-theanine,” compare them to this table: a typical green cup here is about **15–30 mg** L-theanine (shaded Gyokuro or Matcha often **45–80 mg**). Lab capsules are often much stronger than one ordinary mug.

@@ -1,14 +1,164 @@
 ---
-title: "3. Geopolitics, Ritual & Embodied Cognition"
+title: "3. History, Ritual & Warmth"
 ---
 
-# 3. Geopolitics, Ritual & Embodied Cognition
+# 3. History, Ritual & Warmth
 
-## 3.1 Geopolitics & Macro-History: Global Trade & Corporate Sovereignty
+## Story in one minute
 
-| Geopolitical Era | Sovereign Actors | Core Economic Mechanism | Macro-Decision Output | Historical Provenance |
+Tea is not only chemistry in a cup. It remade **trade balances** between China and Britain. It became a **monastic focus aid** in Chan/Zen practice. Even holding a **warm mug** shows up in psychology experiments on trust. And a short, familiar **brewing sequence**—measure leaves, watch the water, wait—can act as a practical stress break under pressure.
+
+::: {.callout-tip title="Words to know (Module 3)"}
+- **Canton System** — Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment.
+- **Opium Wars** — conflicts (1839–1860) that forced trade openings after the silver–tea–opium crisis.
+- **Chado** — Japan’s highly ritualized “way of tea.”
+- **Anterior insular cortex** — brain area that handles both body temperature and feelings like trust or empathy.
+- **Embodied cognition** — the claim that body feelings (like warmth) can shape social judgments.
+- **Error-related negativity (ERN)** — a quick brain “oops” signal after mistakes; rituals can blunt it.
+:::
+
+## What this means when you drink tea or make a choice
+
+The leaf in your cup sits at the end of a long human story: money, empire, monasteries, and everyday ritual. Warmth and routine are not magic—but in the packs’ studies they can nudge trust and anxiety in measurable ways.
+
+---
+
+## 3.1 Trade, empire, and who controlled the leaf
+
+### What is going on
+
+In the Canton System era (1757–1842), Western buyers paid for Chinese tea largely in **silver**. That drained Western silver and created a trade deficit. The East India Company turned to **opium** smuggling into China to rebalance trade. The Opium Wars and unequal treaties opened ports; Hong Kong was ceded. Britain then pushed tea growing in its own colonies. Robert Fortune’s 1848 mission moved Chinese plants, seeds, and processing know-how toward British-run Indian plantations. By the late 19th century, large estates in Assam and Darjeeling helped break China’s global monopoly and made tea a cheap mass commodity.
+
+### Everyday example
+
+Imagine one shop is the only place that sells a drink everyone wants, and customers must pay in rare coins. Eventually buyers look for other farms—and sometimes use force and politics to change the rules. That is the rough shape of the tea–silver–opium story in the packs (with real dates and figures below).
+
+### Pack table (who and what)
+
+| Era | Who | Core story | Outcome | Source |
 | --- | --- | --- | --- | --- |
-| Canton System (1757–1842) | Qing Dynasty vs. British Empire / East India Company (EIC) | Silver-Tea Asymmetry: Western nations settled all tea purchases in physical silver bullion (Ag), depleting Western silver reserves and creating a massive trade deficit. | Driven by the need to balance trade, the EIC initiated systemic illegal smuggling of opium into China, destabilizing Qing currency and public health. | Farooqui, A. (2005) |
-| Opium Wars Era (1839–1860) | British Empire, Qing Dynasty, East India Company | Military Force & Treaty Ports: The British used military force to compel China to accept opium imports and open trade. Treaties of Nanking and Tianjin ceded Hong Kong and opened five ports. | Permanent alteration of regional sovereignty. To secure direct access to tea without relying on China, the British established tea production in their own colonies. | Lovell, J. (2011) |
-| Corporate Espionage (1848) | Royal Botanic Gardens (Kew), EIC, Robert Fortune | Industrial & Botanical Theft: Botanist Robert Fortune disguised himself to infiltrate interior China, stealing Camellia sinensis seeds, plants, and processing secrets. | Successfully bypassed China’s strict trade secrets and transferred the entire tea manufacturing process to British-controlled India. | Brockway, L. H. (1979) |
-| Colonial Industrialization (Late 19th c.) | British Raj (Assam & Darjeeling) | Large-Scale Plantations: The EIC cleared massive, state-conceded lands in India, establishing highly structured, industrial tea plantations using local labor. | Broke the global Chinese tea monopoly, transforming tea from a rare, expensive luxury into a cheap, mass-market global commodity. | Sharma, J. (2011) |
+| Canton System (1757–1842) | Qing China vs Britain / East India Company | Western buyers paid for Chinese tea largely in silver, draining Western silver and creating a trade deficit | Company turned to opium smuggling into China to rebalance trade | Farooqui (2005) |
+| Opium Wars (1839–1860) | Britain, Qing, Company | Force and treaties opened ports; Hong Kong ceded | Britain pushed tea growing in its own colonies to reduce dependence on China | Lovell (2011) |
+| Corporate espionage (1848) | Kew, Company, Robert Fortune | Fortune entered interior China for plants, seed, and processing know-how | Chinese processing knowledge moved to British-run Indian plantations | Brockway (1979) |
+| Late 19th c. plantations | British Raj (Assam, Darjeeling) | Large industrial estates on conceded land | Global Chinese monopoly broken; tea became a cheap mass commodity | Sharma (2011) |
+
+### Key numbers from the packs
+
+| Fact | Figure | Context | Source |
+| --- | --- | --- | --- |
+| British Company silver to Canton, 1710–1759 | About **£26.5 million** in silver | Over **90%** of Company outbound export value to China in that window | Pritchard (1936) |
+| Opium chests to China | **4,244** (1820) → **40,200** (1839); about **133 lb** per chest | Helped reverse the trade balance; China silver outflow about **$34 million** (1831–1838) | Morse (1926) |
+| Treaty of Nanking (1842) | **$21 million** indemnity; **5** treaty ports; Hong Kong Island ceded | Breakdown: $6M opium, $3M merchant debts, $12M military costs | Treaty text (1842/1843) |
+
+### What this means for a reader
+
+Your supermarket tea bag exists partly because empire, botany, and industrial plantations broke an older monopoly. That is history—not a chemistry claim.
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** “Robert Fortune first brought tea to India in 1848.”  
+
+**What the sources say:** Wild Assam tea was already identified in **1823** (Robert Bruce) and validated in **1834** (Wallich). Fortune’s real contribution was Chinese *sinensis* cultivars, skilled Chinese tea masters, and small-scale processing know-how—not inventing Indian tea from scratch.
+:::
+
+---
+
+## 3.2 From medicine to monastery to tea room
+
+### What is going on
+
+The packs describe a pathway in plain words: medicinal drink (Han) → focus aid in Chan/Zen monasteries (Tang/Song) → highly ritualized social practice (Japan’s *chado*).
+
+1. **Han & Tang (about 206 BC–907 AD).** Early tea was often a bitter soup with salt, ginger, peel, scallions. Medical texts such as the *Shennong Ben Cao Jing* list it for food poisoning, liver tonic use, and clearing “brain fog.”  
+2. **Tang & Song monasteries (about 618–1279).** Chan monks used tea to stay awake in long meditation without relying on harsher stimulants.  
+3. **Japan from Eisai onward (from 1191).** Eisai promoted tea; later tea rooms used *ichigo ichie* (“one time, one meeting”). Status was leveled on the tatami—useful for serious talks.
+
+### Everyday example
+
+First tea is “medicine soup.” Later it is “stay awake for long practice.” Still later it is “a shared room with rules that make everyone equal for a while.” Same leaf family, different human jobs.
+
+### Documented anchors from the packs
+
+| When | Text / practice | What it did | Source |
+| --- | --- | --- | --- |
+| 1103 | *Chanyuan Qinggui* (Chan monastic code) | Formal communal tea before dawn practice; seating and bowl rules | Yifa (2002) |
+| 1211 | Eisai’s *Kissa Yōjōki* | Tea as nourishment; bitter flavor said to nourish the heart and curb lethargy | Eisai (1211); Sen (1998) |
+| About 760 | Lu Yu’s *Cha Jing* | Three boils by bubble look: “fish eyes,” “pearls,” “billowing waves” | Lu Yu; Carpenter (1974) |
+
+### What this means when you drink tea
+
+Ritual and focus uses of tea are old. Modern “calm alertness” talk sits beside a long cultural history—not instead of it.
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** Bodhidharma’s eyelids grew into tea bushes.  
+
+**What the sources say:** Popular folklore, not early Chan history. The story is missing from early Chinese Chan collections (for example the *Records of the Transmission of the Lamp*, 1004). It shows up much later in Jesuit travel writing and late-Edo Japanese popular books.
+:::
+
+---
+
+## 3.3 Warm cups and feelings of trust
+
+### What is going on
+
+Holding something warm can bias how “warm” or trustworthy another person feels. The brain region often discussed is the **anterior insular cortex**, which handles both physical temperature and social feelings. Effects on real choices are real in some studies—but not magic, and not always easy to replicate.
+
+| Condition | Stimulus | Typical behavioral skew in cited work | Source |
+| --- | --- | --- | --- |
+| Warm prime | Warm insulated cup about **55°C–65°C** | Partners rated warmer/more trustworthy; more cooperation in some dilemmas | Williams & Bargh (2008) |
+| Cold prime | Iced cup about **0°C–5°C** | Partners framed as colder/distant; less sharing | Inagaki & Eisenberger (2013) |
+
+### Everyday example
+
+You meet someone while holding a cozy mug versus an icy can. In some lab setups, that body feeling spills into how “warm” the person seems. That is the embodied-cognition idea in everyday clothes.
+
+### Study snapshots (packs)
+
+- Warm vs cold mug: personality “warmth” ratings about **5.63** vs **4.04** on a 1–7 scale (Williams & Bargh, 2008).  
+- Gift choice: warm prime **54%** chose a gift for a friend; cold prime **75%** chose for self (same paper).  
+- Trust Game: warm mug (~60°C) raised first-mover investment about **+24.8%** vs cold pad (Kang et al., 2011).  
+
+### What this means when you drink tea or make a choice
+
+A warm cup can nudge first impressions and opening trust in cited work. It does not guarantee generosity forever, and one famous behavioral result did not copy cleanly in a large replication.
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** “Warm mug always makes people generous.”  
+
+**What the sources say:** Williams & Bargh (2008) reported a very large effect. A large preregistered replication (Lynott et al., 2014) failed to copy the pure behavioral choice result. Overlap between physical warmth and social bonding in the insula looks more robust; outward behavior depends on person and setting.
+:::
+
+---
+
+## 3.4 The brewing break as a stress reset
+
+### What is going on
+
+A short, familiar sequence—measure leaves, watch the water, wait—gives the mind something concrete to do. That can cut anxious looping, calm the body a bit, and leave you clearer for the next hard task.
+
+What the packs emphasize:
+
+- **Attention anchor:** ritual steps interrupt circular worry.  
+- **Calmer body:** familiar ritual can lower heart rate and skin stress signals and raise HRV (calmer autonomic balance).  
+- **Mental stamina:** a brief step back from hard analysis can reduce fatigue before you return to the problem.
+
+### Everyday example
+
+Before a hard exam or tough meeting, you do the same three steps every time: boil, steep, sip. Your hands know the script. That predictability is the point in these sources—not “empty mysticism.”
+
+### Study snapshots
+
+| Measure | Finding | Source |
+| --- | --- | --- |
+| Pre-task anxiety (STAI) | Ritual about **34.6** vs random actions about **42.8** | Brooks et al. (2016) |
+| Heart rate under stress | About **−4.3 bpm** with scripted sequence | Lang et al. (2015) |
+| Error-related brain alarm (ERN) | Amplitude down about **1.85 µV** in high-ritual group | Hobson et al. (2017) |
+
+### What this means under pressure
+
+Ritual here is about **fixed, predictable steps**. That can blunt the brain’s error-alarm response and lower anxiety that way—not only by “being present” in the mindfulness sense.
+
+::: {.callout-note title="Common myth vs what the sources say"}
+**Myth:** “Tea ritual = mindfulness.”  
+
+**What the sources say:** Mindfulness is open awareness. Ritual, in these sources, is more about **fixed, predictable steps**. Predictability can blunt the brain’s error-alarm response and lower anxiety that way—not only by “being present.”
+:::
