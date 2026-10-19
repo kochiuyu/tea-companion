@@ -1,6 +1,8 @@
 ---
 title: "Cup reference"
 ---
+{{< include _includes/lang-switcher/cup-reference.en.qmd >}}
+
 
 Before Chapter 1 talks about plants and processing, and before Chapter 2 talks about how you *feel*, it helps to know what "a cup" even means. People say the phrase casually. Labs and home kitchens mean very different strengths. If the *words on the box* still feel disconnected from the chemistry, skim [Tea basics](tea-basics.qmd) first (aisle labels → processing paths), then come back here for milligrams.
 

@@ -1,0 +1,82 @@
+---
+title: "杯量參考"
+lang: zh-Hant-HK
+---
+
+{{< include ../_includes/lang-switcher/cup-reference.zh-hant-hk.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd)
+:::
+
+::: {.callout-important}
+**以下單元暫以英文提供：** [模組一 · 沖泡](../modules/module-01/03-brewing.qmd)、[化合物](../modules/module-01/04-compounds.qmd)、[模組總覽](../modules/index.qmd)。
+:::
+
+在模組一談植物與加工、模組二談你*感覺*如何之前，先搞清楚「一杯」到底指甚麼，很有幫助。口語裡人人都說這句話；實驗室與家用廚房的濃度卻可以差很遠。若*盒子上的字*仍覺得跟化學對不上，先掃一眼 [茶葉入門](tea-basics.qmd)（貨架標籤 → 加工路徑），再回到這裡看毫克數。
+
+本頁統一以 **250 mL** 為一杯，並列出資料包裡典型的實驗室與家用沖泡範圍。請把它當**地圖**，不是對你那一杯的保證。當某模組提到「200 mg L-茶胺酸」時，回來這裡對照：那種實驗室膠囊往往比平常一杯濃很多。點腳註標記可跳到來源（再點箭嘴跳回）。滑鼠懸停常會彈出摘要。
+
+## 為甚麼數字會變動
+
+茶葉品質、品牌與浸泡時間都會推動數字。綠茶與紅茶也因加工而不同（見 [模組一 · 沖泡](../modules/module-01/03-brewing.qmd) 與 [化合物](../modules/module-01/04-compounds.qmd)，英文）：許多兒茶素在綠茶裡仍較「簡單」；在紅茶裡許多連成較深色的色素，因此杯中的 EGCG 與總兒茶素通常低得多 [^1][^2]。
+
+下表採用常見家用基準：**每 250 mL 約 2 g 乾葉**（一包茶包或一小匙）。正式品評（ISO 3103）約用 **每 100 mL 2 g**（約等於 **每 250 mL 5 g**）——比許多家用杯更濃。
+
+若你的綠茶味道偏淡，可能低於這些範圍。若紅茶讓你睡不着，咖啡因可能靠近高位（本資料中紅茶列約 **40–80 mg**）。比較時盡量用同一容量。
+
+## 典型溶出量（資料包）
+
+| 化合物 | 茶類 | 典型溶出量 | 本資料常見沖泡 | 出處 |
+| --- | --- | --- | --- | --- |
+| 咖啡因 | 綠茶 | **30–50 mg** | 2 g 葉，250 mL，80°C，3 分鐘 | Chin et al. (2008) [^3] |
+| 咖啡因 | 紅茶 | **40–80 mg** | 2 g 葉，250 mL，100°C，3–5 分鐘 | Hicks et al. (1996) [^4] |
+| L-茶胺酸 | 綠茶 | **15–30 mg**（遮蔭的玉露或抹茶常達 **45–80 mg**） | 2 g，250 mL，80°C，3 分鐘 | Keenan et al. (2011) [^5] |
+| L-茶胺酸 | 紅茶 | **10–25 mg** | 2 g，250 mL，100°C，3–5 分鐘 | Keenan et al. (2011) [^5] |
+| EGCG | 綠茶 | **50–120 mg** | 2 g，250 mL，80°C，3 分鐘 | Perva-Uzunalić et al. (2006) [^1] |
+| EGCG | 紅茶 | **1–10 mg**（氧化過程中大多已轉化） | 2 g，250 mL，100°C，3–5 分鐘 | Del Rio et al. (2004) [^2] |
+| 總兒茶素 | 綠茶 | **100–300 mg** | 2 g，250 mL，80°C，3 分鐘 | Bhagwat et al. / USDA flavonoid database [^6] |
+| 總兒茶素 | 紅茶 | **10–50 mg**（許多已連成較深色素） | 2 g，250 mL，100°C，5 分鐘 | Lakenbrink et al. (2000) [^7] |
+
+Keenan 團隊在真實 200 mL 杯、浸泡兩分鐘後量度過 L-茶胺酸，發現浸泡時間是最大旋鈕——該樣本中普通紅茶常落在約 **24 mg**，部分綠茶平均更低 [^5]。上表範圍把這些發現與其他家用沖泡筆記併在一起，方便以 250 mL 家用杯互相比較。
+
+::: {.callout-note title="茶與咖啡的咖啡因（定性）"}
+在本站，上表中日常**茶**杯的咖啡因落在**數十毫克**（綠茶／紅茶列約 **30–80 mg**）。一大杯**咖啡**通常被描述為比這些茶列更強的咖啡因衝擊——因此模組二可以說茶往往是「比大杯咖啡少一點咖啡因」，再加上咖啡沒有的第二種化合物。<!-- pack-silent: no coffee mg column -->
+咖啡的確切毫克數在此**資料包未列**；我們不發明咖啡欄。請把茶的數字對照上表，而不是未核實的咖啡店估計。
+:::
+
+## 實用筆記（仍來自資料包）
+
+**水溫。** 較熱水會抽出更多兒茶素。把綠茶從 **80°C** 改成 **100°C** 浸泡，總兒茶素產量可提高約 **25%**，但也會帶出更多苦味，可能損及口感 [^1]。這與模組一談 EGCG 需要熱量時的同一條沖泡溫度線索。
+
+**為甚麼是 250 mL？** 論文常用 200 mL 或 250 mL。本站統一 **250 mL**，方便比較。
+
+**葉量。** 正式品評（ISO 3103）約 **每 100 mL 2 g**（約 **每 250 mL 5 g**）。上表用常見家用基準：**每 250 mL 杯約 2 g 乾葉**（一包茶包或一小匙）。
+
+**初學者提示。** 當你讀到模組二研究劑量如「200 mg L-茶胺酸」時，對照本表：這裡典型綠茶杯約 **15–30 mg** L-茶胺酸（遮蔭玉露或抹茶常 **45–80 mg**）。實驗室膠囊往往比平常一杯濃很多。
+
+::: {.callout-note collapse="true" title="更多詳情：為甚麼實驗室杯與家用杯對不上"}
+**ISO 3103:2019** 正式感官製備約用 **每 100 mL 新鮮沸水配 2 g 茶**（約 **每 250 mL 5 g**）——紅茶浸泡約 **6 分鐘**，綠茶視葉級約 **3–5 分鐘**。[^8] 許多家用杯較接近 **每 250 mL 2 g**。單是這個差異，在品牌還沒登場前，就能大幅移動咖啡因與茶胺酸溶出量。
+
+Keenan 團隊在真實 **200 mL** 杯、**兩分鐘**浸泡後量度過 L-茶胺酸，發現浸泡時間是最大旋鈕——該設計中普通紅茶常近 **24 mg** L-茶胺酸。[^5] 表中資料包範圍把這些發現與其他家用筆記併成 **250 mL** 日常基準。
+
+當模組二說「**200 mg** L-茶胺酸」時，對照本頁：典型綠茶杯約 **15–30 mg**（遮蔭玉露／抹茶常 **45–80 mg**）。實驗室膠囊往往比平常一杯濃很多。
+:::
+
+從這裡，自然下一步是 [模組一入口](../modules/module-01/index.qmd)（英文）——那些數字一開始如何進到水裡。仍搞不清 *sencha* 與 *English Breakfast*？打開 [茶葉入門](tea-basics.qmd)。
+
+[^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
+
+[^2]: Del Rio, D., et al. (2004). HPLC-MSⁿ analysis of phenolic compounds and purine alkaloids in green and black tea. *Journal of Agricultural and Food Chemistry, 52*(10), 2807–2815. (Pack-cited for EGCG in black tea.)
+
+[^3]: Chin, J. M., et al. (2008). Caffeine content of brewed teas. *Journal of Analytical Toxicology, 32*(8), 702–704.
+
+[^4]: Hicks, M. B., et al. (1996). Tea preparation and its influence on methylxanthine concentration. *Food Chemistry, 56*(4), 425–428. (Pack-cited for black-tea caffeine.)
+
+[^5]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
+
+[^6]: Bhagwat, S., et al. (2011 / USDA releases). *USDA Database for the Flavonoid Content of Selected Foods*. https://www.ars.usda.gov/ARSUserFiles/80400525/Data/Flav/Flav3.3.pdf
+
+[^7]: Lakenbrink, C., et al. (2000). Flavonoids and other polyphenols in consumer brews of tea and other caffeinated beverages. *Journal of Agricultural and Food Chemistry, 48*(7), 2575–2582. (Pack-cited for black-tea catechins.)
+
+[^8]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html

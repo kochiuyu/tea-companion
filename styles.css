@@ -12,3 +12,20 @@ body {
     -webkit-overflow-scrolling: touch;
   }
 }
+
+/* Language switcher strip on door pages */
+.lang-switcher {
+  margin: 0.5rem 0 1.25rem 0;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.95rem;
+  border-left: 3px solid #6c757d;
+  background: rgba(108, 117, 125, 0.06);
+}
+
+.zh-door-nav {
+  margin: 0.75rem 0 1.25rem 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.95rem;
+  background: rgba(13, 110, 253, 0.06);
+  border-radius: 0.25rem;
+}

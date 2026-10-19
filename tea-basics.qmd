@@ -1,6 +1,8 @@
 ---
 title: "Tea basics"
 ---
+{{< include _includes/lang-switcher/tea-basics.en.qmd >}}
+
 
 You stand in a grocery aisle. Boxes say *English Breakfast*, *Earl Grey*, *green tea*, *chamomile*, *matcha*. Cafe menus add *sencha*, *oolong*, *Assam*. The companion chapters start talking about *Camellia sinensis*, oxidation, and catechins. How do those everyday labels connect?
 
