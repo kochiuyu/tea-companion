@@ -27,6 +27,10 @@ The packs show patterns for tea, high-caffeine coffee stress, and alcohol—in i
 - **Matched mug** — same look, warmth, and bitterness so expectation does not wear a lab coat.
 :::
 
+::: {.callout-tip}
+**Read the story; open More detail boxes only when curious.** Decision scenes stay open; λ, *k*, and dose tables live in foldouts.
+:::
+
 ::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
 Footnotes are bidirectional (click number → source; caret → back). Foldouts hold denser CRT/Stroop/BART snapshots, λ / *k* summaries, game tables, and protocol checklists so the open story stays readable. We still do **not** invent economic theories—only retell what the packs and named papers support.
 :::

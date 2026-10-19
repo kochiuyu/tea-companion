@@ -10,6 +10,15 @@ Keep the [Glossary](glossary.qmd) for chapter jargon (*HPA axis*, *ERN*, *BART*)
 
 Tap a footnote number to jump to the source, then the caret to jump back. Hover often shows a popup. Denser side-stories sit in collapsed **"More detail…"** foldouts.
 
+::: {.callout-tip title="5-minute aisle path"}
+1. **True tea vs herbal** — *Camellia* leaf (green/black/oolong/white…) vs chamomile/peppermint/rooibos tisanes.
+2. **Green / black fork** — same plant; heat early (green) vs let it brown in air (black).
+3. **One label example** — *English Breakfast* is usually a strong **black blend**; *sencha* is everyday Japanese **green**.
+4. **Numbers** — when someone quotes milligrams, open the [Cup reference](cup-reference.qmd).
+
+The rest of this page is optional depth for when a shelf still feels foggy.
+:::
+
 ::: {.callout-tip title="Words to know on this page"}
 - **True tea** — an infusion from the tea plant *Camellia sinensis* (green, white, oolong, black, dark/Pu-erh, and so on).
 - **Herbal "tea" / tisane** — hot-water infusions of other plants (chamomile, peppermint, rooibos…); usually no caffeine from *Camellia*.

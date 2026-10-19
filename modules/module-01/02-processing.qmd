@@ -75,6 +75,8 @@ Green tea skips the long oxidize window by killing enzymes early—often right a
 Reviews of tea PPO underline how central that enzyme is to whether you end up with monomeric catechins or theaflavin/thearubigin pigments.[^4]
 :::
 
+White tea is the "least factory drama" cousin on the same plant—minimal handling—while **matcha** is a different *serving* story: you whisk the leaf powder and ingest it, not only an infusion (see [Tea basics](../../tea-basics.qmd)). Neither needs a new species label.
+
 ## The middle path: oolong
 
 Green and black are the two big forks. **Oolong** sits between them: makers bruise the leaf, let browning run partway, then apply heat to lock the leaf. Trade writing often describes oolong oxidation as a wide range (roughly ~10% to nearly ~80% depending on style)—which is why one cafe "oolong" can taste almost green and another almost black.[^3]
@@ -85,28 +87,28 @@ That middle path is still *Camellia sinensis* on the same enzyme story (PPO/POD 
 **Pu-erh and "true" fermentation.** Post-fermented teas (notably some Pu-erh styles) bring microbes into the story. That is why calling *all* dark tea "fermented like wine" is still wrong—and why calling *some* dark teas microbially fermented can be right. Keep the words matched to the process.[^2]
 :::
 
+Darker pigments from the "let it brown" path tend to give the cup more **body**; the simpler plant compounds kept by the green path tend toward a **sharper bite**. That is mouthfeel language, not a new chemical pathway.
+
 ## Myth check: "Black tea is fermented like wine"
 
 Here is another common story: "Black tea is fermented like wine." In ordinary oolong and black tea making, the change is leaf enzymes plus air. Microbes are not the driver. True microbial fermentation shows up mainly in post-fermented teas such as Pu-erh.[^2]
 
-## What to take from this sitting
-
-- Green vs black is mostly a **processing fork**, not a different everyday species.
-- Heat locks browning off (green path); air + enzymes build darker pigments (black path).
-- Oolong is intentional partial browning; Pu-erh-style dark teas can add real microbes.
-- Assam-type plant-compound richness ([Lesson 1.1](01-plants.qmd)) is raw material for a bold black cup.
-
-We now have a processed leaf in a tin. The next scene is the one you control every morning: what does brewing actually *do*?
 
 ## Story in one minute
 
 After picking, tea makers face a fork. Heat early and lock browning off—plant compounds stay simple (green path). Or crush the leaf, let enzymes meet air, and watch brighter then darker pigments build (black path). Oolong parks in the middle on purpose. "Fermented like wine" is usually the wrong metaphor for ordinary black tea; microbes matter mainly in post-fermented styles such as some Pu-erh.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Green vs black is mostly a **processing fork**, not a different everyday species.
+- Heat locks browning off (green); air + enzymes build darker pigments (black); oolong parks in the middle.
+- "Fermented like wine" is usually the wrong metaphor for ordinary black tea.
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - Choosing green vs black is choosing a **process**, not usually a different species.
 - Bitterness and "body" are partly pigment stories: black tea's darker pigments help mouthfeel; green tea's simple plant compounds stay sharper.
 - If you love Assam breakfast malt, remember [Lesson 1.1](01-plants.qmd): Assam-type leaves often bring more raw material into that black-tea fork.
+:::
 
 ::: {.callout-note collapse="true" title="More detail: Fortune's practical observation"}
 Robert Fortune's nineteenth-century collecting work for British interests is famous as plant transfer history (Chapter 3 will return to empire and trade). For *this* lesson, the useful scientific point Kew still echoes is simpler: Chinese makers could produce green or black from the same bushes by changing treatment.[^3] Taxonomy arguments about varieties still matter for breeding and chemistry averages—but they do not rescue the myth that green and black are different everyday species.

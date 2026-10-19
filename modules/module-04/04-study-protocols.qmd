@@ -85,6 +85,14 @@ If those answers are missing, treat the claim as marketing until the methods sho
 
 Methods are how an economist-owned teaching site stays honest without inventing new theory.
 
+::: {.callout-note collapse="true" title="More detail: annotated fake methods paragraph (teaching)"}
+Imagine a blog that says: *"We gave students tea and they became more patient investors."* Annotate it like a methods referee:
+
+> Participants (*n* unspecified) drank "tea" (*which style? which mg?*) then completed "a decision task" (*BART? IGT? a survey?*) "after drinking" (*how many minutes?*) versus "no drink" (*not a bitterness-matched placebo; not temperature-locked; not washout-cleared*).
+
+**What is missing:** washout of other caffeine, opaque matched mugs near **60°C**, quinine-matched control, a named task, a pre-registered outcome, and a dose you can compare to the [Cup reference](../../cup-reference.qmd). Without those, the sentence is storytelling in a lab coat—not a finding this module would teach.
+:::
+
 ::: {.callout-tip collapse="true" title="Click for more detail: a one-page protocol sketch (teaching, not a grant application)"}
 A pack-faithful teaching sketch:
 
@@ -118,6 +126,16 @@ Careful protocols are not bureaucracy for its own sake. They are how you keep Ch
 4. Methods police 4.1–4.3 headlines.
 5. No invented economics—shared tools only.
 6. Back to the [module hub](index.qmd) or [Cup reference](../../cup-reference.qmd) when you want numbers.
+:::
+
+## Story in one minute
+
+Flashy games only deserve as much confidence as their methods. Match the mug, wait for the peak, and remember that decaf is not a magic placebo. Washout, temperature, bitterness, and timing are how an economist-owned teaching site keeps warmth and expectation from silently contaminating pharmacology.
+
+::: {.callout-tip title="You can stop here"}
+- Matched mug, wait for peak, and "decaf ≠ magic placebo" are the open spine.
+- Washout, temperature, bitterness match, and timing police the flashy games.
+- Methods are part of the claim—especially on an economist-owned teaching site.
 :::
 
 ---

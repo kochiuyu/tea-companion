@@ -23,8 +23,8 @@ Warmth (previous lesson) was mostly passive: hold a mug. Ritual here is active: 
 Three linked claims show up again and again:
 
 1. **Attention anchor.** High-stress tasks trigger circular worry. The physical steps of a tea ritual—measuring leaves, monitoring water temperature, watching leaves unfurl—demand focused attention and can interrupt that loop.
-2. **Calmer body.** Familiar, structured ritual can lower heart rate and skin stress signals and raise HRV (calmer autonomic balance)—a shift from sympathetic "fight-or-flight" toward parasympathetic steadiness in the packs' language.
-3. **Mental stamina.** A brief step back from hard analysis can reduce fatigue before you return to the problem—preserving executive resources rather than grinding them down.
+2. **Calmer body.** Familiar, structured ritual can lower heart rate and skin stress signals and raise heart-beat flexibility (calmer balance between the body's **go** system and its **rest-and-digest** system)—lab papers often say HRV, sympathetic, and parasympathetic when they want those labels.
+3. **Mental stamina.** A brief step back from hard analysis can reduce fatigue before you return to the problem—preserving careful thinking rather than grinding it down.
 
 Integrative reviews of ritual psychology describe rituals as structured, repetitive, symbolic action sequences that can reduce anxiety and restore a sense of control—especially when the next task feels high-stakes.[^1] Hobson and colleagues organize ritual functions around emotion regulation, performance goal states, and social connection.[^1]
 
@@ -46,16 +46,16 @@ Hobson, Schroeder, Risen, Xygalatas, and Inzlicht (2018) review ritual psycholog
 **Two routes:** bottom-up physical features (repetition, rigidity, synchrony) and top-down meaning (why *this* sequence matters to you). A solo brewing break leans on emotion and readiness. A shared tea service adds connection. Neither route is a license to cite a retracted anxiety paper—see the Brooks caution below.[^1][^4]
 :::
 
-Predictable behavioral sequences have been linked with lower anxiety and steadier autonomic readings in experimental work on scripted action.[^2] Separately, Chapter 2's L-theanine findings already showed calmer heart-rate and stress markers during hard arithmetic[^3]—so ritual steps and tea chemistry can point in the same direction without being the same thing.
+Predictable behavioral sequences have been linked with lower anxiety and steadier body readings in experimental work on scripted action.[^2] Separately, Chapter 2's L-theanine findings already showed calmer heart-rate and stress markers during hard arithmetic[^3]—so ritual steps and tea chemistry can point in the same direction without being the same thing. Heart-rate drops, error-alarm microvolts, and review rows live in the foldout—open when you want the poster.
 
+::: {.callout-note collapse="true" title="More detail: Hobson / Lang / ERN metrics table (without the retracted paper)"}
 | Measure | Finding | Source |
 | --- | --- | --- |
 | Ritual psychology (review) | Structured rituals can reduce anxiety and support performance under pressure (mechanisms: emotion regulation, sense of control) | Hobson et al. (2018) [^1] |
 | Predictable action sequences | Scripted sequences linked with lower anxiety / steadier autonomic regulation; pack narrative includes ~**4.3 bpm** heart-rate drop under acute stress | Lang et al. (2015; pack) [^2] |
-| Error-related brain alarm (ERN) | High-ritual contexts can blunt error-alarm amplitude (~**1.85 μV** decrease in pack narrative of Hobson et al., 2017) | Hobson et al. (2017; pack) [^5] |
+| Brain's quick "oops" alarm (ERN) | High-ritual contexts can blunt error-alarm amplitude (~**1.85 μV** decrease in pack narrative of Hobson et al., 2017) | Hobson et al. (2017; pack) [^5] |
 | L-theanine under arithmetic stress | Lower heart rate and stress markers vs placebo | Kimura et al. (2007) [^3] |
 
-::: {.callout-note collapse="true" title="More detail: autonomic and ERN snapshots (without the retracted paper)"}
 | Measure | Treatment idea | Pack / paper snapshot | Trail |
 | --- | --- | --- | --- |
 | Heart rate under acute stress | Scripted repetitive sequence vs less structured control | Mean HR down about **4.3 bpm ± 0.9** in pack reading of Lang et al. | Lang et al. (2015) [^2] |
@@ -109,9 +109,9 @@ Excluding Brooks does **not** mean "rituals do nothing." It means this one famou
 
 People often blur the two: "Tea ritual = mindfulness." Mindfulness is open awareness of the present moment. Ritual, in these sources, is more about **fixed, predictable steps**.
 
-Cognitive neuroscience in the packs' verification note draws a sharper line: rituals provide rigid, invariant behavioral scripting and top-down predictability. By constraining action sequences, ritual can blunt error-related negativity (ERN) in the anterior cingulate cortex—lowering anxiety through *predictability*, not only through open mindful contemplation.[^5][^1]
+Cognitive neuroscience in the packs' verification note draws a sharper line: rituals provide rigid, invariant behavioral scripting and top-down predictability. By constraining action sequences, ritual can blunt the brain's quick **"oops" alarm** (lab name: error-related negativity, or ERN)—lowering anxiety through *predictability*, not only through open mindful contemplation.[^5][^1]
 
-That distinction matters for how you read a "brewing break." You are not required to become a meditation teacher. You are practicing a short, repeatable script that gives the error-alarm less room to spiral.
+That distinction matters for how you read a "brewing break." You are not required to become a meditation teacher. You are practicing a short, repeatable script that gives the "oops" alarm less room to spiral.
 
 ::: {.callout-note collapse="true" title="More detail: mindfulness vs a scripted brewing break"}
 Popular management writing often flattens "tea ritual" into "mindfulness." The packs' verification note—and Hobson's review—draw a sharper line.[^1][^5]
@@ -128,7 +128,7 @@ You *can* brew mindfully. The experiments this page leans on do not require you 
 
 ## Chemistry and choreography can rhyme
 
-A fixed tea-making sequence is not only cultural. It is linked with higher HRV and lower stress arousal in the tea-compound literature.[^3] Ritual steps plus tea compounds can point in the same "calmer control" direction—another bridge to [Module 2 · Body signals](../module-02/04-body-signals.qmd) and to Chapter 4's bargaining calm (fewer hair-trigger rejections when anxiety is lower).
+A fixed tea-making sequence is not only cultural. It is linked with higher heart-beat flexibility and lower stress arousal in the tea-compound literature.[^3] Ritual steps plus tea compounds can point in the same "calmer control" direction—another bridge to [Module 2 · Body signals](../module-02/04-body-signals.qmd) and to Chapter 4's bargaining calm (fewer hair-trigger rejections when anxiety is lower).
 
 Context is part of the dose: temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the sentence to carry into [Module 4](../module-04/index.qmd).
 
@@ -149,7 +149,7 @@ Anxious looping is expensive. The mind rehearses the exam, the meeting, the emai
 
 That is an **attention anchor**—not a personality makeover.
 
-The packs also describe an autonomic rhyme: familiar ritual → lower heart rate / skin conductance, higher HRV.[^2] Module 2 already showed L-theanine calming stress markers during arithmetic.[^3] Chemistry and choreography can point the same way without being identical.
+The packs also describe a body rhyme: familiar ritual → lower heart rate / skin stress signals, higher heart-beat flexibility.[^2] Module 2 already showed L-theanine calming stress markers during arithmetic.[^3] Chemistry and choreography can point the same way without being identical.
 
 ::: {.callout-note collapse="true" title="More detail: Hobson's three ritual functions (teaching map)"}
 Hobson et al. (2018) organize ritual psychology around regulating:[^1]
@@ -167,12 +167,20 @@ Bottom-up features (repetition, rigidity, synchrony) and top-down meaning (why t
 
 Carry three sentences forward:
 
-1. Ritual can blunt anxiety via predictability (ERN story)—not only via "mindfulness" branding.[^5]
+1. Ritual can blunt anxiety via predictability (the "oops" alarm story)—not only via "mindfulness" branding.[^5]
 2. Brooks (2016) STAI numbers are **off-limits** after retraction.[^4]
 3. Context (ritual + warmth + expectation) rides along with compounds—so Chapter 4 locks methods.
 
 Then open [Module 4](../module-04/index.qmd) when you want the decision games.
 
+
+
+::: {.callout-tip title="You can stop here"}
+- A short, familiar brewing script can interrupt anxious looping—attention lands on countable steps.
+- Predictability is the point in these sources; you do not have to become a meditation teacher.
+- Brooks et al. (2016) STAI anxiety numbers are **off-limits** after the 2024 retraction.
+- Chemistry and choreography can rhyme; they are still different mechanisms—see [Module 2 · Body signals](../module-02/04-body-signals.qmd).
+:::
 
 ---
 

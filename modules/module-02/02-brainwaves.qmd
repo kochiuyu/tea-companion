@@ -84,11 +84,17 @@ Brain rhythms are one window. Stress chemistry is another—especially when the 
 
 Labs sort brain rhythms by speed. L-theanine often lifts resting calm-focus. Caffeine leans busy-alert. Alcohol pushes slower fatigue/sedation bands. The same theanine story depends on **state**: rest vs hard work. Timing still matches Chapter 1's delayed clocks—not first-sip magic.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Calm-focus / busy-alert / drowsy are everyday families—Hz bands live in foldouts.
+- Rest recordings ≠ hard-work recordings; ask which before believing a headline.
+- Timing still matches Chapter 1's delayed clocks—not first-sip magic.
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - Do not treat every "calm brain-wave" headline as proof you will feel sedated—or laser-focused—at sip one.
 - Resting recordings ≠ task recordings.[^3][^5]
 - Modest theanine findings are closer to cups than mega-capsule designs.[^3]
+:::
 
 ::: {.callout-note collapse="true" title="More detail: rest vs load in one picture"}
 **At rest (eyes closed):** Nobre-linked work — L-theanine associated with rising alpha vs placebo.[^3]

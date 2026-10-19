@@ -73,22 +73,22 @@ Chapter 2 will pick up the dual story (caffeine + L-theanine) in the brain. This
 Done with the three guests? The [module hub](index.qmd) keeps a short **drinker's field guide** (green vs black choices, cold-brew myth, lab vs mug doses) before you step into Chapter 2.
 :::
 
-## What to take from this sitting
-
-- Three named guests: caffeine (hours), L-theanine (tens of minutes), EGCG (in between).
-- "I just sipped" ≠ peak effect—watch the **30–60+ minute** window for many L-theanine / combo findings.
-- People differ; cups differ (see Cup reference).
-- Next chapter: what those guests do after you swallow.
 
 ## Story in one minute
 
 Three named guests share the cup. Caffeine blocks sleepiness signals and can linger for hours. L-theanine supports calmer focus on a shorter plasma clock. EGCG is the standout green-tea plant compound on a multi-hour scale. None of them peak at the first sip. Lab capsules and grocery bags are different worlds.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Three guests on different clocks: wake-up (caffeine), calm-focus (L-theanine), green-tea plant compound (EGCG).
+- Cups deliver **tens of mg**; many lab trials use **100–200 mg** capsules—do not confuse them.
+- "Not instant Zen": calm-focus often trails the first sip by tens of minutes.
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - Plan attention for the **30–60+ minute** window if you care about L-theanine-linked calm focus—not the first swallow.[^7][^8]
 - Do not compare your tea bag to a 200 mg theanine capsule without the [Cup reference](../../cup-reference.qmd).
 - Remember that people clear caffeine differently: your friend's "still buzzing" can be biochemistry, not drama.[^9]
+:::
 
 ::: {.callout-note collapse="true" title="More detail: three clocks on one timeline"}
 Imagine you drink at 9:00.
