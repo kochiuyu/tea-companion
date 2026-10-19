@@ -1,6 +1,8 @@
 ---
 title: "Glossary"
 ---
+{{< include _includes/lang-switcher/glossary.en.qmd >}}
+
 
 Every journey collects new words. Some are friendly on first meeting—*caffeine*, *ritual*. Others arrive packed tight—*HPA axis*, *error-related negativity*—as if five ideas were folded into one suitcase.
 

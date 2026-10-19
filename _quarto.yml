@@ -29,6 +29,14 @@ project:
     - glossary.qmd
     - linkages.qmd
     - bibliography.qmd
+    - zh-hant-hk/index.qmd
+    - zh-hant-hk/tea-basics.qmd
+    - zh-hant-hk/cup-reference.qmd
+    - zh-hant-hk/glossary.qmd
+    - zh-hans/index.qmd
+    - zh-hans/tea-basics.qmd
+    - zh-hans/cup-reference.qmd
+    - zh-hans/glossary.qmd
 
 website:
   title: "Tea, Caffeine & Decision Companion"
@@ -62,6 +70,14 @@ website:
             href: linkages.qmd
           - text: Bibliography
             href: bibliography.qmd
+      - text: "Language / 語言"
+        menu:
+          - text: English
+            href: index.qmd
+          - text: 繁體中文（香港）
+            href: zh-hant-hk/index.qmd
+          - text: 简体中文
+            href: zh-hans/index.qmd
 
 format:
   html:

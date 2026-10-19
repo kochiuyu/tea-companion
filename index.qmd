@@ -1,6 +1,12 @@
 ---
 title: "Tea, Caffeine & Decision Companion"
 ---
+{{< include _includes/lang-switcher/home.en.qmd >}}
+
+::: {.callout-tip title="Also in Chinese / 亦有中文版"}
+Door pages (Home, Tea basics, Cup reference, Glossary) are also available in [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) and [Simplified Chinese](zh-hans/index.qmd). Modules 1–4 remain English for now (Phase B).
+:::
+
 
 You tip hot water over a handful of leaves. Steam rises. The water darkens—maybe green-gold, maybe deep amber—and a smell fills the room that is somehow both sharp and soft. Twenty minutes later you are a little more awake. Sometimes you also feel a little calmer. Coffee can wake you up too. So why does *tea* so often feel like a different kind of alertness?
 

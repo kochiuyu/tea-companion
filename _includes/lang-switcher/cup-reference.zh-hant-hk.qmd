@@ -1,0 +1,3 @@
+::: {.lang-switcher}
+**Language / 語言 / 语言:** [English](../cup-reference.qmd) · [繁體中文（香港）](cup-reference.qmd) · [简体中文](../zh-hans/cup-reference.qmd)
+:::
