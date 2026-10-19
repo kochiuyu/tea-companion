@@ -4,17 +4,16 @@ title: "Glossary"
 
 # Glossary
 
-## How to use this glossary
+Every journey collects new words. Some are friendly on first meeting—*caffeine*, *ritual*. Others arrive packed tight—*HPA axis*, *error-related negativity*—as if five ideas were folded into one suitcase.
 
-This page is a **dictionary for beginners**. When a module uses a technical word, look it up here for a one-sentence definition in everyday English. Module numbers point to where the term matters most.
+This page unpacks those suitcases. When a chapter uses a technical word, look it up here for a one-sentence definition in everyday English. Module numbers point to where the term matters most in the story.
 
 You do not need to memorize the whole table. Skim the “By module” list at the bottom when you start a new chapter. Ultra-niche lab constants and diffusion equations are left out on purpose; see the [Bibliography](bibliography.qmd) if you need the primary papers.
 
-## Story in one minute
-
-Science writing often packs five ideas into one word (for example “HPA axis”). This glossary unpacks those words so a smart high-school reader can keep going without a textbook.
+Think of this as a pocket phrasebook for the four chapters—not a second textbook.
 
 ## Terms (simple definitions)
+
 
 | Term | Simple definition | Where it shows up |
 | --- | --- | --- |
