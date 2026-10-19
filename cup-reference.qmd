@@ -1,0 +1,11 @@
+---
+title: "Cup reference"
+---
+
+Standard cup reference table from owner-supplied verified materials only.
+
+| Compound | Tea Type | Typical Yield Range | Brewing Conditions | Primary Citation |
+| --- | --- | --- | --- | --- |
+| Caffeine | Green Tea | 30 mg – 50 mg | Loose-leaf green tea; 2 g dry weight; infused in 250 mL water at 80 °C for 3 minutes. | Chin et al. (2008) |
+| Caffeine | Black Tea | 40 mg – 80 mg | Loose-leaf black tea; 2 g dry weight; infused in 250 mL water at 100 °C for 3–5 minutes. | Hicks et al. (1996) |
+| L-Theanine | Green Tea | 15 mg – 30 mg | Premium green tea; 2 g dry weight; infused in 250 mL water at 80 °C for 3 minutes. | Keenan et al. (2011) |

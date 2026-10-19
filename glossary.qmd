@@ -1,0 +1,11 @@
+---
+title: "Glossary"
+---
+
+Companion glossary. Terms only from owner-supplied verified materials.
+
+| Technical Term | Definition | Primary Mapping |
+| --- | --- | --- |
+| Adenosine Receptors (A1 and A2A) | These G-protein coupled receptors bind endogenous adenosine to promote sleep and slow neuronal activity, and they serve as the primary targets for competitive antagonism by caffeine to sustain wakefulness. | Module 2, Branch 2.1 |
+| L-Theanine | A unique, non-protein amino acid synthesized in the roots of the tea plant that crosses the blood-brain barrier to act as a glutamate receptor antagonist and facilitate alpha wave production. | Module 1, Branch 1.4 |
+| Polyphenol Oxidase (PPO) | A copper-containing enzyme located within the cellular plastids of tea leaves that rapidly oxidizes monomeric catechins into unstable quinones upon cellular disruption. | Module 1, Branch 1.2 |

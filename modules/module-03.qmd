@@ -1,0 +1,14 @@
+---
+title: "3. Geopolitics, Ritual & Embodied Cognition"
+---
+
+# 3. Geopolitics, Ritual & Embodied Cognition
+
+## 3.1 Geopolitics & Macro-History: Global Trade & Corporate Sovereignty
+
+| Geopolitical Era | Sovereign Actors | Core Economic Mechanism | Macro-Decision Output | Historical Provenance |
+| --- | --- | --- | --- | --- |
+| Canton System (1757–1842) | Qing Dynasty vs. British Empire / East India Company (EIC) | Silver-Tea Asymmetry: Western nations settled all tea purchases in physical silver bullion (Ag), depleting Western silver reserves and creating a massive trade deficit. | Driven by the need to balance trade, the EIC initiated systemic illegal smuggling of opium into China, destabilizing Qing currency and public health. | Farooqui, A. (2005) |
+| Opium Wars Era (1839–1860) | British Empire, Qing Dynasty, East India Company | Military Force & Treaty Ports: The British used military force to compel China to accept opium imports and open trade. Treaties of Nanking and Tianjin ceded Hong Kong and opened five ports. | Permanent alteration of regional sovereignty. To secure direct access to tea without relying on China, the British established tea production in their own colonies. | Lovell, J. (2011) |
+| Corporate Espionage (1848) | Royal Botanic Gardens (Kew), EIC, Robert Fortune | Industrial & Botanical Theft: Botanist Robert Fortune disguised himself to infiltrate interior China, stealing Camellia sinensis seeds, plants, and processing secrets. | Successfully bypassed China’s strict trade secrets and transferred the entire tea manufacturing process to British-controlled India. | Brockway, L. H. (1979) |
+| Colonial Industrialization (Late 19th c.) | British Raj (Assam & Darjeeling) | Large-Scale Plantations: The EIC cleared massive, state-conceded lands in India, establishing highly structured, industrial tea plantations using local labor. | Broke the global Chinese tea monopoly, transforming tea from a rare, expensive luxury into a cheap, mass-market global commodity. | Sharma, J. (2011) |

@@ -1,0 +1,14 @@
+---
+title: "4. Dual-Process Decision Dynamics"
+---
+
+# 4. Dual-Process Decision Dynamics
+
+## 4.1 Dual-Process Dynamics & Cognitive Effort
+
+| Cognitive Metric | System 1 (Heuristic / Reactive) | System 2 (Analytical / Deliberative) | Theoretical Grounding |
+| --- | --- | --- | --- |
+| Processing Speed | Fast, automatic, low metabolic demand. | Slow, effortful, high glucose and metabolic demand. | Kahneman (2011) |
+| Tea Modulation | Highly stable. Maintains executive control over impulsive reactions. | Strongly Up-Regulated. High L-theanine/caffeine synergy sustains System 2 processing for extended periods. | Owen et al. (2008) |
+| Coffee Modulation | Up-Regulated under stress. Spikes in beta-waves and cortisol shift processing toward rapid, intuitive shortcuts. | Temporarily enhanced for simple mathematical operations; degrades under high-complexity logical tasks. | Rogers et al. (2013) |
+| Alcohol Modulation | Dominant. Prefrontal cortex inhibition completely shuts down System 2 control networks. | Profoundly Down-Regulated. Impairs deductive and analytical capability. | Steele & Josephs (1990) |

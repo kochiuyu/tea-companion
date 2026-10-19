@@ -1,0 +1,10 @@
+---
+title: "Linkages"
+---
+
+Cross-branch linkages from owner-supplied verified materials only.
+
+| Source Branch → Target Branch | Scientific Rationale & Primary Citations |
+| --- | --- |
+| 1.4 L-Theanine Tmax → 2.2 Resting Alpha onset | Oral L-theanine reaches peak plasma concentration (Tmax) between 35–50 minutes post-ingestion, directly predicting the 30–45 minute physiological delay observed before significant relative alpha-band power increases. |
+| 3.3 Thermal Priming → 4.3 Trust Game payoffs | Holding a warm beverage cup activates the anterior insular cortex, which increases first-mover trust allocations in the Trust Game. |
