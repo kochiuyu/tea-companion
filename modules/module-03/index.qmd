@@ -25,12 +25,12 @@ Click footnote markers for full citations (and the caret to return). Open "More 
 
 ## The four lessons
 
-Each sitting is one pack branch—the same four-way split as the owner's source packs. Read in order for the full story, or hop to the lesson you need.
+Each sitting is one pack branch—the same four-way split as the owner's source packs. Lessons are now **full sittings** (story voice, footnotes, collapsed "More detail…" foldouts). Read in order for the full story, or hop to the lesson you need.
 
-1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)**
-2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)**
-3. **[Warm hands, warmer judgments?](03-warmth-trust.qmd)**
-4. **[The brewing break as a stress reset](04-ritual-stress.qmd)**
+1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)** — Canton silver, opium, Nanking, Fortune myth corrected
+2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)** — Han medicine → Chan code → Eisai / *chado*
+3. **[Warm hands, warmer judgments?](03-warmth-trust.qmd)** — insula warmth priming **with replication caveats**
+4. **[The brewing break as a stress reset](04-ritual-stress.qmd)** — ritual psychology; **Brooks 2016 not used as evidence**
 
 **Start with lesson 1:** [Silver, ships, and who controlled the leaf](01-trade-history.qmd)
 

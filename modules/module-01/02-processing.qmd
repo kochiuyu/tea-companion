@@ -10,16 +10,29 @@ title: "1.2 The fork in the road: stop the browning, or let it run"
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
 :::
 
+## From bush to decision
 
-## The fork in the road: stop the browning, or let it run
+[Lesson 1.1](01-plants.qmd) left you with a leaf on a bush—China-type or Assam-type averages, garden fine print, and a hint that Assam-type catechin richness loves black-tea processing. Now the leaf is picked. Someone in a factory (or a small workshop) must choose: **stop the browning early**, or **let air and enzymes rewrite the chemistry**.
 
-When you cut an apple and leave it on the counter, it browns. Tea leaves do something similar. When leaves are rolled or crushed, leaf enzymes meet catechins (those natural plant compounds). Two main enzymes are **polyphenol oxidase (PPO)** and **peroxidase (POD)** [^1].
+That choice—not a different species—is why the same *Camellia sinensis* can become green tea or black tea. The plant hunter Robert Fortune noticed the practical point in nineteenth-century China: green and black came from the same bushes; factory treatment decided the color.[^3]
+
+::: {.callout-tip title="Words to know in this sitting"}
+- **Oxidation** — leaf enzymes + air turn simple catechins into darker pigments (tea people often say "fermentation," but for ordinary green/black tea they usually mean this).
+- **PPO / POD** — polyphenol oxidase and peroxidase, the main browning enzymes.
+- **Kill-green (fixation)** — heat that permanently shuts off PPO so the leaf stays "green" chemically.
+- **Theaflavins / thearubigins** — golden-red then darker pigments of black tea.
+- **Oolong** — the middle path: partial oxidation, then heat lock.
+:::
+
+## The apple on the counter
+
+When you cut an apple and leave it on the counter, it browns. Tea leaves do something similar. When leaves are rolled or crushed, leaf enzymes meet catechins (those natural plant compounds). Two main enzymes are **polyphenol oxidase (PPO)** and **peroxidase (POD)**.[^1]
 
 Tea makers choose one of two big paths.
 
-**Path one: stop the browning early with heat.** Heat the leaf above about **82°C–85°C** and PPO is permanently shut off. Catechins stay in their simple form. That is the chemical basis of **green tea**—the leaf stays greener because those simple catechins were not allowed to link into dark pigments [^1].
+**Path one: stop the browning early with heat.** Heat the leaf above about **82°C–85°C** and PPO is permanently shut off. Catechins stay in their simple form. That is the chemical basis of **green tea**—the leaf stays greener because those simple catechins were not allowed to link into dark pigments.[^1]
 
-**Path two: let the enzymes work with air.** Leave the enzymes active and simple catechins link into larger colored compounds: **theaflavins** (bright golden-red) and then **thearubigins** (darker, fuller body). That path leads toward **black tea** [^2].
+**Path two: let the enzymes work with air.** Leave the enzymes active and simple catechins link into larger colored compounds: **theaflavins** (bright golden-red) and then **thearubigins** (darker, fuller body). That path leads toward **black tea**.[^2]
 
 Best enzyme activity is often around a mild acidity (**pH about 5.5–6.0**). In plain steps:
 
@@ -28,40 +41,95 @@ Best enzyme activity is often around a mild acidity (**pH about 5.5–6.0**). In
 
 Think of toasting bread: stop early and you have pale toast; leave it longer and it darkens. Green vs black tea is not exactly toasting—but the idea of **stopping a change early vs letting it run** is the same kind of choice.
 
-So "green" and "black" are not different plant species in ordinary commercial tea. They are mostly different **processing paths** on *Camellia sinensis*. The plant hunter Robert Fortune noticed that practical point in nineteenth-century China: green and black tea came from the same bushes; the factory treatment decided the color [^3]. That is why the same species can become either style.
-
-Here is another common story: "Black tea is fermented like wine." In ordinary oolong and black tea making, the change is aerobic enzymatic oxidation—leaf enzymes plus air. Microbes are not the driver. True microbial fermentation shows up mainly in post-fermented teas such as Pu-erh [^2].
-
 ::: {.callout-note collapse="true" title="More detail: PPO, heat kill, and why 'fermentation' confuses people"}
 Two leaf enzymes do most of the browning work when cells are crushed: **polyphenol oxidase (PPO)** and **peroxidase (POD)**.[^1] Heat the leaf above about **82°C–85°C** and PPO is permanently inactivated—the chemical lock that keeps green tea's catechins monomeric.[^1] Leave enzymes active in air and simple catechins couple into **theaflavins** (bright golden-red dimers) and further into **thearubigins** (darker, fuller-bodied polymers).[^2]
+
+Pack chemistry writes the first step roughly as:
+
+> Epicatechin (EC) + Epigallocatechin (EGC) —[PPO + O₂]→ Theaflavin (TF)
+
+and the follow-on as theaflavins moving toward thearubigins (and related darker pigments) with peroxidase help.[^2]
 
 Optimal enzyme activity in the packs sits around mild acidity (**pH about 5.5–6.0**). Dense Michaelis constants and reaction-rate tables live in the primary papers and the [Bibliography](../../bibliography.qmd)—beginners do not need them to follow the fork-in-the-road story.
 
 Why the wine metaphor misleads: wine fermentation is microbial sugar → alcohol. Ordinary black/oolong "fermentation" in factory talk is mostly **enzymatic oxidation**. Pu-erh and some dark teas *do* involve microbes; that is a different branch of the family tree.
 :::
 
-Dense enzyme-lab constants (binding affinity, reaction speed, heat energy numbers) stay in the primary papers; see the [Bibliography](../../bibliography.qmd) if you want them later.
+## How makers actually "kill green"
 
+"Heat above 82–85°C" is the chemical lock. In the real world, makers reach it different ways:
 
-::: {.callout-note collapse="true" title="More detail: oolong as the middle path"}
+- **Steam (classic Japanese style)** — quick, moist heat; often preserves a brighter green and a seaweed/vegetal note.
+- **Pan-fire / wok (classic Chinese style)** — dry heat in a hot pan; often yields toastier, nuttier aromas.
+
+Both aim at the same biochemical goal: denature PPO before catechins can brown.[^1][^4] Reviews of tea PPO underline how central that enzyme is to whether you end up with monomeric catechins or theaflavin/thearubigin pigments.[^4]
+
+::: {.callout-note collapse="true" title="More detail: a black-tea day in four beats"}
+A simplified black-tea factory day (words vary by region, chemistry does not):
+
+1. **Wither** — leaves lose moisture and become limp enough to roll without shattering.
+2. **Roll / crush** — cells break; catechins meet PPO/POD and air.
+3. **Oxidize ("ferment")** — the timed browning window where theaflavins and thearubigins build; color and body arrive here.
+4. **Dry / fire** — heat finally stops the enzymes and stabilizes the leaf for the tin.
+
+Green tea skips the long oxidize window by killing enzymes early—often right after a short wither or even sooner, depending on style. White teas are usually a minimal-intervention cousin (wither + dry, little rolling), still on *Camellia sinensis*, still not a third species.
+:::
+
+## The middle path: oolong
+
 Green and black are the two big forks. **Oolong** sits between them: makers bruise the leaf, let oxidation run partway, then apply heat to lock the leaf. Trade writing often describes oolong oxidation as a wide range (roughly ~10% to nearly ~80% depending on style)—which is why one cafe "oolong" can taste almost green and another almost black.[^3]
 
+::: {.callout-note collapse="true" title="More detail: oolong as the middle path"}
 That middle path is still *Camellia sinensis* on the same enzyme story (PPO/POD + air). It is not a third species. For aisle labels that say *oolong*, see [Tea basics](../../tea-basics.qmd); for the plant averages behind strong black cups, see [Lesson 1.1](01-plants.qmd).
+
+**Pu-erh and "true" fermentation.** Post-fermented teas (notably some Pu-erh styles) bring microbes into the story. That is why calling *all* dark tea "fermented like wine" is still wrong—and why calling *some* dark teas microbially fermented can be right. Keep the words matched to the process.[^2]
 :::
+
+## Myth check: "Black tea is fermented like wine"
+
+Here is another common story: "Black tea is fermented like wine." In ordinary oolong and black tea making, the change is aerobic enzymatic oxidation—leaf enzymes plus air. Microbes are not the driver. True microbial fermentation shows up mainly in post-fermented teas such as Pu-erh.[^2]
+
+## What to take from this sitting
+
+- Green vs black is mostly a **processing fork**, not a different everyday species.
+- Heat above ~**82–85°C** locks PPO off (green path); air + enzymes build theaflavins/thearubigins (black path).
+- Oolong is intentional partial oxidation; Pu-erh-style dark teas can add real microbes.
+- Assam-type catechin richness ([Lesson 1.1](01-plants.qmd)) is raw material for a bold black cup.
 
 We now have a processed leaf in a tin. The next scene is the one you control every morning: what does brewing actually *do*?
 
+
+## Story in one minute
+
+After picking, tea makers face a fork. Heat early and lock PPO off—catechins stay simple (green path). Or crush the leaf, let enzymes meet air, and watch theaflavins then thearubigins build (black path). Oolong parks in the middle on purpose. "Fermented like wine" is usually the wrong metaphor for ordinary black tea; microbes matter mainly in post-fermented styles such as some Pu-erh.
+
+## What this means when you drink tea
+
+- Choosing green vs black is choosing a **process**, not usually a different species.
+- Bitterness and "body" are partly pigment stories: black tea's thearubigins help mouthfeel; green tea's catechins stay sharper.
+- If you love Assam breakfast malt, remember [Lesson 1.1](01-plants.qmd): Assam-type leaves often bring more catechin raw material into that black-tea fork.
+
+::: {.callout-note collapse="true" title="More detail: Fortune's practical observation"}
+Robert Fortune's nineteenth-century collecting work for British interests is famous as plant transfer history (Chapter 3 will return to empire and trade). For *this* lesson, the useful scientific point Kew still echoes is simpler: Chinese makers could produce green or black from the same bushes by changing treatment.[^3] Taxonomy arguments about varieties still matter for breeding and chemistry averages—but they do not rescue the myth that green and black are different everyday species.
+:::
+
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 1.2"}
+1. PPO/POD + air = browning chemistry.[^1]
+2. ~82–85°C heat kill → green path lock.[^1]
+3. Theaflavins → thearubigins → black path pigments.[^2]
+4. Oolong = partial oxidation on purpose.
+5. Wine "fermentation" ≠ ordinary black-tea oxidation.
+:::
 
 
 ---
 
 **Navigate:** [↑ Module 1 hub](index.qmd) · [← Previous](01-plants.qmd) · [Next →](03-brewing.qmd)
 
-
-
 [^1]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Enzymatic browning in tea: Polyphenol oxidase and peroxidase. *Journal of the Science of Food and Agriculture, 79*(11), 1431–1436.
 
-[^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205. (Title abbreviated in some pack lists as chemical features of theaflavins/thearubigins.)
+[^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205.
 
 [^3]: Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
 
+[^4]: Tang, M.-G., Zhang, S., Xiong, L.-G., Zhou, J.-H., Huang, J.-A., Zhao, A.-Q., Liu, Z.-H., & Liu, A.-L. (2023). A comprehensive review of polyphenol oxidase in tea (*Camellia sinensis*): Physiological characteristics, oxidation manufacturing, and biosynthesis of functional constituents. *Comprehensive Reviews in Food Science and Food Safety*. https://doi.org/10.1111/1541-4337.13146

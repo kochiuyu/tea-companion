@@ -34,12 +34,12 @@ Neither trick invents facts. They only change how much detail sits on the open p
 
 ## The four lessons
 
-Each sitting is one pack branch—the same four-way split as the owner's source packs. Read in order for the full story, or hop to the lesson you need.
+Each sitting is one pack branch—the same four-way split as the owner's source packs. These lessons are written as **full sittings** (story + tables + collapsed "More detail" foldouts + clickable footnotes), not stubs. Read in order for the full chemical-core arc, or hop to the lesson you need.
 
-1. **[Two plants, one species](01-plants.qmd)**
-2. **[The fork in the road: stop the browning, or let it run](02-processing.qmd)**
-3. **[What brewing actually does](03-brewing.qmd)**
-4. **[Three characters in the cup](04-compounds.qmd)**
+1. **[Two plants, one species](01-plants.qmd)** — China-type vs Assam-type averages, garden fine print, aisle bridges.
+2. **[The fork in the road: stop the browning, or let it run](02-processing.qmd)** — PPO heat-kill vs oxidation; oolong middle path; fermentation myth.
+3. **[What brewing actually does](03-brewing.qmd)** — extraction dials, cold-brew myth, lab vs home strength.
+4. **[Three characters in the cup](04-compounds.qmd)** — caffeine, L-theanine, EGCG clocks; cups vs capsules.
 
 **Start with lesson 1:** [Two plants, one species](01-plants.qmd)
 
