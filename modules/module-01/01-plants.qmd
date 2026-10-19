@@ -89,24 +89,22 @@ Quick bridges to everyday labels (full map in [Tea basics](../../tea-basics.qmd)
 None of those label shortcuts replace reading the tin—but they stop the aisle from feeling random.
 :::
 
-## What to take from this sitting
-
-- Almost all commercial tea is one species with two main plant styles.
-- Averages lean Assam-higher for caffeine and polyphenols, China-higher for L-theanine—**gardens rewrite the fine print**.
-- Higher catechin raw material in Assam-type leaf is one reason strong black tea loves that plant style.
-- Aisle words are shortcuts; [Tea basics](../../tea-basics.qmd) and the [Cup reference](../../cup-reference.qmd) keep labels and milligrams honest.
-
-So far we have the leaf on the bush. Next comes the factory choice that decides whether that leaf stays green or turns dark.
 
 ## Story in one minute
 
 One species. Two everyday leaf personalities. Cool-hill bushes lean smaller leaves and—on average—more calm-focus amino acid. Warm-lowland plants lean larger leaves and—on average—more caffeine and the plant compounds that later make black tea bold. Your supermarket tin may ignore all of that and still taste wonderful, because gardens, plucking, shade, and blends rewrite averages. The point of this sitting is not to memorize a passport for every leaf. It is to stop treating "tea" as one chemical object.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Almost all commercial tea is one plant species with two everyday leaf personalities.
+- Averages lean Assam-higher for caffeine and plant bitter/color compounds; China-higher for calm-focus theanine—gardens rewrite the fine print.
+- Aisle words are shortcuts; [Tea basics](../../tea-basics.qmd) and the [Cup reference](../../cup-reference.qmd) keep labels honest.
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - If you want a calmer-focus leaning cup, cool-hill greens and shaded styles are a smarter *starting bet* than a bargain Assam breakfast bag—then still check the [Cup reference](../../cup-reference.qmd).
 - If you want malt and punch, Assam-type black processing has the plant chemistry on its side.
 - If someone insists Assam always doubles China caffeine, you now have the survey averages *and* the garden counter-examples.
+:::
 
 ::: {.callout-note collapse="true" title="More detail: a worked 'two boxes' example"}
 **Box A — English Breakfast.** Often Assam-leaning leaf + black oxidation. Expect darker pigments (from [Lesson 1.2](02-processing.qmd)), familiar caffeine feel, usually modest L-theanine in a quick steep ([Lesson 1.3](03-brewing.qmd)).

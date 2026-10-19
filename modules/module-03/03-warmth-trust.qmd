@@ -12,9 +12,9 @@ Superscript numbers are clickable footnotes (jump to the source, caret jumps bac
 
 ## The mug is not psychologically invisible
 
-Holding something warm can bias how "warm" or trustworthy another person feels. The brain region often discussed is the **anterior insular cortex**, which handles both physical temperature and social feelings. Effects on real choices are real in some studies—but not magic, and not always easy to replicate.
+You meet someone while holding a cozy mug versus an icy can. In some lab setups, that body feeling spills into how "warm" or trustworthy the person seems.[^1][^2] Holding something warm can bias first impressions. Effects on real choices show up in some studies—but they are not magic, and they are not always easy to replicate.
 
-You meet someone while holding a cozy mug versus an icy can. In some lab setups, that body feeling spills into how "warm" the person seems. That is the **embodied cognition** idea in everyday clothes: abstract social judgments can be nudged by bodily states.[^1][^2]
+Think of a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **anterior insular cortex** (sometimes just "the insula"). The everyday idea—body state as a tint on social judgment—is what psychologists call **embodied cognition** when they want a lab label. You do not need either label to follow the open story.[^1][^2]
 
 Why does this lesson sit between monasteries and ritual breaks? Because Chapter 4's decision games will ask you to take "warmth" seriously as a *confound*—and as a bridge. If mug temperature can shift first impressions, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [4.4 Study protocols](../module-04/04-study-protocols.qmd)).
 
@@ -22,23 +22,17 @@ Why does this lesson sit between monasteries and ritual breaks? Because Chapter 
 
 Williams and Bargh (2008) reported that people who briefly held a warm cup of coffee rated a stranger as having a "warmer" personality than people who held an iced cup, and that holding a warm (versus cold) therapeutic pad raised the chance of choosing a gift for a friend rather than for oneself.[^1]
 
-Follow-on neuroimaging work linked physical and social "warmth" in the insula: overlapping activation when people experience warm pads and when they read warm, supportive social messages.[^2] Kang and colleagues reported that physical temperature also shifted responses to fairness and trust allocations in bargaining settings.[^3]
+Follow-on imaging work linked physical and social "warmth" in that same hand-warmth / social-warmth brain neighborhood: overlapping activation when people experience warm pads and when they read warm, supportive social messages.[^2] Kang and colleagues reported that physical temperature also shifted responses to fairness and trust allocations in bargaining settings.[^3]
 
+A warm cup can nudge first impressions and opening trust in cited work. It does not guarantee generosity forever. The lab numbers, condition tables, and effect sizes live in the foldouts below—open them when you want the poster detail.
+
+::: {.callout-note collapse="true" title="More detail: condition table and original warmth numbers"}
 | Condition | Stimulus | Typical behavioral skew in cited work | Source |
 | --- | --- | --- | --- |
 | Warm prime | Warm insulated cup / hot coffee briefly held | Partners rated warmer/more trustworthy; more friend-oriented gift choice in original Study 2 | Williams & Bargh (2008) [^1] |
 | Cold prime | Iced cup / cold pad | Partners framed as colder/distant; more self-oriented choice | Williams & Bargh (2008); Inagaki & Eisenberger (2013) [^1][^2] |
 | Warm mug in Trust / fairness settings | Warm ~60°C mug (pack narrative of Kang et al.) | Higher first-mover investment / fairness sensitivity in cited designs | Kang et al. (2011) [^3] |
 
-Study snapshots from the packs and the papers:
-
-- Warm vs cold mug: personality "warmth" ratings about **5.63** vs **4.04** on a 1–7 scale (Williams & Bargh, 2008; pack: *d* ≈ 1.69 in the original report).[^1]
-- Gift choice: warm prime **54%** chose a gift for a friend; cold prime **75%** chose for self (same paper).[^1]
-- Trust Game: warm mug (~60°C) raised first-mover investment about **+24.8%** vs cold pad—pack narrative of Kang et al.: about **$7.85** vs **$6.29** of a $10 endowment.[^3]
-
-A warm cup can nudge first impressions and opening trust in cited work. It does not guarantee generosity forever.
-
-::: {.callout-note collapse="true" title="More detail: original warmth numbers (and what they measured)"}
 | Measure | Warm | Cold / control | Trail |
 | --- | --- | --- | --- |
 | Personality "warmth" (1–7) | M ≈ **5.63** | M ≈ **4.04** | Williams & Bargh (2008) [^1] |
@@ -53,7 +47,7 @@ Read these as **lab snapshots**, not personality transplants. The original Willi
 
 People sometimes say: "Warm mug always makes people generous." Williams & Bargh (2008) reported a very large effect. A large preregistered multi-lab replication of Study 2 (Lynott et al., 2014; total **N = 861** across three sites) **failed** to copy the pure behavioral gift-choice result.[^4] Later independent reports have also found near-zero effects for the original warmth-to-prosocial link.[^5]
 
-What looks more robust in the packs' framing is the **neurobiological overlap** in the anterior insular cortex between physical warmth and social bonding—shown in fMRI and thermoregulation-style designs.[^2] Downstream behavior in unstructured settings depends on person, attachment style, and ambient room temperature (pack verification note).
+What looks more robust in the packs' framing is the **neurobiological overlap** in that hand-warmth / social-warmth brain neighborhood between physical warmth and social bonding—shown in imaging and thermoregulation-style designs.[^2] Downstream behavior in unstructured settings depends on person, attachment style, and ambient room temperature (pack verification note).
 
 That honesty is part of the story: interesting claim → checked claim → limited claim.
 
@@ -78,11 +72,11 @@ Warmth, in this lesson, is mostly **passive**: you hold something hot or cold. R
 A warm cup can nudge first impressions and opening trust in cited work. A familiar brewing sequence tries to interrupt anxious looping with predictable steps. Keep both tools—and keep both caveats.
 
 
-## A beginner picture of the insula
+## A beginner picture of the hand-warmth / social-warmth overlap
 
-You do not need a neuroscience degree for the packs' core image. One brain region—the **anterior insular cortex**—helps track both "my hand is warm" and "that person seems warm/trustworthy." When those maps overlap, a hot mug can briefly color a social judgment.[^2]
+You do not need a neuroscience degree for the packs' core image. One brain neighborhood helps track both "my hand is warm" and "that person seems warm/trustworthy." When those maps overlap, a hot mug can briefly color a social judgment.[^2] Lab papers often name that neighborhood the **anterior insular cortex**—the foldout below keeps the coordinates.
 
-That is embodied cognition in one sentence: body state as a tint on social paint.
+That is the embodied-cognition idea in one sentence: body state as a tint on social paint.
 
 Important limits, said early and often:
 
@@ -168,6 +162,14 @@ Pack verification note: downstream behavioral outcomes in unstructured settings 
 Chabris and colleagues' later reports likewise lean near-zero for the original warmth-to-prosocial headline in field-leaning checks.[^5] That is why this site keeps Lynott in the open caution box, not buried in a footnote.
 :::
 
+
+
+::: {.callout-tip title="You can stop here"}
+- A cozy mug can tint how "warm" someone seems—interesting, not magic.
+- Some early lab headlines were huge; a large replication (**N = 861**) failed to copy the famous gift-choice result.
+- Chapter 4 locks mug temperature near **60°C** so warmth does not quietly ride along with the drink.
+- Passive warmth (hold a mug) ≠ active ritual (make the tea)—next lesson.
+:::
 
 ---
 

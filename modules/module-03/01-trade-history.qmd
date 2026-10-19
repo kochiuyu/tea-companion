@@ -58,23 +58,27 @@ That is why a "cheap bag" story that starts in 1842 is already late. For decades
 
 The First Opium War (1839–1842) ended with British victory and the **Treaty of Nanking** (29 August 1842; ratified 26 June 1843): five treaty ports opened, Hong Kong Island ceded, the Cohong monopoly abolished, and a large indemnity imposed.[^1][^3][^4]
 
-Pack summaries of the indemnity clauses are concrete: Article VI's **21 million** silver dollars often breaks down as about **$6M** for confiscated opium, **$3M** for Hong merchant debts, and **$12M** for British military costs (Treaty of Nanking; pack). Ports often listed include Canton, Amoy, Foochow, Ningpo, and Shanghai.[^3][^4]
+Ports often listed include Canton, Amoy, Foochow, Ningpo, and Shanghai.[^3][^4] The indemnity was large—on the order of **21 million** silver dollars in the packs' teaching tallies—with the dollar slices and article-number fine print living in the foldouts (the treaty text and the pack shorthand do not label every slice the same way).
 
 Britain then pushed tea growing in its own colonies so it would not depend forever on Chinese leaf. That is the hinge from "China monopoly" to "plantation commodity."
 
+The four-era map (Canton → wars → plant transfer → plantations) and the Article VI / IV–VII dollar breakdown sit in the foldouts—keep the open path as story, not spreadsheet.
+
+::: {.callout-note collapse="true" title="More detail: four-era map (Canton → plantations)"}
 | Era | Who | Core story | Outcome | Source |
 | --- | --- | --- | --- | --- |
 | Canton System (1757–1842) | Qing China vs Britain / East India Company | Western buyers paid for Chinese tea largely in silver, draining Western silver and creating a trade deficit | Company turned to opium smuggling into China to rebalance trade | Farooqui (2005); National Army Museum [^5][^1] |
 | Opium Wars (1839–1860) | Britain, Qing, Company | Force and treaties opened ports; Hong Kong ceded | Britain pushed tea growing in its own colonies to reduce dependence on China | Lovell (2011); Britannica overview [^6][^4] |
 | Corporate plant transfer (1848–) | Kew networks, Company, Robert Fortune | Fortune entered interior China for plants, seed, and processing know-how | Chinese processing knowledge moved to British-run Indian plantations | Kew history; Brockway (1979) [^7][^8] |
 | Late 19th c. plantations | British Raj (Assam, Darjeeling) | Large industrial estates on conceded land | Global Chinese monopoly broken; tea became a cheap mass commodity | Sharma (2011); Kew [^9][^7] |
+:::
 
-::: {.callout-note collapse="true" title="More detail: Treaty of Nanking clauses (pack reading)"}
+::: {.callout-note collapse="true" title="More detail: Treaty of Nanking clauses (pack reading) and $6 / $3 / $12"}
 | Clause (pack framing) | Content | Why it mattered for tea |
 | --- | --- | --- |
 | Article II | Opening of **5** treaty ports | Broke the single-port Canton funnel |
 | Article III | Cession of **Hong Kong Island** | Permanent British foothold |
-| Article VI | Indemnity on the order of **21 million** silver dollars | Compensatory breakdown in pack summaries: ~$6M opium, ~$3M debts, ~$12M war costs |
+| Article VI | Indemnity on the order of **21 million** silver dollars | Compensatory breakdown in pack summaries: ~**$6M** opium, ~**$3M** debts, ~**$12M** war costs |
 
 Treaty text and scholarly overviews agree on the ports–Hong Kong–indemnity skeleton.[^3][^4] The packs' dollar breakdown is a teaching snapshot of how contemporaries accounted the bill—not a claim that tea alone "caused" the war. Silver, opium, sovereignty, and coercive diplomacy were tangled together.[^5][^6]
 :::
@@ -190,6 +194,14 @@ For readers in Asia/Hong Kong especially, the Treaty of Nanking is not abstract:
 
 Sharma's *Empire's Garden* follows how Assam plantations remade land, labor, and a commodity market once the botanical and political pieces were in place.[^9] Kew's public history remains the most approachable open trail for Fortune vs Bruce vs Wallich timing.[^7]
 
+
+
+::: {.callout-tip title="You can stop here"}
+- A cheap supermarket bag has a geopolitical past: silver east, opium west, war, then colonial plantations.
+- Canton funneled trade through licensed hong merchants—not an open marketplace.
+- Fortune did **not** "invent" Indian tea; Assam was identified earlier. His gift was Chinese plants, makers, and know-how.
+- Chemistry (Module 1) still explains the cup; this lesson explains why the bag is there for pocket change.
+:::
 
 ---
 

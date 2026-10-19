@@ -49,6 +49,10 @@ In plain patterns from these sources:
 Higher HRV during hard thinking is also read as better top-down control—less impulsive, better emotional regulation—not only a "fitness score."[^3] Feeling "wired" has a skin signature too: that ~**+0.88 µS** caffeine-alone bump is measurable arousal, not only a mood word.[^5]
 :::
 
+::: {.callout-tip}
+**Before you believe a body-signal headline:** check **dose**, **design**, **rest vs load**, and **timing**—the Module 2.2 literacy habit, applied to heart-beat flexibility and stress-sweat claims.
+:::
+
 ## Myth check: "Heart flexibility is only a fitness score"
 
 People sometimes shrug: "That heart number is only for athletes." In these sources, higher flexibility during hard thinking is also read as better top-down control. L-theanine is described as protecting that balance; coffee or alcohol often reduce it.[^3]
@@ -74,22 +78,22 @@ Then walk back through [2.1](01-brain-action.qmd)–[2.3](03-stress-hormones.qmd
 Want the five-step dual story in one place? The [module hub](index.qmd) ends with **Putting the dual story in one picture**—caffeine, L-theanine, calm focus under load, stress markers, and the alcohol contrast—plus a foldout checklist.
 :::
 
-## What to take from this sitting
-
-- Heart flexibility, pupils, and tiny stress sweat let labs quantify "calmer control."
-- Tea-linked patterns often look steadier than caffeine alone; alcohol often looks worse.
-- Wired has a skin signature; calm focus is not only a self-report.
-- Module 2 closes here; Chapter 3 zooms out into history, ritual, and warmth.
 
 ## Story in one minute
 
 Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Tea-linked L-theanine patterns often look like steadier control under load; caffeine alone can look more "wired"; alcohol often worsens control signals. These meters only mean something when dose, task, and timing are controlled—Module 4's protocol sitting will return to that.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Heart-beat flexibility, tiny stress sweat, and pupils are quiet body admits labs can measure.
+- Before you believe a "tea calms your nervous system" headline: **dose, design, rest-vs-load, timing**.
+- Matched mugs show up again in Module 4 so warmth and bitterness do not silently become the experiment.
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - Feeling wired can show up as tiny stress sweat, not only as a mood adjective.[^5]
 - Higher heart flexibility under hard thinking is read here as flexible control—not only gym recovery.[^3]
 - Translate every "tea calms the nervous system" headline through dose and design.
+:::
 
 ::: {.callout-note collapse="true" title="More detail: connecting all four Module 2 sittings"}
 1. **2.1** — caffeine lifts the sleepy brake; L-theanine softens excess go-chatter.

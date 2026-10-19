@@ -21,6 +21,10 @@ Everyday story first; lab and treaty labels live here so the open page stays a n
 - **Error-related negativity (ERN)** — a quick brain "oops" signal after mistakes; predictable rituals can blunt related anxiety responses in some studies.
 :::
 
+::: {.callout-tip}
+**Read the story; open More detail boxes only when curious.** History and culture stay on the open path; denser tables and lab labels live behind the click.
+:::
+
 ::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
 Click footnote markers for full citations (and the caret to return). Open "More detail…" foldouts for trade figures, monastery texts, warmth-replication caveats, and ritual psychology snapshots without turning the main page into a wall of text.
 :::

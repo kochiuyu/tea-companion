@@ -45,6 +45,10 @@ Pack tables also sometimes phrase caffeine–cortisol adaptation as "nearly gone
 **Vessel tone.** Caffeine can constrict cerebral vessels as part of its sleepy-signal blockade story.[^7] L-theanine has been shown in cell work to promote nitric-oxide production in endothelial cells—one plausible path for "steadier pressure" language.[^2] Yoto's human stress design adds a bridge: L-theanine can blunt task-related blood-pressure climbs in high-responders.[^3] That is mechanism-plus-trial talk, not a home blood-pressure prescription.
 :::
 
+::: {.callout-tip}
+**Before you believe a stress headline:** check **dose**, **task vs rest**, **timing**, and **what was compared**—the same four questions Module 2.2 teaches for brain-wave claims.
+:::
+
 ## Myth check: "Caffeine permanently wrecks your adrenals"
 
 Acute caffeine can raise cortisol a lot. With daily use in the hundreds of milligrams, that caffeine-driven spike often shrinks within about five days of controlled intake—but the careful trial says **incomplete** quieting at everyday levels, not permanent adrenal destruction and not a total mute button.[^5] Stress-driven responses can still rise, which is exactly where L-theanine studies (Kimura, Yoto, Unno) earn their keep.[^1][^3][^4] Systematic reviews of L-theanine and stress/anxiety stay cautious: effects exist in some trials, but dose, setting, and what you measure matter.[^6]
@@ -59,11 +63,17 @@ Hormones are still somewhat invisible. What can you see on the outside of the bo
 
 Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caffeine can push that loop; habitual intake blunts caffeine-driven spikes incompletely. L-theanine is studied for keeping heart rate, blood pressure, stress enzymes, and subjective stress nearer baseline under load. Pack tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here: Yoto is blood pressure and mood; Lovallo is caffeine–cortisol adaptation.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Stress has a chemistry: a fire-alarm hormone story, not only a mood word.
+- Caffeine can raise the siren; L-theanine-linked drinks more often keep markers nearer baseline in cited designs.
+- Before you believe a stress headline: **dose, task, timing, contrast** (same literacy as Module 2.2).
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - "I adapted to coffee" ≠ "stress no longer raises cortisol."[^5]
 - L-theanine stress findings are often **task** or **real-life stress** designs—not magic on a sofa.[^1][^4]
 - Vessel and blood-pressure talk is supportive physiology, not a treatment plan.[^2][^3]
+:::
 
 ::: {.callout-note collapse="true" title="More detail: which paper answers which question?"}
 | Question | Better primary trail |

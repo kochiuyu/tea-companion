@@ -148,7 +148,7 @@ Overclaim to avoid: tea rooms "cause" peace treaties, or *chado* automatically p
 
 ## How this lesson talks to Modules 2 and 4
 
-Eisai's "nourishes the heart" line sits beside modern HRV / parasympathetic findings in the packs' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([2.4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
+Eisai's "nourishes the heart" line sits beside modern **heart-beat flexibility** (HRV) / rest-and-digest findings in the packs' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([2.4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
 
 Monastic scheduling also foreshadows Chapter 3's ritual lesson: fixed steps, shared timing, less improvisation under stress. The monastery wrote tea into the day. The modern brewing break writes a short script into a stressful afternoon. Different centuries; related scaffolding idea.
 
@@ -178,6 +178,14 @@ Okakura Kakuzō wrote *The Book of Tea* in **English** (Fox Duffield, **1906**) 
 Romance to refuse: treating Okakura's 1906 English essay as if it *were* the Tang Classic, the 1103 Chan code, or a lab notebook. Doorway yes. Gospel no.[^4]
 :::
 
+
+
+::: {.callout-tip title="You can stop here"}
+- Tea moved from medicine soup → monastery timetable → tea-room practice.
+- Lu Yu taught noticing the boil; Chan codes wrote tea into shared schedules; Eisai argued tea nourishes against lethargy.
+- Folklore (Bodhidharma's eyelids) is color, not primary history—keep it labeled.
+- Old "nourishes the heart" language can rhyme with modern heart-beat flexibility measures without becoming an fMRI claim.
+:::
 
 ---
 

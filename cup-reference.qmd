@@ -29,6 +29,12 @@ If your green tea tastes mild, you may be below these ranges. If your black tea 
 
 Keenan's group measured L-theanine in real 200 mL cups after a two-minute steep and found brew time was the biggest dial—ordinary black tea often landed near **24 mg**, with lower averages for some greens in that particular sample set [^5]. Pack ranges above blend those findings with other consumer-brew notes so a 250 mL home cup stays easy to compare.
 
+
+::: {.callout-note title="Tea vs coffee caffeine (qualitative)"}
+On this site, everyday **tea** cups in the table above land in the **tens of milligrams** of caffeine (roughly **30–80 mg** for the green/black rows). A large **coffee** is usually described as a stronger caffeine hit than those tea rows—which is why Module 2 can say tea is often "less caffeine than a large coffee" plus a second compound coffee does not share. <!-- pack-silent: no coffee mg column in source packs / existing site cites -->
+Exact coffee milligrams are **pack-silent** here; we do not invent a coffee column. Compare tea numbers to the table above, not to an unverified cafe estimate.
+:::
+
 ## Practical notes (still from the packs)
 
 **Water temperature.** Hotter water pulls more catechins. Steeping green tea at **100°C** instead of **80°C** can raise total catechin yield by about **25%**, but it also pulls more bitter material and can hurt taste [^1]. That is the same brew-temperature thread Chapter 1 uses when it talks about EGCG needing heat.

@@ -80,24 +80,22 @@ If you want more of the "green tea catechin" side of the cup, hotter water and a
 
 There is also a quiet bridge from this kitchen scene to Chapter 2: EGCG needs more heat to extract well. Brewing green tea well below a comfortable green-tea temperature tends to skew the cup toward caffeine relative to EGCG. So temperature is not only about taste—it changes which compounds dominate the cup you later feel.[^4]
 
-## What to take from this sitting
-
-- Brewing = extraction; heat and time are the main dials.
-- Caffeine and L-theanine leave early; EGCG wants more heat/time and can degrade if overcooked.
-- Cold brew is slow, not caffeine-free.
-- Lab cups are often stronger than home cups—compare with the [Cup reference](../../cup-reference.qmd).
-
-The leaf has given up its guests. Time to name the three who matter most in everyday talk.
 
 ## Story in one minute
 
 Brewing dissolves leaf solids into water. Caffeine and L-theanine exit easily. EGCG wants more heat and time—and can degrade if you overcook the cup. Cold brew only slows the clock; it does not delete caffeine. Your mug strength is usually weaker than tasting-lab liquor, which is why lab headlines and kitchen feelings disagree.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Hot water is a selective extractor: some guests leave early; EGCG needs more heat and time.
+- Time, temperature, and leaf amount are the three dials you actually own.
+- Cold brew slows caffeine exit—it does not delete it.
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - Want calmer-focus chemistry? Do not fear a full timed steep—theanine comes out early—but match temperature to style (greens often near a comfortable hot, not a rolling boil).
 - Want maximum catechin extraction from green tea? Heat and time help until bitterness and degradation win.[^4]
 - Believe cold brew is caffeine-free? Re-read the kinetics.[^1]
+:::
 
 ::: {.callout-note collapse="true" title="More detail: a weekday kettle protocol (not medical advice)"}
 A practical, fact-based starting pattern many drinkers use after this lesson:

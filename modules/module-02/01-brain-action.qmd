@@ -63,22 +63,22 @@ Coffee is mostly a **caffeine delivery system** (plus other coffee compounds out
 Combination trials (Owen, Kelly, Haskell) compared L-theanine and caffeine alone and together; the combination profile was not identical to caffeine alone.[^7][^8][^9]
 :::
 
-## What to take from this sitting
-
-- Caffeine lifts the sleepy brake; L-theanine gently turns down excess go-chatter.
-- Alcohol floods the slow-everything-down side—useful contrast, not a tea tip.
-- "Direct brain-calm booster" is a slogan; the better phrase is **calmer attention with a second tea compound**.
-- Next: can researchers *hear* that difference in brain rhythms?
 
 ## Story in one minute
 
 Caffeine takes the sleepy note off the desk. L-theanine gently turns down noisy chatter so focus feels less panicky. Alcohol dims the whole room. Tea's dual chemistry is caffeine **plus** L-theanine—not caffeine with better branding.
 
-## What this means when you drink tea
+::: {.callout-tip title="You can stop here"}
+- Caffeine blocks the sleepy signal; L-theanine leans toward calm, controlled attention.
+- Tea's dual story is awake *and* quieter—not "coffee minus the bad parts" by slogan.
+- Lab receptor names live in foldouts; the open story only needs gas pedal / brake.
+:::
 
+::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - "Awake but not jittery" is a **mechanism story**, not a guarantee for every mug.
 - Wellness copy that promises a direct brain-calm chemical boost is oversimplified.[^2][^3]
 - Combination trials use known milligrams—translate with the [Cup reference](../../cup-reference.qmd).[^7][^8][^9]
+:::
 
 ::: {.callout-note collapse="true" title="More detail: a dual-story cartoon you can remember"}
 1. The sleepy signal tries to slow the road → caffeine blocks those seats → traffic stays lively.[^1]

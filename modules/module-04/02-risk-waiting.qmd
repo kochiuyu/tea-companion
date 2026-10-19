@@ -46,6 +46,17 @@ Caffeine under pressure, in a pack trading-simulation snapshot, can soften how m
 Full Prospect Theory and hyperbolic-discounting equations are skipped in the open story on purpose. Kahneman & Tversky (1979), Tversky & Kahneman (1992), and Laibson (1997) live in the [Bibliography](../../bibliography.qmd) if you want the math.[^1][^6][^9]
 :::
 
+::: {.callout-note collapse="true" title="More detail: toy arithmetic for λ 2.15 → 1.62 (teaching only)"}
+Pack snapshot: in one caffeine trading simulation, λ moved from about **2.15** to about **1.62**.[^8]
+
+**Toy stake (not a new estimate):** suppose a gain of **+$10** "feels like" +10 utils in a simplified teaching scale, and losses are weighted by λ.
+
+- At λ = **2.15**, a **−$10** loss "feels like" about **−21.5**.
+- At λ = **1.62**, the same **−$10** "feels like" about **−16.2**.
+
+The downside still hurts more than the upside pleases (λ > 1), but it hurts **less than before**. That is all the toy is for: making "softer loss aversion" concrete. It is **not** a forecast for your portfolio, and it does not invent a new empirical λ for tea.
+:::
+
 ::: {.callout-note collapse="true" title="More detail: loss aversion λ, discounting, and BART (pack numbers)"}
 Qualitative framing from the packs—not a prescription for your portfolio:
 
@@ -63,6 +74,8 @@ Lab snapshots (isolated doses):
 | Delay discounting | Alcohol ~0.06% BAC | *k* **0.018 → 0.042** day⁻¹ | Reynolds et al. (2006; pack) [^7] |
 | Loss aversion λ | **200 mg** caffeine in trading simulation | λ **2.15 → 1.62** | Rogers et al. (2013; pack) [^8] |
 | Alcohol + gambling | Intoxication | Riskier play consistent with alcohol myopia | George et al. (2005) [^3] |
+
+**Related task family:** the **Iowa Gambling Task (IGT)** also probes learning from long-run gains and losses; it appears in glossary and in the [4.4 protocol sketch](04-study-protocols.qmd) foldout. This lesson stays with BART and waiting tasks.
 
 What BART is: pump a virtual balloon; each pump earns a little and raises the chance of a pop that wipes the trial. Adjusted pumps = how far people push when they have not just popped. Higher pumps ≈ more risk-seeking in this toy world—not "your career in a cup."
 :::
@@ -104,6 +117,16 @@ Risk and patience are often measured alone. Trust and fairness need someone else
 4. Caffeine-under-pressure λ shift sits beside stress chemistry, not instead of it.[^5][^8]
 5. Overclaim fence: **no** "tea → patient investor."
 6. Next: trust, fairness, cooperation—with Chapter 3 warmth caveats intact.
+:::
+
+## Story in one minute
+
+Losing $10 often hurts more than finding $10 feels good. "One cookie now" often beats "two cookies tomorrow." Labs measure those ideas with balloons and waiting tasks—and with numbers (λ, *k*) that stay in foldouts. Alcohol makes tomorrow fade; caffeine-under-pressure can soften how much losses sting. None of that licenses "green tea makes you a patient investor."
+
+::: {.callout-tip title="You can stop here"}
+- Losses often sting more than equal gains please; "one cookie now" often beats "two tomorrow."
+- Lab balloons and discount numbers live in foldouts—toy risk, not career advice.
+- Overclaim fence: **no** "tea → patient investor."
 :::
 
 ---
