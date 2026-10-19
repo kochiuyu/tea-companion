@@ -8,7 +8,7 @@ That question is the door into this site.
 
 This is not a lab notebook and not a sales brochure. It is a **story-shaped journey** through a drink that almost everyone has tried and almost nobody fully explains. The facts come from owner-supplied source packs, and—where we expand a chapter—from peer-reviewed papers, historical archives, and university pages we opened and checked. The owner of this site is an economist. We do **not** invent economic theories here. We only retell what those sources already support—in plain English a smart high-school student can follow.
 
-Each chapter is meant to be long enough to be interesting and short enough to stay a story. Numbers wear bracketed markers like [1] that point to a **References** list at the end of that page (Wikipedia style). The [Bibliography](bibliography.qmd) remains the master map across the whole site.
+Each chapter is meant to be long enough to be interesting and short enough to stay a story. **Clickable footnotes** work both ways (tap the number → source; tap the caret → back to the sentence; hover often shows a popup). Denser study tables and side-stories sit in collapsed **"More detail…"** foldouts so the open page does not feel like a wall of text. The [Bibliography](bibliography.qmd) remains the master map across the whole site.
 
 ## What this journey is about
 
@@ -35,7 +35,7 @@ When a technical word appears, we define it in the story the first time. The [Gl
 
 When you wonder how a brewing fact connects to mood, or a warm mug to a trust game, open [Linkages](linkages.qmd). Those eleven bridges are the threads that sew the chapters together.
 
-When you want the paper behind a name-and-year—or a numbered marker on a chapter page—use that chapter's **References** section or the [Bibliography](bibliography.qmd).
+When you want the paper behind a name-and-year—or a footnote marker on a chapter page—click the footnote or open the [Bibliography](bibliography.qmd).
 
 ## What we refuse to invent
 
