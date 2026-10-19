@@ -7,30 +7,33 @@ title: "1.3 What brewing actually does"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold solubility tables, ISO strength numbers, and second-steep physics so the open page stays kitchen language.
 :::
 
 ## The only lab most of us own
 
-You already met the plant ([Lesson 1.1](01-plants.qmd)) and the factory fork ([Lesson 1.2](02-processing.qmd)). Now the leaf is in *your* hands. Brewing is not magic and it is not "just waiting." It is **solid–liquid extraction**: hot (or cold) water dissolving plant solids out of the leaf the way a tea bag clouds a mug.
+You already met the plant ([Lesson 1.1](01-plants.qmd)) and the factory fork ([Lesson 1.2](02-processing.qmd)). Now the leaf is in *your* hands. Brewing is not magic and it is not "just waiting." It is **hot (or cold) water acting like a selective extractor**: some guests leave the leaf early and easily; one needs more heat and time—the way a tea bag clouds a mug.
 
-Classic infusion studies treated steeping as a measurable problem: how fast caffeine and theaflavins leave the leaf, and how water temperature changes those rates.[^1][^2]
+Classic infusion studies treated steeping as a measurable problem: how fast caffeine and related compounds leave the leaf, and how water temperature changes those rates.[^1][^2]
 
-::: {.callout-tip title="Words to know in this sitting"}
+You only need three kitchen dials for the open story: **time**, **temperature**, and **how much leaf**. Dense milligram tables and lab-strength recipes live in the foldouts.
+
+::: {.callout-tip title="Everyday words for this sitting"}
 - **Extraction** — moving compounds from leaf into water.
-- **Infusion kinetics** — how *fast* that move happens (heat and time are the big dials).
-- **Solubility** — how much of a compound water can hold; caffeine and L-theanine dissolve easily; EGCG is pickier.
+- **Early guests** — caffeine and L-theanine leave relatively easily.
+- **Slower guest** — EGCG wants more heat and time.
 - **Cold brew** — slow extraction in cold water; *not* caffeine-free.
 :::
 
 ## Three guests, three exit speeds
 
-**Caffeine** dissolves readily and comes out relatively easily. **L-theanine** is very soluble even at lower temperatures and also comes out early. **EGCG** needs more heat and time. It is also less stable in more alkaline water.[^3][^4]
+**Caffeine** dissolves readily and comes out relatively easily. **L-theanine** is very happy in water even when cooler and also comes out early. **EGCG**—the standout green-tea plant compound—needs more heat and time. It is also less happy if the brew turns too alkaline.[^3][^4]
 
 If you dunk a tea bag for ten seconds, the drink is pale and mild. If you leave it for minutes in hot water, it gets stronger. That is extraction: more time and heat usually mean more compounds in the water—until taste turns too bitter for you.
 
-The snapshot below is an order-of-magnitude guide from the packs and the papers they cite—not a cooking recipe.
+Think of three friends leaving a party. Two are already at the door. One is still finishing a conversation in the kitchen. Heat and time persuade that third friend to leave—but shout too long and the party gets harsh.
 
+::: {.callout-note collapse="true" title="More detail: solubility snapshot and real-cup theanine"}
 | Compound | How it behaves in water | Notes from sources |
 | --- | --- | --- |
 | Caffeine | Dissolves readily; much more soluble as water heats | About 20 g/L at 20°C; much higher near boiling[^1] |
@@ -39,14 +42,13 @@ The snapshot below is an order-of-magnitude guide from the packs and the papers 
 
 Keenan and colleagues measured how much L-theanine actually lands in a real cup. For a 200 mL cup steeped two minutes, they reported roughly **24 mg** in ordinary black tea, lower averages for some specialty blacks and whites, and roughly **8 mg** in the green teas they tested—with brew time as the big dial.[^3] Shaded Japanese greens (Gyokuro, Matcha) can sit higher still; the [Cup reference](../../cup-reference.qmd) keeps those everyday ranges in one place.
 
-Perva-Uzunalić and colleagues mapped how temperature and time change catechin and caffeine recovery from green tea. Short, hot extractions can be efficient; pushing temperature and time too far starts to destroy the very catechins you hoped to pull.[^4] That is the kitchen trade-off in a sentence: hotter and longer can raise EGCG—and bitterness—until the cup tastes like regret.
+Perva-Uzunalić and colleagues mapped how temperature and time change catechin and caffeine recovery from green tea. Short, hot extractions can be efficient; pushing temperature and time too far starts to destroy the very catechins you hoped to pull.[^4]
+:::
 
 ::: {.callout-note collapse="true" title="More detail: extraction rates, cold brew, and the 80°C EGCG trade-off"}
 Classic infusion studies treated steeping as solid–liquid extraction: how fast caffeine and theaflavins leave the leaf, and how water temperature changes those rates.[^1][^2] Pack tables summarize effective diffusion at about 80°C as higher for caffeine and L-theanine than for EGCG—which matches the kitchen feel that EGCG is the "slow guest."[^1][^4]
 
 Caffeine dissolves readily—on the order of **20 g/L** at 20°C, about **108 g/L** at 60°C, and hundreds of g/L near boiling in the pack/Spiro framing.[^1] L-theanine is extremely water-soluble even when cool (about **350 g/L** at 25°C in solubility notes the packs cite), which is why it appears early in a steep.[^3] EGCG needs more heat and time (pack solubility near **33.8 g/L** at 80°C), and it is less stable if the brew turns too alkaline (packs flag instability above about pH 6.5).[^4]
-
-Keenan's group measured real cups: for **200 mL** steeped **two minutes**, ordinary black tea often landed near **24 mg** L-theanine, with lower averages for some specialty blacks/whites and roughly **8 mg** in the greens they tested—brew time was the big dial.[^3] Shaded Japanese greens (Gyokuro, Matcha) can sit higher; see the [Cup reference](../../cup-reference.qmd).
 
 **Cold brew.** Cold water *slows* extraction; it does not delete caffeine. Given enough time (often **12–24 hours** in the literature discussed in the packs), caffeine can reach levels similar to—or above—a short hot steep.[^1]
 
@@ -76,25 +78,24 @@ Particle size matters. A fine fanning grade in a tea bag has more surface area, 
 
 If you want more of the "green tea catechin" side of the cup, hotter water and a bit more time help EGCG extract—but they can also pull more bitter material. Caffeine and L-theanine are already relatively easy to extract.
 
-There is also a quiet bridge from this kitchen scene to Chapter 2: EGCG needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So temperature is not only about taste—it changes which compounds dominate the cup you later feel.
+There is also a quiet bridge from this kitchen scene to Chapter 2: EGCG needs more heat to extract well. Brewing green tea well below a comfortable green-tea temperature tends to skew the cup toward caffeine relative to EGCG. So temperature is not only about taste—it changes which compounds dominate the cup you later feel.[^4]
 
 ## What to take from this sitting
 
 - Brewing = extraction; heat and time are the main dials.
 - Caffeine and L-theanine leave early; EGCG wants more heat/time and can degrade if overcooked.
 - Cold brew is slow, not caffeine-free.
-- Lab cups (ISO 3103) are often stronger than home cups—compare with the [Cup reference](../../cup-reference.qmd).
+- Lab cups are often stronger than home cups—compare with the [Cup reference](../../cup-reference.qmd).
 
 The leaf has given up its guests. Time to name the three who matter most in everyday talk.
 
-
 ## Story in one minute
 
-Brewing dissolves leaf solids into water. Caffeine and L-theanine exit easily. EGCG wants more heat and time—and can degrade if you overcook the cup. Cold brew only slows the clock; it does not delete caffeine. Your mug strength is usually weaker than ISO tasting liquor, which is why lab headlines and kitchen feelings disagree.
+Brewing dissolves leaf solids into water. Caffeine and L-theanine exit easily. EGCG wants more heat and time—and can degrade if you overcook the cup. Cold brew only slows the clock; it does not delete caffeine. Your mug strength is usually weaker than tasting-lab liquor, which is why lab headlines and kitchen feelings disagree.
 
 ## What this means when you drink tea
 
-- Want calmer-focus chemistry? Do not fear a full timed steep—theanine comes out early—but match temperature to style (greens often near ~80°C).
+- Want calmer-focus chemistry? Do not fear a full timed steep—theanine comes out early—but match temperature to style (greens often near a comfortable hot, not a rolling boil).
 - Want maximum catechin extraction from green tea? Heat and time help until bitterness and degradation win.[^4]
 - Believe cold brew is caffeine-free? Re-read the kinetics.[^1]
 
@@ -118,8 +119,6 @@ This is kitchen literacy, not a prescription.
 5. Temperature changes **which** compounds dominate—not only how strong the cup tastes.
 :::
 
-
-
 ## A second cup: why the second steep tastes different
 
 Whole-leaf drinkers already know the plot twist: the first steep is not the whole story. Because caffeine and L-theanine exit relatively early, a first infusion can feel brisk and stimulating, while later steeps—especially with greens and oolongs—shift toward softer amino-acid and aroma notes as the easy guests have partly left.[^1][^3] Broken bag grades compress that drama into one fast act: high surface area, quick dark liquor, fewer polite second chances.
@@ -129,7 +128,6 @@ That is still extraction physics, not mysticism. It is also why "I used the same
 ::: {.callout-note collapse="true" title="More detail: linking brewing dials to Module 2 feelings"}
 Module 2 will talk about calm focus and stress markers after you swallow. This lesson's quiet warning: **if you brew green tea far below ~80°C**, you may skew the cup toward caffeine relative to EGCG.[^4] You did not invent a new plant—you changed the guest list. Pair that with Chapter 1's timing clocks ([Lesson 1.4](04-compounds.qmd)) and you get a fairer reading of "this tea felt different today."
 :::
-
 
 ---
 

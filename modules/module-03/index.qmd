@@ -10,7 +10,9 @@ Hold that thought while you picture a different room: a British counting house i
 
 Why tell that story after the brain-wave chapter? Because "why tea feels different" is incomplete if you only talk about molecules. People also drink tea because of money, empire, ritual, and the simple comfort of a warm hand. The packs keep those threads separate from chemistry claims—and so do we. Tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style. Hover often shows a popup too. Collapsed "More detail…" boxes hold denser history tables and study caveats.
 
-::: {.callout-tip title="Words to know on this journey"}
+::: {.callout-tip collapse="true" title="Words to know on this journey (open if you want labels)"}
+Everyday story first; lab and treaty labels live here so the open page stays a narrative.
+
 - **Canton System** — Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment.
 - **Opium Wars** — conflicts (1839–1860) that forced trade openings after the silver–tea–opium crisis.
 - **Chado** — Japan's highly ritualized "way of tea."
@@ -33,6 +35,20 @@ Each sitting is one pack branch—the same four-way split as the owner's source 
 4. **[The brewing break as a stress reset](04-ritual-stress.qmd)** — ritual psychology; **Brooks 2016 not used as evidence**
 
 **Start with lesson 1:** [Silver, ships, and who controlled the leaf](01-trade-history.qmd)
+
+::: {.callout-note collapse="true" title="More detail: four rooms in the story (a chapter map)"}
+Picture the chapter as four rooms you walk through in order—same leaf family, different human plots:
+
+| Room | Century flavor | What you notice | Lesson |
+| --- | --- | --- | --- |
+| **Counting house** | 1830s Canton / Britain | Silver leaves; tea chests arrive; opium and treaties rewrite the rules | [3.1](01-trade-history.qmd) |
+| **Monastery / tea room** | Tang–Song Chan → Eisai → *chado* | Tea as medicine soup, then wakefulness schedule, then leveled social practice | [3.2](02-monastic-path.qmd) |
+| **Psychology lab** | 2000s–2010s | Warm pack in the hand; stranger judgments; replication stress-tests | [3.3](03-warmth-trust.qmd) |
+| **Kitchen under pressure** | Anytime | Measure, watch, wait—a short script before the hard task | [3.4](04-ritual-stress.qmd) |
+
+Needham's botanical history and Benn's religious-cultural history are reminders that tea was never only a stimulant molecule waiting for a Western lab.[^3] The packs keep money, ritual, warmth, and chemistry as *separate threads*—and so do we.
+:::
+
 
 ## Why this chapter belongs after the lab coat
 

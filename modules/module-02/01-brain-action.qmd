@@ -7,91 +7,83 @@ title: "2.1 Gas pedals, brakes, and a busy road"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold receptor names, dose tables, and study snapshots so the open page stays everyday language.
 :::
 
 ## Why tea and coffee can feel different
 
-Chapter 1 left three guests in your bloodstream. This sitting asks the question that makes people switch—or defend the switch—*Why does tea so often feel awake and calmer, while coffee can feel like a jolt?*
+Chapter 1 left three guests in your bloodstream. This sitting asks the question that makes people switch—or defend the switch:
+
+*Why does tea so often feel awake and calmer, while coffee can feel like a jolt?*
 
 Picture two friends at the same office hour. One finishes a large coffee and answers email at speed—fingers fast, shoulders high. The other finishes a mug of tea and also works, but the room feels quieter. Both are awake. Only one looks ready to snap at a Slack ping. That everyday contrast is what this lesson begins to explain—without slang and without miracle claims.
 
-::: {.callout-tip title="Words to know in this sitting"}
-- **Adenosine A₁ / A₂A receptors** — "slow down / sleep" sensors that caffeine blocks.
-- **Glutamate** — a main excitatory (gas-pedal) signal.
-- **GABA** — a main inhibitory (brake) signal.
-- **Competitive antagonist** — a molecule that occupies a receptor seat so the usual guest cannot sit there as easily.
-:::
+You only need three plain ideas for the open story: a **sleepy signal**, a **gas pedal**, and a **brake**. The lab names live in the foldouts.
 
 ## Gas pedals, brakes, and a busy road
 
 Think of brain signaling as a busy road with gas pedals and brakes.
 
-**Caffeine** blocks adenosine (the chemical that promotes sleepiness) at A₁ and A₂A receptors. Neurons stay more "awake." Related signaling for dopamine, norepinephrine, and glutamate can rise. The classic review by Fredholm and colleagues still gives the clearest public map of that story: caffeine is mainly an adenosine-receptor antagonist at everyday doses, not a mysterious "energy molecule."[^1]
+**Caffeine**—the familiar wake-up compound in coffee and tea—blocks the brain's "you're getting sleepy" signal. Neurons stay more awake. Related go-signals can rise. The classic review by Fredholm and colleagues still gives the clearest public map: at everyday doses, caffeine mainly occupies the sleepy-signal seats so the usual guest cannot sit there as easily—not a mysterious "energy molecule."[^1]
 
-**L-theanine** weakly competes at some glutamate receptors and is also linked to more calming inhibitory tone. That can blunt over-excitation and support calmer, more controlled attention.[^2][^3] Binding studies show theanine can occupy AMPA, kainate, and NMDA-related sites—but with much weaker affinity than glutamate itself. Think "gentle nudge on the volume knob," not "unplug the amp."[^3]
+**L-theanine**—a calming amino acid found in tea (not coffee)—gently turns down excess "go" chatter. That can blunt over-excitement and support calmer, more controlled attention.[^2][^3] Think "gentle nudge on the volume knob," not "unplug the amp."
 
-**Alcohol (ethanol)** boosts GABA_A inhibition and blocks some NMDA glutamate signaling. Neural activity slows; learning and memory processes can be disrupted.[^4][^5]
+**Alcohol** works differently. It leans hard on the brake side and weakens some of the go-signals involved in learning and careful memory. Neural activity slows; careful thinking can fade.[^4][^5]
 
-In everyday clothes: caffeine is like taking the "you're getting sleepy" note off the desk so you keep working. L-theanine is more like turning down noisy chatter so you can focus without panic. Alcohol is like dimming the whole room's lights—everything slows, including careful thinking.
+In everyday clothes:
 
-| Drink / compound | Main idea | Rough downstream effect | Key evidence |
+- Caffeine is like taking the "you're getting sleepy" note off the desk so you keep working.
+- L-theanine is more like turning down noisy chatter so you can focus without panic.
+- Alcohol is like dimming the whole room's lights—everything slows, including careful thinking.
+
+::: {.callout-note collapse="true" title="More detail: receptor seats and study snapshots"}
+| Drink / compound | Lab idea | Rough downstream effect | Key evidence |
 | --- | --- | --- | --- |
-| Caffeine | Competes with adenosine at A₁ and A₂A receptors | Neurons stay more "awake"; related dopamine / norepinephrine / glutamate signaling can rise | Fredholm et al. (1999)[^1] |
-| L-Theanine | Weakly competes at some glutamate receptors; linked to more calming inhibitory tone | Can blunt over-excitation; associated with calmer, more controlled attention | Kakuda (2011); Kakuda et al. (2002)[^2][^3] |
+| Caffeine | Competes with adenosine at A₁ and A₂A receptors (competitive antagonist) | Neurons stay more "awake"; related dopamine / norepinephrine / glutamate signaling can rise | Fredholm et al. (1999)[^1] |
+| L-Theanine | Weakly competes at some glutamate receptors (AMPA, kainate, NMDA-related); linked to more calming inhibitory tone | Can blunt over-excitation; associated with calmer, more controlled attention | Kakuda (2011); Kakuda et al. (2002)[^2][^3] |
 | Alcohol (ethanol) | Boosts GABA_A inhibition and blocks some NMDA glutamate signaling | Neural activity slows; learning and memory processes can be disrupted | Mihic et al. (1997); Lovinger et al. (1989)[^4][^5] |
 
-## Two light study snapshots (read the doses)
+**Two light study snapshots (read the doses):**
 
-- **Caffeine and dopamine receptors:** a PET study by Volkow and colleagues found that oral caffeine increased striatal D2/D3 receptor availability. The published dose in that paper is **300 mg** caffeine (not the 200 mg sometimes listed in secondary tables); the increase was on the order of a few percent in putamen/ventral striatum—sensitivity talk, not a huge dopamine dump.[^6]
-- **L-theanine and GABA tone:** pack tables cite an oral **200 mg** L-theanine condition with a reported rise in plasma GABA over two hours. Treat that as a pack-sourced snapshot pending your own paper check; the primary Kakuda trail still frames calming effects mainly through low-affinity glutamate antagonism plus milder, indirect GABA facilitation—not a direct GABA_A agonist story.[^2][^3]
+- **Caffeine and dopamine receptors:** a PET study by Volkow and colleagues found that oral caffeine increased striatal D2/D3 receptor availability. The published dose is **300 mg** caffeine (not the 200 mg sometimes listed in secondary tables); the increase was on the order of a few percent in putamen/ventral striatum—sensitivity talk, not a huge dopamine dump.[^6]
+- **L-theanine binding:** Kakuda binding work shows low-affinity competition at glutamate-related sites (IC50 on the order of **~10 mM**)—much weaker than glutamate itself. Pack tables sometimes cite an oral **200 mg** L-theanine plasma-GABA rise over two hours; treat that as a pack-sourced snapshot. The primary Kakuda trail still frames calming effects mainly through low-affinity glutamate antagonism plus milder, indirect GABA facilitation—not a direct GABA_A agonist story.[^2][^3]
 
-::: {.callout-note collapse="true" title="More detail: receptor snapshots (doses from packs + verified papers)"}
-| Parameter | Condition | Finding | Trail |
-| --- | --- | --- | --- |
-| Striatal D2/D3 availability | **300 mg** caffeine (Volkow et al., 2015) | Small increase in D2/D3 availability (putamen / ventral striatum) | Volkow et al. (2015)[^6] |
-| NMDA competition | L-theanine binding | Low-affinity competitive block (IC50 on the order of **~10 mM** in Kakuda binding work) | Kakuda et al. (2002)[^3] |
-| Pack narrative: plasma GABA | ~**200 mg** L-theanine | Pack table: about **18.5% ± 4.2%** higher over 2 h (verify against primary if you cite outside class) | Pack addition tables |
-
-Fredholm and colleagues' review remains the clearest public map of caffeine as an adenosine A₁ / A₂A antagonist at everyday doses—not a mysterious "energy molecule."[^1] Alcohol, by contrast, boosts GABA_A inhibition and blocks some NMDA currents, slowing careful neural work.[^4][^5]
-
-**Honesty check on the GABA slogan.** Secondary wellness copy often calls L-theanine a "GABA booster." The packs' primary trail says it does **not** bind GABA_A / GABA_B active sites as an agonist; calming effects are framed mainly as low-affinity glutamate-receptor antagonism plus milder, indirect GABA facilitation.[^2][^3]
+**Honesty check on the "GABA booster" slogan.** Secondary wellness copy often calls L-theanine a "GABA booster." The packs' primary trail says it does **not** bind GABA_A / GABA_B active sites as an agonist; calming effects are framed mainly as low-affinity glutamate-receptor antagonism plus milder, indirect GABA facilitation.[^2][^3]
 :::
 
 ## Tea's dual story—without overselling
 
-Tea's dual story—caffeine plus L-theanine—helps explain why many people describe tea as "awake but not as jittery as coffee." Volunteer studies that give both compounds together often find better attention switching and less distractibility than caffeine alone at modest doses.[^7][^8][^9] Haskell and colleagues, for example, compared L-theanine and caffeine alone and together and reported a combination profile that was not identical to caffeine alone.[^9]
+Tea's dual story—caffeine **plus** L-theanine—helps explain why many people describe tea as "awake but not as jittery as coffee." Volunteer studies that give both compounds together often find better attention switching and less distractibility than caffeine alone at modest doses.[^7][^8][^9]
 
-The packs still warn against overselling. Here is a common story people tell: "L-theanine is a direct GABA booster." Secondary blurbs often say that. The packs' sources say otherwise: L-theanine does not bind the main GABA receptor sites as an agonist. It mainly acts as a low-affinity blocker at certain glutamate receptors, with a milder, indirect lift in GABA release.[^2][^3]
+The packs still warn against overselling. Here is a common story people tell: "L-theanine is a direct brain-calm booster" (wellness aisles often name a specific brake chemical). Secondary blurbs often say that. A better everyday phrase is: **it gently turns down excess go-chatter and supports calmer attention**—not "it is a sedative sleeping pill." Open the foldout above for the precise lab names.
 
 ::: {.callout-tip collapse="true" title="More detail: coffee vs tea in one paragraph"}
 Coffee is mostly a **caffeine delivery system** (plus other coffee compounds outside this course's three-guest cast). Tea usually delivers **less caffeine than a large coffee** *and* a second compound coffee does not share: **L-theanine**. Chapter 1's timing still matters—L-theanine blood peaks and many attention findings sit tens of minutes after drinking, not at the first sip. Lab capsules are not grocery bags; keep the [Cup reference](../../cup-reference.qmd) nearby.
+
+Combination trials (Owen, Kelly, Haskell) compared L-theanine and caffeine alone and together; the combination profile was not identical to caffeine alone.[^7][^8][^9]
 :::
 
 ## What to take from this sitting
 
-- Caffeine lifts the adenosine brake; L-theanine gently turns down excess excitatory chatter.
-- Alcohol floods the inhibitory side and weakens careful monitoring—useful contrast, not a tea tip.
-- "GABA booster" is a slogan; the better phrase is **low-affinity glutamate antagonism + calmer attention**.
+- Caffeine lifts the sleepy brake; L-theanine gently turns down excess go-chatter.
+- Alcohol floods the slow-everything-down side—useful contrast, not a tea tip.
+- "Direct brain-calm booster" is a slogan; the better phrase is **calmer attention with a second tea compound**.
 - Next: can researchers *hear* that difference in brain rhythms?
-
-So the road has gas and brakes. Can researchers *hear* that difference in the brain's rhythms?
-
 
 ## Story in one minute
 
-Caffeine takes the sleepy note off the desk by blocking adenosine receptors. L-theanine gently turns down excess excitatory chatter at glutamate-related sites and supports calmer attention. Alcohol dims the whole room by boosting inhibition and blocking some learning-related excitatory currents. Tea's dual chemistry is caffeine **plus** L-theanine—not caffeine with better branding.
+Caffeine takes the sleepy note off the desk. L-theanine gently turns down noisy chatter so focus feels less panicky. Alcohol dims the whole room. Tea's dual chemistry is caffeine **plus** L-theanine—not caffeine with better branding.
 
 ## What this means when you drink tea
 
 - "Awake but not jittery" is a **mechanism story**, not a guarantee for every mug.
-- Wellness copy that says "direct GABA booster" is oversimplified.[^2][^3]
-- Combination trials (Owen, Kelly, Haskell) are about known milligrams—translate with the [Cup reference](../../cup-reference.qmd).[^7][^8][^9]
+- Wellness copy that promises a direct brain-calm chemical boost is oversimplified.[^2][^3]
+- Combination trials use known milligrams—translate with the [Cup reference](../../cup-reference.qmd).[^7][^8][^9]
 
 ::: {.callout-note collapse="true" title="More detail: a dual-story cartoon you can remember"}
-1. Adenosine tries to slow the road → caffeine blocks the seats → traffic stays lively.[^1]
-2. Glutamate chatter gets loud → L-theanine nudges the volume down weakly → attention feels less panicky.[^3]
-3. Alcohol opens the GABA floodgates and jams some NMDA doors → careful thinking fades.[^4][^5]
+1. The sleepy signal tries to slow the road → caffeine blocks those seats → traffic stays lively.[^1]
+2. Go-chatter gets loud → L-theanine nudges the volume down weakly → attention feels less panicky.[^3]
+3. Alcohol opens the brake floodgates and jams some learning-related go doors → careful thinking fades.[^4][^5]
 
 Keep the cartoon. Check the doses. Ignore the miracle aisle.
 :::
@@ -100,10 +92,10 @@ Keep the cartoon. Check the doses. Ignore the miracle aisle.
 1. Caffeine ≈ adenosine A₁/A₂A antagonism.[^1]
 2. L-theanine ≈ weak glutamate antagonism + calmer attention—not GABA agonist.[^2][^3]
 3. Alcohol ≈ more GABA_A + less NMDA function.[^4][^5]
-4. Combo trials ≠ grocery bags.
-5. Next sitting: EEG tempos.
+4. Volkow PET dose = **300 mg** (not 200 mg secondary tables).[^6]
+5. Combo trials ≠ grocery bags.
+6. Next sitting: brain tempos without the lab equations in the open story.
 :::
-
 
 ---
 

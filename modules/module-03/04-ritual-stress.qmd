@@ -28,6 +28,24 @@ Three linked claims show up again and again:
 
 Integrative reviews of ritual psychology describe rituals as structured, repetitive, symbolic action sequences that can reduce anxiety and restore a sense of control—especially when the next task feels high-stakes.[^1] Hobson and colleagues organize ritual functions around emotion regulation, performance goal states, and social connection.[^1]
 
+::: {.callout-note collapse="true" title="More detail: Hobson 2018 — how ritual is defined, and what it is for"}
+Hobson, Schroeder, Risen, Xygalatas, and Inzlicht (2018) review ritual psychology as a **process**, not as a single magic outcome.[^1] Teaching snapshot for this site:
+
+**Definition ingredients** (the review's family of features, in plain English):
+
+- A sequence of actions that is **structured** and often **repetitive**.
+- Actions that are **rigid** or invariant relative to the goal (you do the steps even when a shortcut would "work").
+- Often **symbolic**—the sequence means something beyond the physical result (a cup of tea could be made faster; the script is the point).
+
+**Three functions** the review organizes (expanded again later on this page):
+
+1. Regulate **emotions** (anxiety, grief, excitement).
+2. Regulate **performance goal states** (readiness before a high-stakes task).
+3. Regulate **social connection** (doing the same thing together).
+
+**Two routes:** bottom-up physical features (repetition, rigidity, synchrony) and top-down meaning (why *this* sequence matters to you). A solo brewing break leans on emotion and readiness. A shared tea service adds connection. Neither route is a license to cite a retracted anxiety paper—see the Brooks caution below.[^1][^4]
+:::
+
 Predictable behavioral sequences have been linked with lower anxiety and steadier autonomic readings in experimental work on scripted action.[^2] Separately, Chapter 2's L-theanine findings already showed calmer heart-rate and stress markers during hard arithmetic[^3]—so ritual steps and tea chemistry can point in the same direction without being the same thing.
 
 | Measure | Finding | Source |
@@ -46,7 +64,17 @@ Predictable behavioral sequences have been linked with lower anxiety and steadie
 
 Ritual psychology review (Hobson et al., 2018): structured rituals can regulate emotion, performance goals, and social connection via bottom-up physical features and top-down meaning.[^1]
 
-**Not in this table:** Brooks et al. (2016) STAI anxiety scores—see the caution box. Those numbers are **not** evidence on this site.
+**Not in this table:** Brooks et al. (2016) STAI anxiety scores—see the caution box and the retraction foldout. Those numbers are **not** evidence on this site.
+:::
+
+::: {.callout-note collapse="true" title="More detail: Lang heart-rate and Hobson ERN — what the pack numbers are"}
+Two non-Brooks rows carry the packs' numeric color. They are **experimental snapshots**, not a promise that your kettle will move your heart rate by a fixed amount.
+
+**Lang and colleagues (2015) — heart rate under acute stress.** The packs read a scripted, repetitive sequence as buffering autonomic acceleration: mean heart rate down about **4.3 bpm ± 0.9** versus a less structured comparison (pack: *t*(44) = 4.78, *p* < 0.001, *d* ≈ 0.71).[^2] The open lesson's point is directional: predictable action can steady the body a bit. The foldout's point is the magnitude the packs attach to that paper—and the humility that one lab contrast is not a personal biofeedback guarantee.
+
+**Hobson and colleagues (2017) — error-related negativity.** ERN is a fast brain "oops" wave, often discussed at the anterior cingulate, within roughly the first **100 ms** after a mistake. The packs read a high-ritual group as showing amplitude down about **1.85 μV ± 0.35** versus an unscripted control (*p* < 0.05).[^5] Teaching translation: less emotional perseveration on the error—not "you stop making mistakes," and not "mindfulness" by another name.
+
+**Kimura bridge (not a ritual-script paper).** L-theanine under hard arithmetic lowered heart rate and stress markers versus placebo.[^3] Chemistry and choreography can rhyme. They are still different mechanisms—see [Module 2 · Body signals](../module-02/04-body-signals.qmd).
 :::
 
 ## A citation we do not lean on
@@ -57,6 +85,26 @@ One pack-cited paper (Brooks et al., 2016, "Don't stop believing…") reported t
 If you see that paper cited approvingly elsewhere, treat it as a warning label, not a finding.
 :::
 
+::: {.callout-caution collapse="true" title="More detail: why Brooks 2016 is excluded (retraction, not a quibble)"}
+The owner packs include a Brooks et al. (2016) row: ritual vs random movements, STAI means about **34.6** vs **42.8**, and a performance story. **This site does not teach those numbers.** The article in *Organizational Behavior and Human Decision Processes* was **retracted in 2024**.[^4][^6]
+
+What the journal's retraction notice describes, in plain language:[^6]
+
+- The author team contacted the editor after their own data audit and said they **no longer had confidence in the integrity of the data**, then requested retraction.
+- The journal could not obtain raw data for Studies 1a, 1b, or 2. Posted data for Study 1b showed **anomalous streaks** in heart-rate ratings.
+- For Studies 3 and 4, reanalysis found **unreported exclusions** (6 and 11 participants). With everyone included, the **focal effects were no longer significant**.
+
+**Therefore:**
+
+| You may see elsewhere | What we do here |
+| --- | --- |
+| "Rituals cut STAI from ~43 to ~35" | **Not used.** Those figures come from the retracted paper / pack row that cited it |
+| "Rituals improve performance (Brooks 2016)" | **Not used** |
+| Hobson 2018 review; Lang autonomic work; Hobson 2017 ERN; Kimura L-theanine | **Still in the story**, with their own limits [^1][^2][^5][^3] |
+
+Excluding Brooks does **not** mean "rituals do nothing." It means this one famous anxiety-and-performance paper is not evidence. If a slide deck still leads with it, that is a warning label.
+:::
+
 ## Ritual is not the same as mindfulness
 
 People often blur the two: "Tea ritual = mindfulness." Mindfulness is open awareness of the present moment. Ritual, in these sources, is more about **fixed, predictable steps**.
@@ -65,13 +113,17 @@ Cognitive neuroscience in the packs' verification note draws a sharper line: rit
 
 That distinction matters for how you read a "brewing break." You are not required to become a meditation teacher. You are practicing a short, repeatable script that gives the error-alarm less room to spiral.
 
-::: {.callout-note collapse="true" title="More detail: mindfulness vs rigid scripting"}
-| Idea | What it emphasizes | How the packs use it |
-| --- | --- | --- |
-| Mindfulness | Open, receptive present-moment awareness | Often *conflated* with tea ritual in popular management writing |
-| Ritual scripting | Fixed, repetitive, predictable action sequences | Primary mechanism story here: predictability → blunted ERN / lower anxiety [^1][^5] |
+::: {.callout-note collapse="true" title="More detail: mindfulness vs a scripted brewing break"}
+Popular management writing often flattens "tea ritual" into "mindfulness." The packs' verification note—and Hobson's review—draw a sharper line.[^1][^5]
 
-Both can be valuable. They are not interchangeable labels. A brewing sequence can be done mindfully—or done as muscle-memory scaffolding on a stressful day. The experimental literature cited here leans on the scaffolding story.
+| | Mindfulness (popular sense) | Ritual scripting (this lesson) |
+| --- | --- | --- |
+| Stance | Open, receptive awareness of whatever arises | Fixed steps you can do almost without deciding |
+| What reduces anxiety, in the cited story | Often described as observing thoughts | **Predictability**: fewer branches, blunted error-alarm (ERN) [^5] |
+| Failure mode | "I failed to be present" | Skipping the script and spiraling on the task |
+| Tea example | Noticing aroma, temperature, thoughts as they pass | Same leaf amount, same watch-the-water, same wait—even on a bad day |
+
+You *can* brew mindfully. The experiments this page leans on do not require you to. They lean on a short invariant sequence that gives circular worry less room. Monastery codes in [3.2](02-monastic-path.qmd) are an older, communal version of the same scaffolding idea—not a lab replica.
 :::
 
 ## Chemistry and choreography can rhyme
@@ -135,3 +187,5 @@ Then open [Module 4](../module-04/index.qmd) when you want the decision games.
 [^4]: Retraction notice: Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. (2016). Don't stop believing: Rituals improve performance by decreasing anxiety. *Organizational Behavior and Human Decision Processes* — retracted 2024 for data-integrity issues. https://doi.org/10.1016/j.obhdp.2016.07.004
 
 [^5]: Hobson, N. M., et al. (2017). Ritualistic behavior and the error-related negativity (ERN). *Social Cognitive and Affective Neuroscience, 12*(11), 1779–1788. (Pack-cited ERN amplitude delta.)
+
+[^6]: Retraction notice (2024). Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. "Don't stop believing: Rituals improve performance by decreasing anxiety." *Organizational Behavior and Human Decision Processes*. https://doi.org/10.1016/j.obhdp.2024.104377 — Authors reported loss of confidence in data integrity; journal noted anomalies in Study 1b heart-rate data and unreported exclusions in Studies 3 and 4 (focal effects nonsignificant when exclusions were restored). **Not used as evidence on this site.**

@@ -90,6 +90,18 @@ Important limits, said early and often:
 - Lab tint is not boardroom strategy.
 - Early behavioral headlines were large; later replications were not.[^4]
 
+::: {.callout-note collapse="true" title="More detail: where physical warmth and social warmth meet"}
+Inagaki and Eisenberger (2013) used fMRI to look for overlap between physical warmth (warm vs cold pad) and social warmth (reading supportive messages). They report a shared cluster in the **bilateral anterior insula**—the packs' teaching coordinates are about **x = 38, y = 20, z = −4** in that paper's space.[^2]
+
+| Everyday phrase | What the study is pointing at |
+| --- | --- |
+| "My hand feels warm" | Thermoregulatory / somatosensory processing |
+| "That person seems warm" | Social-affective judgment |
+| "Same neighborhood in the brain" | Overlapping anterior-insula activation in the cited design |
+
+**Keep the fence:** neural overlap is the more durable claim in the packs' framing. Downstream gift-choice behavior is the fragile one (see Lynott).[^4] Embodied cognition here means *tint*, not *remote control*.
+:::
+
 ::: {.callout-note collapse="true" title="More detail: reading Kang beside Lynott"}
 Kang et al. (2011) report temperature effects on fairness/trust-related allocations—including the pack's ~**+24.8%** first-mover story at ~**60°C** vs cold.[^3]
 
@@ -102,6 +114,20 @@ Both can be true in a careful teaching site:
 - Therefore: cite warmth as **interesting and contested**, and as a **methods confound**—not as a permanent generosity switch.
 :::
 
+::: {.callout-note collapse="true" title="More detail: Williams & Bargh vs Kang vs Lynott (side-by-side)"}
+Three papers do different jobs. Keeping them in one table stops a common slide: citing the largest original *d* while ignoring the failed replication, or treating Kang's bargaining design as if it *were* Williams & Bargh's gift choice.
+
+| Paper | What was manipulated | What was measured | Headline number (as taught here) | Status for this site |
+| --- | --- | --- | --- | --- |
+| Williams & Bargh (2008) Study 1 | Brief warm vs cold cup | Personality "warmth" rating (1–7) | M ≈ **5.63** vs **4.04**; pack *d* ≈ **1.69** | Original claim—very large [^1] |
+| Williams & Bargh (2008) Study 2 | Warm vs cold therapeutic pack | Gift for friend vs self | Warm **54%** friend; cold **75%** self | Original claim [^1] |
+| Lynott et al. (2014) | Preregistered multi-lab repeat of Study 2 | Same gift-choice logic | **No support** at any site; combined **N = 861** | **Failed replication**—keep prominent [^4] |
+| Kang et al. (2011) | Physical temperature around fairness/trust tasks | Fairness / first-mover style allocations | Pack narrative ~**+24.8%** first send at ~**60°C** vs cold | Separate design—not a Lynott rematch [^3] |
+| Inagaki & Eisenberger (2013) | Warm pad + supportive messages | fMRI overlap in anterior insula | Shared insula cluster | Neural-overlap bridge [^2] |
+
+**Teaching sentence:** the famous prosocial-gift headline is **contested**; the insula overlap is **more durable** in the packs' framing; Kang is a **different** thermal-bargaining story that Chapter 4 still treats as a reason to lock mug temperature—not as a boardroom cheat code.[^3][^4][^7]
+:::
+
 ## Why Module 4 will obsess over 60°C
 
 If you only remember one applied sentence from this lesson, remember this: **mug temperature is not a neutral stage prop.**
@@ -110,6 +136,18 @@ When Chapter 4's protocols lock drinks near **60°C ± 2°C** in opaque mugs, th
 
 Context is part of the dose. Warmth is part of context.
 
+::: {.callout-note collapse="true" title="More detail: why the matched mug sits near 60°C"}
+Chapter 4's study-protocol lesson specifies drinks in identical opaque mugs held near **60°C ± 2°C**, with bitterness matched (for example with food-grade quinine in controls) so that *temperature and taste* do not quietly become the experiment.[^7]
+
+Why that number shows up in the packs' warmth narrative:
+
+- Kang et al.'s temperature manipulations are taught here with a warm condition near **~60°C** versus a cold pad—so locking the mug near that band is a methods rhyme, not a mystical tea temperature.[^3]
+- If thermal priming can shift *some* social or fairness behaviors in *some* designs, then an unlocked mug temperature confounds pharmacology with warmth.[^3]
+- Opacity and matched bitterness attack a different confound: people guessing which cup is "the real tea."
+
+**Not claimed:** that 60°C is the one true serving temperature for every tea style, or that locking temperature *creates* trust. It *controls* a variable this lesson made visible.
+:::
+
 
 
 ## Field vs lab: what a beginner should expect
@@ -117,6 +155,18 @@ Context is part of the dose. Warmth is part of context.
 In a quiet lab, a researcher can hand you a warm pack, ask you to rate a stranger, and write down a number. In a noisy cafe, warmth competes with sleep debt, reputation, attractiveness, and whether you already like the person across from you. That is one reason large behavioral replications struggled: the original effect was huge, and huge social effects are exactly what later teams stress-test.[^4][^5]
 
 So use this lesson as a **lens**, not a lever. The lens says: body temperature can tint social judgment, especially in stripped-down tasks. The lever fantasy says: hand someone a mug and rewrite the deal. Chapter 4 will keep the lens and refuse the fantasy.
+
+::: {.callout-note collapse="true" title="More detail: field vs lab — what a beginner should expect"}
+| Setting | What is controlled | What usually wins | How to read a "warm mug" claim |
+| --- | --- | --- | --- |
+| Quiet lab | Cup temperature, task, stranger description | The experimental contrast can show up as a rating shift | Interesting *if* replicated |
+| Multi-lab replication | Same idea, more sites, preregistration | Fragile effects often shrink or vanish | Lynott N = 861 is the caution light [^4] |
+| Cafe / boardroom | Almost nothing thermal is locked | Sleep, liking, power, reputation, room climate | Do not sell a mug as strategy |
+
+Pack verification note: downstream behavioral outcomes in unstructured settings are highly moderated by individual differences (for example attachment style) and by ambient room temperature—even when the neural overlap story looks sturdier.[^2][^4]
+
+Chabris and colleagues' later reports likewise lean near-zero for the original warmth-to-prosocial headline in field-leaning checks.[^5] That is why this site keeps Lynott in the open caution box, not buried in a footnote.
+:::
 
 
 ---

@@ -39,6 +39,21 @@ The Canton System demanded silver settlement and restricted Western trade to Can
 These figures are **historical secondary tallies** from the packs (Pritchard; Morse). We retell them as the packs give them—useful order-of-magnitude anchors, not a new econometric model of Qing finance.
 :::
 
+::: {.callout-note collapse="true" title="More detail: a day in the Canton trade (hong merchants, not a free market)"}
+Western ships did not stroll into a Chinese marketplace and haggle with anyone. From the mid-eighteenth century until the Treaty of Nanking, the Qing funneled Western maritime trade through Canton and licensed a small guild—the **Cohong** (*gonghang*)—to handle it.[^11][^1]
+
+Britannica's sketch of daily rules, in plain language:[^11]
+
+- A hong merchant **guaranteed** each arriving foreign ship: duties paid, and the foreigners' conduct answered for.
+- After **1757**, when Canton was the only Chinese port open to this trade, hong merchants were the only ones allowed to sell **tea and silk** to Westerners.
+- The firms theoretically numbered **13**, but often only a handful were active. A few, such as Howqua (Wu Bingjian), grew famously rich—even while officials squeezed the guild with heavy exactions.
+- Britain and the Qing court did not deal government-to-government in this channel. The East India Company and the Cohong stood in between.
+
+That is why a "cheap bag" story that starts in 1842 is already late. For decades before the war, tea left China through a bottleneck of licensed merchants, silver settlement, and official supervision—not through an open commodities exchange.[^11][^2]
+
+**Honesty fence:** this foldout describes the *trade architecture*, not a claim that hong merchants "caused" the Opium Wars, or that every chest of tea passed through one comic-book villain. Silver, opium, sovereignty, and coercive diplomacy were tangled together.[^5][^6]
+:::
+
 ## War, treaty, and open ports
 
 The First Opium War (1839–1842) ended with British victory and the **Treaty of Nanking** (29 August 1842; ratified 26 June 1843): five treaty ports opened, Hong Kong Island ceded, the Cohong monopoly abolished, and a large indemnity imposed.[^1][^3][^4]
@@ -64,6 +79,23 @@ Britain then pushed tea growing in its own colonies so it would not depend forev
 Treaty text and scholarly overviews agree on the ports–Hong Kong–indemnity skeleton.[^3][^4] The packs' dollar breakdown is a teaching snapshot of how contemporaries accounted the bill—not a claim that tea alone "caused" the war. Silver, opium, sovereignty, and coercive diplomacy were tangled together.[^5][^6]
 :::
 
+::: {.callout-note collapse="true" title="More detail: what the Treaty of Nanking actually wrote down"}
+The English text (signed 29 August 1842; ratifications exchanged 26 June 1843) is more specific than a one-line "China opened up." A public transcription of the articles lines up with the packs' teaching breakdown:[^12][^3]
+
+| Article | What it says, in short | Tea-story hook |
+| --- | --- | --- |
+| **II** | British merchants may reside and trade at **Canton, Amoy, Foochow-fu, Ningpo, and Shanghai**, with consuls as go-betweens | Ends the single-port funnel |
+| **III** | **Hong Kong Island** ceded "in perpetuity" as a port to careen and store ships | A permanent British foothold—not abstract for readers in Hong Kong |
+| **IV** | **Six million** dollars for opium turned over at Canton in March 1839 | Opium is named in the bill, not only in later slogans |
+| **V** | The **Hong / Cohong** exclusive-dealing rule is abolished at ports where British merchants reside; **three million** dollars for debts of insolvent hong merchants | The licensed guild loses its legal monopoly *and* its unpaid British debts are shifted onto the Qing treasury |
+| **VI** | **Twelve million** dollars toward the cost of the British expedition (with a deduction for ransoms taken after 1 August 1841) | Military costs are the largest slice |
+| **VII** | The **twenty-one million** total is staged: 6m at once, 6m in 1843, 5m in 1844, 4m in 1845; **5%** a year on late installments | The pack's "$6M / $3M / $12M" is Articles IV–VI added up—not a single mystery lump in Article VI alone |
+
+**Pack vs treaty wording.** The owner packs file the whole **21 million** under "Article VI" as a teaching label, then split it 6 / 3 / 12. The treaty text itself puts opium compensation in **IV**, hong debts in **V**, war costs in **VI**, and the **21 million total** in **VII**.[^12] The *dollars* match. The *article numbers* in the pack shorthand are a compressed label, not a replacement for the clauses. We keep both visible so a careful reader is not surprised.
+
+Still not a claim that tea alone caused the war.[^5][^6]
+:::
+
 ## The Fortune myth, corrected
 
 People sometimes tell a tidy origin myth: "Robert Fortune first brought tea to India in 1848." The timeline is richer—and more interesting.
@@ -83,6 +115,20 @@ That plant story loops back to [Module 1 · Plants](../module-01/01-plants.qmd):
 4. **1848–1851** — Fortune's missions procure *sinensis* cultivars, tools, workers, and processing secrets—not the "first tea plant in India."[^7][^8]
 
 Secondary histories that say "Fortune introduced tea to India in 1848" collapse steps 1–3 into a single espionage legend. The packs' verification note rejects that collapse. Kew's public history is a readable primary trail for the same correction.[^7]
+:::
+
+::: {.callout-note collapse="true" title="More detail: plant hunters in order—Banks, Bruce, Wallich, Fortune"}
+Kew's public history (Andrew Butterworth, 2015) and the packs' verification note tell the same sequence, with extra color if you want the names:[^7]
+
+1. **1788 — Joseph Banks looks at India first.** Before any "steal the secret" legend, Banks suggested to the East India Company that parts of northeast India might suit tea. Interest is older than Fortune.
+2. **1820s — Robert Bruce and the Singhpho.** Bruce learned from the Assamese nobleman **Maniram Datta Barua** that Singhpho communities were already growing tea. Robert died in **1824**; he had sent seed to his brother **Charles**, who grew plants and later reported on Assam manufacture (his 1839 report is quoted on Kew's page).
+3. **Christmas Eve 1834 — Wallich.** Nathaniel Wallich, at Calcutta, confirmed Charles Bruce's samples were tea. The packs and Kew agree on that date.
+4. **1833 — the Company's China monopoly ends.** The Saint Helena Act (also called the Government of India Act 1833) removed the Company's monopoly on the China trade. Indian leaf suddenly looked strategic *because Britain might not control the Chinese source forever*—not because nobody had noticed Assam tea.
+5. **1848–1851 — Fortune's different job.** The East India Company sent Robert Fortune into interior China for cultivars, tools, and skilled makers. In his own 1852 preface he says he left Southampton on **20 June 1848**, landed in Hong Kong on **14 August**, and brought back **upwards of twenty thousand** tea plants, **eight** manufacturers, and implements for the Company's Himalayan plantations.[^13] Kew notes the **Wardian cases** (sealed glass plant boxes) and the processing insight: green and black come from the same plant. RHS records an earlier, separate trip (1843–1846) for the Horticultural Society—ornamental plants—before the tea commission.[^14]
+
+**What to refuse:** "Fortune first brought tea to India in 1848." Wild Assam tea was identified and botanically confirmed *before* he sailed. His cargo was Chinese *sinensis* know-how layered onto an industry already underway.[^7][^8]
+
+**Aftershock, still from Kew—not a new economic model:** by **1890**, Kew's history says, India supplied about **90 percent** of Britain's domestic tea market. The same page is blunt about the human cost of clearing land for estates, and notes that Maniram, who had first told Robert Bruce about the leaf, was executed after the 1857 uprising. Sharma's *Empire's Garden* is the longer scholarly trail for how plantations remade land and labor.[^9] Those lines are context for the supermarket bag. They are not a claim that we have re-estimated colonial profit shares.
 :::
 
 ## From monopoly leaf to mass commodity
@@ -168,3 +214,11 @@ Sharma's *Empire's Garden* follows how Assam plantations remade land, labor, and
 [^9]: Sharma, J. (2011). *Empire's Garden: Assam and the Making of India*. Duke University Press.
 
 [^10]: Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press. (Pack-cited chest and silver-outflow tallies.)
+
+[^11]: Britannica. Canton system; Cohong (hong merchants). https://www.britannica.com/event/Canton-system · https://www.britannica.com/money/cohong
+
+[^12]: Treaty of Nanking (Nanjing), signed 29 August 1842. English text transcription, USC U.S.–China Institute. https://china.usc.edu/node/20462 (Articles II–VII: five ports, Hong Kong Island, the 6 + 3 + 12 million dollar clauses, and the 21 million schedule with 5% interest on arrears.)
+
+[^13]: Fortune, R. (1852). *A Journey to the Tea Countries of China*. London: John Murray. Preface (departure 20 June 1848; Hong Kong 14 August 1848; "upwards of twenty thousand" plants and eight manufacturers).
+
+[^14]: Royal Horticultural Society. Plant Collector Archive: Robert Fortune (1812–1880), including the 1843–1846 Horticultural Society journey and the 1848 East India Company tea commission. https://collections.rhs.org.uk/view/327706/rhs-plant-collector-archive-robert-fortune
