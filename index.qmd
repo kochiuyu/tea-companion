@@ -1,0 +1,21 @@
+---
+title: "Tea, Caffeine & Decision Companion"
+---
+
+This Quarto site holds verified materials for the **Tea, Caffeine & Decision Companion**. Content on the pages below comes only from owner-supplied packs; no additional factual claims are added here.
+
+**Modules**
+
+- [1. The Chemical Core](modules/module-01.qmd) — species genetics, enzymatic oxidation, extraction kinetics, and active compound profiles.
+- [2. Synaptic Mechanisms & Physiological Biomarkers](modules/module-02.qmd) — synaptic receptor kinetics, neural wave signatures, endocrinology, and autonomic biomarkers.
+- [3. Geopolitics, Ritual & Embodied Cognition](modules/module-03.qmd) — trade and sovereignty history, monastic contexts, thermal priming, and ritual psychology.
+- [4. Dual-Process Decision Dynamics](modules/module-04.qmd) — dual-process effort, risk and intertemporal choice, game-theoretic payoffs, and empirical protocols.
+
+**Reference pages**
+
+- [Cup reference](cup-reference.qmd) — standard-cup yield ranges for caffeine, L-theanine, EGCG, and total catechins.
+- [Glossary](glossary.qmd) — technical terms mapped to module branches.
+- [Linkages](linkages.qmd) — cross-branch scientific linkages with citations.
+- [Bibliography](bibliography.qmd) — awaiting a verified bibliography pack.
+
+Commit or publish only when the owner explicitly says to **commit these files**.

@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - modules/index.qmd
+    - modules/module-01.qmd
+    - modules/module-02.qmd
+    - modules/module-03.qmd
+    - modules/module-04.qmd
+    - cup-reference.qmd
+    - glossary.qmd
+    - linkages.qmd
+    - bibliography.qmd
+
+website:
+  title: "Tea, Caffeine & Decision Companion"
+  search: true
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Modules
+        menu:
+          - text: Modules overview
+            href: modules/index.qmd
+          - text: Module 1
+            href: modules/module-01.qmd
+          - text: Module 2
+            href: modules/module-02.qmd
+          - text: Module 3
+            href: modules/module-03.qmd
+          - text: Module 4
+            href: modules/module-04.qmd
+      - text: Cup reference
+        href: cup-reference.qmd
+      - text: Glossary
+        href: glossary.qmd
+      - text: Linkages
+        href: linkages.qmd
+      - text: Bibliography
+        href: bibliography.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

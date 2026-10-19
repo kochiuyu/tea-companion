@@ -1,0 +1,12 @@
+---
+title: "Modules"
+---
+
+Overview of the four modules. All modules are filled from owner-supplied verified materials.
+
+| Module | Page | Status |
+|--------|------|--------|
+| 1. The Chemical Core | [module-01](module-01.qmd) | Filled from verified materials |
+| 2. Synaptic Mechanisms & Physiological Biomarkers | [module-02](module-02.qmd) | Filled from verified materials |
+| 3. Geopolitics, Ritual & Embodied Cognition | [module-03](module-03.qmd) | Filled from verified materials |
+| 4. Dual-Process Decision Dynamics | [module-04](module-04.qmd) | Filled from verified materials |
