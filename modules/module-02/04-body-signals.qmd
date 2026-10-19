@@ -1,0 +1,83 @@
+---
+title: "2.4 What the body quietly admits"
+---
+
+::: {.callout-tip}
+**Module 2 · Lesson 4 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## What the body quietly admits
+
+Besides mood surveys, labs track signals you might never notice yourself.
+
+**Heart rate variability (HRV)** — how much the gap between beats varies; higher often means calmer "rest-and-digest" tone. **Pupil size** — pupils widen with sympathetic arousal. **Skin conductance** — tiny sweat changes from stress [^1]. **Vessel tone** — how tight or relaxed blood vessels are.
+
+Tea patterns in the packs often look calmer than coffee alone; alcohol often looks worse for these control signals.
+
+Think of HRV as how flexibly your heart "breathes" between beats when you are calm versus locked tight when you are stressed. Skin conductance is like a tiny stress sweat meter you cannot feel but a lab can [^1].
+
+| Measure | Plain meaning | Tea / caffeine / alcohol pattern in the packs |
+| --- | --- | --- |
+| Heart rate variability (HRV) | How much the gap between beats varies; higher often means calmer "rest-and-digest" tone | Tea linked with higher high-frequency HRV; coffee and alcohol tend to lower HRV |
+| Pupil size | Pupils widen with sympathetic arousal | Caffeine can dilate; alcohol can slow the light reflex |
+| Skin conductance | Tiny sweat changes from stress | Coffee can spike it; tea often keeps it steadier |
+| Vessel tone | How tight or relaxed blood vessels are | Caffeine can constrict cerebral vessels; L-theanine may counteract via nitric oxide pathways [^2] |
+
+Example numbers from the packs:
+
+- **200 mg L-theanine** during mental arithmetic: heart-rate and stress-marker reductions consistent with less sympathetic drive; one common HRV index up about **15.4 ± 3.2 ms** in the pack narrative of Kimura-linked work [^3].  
+- **150 mg caffeine** in attention tasks: mean pupil diameter up about **0.42 ± 0.08 mm** (Wetzel et al., 2016; pack).  
+- **200 mg L-theanine + 100 mg caffeine** under stress: skin conductance up only about **0.15 ± 0.04 µS** vs about **+0.88 µS** for caffeine alone (Rogers et al., 2008) [^4].  
+
+Besides mood, these signals help researchers say "calmer control" with numbers. In these sources, higher HRV during hard thinking is also read as better top-down control—less impulsive, better emotional regulation.
+
+People sometimes shrug: "HRV is only a fitness score." In these sources, higher HRV during hard thinking is also read as better top-down control. L-theanine is described as protecting that balance; coffee or alcohol often reduce it.
+
+Notice how the wired feeling has a skin signature too: caffeine-driven alert patterns line up with higher skin conductance (about **+0.88 µS** for caffeine alone in one comparison) [^4]. Feeling "wired" is not only a mood word.
+
+Matched tea-constituent drinks in Rogers and colleagues' design—*Time for tea*—are also a bridge into Chapter 4's protocol talk: same volume, controlled temperature, and timed cognitive tests after drinking [^4].
+
+::: {.callout-note collapse="true" title="More detail: HRV, pupils, and skin conductance numbers"}
+| Measure | Plain meaning | Pattern in these packs |
+| --- | --- | --- |
+| HRV | Beat-to-beat flexibility; higher often = calmer "rest-and-digest" tone | Tea / L-theanine linked with higher HF-HRV or RMSSD under load; coffee and alcohol tend to lower HRV |
+| Pupil size | Widens with sympathetic arousal | Caffeine can dilate; alcohol can slow the light reflex |
+| Skin conductance | Tiny stress-sweat changes | Coffee can spike it; tea often steadier |
+| Vessel tone | Constriction vs relaxation | Caffeine can constrict cerebral vessels; L-theanine may counteract via NO pathways[^2] |
+
+Example numbers:
+
+- **200 mg L-theanine** during mental arithmetic: HR / stress-marker reductions; one common HRV index up about **15.4 ± 3.2 ms** in the pack narrative of Kimura-linked work.[^3]
+- **150 mg caffeine** in attention tasks: mean pupil diameter up about **0.42 ± 0.08 mm** (Wetzel et al., 2016; pack).
+- **200 mg L-theanine + 100 mg caffeine** under stress: skin conductance up only about **0.15 ± 0.04 µS** vs about **+0.88 µS** for caffeine alone.[^4]
+
+Higher HRV during hard thinking is also read as better top-down control—less impulsive, better emotional regulation—not only a "fitness score."[^3] Feeling "wired" has a skin signature too: that ~**+0.88 µS** caffeine-alone bump is measurable arousal, not only a mood word.[^4]
+:::
+
+---
+
+
+
+::: {.callout-tip}
+Want the five-step dual story in one place? The [module hub](index.qmd) ends with **Putting the dual story in one picture**—caffeine, L-theanine, alpha under load, stress markers, and the alcohol contrast—plus a foldout checklist.
+:::
+
+---
+
+**Navigate:** [↑ Module 2 hub](index.qmd) · [← Previous](03-stress-hormones.qmd) · [Next module →](../module-03/index.qmd)
+
+
+
+[^1]: Dawson, M. E., Schell, A. M., & Filion, D. L. (2007). The electrodermal system. In *Handbook of Psychophysiology* (3rd ed., pp. 159–181).
+
+[^2]: Siamwala, J. H., et al. (2013). L-Theanine promotes nitric oxide production in human endothelial cells via eNOS phosphorylation. *Journal of Nutritional Biochemistry, 24*(3), 595–605.
+
+[^3]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
+
+[^4]: Rogers, P. J., et al. (2008). Time for tea: Mood, blood pressure and cognitive performance effects of caffeine and theanine administered alone and together. *Psychopharmacology, 195*(4), 569–577.
+

@@ -1,0 +1,69 @@
+---
+title: "1.3 What brewing actually does"
+---
+
+::: {.callout-tip}
+**Module 1 · Lesson 3 of 4** — part of [1. The Chemical Core](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## What brewing actually does
+
+Brewing is dissolving plant solids into water—like a tea bag sitting in a mug. Warmer water speeds that process. Different compounds come out at different speeds, and that is where everyday choices start to matter. Classic infusion studies treated tea steeping as a measurable solid–liquid extraction problem: how fast caffeine and theaflavins leave the leaf, and how the water temperature changes those rates [^1][^2].
+
+**Caffeine** dissolves readily and comes out relatively easily. **L-theanine** is very soluble even at lower temperatures and also comes out early. **EGCG** needs more heat and time. It is also less stable in more alkaline water [^3][^4].
+
+Cold brew is *slower*, not "caffeine-free." Given enough time, cold water can still pull a lot of caffeine.
+
+If you dunk a tea bag for ten seconds, the drink is pale and mild. If you leave it for minutes in hot water, it gets stronger. That is extraction: more time and heat usually mean more compounds in the water—until taste turns too bitter for you.
+
+The snapshot below is an order-of-magnitude guide from the packs and the papers they cite—not a cooking recipe.
+
+| Compound | How it behaves in water | Notes from sources |
+| --- | --- | --- |
+| Caffeine | Dissolves readily; much more soluble as water heats | About 20 g/L at 20°C; much higher near boiling [^1] |
+| L-Theanine | Very soluble even at lower temperatures | About 350 g/L at 25°C; cup yields depend on tea type and brew time [^3] |
+| EGCG | Needs more heat; less stable if the brew is too alkaline | Water extraction of green-tea catechins is often most efficient near about 80°C for a timed steep; very hot, long steeps risk degradation [^4] |
+
+Keenan and colleagues measured how much L-theanine actually lands in a real cup. For a 200 mL cup steeped two minutes, they reported roughly **24 mg** in ordinary black tea, lower averages for some specialty blacks and whites, and roughly **8 mg** in the green teas they tested—with brew time as the big dial [^3]. Shaded Japanese greens (Gyokuro, Matcha) can sit higher still; the [Cup reference](../../cup-reference.qmd) keeps those everyday ranges in one place.
+
+Perva-Uzunalić and colleagues mapped how temperature and time change catechin and caffeine recovery from green tea. Short, hot extractions can be efficient; pushing temperature and time too far starts to destroy the very catechins you hoped to pull [^4]. That is the kitchen trade-off in a sentence: hotter and longer can raise EGCG—and bitterness—until the cup tastes like regret.
+
+::: {.callout-note collapse="true" title="More detail: extraction rates, cold brew, and the 80°C EGCG trade-off"}
+Classic infusion studies treated steeping as solid–liquid extraction: how fast caffeine and theaflavins leave the leaf, and how water temperature changes those rates.[^1][^2] Caffeine dissolves readily—on the order of **20 g/L** at 20°C and much higher near boiling in the pack/Spiro framing.[^1] L-theanine is extremely water-soluble even when cool (about **350 g/L** at 25°C in solubility notes the packs cite), which is why it appears early in a steep.[^3] EGCG needs more heat and time, and it is less stable if the brew turns too alkaline.[^4]
+
+Keenan's group measured real cups: for **200 mL** steeped **two minutes**, ordinary black tea often landed near **24 mg** L-theanine, with lower averages for some specialty blacks/whites and roughly **8 mg** in the greens they tested—brew time was the big dial.[^3] Shaded Japanese greens (Gyokuro, Matcha) can sit higher; see the [Cup reference](../../cup-reference.qmd).
+
+**Cold brew.** Cold water *slows* extraction; it does not delete caffeine. Given enough time (often **12–24 hours** in the literature discussed in the packs), caffeine can reach levels similar to—or above—a short hot steep.[^1]
+
+**Temperature and what you feel later.** Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio, so the cup you later feel is chemically skewed—not only milder in taste.[^4]
+:::
+
+If you want more of the "green tea catechin" side of the cup, hotter water and a bit more time help EGCG extract—but they can also pull more bitter material. Caffeine and L-theanine are already relatively easy to extract.
+
+And here is the cold-brew story people tell: "Cold brew means no caffeine." Cold water only *slows* extraction. Given enough time (often 12–24 hours in the literature discussed in the packs), caffeine in cold brew can reach levels similar to—or even above—a short hot steep.
+
+There is also a quiet bridge from this kitchen scene to Chapter 2: EGCG needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So temperature is not only about taste—it changes which compounds dominate the cup you later feel.
+
+The leaf has given up its guests. Time to name the three who matter most in everyday talk.
+
+
+
+---
+
+**Navigate:** [↑ Module 1 hub](index.qmd) · [← Previous](02-processing.qmd) · [Next →](04-compounds.qmd)
+
+
+
+[^1]: Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion: Kinetics of extraction of caffeine and theaflavins. *Journal of the Science of Food and Agriculture, 33*(4), 333–340.
+
+[^2]: Spiro, M., & Siddique, S. (1981). Kinetics and equilibria of tea infusion: Part 1. Analysis and partition constants of the components of black tea. *Journal of the Science of Food and Agriculture, 32*(10), 1027–1032.
+
+[^3]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
+
+[^4]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
+

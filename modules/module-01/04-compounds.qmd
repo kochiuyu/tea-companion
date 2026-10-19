@@ -1,0 +1,77 @@
+---
+title: "1.4 Three characters in the cup"
+---
+
+::: {.callout-tip}
+**Module 1 · Lesson 4 of 4** — part of [1. The Chemical Core](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## Three characters in the cup
+
+Most everyday talk about tea chemistry centers on three names. Meet them as guests who arrive at different speeds and leave at different times.
+
+**Caffeine** supports alertness. In plain terms, it blocks adenosine receptors that normally promote sleepiness. Formula: C₈H₁₀N₄O₂; molecular weight about 194.19 g/mol. Typical plasma half-life: about **3–7 hours** (varies a lot between people). The landmark review by Fredholm and colleagues remains the clearest map of how caffeine acts in the brain and why it is the world's most widely used behavioral drug [^1].
+
+**L-theanine** is a calming amino acid in tea. In plain terms, it softens excess excitatory signaling and supports calming inhibitory tone (GABA-related pathways in the sources). Formula: C₇H₁₄N₂O₃; molecular weight about 174.20 g/mol. Typical plasma half-life: about **50–80 minutes**. Lab work shows L-theanine can weakly compete at certain glutamate receptor sites—far less potently than glutamate itself—which fits the "turn down the noisy chatter" picture rather than a knockout punch [^2][^3].
+
+**EGCG** (epigallocatechin-3-gallate) is a major green-tea catechin. In the research literature it is involved in inflammatory and cell-signaling pathways. Formula: C₂₂H₁₈O₁₁; molecular weight about 458.37 g/mol. Typical plasma half-life: about **2–5 hours**. Human pharmacokinetic studies of green-tea polyphenols (including EGCG) report that blood levels rise and fall on that kind of multi-hour scale after oral doses [^4].
+
+Half-life here means: roughly how long until the amount in blood falls by about half—not "gone completely." That matters because "I drank tea an hour ago" is not the same story for each compound. Caffeine often hangs around for hours. L-theanine's plasma half-life is shorter. EGCG sits in between. Human time-course work on L-theanine and catechins shows oral peaks on the order of tens of minutes to a couple of hours depending on the compound and the dose form [^5][^6].
+
+Detailed blood-level curves (peak concentration, area-under-curve, clearance rates) live in the Bibliography papers, not as lab tables here.
+
+So what should you expect when you drink? Alertness from caffeine and a calmer-focus contribution from L-theanine—but not "instant Zen" at the first sip. Peak blood levels for L-theanine are often around **35–50 minutes** after drinking. Clear brain-wave changes tied to L-theanine are usually reported about **30–45 minutes** after ingestion [^7]. Combined L-theanine-plus-caffeine drinks in volunteer studies often show attention benefits around the one-hour mark [^8].
+
+That last point kills a popular story: "Tea gives instant Zen focus." L-theanine does cross into the brain, but the timing above is what the sources report—not the first sip.
+
+::: {.callout-note collapse="true" title="More detail: formulas, half-lives, and why people differ"}
+| Guest | Formula | Approx. molecular weight | Typical plasma half-life | Everyday role |
+| --- | --- | --- | --- | --- |
+| Caffeine | C₈H₁₀N₄O₂ | 194.19 g/mol | About **3–7 hours** | Blocks adenosine "sleepy" receptors |
+| L-Theanine | C₇H₁₄N₂O₃ | 174.20 g/mol | About **50–80 minutes** | Softens excess excitatory chatter; supports calm focus |
+| EGCG | C₂₂H₁₈O₁₁ | 458.37 g/mol | About **2–5 hours** | Major green-tea catechin; inflammatory / cell-signaling research |
+
+Half-life means "about how long until blood levels fall by half," not "gone completely." Caffeine often hangs around for hours; L-theanine's plasma clock is shorter; EGCG sits in between.[^1][^4][^5]
+
+**Why caffeine's range is wide.** Most caffeine clearance runs through liver enzyme **CYP1A2**, and that activity varies a lot between people. Smoking, hormones, medications, liver health, and genetics (including common CYP1A2 variants) all shift how long a dose sticks around.[^9] That is why "I had tea three hours ago" is not the same story for every drinker—even before you count cup strength.
+
+Human time-course work shows oral peaks on the order of tens of minutes to a couple of hours depending on the compound and dose form.[^5][^6] Clear alpha-wave changes tied to L-theanine are often reported about **30–45 minutes** after ingestion; combined L-theanine-plus-caffeine attention benefits often show around the one-hour mark.[^7][^8]
+:::
+
+---
+
+
+
+::: {.callout-tip}
+Done with the three guests? The [module hub](index.qmd) keeps a short **drinker's field guide** (green vs black choices, cold-brew myth, lab vs mug doses) before you step into Chapter 2.
+:::
+
+---
+
+**Navigate:** [↑ Module 1 hub](index.qmd) · [← Previous](03-brewing.qmd) · [Next module →](../module-02/index.qmd)
+
+
+
+[^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^2]: Kakuda, T., Nozawa, A., Sugimoto, A., & Niino, H. (2002). Inhibition by theanine of binding of [³H]AMPA, [³H]kainate, and [³H]MDL 105,519 to glutamate receptors. *Bioscience, Biotechnology, and Biochemistry, 66*(12), 2683–2686. https://doi.org/10.1271/bbb.66.2683
+
+[^3]: Kakuda, T. (2011). Neuroprotective effects of theanine and its preventive effects on cognitive dysfunction. *Pharmacological Research, 64*(2), 162–168.
+
+[^4]: Chow, H. H. S., et al. (2001). Pharmacokinetics and safety of green tea polyphenols after multiple-dose administration of epigallocatechin gallate and Polyphenon E in healthy individuals. *Clinical Cancer Research, 7*(5), 1204–1212.
+
+[^5]: van der Pijl, P. C., et al. (2010). Human pharmacokinetic profile of green tea catechins and L-theanine. *British Journal of Nutrition, 104*(8), 1157–1164.
+
+[^6]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake and metabolism in healthy humans (pack-cited *Journal of Nutrition* entry).
+
+[^7]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
+
+[^8]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
+
+[^9]: Nehlig, A. (2018). Interindividual differences in caffeine metabolism and factors driving caffeine consumption. *Pharmacological Reviews, 70*(2), 384–411. https://doi.org/10.1124/pr.117.014407
+

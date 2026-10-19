@@ -1,0 +1,71 @@
+---
+title: "2.3 When the fire alarm rings"
+---
+
+::: {.callout-tip}
+**Module 2 · Lesson 3 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## When the fire alarm rings
+
+When you are stressed, the body runs a loop often called the **HPA axis** (brain → pituitary → adrenals). One output is **cortisol**, a main stress hormone. Another related signal is **epinephrine** (adrenaline).
+
+Plain takeaways from the packs:
+
+- Caffeine can activate the HPA axis and raise cortisol.
+- L-theanine co-use can keep cortisol nearer baseline under cognitive stress.
+- Unmitigated caffeine can sharply raise epinephrine, with blood-pressure and vessel-tone effects; L-theanine is described as helping keep pressure steadier via nitric-oxide–related relaxation [^1][^2].
+
+Imagine a fire alarm (stress) and also a loud caffeine "boost" siren. With daily caffeine use around **300–400 mg/day**, the caffeine-driven cortisol spike is often nearly gone within about **five days**. The fire alarm of real stress can still ring—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms.
+
+| Measure | Condition | Finding | Source |
+| --- | --- | --- | --- |
+| Heart rate / salivary IgA under arithmetic stress | L-theanine vs placebo | L-theanine reduced heart-rate and salivary immune-stress responses; HRV pattern suggested less sympathetic drive | Kimura et al. (2007) [^1] |
+| Salivary cortisol | 200 mg L-theanine vs placebo under acute cognitive stress | L-theanine stayed nearer baseline; placebo rose more (pack narrative) | Yoto et al. (2012; pack) |
+| Salivary alpha-amylase (stress enzyme) | 200 mg L-theanine vs placebo in multi-tasking | About 28% decrease (pack narrative) | Unno et al. (2013; pack) |
+| Serum cortisol / epinephrine | 250 mg caffeine | Cortisol and epinephrine rose sharply (pack narrative; Lovallo et al., 2005) | Pack / Bibliography |
+
+A big caffeine hit can raise cortisol and adrenaline. L-theanine often blunts that stress spike in the cited work. "My body adapted to coffee" does not mean "stress no longer raises cortisol."
+
+People sometimes tell a stronger story: "Caffeine permanently wrecks your adrenals." Acute caffeine can raise cortisol a lot. With daily use around **300–400 mg/day**, that caffeine-driven cortisol spike is often nearly gone within about **five days**. Stress-driven cortisol can still rise, though—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms. Systematic reviews of L-theanine and stress/anxiety are still cautious: effects exist in some trials, but dose, setting, and outcome measure matter [^3].
+
+Vessel tone is part of the same chapter. Caffeine can constrict cerebral vessels as part of its adenosine blockade story [^4]. L-theanine has been shown in cell work to promote nitric-oxide production in endothelial cells—one plausible path for "steadier pressure" language in the packs [^2]. That is mechanism talk, not a home blood-pressure prescription.
+
+::: {.callout-note collapse="true" title="More detail: cortisol, amylase, and the five-day caffeine adaptation"}
+| Measure | Condition | Finding | Trail |
+| --- | --- | --- | --- |
+| Heart rate / salivary IgA under arithmetic stress | L-theanine vs placebo | Lower HR and stress-linked immune marker; HRV pattern → less sympathetic drive | Kimura et al. (2007)[^1] |
+| Salivary cortisol | **200 mg** L-theanine vs placebo under acute cognitive stress | L-theanine nearer baseline; placebo rose more (pack narrative ~±5% vs ~+22%) | Yoto et al. (2012; pack) |
+| Salivary alpha-amylase | **200 mg** L-theanine vs placebo in multi-tasking | About **28%** decrease (pack) | Unno et al. (2013; pack) |
+| Serum cortisol / epinephrine | **250 mg** caffeine | Sharp rises (pack narrative of Lovallo et al., 2005) | Pack / Bibliography |
+
+**Adaptation nuance.** Acute caffeine can raise cortisol a lot. With daily use around **300–400 mg/day**, that caffeine-driven spike is often nearly gone within about **five days** (pack narrative). Stress-driven cortisol can still rise—and L-theanine is studied for blunting *stress*-linked spikes even after caffeine habit forms. Systematic reviews stay cautious: effects exist in some trials; dose, setting, and outcome measure matter.[^3]
+
+Cell work showing L-theanine promoting endothelial nitric-oxide production is a plausible "steadier pressure" mechanism—not a home blood-pressure prescription.[^2]
+:::
+
+This hormone thread also reaches forward into Chapter 4: when stress hormones rise, people can become more aggressive risk seekers in some lab settings. Softened loss aversion under pressure is one of the bridges on the [Linkages](../../linkages.qmd) page.
+
+Hormones are still somewhat invisible. What can you see on the outside of the body?
+
+
+
+---
+
+**Navigate:** [↑ Module 2 hub](index.qmd) · [← Previous](02-brainwaves.qmd) · [Next →](04-body-signals.qmd)
+
+
+
+[^1]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
+
+[^2]: Siamwala, J. H., et al. (2013). L-Theanine promotes nitric oxide production in human endothelial cells via eNOS phosphorylation. *Journal of Nutritional Biochemistry, 24*(3), 595–605.
+
+[^3]: Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine consumption on the ability to manage stress and anxiety levels: A systematic review. *Plant Foods for Human Nutrition, 75*(1), 12–23.
+
+[^4]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+

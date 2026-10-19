@@ -1,0 +1,82 @@
+---
+title: "4.4 How careful studies are usually built"
+---
+
+::: {.callout-tip}
+**Module 4 · Lesson 4 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## How careful studies are usually built
+
+If you read a headline—"tea improves decisions!"—ask how the trial was built. Good trials try to separate the drug effect from expectation, temperature, and bitter taste.
+
+Common standards in the packs:
+
+- **Exclude** people with major sleep or heart disease, or very high daily caffeine (over about **400 mg/day**).  
+- **Washout:** no coffee, tea, energy drinks, chocolate, or alcohol for at least **48 hours** (sometimes **72** for heavy users).  
+- **Same cup experience:** **250 mL**, opaque insulated mug, about **60°C ± 2°C**, bitterness matched (e.g. tiny quinine in placebo).  
+- **Timing:** start cognitive tests about **+40 minutes** after drinking—near typical peak timing for oral L-theanine (**35–50 min**) and caffeine (**30–60 min**).  
+- **Tasks:** tools such as the Balloon Analogue Risk Task (BART) and Iowa Gambling Task (IGT) [^1][^2].  
+
+Example active dose used in matched designs: **200 mg L-theanine + 100 mg caffeine** vs sensory-matched placebo [^3].
+
+If one group gets hot, bitter, fragrant tea and the other gets plain lukewarm water, you may be measuring "this feels like tea" as much as chemistry. That is why packs stress opaque mugs, matched bitterness, and washout days. Holding temperature constant also matters because Chapter 3 showed that mere warmth can nudge social judgments—so a decision study that forgets mug temperature may mix pharmacology with thermal priming [^4][^5].
+
+Decaf tea is **not** a perfect placebo: it still has trace caffeine (about **2–5 mg**) and leftover polyphenols. Matching astringency and umami without changing smell or look is hard. Without opaque, taste-matched delivery, studies may measure expectation as much as pharmacology.
+
+The Iowa Gambling Task—originally used to study how people learn from wins and losses after prefrontal injury—is one more tool in the pack's "feedback learning" kit [^2]. BART measures how far people push a risky balloon before it pops [^1]. Neither task is "your career in a cup." Both are controlled ways to watch risk and learning under a drink.
+
+Notice how the study clock matches Chapter 1 and Chapter 2: tests at about **+40 minutes** sit near the L-theanine and caffeine peaks you already met. The kitchen timing and the lab timing are the same story told twice.
+
+::: {.callout-note collapse="true" title="More detail: washout, matched mugs, and why decaf is not a perfect placebo"}
+Common standards in the packs:
+
+- **Exclude** major sleep/heart disease, or very high daily caffeine (over ~**400 mg/day**).
+- **Washout:** no coffee, tea, energy drinks, chocolate, or alcohol for at least **48 hours** (sometimes **72** for heavy users).
+- **Same cup experience:** **250 mL**, opaque insulated mug, about **60°C ± 2°C**, bitterness matched (e.g. tiny quinine in placebo)—also controlling Chapter 3's thermal priming confound.[^4][^5]
+- **Timing:** start cognitive tests about **+40 minutes** after drinking—near typical peaks for oral L-theanine (**35–50 min**) and caffeine (**30–60 min**).
+- **Tasks:** BART and Iowa Gambling Task (IGT) among others.[^1][^2]
+- Example active dose in matched designs: **200 mg L-theanine + 100 mg caffeine** vs sensory-matched placebo.[^3]
+
+**Decaf is not a perfect placebo:** it still has trace caffeine (~**2–5 mg**) and leftover polyphenols. Matching astringency and umami without changing smell or look is hard. Without opaque, taste-matched delivery, studies may measure expectation as much as pharmacology.
+
+BART measures how far people push a risky balloon before it pops.[^1] IGT watches learning from wins and losses under ambiguity—originally used after prefrontal injury.[^2] Neither is "your career in a cup."
+:::
+
+---
+
+
+
+::: {.callout-note collapse="true" title="More detail: five questions for a headline"}
+When a headline says a drink "improves decisions," ask:
+
+1. **Washout?** Did people arrive caffeine-free, or already buzzing?
+2. **Matched cup?** Same volume, temperature (~**60°C**), bitterness—or was one arm obviously "real tea"?
+3. **Timing?** Were tasks started near the **+40 min** peak window, or right after the first sip?
+4. **Dose vs mug?** Was it **200 mg** L-theanine + **100 mg** caffeine—or a grocery bag?
+5. **Task?** BART, IGT, CRT, Ultimatum—each measures a different nudge.[^1][^2][^3]
+
+If those answers are missing, treat the claim as marketing until the methods show up. The [module hub](index.qmd) keeps an economist's caution list for the same reason.
+:::
+
+---
+
+**Navigate:** [↑ Module 4 hub](index.qmd) · [← Previous](03-trust-games.qmd) · [Cup reference →](../../cup-reference.qmd)
+
+
+
+[^1]: Lejuez, C. W., et al. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied, 8*(2), 75–84.
+
+[^2]: Bechara, A., Damasio, A. R., Damasio, H., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition, 50*(1–3), 7–15.
+
+[^3]: Rogers, P. J., et al. (2008). Time for tea: Mood, blood pressure and cognitive performance effects of caffeine and theanine administered alone and together. *Psychopharmacology, 195*(4), 569–577.
+
+[^4]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness. *PLOS ONE, 6*(1), e15836. https://doi.org/10.1371/journal.pone.0015836
+
+[^5]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280.
+

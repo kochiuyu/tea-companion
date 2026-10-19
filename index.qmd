@@ -8,39 +8,47 @@ That question is the door into this site.
 
 This is not a lab notebook and not a sales brochure. It is a **story-shaped journey** through a drink that almost everyone has tried and almost nobody fully explains. The facts come from owner-supplied source packs, and—where we expand a chapter—from peer-reviewed papers, historical archives, and university pages we opened and checked. The owner of this site is an economist. We do **not** invent economic theories here. We only retell what those sources already support—in plain English a smart high-school student can follow.
 
-Each chapter is meant to be long enough to be interesting and short enough to stay a story. **Clickable footnotes** work both ways (tap the number → source; tap the caret → back to the sentence; hover often shows a popup). Denser study tables and side-stories sit in collapsed **"More detail…"** foldouts so the open page does not feel like a wall of text. The [Bibliography](bibliography.qmd) remains the master map across the whole site.
+Each **lesson** is meant to be long enough to be interesting and short enough to stay a story. **Clickable footnotes** work both ways (tap the number → source; tap the caret → back to the sentence; hover often shows a popup). Denser study tables and side-stories sit in collapsed **"More detail…"** foldouts so the open page does not feel like a wall of text. The [Bibliography](bibliography.qmd) remains the master map across the whole site.
+
+## Start here
+
+| If you want… | Open |
+| --- | --- |
+| **Labels** — what *English Breakfast*, *sencha*, *matcha*, bag vs loose usually mean | [Tea basics](tea-basics.qmd) |
+| **Numbers** — typical milligrams in a 250 mL mug | [Cup reference](cup-reference.qmd) |
+| **The full story** — four modules, sixteen lessons | [Modules overview](modules/index.qmd) |
 
 ## What this journey is about
 
-Think of four chapters that follow one continuous thread.
+Think of four modules that follow one continuous thread—each with **four lessons** matching the source-pack branches.
 
-First you meet the **leaf**—where tea comes from, why green and black look so different, and what hot water actually pulls into your mug. Then you follow those compounds **into the body**: how caffeine blocks a "time for sleep" signal, how L-theanine (a calming amino acid in tea) tends to support calm focus, and what researchers measure beyond "I feel better." Next you zoom out. Tea remade **trade balances**, became a monastic focus aid, and even a warm mug in the hand shows up in experiments on trust. A short brewing break can also act as a practical stress reset. Finally you ask the decision question: do drinks **nudge** how fast we answer, how much risk we take, how much we care about tomorrow, and how trusting we are in a first move? Lab games measure those nudges—and the packs are honest about the limits.
+First you meet the **leaf**—where tea comes from, why green and black look so different, what brewing pulls into the mug, and three headline compounds. Then you follow those compounds **into the body**: brain signaling, brain-wave patterns, stress hormones, and quiet body signals. Next you zoom out. Tea remade **trade balances**, became a monastic focus aid, and even a warm mug in the hand shows up in experiments on trust. A short brewing break can also act as a practical stress reset. Finally you ask the decision question: do drinks **nudge** how fast we answer, how much risk we take, how much we care about tomorrow, and how trusting we are in a first move?
 
-You can start anywhere. But if you read in order, each chapter hands you a reason to open the next.
+You can start anywhere. But if you read in order, each lesson hands you a reason to open the next.
 
-## The four chapters (at a glance)
+## The four modules (at a glance)
 
-1. **[The Chemical Core](modules/module-01.qmd)** — One plant species, two main types; processing that chooses green or black; brewing that decides what leaves the leaf; three headline characters in the cup: caffeine, L-theanine, and EGCG.
-2. **[Body, Brain & Mood](modules/module-02.qmd)** — Why tea can feel "awake but not as jittery as coffee," told through brain signaling, brain-wave patterns, stress hormones, and simple body signals.
-3. **[History, Ritual & Warmth](modules/module-03.qmd)** — Empires and silver, monks and tea rooms, warm hands and trust, and the brewing sequence as a stress break.
-4. **[Decisions & Choices](modules/module-04.qmd)** — Fast gut thinking versus careful thinking, risk and waiting for payoffs, trust games, and how careful studies are usually built.
+1. **[The Chemical Core](modules/module-01/index.qmd)** — Plants · Processing · Brewing · Compounds
+2. **[Body, Brain & Mood](modules/module-02/index.qmd)** — Brain action · Brain waves · Stress hormones · Body signals
+3. **[History, Ritual & Warmth](modules/module-03/index.qmd)** — Trade history · Monastic path · Warmth & trust · Ritual & stress
+4. **[Decisions & Choices](modules/module-04/index.qmd)** — Dual-process · Risk & waiting · Trust games · Study protocols
 
-A map of the whole trip sits on the [Modules overview](modules/index.qmd). Treat it like a travel itinerary: you can hop, or you can follow the route.
+A full curriculum map of all sixteen lessons sits on the [Modules overview](modules/index.qmd).
 
 ## How to travel with this site
 
 When a number appears—say "about 30–50 mg caffeine"—treat it as a **typical range from the packs**, not a promise about your exact mug. Brands, leaves, and steep times differ. The [Cup reference](cup-reference.qmd) is the quick table for a common 250 mL cup.
 
-New to grocery and cafe labels—*English Breakfast*, *sencha*, *matcha*, *Assam*? Start with **[Tea basics](tea-basics.qmd)** (aisle words → plant and processing ideas) before or alongside Chapter 1.
+New to grocery and cafe labels? Start with **[Tea basics](tea-basics.qmd)** before or alongside Module 1.
 
-When a technical word appears, we define it in the story the first time. The [Glossary](glossary.qmd) is there when you want a one-line reminder.
+When a technical word appears, we define it in the story the first time. The [Glossary](glossary.qmd) is there when you want a one-line reminder (with links into the right module hub).
 
-When you wonder how a brewing fact connects to mood, or a warm mug to a trust game, open [Linkages](linkages.qmd). Those eleven bridges are the threads that sew the chapters together.
+When you wonder how a brewing fact connects to mood, or a warm mug to a trust game, open [Linkages](linkages.qmd). Those eleven bridges sew the modules together.
 
-When you want the paper behind a name-and-year—or a footnote marker on a chapter page—click the footnote or open the [Bibliography](bibliography.qmd).
+When you want the paper behind a name-and-year—or a footnote marker on a lesson page—click the footnote or open the [Bibliography](bibliography.qmd).
 
 ## What we refuse to invent
 
 We do **not** invent new percentages, mechanisms, history figures, or study results. We do **not** paste walls of lab equations. Everything here should trace back to the verified packs or a source we opened and listed. That honesty is part of the story: curiosity without costume jewelry.
 
-Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) if labels feel confusing, then [Chapter 1: The Chemical Core](modules/module-01.qmd)—or skim the [roadmap](modules/index.qmd) first.
+Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) if labels feel confusing, then [Module 1: The Chemical Core](modules/module-01/index.qmd)—or skim the [roadmap](modules/index.qmd) first.

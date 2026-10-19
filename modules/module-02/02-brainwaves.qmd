@@ -1,0 +1,77 @@
+---
+title: "2.2 Listening to the brain's tempo"
+---
+
+::: {.callout-tip}
+**Module 2 · Lesson 2 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## Listening to the brain's tempo
+
+EEG studies sort brain rhythms by speed—like sorting songs by beats per minute.
+
+**Alpha** (about 8–12 Hz) is often linked with calm, selective attention. L-theanine is often linked with alpha (especially around 10–12 Hz in back-of-head regions). **Beta** (about 12–30 Hz) is active focus or anxiety. Caffeine alone is more linked with beta; early alcohol can reduce it. **Theta** (about 4–8 Hz) is fatigue, weaker error monitoring—often up as alcohol effects deepen; caffeine can reduce it. **Delta** (about 0.5–4 Hz) is deep sedation; up with higher alcohol doses [^1][^2].
+
+In these packs, alpha is the "quiet study hall" rhythm. Beta is the "busy office" rhythm. Theta is closer to "nodding off in class." The labels are simplifications—but they help beginners read the snapshots below.
+
+| Band | Rough frequency | Typical link in these packs | Main idea for a drinker |
+| --- | --- | --- | --- |
+| Alpha | About 8–12 Hz | Up with L-theanine (especially around 10–12 Hz in back-of-head regions) | Calm, selective attention |
+| Beta | About 12–30 Hz | Up with caffeine; early alcohol can reduce it | Active focus or anxiety |
+| Theta | About 4–8 Hz | Up as alcohol effects deepen; caffeine can reduce it | Fatigue, weaker error monitoring |
+| Delta | About 0.5–4 Hz | Up with higher alcohol doses | Deep sedation |
+
+Example findings from the packs, with trails you can check:
+
+- **50 mg L-theanine:** greater increase in resting alpha activity over time versus placebo in young adults measured with eyes closed—at a dose closer to a few cups of tea than to a mega-capsule [^3].  
+- **100 mg L-theanine + 50 mg caffeine:** better hit rate and target discriminability on a visuospatial attention task, with lower tonic alpha power that the authors read as a more engaged attentional state [^4].  
+- **Caffeine alone:** classic EEG work links caffeine with higher subjective alertness and changes in resting-state rhythms; frontal theta during tasks can fall when caffeine reduces drowsiness [^1].  
+
+Put simply: L-theanine is often linked with **alpha** (calm, focused). Caffeine alone is more linked with **beta** (alert, sometimes tense). Alcohol pushes slower bands linked with fatigue or sedation [^2].
+
+Context matters. Here is a common story: "L-theanine always spikes alpha waves." At rest, alpha often rises [^3]. Under hard attention tasks, alpha can *fall* over busy brain regions while staying high over irrelevant ones. That looks more like focused attention than simple sedation [^4].
+
+::: {.callout-note collapse="true" title="More detail: EEG bands and state-dependent alpha"}
+| Band | Rough Hz | Pack-linked pattern | Drinker takeaway |
+| --- | --- | --- | --- |
+| Alpha | ~8–12 | Up with L-theanine at rest (esp. ~10–12 Hz, back-of-head) | Calm, selective attention |
+| Beta | ~12–30 | Up with caffeine; early alcohol can reduce it | Active focus or anxiety |
+| Theta | ~4–8 | Up as alcohol deepens; caffeine can reduce it | Fatigue / weaker error monitoring |
+| Delta | ~0.5–4 | Up with higher alcohol doses | Deep sedation |
+
+Example findings:
+
+- **50 mg L-theanine:** greater increase in resting eyes-closed alpha vs placebo—closer to a few cups than a mega-capsule.[^3]
+- **100 mg L-theanine + 50 mg caffeine:** better visuospatial attention hit rate / discriminability, with lower tonic alpha read as a more engaged attentional state.[^4]
+- **Caffeine alone:** higher subjective alertness and resting-state rhythm changes; frontal theta during tasks can fall when drowsiness drops.[^1]
+
+**State dependence.** At rest, L-theanine often raises alpha.[^3] Under load, alpha can *suppress* over busy cortex while staying high over irrelevant regions—optimization of selective attention, not simple sedation.[^4] Timing still matches Chapter 1: blood peaks ~**35–50 min**, clear alpha changes often ~**30–45 min**, combined cognitive tests commonly ~**60–90 min**.[^5][^3]
+:::
+
+Remember Chapter 1's timing note? L-theanine often peaks in blood about **35–50 minutes** after drinking, and clear alpha-wave changes are often reported about **30–45 minutes** in [^3]. Combined-dose cognitive tests commonly sit around **60–90 minutes** after drinking [^5]. That matching lag is why the kitchen clock and the EEG lab belong in the same story.
+
+Brain rhythms are one window. Stress hormones are another—especially when the day itself is noisy.
+
+
+
+---
+
+**Navigate:** [↑ Module 2 hub](index.qmd) · [← Previous](01-brain-action.qmd) · [Next →](03-stress-hormones.qmd)
+
+
+
+[^1]: Barry, R. J., et al. (2005). Caffeine effects on resting-state EEG, subjective alertness and arousal. *Neuropsychobiology, 51*(2), 89–95. (Related frontal-theta task findings also appear in pack-cited *Clinical Neurophysiology* entries.)
+
+[^2]: Ehlers, C. L., et al. (1989). EEG and evoked potential changes following acute ethanol administration in humans. *Alcohol, 6*(3), 221–226.
+
+[^3]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
+
+[^4]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
+
+[^5]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
+

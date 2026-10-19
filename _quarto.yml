@@ -3,12 +3,28 @@ project:
   output-dir: _site
   render:
     - index.qmd
-    - modules/index.qmd
-    - modules/module-01.qmd
-    - modules/module-02.qmd
-    - modules/module-03.qmd
-    - modules/module-04.qmd
     - tea-basics.qmd
+    - modules/index.qmd
+    - modules/module-01/index.qmd
+    - modules/module-01/01-plants.qmd
+    - modules/module-01/02-processing.qmd
+    - modules/module-01/03-brewing.qmd
+    - modules/module-01/04-compounds.qmd
+    - modules/module-02/index.qmd
+    - modules/module-02/01-brain-action.qmd
+    - modules/module-02/02-brainwaves.qmd
+    - modules/module-02/03-stress-hormones.qmd
+    - modules/module-02/04-body-signals.qmd
+    - modules/module-03/index.qmd
+    - modules/module-03/01-trade-history.qmd
+    - modules/module-03/02-monastic-path.qmd
+    - modules/module-03/03-warmth-trust.qmd
+    - modules/module-03/04-ritual-stress.qmd
+    - modules/module-04/index.qmd
+    - modules/module-04/01-dual-process.qmd
+    - modules/module-04/02-risk-waiting.qmd
+    - modules/module-04/03-trust-games.qmd
+    - modules/module-04/04-study-protocols.qmd
     - cup-reference.qmd
     - glossary.qmd
     - linkages.qmd
@@ -22,28 +38,30 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Tea basics
+        href: tea-basics.qmd
       - text: Modules
         menu:
           - text: Modules overview
             href: modules/index.qmd
           - text: "1. The Chemical Core"
-            href: modules/module-01.qmd
+            href: modules/module-01/index.qmd
           - text: "2. Body, Brain & Mood"
-            href: modules/module-02.qmd
+            href: modules/module-02/index.qmd
           - text: "3. History, Ritual & Warmth"
-            href: modules/module-03.qmd
+            href: modules/module-03/index.qmd
           - text: "4. Decisions & Choices"
-            href: modules/module-04.qmd
-      - text: Tea basics
-        href: tea-basics.qmd
-      - text: Cup reference
-        href: cup-reference.qmd
-      - text: Glossary
-        href: glossary.qmd
-      - text: Linkages
-        href: linkages.qmd
-      - text: Bibliography
-        href: bibliography.qmd
+            href: modules/module-04/index.qmd
+      - text: Reference
+        menu:
+          - text: Cup reference
+            href: cup-reference.qmd
+          - text: Glossary
+            href: glossary.qmd
+          - text: Linkages
+            href: linkages.qmd
+          - text: Bibliography
+            href: bibliography.qmd
 
 format:
   html:

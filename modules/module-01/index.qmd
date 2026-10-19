@@ -1,0 +1,111 @@
+---
+title: "1. The Chemical Core"
+---
+
+Here is a small mystery almost every tea drinker has lived through.
+
+You buy two boxes. Both say "tea." One pours pale and grassy. The other pours dark and malty. One leaves you gently alert. The other can feel stronger, more "coffee-adjacent." Same grocery aisle. Same word on the label. So what changed—the plant, the factory, or the way you steeped it?
+
+::: {.callout-tip}
+**New to tea labels?** Start with **[Tea basics](../../tea-basics.qmd)**—a short aisle-to-cup map (what *English Breakfast*, *matcha*, bag vs loose, and herbal "tea" usually mean)—then come back here for the chemistry.
+:::
+
+This chapter answers that question in order. First we meet the plant behind almost all commercial tea. Then we watch what happens after picking—when makers either **stop** the leaf from browning (green tea) or **let** it brown in air (black tea). Then we watch hot water pull compounds into the cup. Finally we meet three names that matter most in everyday talk: **caffeine** (alertness), **L-theanine** (calm focus), and **EGCG** (a major green-tea plant compound).
+
+By the end you will know why "what's in my mug?" is not one number—and why that mug sets up everything that happens in Chapter 2, after you swallow. Numbers and study snapshots below keep a trail: tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style (click the number, then the back-caret). Hover often shows a popup too.
+
+::: {.callout-tip title="Words to know on this journey"}
+- **Camellia sinensis** — the tea plant species that almost all commercial tea comes from.
+- **Oxidation** — when leaf enzymes react with air and the leaf darkens (tea people often say "fermentation," but for ordinary green/black tea they usually mean this).
+- **Catechins** — natural plant compounds in fresh tea leaves; many stay simple in green tea and link into darker pigments in black tea.
+- **Caffeine** — the familiar stimulant that blocks a "time for sleep" signal in the brain.
+- **L-theanine** — a calming amino acid found in tea that supports relaxed focus.
+- **EGCG** — short for epigallocatechin-3-gallate; the standout catechin in green tea.
+:::
+
+::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
+Two navigation tricks keep the story light:
+
+1. **Footnotes.** Superscript numbers are real links. Click one to jump to the full citation (author, year, title, DOI/URL). Click the caret next to the note to jump back to the sentence. On many browsers, hovering shows a popup of the note.
+2. **Foldouts.** Boxes titled "More detail…" or "Click for more detail" stay closed until you open them. The main story stays readable; the denser study snapshots, tables, and side-stories live inside.
+
+Neither trick invents facts. They only change how much detail sits on the open page.
+:::
+
+## The four lessons
+
+Each sitting is one pack branch—the same four-way split as the owner's source packs. Read in order for the full story, or hop to the lesson you need.
+
+1. **[Two plants, one species](01-plants.qmd)**
+2. **[The fork in the road: stop the browning, or let it run](02-processing.qmd)**
+3. **[What brewing actually does](03-brewing.qmd)**
+4. **[Three characters in the cup](04-compounds.qmd)**
+
+**Start with lesson 1:** [Two plants, one species](01-plants.qmd)
+
+## A drinker's field guide (still fact-based)
+
+Before you leave the chemical core, here is a short field guide—the kind of thing you can keep in your head on a weekday morning.
+
+**If you want grassy and catechin-forward:** choose green (or lightly oxidized) tea, use water near **80°C**, and give EGCG time to dissolve without boiling the cup into bitterness [^1].
+
+**If you want malt and body:** choose black tea. You are choosing the oxidation path on purpose—theaflavins and thearubigins are the pigments and mouthfeel makers [^2].
+
+**If you care about calm focus as well as wake-up:** remember that ordinary cups deliver **tens of milligrams** of L-theanine, not the **100–200 mg** capsules used in many lab trials [^3][^4]. A matcha or shaded green can climb higher; a quick black bag is usually lower on theanine and higher on the "familiar caffeine" side (see [Cup reference](../../cup-reference.qmd)).
+
+**If someone says cold brew is caffeine-free:** smile, then remember kinetics. Cold only slows the exit of caffeine from the leaf [^5]. Time is the real variable.
+
+**If someone says Assam always doubles China caffeine:** remember Takeda's cultivar survey and the pack's counter-examples. Averages lean Assam-higher; gardens and plucking standards write the fine print [^6].
+
+**If you want the tasting-lab strength:** ISO 3103 (sensory preparation) uses about **2 g leaf per 100 mL** boiling water—roughly **5 g per 250 mL**—stronger than many home cups that use about **2 g per 250 mL**.[^7] The [Cup reference](../../cup-reference.qmd) sticks to the everyday baseline so lab and kitchen do not get confused.
+
+None of that is medical advice. It is plant chemistry meeting a kettle—with sources you can check.
+
+## Looking ahead
+
+You now know how a plant becomes a cup, and which three characters usually steal the scene. The next chapter picks up exactly where this one leaves off: **after you swallow**. Why does tea so often feel different from coffee? What do brain waves, stress hormones, and body signals actually show?
+
+Open [Chapter 2: Body, Brain & Mood](../module-02/index.qmd) when you are ready—the compounds have already started their trip.
+
+::: {.callout-tip collapse="true" title="Click for more detail: a one-page chemical checklist"}
+- Same species, two main plant styles: China-type vs Assam-type averages differ, gardens decide the fine print.[^8][^6]
+- Green vs black is mostly a **processing fork** (kill PPO with heat vs let oxidation run), not a different plant in ordinary commercial tea.[^9][^2][^10]
+- Brewing is extraction: caffeine and L-theanine come out easily; EGCG wants more heat/time and can degrade if you overcook it.[^5][^3][^1]
+- Three guests, three clocks: caffeine hours, L-theanine tens of minutes, EGCG in between—so "I just sipped" ≠ peak effect.[^11][^12][^13]
+- Lab capsules (e.g. 100–200 mg L-theanine) are not grocery-bag cups; check the [Cup reference](../../cup-reference.qmd).[^3][^4]
+:::
+
+
+
+---
+
+**Navigate:** [← Modules overview](../index.qmd) · [First lesson →](01-plants.qmd) · [Module 2 hub →](../module-02/index.qmd)
+
+
+
+[^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
+
+[^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205. (Title abbreviated in some pack lists as chemical features of theaflavins/thearubigins.)
+
+[^3]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
+
+[^4]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
+
+[^5]: Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion: Kinetics of extraction of caffeine and theaflavins. *Journal of the Science of Food and Agriculture, 33*(4), 333–340.
+
+[^6]: Takeda, Y. (1994). Differences in caffeine and tannin contents between tea cultivars, and application to tea breeding. *Japan Agricultural Research Quarterly, 28*(2), 117–123. https://www.jircas.go.jp/en/publication/jarq/28/2/117
+
+[^7]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html
+
+[^8]: Wight, W. (1959). Nomenclature and classification of the tea plant. *Nature, 183*(4677), 1726–1728. https://doi.org/10.1038/1831726a0
+
+[^9]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Enzymatic browning in tea: Polyphenol oxidase and peroxidase. *Journal of the Science of Food and Agriculture, 79*(11), 1431–1436.
+
+[^10]: Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
+
+[^11]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
+
+[^12]: van der Pijl, P. C., et al. (2010). Human pharmacokinetic profile of green tea catechins and L-theanine. *British Journal of Nutrition, 104*(8), 1157–1164.
+
+[^13]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
+

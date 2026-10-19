@@ -1,0 +1,75 @@
+---
+title: "3.2 From medicine soup to monastery to tea room"
+---
+
+::: {.callout-tip}
+**Module 3 · Lesson 2 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots so the open page stays a story, not a wall of tables.
+:::
+
+
+## From medicine soup to monastery to tea room
+
+The packs describe a pathway in plain words: medicinal drink (Han) → focus aid in Chan/Zen monasteries (Tang/Song) → highly ritualized social practice (Japan's *chado*). Cultural historians such as James Benn trace how tea moved through Chinese religious and medical worlds before it became a global grocery staple [^1].
+
+**Han & Tang (about 206 BC–907 AD).** Early tea was often a bitter soup with salt, ginger, peel, scallions. Medical texts such as the *Shennong Ben Cao Jing* tradition list it for food poisoning, liver tonic use, and clearing "brain fog" (pack summary of that medical-era framing).
+
+**Tang & Song monasteries (about 618–1279).** Chan monks used tea to stay awake in long meditation without relying on harsher stimulants. Communal codes eventually wrote tea into the daily timetable.
+
+**Japan from Eisai onward (from 1191).** Eisai promoted tea; later tea rooms used *ichigo ichie* ("one time, one meeting"). Status was leveled on the tatami—useful for serious talks [^2][^3].
+
+First tea is "medicine soup." Later it is "stay awake for long practice." Still later it is "a shared room with rules that make everyone equal for a while." Same leaf family, different human jobs.
+
+| When | Text / practice | What it did | Source |
+| --- | --- | --- | --- |
+| 1103 | *Chanyuan Qinggui* (Chan monastic code) | Formal communal tea before dawn practice; seating and bowl rules | Yifa (2002; pack) |
+| 1211 | Eisai's *Kissa Yōjōki* | Tea as nourishment; bitter flavor said to nourish the heart and curb lethargy | Eisai (1211); Sen (1998) [^2] |
+| About 760 | Lu Yu's *Cha Jing* | Three boils by bubble look: "fish eyes," "pearls," "billowing waves" | Lu Yu; Carpenter (1974; pack) |
+| 1906 | Okakura Kakuzō, *The Book of Tea* | A modern English-language window onto tea aesthetics for Western readers | Okakura (1906) [^4] |
+
+Ritual and focus uses of tea are old. Modern "calm alertness" talk sits beside a long cultural history—not instead of it.
+
+And because folklore loves a dramatic birth story: Bodhidharma's eyelids grew into tea bushes, people say. That is popular folklore, not early Chan history. The story is missing from early Chinese Chan collections (for example the *Records of the Transmission of the Lamp*, 1004). It shows up much later in Jesuit travel writing and late-Edo Japanese popular books (pack historiography note).
+
+Eisai's 1211 phrase about tea nourishing the heart sits, in the packs, beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone. That is a historical phrase meeting a modern measure—not proof that Eisai ran an HRV lab. (See [Linkages](../../linkages.qmd).)
+
+::: {.callout-note collapse="true" title="More detail: from medicine soup to Chan code to chado"}
+| When | Text / practice | What it did | Trail |
+| --- | --- | --- | --- |
+| ~760 | Lu Yu's *Cha Jing* | Three boils by bubble look: "fish eyes," "pearls," "billowing waves" | Lu Yu; Carpenter (1974; pack) |
+| 1103 | *Chanyuan Qinggui* | Formal communal tea before dawn practice; seating and bowl rules | Yifa (2002; pack) |
+| 1211 | Eisai's *Kissa Yōjōki* | Tea as nourishment; bitter flavor said to nourish the heart and curb lethargy | Eisai; Sen (1998)[^2][^3] |
+| 1906 | Okakura, *The Book of Tea* | Modern English-language window onto tea aesthetics for Western readers | Okakura (1906)[^4] |
+
+Pathway in plain words: medicinal drink (Han) → focus aid in Chan/Zen monasteries (Tang/Song) → highly ritualized social practice (Japan's *chado*).[^1] Early tea was often a bitter soup with salt, ginger, peel, scallions. Later, monks used tea to stay awake in long meditation without harsher stimulants. In Japan, *ichigo ichie* ("one time, one meeting") and tatami etiquette leveled status for serious talks.[^2][^3]
+
+**Folklore check.** "Bodhidharma's eyelids grew into tea bushes" is popular folklore, not early Chan history—it is missing from early Chinese Chan collections such as the *Records of the Transmission of the Lamp* (1004) and shows up much later in Jesuit travel writing and late-Edo popular books (pack historiography note).
+:::
+
+From monasteries we step into a quieter modern lab: what happens when you simply *hold* a warm cup?
+
+
+
+::: {.callout-note collapse="true" title="More detail: reading the timetable without romance"}
+The monastic codes and Eisai's essay are **prescriptions and promotions**, not lab notebooks. *Chanyuan Qinggui* (1103) shows tea written into a communal schedule; *Kissa Yōjōki* (1211) argues for tea as nourishment against lethargy; Lu Yu's *Cha Jing* teaches attention to the boil by eye.[^1][^2]
+
+What the packs do *not* claim: that every modern cafe ritual descends unbroken from Chan, or that *ichigo ichie* causes cooperation in Trust Games. Those are later bridges on [Linkages](../../linkages.qmd)—historical phrase beside modern measure—not proof that monks ran EEG labs.
+:::
+
+---
+
+**Navigate:** [↑ Module 3 hub](index.qmd) · [← Previous](01-trade-history.qmd) · [Next →](03-warmth-trust.qmd)
+
+
+
+[^1]: Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
+
+[^2]: Sen, S. (1998). *The Japanese Way of Tea: From Its Origins in China to Sen Rikyu*. University of Hawaii Press.
+
+[^3]: Eisai. (1211). *Kissa Yōjōki* (Keep Your Health by Drinking Tea). (Historical text; discussed in Sen, 1998.)
+
+[^4]: Okakura, K. (1906). *The Book of Tea*. Fox Duffield & Company.
+

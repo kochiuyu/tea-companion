@@ -1,0 +1,74 @@
+---
+title: "3. History, Ritual & Warmth"
+---
+
+If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back until the whole room comes into view.
+
+Tea is not only chemistry in a cup. It remade **trade balances** between China and Britain. It became a **monastic focus aid** in Chan/Zen practice. Even holding a **warm mug** shows up in psychology experiments on trust. And a short, familiar **brewing sequence**—measure leaves, watch the water, wait—can act as a practical stress break under pressure.
+
+Hold that thought while you picture a different room: a British counting house in the 1830s watching silver leave for Canton; a Chan monastery before dawn with bowls set for communal tea; a modern psychology lab where a student is asked to hold a warm pack and then judge a stranger. Same leaf family. Wildly different human plots. This chapter walks those plots in order so the "why tea?" answer grows beyond molecules.
+
+Why tell that story after the brain-wave chapter? Because "why tea feels different" is incomplete if you only talk about molecules. People also drink tea because of money, empire, ritual, and the simple comfort of a warm hand. The packs keep those threads separate from chemistry claims—and so do we. Tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style. Hover often shows a popup too. Collapsed "More detail…" boxes hold denser history tables and study caveats.
+
+::: {.callout-tip title="Words to know on this journey"}
+- **Canton System** — Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment.
+- **Opium Wars** — conflicts (1839–1860) that forced trade openings after the silver–tea–opium crisis.
+- **Chado** — Japan's highly ritualized "way of tea."
+- **Anterior insular cortex** — brain area that handles both body temperature and feelings like trust or empathy.
+- **Embodied cognition** — the claim that body feelings (like warmth) can shape social judgments.
+- **Error-related negativity (ERN)** — a quick brain "oops" signal after mistakes; predictable rituals can blunt related anxiety responses in some studies.
+:::
+
+::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
+Click footnote markers for full citations (and the caret to return). Open "More detail…" foldouts for trade figures, monastery texts, warmth-replication caveats, and ritual psychology snapshots without turning the main page into a wall of text.
+:::
+
+## The four lessons
+
+Each sitting is one pack branch—the same four-way split as the owner's source packs. Read in order for the full story, or hop to the lesson you need.
+
+1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)**
+2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)**
+3. **[Warm hands, warmer judgments?](03-warmth-trust.qmd)**
+4. **[The brewing break as a stress reset](04-ritual-stress.qmd)**
+
+**Start with lesson 1:** [Silver, ships, and who controlled the leaf](01-trade-history.qmd)
+
+## Why this chapter belongs after the lab coat
+
+It is tempting to treat empire, monks, and warm mugs as "soft" add-ons after the "hard" chemistry. The packs refuse that split—and the story works better if you refuse it too.
+
+Chemistry explains why a leaf can wake you. History explains why that leaf is in your cupboard for less than the price of a sandwich. Ritual explains why making tea can feel like pressing pause even before the compounds peak. Warmth research—carefully hedged after replication failures—explains why the *vessel* in your hand is not psychologically invisible [^1][^2].
+
+Put another way: Chapter 2 measured calm alertness with EEG and cortisol. Chapter 3 asks what humans have *done* with that calm alertness for centuries—meditate, negotiate, trade, colonize, and sometimes simply sit. Needham's long history of Chinese botany and Benn's religious-cultural history are reminders that tea was never only a stimulant molecule wandering in search of a Western lab [^3].
+
+If you take only one sentence from this chapter into Chapter 4, take this one: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and L-theanine. That is why careful decision studies try to lock mug temperature and bitterness—and why a headline that ignores them is incomplete.
+
+## Looking ahead
+
+Chemistry, body, empire, monastery, warm hands, ritual break: the cup is now a full human object. Chapter 4 asks the decision question people quietly care about most.
+
+Does the drink change how we choose—how fast we answer, how much risk we take, how much we care about tomorrow, how trusting we are in a first move? Lab games try to measure those nudges. The packs are careful about limits. So are we.
+
+Open [Chapter 4: Decisions & Choices](../module-04/index.qmd) when you are ready—the mug is about to enter the laboratory.
+
+::: {.callout-tip collapse="true" title="Click for more detail: why context is part of the dose"}
+Chemistry explains why a leaf can wake you. History explains why that leaf is cheap in your cupboard. Ritual explains why making tea can feel like pause even before compounds peak. Warmth research—hedged after replication failures—explains why the vessel is not psychologically invisible.[^1][^2]
+
+**One sentence for Chapter 4:** context is part of the dose. Temperature, ritual, and expectation ride along with caffeine and L-theanine—so careful decision studies lock mug temperature and bitterness, and headlines that ignore them are incomplete.
+:::
+
+
+
+---
+
+**Navigate:** [← Modules overview](../index.qmd) · [← Module 2 hub](../module-02/index.qmd) · [First lesson →](01-trade-history.qmd) · [Module 4 hub →](../module-04/index.qmd)
+
+
+
+[^1]: Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
+
+[^2]: Lynott, D., et al. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
+
+[^3]: Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
+
