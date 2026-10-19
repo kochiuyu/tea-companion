@@ -12,6 +12,8 @@ You do not need to memorize the whole table. Skim the “By module” list at th
 
 Think of this as a pocket phrasebook for the four chapters—not a second textbook.
 
+For everyday and commercial tea labels (*English Breakfast*, *sencha*, *matcha*, bag vs loose, herbal "tea"), use **[Tea basics](tea-basics.qmd)** instead—this glossary stays chapter jargon only.
+
 ## Terms (simple definitions)
 
 
