@@ -31,6 +31,8 @@ A map of the whole trip sits on the [Modules overview](modules/index.qmd). Treat
 
 When a number appears—say "about 30–50 mg caffeine"—treat it as a **typical range from the packs**, not a promise about your exact mug. Brands, leaves, and steep times differ. The [Cup reference](cup-reference.qmd) is the quick table for a common 250 mL cup.
 
+New to grocery and cafe labels—*English Breakfast*, *sencha*, *matcha*, *Assam*? Start with **[Tea basics](tea-basics.qmd)** (aisle words → plant and processing ideas) before or alongside Chapter 1.
+
 When a technical word appears, we define it in the story the first time. The [Glossary](glossary.qmd) is there when you want a one-line reminder.
 
 When you wonder how a brewing fact connects to mood, or a warm mug to a trust game, open [Linkages](linkages.qmd). Those eleven bridges are the threads that sew the chapters together.
@@ -41,4 +43,4 @@ When you want the paper behind a name-and-year—or a footnote marker on a chapt
 
 We do **not** invent new percentages, mechanisms, history figures, or study results. We do **not** paste walls of lab equations. Everything here should trace back to the verified packs or a source we opened and listed. That honesty is part of the story: curiosity without costume jewelry.
 
-Ready? Pour an imaginary cup—and start with [Chapter 1: The Chemical Core](modules/module-01.qmd), or skim the [roadmap](modules/index.qmd) first.
+Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) if labels feel confusing, then [Chapter 1: The Chemical Core](modules/module-01.qmd)—or skim the [roadmap](modules/index.qmd) first.

@@ -11,6 +11,10 @@ You buy two boxes. Both say "tea." One pours pale and grassy. The other pours da
 
 If you have ever stood in a tea aisle confused by the words *sencha*, *Assam*, *oolong*, and *English Breakfast*, you are not alone. Those labels mix geography, cultivar, and factory style. This chapter peels them apart so the mug in your hand stops being a mystery brand and starts being a short chemical story you can follow.
 
+::: {.callout-tip}
+**New to tea labels?** Start with **[Tea basics](../tea-basics.qmd)**—a short aisle-to-cup map (what *English Breakfast*, *matcha*, bag vs loose, and herbal "tea" usually mean)—then come back here for the chemistry.
+:::
+
 This chapter answers that question in order. First we meet the plant behind almost all commercial tea. Then we watch what happens after picking—when makers either **stop** the leaf from browning (green tea) or **let** it brown in air (black tea). Then we watch hot water pull compounds into the cup. Finally we meet three names that matter most in everyday talk: **caffeine** (alertness), **L-theanine** (calm focus), and **EGCG** (a major green-tea plant compound).
 
 By the end you will know why "what's in my mug?" is not one number—and why that mug sets up everything that happens in Chapter 2, after you swallow. Numbers and study snapshots below keep a trail: tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style (click the number, then the back-caret). Hover often shows a popup too.

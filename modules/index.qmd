@@ -30,6 +30,9 @@ The owner's source packs use the same four-branch pattern in every module. The s
 
 ## If you only have ten minutes
 
+**"What do aisle labels mean?"**  
+Start with [Tea basics](../tea-basics.qmd), then Chapter 1.
+
 **"What's in my cup?"**  
 Start with [Cup reference](../cup-reference.qmd), then Chapter 1's brewing and compounds sections.
 

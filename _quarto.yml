@@ -8,6 +8,7 @@ project:
     - modules/module-02.qmd
     - modules/module-03.qmd
     - modules/module-04.qmd
+    - tea-basics.qmd
     - cup-reference.qmd
     - glossary.qmd
     - linkages.qmd
@@ -33,6 +34,8 @@ website:
             href: modules/module-03.qmd
           - text: "4. Decisions & Choices"
             href: modules/module-04.qmd
+      - text: Tea basics
+        href: tea-basics.qmd
       - text: Cup reference
         href: cup-reference.qmd
       - text: Glossary
