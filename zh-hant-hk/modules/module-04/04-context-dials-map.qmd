@@ -9,14 +9,81 @@ lang: zh-Hant-HK
 **本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
-::: {.callout-tip}
-**第四章 · 第四節（共四節）** — 屬於[第四章 · 情境與儀式心理](index.qmd)。 新來？請先看[章節目錄](index.qmd)。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
-::: {.callout-note}
-完整中文正文稍後提供。請先閱讀英文版：[Context is part of the dose](../../../modules/module-04/04-context-dials-map.qmd)。
+::: {.callout-tip}
+**第四章 · 第四節（共四節）** — 屬於[第四章 · 情境與儀式心理](index.qmd)。第一次來？先看[本章入口](index.qmd)的整章地圖。
+:::
+
+::: {.callout-note collapse="true" title="怎樣讀這一節（腳註＋摺疊）"}
+這一節是一張**地圖**，不是新實驗。腳註指回擁有證據的各課。摺頁重述界線，並交給第五章——不加新的效應量。
+:::
+
+## 杯子從來不只是化學
+
+想像廚房裡的一杯：手裡熱熱的、熟悉的泡茶步驟、飲品上的名字（「茶」、「精品」、「只是茶包」）。葉裡的客人——咖啡因、[茶氨酸](../../glossary.qmd#l-theanine)，以及[第一章 · 化合物](../module-01/04-compounds.qmd)裡的朋友——旁邊，還可以有三股**非化合物**影響一起上路。這一章逐一點名。現在它們坐在同一張初學者地圖上。
+
+## 三個旋鈕
+
+| 旋鈕 | 白話工作 | 在哪學過 | 它*不是*甚麼 |
+| --- | --- | --- | --- |
+| **溫暖** | 體溫替社交判斷添色 | [第一節](01-warmth-trust.qmd) | 會議室必勝秘技 |
+| **儀式** | 可預期的主動腳本／壓力打斷 | [第二節](02-ritual-stress.qmd) | 換個名字的正念 |
+| **預期** | 標籤與對杯的信念 | [第三節](03-expectation-labels.qmd) | 洗脫期與對等杯的替代品 |
+
+溫度、儀式與預期，會跟咖啡因和茶氨酸一起上路。這是本章帶走的一句——在此作為一套擁有。[^1][^2][^3]
+
+::: {.callout-caution title="界線收在同一個短警示框"}
+- **溫暖要謙虛：** 大型重做未能複製那條出名的暖墊送禮標題——林諾特要留在視野裡。[^1]
+- **Brooks 不是證據：** 已撤回的儀式—表現論文繼續排除（見第二節）。
+- **儀式 ≠ 正念：** 可預期的腳本，不是開放覺察訓練（第二節界線）。
+- **預期 ≠ 洗脫期：** 信念線索解釋為甚麼程序要鎖杯——它們不能取代那些程序（第三節 → [第五章 · 第四節](../module-05/04-study-protocols.qmd)）。
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：我們量過甚麼／沒有加甚麼"}
+| 旋鈕 | 前面各課實際教了甚麼 | 這張地圖拒絕再加甚麼 |
+| --- | --- | --- |
+| 溫暖 | 島葉重疊說法較耐用；送禮行為脆弱；部分公平／信任設計仍是有用的方法警告[^1] | 新的 *M* 值或 fMRI 座標 |
+| 儀式 | 有腳本的序列／焦慮控制框架；錯誤相關負波討論；正念界線[^2] | 新的心跳 bpm 表 |
+| 預期 | 行銷安慰劑＋外在線索回顧＋茶具預期[^3] | 新的茶安慰劑效應量 |
+
+社交場合（獨自對共享壺）**不是**本頁第四顆旋鈕——另有出處之前暫緩。
+:::
+
+## 通往決策章的門
+
+[第五章](../module-05/index.qmd)的遊戲量度選擇——快衝口對細心核對、風險與等待、信任與公平。研究程序嘗試**把這些旋鈕按住**，好讓化學可以誠實地談。[^4]
+
+亂糟糟的廚房杯仍然可以是好杯。它只是溫暖、儀式與預期都不受控的一杯。在乎化合物的實驗室會試着鎖旋鈕。忽略它們的標題就不完整——另見[讀懂茶研究](../../tea-reading-studies.qmd)與[連結橋樑](../../linkages.qmd)。
+
+::: {.callout-note collapse="true" title="更多詳情：現場杯對實驗室杯（短）"}
+| | 現場／茶餐廳杯 | 實驗室杯（理想） |
+| --- | --- | --- |
+| 溫暖 | 水煲與杯子給甚麼就是甚麼 | 對等溫度 |
+| 儀式 | 你的習慣——或者沒有 | 往往減到最少或標準化 |
+| 預期 | 標籤、價錢、器皿劇場 | 不透明／苦味配對／掩護故事 |
+| 化學 | 真葉，劑量亂 | 點名劑量＋洗脫期 |
+
+廚房排障的旋鈕（太苦、太平）是**萃取**旋鈕——跟這些情境旋鈕不是同一份工（[廚房排障](../../tea-troubleshoot.qmd)）。
+:::
+
+::: {.callout-tip title="你可以先停在這裡"}
+- 三顆初學者旋鈕：溫暖、儀式、預期——在葉化學旁邊。
+- 本頁不加新實證；它把第一至三節已教的畫成地圖。
+- 第五章遊戲量度決策；研究程序把旋鈕按住。
+- 帶走一句：**情境也是劑量的一部分。**
 :::
 
 ---
 
-**Navigate:** [↑ 第四章目錄](index.qmd) · [←](03-expectation-labels.qmd) · [→](../module-05/index.qmd)
+**導航：** [↑ 第四章入口](index.qmd) · [← 上一節](03-expectation-labels.qmd) · [第五章入口 →](../module-05/index.qmd)
+
+[^1]: See [Section 1 · Warmth](01-warmth-trust.qmd) (Williams & Bargh, 2008; Lynott et al., 2014; Inagaki & Eisenberger, 2013).
+
+[^2]: See [Section 2 · Ritual](02-ritual-stress.qmd) (Hobson et al., 2018; Lang et al., 2015; Brooks retraction fence).
+
+[^3]: See [Section 3 · Expectation](03-expectation-labels.qmd) (Shiv et al., 2005; Piqueras-Fiszman & Spence, 2015; Li et al., 2020).
+
+[^4]: [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd); [Chapter 5 · Section 1 · Dual-process](../module-05/01-dual-process.qmd).

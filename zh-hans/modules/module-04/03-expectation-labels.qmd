@@ -9,14 +9,91 @@ lang: zh-Hans
 **本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [章节总览](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
 :::
 
-::: {.callout-tip}
-**第四章 · 第三节（共四节）** — 属于[第四章 · 情境与仪式心理](index.qmd)。 新来？请先看[章节目录](index.qmd)。
+::: {.callout-note}
+**英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
 :::
 
-::: {.callout-note}
-完整中文正文稍后提供。请先阅读英文版：[What you think the mug is](../../../modules/module-04/03-expectation-labels.qmd)。
+::: {.callout-tip}
+**第四章 · 第三节（共四节）** — 属于[第四章 · 情境与仪式心理](index.qmd)。第一次来？先到[本章入口](index.qmd)看整章地图。
+:::
+
+::: {.callout-note collapse="true" title="怎样读这一节（脚注＋折叠）"}
+上标数字是脚注。折叠框收更密的预期速写，以及指向第五章研究方案的指针表。这一节是第三颗情境旋钮——不是第二本方法教科书。
+:::
+
+## 同一液体，不同故事
+
+[第一节](01-warmth-trust.qmd)讲杯的**温度**。[第二节](02-ritual-stress.qmd)讲双手的**剧本**。预期则是体验上的**名字**：“茶”、“精品”、“只是热水”、“药用”、“贵”、“茶包”。
+
+叶里的化学仍然重要（[第一章 · 化合物](../module-01/04-compounds.qmd)）。身体状态仍然重要（[第二章](../module-02/index.qmd)）。别人*告诉*你什么——以及器皿和标签看起来怎样——可以作为第三层色调一起上路。保持温暖那一节的语气：**色调，不是命运。**
+
+## 信念与标签：第三颗旋钮
+
+营销与感官研究显示：外在线索——价格、包装、标签、描述——可以塑造预期，甚至改变测到的表现或评分体验。[^1][^2]
+
+Shiv、Carmon 与 Ariely（2005）让人喝同一款能量饮料，分别标正常价与折扣价；付得较少的人解出较少谜题，与较弱的“有效”预期一致——这不是茶试验，却是干净的教学图：**关于饮品的信念，会跟液体一起上路**。[^1] Piqueras-Fiszman 与 Spence（2015）回顾产品外在食物线索（标签、包装、图片）怎样在多种设计里塑造感官预期与体验。[^2]
+
+::: {.callout-caution title="诚实边界"}
+- 一般预期／营销安慰剂范式，往往**不是**茶属（*Camellia*）茶。用到时要说清楚。
+- 不要捏造茶安慰剂效应量。
+- 预期 ≠ [茶氨酸](../../glossary.qmd#l-theanine)的平静（化学属于第二章）。
+- 预期 ≠ 温暖启动 ≠ 有脚本的仪式（是姊妹；地图在[第四节](04-context-dials-map.qmd)）。
+:::
+
+::: {.callout-note collapse="true" title="更多详情：标签线索／预期教学速写"}
+| 线索类型 | 教学例子（有出处） | 它*不是*什么 |
+| --- | --- | --- |
+| 价格／营销 | 折扣能量饮 → 谜题任务上测到的效益较弱（Shiv 等）[^1] | 证明“便宜茶一定失败” |
+| 标签／包装／描述 | 外在线索塑造预期与体验到的味道（回顾）[^2] | 洗脱期与对等杯的替代品 |
+| 器皿／茶具 | 中国参与者看到中式与英式茶具图片时，预期苦涩／收敛与愉悦感会改变（Li 等）[^3] | 咖啡因的药理学 |
+
+感官回顾里的同化等预期说法，是折叠词汇——正文故事不必先会。[^2]
+:::
+
+## 茶相关：茶具作为外在线索
+
+若要一个**茶**例子，Li、Qi、Spence 与 Wan（2020）给中国参与者看绿茶放在中式或英式茶具的照片。茶具改变了预期的苦与收敛；价格隐藏时也影响愉悦感，而价格标签可以抹掉那个愉悦效应。[^3] 美国参与者没有出现同样的苦／收敛模式——所以连“器皿线索”也不是放之四海的魔法。[^3]
+
+那是预期戴上茶杯——不是说精美瓷器会改变咖啡因的毫克数。
+
+::: {.callout-note collapse="true" title="更多详情：第五章第四节已锁住什么（只作指针）"}
+若标签与感官剧场会漏进评分，谨慎的试验就赚得回本：
+
+| 方案习惯 | 为什么放在这一节旁边 | 完整表在哪里 |
+| --- | --- | --- |
+| 不透明杯 | 藏起颜色／剧场线索 | [第五章 · 第四节](../module-05/04-study-protocols.qmd) |
+| 对等温度（约 60℃ ± 2℃） | 把温暖旋钮按住 | 同上 |
+| 苦味配对 | 对抗“这尝起来像真货”的预期 | 同上 |
+| 洗脱期 | 昨天的咖啡也是信念与身体的混淆 | 同上 |
+
+这里不加新的毫克说法。标题核对习惯：[读懂茶研究](../../tea-reading-studies.qmd)。
+:::
+
+## 为什么方法学执着于对等杯
+
+第五章的研究方案不是为挑剔而挑剔。若你*以为*杯里是什么，能给评分与自觉状态添色，那么不透明杯、苦味配对、温度锁定与洗脱期，就是实验室尝试谈论化学、却不让预期穿上实验袍的方法。[^4]
+
+现场厨房更乱；没问题。只是别把茶餐厅故事，跟受控的一杯混为一谈。
+
+## 交给地图
+
+下一节把温暖＋仪式＋预期放上同一张初学者地图，再打开通往决策章的门。
+
+::: {.callout-tip title="你可以先停在这里"}
+- 信念与标签是温暖、仪式旁边的第三颗情境旋钮。
+- 一般预期证据（价格、包装）教的是机制——往往不是茶叶。[^1][^2]
+- 茶具可在茶相关设计里改变味道预期——并有文化界限。[^3]
+- 指向第五章研究方案／读懂茶研究门；不要在此重教参数表。
 :::
 
 ---
 
-**Navigate:** [↑ 第四章目录](index.qmd) · [←](02-ritual-stress.qmd) · [→](04-context-dials-map.qmd)
+**导航：** [↑ 第四章入口](index.qmd) · [← 上一节](02-ritual-stress.qmd) · [下一节 →](04-context-dials-map.qmd)
+
+[^1]: Shiv, B., Carmon, Z., & Ariely, D. (2005). Placebo effects of marketing actions: Consumers may get what they pay for. *Journal of Marketing Research, 42*(4), 383–393. https://doi.org/10.1509/jmkr.2005.42.4.383
+
+[^2]: Piqueras-Fiszman, B., & Spence, C. (2015). Sensory expectations based on product-extrinsic food cues: An interdisciplinary review of the empirical evidence and theoretical accounts. *Food Quality and Preference, 40*(Part A), 165–179. https://doi.org/10.1016/j.foodqual.2014.09.013
+
+[^3]: Li, X., Qi, Y., Spence, C., & Wan, X. (2020). Influence of teaware on subjective ratings of, and taste expectations concerning, tea. *Food Quality and Preference, 80*, 103834. https://doi.org/10.1016/j.foodqual.2019.103834
+
+[^4]: See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd) (Rogers et al., 2008; matched-mug / washout language already on site).

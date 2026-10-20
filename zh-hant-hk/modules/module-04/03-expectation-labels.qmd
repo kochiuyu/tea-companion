@@ -1,5 +1,5 @@
 ---
-title: "第三節 · 你以為杯裡是什麼"
+title: "第三節 · 你以為杯裡是甚麼"
 lang: zh-Hant-HK
 ---
 
@@ -9,14 +9,91 @@ lang: zh-Hant-HK
 **本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
-::: {.callout-tip}
-**第四章 · 第三節（共四節）** — 屬於[第四章 · 情境與儀式心理](index.qmd)。 新來？請先看[章節目錄](index.qmd)。
+::: {.callout-note}
+**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
 
-::: {.callout-note}
-完整中文正文稍後提供。請先閱讀英文版：[What you think the mug is](../../../modules/module-04/03-expectation-labels.qmd)。
+::: {.callout-tip}
+**第四章 · 第三節（共四節）** — 屬於[第四章 · 情境與儀式心理](index.qmd)。第一次來？先看[本章入口](index.qmd)的整章地圖。
+:::
+
+::: {.callout-note collapse="true" title="怎樣讀這一節（腳註＋摺疊）"}
+上標數字是腳註。摺頁收較密的預期速寫，以及指向第五章研究程序的指標表。這一節是第三顆情境旋鈕——不是第二本方法教科書。
+:::
+
+## 同一液體，不同故事
+
+[第一節](01-warmth-trust.qmd)講杯的**溫度**。[第二節](02-ritual-stress.qmd)講雙手的**劇本**。預期則是體驗上的**名字**：「茶」、「精品」、「只是熱水」、「藥用」、「貴」、「茶包」。
+
+葉裡的化學仍然重要（[第一章 · 化合物](../module-01/04-compounds.qmd)）。身體狀態仍然重要（[第二章](../module-02/index.qmd)）。別人*告訴*你甚麼——以及器皿和標籤看起來怎樣——可以作為第三層色調一起上路。保持溫暖那一節的語氣：**色調，不是命運。**
+
+## 信念與標籤：第三顆旋鈕
+
+行銷與感官研究顯示：外在線索——價錢、包裝、標籤、描述——可以塑造預期，甚至改變量度到的表現或評分體驗。[^1][^2]
+
+Shiv、Carmon 與 Ariely（2005）讓人喝同一款能量飲，分別標正常價與折扣價；付得較少的人解出較少謎題，與較弱的「有效」預期一致——這不是茶試驗，卻是乾淨的教學圖：**關於飲品的信念，會跟液體一起上路**。[^1] Piqueras-Fiszman 與 Spence（2015）回顧產品外在食物線索（標籤、包裝、圖片）怎樣在多種設計裡塑造感官預期與體驗。[^2]
+
+::: {.callout-caution title="誠實界線"}
+- 一般預期／行銷安慰劑範式，往往**不是**茶屬（*Camellia*）茶。用到時要說清楚。
+- 不要捏造茶安慰劑效應量。
+- 預期 ≠ [茶氨酸](../../glossary.qmd#l-theanine)的平靜（化學屬第二章）。
+- 預期 ≠ 溫暖促發 ≠ 有腳本的儀式（是姊妹；地圖在[第四節](04-context-dials-map.qmd)）。
+:::
+
+::: {.callout-note collapse="true" title="更多詳情：標籤線索／預期教學速寫"}
+| 線索類型 | 教學例子（有出處） | 它*不是*甚麼 |
+| --- | --- | --- |
+| 價錢／行銷 | 折扣能量飲 → 謎題任務上量度到的效益較弱（Shiv 等）[^1] | 證明「便宜茶一定失敗」 |
+| 標籤／包裝／描述 | 外在線索塑造預期與體驗到的味道（回顧）[^2] | 洗脫期與對等杯的替代品 |
+| 器皿／茶具 | 中國參與者看到中式與英式茶具圖片時，預期苦澀／收斂與愉悅感會改變（Li 等）[^3] | 咖啡因的藥理學 |
+
+感官回顧裡的同化等預期說法，是摺頁詞彙——正文故事不必先會。[^2]
+:::
+
+## 茶相關：茶具作為外在線索
+
+若要一個**茶**例子，Li、Qi、Spence 與 Wan（2020）給中國參與者看綠茶放在中式或英式茶具的照片。茶具改變了預期的苦與收斂；價錢隱藏時也影響愉悅感，而價錢標籤可以抹掉那個愉悅效應。[^3] 美國參與者沒有出現同樣的苦／收斂模式——所以連「器皿線索」也不是放諸四海的魔法。[^3]
+
+那是預期戴上茶杯——不是說精美瓷器會改變咖啡因的毫克數。
+
+::: {.callout-note collapse="true" title="更多詳情：第五章第四節已鎖住甚麼（只作指標）"}
+若標籤與感官劇場會漏進評分，謹慎的試驗就賺得回本：
+
+| 程序習慣 | 為甚麼放在這一節旁邊 | 完整表在哪裡 |
+| --- | --- | --- |
+| 不透明杯 | 藏起顏色／劇場線索 | [第五章 · 第四節](../module-05/04-study-protocols.qmd) |
+| 對等溫度（約 60℃ ± 2℃） | 把溫暖旋鈕按住 | 同上 |
+| 苦味配對 | 對抗「這嘗起來像真貨」的預期 | 同上 |
+| 洗脫期 | 昨天的咖啡也是信念與身體的混淆 | 同上 |
+
+這裡不加新的毫克說法。標題核對習慣：[讀懂茶研究](../../tea-reading-studies.qmd)。
+:::
+
+## 為甚麼方法學執着對等杯
+
+第五章的研究程序不是為挑剔而挑剔。若你*以為*杯裡是甚麼，能替評分與自覺狀態添色，那麼不透明杯、苦味配對、溫度鎖定與洗脫期，就是實驗室嘗試談論化學、卻不讓預期穿上實驗袍的方法。[^4]
+
+現場廚房更亂；沒問題。只是別把茶餐廳故事，跟受控的一杯混為一談。
+
+## 交給地圖
+
+下一節把溫暖＋儀式＋預期放上同一張初學者地圖，再打開通往決策章的門。
+
+::: {.callout-tip title="你可以先停在這裡"}
+- 信念與標籤是溫暖、儀式旁邊的第三顆情境旋鈕。
+- 一般預期證據（價錢、包裝）教的是機制——往往不是茶葉。[^1][^2]
+- 茶具可在茶相關設計裡改變味道預期——並有文化界限。[^3]
+- 指向第五章研究程序／讀懂茶研究門；不要在此重教參數表。
 :::
 
 ---
 
-**Navigate:** [↑ 第四章目錄](index.qmd) · [←](02-ritual-stress.qmd) · [→](04-context-dials-map.qmd)
+**導航：** [↑ 第四章入口](index.qmd) · [← 上一節](02-ritual-stress.qmd) · [下一節 →](04-context-dials-map.qmd)
+
+[^1]: Shiv, B., Carmon, Z., & Ariely, D. (2005). Placebo effects of marketing actions: Consumers may get what they pay for. *Journal of Marketing Research, 42*(4), 383–393. https://doi.org/10.1509/jmkr.2005.42.4.383
+
+[^2]: Piqueras-Fiszman, B., & Spence, C. (2015). Sensory expectations based on product-extrinsic food cues: An interdisciplinary review of the empirical evidence and theoretical accounts. *Food Quality and Preference, 40*(Part A), 165–179. https://doi.org/10.1016/j.foodqual.2014.09.013
+
+[^3]: Li, X., Qi, Y., Spence, C., & Wan, X. (2020). Influence of teaware on subjective ratings of, and taste expectations concerning, tea. *Food Quality and Preference, 80*, 103834. https://doi.org/10.1016/j.foodqual.2019.103834
+
+[^4]: See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd) (Rogers et al., 2008; matched-mug / washout language already on site).

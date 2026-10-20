@@ -21,15 +21,15 @@ lang: zh-Hant-HK
 
 1. **[白銀、商船，以及誰掌握了茶葉](01-trade-history.qmd)** — 廣州白銀、鴉片、《南京條約》、福鈞說法更正
 2. **[從藥湯到禪寺，再到茶室](02-monastic-path.qmd)** — 漢代藥用 → 禪院清規 → 榮西與茶道
-3. **[壟斷打破之後——莊園、勞工與平價茶包](03-plantation-aftershock.qmd)** — 阿薩姆土地／勞工餘波（中文全文稍後；先讀英文）
-4. **[同一片葉，多種劇本](04-regional-scripts.qmd)** — 潮汕工夫、港式奶茶、台灣茶藝（中文全文稍後；先讀英文）
+3. **[壟斷打破之後——莊園、勞工與平價茶包](03-plantation-aftershock.qmd)** — 阿薩姆土地／勞工餘波；邱園市場線索；錫蘭摺頁
+4. **[同一片葉，多種劇本](04-regional-scripts.qmd)** — 潮汕工夫 · 港式奶茶 · 台灣茶藝
 
 **從第一節開始：** [白銀、商船，以及誰掌握了茶葉](01-trade-history.qmd)
 
 ## 往後看
 
-歷史講清茶葉如何進你的櫥櫃、各地如何 staged 這杯茶。[第四章](../module-04/index.qmd)談溫暖、儀式與預期——**情境也是劑量的一部分**。[第五章](../module-05/index.qmd)再量度決策，並用研究規程把那些旋鈕鎖住。
+歷史講清茶葉如何進你的櫥櫃、各地如何為這杯茶搭台。[第四章](../module-04/index.qmd)談溫暖、儀式與預期——**情境也是劑量的一部分**。[第五章](../module-05/index.qmd)再量度決策，並用研究程序把那些旋鈕鎖住。
 
 ---
 
-**Navigate:** [← 章節總覽](../index.qmd) · [← 第二章](../module-02/index.qmd) · [第一節 →](01-trade-history.qmd) · [第四章 →](../module-04/index.qmd)
+**導航：** [← 章節總覽](../index.qmd) · [← 第二章](../module-02/index.qmd) · [第一節 →](01-trade-history.qmd) · [第四章 →](../module-04/index.qmd)

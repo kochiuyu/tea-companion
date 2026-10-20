@@ -1,5 +1,5 @@
 ---
-title: "第四节 · 同一片叶，多种剧本"
+title: "第四节 · 同一片叶，多种剧本——各地怎样为杯搭台"
 lang: zh-Hans
 ---
 
@@ -9,14 +9,88 @@ lang: zh-Hans
 **本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [章节总览](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
 :::
 
-::: {.callout-tip}
-**第三章 · 第四节（共四节）** — 属于[第三章 · 历史与文化](index.qmd)。 新来？请先看[章节目录](index.qmd)。
+::: {.callout-note}
+**英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
 :::
 
-::: {.callout-note}
-完整中文正文稍后提供。请先阅读英文版：[One leaf, many scripts](../../../modules/module-03/04-regional-scripts.qmd)。
+::: {.callout-tip}
+**第三章 · 第四节（共四节）** — 属于[第三章 · 历史与文化](index.qmd)。第一次来？先到[本章入口](index.qmd)看整章地图。
+:::
+
+::: {.callout-note collapse="true" title="怎样读这一节（脚注＋折叠）"}
+上标数字是脚注。折叠的“更多详情……”里放更密的器具、礼仪笔记，以及民间传说对编年／民族志的边界——正文保持活生生剧本的故事，不是世界巡游，也不是实验室仪式课。
+:::
+
+## 茶室门口之后
+
+[第二节](02-monastic-path.qmd)停在寺院作息和日本茶室的“齐平”。这一节换一个问题：当场景换成潮汕桌、台湾茶艺聚会，或香港奶茶柜台，这片叶还穿上什么**剧本**？
+
+这里的“剧本”指**怎样为这杯茶搭台**——工具、次序、社交角色——不是[茶叶入门](../../tea-basics.qmd)的购物标签，也不是[第一章](../module-01/03-brewing.qmd)的萃取旋钮。[第三节](03-plantation-aftershock.qmd)的商品叶可以走到任何地方；地方剧本决定人们怎样真正坐下喝它。
+
+::: {.callout-caution title="不是实验室仪式"}
+可预期的共享步骤，会在[第四章 · 第二节](../module-04/02-ritual-stress.qmd)以*情境心理学*回来。本页**不**教霍布森、心率缓冲，或错误相关负波。先文化；心理下一章。
+:::
+
+## 肖像一——潮汕工夫：日常搭台
+
+在潮汕（粤东），工夫茶最好当作**日常社交实践**来教——家人、朋友、生意往来——而不是博物馆里的“中国茶道”。[^1] 人们用小壶泡浓茶，反复喝小杯；民族志里的重点，是织进日常的社交联结，而不是另演一出“茶艺”。[^1]
+
+有人精进辨识（茶壶、赏叶）；茶馆则把闲暇商品化。正文保持日常主轴：小壶、反复斟倒、社交粘合剂。[^1]
+
+::: {.callout-note collapse="true" title="更多详情：潮汕工夫——实践对包装成“仪式”"}
+d'Abbs 的田野区分了今日潮汕的日常实践、精进修养，以及商品化的茶馆闲暇。[^1] 一条较长的论文线索则主张：把潮汕工夫说成“延续千年的国家仪式”，是一种**发明的传统**——当地人喝茶已久，但包装成“一脉相承”的故事，并没有中世纪一手证据撑腰。[^2]
+
+把“工夫茶＝中国茶艺”推向全国的现代包装，也有一条二十世纪的传播线：台湾接受，以及日本茶道／煎茶道的影响——后来的叙事有时会遮住这条线。[^3] 习惯同第二节查达摩传说一样：民间传说和品牌是颜色；编年与民族志守住边界。
+
+**初学者器具（只放折叠）：** 小砂壶、小杯，留意反复短浸——不是第一章的温度电子表格。
+:::
+
+## 肖像二——香港奶茶柜台
+
+对亚洲／香港读者来说，奶茶柜台就是本地活生生的剧本：本地人昵称**丝袜**奶茶的细棉网滤、浓叶、炼乳，以及战后经冰室、大排档在地化，后来普及成茶餐厅日常的那条路。[^4]
+
+英式加奶茶在殖民管治下到来；早期高档西餐厅把它泡得淡而贵。二战后人口膨胀与打工阶层的食肆重塑了这杯——叶更浓、用炼乳兼顾热量与成本、网滤求滑——直到它变成全城茶餐厅都有的一杯，而不只是街档。[^4]
+
+::: {.callout-note collapse="true" title="更多详情：遗产化（选读的诚实层）"}
+Mak（2020）追踪奶茶在香港怎样成为遗产与地方营造对象——官方品牌与代际意义并不总是对得上。[^5] 正文保持柜台剧本（网滤、浓度、炼乳、茶餐厅）。遗产政治留在折叠，免得本页变成城市品牌文，或茶叶入门的标签表。
+:::
+
+## 肖像三——台湾茶艺（较薄的第三幅）
+
+台湾当代**茶艺**聚会，通过冲泡、身体姿态、器具布置（茶席），以及设计过的茶空间来搭出雅致——一种感官、仪式化的美学实践，常被称作文人茶。[^6] Yu 把公开茶会写成“感官景观”：香气、光、声、器具与气氛，组织着“我们”和“他们”是谁。[^6]
+
+这套剧本可以同时声称中国传承与日本浸润；Yu 也指出一个悖论：一种强烈认同台湾的实践，在大陆也被热切接纳为“传统”。[^6] 这是文化史——不是说每一场冲泡比赛都等于第二节的禅寺延续。
+
+::: {.callout-note collapse="true" title="更多详情：台湾茶艺——器具与感官景观"}
+Yu 的教学速写里，工夫式小壶小杯是基本一套；台湾茶艺为这幅肖像多加的，是雅致的修养表演——姿态、服装、茶席、空间设计——超出潮汕日常社交粘合剂。[^6] 高山乌龙作为地方风味商品是相关研究线；化学与风土机制留给第一章，这里不另开第二堂植物课。
+:::
+
+## 本章收束——并桥接心理学
+
+本站的历史主轴：谁掌握了叶 → 实践怎样进日常 → 种植园余波 → **许多活生生的剧本**。心理下一章开始：温暖、仪式、预期，作为化学旁边的情境旋钮。
+
+只留一句桥：可预期的共享步骤，会在[第四章](../module-04/index.qmd)再以仪式与情境效应出现。本页拒绝把每一种地方实践，等同于“仪式减焦虑”的实验室发现。
+
+::: {.callout-tip title="你可以先停在这里"}
+- 潮汕工夫：日常社交搭台——不是博物馆仪式。[^1]
+- 香港奶茶：有据可查的战后在地化柜台剧本。[^4]
+- 台湾茶艺：器具／姿态／空间作为修养美学实践。[^6]
+- 延续神话，用与第二节相同的“民间传说对编年”边界。
+- 下一章：情境也是剂量的一部分。
 :::
 
 ---
 
-**Navigate:** [↑ 第三章目录](index.qmd) · [←](03-plantation-aftershock.qmd) · [→](../module-04/index.qmd)
+**导航：** [↑ 第三章入口](index.qmd) · [← 上一节](03-plantation-aftershock.qmd) · [第四章入口 →](../module-04/index.qmd)
+
+[^1]: d'Abbs, P. H. (2019). Tea art as everyday practice: Gongfu tea in Chaoshan, Guangdong, today. *The Asia Pacific Journal of Anthropology, 20*(3), 213–231. https://doi.org/10.1080/14442213.2019.1611908
+
+[^2]: d'Abbs, P. H. N. (2018). *Art as everyday practice: A study of gongfu tea in Chaoshan, China* (Master's thesis, University of New England). https://hdl.handle.net/1959.11/23092
+
+[^3]: Zhang, L. C. L. (2016). A foreign infusion: The forgotten legacy of Japanese *chadō* on modern Chinese tea arts. *Gastronomica, 16*(1), 53–62. https://doi.org/10.1525/gfc.2016.16.1.53
+
+[^4]: Hong Kong Memory. The History of Hong Kong-style Milk Tea (ICH Oral Legacies Series II). https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html
+
+[^5]: Mak, V. S. W. (2020). The heritagization of milk tea: Cultural governance and placemaking in Hong Kong. *Asian Anthropology*. https://doi.org/10.1080/1683478x.2020.1773616
+
+[^6]: Yu, S.-D. (2022). Sense-making in Taiwan's tea art ritual. *Asian Journal of Social Science, 50*(3), 229–235. https://doi.org/10.1016/j.ajss.2022.08.007
