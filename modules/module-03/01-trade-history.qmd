@@ -1,14 +1,14 @@
 ---
-title: "3.1 Silver, ships, and who controlled the leaf"
+title: "Section 1 · Silver, ships, and who controlled the leaf"
 ---
 
 {{< include ../../_includes/lang-switcher/module-03-trade-history.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 3 · Lesson 1 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 3 · Section 1 of 4** — part of [Chapter 3 · History, Ritual & Warmth](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser trade figures and plant-transfer timelines so the open page stays a story, not a wall of tables.
 :::
 
@@ -18,7 +18,7 @@ Start with a grocery-shelf miracle: a cheap bag of tea. That cheapness has a geo
 
 Hold two pictures side by side. In one, a British counting house in the 1830s watches silver leave for Canton while tea chests come home. In the other, your kitchen kettle clicks off and a bag costs less than a sandwich. This lesson walks the road between them—without inventing new economic theory, and without turning a tea bag into a morality play. The numbers and treaty clauses come from the owner packs and the named histories below.
 
-If Module 1 asked *what plant is in the cup*, this lesson asks *who controlled the leaf*—and what that control cost.
+If Chapter 1 asked *what plant is in the cup*, this lesson asks *who controlled the leaf*—and what that control cost.
 
 ## Silver flowed east
 
@@ -110,7 +110,7 @@ A Scottish officer, **Robert Bruce**, learned of tea grown by Singhpho communiti
 
 **Robert Fortune's** 1848–1851 missions still matter—but for a different reason. Disguised and traveling in interior China, he gathered plants, seeds, tools, and—crucially—Chinese tea workers and processing know-how for British-run plantations. Kew's public history underlines the point Fortune also noticed on the ground: green and black tea come from the same plant; processing decides the color.[^7] Fortune did not "invent" Indian tea. Wild Assam tea was already identified in the 1820s and validated in the 1830s. Fortune's gift was Chinese *sinensis* cultivars, skilled makers from regions such as Anhui and Fujian, and small-scale craft knowledge layered onto an Assam industry already underway.[^7][^8][^9]
 
-That plant story loops back to [Module 1 · Plants](../module-01/01-plants.qmd): China-type and Assam-type leaves are not just tasting notes—they are the botanical residue of this transfer.
+That plant story loops back to [Chapter 1 · Plants](../module-01/01-plants.qmd): China-type and Assam-type leaves are not just tasting notes—they are the botanical residue of this transfer.
 
 ::: {.callout-note collapse="true" title="More detail: Assam first, Fortune later"}
 **Sequence the packs insist on:**
@@ -141,7 +141,7 @@ Kew's public history (Andrew Butterworth, 2015) and the packs' verification note
 
 Late nineteenth-century British plantations in Assam and Darjeeling turned tea into an industrial crop on conceded land. The global Chinese monopoly was broken; tea became a cheap mass commodity.[^9][^7] Your supermarket tea bag exists partly because empire, botany, and industrial plantations rewrote who grew the leaf and how cheaply it could ship.
 
-That is history—not a chemistry claim. Module 1 still explains why the bag tastes the way it does. This lesson explains why the bag is *there* for pocket change.
+That is history—not a chemistry claim. Chapter 1 still explains why the bag tastes the way it does. This lesson explains why the bag is *there* for pocket change.
 
 Empire explains how tea became cheap and everywhere. But long before the Opium Wars, tea had another job: helping people stay awake for long practice. That path—medicine soup to monastery to tea room—is the next lesson.
 
@@ -149,7 +149,7 @@ Empire explains how tea became cheap and everywhere. But long before the Opium W
 - Not claiming tea "caused" the Opium Wars alone—silver, opium, sovereignty, and coercive diplomacy were entangled.[^5][^6]
 - Not inventing a new model of Qing or British finance—pack figures (Pritchard; Morse) are retold as teaching anchors.
 - Not saying Fortune "stole tea into existence" in India—Assam identification preceded his missions.[^7]
-- Not a substitute for Module 1's plant and processing story—use both: [Plants](../module-01/01-plants.qmd) · [Processing](../module-01/02-processing.qmd).
+- Not a substitute for Chapter 1's plant and processing story—use both: [Plants](../module-01/01-plants.qmd) · [Processing](../module-01/02-processing.qmd).
 :::
 
 
@@ -163,13 +163,13 @@ Notice what this lesson refuses:
 - It does not treat Fortune as a comic-book thief who "invented" Indian tea.
 - It does not confuse "cheap supermarket bag today" with "morally simple history."
 
-Empire, botany, and industrial plantations broke an older monopoly. Chemistry (Module 1) still explains the cup's contents. History explains the cup's price and presence.
+Empire, botany, and industrial plantations broke an older monopoly. Chemistry (Chapter 1) still explains the cup's contents. History explains the cup's price and presence.
 
-::: {.callout-note collapse="true" title="More detail: connecting this lesson to Module 1 and Tea basics"}
+::: {.callout-note collapse="true" title="More detail: connecting this lesson to Chapter 1 and Tea basics"}
 | Everyday label | Historical hinge in this lesson | Where to go next |
 | --- | --- | --- |
-| Assam / English Breakfast–style strong black tea | Assam industry validated 1830s; industrial estates later | [1.1 Plants](../module-01/01-plants.qmd) · [Tea basics](../../tea-basics.qmd) |
-| China-style greens / lighter blacks | Fortune's *sinensis* cultivars + processing know-how layered onto Assam | [1.2 Processing](../module-01/02-processing.qmd) |
+| Assam / English Breakfast–style strong black tea | Assam industry validated 1830s; industrial estates later | [Chapter 1 · Section 1 Plants(../module-01/01-plants.qmd) · [Tea basics](../../tea-basics.qmd) |
+| China-style greens / lighter blacks | Fortune's *sinensis* cultivars + processing know-how layered onto Assam | [Chapter 1 · Section 2 Processing(../module-01/02-processing.qmd) |
 | "Cheap tea bag" | Late 19th-c. plantation commodity after monopoly break | This lesson's closing |
 
 If aisle words still feel slippery, start at [Tea basics](../../tea-basics.qmd), then return here for the geopolitical plot.
@@ -202,12 +202,12 @@ Sharma's *Empire's Garden* follows how Assam plantations remade land, labor, and
 - A cheap supermarket bag has a geopolitical past: silver east, opium west, war, then colonial plantations.
 - Canton funneled trade through licensed hong merchants—not an open marketplace.
 - Fortune did **not** "invent" Indian tea; Assam was identified earlier. His gift was Chinese plants, makers, and know-how.
-- Chemistry (Module 1) still explains the cup; this lesson explains why the bag is there for pocket change.
+- Chemistry (Chapter 1) still explains the cup; this lesson explains why the bag is there for pocket change.
 :::
 
 ---
 
-**Navigate:** [↑ Module 3 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-monastic-path.qmd)
+**Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-monastic-path.qmd)
 
 [^1]: National Army Museum. First China War (First Opium War), 1839–1842. https://www.nam.ac.uk/explore/first-china-war-1839-1842
 

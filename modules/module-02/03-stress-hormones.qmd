@@ -1,14 +1,14 @@
 ---
-title: "2.3 When the fire alarm rings"
+title: "Section 3 · When the fire alarm rings"
 ---
 
 {{< include ../../_includes/lang-switcher/module-02-stress-hormones.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 2 · Lesson 3 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 2 · Section 3 of 4** — part of [Chapter 2 · Body, Brain & Mood](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold hormone-loop names, dose tables, and paper-by-paper honesty notes so the open page stays everyday language.
 :::
 
@@ -48,7 +48,7 @@ Pack tables also sometimes phrase caffeine–cortisol adaptation as "nearly gone
 :::
 
 ::: {.callout-tip}
-**Before you believe a stress headline:** check **dose**, **task vs rest**, **timing**, and **what was compared**—the same four questions Module 2.2 teaches for brain-wave claims.
+**Before you believe a stress headline:** check **dose**, **task vs rest**, **timing**, and **what was compared**—the same four questions Chapter 2.2 teaches for brain-wave claims.
 :::
 
 ## Myth check: "Caffeine permanently wrecks your adrenals"
@@ -68,7 +68,7 @@ Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caff
 ::: {.callout-tip title="You can stop here"}
 - Stress has a chemistry: a fire-alarm hormone story, not only a mood word.
 - Caffeine can raise the siren; L-theanine-linked drinks more often keep markers nearer baseline in cited designs.
-- Before you believe a stress headline: **dose, task, timing, contrast** (same literacy as Module 2.2).
+- Before you believe a stress headline: **dose, task, timing, contrast** (same literacy as Chapter 2.2).
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
@@ -89,7 +89,7 @@ Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caff
 Keeping the question matched to the paper is how this course stays honest when secondary tables blur together.
 :::
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 2.3"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 2 · Section 3"}
 1. Stress loop → cortisol; caffeine can push it (HPA axis in the foldout above).
 2. Habituation ≠ zero stress chemistry.[^5]
 3. L-theanine evidence is marker- and setting-specific.[^1][^3][^4]
@@ -99,7 +99,7 @@ Keeping the question matched to the paper is how this course stays honest when s
 
 ---
 
-**Navigate:** [↑ Module 2 hub](index.qmd) · [← Previous](02-brainwaves.qmd) · [Next →](04-body-signals.qmd)
+**Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Previous](02-brainwaves.qmd) · [Next →](04-body-signals.qmd)
 
 [^1]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
 

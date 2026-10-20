@@ -1,14 +1,14 @@
 ---
-title: "2.1 Gas pedals, brakes, and a busy road"
+title: "Section 1 · Gas pedals, brakes, and a busy road"
 ---
 
 {{< include ../../_includes/lang-switcher/module-02-brain-action.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 2 · Lesson 1 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 2 · Section 1 of 4** — part of [Chapter 2 · Body, Brain & Mood](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold receptor names, dose tables, and study snapshots so the open page stays everyday language.
 :::
 
@@ -90,7 +90,7 @@ Caffeine takes the sleepy note off the desk. L-theanine gently turns down noisy 
 Keep the cartoon. Check the doses. Ignore the miracle aisle.
 :::
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 2.1"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 2 · Section 1"}
 1. Caffeine ≈ adenosine A₁/A₂A antagonism.[^1]
 2. L-theanine ≈ weak glutamate antagonism + calmer attention—not GABA agonist.[^2][^3]
 3. Alcohol ≈ more GABA_A + less NMDA function.[^4][^5]
@@ -101,7 +101,7 @@ Keep the cartoon. Check the doses. Ignore the miracle aisle.
 
 ---
 
-**Navigate:** [↑ Module 2 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-brainwaves.qmd)
+**Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-brainwaves.qmd)
 
 [^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
 

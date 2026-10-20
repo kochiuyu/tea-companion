@@ -1,14 +1,14 @@
 ---
-title: "4.1 Fast blurts and careful checks"
+title: "Section 1 · Fast blurts and careful checks"
 ---
 
 {{< include ../../_includes/lang-switcher/module-04-dual-process.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 4 · Lesson 1 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 4 · Section 1 of 4** — part of [Chapter 4 · Decisions & Choices](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold formal dual-process labels, CRT/Stroop/RVIP dose tables, and study snapshots so the open page stays a story—not a claim that drinks flip a genius switch.
 :::
 
@@ -80,7 +80,7 @@ What these tasks are *for*:
 - **Stroop** — naming ink color when the word says something else (inhibit automatic reading).
 - **RVIP / switching** — sustained attention under load.
 
-Alcohol makes System 1 dominant via alcohol myopia—attention narrows to the most immediate cues.[^3] Chapter 2's L-theanine story connects here: by softening excess glutamate signaling, L-theanine is linked with better sustained attention on hard switching tasks (see [Linkages](../../linkages.qmd) and [2.1 Brain action](../module-02/01-brain-action.qmd)).
+Alcohol makes System 1 dominant via alcohol myopia—attention narrows to the most immediate cues.[^3] Chapter 2's L-theanine story connects here: by softening excess glutamate signaling, L-theanine is linked with better sustained attention on hard switching tasks (see [Linkages](../../linkages.qmd) and [Chapter 2 · Section 1 Brain action(../module-02/01-brain-action.qmd)).
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: how to read a 'tea makes you wiser' headline"}
@@ -110,9 +110,9 @@ L-theanine + caffeine helping vigilance hits is not the same as:
 
 The packs say bias reduction is task- and person-dependent. Hold that fence whenever a headline upgrades "better vigilance" into "better judgment about everything."
 
-## Bridge to Module 2 (and why false alarms matter)
+## Bridge to Chapter 2 (and why false alarms matter)
 
-Chapter 2's L-theanine story was about quieter excitatory noise and calmer stress markers. Chapter 4's attention batteries ask whether that quieter control shows up as fewer false alarms and better switching. The linkage page stitches those claims; this lesson keeps the doses honest ([2.1 Brain action](../module-02/01-brain-action.qmd); [Linkages](../../linkages.qmd)).
+Chapter 2's L-theanine story was about quieter excitatory noise and calmer stress markers. Chapter 4's attention batteries ask whether that quieter control shows up as fewer false alarms and better switching. The linkage page stitches those claims; this lesson keeps the doses honest ([Chapter 2 · Section 1 Brain action(../module-02/01-brain-action.qmd); [Linkages](../../linkages.qmd)).
 
 Speed of thinking is one axis. Appetite for risk—and patience for tomorrow—is another. That is the next sitting.
 
@@ -125,7 +125,7 @@ Think of executive effort like a dimmer, not a light switch.
 Drinks nudge where the dimmer sits under load. They do not install a new personality. Anxiety and time pressure matter as much as milligrams—the packs say so explicitly in the heuristic-switch verification note.
 :::
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 4.1"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 4 · Section 1"}
 1. Open story = fast blurt vs careful check; formal System 1/2 labels live in foldouts.[^1]
 2. Tea combo → sustained attention pattern in cited designs—not "wiser about everything."[^2]
 3. Pure caffeine can speed you into reflection traps under pressure.[^7]
@@ -146,7 +146,7 @@ Quiz-show speed blurts; homework patience checks. Tea-plus-caffeine designs in t
 
 ---
 
-**Navigate:** [↑ Module 4 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-risk-waiting.qmd)
+**Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-risk-waiting.qmd)
 
 [^1]: Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 

@@ -1,14 +1,14 @@
 ---
-title: "3.4 The brewing break as a stress reset"
+title: "Section 4 · The brewing break as a stress reset"
 ---
 
 {{< include ../../_includes/lang-switcher/module-03-ritual-stress.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 3 · Lesson 4 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 3 · Section 4 of 4** — part of [Chapter 3 · History, Ritual & Warmth](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser autonomic numbers, ERN notes, and the mindfulness-vs-scripting distinction. One famous paper is **not** used as evidence—see the caution box.
 :::
 
@@ -62,7 +62,7 @@ Predictable behavioral sequences have been linked with lower anxiety and steadie
 | --- | --- | --- | --- |
 | Heart rate under acute stress | Scripted repetitive sequence vs less structured control | Mean HR down about **4.3 bpm ± 0.9** in pack reading of Lang et al. | Lang et al. (2015) [^2] |
 | Error-related negativity (ERN) | High-ritualized group vs unscripted control | Amplitude down about **1.85 μV ± 0.35** (p < 0.05) in pack reading | Hobson et al. (2017) [^5] |
-| L-theanine + hard arithmetic | **200 mg**-class L-theanine designs (Module 2 bridge) | Lower HR and stress markers vs placebo | Kimura et al. (2007) [^3] |
+| L-theanine + hard arithmetic | **200 mg**-class L-theanine designs (Chapter 2 bridge) | Lower HR and stress markers vs placebo | Kimura et al. (2007) [^3] |
 
 Ritual psychology review (Hobson et al., 2018): structured rituals can regulate emotion, performance goals, and social connection via bottom-up physical features and top-down meaning.[^1]
 
@@ -76,7 +76,7 @@ Two non-Brooks rows carry the packs' numeric color. They are **experimental snap
 
 **Hobson and colleagues (2017) — error-related negativity.** ERN is a fast brain "oops" wave, often discussed at the anterior cingulate, within roughly the first **100 ms** after a mistake. The packs read a high-ritual group as showing amplitude down about **1.85 μV ± 0.35** versus an unscripted control (*p* < 0.05).[^5] Teaching translation: less emotional perseveration on the error—not "you stop making mistakes," and not "mindfulness" by another name.
 
-**Kimura bridge (not a ritual-script paper).** L-theanine under hard arithmetic lowered heart rate and stress markers versus placebo.[^3] Chemistry and choreography can rhyme. They are still different mechanisms—see [Module 2 · Body signals](../module-02/04-body-signals.qmd).
+**Kimura bridge (not a ritual-script paper).** L-theanine under hard arithmetic lowered heart rate and stress markers versus placebo.[^3] Chemistry and choreography can rhyme. They are still different mechanisms—see [Chapter 2 · Body signals](../module-02/04-body-signals.qmd).
 :::
 
 ## A citation we do not lean on
@@ -130,9 +130,9 @@ You *can* brew mindfully. The experiments this page leans on do not require you 
 
 ## Chemistry and choreography can rhyme
 
-A fixed tea-making sequence is not only cultural. It is linked with higher heart-beat flexibility and lower stress arousal in the tea-compound literature.[^3] Ritual steps plus tea compounds can point in the same "calmer control" direction—another bridge to [Module 2 · Body signals](../module-02/04-body-signals.qmd) and to Chapter 4's bargaining calm (fewer hair-trigger rejections when anxiety is lower).
+A fixed tea-making sequence is not only cultural. It is linked with higher heart-beat flexibility and lower stress arousal in the tea-compound literature.[^3] Ritual steps plus tea compounds can point in the same "calmer control" direction—another bridge to [Chapter 2 · Body signals](../module-02/04-body-signals.qmd) and to Chapter 4's bargaining calm (fewer hair-trigger rejections when anxiety is lower).
 
-Context is part of the dose: temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the sentence to carry into [Module 4](../module-04/index.qmd).
+Context is part of the dose: temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the sentence to carry into [Chapter 4](../module-04/index.qmd).
 
 ::: {.callout-tip collapse="true" title="Click for more detail: a three-step brewing break (teaching sketch, not a clinical protocol)"}
 Borrowed from the packs' plain-language emphasis—not a medical prescription:
@@ -151,7 +151,7 @@ Anxious looping is expensive. The mind rehearses the exam, the meeting, the emai
 
 That is an **attention anchor**—not a personality makeover.
 
-The packs also describe a body rhyme: familiar ritual → lower heart rate / skin stress signals, higher heart-beat flexibility.[^2] Module 2 already showed L-theanine calming stress markers during arithmetic.[^3] Chemistry and choreography can point the same way without being identical.
+The packs also describe a body rhyme: familiar ritual → lower heart rate / skin stress signals, higher heart-beat flexibility.[^2] Chapter 2 already showed L-theanine calming stress markers during arithmetic.[^3] Chemistry and choreography can point the same way without being identical.
 
 ::: {.callout-note collapse="true" title="More detail: Hobson's three ritual functions (teaching map)"}
 Hobson et al. (2018) organize ritual psychology around regulating:[^1]
@@ -165,7 +165,7 @@ A solo brewing break leans on (1) and (2). A shared tea service leans on (3) as 
 Bottom-up features (repetition, rigidity, synchrony) and top-down meaning (why this sequence matters) both contribute in the review's framework.[^1]
 :::
 
-## What to take into Module 4
+## What to take into Chapter 4
 
 Carry three sentences forward:
 
@@ -173,7 +173,7 @@ Carry three sentences forward:
 2. Brooks (2016) STAI numbers are **off-limits** after retraction.[^4]
 3. Context (ritual + warmth + expectation) rides along with compounds—so Chapter 4 locks methods.
 
-Then open [Module 4](../module-04/index.qmd) when you want the decision games.
+Then open [Chapter 4](../module-04/index.qmd) when you want the decision games.
 
 
 
@@ -181,16 +181,16 @@ Then open [Module 4](../module-04/index.qmd) when you want the decision games.
 - A short, familiar brewing script can interrupt anxious looping—attention lands on countable steps.
 - Predictability is the point in these sources; you do not have to become a meditation teacher.
 - Brooks et al. (2016) STAI anxiety numbers are **off-limits** after the 2024 retraction.
-- Chemistry and choreography can rhyme; they are still different mechanisms—see [Module 2 · Body signals](../module-02/04-body-signals.qmd).
+- Chemistry and choreography can rhyme; they are still different mechanisms—see [Chapter 2 · Body signals](../module-02/04-body-signals.qmd).
 :::
 
 ---
 
-**Navigate:** [↑ Module 3 hub](index.qmd) · [← Previous](03-warmth-trust.qmd) · [Next module →](../module-04/index.qmd)
+**Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](03-warmth-trust.qmd) · [Next module →](../module-04/index.qmd)
 
 [^1]: Hobson, N. M., Schroeder, J., Risen, J. L., Xygalatas, D., & Inzlicht, M. (2018). The psychology of rituals: An integrative review and process-based framework. *Personality and Social Psychology Review, 22*(3), 260–284. https://doi.org/10.1177/1088868317734944
 
-[^2]: Lang, M., Krátký, J., Shaver, J. H., Jerotijević, D., & Xygalatas, D. (2015). Effects of anxiety on spontaneous ritualized behavior. *Current Biology* / pack-cited autonomic sequence work also listed as *Human Nature, 26*(3), 295–314 in Module 3 additions. (Pack narrative: scripted sequences and HR buffering.)
+[^2]: Lang, M., Krátký, J., Shaver, J. H., Jerotijević, D., & Xygalatas, D. (2015). Effects of anxiety on spontaneous ritualized behavior. *Current Biology* / pack-cited autonomic sequence work also listed as *Human Nature, 26*(3), 295–314 in Chapter 3 additions. (Pack narrative: scripted sequences and HR buffering.)
 
 [^3]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
 

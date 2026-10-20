@@ -24,12 +24,12 @@
       ? {
           home: "首頁",
           tea: "茶葉入門",
-          modules: "模組",
-          modulesOverview: "模組總覽",
-          m1: "1. 化學核心",
-          m2: "2. 身體、大腦與心情",
-          m3: "3. 歷史、儀式與溫暖",
-          m4: "4. 決策與選擇",
+          modules: "章節",
+          modulesOverview: "章節總覽",
+          m1: "第一章 化學核心",
+          m2: "第二章 身體、大腦與心情",
+          m3: "第三章 歷史、儀式與溫暖",
+          m4: "第四章 決策與選擇",
           reference: "參考",
           cup: "杯量參考",
           glossary: "詞彙表",
@@ -40,12 +40,12 @@
       : {
           home: "首页",
           tea: "茶叶入门",
-          modules: "模块",
-          modulesOverview: "模块总览",
-          m1: "1. 化学核心",
-          m2: "2. 身体、大脑与心情",
-          m3: "3. 历史、仪式与温暖",
-          m4: "4. 决策与选择",
+          modules: "章节",
+          modulesOverview: "章节总览",
+          m1: "第一章 化学核心",
+          m2: "第二章 身体、大脑与心情",
+          m3: "第三章 历史、仪式与温暖",
+          m4: "第四章 决策与选择",
           reference: "参考",
           cup: "杯量参考",
           glossary: "词汇表",
@@ -170,7 +170,7 @@
     // Relabel top-level dropdown toggles
     document.querySelectorAll(".navbar .nav-link.dropdown-toggle").forEach(function (tog) {
       var t = (tog.textContent || "").trim();
-      if (/^Modules$/i.test(t)) setLinkText(tog, labels.modules);
+      if (/^Chapters?$/i.test(t)) setLinkText(tog, labels.modules);
       else if (/^Reference$/i.test(t)) setLinkText(tog, labels.reference);
       // leave Language toggle
     });

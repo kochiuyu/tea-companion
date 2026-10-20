@@ -1,14 +1,14 @@
 ---
-title: "4.3 Games of trust, fairness, and cooperation"
+title: "Section 3 · Games of trust, fairness, and cooperation"
 ---
 
 {{< include ../../_includes/lang-switcher/module-04-trust-games.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 4 · Lesson 3 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 4 · Section 3 of 4** — part of [Chapter 4 · Decisions & Choices](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold formal game names, percent snapshots, and equilibrium talk. Opening trust is not forever trust—and warmth replication caveats from Chapter 3 still apply.
 :::
 
@@ -82,7 +82,7 @@ Read it as an **opening allocation nudge** under thermal priming—not as "tea c
 
 ## Bridge back to Chapter 3 (do not forget the caveats)
 
-Ritual can also blunt the brain's error-alarm and lower anxiety ([3.4 Ritual stress](../module-03/04-ritual-stress.qmd))—discussed in the packs alongside fewer hyper-aggressive rejections of unfair offers. Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
+Ritual can also blunt the brain's error-alarm and lower anxiety ([Chapter 3 · Section 4 Ritual stress(../module-03/04-ritual-stress.qmd))—discussed in the packs alongside fewer hyper-aggressive rejections of unfair offers. Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
 
 And remember Chapter 3's replication caution: warmth effects on generosity are smaller and less reliable than early headlines suggested.[^7] Lynott et al. (2014) failed to replicate Williams & Bargh's gift-choice Study 2 at N = 861. Keep that in view when someone sells "serve tea, win the deal."
 
@@ -117,7 +117,7 @@ Brooks (2016) still cannot be used to decorate step 1.
 
 If headlines about drinks and decisions feel loud, the next section is the quiet machinery behind careful studies.
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 4.3"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 4 · Section 3"}
 1. Open story = unfair split / first send / cooperate-or-cut—before formal game jargon.
 2. Alcohol unfair-offer rejection **82.4%** vs **58.1%**—keep accurately.[^4]
 3. Kang opening trust about **+24.8%**—opening, not forever.[^5]
@@ -138,7 +138,7 @@ Someone else is in the room. Unfair splits and first sends are social games, not
 
 ---
 
-**Navigate:** [↑ Module 4 hub](index.qmd) · [← Previous](02-risk-waiting.qmd) · [Next →](04-study-protocols.qmd)
+**Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Previous](02-risk-waiting.qmd) · [Next →](04-study-protocols.qmd)
 
 [^1]: Güth, W., Schmittberger, R., & Schwarze, B. (1982). An experimental analysis of ultimatum bargaining. *Journal of Economic Behavior & Organization, 3*(4), 367–388.
 
@@ -150,7 +150,7 @@ Someone else is in the room. Unfair splits and first sends are social games, not
 
 [^5]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness. *PLOS ONE, 6*(1), e15836. https://doi.org/10.1371/journal.pone.0015836
 
-[^6]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. (Pack also cites warm-beverage Dilemma cooperation rates in Module 4 additions.)
+[^6]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. (Pack also cites warm-beverage Dilemma cooperation rates in Chapter 4 additions.)
 
 [^7]: Lynott, D., et al. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
 

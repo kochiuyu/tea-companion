@@ -1,14 +1,14 @@
 ---
-title: "4.4 How careful studies are usually built"
+title: "Section 4 · How careful studies are usually built"
 ---
 
 {{< include ../../_includes/lang-switcher/module-04-study-protocols.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 4 · Lesson 4 of 4** — part of [4. Decisions & Choices](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 4 · Section 4 of 4** — part of [Chapter 4 · Decisions & Choices](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold washout clocks, matched-mug parameter tables, and a headline checklist. This lesson is the "how do they know?" sitting after the flashy games.
 :::
 
@@ -59,12 +59,12 @@ Suppose Arm A gets fragrant, astringent, obviously-tea liquid in a clear glass. 
 
 That is why the packs obsess over opaque mugs, matched bitterness, matched temperature, and washout. Double-blind "sham tea" is hard—but the difficulty is the point.
 
-Notice how the study clock matches Chapter 1 and Chapter 2: tests near the shared peak window sit beside the timing you already met on [Cup reference](../../cup-reference.qmd) and in Module 1's compound lesson. The kitchen timing and the lab timing are the same story told twice.
+Notice how the study clock matches Chapter 1 and Chapter 2: tests near the shared peak window sit beside the timing you already met on [Cup reference](../../cup-reference.qmd) and in Chapter 1's compound lesson. The kitchen timing and the lab timing are the same story told twice.
 
 ::: {.callout-note collapse="true" title="More detail: why +40 minutes keeps showing up"}
 Oral L-theanine often peaks around **35–50 minutes**; caffeine around **30–60 minutes** (pack / Scheid-line timing).[^7] Starting the battery near **+40 minutes** aims at that shared window.
 
-Test at +5 minutes and you may catch expectation plus incomplete absorption. Test at +3 hours and you may miss the peak the study claims to care about. Kitchen intuition ("wait a bit after the cup") and lab timing are cousins—see also [Cup reference](../../cup-reference.qmd) and Module 1's compound peaks.
+Test at +5 minutes and you may catch expectation plus incomplete absorption. Test at +3 hours and you may miss the peak the study claims to care about. Kitchen intuition ("wait a bit after the cup") and lab timing are cousins—see also [Cup reference](../../cup-reference.qmd) and Chapter 1's compound peaks.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: five questions for a headline"}
@@ -76,10 +76,10 @@ When a headline says a drink "improves decisions," ask:
 4. **Dose vs mug?** Was it **200 mg** L-theanine + **100 mg** caffeine—or a grocery bag?
 5. **Task?** Balloon risk, gambling learning, reflection traps, unfair splits—each measures a different nudge.[^1][^2][^3]
 
-If those answers are missing, treat the claim as marketing until the methods show up. The [module hub](index.qmd) keeps an economist's caution list for the same reason.
+If those answers are missing, treat the claim as marketing until the methods show up. The [chapter hub](index.qmd) keeps an economist's caution list for the same reason.
 :::
 
-## How this lesson polices the rest of Module 4
+## How this lesson polices the rest of Chapter 4
 
 - Dual-process headlines → ask dose, task, timing ([4.1](01-dual-process.qmd)).
 - Risk / patience headlines → ask whether it was ethanol/caffeine capsules or a grocery mug ([4.2](02-risk-waiting.qmd)).
@@ -92,7 +92,7 @@ Imagine a blog that says: *"We gave students tea and they became more patient in
 
 > Participants (*n* unspecified) drank "tea" (*which style? which mg?*) then completed "a decision task" (*BART? IGT? a survey?*) "after drinking" (*how many minutes?*) versus "no drink" (*not a bitterness-matched placebo; not temperature-locked; not washout-cleared*).
 
-**What is missing:** washout of other caffeine, opaque matched mugs near **60°C**, quinine-matched control, a named task, a pre-registered outcome, and a dose you can compare to the [Cup reference](../../cup-reference.qmd). Without those, the sentence is storytelling in a lab coat—not a finding this module would teach.
+**What is missing:** washout of other caffeine, opaque matched mugs near **60°C**, quinine-matched control, a named task, a pre-registered outcome, and a dose you can compare to the [Cup reference](../../cup-reference.qmd). Without those, the sentence is storytelling in a lab coat—not a finding this chapter would teach.
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: a one-page protocol sketch (teaching, not a grant application)"}
@@ -115,19 +115,19 @@ Skip those controls and your "tea effect" may be theater plus residual caffeine 
 
 ## A closing honesty note for the whole module
 
-Module 4's flashy findings—reflection errors, balloon pumps, trust sends—only deserve as much confidence as their methods. This lesson is the spine. If you remember only the games and forget washout, temperature, and timing, you will overfit kitchen folklore to lab posters.
+Chapter 4's flashy findings—reflection errors, balloon pumps, trust sends—only deserve as much confidence as their methods. This lesson is the spine. If you remember only the games and forget washout, temperature, and timing, you will overfit kitchen folklore to lab posters.
 
 The economist-friendly posture stays the same as the hub: measured shifts under controlled doses; no invented theory; stakes and reputation usually dominate beverage nudges outside the lab.
 
 Careful protocols are not bureaucracy for its own sake. They are how you keep Chapter 3's warmth story from silently contaminating Chapter 4's pharmacology story—and how you keep expectation from wearing a lab coat.
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 4.4"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 4 · Section 4"}
 1. Open story = matched mug / wait for peak / decaf ≠ magic placebo.
 2. Washout, **60°C**, quinine match, **+40 min**, **200+100** dose live in foldouts.[^3][^6][^7]
 3. Warmth confound from Chapter 3 is why temperature is controlled, not cozy.[^4][^5]
 4. Methods police 4.1–4.3 headlines.
 5. No invented economics—shared tools only.
-6. Back to the [module hub](index.qmd) or [Cup reference](../../cup-reference.qmd) when you want numbers.
+6. Back to the [chapter hub](index.qmd) or [Cup reference](../../cup-reference.qmd) when you want numbers.
 :::
 
 ## Story in one minute
@@ -142,7 +142,7 @@ Flashy games only deserve as much confidence as their methods. Match the mug, wa
 
 ---
 
-**Navigate:** [↑ Module 4 hub](index.qmd) · [← Previous](03-trust-games.qmd) · [Cup reference →](../../cup-reference.qmd)
+**Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Previous](03-trust-games.qmd) · [Cup reference →](../../cup-reference.qmd)
 
 [^1]: Lejuez, C. W., et al. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied, 8*(2), 75–84.
 

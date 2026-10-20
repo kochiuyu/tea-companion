@@ -1,5 +1,5 @@
 ---
-title: "1. The Chemical Core"
+title: "Chapter 1 · The Chemical Core"
 ---
 
 {{< include ../../_includes/lang-switcher/module-01.en.qmd >}}
@@ -42,7 +42,7 @@ Two navigation tricks keep the story light:
 Neither trick invents facts. They only change how much detail sits on the open page.
 :::
 
-## The four lessons
+## The four sections
 
 Each sitting is one pack branch. The open pages stay lay-friendly; open a foldout when you want the chemistry depth.
 
@@ -51,7 +51,7 @@ Each sitting is one pack branch. The open pages stay lay-friendly; open a foldou
 3. **[What brewing actually does](03-brewing.qmd)** — hot water as a selective extractor; time, temperature, leaf amount; bag vs loose intuition.
 4. **[Three characters in the cup](04-compounds.qmd)** — three guests on different clocks; cups vs capsules; "not instant Zen."
 
-**Start with lesson 1:** [Two plants, one species](01-plants.qmd)
+**Start with section 1:** [Two plants, one species](01-plants.qmd)
 
 ## A drinker's field guide (still fact-based)
 
@@ -96,7 +96,7 @@ Open [Chapter 2: Body, Brain & Mood](../module-02/index.qmd) when you are ready�
 
 ---
 
-**Navigate:** [← Modules overview](../index.qmd) · [First lesson →](01-plants.qmd) · [Module 2 hub →](../module-02/index.qmd)
+**Navigate:** [← Chapters overview](../index.qmd) · [First lesson →](01-plants.qmd) · [Chapter 2 hub →](../module-02/index.qmd)
 
 [^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
 

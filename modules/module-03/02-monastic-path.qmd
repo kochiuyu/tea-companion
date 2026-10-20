@@ -1,14 +1,14 @@
 ---
-title: "3.2 From medicine soup to monastery to tea room"
+title: "Section 2 · From medicine soup to monastery to tea room"
 ---
 
 {{< include ../../_includes/lang-switcher/module-03-monastic-path.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 3 · Lesson 2 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 3 · Section 2 of 4** — part of [Chapter 3 · History, Ritual & Warmth](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser text dates, monastic timetable notes, and folklore checks so the open page stays a story.
 :::
 
@@ -18,7 +18,7 @@ The packs describe a pathway in plain words: medicinal drink (Han) → focus aid
 
 First tea is "medicine soup." Later it is "stay awake for long practice." Still later it is "a shared room with rules that make everyone equal for a while." Same leaf family, different human jobs.
 
-Why tell this after silver and ships? Because empire explains how tea became *cheap*. Monasteries and tea rooms explain how tea became a *practice*—a timed, shared, rule-bound way of paying attention. Module 2 measured calm alertness with EEG and cortisol. This lesson asks what humans did with that calm alertness for centuries.
+Why tell this after silver and ships? Because empire explains how tea became *cheap*. Monasteries and tea rooms explain how tea became a *practice*—a timed, shared, rule-bound way of paying attention. Chapter 2 measured calm alertness with EEG and cortisol. This lesson asks what humans did with that calm alertness for centuries.
 
 ## Medicine soup (Han & Tang)
 
@@ -122,7 +122,7 @@ The monastic codes and Eisai's essay are **prescriptions and promotions**, not l
 
 What the packs do *not* claim: that every modern cafe ritual descends unbroken from Chan, or that *ichigo ichie* causes cooperation in Trust Games. Those are later bridges on [Linkages](../../linkages.qmd).
 
-Eisai's 1211 phrase about tea nourishing the heart sits, in the packs, beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone—see [Module 2 · Body signals](../module-02/04-body-signals.qmd). That is a historical phrase meeting a modern measure—not proof that Eisai ran an HRV lab.
+Eisai's 1211 phrase about tea nourishing the heart sits, in the packs, beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone—see [Chapter 2 · Body signals](../module-02/04-body-signals.qmd). That is a historical phrase meeting a modern measure—not proof that Eisai ran an HRV lab.
 :::
 
 Ritual and focus uses of tea are old. Modern "calm alertness" talk sits beside a long cultural history—not instead of it.
@@ -148,9 +148,9 @@ Useful teaching claim: ritualized equality can create a room where hard talks ar
 Overclaim to avoid: tea rooms "cause" peace treaties, or *chado* automatically produces Trust-Game cooperation. Negotiation outcomes still depend on interests, power, and payoffs—Chapter 4's theme.
 :::
 
-## How this lesson talks to Modules 2 and 4
+## How this lesson talks to Chapters 2 and 4
 
-Eisai's "nourishes the heart" line sits beside modern **heart-beat flexibility** (HRV) / rest-and-digest findings in the packs' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([2.4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
+Eisai's "nourishes the heart" line sits beside modern **heart-beat flexibility** (HRV) / rest-and-digest findings in the packs' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([Chapter 2 · Section 4 Body signals(../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
 
 Monastic scheduling also foreshadows Chapter 3's ritual lesson: fixed steps, shared timing, less improvisation under stress. The monastery wrote tea into the day. The modern brewing break writes a short script into a stressful afternoon. Different centuries; related scaffolding idea.
 
@@ -191,7 +191,7 @@ Romance to refuse: treating Okakura's 1906 English essay as if it *were* the Tan
 
 ---
 
-**Navigate:** [↑ Module 3 hub](index.qmd) · [← Previous](01-trade-history.qmd) · [Next →](03-warmth-trust.qmd)
+**Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](01-trade-history.qmd) · [Next →](03-warmth-trust.qmd)
 
 [^1]: Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
 
@@ -211,4 +211,4 @@ Romance to refuse: treating Okakura's 1906 English essay as if it *were* the Tan
 
 [^9]: Lu Yu. *Cha Jing*, Chapter 5 (*五之煮*). Chinese Text (Wikisource). Fish-eye / pearl-string / billowing-wave boil stages. https://zh.wikisource.org/wiki/%E8%8C%B6%E7%B6%93/%E4%BA%94%E4%B9%8B%E7%85%AE
 
-[^10]: Pack historiography note on the Bodhidharma eyelid legend: absent from early Chinese Chan collections such as the *Jingde chuandeng lu* (*Records of the Transmission of the Lamp*, 1004); appears later in Jesuit travel writing and late-Edo Japanese popular books as allegory rather than early monastic record. (Module 3 socio-ritual pack verification note.)
+[^10]: Pack historiography note on the Bodhidharma eyelid legend: absent from early Chinese Chan collections such as the *Jingde chuandeng lu* (*Records of the Transmission of the Lamp*, 1004); appears later in Jesuit travel writing and late-Edo Japanese popular books as allegory rather than early monastic record. (Chapter 3 socio-ritual pack verification note.)

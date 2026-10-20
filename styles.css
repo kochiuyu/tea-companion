@@ -29,3 +29,53 @@ body {
   background: rgba(13, 110, 253, 0.06);
   border-radius: 0.25rem;
 }
+
+
+/* 4×4 chapter structure map on overview pages */
+.chapter-map {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 1.25rem 0 1.75rem 0;
+}
+@media (max-width: 992px) {
+  .chapter-map {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 576px) {
+  .chapter-map {
+    grid-template-columns: 1fr;
+  }
+}
+.chapter-map-card {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 0.5rem;
+  padding: 0.75rem 0.9rem 0.85rem;
+  background: rgba(13, 110, 253, 0.04);
+}
+.chapter-map-card h3 {
+  font-size: 1.02rem;
+  margin: 0 0 0.55rem 0;
+  line-height: 1.35;
+}
+.chapter-map-card h3 a {
+  text-decoration: none;
+}
+.chapter-map-card h3 a:hover {
+  text-decoration: underline;
+}
+.chapter-map-card ol {
+  margin: 0;
+  padding-left: 1.15rem;
+  font-size: 0.92rem;
+}
+.chapter-map-card li {
+  margin: 0.2rem 0;
+}
+.chapter-map-note {
+  font-size: 0.92rem;
+  color: #555;
+  margin-top: -0.5rem;
+  margin-bottom: 1.25rem;
+}

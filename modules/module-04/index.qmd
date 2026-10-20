@@ -1,5 +1,5 @@
 ---
-title: "4. Decisions & Choices"
+title: "Chapter 4 · Decisions & Choices"
 ---
 
 {{< include ../../_includes/lang-switcher/module-04.en.qmd >}}
@@ -46,7 +46,7 @@ Footnotes are bidirectional (click number → source; caret → back). Foldouts 
 - **Washout** — a period before a study when people avoid caffeine, alcohol, etc., so the test is cleaner.
 :::
 
-## The four lessons
+## The four sections
 
 Each sitting is one pack branch—the same four-way split as the owner's source packs. The **open pages stay everyday language** and take more time unpacking the main idea; open a foldout when you want the theory labels, dose tables, or protocol clocks. Still **no invented economics**. Read in order or hop.
 
@@ -55,7 +55,7 @@ Each sitting is one pack branch—the same four-way split as the owner's source 
 3. **[Games of trust, fairness, and cooperation](03-trust-games.qmd)** — sending money, rejecting unfair splits, cooperating at first; opening ≠ forever.
 4. **[How careful studies are usually built](04-study-protocols.qmd)** — matched mug, wait for peak, why decaf is not magic placebo.
 
-**Start with lesson 1:** [Fast blurts and careful checks](01-dual-process.qmd)
+**Start with section 1:** [Fast blurts and careful checks](01-dual-process.qmd)
 
 ## What an economist's caution sounds like here
 
@@ -90,7 +90,7 @@ The cup is ordinary. The story is not. And the next time you pour, you will know
 
 ---
 
-**Navigate:** [← Modules overview](../index.qmd) · [← Module 3 hub](../module-03/index.qmd) · [First lesson →](01-dual-process.qmd)
+**Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 3 hub](../module-03/index.qmd) · [First lesson →](01-dual-process.qmd)
 
 [^1]: Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263–291.
 

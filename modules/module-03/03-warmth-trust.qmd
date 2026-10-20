@@ -1,14 +1,14 @@
 ---
-title: "3.3 Warm hands, warmer judgments?"
+title: "Section 3 · Warm hands, warmer judgments?"
 ---
 
 {{< include ../../_includes/lang-switcher/module-03-warmth-trust.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 3 · Lesson 3 of 4** — part of [3. History, Ritual & Warmth](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 3 · Section 3 of 4** — part of [Chapter 3 · History, Ritual & Warmth](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser effect sizes, Trust Game figures, and replication caveats so the open story stays readable.
 :::
 
@@ -18,7 +18,7 @@ You meet someone while holding a cozy mug versus an icy can. In some lab setups,
 
 Think of a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **anterior insular cortex** (sometimes just "the insula"). The everyday idea—body state as a tint on social judgment—is what psychologists call **embodied cognition** when they want a lab label. You do not need either label to follow the open story.[^1][^2]
 
-Why does this lesson sit between monasteries and ritual breaks? Because Chapter 4's decision games will ask you to take "warmth" seriously as a *confound*—and as a bridge. If mug temperature can shift first impressions, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [4.4 Study protocols](../module-04/04-study-protocols.qmd)).
+Why does this lesson sit between monasteries and ritual breaks? Because Chapter 4's decision games will ask you to take "warmth" seriously as a *confound*—and as a bridge. If mug temperature can shift first impressions, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [Chapter 4 · Section 4 Study protocols(../module-04/04-study-protocols.qmd)).
 
 ## What the early studies claimed
 
@@ -62,9 +62,9 @@ Lynott et al. (2014) did not replicate Williams & Bargh's Study 2 gift-choice ef
 
 **More durable (neural overlap claim).** Inagaki & Eisenberger (2013): shared anterior insula responses to physical warmth and social warmth cues.[^2]
 
-**Still useful as a methods warning.** If thermal primes can shift *some* social and fairness behaviors in *some* designs,[^3] then decision studies that ignore cup temperature risk mixing chemistry with warmth. That is why [4.4 Study protocols](../module-04/04-study-protocols.qmd) specify opaque mugs near **60°C ± 2°C**.
+**Still useful as a methods warning.** If thermal primes can shift *some* social and fairness behaviors in *some* designs,[^3] then decision studies that ignore cup temperature risk mixing chemistry with warmth. That is why [Chapter 4 · Section 4 Study protocols(../module-04/04-study-protocols.qmd) specify opaque mugs near **60°C ± 2°C**.
 
-This warmth thread reappears in [4.3 Trust games](../module-04/03-trust-games.qmd)—the same first-mover figure is one of the bridges on [Linkages](../../linkages.qmd).
+This warmth thread reappears in [Chapter 4 · Section 3 Trust games(../module-04/03-trust-games.qmd)—the same first-mover figure is one of the bridges on [Linkages](../../linkages.qmd).
 :::
 
 ## Passive warmth vs active ritual
@@ -124,11 +124,11 @@ Three papers do different jobs. Keeping them in one table stops a common slide: 
 **Teaching sentence:** the famous prosocial-gift headline is **contested**; the insula overlap is **more durable** in the packs' framing; Kang is a **different** thermal-bargaining story that Chapter 4 still treats as a reason to lock mug temperature—not as a boardroom cheat code.[^3][^4][^7]
 :::
 
-## Why Module 4 will obsess over 60°C
+## Why Chapter 4 will obsess over 60°C
 
 If you only remember one applied sentence from this lesson, remember this: **mug temperature is not a neutral stage prop.**
 
-When Chapter 4's protocols lock drinks near **60°C ± 2°C** in opaque mugs, they are not being fussy for fun. They are trying to keep this lesson's thermal story from silently riding along with caffeine and L-theanine ([4.4 Study protocols](../module-04/04-study-protocols.qmd)).
+When Chapter 4's protocols lock drinks near **60°C ± 2°C** in opaque mugs, they are not being fussy for fun. They are trying to keep this lesson's thermal story from silently riding along with caffeine and L-theanine ([Chapter 4 · Section 4 Study protocols(../module-04/04-study-protocols.qmd)).
 
 Context is part of the dose. Warmth is part of context.
 
@@ -175,7 +175,7 @@ Chabris and colleagues' later reports likewise lean near-zero for the original w
 
 ---
 
-**Navigate:** [↑ Module 3 hub](index.qmd) · [← Previous](02-monastic-path.qmd) · [Next →](04-ritual-stress.qmd)
+**Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](02-monastic-path.qmd) · [Next →](04-ritual-stress.qmd)
 
 [^1]: Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
 
@@ -187,4 +187,4 @@ Chabris and colleagues' later reports likewise lean near-zero for the original w
 
 [^5]: Chabris, C. F., et al. (2018 preprint / later reports). Failures to replicate Williams and Bargh (2008) warmth priming in field settings. https://doi.org/10.31234/osf.io/mvn9b
 
-[^7]: See also the Module 4 verification note on equilibrium vs priming: opening trust (+15% to +25% in cited work) often fades if the other side defects in later rounds.
+[^7]: See also the Chapter 4 verification note on equilibrium vs priming: opening trust (+15% to +25% in cited work) often fades if the other side defects in later rounds.

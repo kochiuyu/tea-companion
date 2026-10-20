@@ -1,20 +1,20 @@
 ---
-title: "1.2 The fork in the road: stop the browning, or let it run"
+title: "Section 2 · The fork in the road: stop the browning, or let it run"
 ---
 
 {{< include ../../_includes/lang-switcher/module-01-processing.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 1 · Lesson 2 of 4** — part of [1. The Chemical Core](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 1 · Section 2 of 4** — part of [Chapter 1 · The Chemical Core](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold enzyme names, kill-green chemistry, and factory-day tables so the open page stays a kitchen story.
 :::
 
 ## From bush to decision
 
-[Lesson 1.1](01-plants.qmd) left you with a leaf on a bush—cool-hill or warm-lowland personality, garden fine print, and a hint that Assam-type plant-compound richness loves black-tea processing. Now the leaf is picked. Someone in a factory (or a small workshop) must choose: **stop the browning early**, or **let air rewrite the chemistry**.
+[Chapter 1 · Section 1](01-plants.qmd) left you with a leaf on a bush—cool-hill or warm-lowland personality, garden fine print, and a hint that Assam-type plant-compound richness loves black-tea processing. Now the leaf is picked. Someone in a factory (or a small workshop) must choose: **stop the browning early**, or **let air rewrite the chemistry**.
 
 That choice—not a different species—is why the same tea plant can become green tea or black tea. The plant hunter Robert Fortune noticed the practical point in nineteenth-century China: green and black came from the same bushes; factory treatment decided the color.[^3]
 
@@ -84,7 +84,7 @@ White tea is the "least factory drama" cousin on the same plant—minimal handli
 Green and black are the two big forks. **Oolong** sits between them: makers bruise the leaf, let browning run partway, then apply heat to lock the leaf. Trade writing often describes oolong oxidation as a wide range (roughly ~10% to nearly ~80% depending on style)—which is why one cafe "oolong" can taste almost green and another almost black.[^3]
 
 ::: {.callout-note collapse="true" title="More detail: oolong as the middle path"}
-That middle path is still *Camellia sinensis* on the same enzyme story (PPO/POD + air). It is not a third species. For aisle labels that say *oolong*, see [Tea basics](../../tea-basics.qmd); for the plant averages behind strong black cups, see [Lesson 1.1](01-plants.qmd).
+That middle path is still *Camellia sinensis* on the same enzyme story (PPO/POD + air). It is not a third species. For aisle labels that say *oolong*, see [Tea basics](../../tea-basics.qmd); for the plant averages behind strong black cups, see [Chapter 1 · Section 1](01-plants.qmd).
 
 **Pu-erh and "true" fermentation.** Post-fermented teas (notably some Pu-erh styles) bring microbes into the story. That is why calling *all* dark tea "fermented like wine" is still wrong—and why calling *some* dark teas microbially fermented can be right. Keep the words matched to the process.[^2]
 :::
@@ -109,14 +109,14 @@ After picking, tea makers face a fork. Heat early and lock browning off—plant 
 ::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - Choosing green vs black is choosing a **process**, not usually a different species.
 - Bitterness and "body" are partly pigment stories: black tea's darker pigments help mouthfeel; green tea's simple plant compounds stay sharper.
-- If you love Assam breakfast malt, remember [Lesson 1.1](01-plants.qmd): Assam-type leaves often bring more raw material into that black-tea fork.
+- If you love Assam breakfast malt, remember [Chapter 1 · Section 1](01-plants.qmd): Assam-type leaves often bring more raw material into that black-tea fork.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: Fortune's practical observation"}
 Robert Fortune's nineteenth-century collecting work for British interests is famous as plant transfer history (Chapter 3 will return to empire and trade). For *this* lesson, the useful scientific point Kew still echoes is simpler: Chinese makers could produce green or black from the same bushes by changing treatment.[^3] Taxonomy arguments about varieties still matter for breeding and chemistry averages—but they do not rescue the myth that green and black are different everyday species.
 :::
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 1.2"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 1 · Section 2"}
 1. PPO/POD + air = browning chemistry.[^1]
 2. ~82–85°C heat kill → green path lock.[^1]
 3. Theaflavins → thearubigins → black path pigments.[^2]
@@ -127,7 +127,7 @@ Robert Fortune's nineteenth-century collecting work for British interests is fam
 
 ---
 
-**Navigate:** [↑ Module 1 hub](index.qmd) · [← Previous](01-plants.qmd) · [Next →](03-brewing.qmd)
+**Navigate:** [↑ Chapter 1 hub](index.qmd) · [← Previous](01-plants.qmd) · [Next →](03-brewing.qmd)
 
 [^1]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Enzymatic browning in tea: Polyphenol oxidase and peroxidase. *Journal of the Science of Food and Agriculture, 79*(11), 1431–1436.
 

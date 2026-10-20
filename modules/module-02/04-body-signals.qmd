@@ -1,20 +1,20 @@
 ---
-title: "2.4 What the body quietly admits"
+title: "Section 4 · What the body quietly admits"
 ---
 
 {{< include ../../_includes/lang-switcher/module-02-body-signals.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 2 · Lesson 4 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 2 · Section 4 of 4** — part of [Chapter 2 · Body, Brain & Mood](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold meter names (HRV, skin conductance), milligram doses, and µS / millisecond numbers so the open page stays everyday language.
 :::
 
 ## Numbers you cannot feel—but labs can
 
-Besides mood surveys, labs track signals you might never notice yourself. This sitting closes Module 2's arc: signaling → rhythms → stress chemistry → **quiet body meters**.
+Besides mood surveys, labs track signals you might never notice yourself. This sitting closes Chapter 2's arc: signaling → rhythms → stress chemistry → **quiet body meters**.
 
 Three meters matter for the open story:
 
@@ -52,7 +52,7 @@ Higher HRV during hard thinking is also read as better top-down control—less i
 :::
 
 ::: {.callout-tip}
-**Before you believe a body-signal headline:** check **dose**, **design**, **rest vs load**, and **timing**—the Module 2.2 literacy habit, applied to heart-beat flexibility and stress-sweat claims.
+**Before you believe a body-signal headline:** check **dose**, **design**, **rest vs load**, and **timing**—the Chapter 2.2 literacy habit, applied to heart-beat flexibility and stress-sweat claims.
 :::
 
 ## Myth check: "Heart flexibility is only a fitness score"
@@ -63,7 +63,7 @@ Notice how the wired feeling has a skin signature too: caffeine-driven alert pat
 
 ## A bridge into Chapter 4's protocols
 
-Matched tea-constituent drinks in Rogers and colleagues' design—*Time for tea*—are also a bridge into Chapter 4's protocol talk: same volume, controlled temperature, and timed cognitive tests after drinking.[^5] When Module 4 asks how careful studies are built, remember that these body meters only mean something if the mug, the clock, and the task are controlled.
+Matched tea-constituent drinks in Rogers and colleagues' design—*Time for tea*—are also a bridge into Chapter 4's protocol talk: same volume, controlled temperature, and timed cognitive tests after drinking.[^5] When Chapter 4 asks how careful studies are built, remember that these body meters only mean something if the mug, the clock, and the task are controlled.
 
 ::: {.callout-tip collapse="true" title="More detail: reading body-signal headlines"}
 Before you trust a "tea calms your nervous system" headline, ask:
@@ -77,18 +77,18 @@ Then walk back through [2.1](01-brain-action.qmd)–[2.3](03-stress-hormones.qmd
 :::
 
 ::: {.callout-tip}
-Want the five-step dual story in one place? The [module hub](index.qmd) ends with **Putting the dual story in one picture**—caffeine, L-theanine, calm focus under load, stress markers, and the alcohol contrast—plus a foldout checklist.
+Want the five-step dual story in one place? The [chapter hub](index.qmd) ends with **Putting the dual story in one picture**—caffeine, L-theanine, calm focus under load, stress markers, and the alcohol contrast—plus a foldout checklist.
 :::
 
 
 ## Story in one minute
 
-Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Tea-linked L-theanine patterns often look like steadier control under load; caffeine alone can look more "wired"; alcohol often worsens control signals. These meters only mean something when dose, task, and timing are controlled—Module 4's protocol sitting will return to that.
+Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Tea-linked L-theanine patterns often look like steadier control under load; caffeine alone can look more "wired"; alcohol often worsens control signals. These meters only mean something when dose, task, and timing are controlled—Chapter 4's protocol sitting will return to that.
 
 ::: {.callout-tip title="You can stop here"}
 - Heart-beat flexibility, tiny stress sweat, and pupils are quiet body admits labs can measure.
 - Before you believe a "tea calms your nervous system" headline: **dose, design, rest-vs-load, timing**.
-- Matched mugs show up again in Module 4 so warmth and bitterness do not silently become the experiment.
+- Matched mugs show up again in Chapter 4 so warmth and bitterness do not silently become the experiment.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
@@ -97,7 +97,7 @@ Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Te
 - Translate every "tea calms the nervous system" headline through dose and design.
 :::
 
-::: {.callout-note collapse="true" title="More detail: connecting all four Module 2 sittings"}
+::: {.callout-note collapse="true" title="More detail: connecting all four Chapter 2 sittings"}
 1. **2.1** — caffeine lifts the sleepy brake; L-theanine softens excess go-chatter.
 2. **2.2** — that dual story shows up in state-dependent calm-focus / attention rhythms.
 3. **2.3** — under stress, hormones and BP/stress-enzyme markers often look steadier with L-theanine than with unbuffered caffeine stories.
@@ -106,7 +106,7 @@ Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Te
 Alcohol remains the contrast case across the arc: more braking, slower monitoring, worse control signals.
 :::
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 2.4"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 2 · Section 4"}
 1. Higher heart flexibility (HRV) often ≈ calmer flexible control in these sources.
 2. Skin-conductance spikes can fingerprint "wired."
 3. Pupils track effort/arousal families of signals.
@@ -114,15 +114,15 @@ Alcohol remains the contrast case across the arc: more braking, slower monitorin
 5. Hub next: one dual-story picture before Chapter 3.
 :::
 
-::: {.callout-note collapse="true" title="More detail: why matched mugs show up again in Module 4"}
-Rogers and colleagues' caffeine×theanine designs matter twice: once for mood/BP/cognition results, and again as a template for **matched volume, timed tests, and controlled comparisons**.[^5] Module 4's protocol lesson will ask you to notice washouts, placebos, and temperature control. You met the "why bother" reason here: body meters are noisy unless the cup is fair.
+::: {.callout-note collapse="true" title="More detail: why matched mugs show up again in Chapter 4"}
+Rogers and colleagues' caffeine×theanine designs matter twice: once for mood/BP/cognition results, and again as a template for **matched volume, timed tests, and controlled comparisons**.[^5] Chapter 4's protocol lesson will ask you to notice washouts, placebos, and temperature control. You met the "why bother" reason here: body meters are noisy unless the cup is fair.
 
-If Module 3 later talks about ritual and warmth, remember that skin and heart signals are already listening—even when your survey form says "I feel fine."
+If Chapter 3 later talks about ritual and warmth, remember that skin and heart signals are already listening—even when your survey form says "I feel fine."
 :::
 
 ---
 
-**Navigate:** [↑ Module 2 hub](index.qmd) · [← Previous](03-stress-hormones.qmd) · [Next module →](../module-03/index.qmd)
+**Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Previous](03-stress-hormones.qmd) · [Next module →](../module-03/index.qmd)
 
 [^1]: Dawson, M. E., Schell, A. M., & Filion, D. L. (2007). The electrodermal system. In *Handbook of Psychophysiology* (3rd ed., pp. 159–181).
 

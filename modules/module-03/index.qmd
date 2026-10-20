@@ -1,5 +1,5 @@
 ---
-title: "3. History, Ritual & Warmth"
+title: "Chapter 3 · History, Ritual & Warmth"
 ---
 
 {{< include ../../_includes/lang-switcher/module-03.en.qmd >}}
@@ -31,7 +31,7 @@ Everyday story first; lab and treaty labels live here so the open page stays a n
 Click footnote markers for full citations (and the caret to return). Open "More detail…" foldouts for trade figures, monastery texts, warmth-replication caveats, and ritual psychology snapshots without turning the main page into a wall of text.
 :::
 
-## The four lessons
+## The four sections
 
 Each sitting is one pack branch—the same four-way split as the owner's source packs. Lessons are now **full sittings** (story voice, footnotes, collapsed "More detail…" foldouts). Read in order for the full story, or hop to the lesson you need.
 
@@ -40,7 +40,7 @@ Each sitting is one pack branch—the same four-way split as the owner's source 
 3. **[Warm hands, warmer judgments?](03-warmth-trust.qmd)** — insula warmth priming **with replication caveats**
 4. **[The brewing break as a stress reset](04-ritual-stress.qmd)** — ritual psychology; **Brooks 2016 not used as evidence**
 
-**Start with lesson 1:** [Silver, ships, and who controlled the leaf](01-trade-history.qmd)
+**Start with section 1:** [Silver, ships, and who controlled the leaf](01-trade-history.qmd)
 
 ::: {.callout-note collapse="true" title="More detail: four rooms in the story (a chapter map)"}
 Picture the chapter as four rooms you walk through in order—same leaf family, different human plots:
@@ -84,7 +84,7 @@ Chemistry explains why a leaf can wake you. History explains why that leaf is ch
 
 ---
 
-**Navigate:** [← Modules overview](../index.qmd) · [← Module 2 hub](../module-02/index.qmd) · [First lesson →](01-trade-history.qmd) · [Module 4 hub →](../module-04/index.qmd)
+**Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 2 hub](../module-02/index.qmd) · [First lesson →](01-trade-history.qmd) · [Chapter 4 hub →](../module-04/index.qmd)
 
 
 
