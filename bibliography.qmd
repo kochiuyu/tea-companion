@@ -218,3 +218,26 @@ Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative repr
 ## Note on completeness
 
 Supplementary clinical and historical sources sit alongside the foundational references below. Four claims were fortified with primary papers in particular: PPO denaturation (Subramanian et al., 1999), L-theanine receptor affinity (Kakuda et al., 2002), opium trade chest quantities (Morse, 1926), and ERN amplitude delta (Hobson et al., 2017).
+
+## History, culture, and context cues (5×4 additions)
+
+d'Abbs, P. H. (2019). Tea art as everyday practice: Gongfu tea in Chaoshan, Guangdong, today. *The Asia Pacific Journal of Anthropology, 20*(3), 213–231. https://doi.org/10.1080/14442213.2019.1611908
+
+d'Abbs, P. H. N. (2018). *Art as everyday practice: A study of gongfu tea in Chaoshan, China* (Master's thesis, University of New England). https://hdl.handle.net/1959.11/23092
+
+Li, X., Qi, Y., Spence, C., & Wan, X. (2020). Influence of teaware on subjective ratings of, and taste expectations concerning, tea. *Food Quality and Preference, 80*, 103834. https://doi.org/10.1016/j.foodqual.2019.103834
+
+Mak, V. S. W. (2020). The heritagization of milk tea: Cultural governance and placemaking in Hong Kong. *Asian Anthropology*. https://doi.org/10.1080/1683478x.2020.1773616
+
+McCarthy, A., & Devine, T. M. (2017). *Tea and Empire: James Taylor in Victorian Ceylon*. Manchester University Press. https://doi.org/10.7228/manchester/9781526119056.001.0001
+
+Piqueras-Fiszman, B., & Spence, C. (2015). Sensory expectations based on product-extrinsic food cues: An interdisciplinary review of the empirical evidence and theoretical accounts. *Food Quality and Preference, 40*(Part A), 165–179. https://doi.org/10.1016/j.foodqual.2014.09.013
+
+Shiv, B., Carmon, Z., & Ariely, D. (2005). Placebo effects of marketing actions: Consumers may get what they pay for. *Journal of Marketing Research, 42*(4), 383–393. https://doi.org/10.1509/jmkr.2005.42.4.383
+
+Yu, S.-D. (2022). Sense-making in Taiwan's tea art ritual. *Asian Journal of Social Science, 50*(3), 229–235. https://doi.org/10.1016/j.ajss.2022.08.007
+
+Zhang, L. C. L. (2016). A foreign infusion: The forgotten legacy of Japanese *chadō* on modern Chinese tea arts. *Gastronomica, 16*(1), 53–62. https://doi.org/10.1525/gfc.2016.16.1.53
+
+Hong Kong Memory. The History of Hong Kong-style Milk Tea (ICH Oral Legacies Series II). https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html
+

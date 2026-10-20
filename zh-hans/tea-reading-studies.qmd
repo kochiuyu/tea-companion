@@ -6,7 +6,7 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/tea-reading-studies.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-05/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -15,7 +15,7 @@ lang: zh-Hans
 
 标题说“喝茶改善决策”。本页是**方法词汇门**：当时“一杯”指什么、剂量对超市杯、洗脱期、配对杯，以及测验何时开始——好让你读第四章时，不会把营销当发现。
 
-它不是第二堂化学课，也不是第二本规程课本。完整规程深度在 [第四章 · 第四节 — 严谨的研究通常怎样设计](modules/module-04/04-study-protocols.qmd)。典型毫克数在 [杯量参考](cup-reference.qmd)。标题或摘要写得很有把握、你想先问五个裁判问题再相信——用**这一页**。
+它不是第二堂化学课，也不是第二本规程课本。完整规程深度在 [第五章 · 第四节 — 严谨的研究通常怎样设计](modules/module-05/04-study-protocols.qmd)。典型毫克数在 [杯量参考](cup-reference.qmd)。标题或摘要写得很有把握、你想先问五个裁判问题再相信——用**这一页**。
 
 货架标签请回 [茶叶入门](tea-basics.qmd)。苦或淡的杯子请回 [厨房排障](tea-troubleshoot.qmd)。见到任务缩写——[气球类比风险任务（BART）](glossary.qmd#bart)、[爱荷华赌博任务（IGT）](glossary.qmd#igt) 之类——请查 [词汇表](glossary.qmd)。
 
@@ -26,7 +26,7 @@ lang: zh-Hans
 4. **剂量对超市杯？** 实验室胶囊／ISO 浓度茶汤，还是普通超市浸泡？
 5. **哪一种任务？** 风险、学习、注意力、公平……每种量的是不同的轻轻一推。
 
-然后打开 [第四章 · 第四节](modules/module-04/04-study-protocols.qmd) 看深度；见到毫克就打开 [杯量参考](cup-reference.qmd)。
+然后打开 [第五章 · 第四节](modules/module-05/04-study-protocols.qmd) 看深度；见到毫克就打开 [杯量参考](cup-reference.qmd)。
 :::
 
 ::: {.callout-tip title="本页要认识的词"}
@@ -50,8 +50,8 @@ lang: zh-Hans
 
 **本页负责** 标题 → 清单习惯。**它不负责** 完整规程参数表、任务课本，或温度混淆的深讲——那些留在第四章第四节（温度另见第三章）。
 
-→ 完整方法课：[第四章 · 第四节](modules/module-04/04-study-protocols.qmd)  
-→ 本章地图：[第四章入口](modules/module-04/index.qmd)  
+→ 完整方法课：[第五章 · 第四节](modules/module-05/04-study-protocols.qmd)  
+→ 本章地图：[第四章入口](modules/module-05/index.qmd)  
 → 毫克比较：[杯量参考](cup-reference.qmd)
 
 ::: {.callout-note collapse="true" title="更多详情：为什么清单在这里，数字在别处"}
@@ -70,7 +70,7 @@ lang: zh-Hans
 
 → [杯量参考](cup-reference.qmd)  
 → 可选化合物背景：[第一章 · 第四节 — 化合物](modules/module-01/04-compounds.qmd)  
-→ 活性剂量例子在：[第四章 · 第四节](modules/module-04/04-study-protocols.qmd)
+→ 活性剂量例子在：[第五章 · 第四节](modules/module-05/04-study-protocols.qmd)
 
 ---
 
@@ -80,8 +80,8 @@ lang: zh-Hans
 
 温度也可以混淆决策研究：第三章显示暖杯可以轻轻推动社交判断，所以第四章把配对杯温当作受控常数。这扇门只指路；不重教温暖心理学。
 
-→ [第四章 · 第四节 — 期望穿上白大褂…](modules/module-04/04-study-protocols.qmd)  
-→ 可选：[第三章 · 温暖与信任](modules/module-03/03-warmth-trust.qmd)  
+→ [第五章 · 第四节 — 期望穿上白大褂…](modules/module-05/04-study-protocols.qmd)  
+→ 可选：[第三章 · 温暖与信任](modules/module-04/01-warmth-trust.qmd)  
 → 可选走廊：[联结桥梁 · 第 2 座桥 — 暖手／信任](linkages.qmd)；[第 1 座桥 — 喝第一口之后要等一等](linkages.qmd)
 
 ::: {.callout-note collapse="true" title="更多详情：“无咖啡因茶 ≠ 神奇安慰剂”在指什么"}
@@ -96,14 +96,14 @@ lang: zh-Hans
 
 | 若标题谈的是… | 打开 |
 | --- | --- |
-| 喝完要等／高峰时间 | [联结桥梁 · 第 1 座桥](linkages.qmd) · [第四章 · 第四节](modules/module-04/04-study-protocols.qmd) |
+| 喝完要等／高峰时间 | [联结桥梁 · 第 1 座桥](linkages.qmd) · [第五章 · 第四节](modules/module-05/04-study-protocols.qmd) |
 | 水温改变那一杯 | [联结桥梁 · 第 3 座桥](linkages.qmd) · [第一章 · 第三节](modules/module-01/03-brewing.qmd) |
-| 温暖／信任 | [联结桥梁 · 第 2 座桥](linkages.qmd) · [第四章 · 第三节](modules/module-04/03-trust-games.qmd) |
-| 快想对细心想 | [第四章 · 第一节 — 双加工](modules/module-04/01-dual-process.qmd) |
-| 风险／等待／耐心 | [第四章 · 第二节](modules/module-04/02-risk-waiting.qmd) |
-| 信任游戏／第一步送出 | [第四章 · 第三节](modules/module-04/03-trust-games.qmd) |
+| 温暖／信任 | [联结桥梁 · 第 2 座桥](linkages.qmd) · [第四章 · 第三节](modules/module-05/03-trust-games.qmd) |
+| 快想对细心想 | [第四章 · 第一节 — 双加工](modules/module-05/01-dual-process.qmd) |
+| 风险／等待／耐心 | [第四章 · 第二节](modules/module-05/02-risk-waiting.qmd) |
+| 信任游戏／第一步送出 | [第四章 · 第三节](modules/module-05/03-trust-games.qmd) |
 
-以上各标题的方法家：[第四章 · 第四节](modules/module-04/04-study-protocols.qmd)。
+以上各标题的方法家：[第五章 · 第四节](modules/module-05/04-study-protocols.qmd)。
 
 这里不发明新桥。联结桥梁早已把各章缝在一起。
 
@@ -116,7 +116,7 @@ lang: zh-Hans
 1. **[茶叶入门](tea-basics.qmd)** — *盒子上的字*通常指什么。
 2. **[杯量参考](cup-reference.qmd)** — *一杯 250 毫升 的典型毫克数*。
 3. **读懂茶研究（本页）** — *标题方法词汇*（五个问题）。
-4. **[第四章 · 第四节](modules/module-04/04-study-protocols.qmd)** — 带出处的完整规程深度。
+4. **[第五章 · 第四节](modules/module-05/04-study-protocols.qmd)** — 带出处的完整规程深度。
 
 若读者真正的问题是苦或淡的一杯，请送到 [厨房排障](tea-troubleshoot.qmd)——不是这里。
 
@@ -124,4 +124,4 @@ lang: zh-Hans
 
 ## 下一步去哪里
 
-见到很有把握的茶标题？你来对地方了。想看完整方法课？打开 [第四章 · 第四节](modules/module-04/04-study-protocols.qmd)。要比毫克？[杯量参考](cup-reference.qmd)。跨章“为什么重要”？[联结桥梁](linkages.qmd)。其实是厨房投诉？[厨房排障](tea-troubleshoot.qmd)。还在翻译标签？[茶叶入门](tea-basics.qmd)。
+见到很有把握的茶标题？你来对地方了。想看完整方法课？打开 [第五章 · 第四节](modules/module-05/04-study-protocols.qmd)。要比毫克？[杯量参考](cup-reference.qmd)。跨章“为什么重要”？[联结桥梁](linkages.qmd)。其实是厨房投诉？[厨房排障](tea-troubleshoot.qmd)。还在翻译标签？[茶叶入门](tea-basics.qmd)。

@@ -1,0 +1,22 @@
+---
+title: "第三節 · 你以為杯裡是什麼"
+lang: zh-Hant-HK
+---
+
+{{< include ../../../_includes/lang-switcher/module-04-expectation-labels.zh-hant-hk.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
+:::
+
+::: {.callout-tip}
+**第四章 · 第三節（共四節）** — 屬於[第四章 · 情境與儀式心理](index.qmd)。 新來？請先看[章節目錄](index.qmd)。
+:::
+
+::: {.callout-note}
+完整中文正文稍後提供。請先閱讀英文版：[What you think the mug is](../../../modules/module-04/03-expectation-labels.qmd)。
+:::
+
+---
+
+**Navigate:** [↑ 第四章目錄](index.qmd) · [←](02-ritual-stress.qmd) · [→](04-context-dials-map.qmd)

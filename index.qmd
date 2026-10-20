@@ -4,7 +4,7 @@ title: "Tea, Caffeine & Decision Companion"
 {{< include _includes/lang-switcher/home.en.qmd >}}
 
 ::: {.callout-tip title="Also in Chinese / 亦有中文版"}
-The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version—home, tea basics, the four chapters, linkages, and bibliography.
+The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version—home, tea basics, the five chapters, linkages, and bibliography.
 :::
 
 You tip hot water over a handful of leaves. Steam rises. The water darkens—maybe green-gold, maybe deep amber—and a smell fills the room that is somehow both sharp and soft. Twenty minutes later you are a little more awake. Sometimes you also feel a little calmer. Coffee can wake you up too. So why does *tea* so often feel like a different kind of alertness?
@@ -23,24 +23,25 @@ This site is a **story-shaped journey** through tea—leaves, body and mood, his
 | **Kitchen complaints** — bitter, flat, cloudy, second steep → which dial | [Kitchen troubleshoot](tea-troubleshoot.qmd) |
 | **Study headlines** — five questions before you believe “tea improves decisions” | [Reading a tea study](tea-reading-studies.qmd) |
 | **Numbers** — typical milligrams in a 250 mL mug | [Cup reference](cup-reference.qmd) |
-| **The full story** — four chapters, sixteen sections | [Chapters overview](modules/index.qmd) |
+| **The full story** — five chapters, twenty sections | [Chapters overview](modules/index.qmd) |
 
 ## What this journey is about
 
-Think of four chapters that follow one continuous thread—each with **four lessons** 
+Think of five chapters that follow one continuous thread—each with **four lessons** 
 
 First you meet the **leaf**—where tea comes from, why green and black look so different, what brewing pulls into the mug, and three headline compounds. Then you follow those compounds **into the body**: brain signaling, brain-wave patterns, stress hormones, and quiet body signals. Next you zoom out. Tea remade **trade balances**, became a monastic focus aid, and even a warm mug in the hand shows up in experiments on trust. A short brewing break can also act as a practical stress reset. Finally you ask the decision question: do drinks **nudge** how fast we answer, how much risk we take, how much we care about tomorrow, and how trusting we are in a first move?
 
 You can start anywhere. But if you read in order, each lesson hands you a reason to open the next.
 
-## The four chapters (at a glance)
+## The five chapters (at a glance)
 
 1. **[The Chemical Core](modules/module-01/index.qmd)** — Plants · Processing · Brewing · Compounds
 2. **[Body, Brain & Mood](modules/module-02/index.qmd)** — Brain action · Brain waves · Stress hormones · Body signals
-3. **[History, Ritual & Warmth](modules/module-03/index.qmd)** — Trade history · Monastic path · Warmth & trust · Ritual & stress
-4. **[Decisions & Choices](modules/module-04/index.qmd)** — Dual-process · Risk & waiting · Trust games · Study protocols
+3. **[History & Culture](modules/module-03/index.qmd)** — Trade history · Monastic path · Plantation aftershock · Regional scripts
+4. **[Context & Ritual Psychology](modules/module-04/index.qmd)** — Warmth & trust · Ritual & stress · Expectation & labels · Context dials map
+5. **[Decisions & Choices](modules/module-05/index.qmd)** — Dual-process · Risk & waiting · Trust games · Study protocols
 
-A full structure map of all sixteen sections sits on the [Chapters overview](modules/index.qmd).
+A full structure map of all twenty sections sits on the [Chapters overview](modules/index.qmd).
 
 ## How to travel with this site
 

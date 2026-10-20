@@ -5,7 +5,7 @@ title: "Section 2 · From medicine soup to monastery to tea room"
 {{< include ../../_includes/lang-switcher/module-03-monastic-path.en.qmd >}}
 
 ::: {.callout-tip}
-**Chapter 3 · Section 2 of 4** — part of [Chapter 3 · History, Ritual & Warmth](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
+**Chapter 3 · Section 2 of 4** — part of [Chapter 3 · History & Culture](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
@@ -145,14 +145,14 @@ Eisai then sells tea to Japan partly as nourishment against lethargy—bitter fl
 
 Useful teaching claim: ritualized equality can create a room where hard talks are *possible*.
 
-Overclaim to avoid: tea rooms "cause" peace treaties, or *chado* automatically produces Trust-Game cooperation. Negotiation outcomes still depend on interests, power, and payoffs—Chapter 4's theme.
+Overclaim to avoid: tea rooms "cause" peace treaties, or *chado* automatically produces Trust-Game cooperation. Negotiation outcomes still depend on interests, power, and payoffs—Chapter 5's theme.
 :::
 
-## How this lesson talks to Chapters 2 and 4
+## How this lesson talks to Chapters 2 and 4–5
 
-Eisai's "nourishes the heart" line sits beside modern **heart-beat flexibility** ([HRV](../../glossary.qmd#hrv)) / rest-and-digest findings in the sources' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([Chapter 2 · Section 4 Body signals(../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
+Eisai's "nourishes the heart" line sits beside modern **heart-beat flexibility** ([HRV](../../glossary.qmd#hrv)) / rest-and-digest findings in the sources' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([Chapter 2 · Section 4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
 
-Monastic scheduling also foreshadows Chapter 3's ritual lesson: fixed steps, shared timing, less improvisation under stress. The monastery wrote tea into the day. The modern brewing break writes a short script into a stressful afternoon. Different centuries; related scaffolding idea.
+Monastic scheduling also foreshadows Chapter 4's ritual lesson: fixed steps, shared timing, less improvisation under stress. The monastery wrote tea into the day. The modern brewing break writes a short script into a stressful afternoon. Different centuries; related scaffolding idea.
 
 
 
@@ -191,7 +191,7 @@ Romance to refuse: treating Okakura's 1906 English essay as if it *were* the Tan
 
 ---
 
-**Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](01-trade-history.qmd) · [Next →](03-warmth-trust.qmd)
+**Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](01-trade-history.qmd) · [Next →](03-plantation-aftershock.qmd)
 
 [^1]: Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
 

@@ -65,7 +65,7 @@ You have followed the cup into the brain, the stress loop, and the body's quiet 
 
 But tea is older than lab machines. It remade trade balances, sat in monasteries, warmed hands in trust experiments, and still offers a three-step brewing break when the day is loud. Chapter 3 zooms out on purpose.
 
-Open [Chapter 3: History, Ritual & Warmth](../module-03/index.qmd) when you are ready—the leaf is about to leave the lab and enter human history.
+Open [Chapter 3: History & Culture](../module-03/index.qmd) when you are ready—the leaf is about to leave the lab and enter human history.
 
 ---
 

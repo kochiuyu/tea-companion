@@ -20,13 +20,18 @@ project:
     - modules/module-03/index.qmd
     - modules/module-03/01-trade-history.qmd
     - modules/module-03/02-monastic-path.qmd
-    - modules/module-03/03-warmth-trust.qmd
-    - modules/module-03/04-ritual-stress.qmd
+    - modules/module-03/03-plantation-aftershock.qmd
+    - modules/module-03/04-regional-scripts.qmd
     - modules/module-04/index.qmd
-    - modules/module-04/01-dual-process.qmd
-    - modules/module-04/02-risk-waiting.qmd
-    - modules/module-04/03-trust-games.qmd
-    - modules/module-04/04-study-protocols.qmd
+    - modules/module-04/01-warmth-trust.qmd
+    - modules/module-04/02-ritual-stress.qmd
+    - modules/module-04/03-expectation-labels.qmd
+    - modules/module-04/04-context-dials-map.qmd
+    - modules/module-05/index.qmd
+    - modules/module-05/01-dual-process.qmd
+    - modules/module-05/02-risk-waiting.qmd
+    - modules/module-05/03-trust-games.qmd
+    - modules/module-05/04-study-protocols.qmd
     - cup-reference.qmd
     - glossary.qmd
     - linkages.qmd
@@ -63,13 +68,18 @@ project:
     - zh-hant-hk/modules/module-03/index.qmd
     - zh-hant-hk/modules/module-03/01-trade-history.qmd
     - zh-hant-hk/modules/module-03/02-monastic-path.qmd
-    - zh-hant-hk/modules/module-03/03-warmth-trust.qmd
-    - zh-hant-hk/modules/module-03/04-ritual-stress.qmd
+    - zh-hant-hk/modules/module-03/03-plantation-aftershock.qmd
+    - zh-hant-hk/modules/module-03/04-regional-scripts.qmd
     - zh-hant-hk/modules/module-04/index.qmd
-    - zh-hant-hk/modules/module-04/01-dual-process.qmd
-    - zh-hant-hk/modules/module-04/02-risk-waiting.qmd
-    - zh-hant-hk/modules/module-04/03-trust-games.qmd
-    - zh-hant-hk/modules/module-04/04-study-protocols.qmd
+    - zh-hant-hk/modules/module-04/01-warmth-trust.qmd
+    - zh-hant-hk/modules/module-04/02-ritual-stress.qmd
+    - zh-hant-hk/modules/module-04/03-expectation-labels.qmd
+    - zh-hant-hk/modules/module-04/04-context-dials-map.qmd
+    - zh-hant-hk/modules/module-05/index.qmd
+    - zh-hant-hk/modules/module-05/01-dual-process.qmd
+    - zh-hant-hk/modules/module-05/02-risk-waiting.qmd
+    - zh-hant-hk/modules/module-05/03-trust-games.qmd
+    - zh-hant-hk/modules/module-05/04-study-protocols.qmd
     - zh-hans/modules/module-02/index.qmd
     - zh-hans/modules/module-02/01-brain-action.qmd
     - zh-hans/modules/module-02/02-brainwaves.qmd
@@ -78,13 +88,18 @@ project:
     - zh-hans/modules/module-03/index.qmd
     - zh-hans/modules/module-03/01-trade-history.qmd
     - zh-hans/modules/module-03/02-monastic-path.qmd
-    - zh-hans/modules/module-03/03-warmth-trust.qmd
-    - zh-hans/modules/module-03/04-ritual-stress.qmd
+    - zh-hans/modules/module-03/03-plantation-aftershock.qmd
+    - zh-hans/modules/module-03/04-regional-scripts.qmd
     - zh-hans/modules/module-04/index.qmd
-    - zh-hans/modules/module-04/01-dual-process.qmd
-    - zh-hans/modules/module-04/02-risk-waiting.qmd
-    - zh-hans/modules/module-04/03-trust-games.qmd
-    - zh-hans/modules/module-04/04-study-protocols.qmd
+    - zh-hans/modules/module-04/01-warmth-trust.qmd
+    - zh-hans/modules/module-04/02-ritual-stress.qmd
+    - zh-hans/modules/module-04/03-expectation-labels.qmd
+    - zh-hans/modules/module-04/04-context-dials-map.qmd
+    - zh-hans/modules/module-05/index.qmd
+    - zh-hans/modules/module-05/01-dual-process.qmd
+    - zh-hans/modules/module-05/02-risk-waiting.qmd
+    - zh-hans/modules/module-05/03-trust-games.qmd
+    - zh-hans/modules/module-05/04-study-protocols.qmd
     - zh-hant-hk/linkages.qmd
     - zh-hant-hk/bibliography.qmd
     - zh-hans/linkages.qmd
@@ -114,10 +129,12 @@ website:
             href: modules/module-01/index.qmd
           - text: "Chapter 2 · Body, Brain & Mood"
             href: modules/module-02/index.qmd
-          - text: "Chapter 3 · History, Ritual & Warmth"
+          - text: "Chapter 3 · History & Culture"
             href: modules/module-03/index.qmd
-          - text: "Chapter 4 · Decisions & Choices"
+          - text: "Chapter 4 · Context & Ritual Psychology"
             href: modules/module-04/index.qmd
+          - text: "Chapter 5 · Decisions & Choices"
+            href: modules/module-05/index.qmd
       - text: Reference
         menu:
           - text: Cup reference

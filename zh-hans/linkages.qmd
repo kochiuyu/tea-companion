@@ -6,7 +6,7 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/linkages.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -41,7 +41,7 @@ lang: zh-Hans
 
 第三章的温暖研究和第四章的信任游戏在这里相遇。在被引用的研究中，握着一只热杯子（约 **60℃**），能让先行者在信任分配上多投入约 **24.8%**。文中把这一点与岛叶（同时处理温度和社交感受的脑区）中“温暖”与“信任”的重叠联系起来。一只暖乎乎的杯子不是永远管用的谈判策略——但它可能改变开局的那一步。
 
-**打开：** [第三章第三节 温暖与信任](modules/module-03/03-warmth-trust.qmd) · [第四章第三节 信任游戏](modules/module-04/03-trust-games.qmd)
+**打开：** [第三章第三节 温暖与信任](modules/module-04/01-warmth-trust.qmd) · [第四章第三节 信任游戏](modules/module-05/03-trust-games.qmd)
 
 **引文：** [Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013)](bibliography.qmd#history-warmth-and-ritual)
 
@@ -58,10 +58,10 @@ lang: zh-Hans
 在某些实验室情境中，压力激素升高时，人们会变得更激进地追逐风险。火警铃响时的那种紧张感，和赌桌之间只隔着一条走廊：压力之下，损失可能没那么疼了，冒险的选择也可能变多。第二章讲激素的那一课和第四章讲风险的那一课，在这里相遇。
 
 ::: {.callout-note collapse="true" title="更多详情：λ 与咖啡因研究的速写"}
-压力导致的皮质醇升高，与损失厌恶减弱（在一项咖啡因研究中 λ 约为 **1.62**）以及压力下更多的冒险选择有关。λ／*k* 这些教学用的术语放在 [第四章第二节](modules/module-04/02-risk-waiting.qmd) 的折叠框里——走正文这条走廊并不需要它们。
+压力导致的皮质醇升高，与损失厌恶减弱（在一项咖啡因研究中 λ 约为 **1.62**）以及压力下更多的冒险选择有关。λ／*k* 这些教学用的术语放在 [第四章第二节](modules/module-05/02-risk-waiting.qmd) 的折叠框里——走正文这条走廊并不需要它们。
 :::
 
-**打开：** [第二章第三节 压力激素](modules/module-02/03-stress-hormones.qmd) · [第四章第二节 风险与等待](modules/module-04/02-risk-waiting.qmd)
+**打开：** [第二章第三节 压力激素](modules/module-02/03-stress-hormones.qmd) · [第四章第二节 风险与等待](modules/module-05/02-risk-waiting.qmd)
 
 **引文：** [Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013)](bibliography.qmd#decisions-games-and-study-methods)
 
@@ -73,7 +73,7 @@ lang: zh-Hans
 本站介绍的一项茶氨酸任务研究显示，一个常用的心率变异性指标提高了约 **+15.4 ms**。实验室里的名称是心率变异性（HRV）；走正文这条走廊，只需要记住“心跳弹性”就够了。
 :::
 
-**打开：** [第三章第四节 泡茶与压力](modules/module-03/04-ritual-stress.qmd) · [第二章第四节 身体信号](modules/module-02/04-body-signals.qmd)
+**打开：** [第三章第四节 泡茶与压力](modules/module-04/02-ritual-stress.qmd) · [第二章第四节 身体信号](modules/module-02/04-body-signals.qmd)
 
 **引文：** [Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) — *Brooks et al. (2016) 已于 2024 年撤稿，故不列入*](bibliography.qmd#history-warmth-and-ritual)
 
@@ -85,7 +85,7 @@ lang: zh-Hans
 实验室的说法是：茶氨酸能缓和过多的**谷氨酸**信号，因而与更好的持续注意有关。具体的受体位点放在 [第二章第一节](modules/module-02/01-brain-action.qmd) 的折叠框里。
 :::
 
-**打开：** [第二章第一节 大脑里的作用](modules/module-02/01-brain-action.qmd) · [第四章第一节 双加工](modules/module-04/01-dual-process.qmd)
+**打开：** [第二章第一节 大脑里的作用](modules/module-02/01-brain-action.qmd) · [第四章第一节 双加工](modules/module-05/01-dual-process.qmd)
 
 **引文：** [Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008)](bibliography.qmd#brain-mood-and-body-measures)
 
@@ -113,7 +113,7 @@ lang: zh-Hans
 
 酒精会增强抑制性信号（第二章），这与强烈的[现时偏误](glossary.qmd#present-bias)有关——未来的代价显得没那么重（第四章）。这也是文中把酒精和“明天不太算数”放在一起讨论、而不只是和“喝醉的感觉”放在一起的原因之一。
 
-**打开：** [第二章第一节 大脑里的作用](modules/module-02/01-brain-action.qmd) · [第四章第二节 风险与等待](modules/module-04/02-risk-waiting.qmd)
+**打开：** [第二章第一节 大脑里的作用](modules/module-02/01-brain-action.qmd) · [第四章第二节 风险与等待](modules/module-05/02-risk-waiting.qmd)
 
 **引文：** [Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005)](bibliography.qmd#decisions-games-and-study-methods)
 
@@ -121,7 +121,7 @@ lang: zh-Hans
 
 仪式可以减弱大脑的错误警报、降低焦虑（第三章）。文中把这一点和“对不公平出价的过激拒绝减少”放在一起讨论（第四章的最后通牒博弈规律）。身体更平静，可能意味着讨价还价时没那么一点就炸——而不是自动地、永远地公平。
 
-**打开：** [第三章第四节 泡茶与压力](modules/module-03/04-ritual-stress.qmd) · [第四章第三节 信任游戏](modules/module-04/03-trust-games.qmd)
+**打开：** [第三章第四节 泡茶与压力](modules/module-04/02-ritual-stress.qmd) · [第四章第三节 信任游戏](modules/module-05/03-trust-games.qmd)
 
 **引文：** [Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) — *Brooks et al. (2016) 已于 2024 年撤稿，故不列入*](bibliography.qmd#decisions-games-and-study-methods)
 

@@ -1,91 +1,49 @@
 ---
-title: "Chapter 3 · History, Ritual & Warmth"
+title: "Chapter 3 · History & Culture"
 ---
 
-{{< include../../_includes/lang-switcher/module-03.en.qmd >}}
+{{< include ../../_includes/lang-switcher/module-03.en.qmd >}}
 
-If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back until the whole room comes into view.
+If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back into **who moved the leaf** and **how people staged the cup**.
 
-Tea is not only chemistry in a cup. It remade **trade balances** between China and Britain. It became a **monastic focus aid** in Chan/Zen practice. Even holding a **warm mug** shows up in psychology experiments on trust. And a short, familiar **brewing sequence**—measure leaves, watch the water, wait—can act as a practical stress break under pressure.
+Tea remade **trade balances** between China and Britain. It became a **monastic focus aid** and a tea-room practice. After the monopoly break, **plantations** remade land and labor into a cheap mass commodity. And living **regional scripts**—Chaoshan tables, Hong Kong milk-tea counters, Taiwan tea art—still stage the drink as culture.
 
-Hold that thought while you picture a different room: a British counting house in the 1830s watching silver leave for Canton; a Chan monastery before dawn with bowls set for communal tea; a modern psychology lab where a student is asked to hold a warm pad and then judge a stranger. Same leaf family. Wildly different human plots. This chapter walks those plots in order so the "why tea?" answer grows beyond molecules.
-
-Why tell that story after the brain-wave chapter? Because "why tea feels different" is incomplete if you only talk about molecules. People also drink tea because of money, empire, ritual, and the simple comfort of a warm hand. This chapter keeps those threads separate from chemistry claims—and so do we. Tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style. Hover often shows a popup too. Collapsed "More detail…" boxes hold denser history tables and study caveats.
+Warmth priming and ritual-stress psychology used to share this chapter. They now live next door in [Chapter 4 · Context & Ritual Psychology](../module-04/index.qmd). History stays narrative here.
 
 ::: {.callout-tip collapse="true" title="Words to know on this journey (open if you want labels)"}
-Everyday story first; lab and treaty labels live here so the open page stays a narrative.
-
 - **Canton System** — Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment.
 - **Opium Wars** — conflicts (1839–1860) that forced trade openings after the silver–tea–opium crisis.
 - **Chado** — Japan's highly ritualized "way of tea."
-- **Anterior insular cortex** — brain area that handles both body temperature and feelings like trust or empathy.
-- **Embodied cognition** — the claim that body feelings (like warmth) can shape social judgments.
-- **Error-related negativity (ERN)** — a quick brain "oops" signal after mistakes; predictable rituals can blunt related anxiety responses in some studies.
+- **Gongfu tea (Chaoshan)** — everyday small-pot, repeated-cup staging (culture script—not a lab ritual).
+- **Plantation aftershock** — land, labor, and commodity form after Chinese monopoly leaf ceased to be the only farm.
 :::
 
 ::: {.callout-tip}
-**Read the story; open More detail boxes only when curious.** History and culture stay on the open path; denser tables and lab labels live behind the click.
-:::
-
-::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
-Click footnote markers for full citations (and the caret to return). Open "More detail…" foldouts for trade figures, monastery texts, warmth-replication caveats, and ritual psychology snapshots without turning the main page into a wall of text.
+**Read the story; open More detail boxes only when curious.** History and culture stay on the open path; denser tables live behind the click.
 :::
 
 ## The four sections
 
-Lessons are now **full sittings** (story voice, footnotes, collapsed "More detail…" foldouts). Read in order for the full story, or hop to the lesson you need.
-
 1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)** — Canton silver, opium, Nanking, Fortune myth corrected
 2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)** — Han medicine → Chan code → Eisai / *chado*
-3. **[Warm hands, warmer judgments?](03-warmth-trust.qmd)** — insula warmth priming **with replication caveats**
-4. **[The brewing break as a stress reset](04-ritual-stress.qmd)** — ritual psychology; **Brooks 2016 not used as evidence**
+3. **[After the monopoly break — gardens, estates, cheap bags](03-plantation-aftershock.qmd)** — Assam land/labor aftershock; Kew market trail; Ceylon foldout
+4. **[One leaf, many scripts](04-regional-scripts.qmd)** — Chaoshan gongfu · HK milk tea · Taiwan tea art
 
 **Start with section 1:** [Silver, ships, and who controlled the leaf](01-trade-history.qmd)
 
 ::: {.callout-note collapse="true" title="More detail: four rooms in the story (a chapter map)"}
-Picture the chapter as four rooms you walk through in order—same leaf family, different human plots:
-
-| Room | Century flavor | What you notice | Lesson |
-| --- | --- | --- | --- |
-| **Counting house** | 1830s Canton / Britain | Silver leaves; tea chests arrive; opium and treaties rewrite the rules | [3.1](01-trade-history.qmd) |
-| **Monastery / tea room** | Tang–Song Chan → Eisai → *chado* | Tea as medicine soup, then wakefulness schedule, then leveled social practice | [3.2](02-monastic-path.qmd) |
-| **Psychology lab** | 2000s–2010s | Warm pad in the hand; stranger judgments; replication stress-tests | [3.3](03-warmth-trust.qmd) |
-| **Kitchen under pressure** | Anytime | Measure, watch, wait—a short script before the hard task | [3.4](04-ritual-stress.qmd) |
-
-Needham's botanical history and Benn's religious-cultural history are reminders that tea was never only a stimulant molecule waiting for a Western lab.[^3] This chapter keeps money, ritual, warmth, and chemistry as *separate threads*—and so do we.
+| Room | What you notice | Lesson |
+| --- | --- | --- |
+| **Counting house** | Silver leaves; tea chests arrive; treaties rewrite the rules | [3.1](01-trade-history.qmd) |
+| **Monastery / tea room** | Medicine soup → wakefulness schedule → leveled social practice | [3.2](02-monastic-path.qmd) |
+| **Estate** | Cleared land, migrant labor, cheap mass commodity | [3.3](03-plantation-aftershock.qmd) |
+| **Local table / counter** | Living scripts that stage the same leaf differently | [3.4](04-regional-scripts.qmd) |
 :::
-
-## Why this chapter belongs after the lab coat
-
-It is tempting to treat empire, monks, and warm mugs as "soft" add-ons after the "hard" chemistry. This chapter refuses that split—and the story works better if you refuse it too.
-
-Chemistry explains why a leaf can wake you. History explains why that leaf is in your cupboard for less than the price of a sandwich. Ritual explains why making tea can feel like pressing pause even before the compounds peak. Warmth research—carefully hedged after replication failures—explains why the *vessel* in your hand is not psychologically invisible [^1][^2].
-
-Put another way: Chapter 2 measured calm alertness with EEG and cortisol. Chapter 3 asks what humans have *done* with that calm alertness for centuries—meditate, negotiate, trade, colonize, and sometimes simply sit. Needham's long history of Chinese botany and Benn's religious-cultural history are reminders that tea was never only a stimulant molecule wandering in search of a Western lab [^3].
-
-If you take only one sentence from this chapter into Chapter 4, take this one: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and [L-theanine](../../glossary.qmd#l-theanine). That is why careful decision studies try to lock mug temperature and bitterness—and why a headline that ignores them is incomplete.
 
 ## Looking ahead
 
-Chemistry, body, empire, monastery, warm hands, ritual break: the cup is now a full human object. Chapter 4 asks the decision question people quietly care about most.
-
-Does the drink change how we choose—how fast we answer, how much risk we take, how much we care about tomorrow, how trusting we are in a first move? Lab games try to measure those nudges. The sources are careful about limits. So are we.
-
-Open [Chapter 4: Decisions & Choices](../module-04/index.qmd) when you are ready—the mug is about to enter the laboratory.
-
-::: {.callout-tip collapse="true" title="Click for more detail: why context is part of the dose"}
-Chemistry explains why a leaf can wake you. History explains why that leaf is cheap in your cupboard. Ritual explains why making tea can feel like pause even before compounds peak. Warmth research—hedged after replication failures—explains why the vessel is not psychologically invisible.[^1][^2]
-
-**One sentence for Chapter 4:** context is part of the dose. Temperature, ritual, and expectation ride along with caffeine and L-theanine—so careful decision studies lock mug temperature and bitterness, and headlines that ignore them are incomplete.
-:::
+History explains how the leaf reached your cupboard and how cultures stage it. [Chapter 4](../module-04/index.qmd) asks how warmth, ritual, and expectation ride along with chemistry—**context is part of the dose**. [Chapter 5](../module-05/index.qmd) then measures decisions and locks those dials in protocols.
 
 ---
 
 **Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 2 hub](../module-02/index.qmd) · [First lesson →](01-trade-history.qmd) · [Chapter 4 hub →](../module-04/index.qmd)
-
-[^1]: Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
-
-[^2]: Lynott, D., et al. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
-
-[^3]: Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
-

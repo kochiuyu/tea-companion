@@ -21,25 +21,25 @@ For everyday and commercial tea labels (*English Breakfast*, *sencha*, *matcha*,
 | --- | --- | --- |
 | <span id="adenosine-receptors">Adenosine receptors (A1, A2A)</span> | Brain “slow down / sleep” sensors that caffeine blocks so you stay awake. | [Chapter 2](modules/module-02/index.qmd) |
 | <span id="alpha-brainwaves">Alpha brainwaves</span> | Slower calm-focus brain rhythms (about 8–12 Hz), often linked with L-theanine. | [Chapter 2](modules/module-02/index.qmd) |
-| <span id="anterior-insular-cortex">Anterior insular cortex</span> | Brain area that handles both body temperature and feelings like trust or empathy. | [Chapter 3](modules/module-03/index.qmd) |
-| <span id="bart">Balloon Analogue Risk Task (BART)</span> | Computer game that measures risk-taking by how far people pump a virtual balloon. | [Chapter 4](modules/module-04/index.qmd) |
+| <span id="anterior-insular-cortex">Anterior insular cortex</span> | Brain area that handles both body temperature and feelings like trust or empathy. | [Chapter 4](modules/module-04/index.qmd) |
+| <span id="bart">Balloon Analogue Risk Task (BART)</span> | Computer game that measures risk-taking by how far people pump a virtual balloon. | [Chapter 5](modules/module-05/index.qmd) |
 | <span id="beta-brainwaves">Beta brainwaves</span> | Faster alert (or anxious) brain rhythms (about 12–30 Hz), often up with caffeine. | [Chapter 2](modules/module-02/index.qmd) |
 | <span id="assamica">*Camellia sinensis* var. *assamica*</span> | Large-leaf, tropical tea type; often higher caffeine and stronger bitterness. | [Chapter 1](modules/module-01/index.qmd) |
 | <span id="sinensis">*Camellia sinensis* var. *sinensis*</span> | Small-leaf, cold-hardier China type; often richer in L-theanine and aroma. | [Chapter 1](modules/module-01/index.qmd) |
 | <span id="canton-system">Canton System</span> | Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment. | [Chapter 3](modules/module-03/index.qmd) |
 | <span id="chanyuan-qinggui">*Chanyuan Qinggui*</span> | Chan monastic rulebook (1103) that set formal tea routines for discipline and wakefulness. | [Chapter 3](modules/module-03/index.qmd) |
-| <span id="dual-process-theory">Dual-process theory</span> | Idea that decisions use fast gut thinking (System 1) and slow careful thinking (System 2). | [Chapter 4](modules/module-04/index.qmd) |
+| <span id="dual-process-theory">Dual-process theory</span> | Idea that decisions use fast gut thinking (System 1) and slow careful thinking (System 2). | [Chapter 5](modules/module-05/index.qmd) |
 | <span id="egcg">EGCG</span> | The standout catechin in green tea; a large share of green tea’s polyphenols. | [Chapter 1](modules/module-01/index.qmd) |
-| <span id="embodied-cognition">Embodied cognition</span> | The claim that body feelings (like warmth) can shape social judgments. | [Chapter 3](modules/module-03/index.qmd) |
-| <span id="ern">Error-related negativity (ERN)</span> | A quick brain “oops” signal after mistakes; rituals can blunt it. | [Chapter 3](modules/module-03/index.qmd) |
+| <span id="embodied-cognition">Embodied cognition</span> | The claim that body feelings (like warmth) can shape social judgments. | [Chapter 4](modules/module-04/index.qmd) |
+| <span id="ern">Error-related negativity (ERN)</span> | A quick brain “oops” signal after mistakes; rituals can blunt it. | [Chapter 4](modules/module-04/index.qmd) |
 | <span id="hrv">Heart rate variability (HRV)</span> | How much the time between heartbeats varies; higher often means calmer control. | [Chapter 2](modules/module-02/index.qmd) |
 | <span id="hpa-axis">HPA axis</span> | The body’s main stress-hormone loop (brain → pituitary → adrenals). | [Chapter 2](modules/module-02/index.qmd) |
-| <span id="igt">Iowa Gambling Task (IGT)</span> | Card game that tests learning from long-run gains and losses. | [Chapter 4](modules/module-04/index.qmd) |
+| <span id="igt">Iowa Gambling Task (IGT)</span> | Card game that tests learning from long-run gains and losses. | [Chapter 5](modules/module-05/index.qmd) |
 | <span id="kissa-yojoki">*Kissa Yōjōki*</span> | Eisai’s 1211 essay promoting tea for health and alertness. | [Chapter 3](modules/module-03/index.qmd) |
-| <span id="loss-aversion-lambda">Loss-aversion coefficient (λ)</span> | How much more painful losses feel than equal gains; above 1 means loss-averse. | [Chapter 4](modules/module-04/index.qmd) |
+| <span id="loss-aversion-lambda">Loss-aversion coefficient (λ)</span> | How much more painful losses feel than equal gains; above 1 means loss-averse. | [Chapter 5](modules/module-05/index.qmd) |
 | <span id="l-theanine">L-Theanine</span> | A calming amino acid found in tea that supports relaxed focus. | [Chapter 1](modules/module-01/index.qmd) |
 | <span id="ppo">Polyphenol oxidase (PPO)</span> | Leaf enzyme that darkens crushed tea by oxidizing catechins (key to black tea). | [Chapter 1](modules/module-01/index.qmd) |
-| <span id="present-bias">Present-bias parameter</span> | How strongly someone prefers rewards *now* over better rewards later. | [Chapter 4](modules/module-04/index.qmd) |
+| <span id="present-bias">Present-bias parameter</span> | How strongly someone prefers rewards *now* over better rewards later. | [Chapter 5](modules/module-05/index.qmd) |
 | <span id="scr">Skin conductance response (SCR)</span> | Tiny sweat changes that track stress and arousal. | [Chapter 2](modules/module-02/index.qmd) |
 | <span id="theaflavins">Theaflavins</span> | Bright golden-red pigments formed while black tea oxidizes. | [Chapter 1](modules/module-01/index.qmd) |
 | <span id="thearubigins">Thearubigins</span> | Darker, larger pigments that give black tea body and color. | [Chapter 1](modules/module-01/index.qmd) |
@@ -52,6 +52,8 @@ For everyday and commercial tea labels (*English Breakfast*, *sencha*, *matcha*,
 
 **[Chapter 2 — body and mind](modules/module-02/index.qmd):** [adenosine receptors](#adenosine-receptors), [alpha](#alpha-brainwaves) / [beta](#beta-brainwaves) / [theta](#theta-brainwaves) waves, [HRV](#hrv), [HPA axis](#hpa-axis), [skin conductance](#scr)  
 
-**[Chapter 3 — history and ritual](modules/module-03/index.qmd):** [Canton System](#canton-system), [*Chanyuan Qinggui*](#chanyuan-qinggui), [embodied cognition](#embodied-cognition), [ERN](#ern), [insular cortex](#anterior-insular-cortex), [*Kissa Yōjōki*](#kissa-yojoki), [Treaty of Nanking](#treaty-of-nanking)  
+**[Chapter 3 — history and culture](modules/module-03/index.qmd):** [Canton System](#canton-system), [*Chanyuan Qinggui*](#chanyuan-qinggui), [*Kissa Yōjōki*](#kissa-yojoki), [Treaty of Nanking](#treaty-of-nanking)  
 
-**[Chapter 4 — decisions](modules/module-04/index.qmd):** [BART](#bart), [dual-process theory](#dual-process-theory), [IGT](#igt), [loss-aversion coefficient](#loss-aversion-lambda), [present-bias parameter](#present-bias)  
+**[Chapter 4 — context and ritual psychology](modules/module-04/index.qmd):** [embodied cognition](#embodied-cognition), [ERN](#ern), [insular cortex](#anterior-insular-cortex)  
+
+**[Chapter 5 — decisions](modules/module-05/index.qmd):** [BART](#bart), [dual-process theory](#dual-process-theory), [IGT](#igt), [loss-aversion coefficient](#loss-aversion-lambda), [present-bias parameter](#present-bias)  

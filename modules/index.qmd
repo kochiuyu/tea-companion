@@ -2,26 +2,25 @@
 title: "Chapters"
 ---
 
-{{< include../_includes/lang-switcher/modules.en.qmd >}}
+{{< include ../_includes/lang-switcher/modules.en.qmd >}}
 
-Imagine this site as a short trip with four stops—and each stop has **four sections** (sixteen sittings in all).
+Imagine this site as a short trip with **five** stops—and each stop has **four sections** (twenty sittings in all).
 
-You begin in a garden and a kitchen—plants, processing, brewing, and the compounds in a mug. You travel inward into the body and brain. You climb out again into history, monasteries, warm hands, and ritual. You end in a lab where people play careful games about risk and trust. Each section answers a question the previous one left hanging.
+You begin in a garden and a kitchen—plants, processing, brewing, and the compounds in a mug. You travel inward into the body and brain. You climb out into history and living tea cultures. You pause on warmth, ritual, and expectation—context as part of the dose. You end in a lab where people play careful games about risk and trust. Each section answers a question the previous one left hanging.
 
 Nothing here requires a science degree. Each section opens with a hook, walks you through the facts in story order, cites sources with **clickable footnotes**, tucks denser detail into **collapsed foldouts**, and leaves previous/next doors open.
 
-## The itinerary (four hubs)
+## The itinerary (five hubs)
 
 | Stop | The question that pulls you forward | Open |
 | --- | --- | --- |
 | 1. The Chemical Core | Why do two cups from the same plant taste—and feel—so different? | [Chapter 1 hub](module-01/index.qmd) |
 | 2. Body, Brain & Mood | Why does tea so often feel awake *and* calmer than coffee? | [Chapter 2 hub](module-02/index.qmd) |
-| 3. History, Ritual & Warmth | Is tea only chemistry—or also empire, ritual, and a warm hand? | [Chapter 3 hub](module-03/index.qmd) |
-| 4. Decisions & Choices | Does the cup change how we choose—and how do researchers even measure that? | [Chapter 4 hub](module-04/index.qmd) |
+| 3. History & Culture | Who controlled the leaf—and how do regions stage the cup? | [Chapter 3 hub](module-03/index.qmd) |
+| 4. Context & Ritual Psychology | Is context part of the dose—warmth, ritual, expectation? | [Chapter 4 hub](module-04/index.qmd) |
+| 5. Decisions & Choices | Does the cup change how we choose—and how do researchers even measure that? | [Chapter 5 hub](module-05/index.qmd) |
 
-## Structure map (4 chapters × 4 sections)
-
-Scan the whole journey at a glance. Each card is one chapter; each link is one sitting.
+## Structure map (5 chapters × 4 sections)
 
 :::: {.chapter-map}
 ::: {.chapter-map-card}
@@ -39,18 +38,25 @@ Scan the whole journey at a glance. Each card is one chapter; each link is one s
 4. [Section 4 · What the body quietly admits](module-02/04-body-signals.qmd)
 :::
 ::: {.chapter-map-card}
-### [Chapter 3 · History, Ritual & Warmth](module-03/index.qmd)
+### [Chapter 3 · History & Culture](module-03/index.qmd)
 1. [Section 1 · Silver, ships, and who controlled the leaf](module-03/01-trade-history.qmd)
 2. [Section 2 · From medicine soup to monastery to tea room](module-03/02-monastic-path.qmd)
-3. [Section 3 · Warm hands, warmer judgments?](module-03/03-warmth-trust.qmd)
-4. [Section 4 · The brewing break as a stress reset](module-03/04-ritual-stress.qmd)
+3. [Section 3 · After the monopoly break — gardens, estates, cheap bags](module-03/03-plantation-aftershock.qmd)
+4. [Section 4 · One leaf, many scripts](module-03/04-regional-scripts.qmd)
 :::
 ::: {.chapter-map-card}
-### [Chapter 4 · Decisions & Choices](module-04/index.qmd)
-1. [Section 1 · Fast blurts and careful checks](module-04/01-dual-process.qmd)
-2. [Section 2 · Losses that sting, tomorrows that fade](module-04/02-risk-waiting.qmd)
-3. [Section 3 · Games of trust, fairness, and cooperation](module-04/03-trust-games.qmd)
-4. [Section 4 · How careful studies are usually built](module-04/04-study-protocols.qmd)
+### [Chapter 4 · Context & Ritual Psychology](module-04/index.qmd)
+1. [Section 1 · Warm hands, warmer judgments?](module-04/01-warmth-trust.qmd)
+2. [Section 2 · The brewing break as a stress reset](module-04/02-ritual-stress.qmd)
+3. [Section 3 · What you think the mug is](module-04/03-expectation-labels.qmd)
+4. [Section 4 · Context is part of the dose — three dials, one map](module-04/04-context-dials-map.qmd)
+:::
+::: {.chapter-map-card}
+### [Chapter 5 · Decisions & Choices](module-05/index.qmd)
+1. [Section 1 · Fast blurts and careful checks](module-05/01-dual-process.qmd)
+2. [Section 2 · Losses that sting, tomorrows that fade](module-05/02-risk-waiting.qmd)
+3. [Section 3 · Games of trust, fairness, and cooperation](module-05/03-trust-games.qmd)
+4. [Section 4 · How careful studies are usually built](module-05/04-study-protocols.qmd)
 :::
 ::::
 
@@ -66,10 +72,10 @@ Start with [Cup reference](../cup-reference.qmd), then [Chapter 1 · Section 3 �
 Go to [Chapter 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#why-waiting-after-the-first-sip-matters) bridge on [L-theanine](../glossary.qmd#l-theanine) timing and calm brain waves.
 
 **"Is tea only chemistry?"**  
-No. [Chapter 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, warm mugs, brewing breaks.
+No. [Chapter 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, plantations, regional scripts. [Chapter 4 hub](module-04/index.qmd) adds warmth, ritual, and expectation.
 
 **"Do drinks change choices?"**  
-[Chapter 4 hub](module-04/index.qmd)—with the caveat that lab doses are not your everyday mug.
+[Chapter 5 hub](module-05/index.qmd)—with the caveat that lab doses are not your everyday mug.
 
 When you are ready to begin at the beginning, open [Chapter 1](module-01/index.qmd). The water is already hot.
 

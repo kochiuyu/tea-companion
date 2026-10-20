@@ -1,3 +1,0 @@
-::: {.lang-switcher}
-**Language / 語言 / 语言:** [English](../../../modules/module-04/02-risk-waiting.qmd) · [繁體中文（香港）](../../../zh-hant-hk/modules/module-04/02-risk-waiting.qmd) · [简体中文](02-risk-waiting.qmd)
-:::
