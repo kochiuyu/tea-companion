@@ -71,7 +71,7 @@ lang: zh-Hans
 
 英国茶与浸泡饮协会说得同样直白：加工时氧化的长短——或者有没有氧化——分开红、绿、乌龙和白的个性。[^3] 茶化学综述也同意：风格标签跟的是加工，多于物种。[^4]
 
-**本站的诚实：** 制茶人常把绿→红的变化叫“发酵”。从生化看，普通乌龙与红茶是**有氧酶促氧化**（叶酶＋空气）。真正的微生物发酵，主要出现在后发酵黑茶如普洱。[^5]
+**先说清楚：** 制茶人常把绿→红的变化叫“发酵”。从生化看，普通乌龙与红茶是**有氧酶促氧化**（叶酶＋空气）。真正的微生物发酵，主要出现在后发酵黑茶如普洱。[^5]
 
 ::: {.callout-note collapse="true" title="更多详情：黄茶与“六大茶类”放哪里"}
 贸易与标准写作有时列出**六**种制成品类（绿、黄、白、乌龙、红、黑），按加工与氧化排序（见参考中的六类框架脚注）。黄茶在中国以外较少见，大致走类似绿茶的路径，再加一步“闷黄”；进第一章前不必先精通它。
@@ -100,7 +100,7 @@ lang: zh-Hans
 | **抹茶** | 遮荫栽培的绿茶制成**细粉**，用热水打匀饮用（你喝下叶本身，不只浸泡液） | 本站注：遮荫抹茶／玉露杯中茶氨酸常**较高**——见 [杯量参考](cup-reference.qmd) |
 | **茉莉绿茶** | 用茉莉花**窨香**的绿茶；底子仍是茶树绿茶 | 窨香 ≠ 花草浸泡 |
 | **乌龙**（铁观音、包种等） | 部分氧化的茶树茶；风格名称标示传统与氧化程度 | 氧化尺的中段 |
-| **普洱／黑茶** | 云南（及相关）经微生物陈化的黑茶；“生”“熟”做法不同 | 本站真正发酵的例外 |
+| **普洱／黑茶** | 云南（及相关）经微生物陈化的黑茶；“生”“熟”做法不同 | 真正发酵的例外（微生物陈化） |
 | **洋甘菊／薄荷／路易波士“茶”** | 花草浸泡——**不是**茶树，除非标签也列出茶叶 | 在第一章化学核心之外 |
 
 拼配、产地与绿茶风格的通常含义，依循上文引用的英国茶与浸泡饮协会类型页；煎茶与抹茶加工笔记也对应日本业界摘要；[^7] 抹茶／玉露茶氨酸范围落在本站杯量基准。[^8]
@@ -124,7 +124,7 @@ lang: zh-Hans
 
 **为什么超市标签在乎：** 盒子上的“阿萨姆”，通常指向以大叶种红茶闻名的地区。大吉岭与许多中国绿茶，偏向小叶种材料。拼配会把界线弄糊——你的“英式早餐茶”可能刻意混产地。
 
-**本站的诚实：**“阿萨姆一定咖啡因高很多”说得太死。平均往往偏向大叶种较高，但遮荫、肥料与采哪片叶，可以翻转单次比较。[^10] 第一章会带数字讲这个提醒；本页只需地图。
+**先说清楚：**“阿萨姆一定咖啡因高很多”说得太死。平均往往偏向大叶种较高，但遮荫、肥料与采哪片叶，可以翻转单次比较。[^10] 第一章会带数字讲这个提醒；本页只需地图。
 
 → 完整故事：[第一章第一节 — 同一物种，两种茶叶脾气](modules/module-01/01-plants.qmd)
 
@@ -184,17 +184,17 @@ lang: zh-Hans
 
 [^4]: Wong, M., et al. (2022). Phytochemical profile of differently processed tea: A review. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.16137 (Green / white / oolong / black / pu-erh as processing categories.)
 
-[^5]: Source packs (Module 1 verification): ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See also Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [第一章](modules/module-01/index.qmd).
+[^5]: 普通乌龙／红茶所谓「发酵」实为酶促氧化；真正的微生物发酵主要出现在普洱等后发酵黑茶。见 Subramanian et al. (1999) 与 Tanaka & Kouno (2003)，亦见[第一章](modules/module-01/index.qmd)。
 
 [^6]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark) sorted by processing and oxidation—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
 [^7]: Kyoto Prefectural Tea Industry Chamber. Types of tea (sencha; matcha/tencha). https://www.ujicha.or.jp/en/knowledge/kinds/
 
-[^8]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071 (Pack cup-reference baseline; shaded gyokuro/matcha noted higher.)
+[^8]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071 (Cup-reference baseline; shaded gyokuro/matcha noted higher.)
 
-[^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Pack-cited naming frame for China-type vs Assam-type talk.)
+[^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Naming frame for China-type vs Assam-type talk.)
 
-[^10]: Pack Module 1 verification note on caffeine averages vs growing conditions; Takeda (1994) cultivar survey as used in [第一章](modules/module-01/index.qmd).
+[^10]: 咖啡因平均值与种植条件；Takeda (1994) 品种调查，见[第一章](modules/module-01/index.qmd)。
 
 [^11]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html (Formal ~2 g / 100 mL vs everyday ~2 g / 250 mL baseline on Cup reference.)
 

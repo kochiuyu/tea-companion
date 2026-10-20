@@ -16,7 +16,7 @@ Superscript numbers are clickable footnotes (jump to the source, caret jumps bac
 
 Start with a grocery-shelf miracle: a cheap bag of tea. That cheapness has a geopolitical past. Before tea was a supermarket staple, it was a strategic commodity—paid for in silver, fought over with gunboats, and eventually grown on colonial plantations so one empire would not depend forever on another.
 
-Hold two pictures side by side. In one, a British counting house in the 1830s watches silver leave for Canton while tea chests come home. In the other, your kitchen kettle clicks off and a bag costs less than a sandwich. This lesson walks the road between them—without inventing new economic theory, and without turning a tea bag into a morality play. The numbers and treaty clauses come from the owner packs and the named histories below.
+Hold two pictures side by side. In one, a British counting house in the 1830s watches silver leave for Canton while tea chests come home. In the other, your kitchen kettle clicks off and a bag costs less than a sandwich. This lesson walks the road between them—without turning a tea bag into a morality play. The numbers and treaty clauses come from the named histories below.
 
 If Chapter 1 asked *what plant is in the cup*, this lesson asks *who controlled the leaf*—and what that control cost.
 
@@ -24,7 +24,7 @@ If Chapter 1 asked *what plant is in the cup*, this lesson asks *who controlled 
 
 In the **Canton System** era (1757–1842), Western maritime trade with Qing China was funneled through Canton (Guangzhou). Buyers paid for Chinese tea, silk, and porcelain largely in **physical silver**. Britain wanted tea; Qing China wanted little that Britain made in return. Silver flowed east, and British merchants and the East India Company looked for a way to reverse the drain.[^1][^2]
 
-Pack tallies put the early strain in hard numbers: between **1710 and 1759**, the Company exported about **£26.5 million** in silver bullion to Canton—over **90%** of its outbound export value to China in that window (Pritchard, 1936; pack). That is not a metaphor for "trade imbalance." It is bullion on ships.
+Historical tallies put the early strain in hard numbers: between **1710 and 1759**, the Company exported about **£26.5 million** in silver bullion to Canton—over **90%** of its outbound export value to China in that window (Pritchard, 1936 source). That is not a metaphor for "trade imbalance." It is bullion on ships.
 
 Their answer was **opium** grown in British India and smuggled into China for silver—which then bought more tea. By the late 1830s, opium sales helped finance the British tea trade. Qing officials tried to stop the trade; conflict followed.
 
@@ -33,12 +33,12 @@ Imagine one shop is the only place that sells a drink everyone wants, and custom
 ::: {.callout-note collapse="true" title="More detail: silver drain and opium chests"}
 | Fact | Figure | Context | Trail |
 | --- | --- | --- | --- |
-| Company silver to Canton, 1710–1759 | About **£26.5 million** | Over **90%** of Company outbound export value to China in that window | Pritchard (1936; pack) |
-| Opium chests to China | **4,244** (1820) → **40,200** (1839); ~**133 lb**/chest | Helped reverse the trade balance; China silver outflow about **$34 million** (1831–1838) | Morse (1926; pack)[^10] |
+| Company silver to Canton, 1710–1759 | About **£26.5 million** | Over **90%** of Company outbound export value to China in that window | Pritchard (1936 source) |
+| Opium chests to China | **4,244** (1820) → **40,200** (1839); ~**133 lb**/chest | Helped reverse the trade balance; China silver outflow about **$34 million** (1831–1838) | Morse (1926 source)[^10] |
 
 The Canton System demanded silver settlement and restricted Western trade to Canton.[^1][^2] Britain wanted tea; Qing China wanted little British goods in return; opium grown in British India became the rebalancing tool—then war and treaties.[^1][^5][^6]
 
-These figures are **historical secondary tallies** from the packs (Pritchard; Morse). We retell them as the packs give them—useful order-of-magnitude anchors, not a new econometric model of Qing finance.
+These figures are **historical secondary tallies** (Pritchard; Morse)—useful order-of-magnitude anchors, not a new econometric model of Qing finance.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: a day in the Canton trade (hong merchants, not a free market)"}
@@ -60,7 +60,7 @@ That is why a "cheap bag" story that starts in 1842 is already late. For decades
 
 The First Opium War (1839–1842) ended with British victory and the **Treaty of Nanking** (29 August 1842; ratified 26 June 1843): five treaty ports opened, Hong Kong Island ceded, the Cohong monopoly abolished, and a large indemnity imposed.[^1][^3][^4]
 
-Ports often listed include Canton, Amoy, Foochow, Ningpo, and Shanghai.[^3][^4] The indemnity was large—on the order of **21 million** silver dollars in the packs' teaching tallies—with the dollar slices and article-number fine print living in the foldouts (the treaty text and the pack shorthand do not label every slice the same way).
+Ports often listed include Canton, Amoy, Foochow, Ningpo, and Shanghai.[^3][^4] The indemnity was large—on the order of **21 million** silver dollars in the sources' teaching tallies—with the dollar slices and article-number fine print living in the foldouts (the treaty text and the teaching shorthand do not label every slice the same way).
 
 Britain then pushed tea growing in its own colonies so it would not depend forever on Chinese leaf. That is the hinge from "China monopoly" to "plantation commodity."
 
@@ -75,18 +75,18 @@ The four-era map (Canton → wars → plant transfer → plantations) and the Ar
 | Late 19th c. plantations | British Raj (Assam, Darjeeling) | Large industrial estates on conceded land | Global Chinese monopoly broken; tea became a cheap mass commodity | Sharma (2011); Kew [^9][^7] |
 :::
 
-::: {.callout-note collapse="true" title="More detail: Treaty of Nanking clauses (pack reading) and $6 / $3 / $12"}
-| Clause (pack framing) | Content | Why it mattered for tea |
+::: {.callout-note collapse="true" title="More detail: Treaty of Nanking clauses (source reading) and $6 / $3 / $12"}
+| Clause (source framing) | Content | Why it mattered for tea |
 | --- | --- | --- |
 | Article II | Opening of **5** treaty ports | Broke the single-port Canton funnel |
 | Article III | Cession of **Hong Kong Island** | Permanent British foothold |
-| Article VI | Indemnity on the order of **21 million** silver dollars | Compensatory breakdown in pack summaries: ~**$6M** opium, ~**$3M** debts, ~**$12M** war costs |
+| Article VI | Indemnity on the order of **21 million** silver dollars | Compensatory breakdown in teaching summaries: ~**$6M** opium, ~**$3M** debts, ~**$12M** war costs |
 
-Treaty text and scholarly overviews agree on the ports–Hong Kong–indemnity skeleton.[^3][^4] The packs' dollar breakdown is a teaching snapshot of how contemporaries accounted the bill—not a claim that tea alone "caused" the war. Silver, opium, sovereignty, and coercive diplomacy were tangled together.[^5][^6]
+Treaty text and scholarly overviews agree on the ports–Hong Kong–indemnity skeleton.[^3][^4] The teaching dollar breakdown is a teaching snapshot of how contemporaries accounted the bill—not a claim that tea alone "caused" the war. Silver, opium, sovereignty, and coercive diplomacy were tangled together.[^5][^6]
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what the Treaty of Nanking actually wrote down"}
-The English text (signed 29 August 1842; ratifications exchanged 26 June 1843) is more specific than a one-line "China opened up." A public transcription of the articles lines up with the packs' teaching breakdown:[^12][^3]
+The English text (signed 29 August 1842; ratifications exchanged 26 June 1843) is more specific than a one-line "China opened up." A public transcription of the articles lines up with the sources' teaching breakdown:[^12][^3]
 
 | Article | What it says, in short | Tea-story hook |
 | --- | --- | --- |
@@ -95,9 +95,9 @@ The English text (signed 29 August 1842; ratifications exchanged 26 June 1843) i
 | **IV** | **Six million** dollars for opium turned over at Canton in March 1839 | Opium is named in the bill, not only in later slogans |
 | **V** | The **Hong / Cohong** exclusive-dealing rule is abolished at ports where British merchants reside; **three million** dollars for debts of insolvent hong merchants | The licensed guild loses its legal monopoly *and* its unpaid British debts are shifted onto the Qing treasury |
 | **VI** | **Twelve million** dollars toward the cost of the British expedition (with a deduction for ransoms taken after 1 August 1841) | Military costs are the largest slice |
-| **VII** | The **twenty-one million** total is staged: 6m at once, 6m in 1843, 5m in 1844, 4m in 1845; **5%** a year on late installments | The pack's "$6M / $3M / $12M" is Articles IV–VI added up—not a single mystery lump in Article VI alone |
+| **VII** | The **twenty-one million** total is staged: 6m at once, 6m in 1843, 5m in 1844, 4m in 1845; **5%** a year on late installments | The teaching "$6M / $3M / $12M" is Articles IV–VI added up—not a single mystery lump in Article VI alone |
 
-**Pack vs treaty wording.** The owner packs file the whole **21 million** under "Article VI" as a teaching label, then split it 6 / 3 / 12. The treaty text itself puts opium compensation in **IV**, hong debts in **V**, war costs in **VI**, and the **21 million total** in **VII**.[^12] The *dollars* match. The *article numbers* in the pack shorthand are a compressed label, not a replacement for the clauses. We keep both visible so a careful reader is not surprised.
+**Teaching summary vs treaty wording.** The named sources file the whole **21 million** under "Article VI" as a teaching label, then split it 6 / 3 / 12. The treaty text itself puts opium compensation in **IV**, hong debts in **V**, war costs in **VI**, and the **21 million total** in **VII**.[^12] The *dollars* match. The *article numbers* in the teaching shorthand are a compressed label, not a replacement for the clauses. We keep both visible so a careful reader is not surprised.
 
 Still not a claim that tea alone caused the war.[^5][^6]
 :::
@@ -113,22 +113,22 @@ A Scottish officer, **Robert Bruce**, learned of tea grown by Singhpho communiti
 That plant story loops back to [Chapter 1 · Plants](../module-01/01-plants.qmd): China-type and Assam-type leaves are not just tasting notes—they are the botanical residue of this transfer.
 
 ::: {.callout-note collapse="true" title="More detail: Assam first, Fortune later"}
-**Sequence the packs insist on:**
+**Sequence the sources insist on:**
 
 1. **1820s** — Robert Bruce learns of Singhpho-grown Assam tea; Charles Bruce cultivates and sends samples.
 2. **Christmas Eve 1834** — Nathaniel Wallich confirms the plants are tea at Calcutta Botanic Garden.[^7]
 3. **1833** — Company China monopoly ends under the Saint Helena Act; Indian leaf suddenly looks strategic.
 4. **1848–1851** — Fortune's missions procure *sinensis* cultivars, tools, workers, and processing secrets—not the "first tea plant in India."[^7][^8]
 
-Secondary histories that say "Fortune introduced tea to India in 1848" collapse steps 1–3 into a single espionage legend. The packs' verification note rejects that collapse. Kew's public history is a readable primary trail for the same correction.[^7]
+Secondary histories that say "Fortune introduced tea to India in 1848" collapse steps 1–3 into a single espionage legend. A careful reading of the sources rejects that collapse. Kew's public history is a readable primary trail for the same correction.[^7]
 :::
 
 ::: {.callout-note collapse="true" title="More detail: plant hunters in order—Banks, Bruce, Wallich, Fortune"}
-Kew's public history (Andrew Butterworth, 2015) and the packs' verification note tell the same sequence, with extra color if you want the names:[^7]
+Kew's public history (Andrew Butterworth, 2015) and the sources' verification note tell the same sequence, with extra color if you want the names:[^7]
 
 1. **1788 — Joseph Banks looks at India first.** Before any "steal the secret" legend, Banks suggested to the East India Company that parts of northeast India might suit tea. Interest is older than Fortune.
 2. **1820s — Robert Bruce and the Singhpho.** Bruce learned from the Assamese nobleman **Maniram Datta Barua** that Singhpho communities were already growing tea. Robert died in **1824**; he had sent seed to his brother **Charles**, who grew plants and later reported on Assam manufacture (his 1839 report is quoted on Kew's page).
-3. **Christmas Eve 1834 — Wallich.** Nathaniel Wallich, at Calcutta, confirmed Charles Bruce's samples were tea. The packs and Kew agree on that date.
+3. **Christmas Eve 1834 — Wallich.** Nathaniel Wallich, at Calcutta, confirmed Charles Bruce's samples were tea. The sources and Kew agree on that date.
 4. **1833 — the Company's China monopoly ends.** The Saint Helena Act (also called the Government of India Act 1833) removed the Company's monopoly on the China trade. Indian leaf suddenly looked strategic *because Britain might not control the Chinese source forever*—not because nobody had noticed Assam tea.
 5. **1848–1851 — Fortune's different job.** The East India Company sent Robert Fortune into interior China for cultivars, tools, and skilled makers. In his own 1852 preface he says he left Southampton on **20 June 1848**, landed in Hong Kong on **14 August**, and brought back **upwards of twenty thousand** tea plants, **eight** manufacturers, and implements for the Company's Himalayan plantations.[^13] Kew notes the **Wardian cases** (sealed glass plant boxes) and the processing insight: green and black come from the same plant. RHS records an earlier, separate trip (1843–1846) for the Horticultural Society—ornamental plants—before the tea commission.[^14]
 
@@ -147,15 +147,15 @@ Empire explains how tea became cheap and everywhere. But long before the Opium W
 
 ::: {.callout-tip collapse="true" title="Click for more detail: what this lesson is not claiming"}
 - Not claiming tea "caused" the Opium Wars alone—silver, opium, sovereignty, and coercive diplomacy were entangled.[^5][^6]
-- Not inventing a new model of Qing or British finance—pack figures (Pritchard; Morse) are retold as teaching anchors.
+- Not inventing a new model of Qing or British finance—figures (Pritchard; Morse) are retold as teaching anchors.
 - Not saying Fortune "stole tea into existence" in India—Assam identification preceded his missions.[^7]
 - Not a substitute for Chapter 1's plant and processing story—use both: [Plants](../module-01/01-plants.qmd) · [Processing](../module-01/02-processing.qmd).
 :::
 
 
-## Why an economist-owned site still tells this story
+## Why this silver-trade scale still matters
 
-This site's owner is an economist. That is a reason for **humility**, not for inventing a private model of Qing silver flows. The packs already give teaching tallies (Pritchard; Morse) and treaty skeletons. We retell those so beginners can feel the *scale* of the drain—not so we can pretend to re-estimate nineteenth-century trade elasticities.
+The point is **humility** about what a teaching page can claim—not a private model of Qing silver flows. The tallies (Pritchard; Morse) and treaty skeletons below are here so beginners can feel the *scale* of the drain—not so anyone can pretend to re-estimate nineteenth-century trade elasticities.
 
 Notice what this lesson refuses:
 
@@ -177,14 +177,14 @@ If aisle words still feel slippery, start at [Tea basics](../../tea-basics.qmd),
 
 ## A slow reading of the silver–opium loop
 
-Try the loop in four beats, as the packs tell it:
+Try the loop in four beats, as the sources tell it:
 
 1. **Demand.** Britain wants tea (and silk, porcelain).
 2. **Settlement.** Qing Canton rules demand silver, not British manufactures.
 3. **Rebalance attempt.** Opium from British India is sold into China for silver; silver buys more tea.
 4. **Collision.** Qing suppression meets British force; treaties open ports and shift sovereignty; colonial plantations reduce dependence on Chinese leaf.
 
-Chest counts make beat 3 visceral: **4,244** chests (1820) → **40,200** (1839). Silver outflow from China on the order of **$34 million** (1831–1838) sits beside that surge in the pack tables (Morse). You do not need a PhD in economic history to feel the direction of the flow—only the humility to keep the figures labeled as secondary tallies.
+Chest counts make beat 3 visceral: **4,244** chests (1820) → **40,200** (1839). Silver outflow from China on the order of **$34 million** (1831–1838) sits beside that surge in the secondary tallies (Morse). You do not need a PhD in economic history to feel the direction of the flow—only the humility to keep the figures labeled as secondary tallies.
 
 The Treaty of Nanking then writes beat 4 into law: ports, Hong Kong Island, indemnity. Lovell's narrative history and museum/archives explainers are readable companions if you want the human and political texture beyond the spreadsheet.[^6][^1][^2]
 
@@ -192,7 +192,7 @@ The Treaty of Nanking then writes beat 4 into law: ports, Hong Kong Island, inde
 
 ## Hong Kong, ports, and aftershocks
 
-For readers in Asia/Hong Kong especially, the Treaty of Nanking is not abstract: Article III's cession of Hong Kong Island sits beside the five treaty ports and the indemnity bill.[^3][^4] Later conflicts through 1860 extended the treaty-port system further (packs' Opium Wars era row). The tea story is only one thread in that larger sovereignty and trade transformation—but it is a thread that ends in your cupboard.
+For readers in Asia/Hong Kong especially, the Treaty of Nanking is not abstract: Article III's cession of Hong Kong Island sits beside the five treaty ports and the indemnity bill.[^3][^4] Later conflicts through 1860 extended the treaty-port system further (Opium Wars era overview). The tea story is only one thread in that larger sovereignty and trade transformation—but it is a thread that ends in your cupboard.
 
 Sharma's *Empire's Garden* follows how Assam plantations remade land, labor, and a commodity market once the botanical and political pieces were in place.[^9] Kew's public history remains the most approachable open trail for Fortune vs Bruce vs Wallich timing.[^7]
 
@@ -227,7 +227,7 @@ Sharma's *Empire's Garden* follows how Assam plantations remade land, labor, and
 
 [^9]: Sharma, J. (2011). *Empire's Garden: Assam and the Making of India*. Duke University Press.
 
-[^10]: Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press. (Pack-cited chest and silver-outflow tallies.)
+[^10]: Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press. (Cited chest and silver-outflow tallies.)
 
 [^11]: Britannica. Canton system; Cohong (hong merchants). https://www.britannica.com/event/Canton-system · https://www.britannica.com/money/cohong
 

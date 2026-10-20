@@ -48,18 +48,18 @@ Perva-Uzunalić and colleagues mapped how temperature and time change catechin a
 :::
 
 ::: {.callout-note collapse="true" title="More detail: extraction rates, cold brew, and the 80°C EGCG trade-off"}
-Classic infusion studies treated steeping as solid–liquid extraction: how fast caffeine and theaflavins leave the leaf, and how water temperature changes those rates.[^1][^2] Pack tables summarize effective diffusion at about 80°C as higher for caffeine and L-theanine than for EGCG—which matches the kitchen feel that EGCG is the "slow guest."[^1][^4]
+Classic infusion studies treated steeping as solid–liquid extraction: how fast caffeine and theaflavins leave the leaf, and how water temperature changes those rates.[^1][^2] Summary tables show effective diffusion at about 80°C as higher for caffeine and L-theanine than for EGCG—which matches the kitchen feel that EGCG is the "slow guest."[^1][^4]
 
-Caffeine dissolves readily—on the order of **20 g/L** at 20°C, about **108 g/L** at 60°C, and hundreds of g/L near boiling in the pack/Spiro framing.[^1] L-theanine is extremely water-soluble even when cool (about **350 g/L** at 25°C in solubility notes the packs cite), which is why it appears early in a steep.[^3] EGCG needs more heat and time (pack solubility near **33.8 g/L** at 80°C), and it is less stable if the brew turns too alkaline (packs flag instability above about pH 6.5).[^4]
+Caffeine dissolves readily—on the order of **20 g/L** at 20°C, about **108 g/L** at 60°C, and hundreds of g/L near boiling in the Spiro framing.[^1] L-theanine is extremely water-soluble even when cool (about **350 g/L** at 25°C in solubility notes the sources cite), which is why it appears early in a steep.[^3] EGCG needs more heat and time (reported solubility near **33.8 g/L** at 80°C), and it is less stable if the brew turns too alkaline (sources flag instability above about pH 6.5).[^4]
 
-**Cold brew.** Cold water *slows* extraction; it does not delete caffeine. Given enough time (often **12–24 hours** in the literature discussed in the packs), caffeine can reach levels similar to—or above—a short hot steep.[^1]
+**Cold brew.** Cold water *slows* extraction; it does not delete caffeine. Given enough time (often **12–24 hours** in the literature discussed in the sources), caffeine can reach levels similar to—or above—a short hot steep.[^1]
 
 **Temperature and what you feel later.** Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio, so the cup you later feel is chemically skewed—not only milder in taste.[^4]
 :::
 
 ## Myth check: "Cold brew means no caffeine"
 
-Cold water only *slows* extraction. Given enough time (often 12–24 hours in the literature discussed in the packs), caffeine in cold brew can reach levels similar to—or even above—a short hot steep.[^1] Smile politely at the "caffeine-free cold brew" story; then check the clock.
+Cold water only *slows* extraction. Given enough time (often 12–24 hours in the literature discussed in the sources), caffeine in cold brew can reach levels similar to—or even above—a short hot steep.[^1] Smile politely at the "caffeine-free cold brew" story; then check the clock.
 
 ::: {.callout-note collapse="true" title="More detail: bag vs loose, broken leaf, and lab-strength cups"}
 Particle size matters. A fine fanning grade in a tea bag has more surface area, so compounds often exit faster than from whole loose leaves—one reason a three-minute bag can taste "done" while a whole-leaf pot still has another steep in it. That is still the same extraction physics Spiro-style studies measured; only the geometry changed.[^1][^2]

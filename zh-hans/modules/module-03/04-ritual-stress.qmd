@@ -196,12 +196,12 @@ lang: zh-Hans
 
 [^1]: Hobson, N. M., Schroeder, J., Risen, J. L., Xygalatas, D., & Inzlicht, M. (2018). The psychology of rituals: An integrative review and process-based framework. *Personality and Social Psychology Review, 22*(3), 260–284. https://doi.org/10.1177/1088868317734944
 
-[^2]: Lang, M., Krátký, J., Shaver, J. H., Jerotijević, D., & Xygalatas, D. (2015). Effects of anxiety on spontaneous ritualized behavior. *Current Biology* / pack-cited autonomic sequence work also listed as *Human Nature, 26*(3), 295–314 in Module 3 additions. (Pack narrative: scripted sequences and HR buffering.)
+[^2]: Lang, M., Krátký, J., Shaver, J. H., Jerotijević, D., & Xygalatas, D. (2015). Effects of anxiety on spontaneous ritualized behavior. *Current Biology* / cited autonomic sequence work also listed as *Human Nature, 26*(3), 295–314 in Module 3 additions. (Narrative: scripted sequences and HR buffering.)
 
 [^3]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
 
 [^4]: Retraction notice: Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. (2016). Don't stop believing: Rituals improve performance by decreasing anxiety. *Organizational Behavior and Human Decision Processes* — retracted 2024 for data-integrity issues. https://doi.org/10.1016/j.obhdp.2016.07.004
 
-[^5]: Hobson, N. M., et al. (2017). Ritualistic behavior and the error-related negativity (ERN). *Social Cognitive and Affective Neuroscience, 12*(11), 1779–1788. (Pack-cited ERN amplitude delta.)
+[^5]: Hobson, N. M., et al. (2017). Ritualistic behavior and the error-related negativity (ERN). *Social Cognitive and Affective Neuroscience, 12*(11), 1779–1788. (Cited ERN amplitude delta.)
 
 [^6]: Retraction notice (2024). Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. "Don't stop believing: Rituals improve performance by decreasing anxiety." *Organizational Behavior and Human Decision Processes*. https://doi.org/10.1016/j.obhdp.2024.104377 — Authors reported loss of confidence in data integrity; journal noted anomalies in Study 1b heart-rate data and unreported exclusions in Studies 3 and 4 (focal effects nonsignificant when exclusions were restored). **Not used as evidence on this site.**

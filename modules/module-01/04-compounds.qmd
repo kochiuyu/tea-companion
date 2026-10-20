@@ -58,7 +58,7 @@ Half-life means "about how long until blood levels fall by half," not "gone comp
 
 **Why caffeine's range is wide.** Most caffeine clearance runs through liver enzyme **CYP1A2**, and that activity varies a lot between people. Smoking, hormones, medications, liver health, and genetics (including common CYP1A2 variants) all shift how long a dose sticks around.[^9] That is why "I had tea three hours ago" is not the same story for every drinker—even before you count cup strength.
 
-**Receptor / pathway labels (for Chapter 2 cross-links).** Caffeine's everyday action is adenosine-receptor antagonism.[^1] L-theanine can weakly compete at certain glutamate receptor sites (AMPA, kainate, NMDA-related)—far less potently than glutamate itself—which fits the "turn down the noisy chatter" picture.[^2][^3] EGCG appears in NF-κB-related and other cell-signaling talk in the packs; Chapter 1 only needs the timing and the green-tea identity.[^4]
+**Receptor / pathway labels (for Chapter 2 cross-links).** Caffeine's everyday action is adenosine-receptor antagonism.[^1] L-theanine can weakly compete at certain glutamate receptor sites (AMPA, kainate, NMDA-related)—far less potently than glutamate itself—which fits the "turn down the noisy chatter" picture.[^2][^3] EGCG appears in NF-κB-related and other cell-signaling talk in the sources; Chapter 1 only needs the timing and the green-tea identity.[^4]
 
 Human time-course work shows oral peaks on the order of tens of minutes to a couple of hours depending on the compound and dose form.[^5][^6] Clear alpha-wave changes tied to L-theanine are often reported about **30–45 minutes** after ingestion; combined L-theanine-plus-caffeine attention benefits often show around the one-hour mark.[^7][^8]
 :::
@@ -145,7 +145,7 @@ The [Cup reference](../../cup-reference.qmd) exists for that translation.
 
 [^5]: van der Pijl, P. C., et al. (2010). Human pharmacokinetic profile of green tea catechins and L-theanine. *British Journal of Nutrition, 104*(8), 1157–1164.
 
-[^6]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake and metabolism in healthy humans (pack-cited *Journal of Nutrition* entry).
+[^6]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake and metabolism in healthy humans (cited *Journal of Nutrition* entry).
 
 [^7]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
 

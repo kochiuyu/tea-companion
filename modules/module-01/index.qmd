@@ -65,7 +65,7 @@ Before you leave the chemical core, here is a short field guide—the kind of th
 
 **If someone says cold brew is caffeine-free:** smile, then remember the clock. Cold only slows the exit of caffeine from the leaf.[^5] Time is the real variable.
 
-**If someone says Assam always doubles China caffeine:** remember the cultivar survey and the pack's counter-examples. Averages lean Assam-higher; gardens and plucking standards write the fine print.[^6]
+**If someone says Assam always doubles China caffeine:** remember the cultivar survey and the counter-examples below. Averages lean Assam-higher; gardens and plucking standards write the fine print.[^6]
 
 **If you want the tasting-lab strength:** lab sensory cups are often stronger than many home mugs.[^7] The [Cup reference](../../cup-reference.qmd) sticks to the everyday baseline so lab and kitchen do not get confused.
 
@@ -100,7 +100,7 @@ Open [Chapter 2: Body, Brain & Mood](../module-02/index.qmd) when you are ready�
 
 [^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
 
-[^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205. (Title abbreviated in some pack lists as chemical features of theaflavins/thearubigins.)
+[^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205. (Title abbreviated in some source lists as chemical features of theaflavins/thearubigins.)
 
 [^3]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
 

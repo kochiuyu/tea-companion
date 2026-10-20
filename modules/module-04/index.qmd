@@ -16,9 +16,9 @@ Imagine a balloon on a computer screen. Each pump earns a little money and raise
 
 Now imagine the same task after alcohol, or after a matched theanine-caffeine drink, or after a washout weekend with no coffee. That is the flavor of evidence in this chapter: small, timed, artificial—and still useful if you refuse to overclaim.
 
-Why does that scene matter for a smart high-school student, an early-college reader, or someone who sits near economists without being one? Because it turns a vague slogan—"tea makes you wiser"—into a question you can watch: *under this drink state, how far do people push, how patiently do they wait, how much do they send on a first move?* The answer is never "always" or "never." It is "a nudge, under these conditions, with these caveats."
+Why does that scene matter? Because it turns a vague slogan—"tea makes you wiser"—into a question you can watch: *under this drink state, how far do people push, how patiently do they wait, how much do they send on a first move?* The answer is never "always" or "never." It is "a nudge, under these conditions, with these caveats."
 
-The packs show patterns for tea, high-caffeine coffee stress, and alcohol—in isolated lab conditions. Stake size, habit, and social setting all matter outside the lab. The owner of this site is an economist; we still do **not** invent economic theories here. We only retell what the packs and named papers already support. Tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style. Hover often shows a popup too. Collapsed **More detail** boxes hold denser task tables, Greek-letter summaries, and protocol checklists.
+Cited studies show patterns for tea, high-caffeine coffee stress, and alcohol—in isolated lab conditions. Stake size, habit, and social setting all matter outside the lab. Tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style. Hover often shows a popup too. Collapsed **More detail** boxes hold denser task tables, Greek-letter summaries, and protocol checklists.
 
 ::: {.callout-tip title="Everyday words for this journey"}
 - **Fast blurt** — the quick first answer that arrives before you check.
@@ -34,7 +34,7 @@ The packs show patterns for tea, high-caffeine coffee stress, and alcohol—in i
 :::
 
 ::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
-Footnotes are bidirectional (click number → source; caret → back). Foldouts hold denser CRT/Stroop/BART snapshots, λ / *k* summaries, game tables, and protocol checklists so the open story stays readable. We still do **not** invent economic theories—only retell what the packs and named papers support.
+Footnotes are bidirectional (click number → source; caret → back). Foldouts hold denser CRT/Stroop/BART snapshots, λ / *k* summaries, game tables, and protocol checklists so the open story stays readable.
 :::
 
 ::: {.callout-tip collapse="true" title="More detail: lab words you may meet in the foldouts"}
@@ -48,7 +48,7 @@ Footnotes are bidirectional (click number → source; caret → back). Foldouts 
 
 ## The four sections
 
-The **open pages stay everyday language** and take more time unpacking the main idea; open a foldout when you want the theory labels, dose tables, or protocol clocks. Still **no invented economics**. Read in order or hop.
+The **open pages stay everyday language** and take more time unpacking the main idea; open a foldout when you want the theory labels, dose tables, or protocol clocks. Read in order or hop.
 
 1. **[Fast blurts and careful checks](01-dual-process.qmd)** — quiz-show speed vs homework patience; how tea, coffee-stress, and alcohol nudge the spotlight.
 2. **[Losses that sting, tomorrows that fade](02-risk-waiting.qmd)** — everyday money-wait scenes; "how far do you pump?"; why "tea → patient investor" is a leap.
@@ -57,13 +57,11 @@ The **open pages stay everyday language** and take more time unpacking the main 
 
 **Start with section 1:** [Fast blurts and careful checks](01-dual-process.qmd)
 
-## What an economist's caution sounds like here
+## A careful reading
 
-This site's owner is an economist. That is a reason for **humility**, not for inventing a private theory of tea-and-markets.
+Tools that already exist—ways of talking about losses that sting, tomorrows that fade, trust sends, and unfair splits—are shared tools among psychologists and economists [^1][^2][^3]. This chapter uses those tools to describe how *drink states* look in lab snapshots. They do not license claims like "tea makes you a rational investor" or "coffee ruins negotiations." Stake size, wealth, culture, sleep, and the other player's reputation usually dominate any beverage nudge.
 
-Tools that already exist—ways of talking about losses that sting, tomorrows that fade, trust sends, and unfair splits—are shared tools among psychologists and economists [^1][^2][^3]. The packs use those tools to describe how *drink states* look in lab snapshots. They do not license claims like "tea makes you a rational investor" or "coffee ruins negotiations." Stake size, wealth, culture, sleep, and the other player's reputation usually dominate any beverage nudge.
-
-So the economist-friendly reading of this chapter is plain:
+So a careful reading of this chapter is plain:
 
 - Treat measured shifts under controlled doses as **nudges**, not personality transplants.  
 - Prefer studies that wash out caffeine, match sensory cues, and time the task to known peaks [^4].  
@@ -72,7 +70,7 @@ So the economist-friendly reading of this chapter is plain:
 
 Interesting? Yes. Fact-based? Only as far as the citations go. That is the deal.
 
-::: {.callout-tip collapse="true" title="Click for more detail: an economist's caution in five bullets (with labels)"}
+::: {.callout-tip collapse="true" title="Click for more detail: a careful-reading checklist (with labels)"}
 - Treat λ, discount rates, and trust sends as **measured shifts under controlled doses**, not personality transplants.[^1][^3]
 - Prefer studies that wash out caffeine, match sensory cues, and time the task to known peaks.[^4]
 - Alcohol myopia and fairness punishment can both be true in the same intoxicated Ultimatum session—people may reject unfairness *more*, not less.[^5][^6]

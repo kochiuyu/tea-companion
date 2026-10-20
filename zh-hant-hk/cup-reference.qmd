@@ -67,16 +67,16 @@ lang: zh-Hant-HK
 
 [^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
 
-[^2]: Del Rio, D., et al. (2004). HPLC-MSⁿ analysis of phenolic compounds and purine alkaloids in green and black tea. *Journal of Agricultural and Food Chemistry, 52*(10), 2807–2815. (Pack-cited for EGCG in black tea.)
+[^2]: Del Rio, D., et al. (2004). HPLC-MSⁿ analysis of phenolic compounds and purine alkaloids in green and black tea. *Journal of Agricultural and Food Chemistry, 52*(10), 2807–2815. (Cited for EGCG in black tea.)
 
 [^3]: Chin, J. M., et al. (2008). Caffeine content of brewed teas. *Journal of Analytical Toxicology, 32*(8), 702–704.
 
-[^4]: Hicks, M. B., et al. (1996). Tea preparation and its influence on methylxanthine concentration. *Food Chemistry, 56*(4), 425–428. (Pack-cited for black-tea caffeine.)
+[^4]: Hicks, M. B., et al. (1996). Tea preparation and its influence on methylxanthine concentration. *Food Chemistry, 56*(4), 425–428. (Cited for black-tea caffeine.)
 
 [^5]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
 
 [^6]: Bhagwat, S., et al. (2011 / USDA releases). *USDA Database for the Flavonoid Content of Selected Foods*. https://www.ars.usda.gov/ARSUserFiles/80400525/Data/Flav/Flav3.3.pdf
 
-[^7]: Lakenbrink, C., et al. (2000). Flavonoids and other polyphenols in consumer brews of tea and other caffeinated beverages. *Journal of Agricultural and Food Chemistry, 48*(7), 2575–2582. (Pack-cited for black-tea catechins.)
+[^7]: Lakenbrink, C., et al. (2000). Flavonoids and other polyphenols in consumer brews of tea and other caffeinated beverages. *Journal of Agricultural and Food Chemistry, 48*(7), 2575–2582. (Cited for black-tea catechins.)
 
 [^8]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html

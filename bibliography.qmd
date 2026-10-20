@@ -8,15 +8,15 @@ title: "Bibliography"
 
 Every claim on this site should leave a trail.
 
-When a chapter says “about 30–50 mg caffeine” or “Williams & Bargh (2008),” that sentence should point somewhere you can check—an entry on this page, or the owner-supplied packs behind it. Nothing here was invented for decoration. The story is meant to be interesting; the sources are meant to keep it honest.
+When a chapter says “about 30–50 mg caffeine” or “Williams & Bargh (2008),” that sentence should point somewhere you can check—an entry on this page. The story is meant to be interesting; the sources are meant to keep it honest.
 
 Anyone can put a confident sentence on a website. A **citation** is a trail: author, year, and usually a journal or book so another person can open the original. That does not mean every paper is perfect. It means we are not asking you to trust a slogan.
 
 For this site:
 
-- Numbers and study snapshots on the chapter pages should match entries below (or the verified packs).
-- Some pack citations are short (year and journal only). We left them as the packs gave them rather than guessing missing titles.
-- Entries follow APA style when the packs give full details.
+- Numbers and study snapshots on the chapter pages should match entries below.
+- Some citations are short (year and journal only). We left them as found rather than guessing missing titles.
+- Entries follow APA style when full details are available.
 - Dense lab constants we removed from the beginner pages still live in many of these papers if you want them later.
 
 **How to use this page.** Spot a name-and-year on a chapter page (for example Nobre et al., 2008). Find that entry in the section below. If you need the full methods, open the paper itself—this list is a map, not a reprint.
@@ -35,7 +35,7 @@ Bhagwat, S., et al. (2011). *USDA Database for the Flavonoid Content of Selected
 
 Borchetia, S., et al. (2009). Chemical evaluation of tea (*Camellia sinensis*) germplasm for crop diversification. *Industrial Crops and Products, 30*(2), 270–274.
 
-Carr, M. K. V. (2018). (Cited in master Chapter 1.1 cultivation-terroir row; full title not supplied in the packs.)
+Carr, M. K. V. (2018). (Cited for cultivation/terroir in Chapter 1; full title not available in the sources used here.)
 
 Chin, J. M., et al. (2008). *Journal of Analytical Toxicology, 32*(8), 702–704. (Cited in Standard Cup Reference for caffeine, green tea.)
 
@@ -77,7 +77,7 @@ Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677
 
 Wight, W. (1962). *Nature, 196*, 441. (Cited in Chapter 1 additions for somatic chromosome number.)
 
-Xia, E. H., et al. (2017). *Proceedings of the National Academy of Sciences, 114*(17), E3569–E3558. (Cited in Chapter 1 additions for relative genomic size; page string as given in that pack.)
+Xia, E. H., et al. (2017). *Proceedings of the National Academy of Sciences, 114*(17), E3569–E3558. (Cited in Chapter 1 additions for relative genomic size; page string as given in that source.)
 
 ## Brain, mood, and body measures
 
@@ -217,4 +217,4 @@ Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative repr
 
 ## Note on completeness
 
-The citation completeness audit reports full primary provenance across all 16 branches (59 foundational references in the master database plus supplementary clinical and historical sources in the additions packs). Four claims were explicitly fortified with primary papers during that audit: PPO denaturation (Subramanian et al., 1999), L-theanine receptor affinity (Kakuda et al., 2002), opium trade chest quantities (Morse, 1926), and ERN amplitude delta (Hobson et al., 2017).
+Supplementary clinical and historical sources sit alongside the foundational references below. Four claims were fortified with primary papers in particular: PPO denaturation (Subramanian et al., 1999), L-theanine receptor affinity (Kakuda et al., 2002), opium trade chest quantities (Morse, 1926), and ERN amplitude delta (Hobson et al., 2017).

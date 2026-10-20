@@ -85,7 +85,7 @@ lang: zh-Hant-HK
 4. **劑量還是一杯茶？** 是 **200 毫克** 茶氨酸 + **100 毫克** 咖啡因——還是超市的一個茶包？
 5. **甚麼任務？** 氣球風險、賭博學習、反思陷阱、不公平分配——每一種量度的推動都不同。[^1][^2][^3]
 
-如果缺少這些答案，在研究方法公開之前，請把那個說法當作廣告。[本章入口](index.qmd)保留一份經濟學家的謹慎清單，也是同一個原因。
+如果缺少這些答案，在研究方法公開之前，請把那個說法當作廣告。[本章入口](index.qmd)保留一份謹慎閱讀清單，也是同一個原因。
 :::
 
 ## 這一節怎樣替第四章其他各課把關
@@ -94,7 +94,7 @@ lang: zh-Hant-HK
 - 風險／耐性的新聞標題 → 問用的是乙醇／咖啡因膠囊，還是超市的一杯茶（[第四章第二節](02-risk-waiting.qmd)）。
 - 信任／奉茶的新聞標題 → 問有沒有控制溫暖，以及重做研究的紀錄（[第四章第三節](03-trust-games.qmd)；[第三章第三節](../module-03/03-warmth-trust.qmd)）。
 
-一個由經濟學家主理的教學網站，靠的就是研究方法來保持誠實，而不必自創新理論。
+研究方法本身就是保持誠實的辦法——不必自創新理論。
 
 ::: {.callout-note collapse="true" title="更多詳情：給一段虛構的「研究方法」加註（教學用）"}
 想像一個網誌寫道：*「我們讓學生喝茶，他們就變成了更有耐性的投資者。」* 像審稿人一樣替它加註：
@@ -126,7 +126,7 @@ lang: zh-Hant-HK
 
 第四章那些搶眼的發現——反思錯誤、氣球打氣次數、信任博弈中送出的金額——值得多少信心，全看它們的研究方法。這一節就是脊骨。如果你只記得那些博弈，卻忘了洗脫期、溫度和時間，就會把廚房裡的民間智慧過度套用到實驗室的海報上。
 
-對經濟學家友善的立場，和章入口一樣：在控制劑量下量到的變化；不自創理論；走出實驗室，利害大小和名聲通常比飲品的推動更重要。
+謹慎的立場，和章入口一樣：在控制劑量下量到的變化；不自創理論；走出實驗室，利害大小和名聲通常比飲品的推動更重要。
 
 說到底，嚴謹的實驗程序不是為繁瑣而繁瑣。它們能防止第三章的溫暖故事悄悄污染第四章的藥理故事——也能防止期望穿上白袍。
 
@@ -141,12 +141,12 @@ lang: zh-Hant-HK
 
 ## 一分鐘說完
 
-搶眼的博弈結果值得多少信心，全看研究方法。配對杯子、等到高峰，並記住無咖啡因茶不是神奇的安慰劑。洗脫期、溫度、苦味和時間，是一個由經濟學家主理的教學網站用來防止溫暖和期望悄悄污染藥理結果的方法。
+搶眼的博弈結果值得多少信心，全看研究方法。配對杯子、等到高峰，並記住無咖啡因茶不是神奇的安慰劑。洗脫期、溫度、苦味和時間，是防止溫暖和期望悄悄污染藥理結果的方法。
 
 ::: {.callout-tip title="你可以先停在這裡"}
 - 配對杯、等到高峰，以及「無咖啡因茶 ≠ 神奇的安慰劑」，是正文的脊骨。
 - 洗脫期、溫度、苦味配對和時間，替那些搶眼的博弈把關。
-- 研究方法本身就是結論的一部分——在由經濟學家主理的教學網站上尤其如此。
+- 研究方法本身就是結論的一部分——有人把飲品當成決策工具時尤其如此。
 :::
 
 ---
@@ -163,6 +163,6 @@ lang: zh-Hant-HK
 
 [^5]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280.
 
-[^6]: Haskell, C. F., et al. (2005). Cognitive and mood effects of caffeine and theanine alone and in combination (pack-cited washout practices). *Cognitive Brain Research, 24*(3), 433–444.
+[^6]: Haskell, C. F., et al. (2005). Cognitive and mood effects of caffeine and theanine alone and in combination (cited washout practices). *Cognitive Brain Research, 24*(3), 433–444.
 
-[^7]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake (pack-cited Tmax window). *Journal of Nutrition, 142*(12), 2091–2096.
+[^7]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake (cited Tmax window). *Journal of Nutrition, 142*(12), 2091–2096.

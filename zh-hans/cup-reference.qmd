@@ -23,7 +23,7 @@ lang: zh-Hans
 
 下表采用常见家用基准：**每 250 毫升 约 2 克 干叶**（一包茶包或一小匙）。正式品评（ISO 3103）约用 **每 100 毫升 2 克**（约等于 **每 250 毫升 5 克**）——比许多家用杯更浓。
 
-若你的绿茶味道偏淡，可能低于这些范围。若红茶让你睡不着，咖啡因可能靠近高位（本资料中红茶列约 **40–80 毫克**）。比较时尽量用同一容量。
+若你的绿茶味道偏淡，可能低于这些范围。若红茶让你睡不着，咖啡因可能靠近高位（本页红茶列约 **40–80 毫克**）。比较时尽量用同一容量。
 
 ## 典型溶出量
 
@@ -67,16 +67,16 @@ lang: zh-Hans
 
 [^1]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
 
-[^2]: Del Rio, D., et al. (2004). HPLC-MSⁿ analysis of phenolic compounds and purine alkaloids in green and black tea. *Journal of Agricultural and Food Chemistry, 52*(10), 2807–2815. (Pack-cited for EGCG in black tea.)
+[^2]: Del Rio, D., et al. (2004). HPLC-MSⁿ analysis of phenolic compounds and purine alkaloids in green and black tea. *Journal of Agricultural and Food Chemistry, 52*(10), 2807–2815. (Cited for EGCG in black tea.)
 
 [^3]: Chin, J. M., et al. (2008). Caffeine content of brewed teas. *Journal of Analytical Toxicology, 32*(8), 702–704.
 
-[^4]: Hicks, M. B., et al. (1996). Tea preparation and its influence on methylxanthine concentration. *Food Chemistry, 56*(4), 425–428. (Pack-cited for black-tea caffeine.)
+[^4]: Hicks, M. B., et al. (1996). Tea preparation and its influence on methylxanthine concentration. *Food Chemistry, 56*(4), 425–428. (Cited for black-tea caffeine.)
 
 [^5]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
 
 [^6]: Bhagwat, S., et al. (2011 / USDA releases). *USDA Database for the Flavonoid Content of Selected Foods*. https://www.ars.usda.gov/ARSUserFiles/80400525/Data/Flav/Flav3.3.pdf
 
-[^7]: Lakenbrink, C., et al. (2000). Flavonoids and other polyphenols in consumer brews of tea and other caffeinated beverages. *Journal of Agricultural and Food Chemistry, 48*(7), 2575–2582. (Pack-cited for black-tea catechins.)
+[^7]: Lakenbrink, C., et al. (2000). Flavonoids and other polyphenols in consumer brews of tea and other caffeinated beverages. *Journal of Agricultural and Food Chemistry, 48*(7), 2575–2582. (Cited for black-tea catechins.)
 
 [^8]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html

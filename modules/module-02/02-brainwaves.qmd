@@ -36,7 +36,7 @@ In everyday clothes: L-theanine is often linked with **calm focus**. Caffeine al
 ::: {.callout-note collapse="true" title="More detail: EEG bands, Hz, and example findings"}
 **EEG** means recording the brain's electrical rhythms from the scalp. Bands are sorted by frequency:
 
-| Band | Rough frequency | Typical link in these packs | Main idea for a drinker |
+| Band | Rough frequency | Typical link in the cited studies | Main idea for a drinker |
 | --- | --- | --- | --- |
 | Alpha | About 8–12 Hz | Up with L-theanine (especially around 10–12 Hz in back-of-head regions) | Calm, selective attention |
 | Beta | About 12–30 Hz | Up with caffeine; early alcohol can reduce it | Active focus or anxiety |
@@ -64,7 +64,7 @@ One habit prevents most beginner misunderstandings: **ask whether the recording 
 Remember Chapter 1's timing note? L-theanine often peaks in blood tens of minutes after drinking, and clear calm-focus rhythm changes are often reported in a similar window—not at the first sip.[^3] Combined-dose cognitive tests commonly sit around an hour or more after drinking.[^6] That matching lag is why the kitchen clock and the lab belong in the same story—and why "I just sipped" is not the same moment as "I feel focused."
 
 ::: {.callout-tip collapse="true" title="More detail: timing clocks and how to read an EEG tea headline"}
-**Timing (pack + paper clocks):**
+**Timing (paper clocks):**
 
 - L-theanine blood peaks often ~**35–50 min** after drinking.
 - Clear alpha-wave changes often ~**30–45 min**.
@@ -103,12 +103,12 @@ Labs sort brain rhythms by speed. L-theanine often lifts resting calm-focus. Caf
 
 **Under attention load:** Kelly combination work and Gomez-Ramirez theanine-on-task work — alpha patterns look more like **selective attention tuning** (background changes + stronger attention-related effects) than like falling asleep in class.[^4][^5]
 
-If a blog collapses both into "theanine = alpha = Zen," it skipped the state dependence the packs already warned about.
+If a blog collapses both into "theanine = alpha = Zen," it skipped the state dependence the sources already warned about.
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 2 · Section 2"}
 1. Calm-focus (alpha) ≈ selective attention—but **context matters**.
-2. Busy-alert (beta) ≈ alert/tense; drowsy/sedation bands (theta/delta) ≈ fatigue in these packs.
+2. Busy-alert (beta) ≈ alert/tense; drowsy/sedation bands (theta/delta) ≈ fatigue in the cited studies.
 3. State dependence is not a loophole—it is the finding.
 4. Match clocks: ~30–90 minutes.
 5. Next: stress chemistry when the day is loud.
