@@ -6,7 +6,7 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/home.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [模块总览](modules/index.qmd) · [模块一](modules/module-01/index.qmd) · [模块二](modules/module-02/index.qmd) · [模块三](modules/module-03/index.qmd) · [模块四](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -27,34 +27,34 @@ lang: zh-Hans
 | --- | --- |
 | **标签** — 英式早餐茶、煎茶、抹茶，以及茶包和散茶通常指什么 | [茶叶入门](tea-basics.qmd) |
 | **数字** — 一杯约 250 mL 里常见的毫克数 | [杯量参考](cup-reference.qmd) |
-| **完整故事** — 四大模块、十六课 | [模块总览](modules/index.qmd) |
+| **完整故事** — 四章、十六节 | [章节总览](modules/index.qmd) |
 
 ## 这趟旅程在讲什么
 
-四个模块顺着一条线往下走——每个模块各有**四课**，对应资料包的分支。
+四章顺着一条线往下走——每一章各有**四节**，对应资料包的分支。
 
 先认识**叶子**：茶从哪来、为什么绿茶和红茶差那么远、冲泡把什么带进杯里，还有三个头条化合物。再跟着它们**进身体**：脑信号、脑波、压力激素，以及安静的身体信号。接着镜头拉开。茶曾经改写**贸易账本**，成了寺院里的专注帮手；手里温热的杯子，也出现在信任实验里。一小段泡茶休息，还可以当作实际的压力重置。最后问决策：饮品会不会**轻轻推一把**——答题快不快、敢不敢冒险、有多在乎明天、第一步有多信对方？
 
-你可以从任何一处进。但若按顺序读，每一课都会递给你打开下一课的理由。
+你可以从任何一处进。但若按顺序读，每一节都会递给你打开下一节的理由。
 
-## 四大模块（一览）
+## 四章（一览）
 
 1. **[化学核心](modules/module-01/index.qmd)** — 植物 · 加工 · 冲泡 · 化合物
 2. **[身体、大脑与心情](modules/module-02/index.qmd)** — 脑部作用 · 脑波 · 压力激素 · 身体信号
 3. **[历史、仪式与温暖](modules/module-03/index.qmd)** — 贸易史 · 寺院之路 · 温暖与信任 · 仪式与压力
 4. **[决策与选择](modules/module-04/index.qmd)** — 双加工 · 风险与等待 · 信任游戏 · 研究规程
 
-十六课的完整课表见 [模块总览](modules/index.qmd)。
+十六节的完整章节表见 [章节总览](modules/index.qmd)。
 
 ## 怎样跟本站一起走
 
 看见数字——比如“约 30–50 mg 咖啡因”——请当作**资料包里的典型范围**，不是对你那一杯的保证。牌子、茶叶、浸泡时间都不一样。[杯量参考](cup-reference.qmd)是常见 250 mL 杯的快查表。
 
-超市和咖啡店标签还不熟？进模块一之前或同时，先看 **[茶叶入门](tea-basics.qmd)**。
+超市和咖啡店标签还不熟？进第一章之前或同时，先看 **[茶叶入门](tea-basics.qmd)**。
 
-技术词第一次出现时，我们会在故事里讲清楚。想要一行提醒，翻 [词汇表](glossary.qmd)（并链到对应模块入口）。
+技术词第一次出现时，我们会在故事里讲清楚。想要一行提醒，翻 [词汇表](glossary.qmd)（并链到对应本章入口）。
 
-想知道冲泡事实怎么连到心情，或温杯怎么连到信任游戏，打开 [联结桥梁](linkages.qmd)。那十一座桥把各模块缝在一起。
+想知道冲泡事实怎么连到心情，或温杯怎么连到信任游戏，打开 [联结桥梁](linkages.qmd)。那十一座桥把各章缝在一起。
 
 想查某个“姓名—年份”背后的论文，或课文上的脚注，点脚注或打开 [参考文献](bibliography.qmd)。
 
@@ -62,4 +62,4 @@ lang: zh-Hans
 
 我们**不会**发明新的百分比、机制、历史数字或研究结果。我们**不会**贴上一整墙实验室方程式。这里的一切都应能追溯到已核实的资料包，或我们打开并列出的来源。这份诚实本身就是故事的一部分：好奇，但不贴假珠宝。
 
-准备好了？先倒一杯想象中的茶——标签让人糊，就从 [茶叶入门](tea-basics.qmd) 起，再到 [模块一：化学核心](modules/module-01/index.qmd)——或者先扫一眼 [路线图](modules/index.qmd)。
+准备好了？先倒一杯想象中的茶——标签让人糊，就从 [茶叶入门](tea-basics.qmd) 起，再到 [第一章：化学核心](modules/module-01/index.qmd)——或者先扫一眼 [路线图](modules/index.qmd)。

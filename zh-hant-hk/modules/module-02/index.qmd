@@ -1,12 +1,12 @@
 ---
-title: "2. 身體、大腦與心情"
+title: "第二章 身體、大腦與心情"
 lang: zh-Hant-HK
 ---
 
 {{< include ../../../_includes/lang-switcher/module-02.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [模組總覽](../../modules/index.qmd) · [模組一](../module-01/index.qmd) · [模組二](index.qmd) · [模組三](../module-03/index.qmd) · [模組四](../module-04/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -34,20 +34,20 @@ lang: zh-Hant-HK
 上標數字是可點的腳註：點一下跳到出處，再點箭嘴回來；滑鼠停在數字上，多數也會彈出摘要。摺起來的「更多詳情…」裡，放了較密的研究摘要——受體名稱、腦波頻段、荷爾蒙表格、毫克數——好讓正文保持像講故事。
 :::
 
-## 四課內容
+## 四節內容
 
-每一課對應資料包的一個分支。正文保持淺白；想深入了解科學時，再打開摺疊方框。
+每一節對應資料包的一個分支。正文保持淺白；想深入了解科學時，再打開摺疊方框。
 
 1. **[油門、煞車，與一條繁忙的路](01-brain-action.qmd)**——咖啡因為何令你醒神，茶氨酸怎樣把那份尖銳感磨圓，以及酒精為何是另一回事。
 2. **[聽大腦的節拍](02-brainwaves.qmd)**——平靜專注、忙碌警覺與昏昏欲睡三種節奏；休息時和用心工作時的分別。
 3. **[當火警鈴響](03-stress-hormones.qmd)**——壓力的化學、習慣與真正的壓力，以及茶氨酸研究實際量度了甚麼。
 4. **[身體安靜承認的事](04-body-signals.qmd)**——心跳的彈性、瞳孔、細微的壓力汗；「繃緊」在皮膚上也留下記號。
 
-**由第一課開始：**[油門、煞車，與一條繁忙的路](01-brain-action.qmd)
+**由第一節開始：**[油門、煞車，與一條繁忙的路](01-brain-action.qmd)
 
 ## 把雙線故事放進一幅圖
 
-讀完四課，這條雙線故事應該不再像口號，而更像一條環環相扣的鏈：
+讀完四節，這條雙線故事應該不再像口號，而更像一條環環相扣的鏈：
 
 1. 咖啡因鬆開睡意的煞車，讓腦裡那條路保持繁忙。[^1]  
 2. 茶氨酸把過多的「衝！衝！」雜音輕輕調低，令注意力的狀態較平靜。[^2][^3]  
@@ -78,7 +78,7 @@ lang: zh-Hant-HK
 
 ---
 
-**導航：** [← 模組總覽](../index.qmd) · [← 模組一入口](../module-01/index.qmd) · [第一課 →](01-brain-action.qmd) · [模組三入口 →](../module-03/index.qmd)
+**導航：** [← 章節總覽](../index.qmd) · [← 第一章入口](../module-01/index.qmd) · [第一節 →](01-brain-action.qmd) · [第三章入口 →](../module-03/index.qmd)
 
 [^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
 

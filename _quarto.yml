@@ -94,17 +94,17 @@ website:
         href: index.qmd
       - text: Tea basics
         href: tea-basics.qmd
-      - text: Modules
+      - text: Chapters
         menu:
-          - text: Modules overview
+          - text: Chapters overview
             href: modules/index.qmd
-          - text: "1. The Chemical Core"
+          - text: "Chapter 1 · The Chemical Core"
             href: modules/module-01/index.qmd
-          - text: "2. Body, Brain & Mood"
+          - text: "Chapter 2 · Body, Brain & Mood"
             href: modules/module-02/index.qmd
-          - text: "3. History, Ritual & Warmth"
+          - text: "Chapter 3 · History, Ritual & Warmth"
             href: modules/module-03/index.qmd
-          - text: "4. Decisions & Choices"
+          - text: "Chapter 4 · Decisions & Choices"
             href: modules/module-04/index.qmd
       - text: Reference
         menu:

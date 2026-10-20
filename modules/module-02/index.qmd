@@ -1,5 +1,5 @@
 ---
-title: "2. Body, Brain & Mood"
+title: "Chapter 2 · Body, Brain & Mood"
 ---
 
 {{< include ../../_includes/lang-switcher/module-02.en.qmd >}}
@@ -25,7 +25,7 @@ You do **not** need receptor names or wave frequencies to follow the story. Thos
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots—receptor names, wave bands, hormone tables, milligrams—so the open page stays a story.
 :::
 
-## The four lessons
+## The four sections
 
 Each sitting is one pack branch. The open pages stay lay-friendly; open a foldout when you want the science depth.
 
@@ -34,7 +34,7 @@ Each sitting is one pack branch. The open pages stay lay-friendly; open a foldou
 3. **[When the fire alarm rings](03-stress-hormones.qmd)** — stress chemistry, habit vs real stress, and what L-theanine studies actually measured.
 4. **[What the body quietly admits](04-body-signals.qmd)** — heart flexibility, pupils, tiny stress sweat; "wired" has a skin signature.
 
-**Start with lesson 1:** [Gas pedals, brakes, and a busy road](01-brain-action.qmd)
+**Start with section 1:** [Gas pedals, brakes, and a busy road](01-brain-action.qmd)
 
 ## Putting the dual story in one picture
 
@@ -69,7 +69,7 @@ Open [Chapter 3: History, Ritual & Warmth](../module-03/index.qmd) when you are 
 
 ---
 
-**Navigate:** [← Modules overview](../index.qmd) · [← Module 1 hub](../module-01/index.qmd) · [First lesson →](01-brain-action.qmd) · [Module 3 hub →](../module-03/index.qmd)
+**Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 1 hub](../module-01/index.qmd) · [First lesson →](01-brain-action.qmd) · [Chapter 3 hub →](../module-03/index.qmd)
 
 [^1]: Fredholm, B. B., Bättig, K., Holmén, J., Nehlig, A., & Zvartau, E. E. (1999). Actions of caffeine in the brain with special reference to factors that contribute to its widespread use. *Pharmacological Reviews, 51*(1), 83–133. https://pharmrev.aspetjournals.org/content/51/1/83
 

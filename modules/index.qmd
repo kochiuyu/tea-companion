@@ -1,65 +1,81 @@
 ---
-title: "Modules"
+title: "Chapters"
 ---
 
 {{< include ../_includes/lang-switcher/modules.en.qmd >}}
 
-Imagine this site as a short trip with four stops—and each stop now has **four lessons** (sixteen sittings in all), matching the owner's source-pack branches.
+Imagine this site as a short trip with four stops—and each stop now has **four sections** (sixteen sittings in all), matching the owner's source-pack branches.
 
-You begin in a garden and a kitchen—plants, processing, brewing, and the compounds in a mug. You travel inward into the body and brain. You climb out again into history, monasteries, warm hands, and ritual. You end in a lab where people play careful games about risk and trust. Each lesson answers a question the previous one left hanging.
+You begin in a garden and a kitchen—plants, processing, brewing, and the compounds in a mug. You travel inward into the body and brain. You climb out again into history, monasteries, warm hands, and ritual. You end in a lab where people play careful games about risk and trust. Each section answers a question the previous one left hanging.
 
-Nothing here requires a science degree. Each lesson opens with a hook, walks you through the facts in story order, cites sources with **clickable footnotes**, tucks denser detail into **collapsed foldouts**, and leaves previous/next doors open.
+Nothing here requires a science degree. Each section opens with a hook, walks you through the facts in story order, cites sources with **clickable footnotes**, tucks denser detail into **collapsed foldouts**, and leaves previous/next doors open.
 
 ## The itinerary (four hubs)
 
 | Stop | The question that pulls you forward | Open |
 | --- | --- | --- |
-| 1. The Chemical Core | Why do two cups from the same plant taste—and feel—so different? | [Module 1 hub](module-01/index.qmd) |
-| 2. Body, Brain & Mood | Why does tea so often feel awake *and* calmer than coffee? | [Module 2 hub](module-02/index.qmd) |
-| 3. History, Ritual & Warmth | Is tea only chemistry—or also empire, ritual, and a warm hand? | [Module 3 hub](module-03/index.qmd) |
-| 4. Decisions & Choices | Does the cup change how we choose—and how do researchers even measure that? | [Module 4 hub](module-04/index.qmd) |
+| 1. The Chemical Core | Why do two cups from the same plant taste—and feel—so different? | [Chapter 1 hub](module-01/index.qmd) |
+| 2. Body, Brain & Mood | Why does tea so often feel awake *and* calmer than coffee? | [Chapter 2 hub](module-02/index.qmd) |
+| 3. History, Ritual & Warmth | Is tea only chemistry—or also empire, ritual, and a warm hand? | [Chapter 3 hub](module-03/index.qmd) |
+| 4. Decisions & Choices | Does the cup change how we choose—and how do researchers even measure that? | [Chapter 4 hub](module-04/index.qmd) |
 
-## Curriculum map (16 lessons)
+## Structure map (4 chapters × 4 sections)
 
-| Module | Lesson | Open |
-| --- | --- | --- |
-| 1. Chemical Core | 1.1 Two plants, one species | [Open](module-01/01-plants.qmd) |
-| | 1.2 The fork in the road (green vs black) | [Open](module-01/02-processing.qmd) |
-| | 1.3 What brewing actually does | [Open](module-01/03-brewing.qmd) |
-| | 1.4 Three characters in the cup | [Open](module-01/04-compounds.qmd) |
-| 2. Body, Brain & Mood | 2.1 Gas pedals, brakes, and a busy road | [Open](module-02/01-brain-action.qmd) |
-| | 2.2 Listening to the brain's tempo | [Open](module-02/02-brainwaves.qmd) |
-| | 2.3 When the fire alarm rings | [Open](module-02/03-stress-hormones.qmd) |
-| | 2.4 What the body quietly admits | [Open](module-02/04-body-signals.qmd) |
-| 3. History, Ritual & Warmth | 3.1 Silver, ships, and who controlled the leaf | [Open](module-03/01-trade-history.qmd) |
-| | 3.2 From medicine soup to monastery to tea room | [Open](module-03/02-monastic-path.qmd) |
-| | 3.3 Warm hands, warmer judgments? | [Open](module-03/03-warmth-trust.qmd) |
-| | 3.4 The brewing break as a stress reset | [Open](module-03/04-ritual-stress.qmd) |
-| 4. Decisions & Choices | 4.1 Fast blurts and careful checks | [Open](module-04/01-dual-process.qmd) |
-| | 4.2 Losses that sting, tomorrows that fade | [Open](module-04/02-risk-waiting.qmd) |
-| | 4.3 Games of trust, fairness, and cooperation | [Open](module-04/03-trust-games.qmd) |
-| | 4.4 How careful studies are usually built | [Open](module-04/04-study-protocols.qmd) |
+Scan the whole journey at a glance. Each card is one chapter; each link is one sitting.
 
-Why **four** lessons per module, not three? The source packs already use a four-branch skeleton in every module. Splitting one long chapter into those four sittings keeps each page a full sitting—without stuffing three topics into an oversized scroll.
+:::: {.chapter-map}
+::: {.chapter-map-card}
+### [Chapter 1 · The Chemical Core](module-01/index.qmd)
+1. [Section 1 · Two plants, one species](module-01/01-plants.qmd)
+2. [Section 2 · The fork in the road](module-01/02-processing.qmd)
+3. [Section 3 · What brewing actually does](module-01/03-brewing.qmd)
+4. [Section 4 · Three characters in the cup](module-01/04-compounds.qmd)
+:::
+::: {.chapter-map-card}
+### [Chapter 2 · Body, Brain & Mood](module-02/index.qmd)
+1. [Section 1 · Gas pedals, brakes, and a busy road](module-02/01-brain-action.qmd)
+2. [Section 2 · Listening to the brain's tempo](module-02/02-brainwaves.qmd)
+3. [Section 3 · When the fire alarm rings](module-02/03-stress-hormones.qmd)
+4. [Section 4 · What the body quietly admits](module-02/04-body-signals.qmd)
+:::
+::: {.chapter-map-card}
+### [Chapter 3 · History, Ritual & Warmth](module-03/index.qmd)
+1. [Section 1 · Silver, ships, and who controlled the leaf](module-03/01-trade-history.qmd)
+2. [Section 2 · From medicine soup to monastery to tea room](module-03/02-monastic-path.qmd)
+3. [Section 3 · Warm hands, warmer judgments?](module-03/03-warmth-trust.qmd)
+4. [Section 4 · The brewing break as a stress reset](module-03/04-ritual-stress.qmd)
+:::
+::: {.chapter-map-card}
+### [Chapter 4 · Decisions & Choices](module-04/index.qmd)
+1. [Section 1 · Fast blurts and careful checks](module-04/01-dual-process.qmd)
+2. [Section 2 · Losses that sting, tomorrows that fade](module-04/02-risk-waiting.qmd)
+3. [Section 3 · Games of trust, fairness, and cooperation](module-04/03-trust-games.qmd)
+4. [Section 4 · How careful studies are usually built](module-04/04-study-protocols.qmd)
+:::
+::::
+
+::: {.chapter-map-note}
+Why **four** sections per chapter, not three? The source packs already use a four-branch skeleton in every chapter. Splitting one long chapter into those four sittings keeps each page a full sitting—without stuffing three topics into an oversized scroll.
+:::
 
 ## If you only have ten minutes
 
 **"What do aisle labels mean?"**  
-Start with [Tea basics](../tea-basics.qmd), then [Module 1 hub](module-01/index.qmd).
+Start with [Tea basics](../tea-basics.qmd), then [Chapter 1 hub](module-01/index.qmd).
 
 **"What's in my cup?"**  
-Start with [Cup reference](../cup-reference.qmd), then lessons [1.3 Brewing](module-01/03-brewing.qmd) and [1.4 Compounds](module-01/04-compounds.qmd).
+Start with [Cup reference](../cup-reference.qmd), then [Chapter 1 · Section 3 · Brewing](module-01/03-brewing.qmd) and [Chapter 1 · Section 4 · Compounds](module-01/04-compounds.qmd).
 
 **"Why awake but not jittery?"**  
-Go to [Module 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#why-waiting-after-the-first-sip-matters) bridge on L-theanine timing and calm brain waves.
+Go to [Chapter 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#why-waiting-after-the-first-sip-matters) bridge on L-theanine timing and calm brain waves.
 
 **"Is tea only chemistry?"**  
-No. [Module 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, warm mugs, brewing breaks.
+No. [Chapter 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, warm mugs, brewing breaks.
 
 **"Do drinks change choices?"**  
-[Module 4 hub](module-04/index.qmd)—with the packs' caveats that lab doses are not your everyday mug.
+[Chapter 4 hub](module-04/index.qmd)—with the packs' caveats that lab doses are not your everyday mug.
 
-When you are ready to begin at the beginning, open [Module 1](module-01/index.qmd). The water is already hot.
+When you are ready to begin at the beginning, open [Chapter 1](module-01/index.qmd). The water is already hot.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: footnotes and foldouts"}
 - **Footnotes:** superscript numbers jump to the full citation; the caret jumps back. Hover often pops the note.

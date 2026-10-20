@@ -1,20 +1,20 @@
 ---
-title: "1.3 What brewing actually does"
+title: "Section 3 · What brewing actually does"
 ---
 
 {{< include ../../_includes/lang-switcher/module-01-brewing.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 1 · Lesson 3 of 4** — part of [1. The Chemical Core](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 1 · Section 3 of 4** — part of [Chapter 1 · The Chemical Core](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold solubility tables, ISO strength numbers, and second-steep physics so the open page stays kitchen language.
 :::
 
 ## The only lab most of us own
 
-You already met the plant ([Lesson 1.1](01-plants.qmd)) and the factory fork ([Lesson 1.2](02-processing.qmd)). Now the leaf is in *your* hands. Brewing is not magic and it is not "just waiting." It is **hot (or cold) water acting like a selective extractor**: some guests leave the leaf early and easily; one needs more heat and time—the way a tea bag clouds a mug.
+You already met the plant ([Chapter 1 · Section 1](01-plants.qmd)) and the factory fork ([Chapter 1 · Section 2](02-processing.qmd)). Now the leaf is in *your* hands. Brewing is not magic and it is not "just waiting." It is **hot (or cold) water acting like a selective extractor**: some guests leave the leaf early and easily; one needs more heat and time—the way a tea bag clouds a mug.
 
 Classic infusion studies treated steeping as a measurable problem: how fast caffeine and related compounds leave the leaf, and how water temperature changes those rates.[^1][^2]
 
@@ -106,12 +106,12 @@ A practical, fact-based starting pattern many drinkers use after this lesson:
 2. Greens: water near **80°C**, timed steep; taste before you punish the cup.
 3. Blacks: near-boiling is common; bitterness is your brake pedal.
 4. Want cold brew? Budget **hours**, not seconds, and assume caffeine will show up.[^1]
-5. Compare your results with the [Cup reference](../../cup-reference.qmd) ranges—not with capsule-trial milligrams from Module 2.
+5. Compare your results with the [Cup reference](../../cup-reference.qmd) ranges—not with capsule-trial milligrams from Chapter 2.
 
 This is kitchen literacy, not a prescription.
 :::
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 1.3"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 1 · Section 3"}
 1. Extraction = heat × time × surface area × leaf amount.
 2. Caffeine & theanine = early guests; EGCG = slower, heat-hungry guest.
 3. Cold ≠ caffeine-free.
@@ -125,13 +125,13 @@ Whole-leaf drinkers already know the plot twist: the first steep is not the whol
 
 That is still extraction physics, not mysticism. It is also why "I used the same grams" can produce different cups when leaf style changes.
 
-::: {.callout-note collapse="true" title="More detail: linking brewing dials to Module 2 feelings"}
-Module 2 will talk about calm focus and stress markers after you swallow. This lesson's quiet warning: **if you brew green tea far below ~80°C**, you may skew the cup toward caffeine relative to EGCG.[^4] You did not invent a new plant—you changed the guest list. Pair that with Chapter 1's timing clocks ([Lesson 1.4](04-compounds.qmd)) and you get a fairer reading of "this tea felt different today."
+::: {.callout-note collapse="true" title="More detail: linking brewing dials to Chapter 2 feelings"}
+Chapter 2 will talk about calm focus and stress markers after you swallow. This lesson's quiet warning: **if you brew green tea far below ~80°C**, you may skew the cup toward caffeine relative to EGCG.[^4] You did not invent a new plant—you changed the guest list. Pair that with Chapter 1's timing clocks ([Chapter 1 · Section 4](04-compounds.qmd)) and you get a fairer reading of "this tea felt different today."
 :::
 
 ---
 
-**Navigate:** [↑ Module 1 hub](index.qmd) · [← Previous](02-processing.qmd) · [Next →](04-compounds.qmd)
+**Navigate:** [↑ Chapter 1 hub](index.qmd) · [← Previous](02-processing.qmd) · [Next →](04-compounds.qmd)
 
 [^1]: Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion: Kinetics of extraction of caffeine and theaflavins. *Journal of the Science of Food and Agriculture, 33*(4), 333–340.
 

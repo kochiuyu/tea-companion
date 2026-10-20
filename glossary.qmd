@@ -6,11 +6,11 @@ title: "Glossary"
 
 Every journey collects new words. Some are friendly on first meeting—*caffeine*, *ritual*. Others arrive packed tight—*HPA axis*, *error-related negativity*—as if five ideas were folded into one suitcase.
 
-This page unpacks those suitcases. When a chapter uses a technical word, look it up here for a one-sentence definition in everyday English. Module numbers point to where the term matters most in the story.
+This page unpacks those suitcases. When a chapter uses a technical word, look it up here for a one-sentence definition in everyday English. Chapter numbers point to where the term matters most in the story.
 
 You do not need to memorize the whole table. Skim the “By module” list at the bottom when you start a new module. Ultra-niche lab constants and diffusion equations are left out on purpose; see the [Bibliography](bibliography.qmd) if you need the primary papers.
 
-Think of this as a pocket phrasebook for the four modules—not a second textbook.
+Think of this as a pocket phrasebook for the four chapters—not a second textbook.
 
 For everyday and commercial tea labels (*English Breakfast*, *sencha*, *matcha*, bag vs loose, herbal "tea"), use **[Tea basics](tea-basics.qmd)** instead—this glossary stays chapter jargon only.
 
@@ -19,39 +19,39 @@ For everyday and commercial tea labels (*English Breakfast*, *sencha*, *matcha*,
 
 | Term | Simple definition | Where it shows up |
 | --- | --- | --- |
-| Adenosine receptors (A1, A2A) | Brain “slow down / sleep” sensors that caffeine blocks so you stay awake. | [Module 2](modules/module-02/index.qmd) |
-| Alpha brainwaves | Slower calm-focus brain rhythms (about 8–12 Hz), often linked with L-theanine. | [Module 2](modules/module-02/index.qmd) |
-| Anterior insular cortex | Brain area that handles both body temperature and feelings like trust or empathy. | [Module 3](modules/module-03/index.qmd) |
-| Balloon Analogue Risk Task (BART) | Computer game that measures risk-taking by how far people pump a virtual balloon. | [Module 4](modules/module-04/index.qmd) |
-| Beta brainwaves | Faster alert (or anxious) brain rhythms (about 12–30 Hz), often up with caffeine. | [Module 2](modules/module-02/index.qmd) |
-| *Camellia sinensis* var. *assamica* | Large-leaf, tropical tea type; often higher caffeine and stronger bitterness. | [Module 1](modules/module-01/index.qmd) |
-| *Camellia sinensis* var. *sinensis* | Small-leaf, cold-hardier China type; often richer in L-theanine and aroma. | [Module 1](modules/module-01/index.qmd) |
-| Canton System | Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment. | [Module 3](modules/module-03/index.qmd) |
-| *Chanyuan Qinggui* | Chan monastic rulebook (1103) that set formal tea routines for discipline and wakefulness. | [Module 3](modules/module-03/index.qmd) |
-| Dual-process theory | Idea that decisions use fast gut thinking (System 1) and slow careful thinking (System 2). | [Module 4](modules/module-04/index.qmd) |
-| EGCG | The standout catechin in green tea; a large share of green tea’s polyphenols. | [Module 1](modules/module-01/index.qmd) |
-| Embodied cognition | The claim that body feelings (like warmth) can shape social judgments. | [Module 3](modules/module-03/index.qmd) |
-| Error-related negativity (ERN) | A quick brain “oops” signal after mistakes; rituals can blunt it. | [Module 3](modules/module-03/index.qmd) |
-| Heart rate variability (HRV) | How much the time between heartbeats varies; higher often means calmer control. | [Module 2](modules/module-02/index.qmd) |
-| HPA axis | The body’s main stress-hormone loop (brain → pituitary → adrenals). | [Module 2](modules/module-02/index.qmd) |
-| Iowa Gambling Task (IGT) | Card game that tests learning from long-run gains and losses. | [Module 4](modules/module-04/index.qmd) |
-| *Kissa Yōjōki* | Eisai’s 1211 essay promoting tea for health and alertness. | [Module 3](modules/module-03/index.qmd) |
-| Loss-aversion coefficient (λ) | How much more painful losses feel than equal gains; above 1 means loss-averse. | [Module 4](modules/module-04/index.qmd) |
-| L-Theanine | A calming amino acid found in tea that supports relaxed focus. | [Module 1](modules/module-01/index.qmd) |
-| Polyphenol oxidase (PPO) | Leaf enzyme that darkens crushed tea by oxidizing catechins (key to black tea). | [Module 1](modules/module-01/index.qmd) |
-| Present-bias parameter | How strongly someone prefers rewards *now* over better rewards later. | [Module 4](modules/module-04/index.qmd) |
-| Skin conductance response (SCR) | Tiny sweat changes that track stress and arousal. | [Module 2](modules/module-02/index.qmd) |
-| Theaflavins | Bright golden-red pigments formed while black tea oxidizes. | [Module 1](modules/module-01/index.qmd) |
-| Thearubigins | Darker, larger pigments that give black tea body and color. | [Module 1](modules/module-01/index.qmd) |
-| Theta brainwaves | Slower drowsy rhythms (about 4–8 Hz), often up with fatigue or alcohol. | [Module 2](modules/module-02/index.qmd) |
-| Treaty of Nanking (1842) | Unequal treaty ending the First Opium War: indemnity, five ports, Hong Kong ceded. | [Module 3](modules/module-03/index.qmd) |
+| Adenosine receptors (A1, A2A) | Brain “slow down / sleep” sensors that caffeine blocks so you stay awake. | [Chapter 2](modules/module-02/index.qmd) |
+| Alpha brainwaves | Slower calm-focus brain rhythms (about 8–12 Hz), often linked with L-theanine. | [Chapter 2](modules/module-02/index.qmd) |
+| Anterior insular cortex | Brain area that handles both body temperature and feelings like trust or empathy. | [Chapter 3](modules/module-03/index.qmd) |
+| Balloon Analogue Risk Task (BART) | Computer game that measures risk-taking by how far people pump a virtual balloon. | [Chapter 4](modules/module-04/index.qmd) |
+| Beta brainwaves | Faster alert (or anxious) brain rhythms (about 12–30 Hz), often up with caffeine. | [Chapter 2](modules/module-02/index.qmd) |
+| *Camellia sinensis* var. *assamica* | Large-leaf, tropical tea type; often higher caffeine and stronger bitterness. | [Chapter 1](modules/module-01/index.qmd) |
+| *Camellia sinensis* var. *sinensis* | Small-leaf, cold-hardier China type; often richer in L-theanine and aroma. | [Chapter 1](modules/module-01/index.qmd) |
+| Canton System | Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment. | [Chapter 3](modules/module-03/index.qmd) |
+| *Chanyuan Qinggui* | Chan monastic rulebook (1103) that set formal tea routines for discipline and wakefulness. | [Chapter 3](modules/module-03/index.qmd) |
+| Dual-process theory | Idea that decisions use fast gut thinking (System 1) and slow careful thinking (System 2). | [Chapter 4](modules/module-04/index.qmd) |
+| EGCG | The standout catechin in green tea; a large share of green tea’s polyphenols. | [Chapter 1](modules/module-01/index.qmd) |
+| Embodied cognition | The claim that body feelings (like warmth) can shape social judgments. | [Chapter 3](modules/module-03/index.qmd) |
+| Error-related negativity (ERN) | A quick brain “oops” signal after mistakes; rituals can blunt it. | [Chapter 3](modules/module-03/index.qmd) |
+| Heart rate variability (HRV) | How much the time between heartbeats varies; higher often means calmer control. | [Chapter 2](modules/module-02/index.qmd) |
+| HPA axis | The body’s main stress-hormone loop (brain → pituitary → adrenals). | [Chapter 2](modules/module-02/index.qmd) |
+| Iowa Gambling Task (IGT) | Card game that tests learning from long-run gains and losses. | [Chapter 4](modules/module-04/index.qmd) |
+| *Kissa Yōjōki* | Eisai’s 1211 essay promoting tea for health and alertness. | [Chapter 3](modules/module-03/index.qmd) |
+| Loss-aversion coefficient (λ) | How much more painful losses feel than equal gains; above 1 means loss-averse. | [Chapter 4](modules/module-04/index.qmd) |
+| L-Theanine | A calming amino acid found in tea that supports relaxed focus. | [Chapter 1](modules/module-01/index.qmd) |
+| Polyphenol oxidase (PPO) | Leaf enzyme that darkens crushed tea by oxidizing catechins (key to black tea). | [Chapter 1](modules/module-01/index.qmd) |
+| Present-bias parameter | How strongly someone prefers rewards *now* over better rewards later. | [Chapter 4](modules/module-04/index.qmd) |
+| Skin conductance response (SCR) | Tiny sweat changes that track stress and arousal. | [Chapter 2](modules/module-02/index.qmd) |
+| Theaflavins | Bright golden-red pigments formed while black tea oxidizes. | [Chapter 1](modules/module-01/index.qmd) |
+| Thearubigins | Darker, larger pigments that give black tea body and color. | [Chapter 1](modules/module-01/index.qmd) |
+| Theta brainwaves | Slower drowsy rhythms (about 4–8 Hz), often up with fatigue or alcohol. | [Chapter 2](modules/module-02/index.qmd) |
+| Treaty of Nanking (1842) | Unequal treaty ending the First Opium War: indemnity, five ports, Hong Kong ceded. | [Chapter 3](modules/module-03/index.qmd) |
 
 ## By module
 
-**[Module 1 — leaf and cup](modules/module-01/index.qmd):** *assamica*, *sinensis*, EGCG, L-theanine, PPO, theaflavins, thearubigins  
+**[Chapter 1 — leaf and cup](modules/module-01/index.qmd):** *assamica*, *sinensis*, EGCG, L-theanine, PPO, theaflavins, thearubigins  
 
-**[Module 2 — body and mind](modules/module-02/index.qmd):** adenosine receptors, alpha / beta / theta waves, HRV, HPA axis, skin conductance  
+**[Chapter 2 — body and mind](modules/module-02/index.qmd):** adenosine receptors, alpha / beta / theta waves, HRV, HPA axis, skin conductance  
 
-**[Module 3 — history and ritual](modules/module-03/index.qmd):** Canton System, *Chanyuan Qinggui*, embodied cognition, ERN, insular cortex, *Kissa Yōjōki*, Treaty of Nanking  
+**[Chapter 3 — history and ritual](modules/module-03/index.qmd):** Canton System, *Chanyuan Qinggui*, embodied cognition, ERN, insular cortex, *Kissa Yōjōki*, Treaty of Nanking  
 
-**[Module 4 — decisions](modules/module-04/index.qmd):** BART, dual-process theory, IGT, loss-aversion coefficient, present-bias parameter  
+**[Chapter 4 — decisions](modules/module-04/index.qmd):** BART, dual-process theory, IGT, loss-aversion coefficient, present-bias parameter  

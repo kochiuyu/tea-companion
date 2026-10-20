@@ -1,20 +1,20 @@
 ---
-title: "2.2 Listening to the brain's tempo"
+title: "Section 2 · Listening to the brain's tempo"
 ---
 
 {{< include ../../_includes/lang-switcher/module-02-brainwaves.en.qmd >}}
 
 ::: {.callout-tip}
-**Module 2 · Lesson 2 of 4** — part of [2. Body, Brain & Mood](index.qmd). New here? Start at the [module hub](index.qmd) for the full chapter map.
+**Chapter 2 · Section 2 of 4** — part of [Chapter 2 · Body, Brain & Mood](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
-::: {.callout-note collapse="true" title="How to read this lesson (footnotes + foldouts)"}
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold wave frequencies (Hz), dose tables, and study designs so the open page stays everyday language.
 :::
 
 ## Headphones for the cortex
 
-[Lesson 2.1](01-brain-action.qmd) gave you gas pedals and brakes. This sitting asks whether researchers can *hear* those changes.
+[Chapter 2 · Section 1](01-brain-action.qmd) gave you gas pedals and brakes. This sitting asks whether researchers can *hear* those changes.
 
 Labs place sensors on the scalp and listen to the brain's electrical tempo—like sorting songs by beats per minute. You do **not** need the lab equations. You need a beginner map:
 
@@ -106,7 +106,7 @@ Labs sort brain rhythms by speed. L-theanine often lifts resting calm-focus. Caf
 If a blog collapses both into "theanine = alpha = Zen," it skipped the state dependence the packs already warned about.
 :::
 
-::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Lesson 2.2"}
+::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 2 · Section 2"}
 1. Calm-focus (alpha) ≈ selective attention—but **context matters**.
 2. Busy-alert (beta) ≈ alert/tense; drowsy/sedation bands (theta/delta) ≈ fatigue in these packs.
 3. State dependence is not a loophole—it is the finding.
@@ -115,12 +115,12 @@ If a blog collapses both into "theanine = alpha = Zen," it skipped the state dep
 :::
 
 ::: {.callout-note collapse="true" title="More detail: alcohol as the slow-band contrast"}
-Alcohol is in this lesson as a contrast, not as a tea tip. As effects deepen, slower bands linked with fatigue and sedation rise in classic human EEG work.[^2] That is the opposite narrative from tea's dual "awake + calm focus" pitch: not merely less caffeine, but a different network story. Keep the contrast for Module 2's closing picture on the hub.
+Alcohol is in this lesson as a contrast, not as a tea tip. As effects deepen, slower bands linked with fatigue and sedation rise in classic human EEG work.[^2] That is the opposite narrative from tea's dual "awake + calm focus" pitch: not merely less caffeine, but a different network story. Keep the contrast for Chapter 2's closing picture on the hub.
 :::
 
 ---
 
-**Navigate:** [↑ Module 2 hub](index.qmd) · [← Previous](01-brain-action.qmd) · [Next →](03-stress-hormones.qmd)
+**Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Previous](01-brain-action.qmd) · [Next →](03-stress-hormones.qmd)
 
 [^1]: Barry, R. J., et al. (2005). Caffeine effects on resting-state EEG, subjective alertness and arousal. *Neuropsychobiology, 51*(2), 89–95.
 
