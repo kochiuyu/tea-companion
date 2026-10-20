@@ -20,6 +20,8 @@ This site is a **story-shaped journey** through tea—leaves, body and mood, his
 | If you want… | Open |
 | --- | --- |
 | **Labels** — what *English Breakfast*, *sencha*, *matcha*, bag vs loose usually mean | [Tea basics](tea-basics.qmd) |
+| **Kitchen complaints** — bitter, flat, cloudy, second steep → which dial | [Kitchen troubleshoot](tea-troubleshoot.qmd) |
+| **Study headlines** — five questions before you believe “tea improves decisions” | [Reading a tea study](tea-reading-studies.qmd) |
 | **Numbers** — typical milligrams in a 250 mL mug | [Cup reference](cup-reference.qmd) |
 | **The full story** — four chapters, sixteen sections | [Chapters overview](modules/index.qmd) |
 
@@ -52,4 +54,4 @@ When you wonder how a brewing fact connects to mood, or a warm mug to a trust ga
 
 When you want the paper behind a name-and-year—or a footnote marker on a lesson page—click the footnote or open the [Bibliography](bibliography.qmd).
 
-Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) if labels feel confusing, then [Chapter 1: The Chemical Core](modules/module-01/index.qmd)—or skim the [roadmap](modules/index.qmd) first.
+Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) if labels feel confusing, [Kitchen troubleshoot](tea-troubleshoot.qmd) if the mug already went wrong, or [Reading a tea study](tea-reading-studies.qmd) before you trust a headline—then [Chapter 1: The Chemical Core](modules/module-01/index.qmd)—or skim the [roadmap](modules/index.qmd) first.

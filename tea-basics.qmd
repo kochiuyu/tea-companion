@@ -165,7 +165,7 @@ When you want chapter jargon (*[PPO](glossary.qmd#ppo)*, *[theaflavins](glossary
 
 ## Where to go next
 
-New to tea labels? You are in the right place. Ready for the chemistry story those labels sit on? Start [Chapter 1: The Chemical Core](modules/module-01/index.qmd). Want numbers for a standard mug first? Open the [Cup reference](cup-reference.qmd).
+New to tea labels? You are in the right place. Ready for the chemistry story those labels sit on? Start [Chapter 1: The Chemical Core](modules/module-01/index.qmd). Want numbers for a standard mug first? Open the [Cup reference](cup-reference.qmd). Cup already poured and something feels off? Open [Kitchen troubleshoot](tea-troubleshoot.qmd). Reading a confident tea headline? Open [Reading a tea study](tea-reading-studies.qmd).
 
 [^1]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html (Notes that herbal teas are made from leaves of other plants and should name the plant.)
 
