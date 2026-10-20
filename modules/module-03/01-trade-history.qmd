@@ -22,7 +22,7 @@ If Chapter 1 asked *what plant is in the cup*, this lesson asks *who controlled 
 
 ## Silver flowed east
 
-In the **Canton System** era (1757–1842), Western maritime trade with Qing China was funneled through Canton (Guangzhou). Buyers paid for Chinese tea, silk, and porcelain largely in **physical silver**. Britain wanted tea; Qing China wanted little that Britain made in return. Silver flowed east, and British merchants and the East India Company looked for a way to reverse the drain.[^1][^2]
+In the **[Canton System](../../glossary.qmd#canton-system)** era (1757–1842), Western maritime trade with Qing China was funneled through Canton (Guangzhou). Buyers paid for Chinese tea, silk, and porcelain largely in **physical silver**. Britain wanted tea; Qing China wanted little that Britain made in return. Silver flowed east, and British merchants and the East India Company looked for a way to reverse the drain.[^1][^2]
 
 Historical tallies put the early strain in hard numbers: between **1710 and 1759**, the Company exported about **£26.5 million** in silver bullion to Canton—over **90%** of its outbound export value to China in that window (Pritchard, 1936 source). That is not a metaphor for "trade imbalance." It is bullion on ships.
 
@@ -58,7 +58,7 @@ That is why a "cheap bag" story that starts in 1842 is already late. For decades
 
 ## War, treaty, and open ports
 
-The First Opium War (1839–1842) ended with British victory and the **Treaty of Nanking** (29 August 1842; ratified 26 June 1843): five treaty ports opened, Hong Kong Island ceded, the Cohong monopoly abolished, and a large indemnity imposed.[^1][^3][^4]
+The First Opium War (1839–1842) ended with British victory and the **[Treaty of Nanking](../../glossary.qmd#treaty-of-nanking)** (29 August 1842; ratified 26 June 1843): five treaty ports opened, Hong Kong Island ceded, the Cohong monopoly abolished, and a large indemnity imposed.[^1][^3][^4]
 
 Ports often listed include Canton, Amoy, Foochow, Ningpo, and Shanghai.[^3][^4] The indemnity was large—on the order of **21 million** silver dollars in the sources' teaching tallies—with the dollar slices and article-number fine print living in the foldouts (the treaty text and the teaching shorthand do not label every slice the same way).
 

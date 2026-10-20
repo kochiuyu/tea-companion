@@ -26,7 +26,7 @@ Labs place sensors on the scalp and listen to the brain's electrical tempo—lik
 
 Researchers sort brain rhythms into families. In this course's plain map:
 
-- A **calm-focus** rhythm is often linked with selective attention—especially when you are resting with eyes closed. L-theanine is often linked with this family.[^1][^3]
+- A **calm-focus** rhythm is often linked with selective attention—especially when you are resting with eyes closed. [L-theanine](../../glossary.qmd#l-theanine) is often linked with this family.[^1][^3]
 - A **busy-alert** rhythm is active focus—or anxiety. Caffeine alone leans this way; early alcohol can reduce it.[^1]
 - A **drowsy / fatigue** rhythm is closer to nodding off. It often rises as alcohol effects deepen; caffeine can reduce it.[^2]
 - A **deep-sedation** family shows up more with higher alcohol doses.[^2]

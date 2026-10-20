@@ -26,7 +26,7 @@ You do not need formal labels for the open story. Think **fast blurt** versus **
 
 ## Why the cup might move the dimmer
 
-Tea patterns in the cited studies are described as helping keep impulsive reactions in check, with L-theanine and caffeine together linked with longer careful focus.[^2] That is not "tea makes you wise." It is closer to: *the spotlight stays steadier on a boring attention task.*
+Tea patterns in the cited studies are described as helping keep impulsive reactions in check, with [L-theanine](../../glossary.qmd#l-theanine) and caffeine together linked with longer careful focus.[^2] That is not "tea makes you wise." It is closer to: *the spotlight stays steadier on a boring attention task.*
 
 Coffee under stress can push rapid shortcuts. It may help simple arithmetic—the kind of work that rewards speed—but can suffer on complex reflective tasks when time pressure or anxiety is already high (Rogers et al., 2013 source). Alcohol makes the fast blurt dominant and careful control drops sharply—the classic idea that intoxication narrows attention to the most immediate cues.[^3]
 
@@ -136,7 +136,7 @@ Drinks nudge where the dimmer sits under load. They do not install a new persona
 
 ## Story in one minute
 
-Quiz-show speed blurts; homework patience checks. Tea-plus-caffeine designs in the sources more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure; alcohol shrinks the spotlight to the immediate. Formal System 1/2 labels and dose tables live behind the click.
+Quiz-show speed blurts; homework patience checks. Tea-plus-caffeine designs in the sources more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure; alcohol shrinks the spotlight to the immediate. Formal [System 1 / System 2](../../glossary.qmd#dual-process-theory) labels and dose tables live behind the click.
 
 ::: {.callout-tip title="You can stop here"}
 - Everyday idea: quiz-show blurt vs homework patience—formal System 1/2 labels live in foldouts.

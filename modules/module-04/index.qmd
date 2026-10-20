@@ -14,7 +14,7 @@ Drinks do not flip a magic "smart switch." They can **nudge** how fast you answe
 
 Imagine a balloon on a computer screen. Each pump earns a little money and raises the chance of a pop that wipes the trial. How far do you push?
 
-Now imagine the same task after alcohol, or after a matched theanine-caffeine drink, or after a washout weekend with no coffee. That is the flavor of evidence in this chapter: small, timed, artificial—and still useful if you refuse to overclaim.
+Now imagine the same task after alcohol, or after a matched [L-theanine](../../glossary.qmd#l-theanine)-caffeine drink, or after a washout weekend with no coffee. That is the flavor of evidence in this chapter: small, timed, artificial—and still useful if you refuse to overclaim.
 
 Why does that scene matter? Because it turns a vague slogan—"tea makes you wiser"—into a question you can watch: *under this drink state, how far do people push, how patiently do they wait, how much do they send on a first move?* The answer is never "always" or "never." It is "a nudge, under these conditions, with these caveats."
 

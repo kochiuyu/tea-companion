@@ -24,7 +24,7 @@ Imagine a fire alarm (real stress) and also a loud caffeine "boost" siren.
 
 - Caffeine can push the stress-chemistry loop and raise cortisol.
 - With daily caffeine use, that *caffeine-driven* siren often gets quieter over days—but the fire alarm of **real stress** can still ring.[^5]
-- L-theanine is studied for helping keep heart rate, blood pressure, stress-linked enzymes, and how stressed people *feel* nearer baseline when the load is on.[^1][^3][^4]
+- [L-theanine](../../glossary.qmd#l-theanine) is studied for helping keep heart rate, blood pressure, stress-linked enzymes, and how stressed people *feel* nearer baseline when the load is on.[^1][^3][^4]
 
 In everyday clothes: habit can quiet the caffeine siren. It does not delete the fire alarm. That is exactly where L-theanine studies earn their keep.
 
@@ -57,7 +57,7 @@ Acute caffeine can raise cortisol a lot. With daily use in the hundreds of milli
 
 ## A bridge into Chapter 4
 
-This hormone thread also reaches forward into Chapter 4: when stress chemistry rises, people can become more aggressive risk seekers in some lab settings. Softened loss aversion under pressure is one of the bridges on the [Linkages](../../linkages.qmd) page.
+This hormone thread also reaches forward into Chapter 4: when stress chemistry rises, people can become more aggressive risk seekers in some lab settings. Softened [loss aversion](../../glossary.qmd#loss-aversion-lambda) under pressure is one of the bridges on the [Linkages](../../linkages.qmd) page.
 
 Hormones are still somewhat invisible. What can you see on the outside of the body?
 

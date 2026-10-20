@@ -63,7 +63,7 @@ Start with [Tea basics](../tea-basics.qmd), then [Chapter 1 hub](module-01/index
 Start with [Cup reference](../cup-reference.qmd), then [Chapter 1 · Section 3 · Brewing](module-01/03-brewing.qmd) and [Chapter 1 · Section 4 · Compounds](module-01/04-compounds.qmd).
 
 **"Why awake but not jittery?"**  
-Go to [Chapter 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#why-waiting-after-the-first-sip-matters) bridge on L-theanine timing and calm brain waves.
+Go to [Chapter 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#why-waiting-after-the-first-sip-matters) bridge on [L-theanine](../glossary.qmd#l-theanine) timing and calm brain waves.
 
 **"Is tea only chemistry?"**  
 No. [Chapter 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, warm mugs, brewing breaks.

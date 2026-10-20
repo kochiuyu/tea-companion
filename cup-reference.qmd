@@ -5,11 +5,11 @@ title: "Cup reference"
 
 Before Chapter 1 talks about plants and processing, and before Chapter 2 talks about how you *feel*, it helps to know what "a cup" even means. People say the phrase casually. Labs and home kitchens mean very different strengths. If the *words on the box* still feel disconnected from the chemistry, skim [Tea basics](tea-basics.qmd) first (aisle labels → processing paths), then come back here for milligrams.
 
-This page standardizes on a **250 mL** cup and lists typical lab and consumer-brew ranges used on this site. Use it as a **map**, not a promise about your exact mug. When a chapter mentions "200 mg L-theanine," come back here and compare: that lab capsule is often much stronger than one ordinary mug. Tap a footnote marker to jump to the source (and the caret to jump back). Hover often shows a popup.
+This page standardizes on a **250 mL** cup and lists typical lab and consumer-brew ranges used on this site. Use it as a **map**, not a promise about your exact mug. When a chapter mentions "200 mg [L-theanine](glossary.qmd#l-theanine)," come back here and compare: that lab capsule is often much stronger than one ordinary mug. Tap a footnote marker to jump to the source (and the caret to jump back). Hover often shows a popup.
 
 ## Why the numbers move
 
-Leaf quality, brand, and steep time move the numbers. Green and black tea also differ because of processing (see [Chapter 1 · Brewing](modules/module-01/03-brewing.qmd) and [Compounds](modules/module-01/04-compounds.qmd)): many catechins stay simple in green tea; in black tea many are linked into darker pigments, so EGCG and total catechins in the cup are usually much lower [^1][^2].
+Leaf quality, brand, and steep time move the numbers. Green and black tea also differ because of processing (see [Chapter 1 · Brewing](modules/module-01/03-brewing.qmd) and [Compounds](modules/module-01/04-compounds.qmd)): many catechins stay simple in green tea; in black tea many are linked into darker pigments, so [EGCG](glossary.qmd#egcg) and total catechins in the cup are usually much lower [^1][^2].
 
 The table uses a common everyday baseline: **2 g dry leaf per 250 mL** (one bag or a modest spoonful). Formal tasting (ISO 3103) uses about **2 g per 100 mL** (about **5 g per 250 mL**)—stronger than many home cups.
 

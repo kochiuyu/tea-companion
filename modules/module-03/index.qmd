@@ -63,7 +63,7 @@ Chemistry explains why a leaf can wake you. History explains why that leaf is in
 
 Put another way: Chapter 2 measured calm alertness with EEG and cortisol. Chapter 3 asks what humans have *done* with that calm alertness for centuries—meditate, negotiate, trade, colonize, and sometimes simply sit. Needham's long history of Chinese botany and Benn's religious-cultural history are reminders that tea was never only a stimulant molecule wandering in search of a Western lab [^3].
 
-If you take only one sentence from this chapter into Chapter 4, take this one: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and L-theanine. That is why careful decision studies try to lock mug temperature and bitterness—and why a headline that ignores them is incomplete.
+If you take only one sentence from this chapter into Chapter 4, take this one: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and [L-theanine](../../glossary.qmd#l-theanine). That is why careful decision studies try to lock mug temperature and bitterness—and why a headline that ignores them is incomplete.
 
 ## Looking ahead
 

@@ -27,39 +27,39 @@ lang: zh-Hant-HK
 
 | 詞條 | 淺白解釋 | 主要出現於 |
 | --- | --- | --- |
-| 腺苷受體（A1、A2A） | 腦裡負責「慢下來、想睡」的感應器；咖啡因把它們擋住，你就保持清醒。 | [第二章](modules/module-02/index.qmd) |
-| 阿法腦波（Alpha） | 較慢、平靜而專注時的腦節奏（約 8–12 赫茲），常與茶氨酸一併提起。 | [第二章](modules/module-02/index.qmd) |
-| 前島葉皮質 | 一個既處理體溫、又處理信任和同理心等感受的腦區。 | [第三章](modules/module-03/index.qmd) |
-| 氣球類比風險任務（BART） | 一個電腦遊戲：看你肯把虛擬氣球打氣到多大，藉此量度冒險傾向。 | [第四章](modules/module-04/index.qmd) |
-| 貝他腦波（Beta） | 較快、警覺（或焦慮）時的腦節奏（約 12–30 赫茲），喝咖啡因後常會上升。 | [第二章](modules/module-02/index.qmd) |
-| 阿薩姆大葉種（*Camellia sinensis* var. *assamica*） | 大葉、熱帶型的茶樹；咖啡因往往較高，苦味也較重。 | [第一章](modules/module-01/index.qmd) |
-| 中國小葉種（*Camellia sinensis* var. *sinensis*） | 小葉、較耐寒的中國型茶樹；茶氨酸和香氣往往較豐富。 | [第一章](modules/module-01/index.qmd) |
-| 廣州貿易制度（一口通商） | 清朝（1757–1842）把西方貿易集中在廣州、並要求以白銀付款的規定。 | [第三章](modules/module-03/index.qmd) |
-| 《禪苑清規》 | 禪宗寺院的規約（1103），把飲茶定為講求紀律、保持清醒的正式儀規。 | [第三章](modules/module-03/index.qmd) |
-| 雙重歷程理論 | 認為人做決定時，既用快速的直覺（系統一），也用緩慢的細想（系統二）。 | [第四章](modules/module-04/index.qmd) |
-| 表沒食子兒茶素沒食子酸酯（EGCG） | 綠茶裡最突出的兒茶素，佔綠茶多酚很大一部分。 | [第一章](modules/module-01/index.qmd) |
-| 具身認知 | 一種說法：身體感覺（例如溫暖）可以左右我們對人的判斷。 | [第三章](modules/module-03/index.qmd) |
-| 錯誤相關負波（ERN） | 犯錯後大腦立刻發出的「糟了」訊號；儀式可以令它減弱。 | [第三章](modules/module-03/index.qmd) |
-| 心率變異性（HRV） | 心跳與心跳之間的間隔有多大變化；較高往往代表身體較能從容調節。 | [第二章](modules/module-02/index.qmd) |
-| 下丘腦–垂體–腎上腺軸（HPA 軸） | 身體最主要的壓力荷爾蒙迴路（大腦 → 垂體 → 腎上腺）。 | [第二章](modules/module-02/index.qmd) |
-| 愛荷華賭博任務（IGT） | 一個紙牌遊戲，測試人能否從長遠的得失中學習。 | [第四章](modules/module-04/index.qmd) |
-| 《喫茶養生記》 | 榮西在 1211 年寫的短論，提倡喝茶養生、提神。 | [第三章](modules/module-03/index.qmd) |
-| 損失厭惡係數（λ） | 損失比同等的得益「痛」多少倍；大於 1 即表示厭惡損失。 | [第四章](modules/module-04/index.qmd) |
-| 茶氨酸（L-theanine） | 茶裡一種令人放鬆的胺基酸，有助平靜地專注。 | [第一章](modules/module-01/index.qmd) |
-| 多酚氧化酶（PPO） | 茶葉裡的酶，會氧化兒茶素，令壓碎的茶葉變深色（做紅茶的關鍵）。 | [第一章](modules/module-01/index.qmd) |
-| 現時偏誤參數 | 一個人有多偏愛*即時*的獎賞，寧願放棄日後更好的獎賞。 | [第四章](modules/module-04/index.qmd) |
-| 皮膚電導反應（SCR） | 皮膚微量出汗的變化，可反映壓力和興奮程度。 | [第二章](modules/module-02/index.qmd) |
-| 茶黃素 | 紅茶氧化時生成的鮮亮金紅色色素。 | [第一章](modules/module-01/index.qmd) |
-| 茶紅素 | 較深色、分子較大的色素，給紅茶厚度和顏色。 | [第一章](modules/module-01/index.qmd) |
-| 西他腦波（Theta） | 較慢、昏昏欲睡時的腦節奏（約 4–8 赫茲），疲倦或喝酒後常會上升。 | [第二章](modules/module-02/index.qmd) |
-| 《南京條約》（1842） | 結束第一次鴉片戰爭的不平等條約：賠款、開放五口通商、割讓香港。 | [第三章](modules/module-03/index.qmd) |
+| <span id="adenosine-receptors">腺苷受體（A1、A2A）</span> | 腦裡負責「慢下來、想睡」的感應器；咖啡因把它們擋住，你就保持清醒。 | [第二章](modules/module-02/index.qmd) |
+| <span id="alpha-brainwaves">阿法腦波（Alpha）</span> | 較慢、平靜而專注時的腦節奏（約 8–12 赫茲），常與茶氨酸一併提起。 | [第二章](modules/module-02/index.qmd) |
+| <span id="anterior-insular-cortex">前島葉皮質</span> | 一個既處理體溫、又處理信任和同理心等感受的腦區。 | [第三章](modules/module-03/index.qmd) |
+| <span id="bart">氣球類比風險任務（BART）</span> | 一個電腦遊戲：看你肯把虛擬氣球打氣到多大，藉此量度冒險傾向。 | [第四章](modules/module-04/index.qmd) |
+| <span id="beta-brainwaves">貝他腦波（Beta）</span> | 較快、警覺（或焦慮）時的腦節奏（約 12–30 赫茲），喝咖啡因後常會上升。 | [第二章](modules/module-02/index.qmd) |
+| <span id="assamica">阿薩姆大葉種（*Camellia sinensis* var. *assamica*）</span> | 大葉、熱帶型的茶樹；咖啡因往往較高，苦味也較重。 | [第一章](modules/module-01/index.qmd) |
+| <span id="sinensis">中國小葉種（*Camellia sinensis* var. *sinensis*）</span> | 小葉、較耐寒的中國型茶樹；茶氨酸和香氣往往較豐富。 | [第一章](modules/module-01/index.qmd) |
+| <span id="canton-system">廣州貿易制度（一口通商）</span> | 清朝（1757–1842）把西方貿易集中在廣州、並要求以白銀付款的規定。 | [第三章](modules/module-03/index.qmd) |
+| <span id="chanyuan-qinggui">《禪苑清規》</span> | 禪宗寺院的規約（1103），把飲茶定為講求紀律、保持清醒的正式儀規。 | [第三章](modules/module-03/index.qmd) |
+| <span id="dual-process-theory">雙重歷程理論</span> | 認為人做決定時，既用快速的直覺（系統一），也用緩慢的細想（系統二）。 | [第四章](modules/module-04/index.qmd) |
+| <span id="egcg">表沒食子兒茶素沒食子酸酯（EGCG）</span> | 綠茶裡最突出的兒茶素，佔綠茶多酚很大一部分。 | [第一章](modules/module-01/index.qmd) |
+| <span id="embodied-cognition">具身認知</span> | 一種說法：身體感覺（例如溫暖）可以左右我們對人的判斷。 | [第三章](modules/module-03/index.qmd) |
+| <span id="ern">錯誤相關負波（ERN）</span> | 犯錯後大腦立刻發出的「糟了」訊號；儀式可以令它減弱。 | [第三章](modules/module-03/index.qmd) |
+| <span id="hrv">心率變異性（HRV）</span> | 心跳與心跳之間的間隔有多大變化；較高往往代表身體較能從容調節。 | [第二章](modules/module-02/index.qmd) |
+| <span id="hpa-axis">下丘腦–垂體–腎上腺軸（HPA 軸）</span> | 身體最主要的壓力荷爾蒙迴路（大腦 → 垂體 → 腎上腺）。 | [第二章](modules/module-02/index.qmd) |
+| <span id="igt">愛荷華賭博任務（IGT）</span> | 一個紙牌遊戲，測試人能否從長遠的得失中學習。 | [第四章](modules/module-04/index.qmd) |
+| <span id="kissa-yojoki">《喫茶養生記》</span> | 榮西在 1211 年寫的短論，提倡喝茶養生、提神。 | [第三章](modules/module-03/index.qmd) |
+| <span id="loss-aversion-lambda">損失厭惡係數（λ）</span> | 損失比同等的得益「痛」多少倍；大於 1 即表示厭惡損失。 | [第四章](modules/module-04/index.qmd) |
+| <span id="l-theanine">茶氨酸（L-theanine）</span> | 茶裡一種令人放鬆的胺基酸，有助平靜地專注。 | [第一章](modules/module-01/index.qmd) |
+| <span id="ppo">多酚氧化酶（PPO）</span> | 茶葉裡的酶，會氧化兒茶素，令壓碎的茶葉變深色（做紅茶的關鍵）。 | [第一章](modules/module-01/index.qmd) |
+| <span id="present-bias">現時偏誤參數</span> | 一個人有多偏愛*即時*的獎賞，寧願放棄日後更好的獎賞。 | [第四章](modules/module-04/index.qmd) |
+| <span id="scr">皮膚電導反應（SCR）</span> | 皮膚微量出汗的變化，可反映壓力和興奮程度。 | [第二章](modules/module-02/index.qmd) |
+| <span id="theaflavins">茶黃素</span> | 紅茶氧化時生成的鮮亮金紅色色素。 | [第一章](modules/module-01/index.qmd) |
+| <span id="thearubigins">茶紅素</span> | 較深色、分子較大的色素，給紅茶厚度和顏色。 | [第一章](modules/module-01/index.qmd) |
+| <span id="theta-brainwaves">西他腦波（Theta）</span> | 較慢、昏昏欲睡時的腦節奏（約 4–8 赫茲），疲倦或喝酒後常會上升。 | [第二章](modules/module-02/index.qmd) |
+| <span id="treaty-of-nanking">《南京條約》（1842）</span> | 結束第一次鴉片戰爭的不平等條約：賠款、開放五口通商、割讓香港。 | [第三章](modules/module-03/index.qmd) |
 
 ## 按章分類
 
-**[第一章——茶葉與茶杯](modules/module-01/index.qmd)：** 阿薩姆大葉種、中國小葉種、EGCG、茶氨酸、多酚氧化酶、茶黃素、茶紅素 
+**[第一章——茶葉與茶杯](modules/module-01/index.qmd)：** [阿薩姆大葉種](#assamica)、[中國小葉種](#sinensis)、[EGCG](#egcg)、[茶氨酸](#l-theanine)、[多酚氧化酶](#ppo)、[茶黃素](#theaflavins)、[茶紅素](#thearubigins) 
 
-**[第二章——身體與心靈](modules/module-02/index.qmd)：** 腺苷受體、阿法／貝他／西他腦波、心率變異性、HPA 軸、皮膚電導 
+**[第二章——身體與心靈](modules/module-02/index.qmd)：** [腺苷受體](#adenosine-receptors)、[阿法](#alpha-brainwaves)／[貝他](#beta-brainwaves)／[西他](#theta-brainwaves)腦波、[心率變異性](#hrv)、[HPA 軸](#hpa-axis)、[皮膚電導](#scr) 
 
-**[第三章——歷史與儀式](modules/module-03/index.qmd)：** 廣州貿易制度、《禪苑清規》、具身認知、錯誤相關負波、島葉皮質、《喫茶養生記》、《南京條約》 
+**[第三章——歷史與儀式](modules/module-03/index.qmd)：** [廣州貿易制度](#canton-system)、[《禪苑清規》](#chanyuan-qinggui)、[具身認知](#embodied-cognition)、[錯誤相關負波](#ern)、[島葉皮質](#anterior-insular-cortex)、[《喫茶養生記》](#kissa-yojoki)、[《南京條約》](#treaty-of-nanking) 
 
-**[第四章——決策](modules/module-04/index.qmd)：** 氣球類比風險任務、雙重歷程理論、愛荷華賭博任務、損失厭惡係數、現時偏誤參數 
+**[第四章——決策](modules/module-04/index.qmd)：** [氣球類比風險任務](#bart)、[雙重歷程理論](#dual-process-theory)、[愛荷華賭博任務](#igt)、[損失厭惡係數](#loss-aversion-lambda)、[現時偏誤參數](#present-bias) 
