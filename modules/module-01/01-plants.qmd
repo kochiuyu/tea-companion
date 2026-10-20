@@ -49,7 +49,7 @@ The draft genome of the cool-hill variety also helps explain why flavor chemistr
 | Polyphenols (dry leaf) | About 15%–25% | About 25%–35% | Borchetia et al. (2009); Takeda (1994)[^5][^4] |
 | L-theanine (dry leaf) | Often higher (about 1.5%–3.0%) | Often moderate (about 0.5%–1.5%) | Wei et al. (2018)[^8] |
 | Caffeine (dry leaf) | About 2.0%–3.5% | About 3.5%–5.5% | Ashihara et al. (2008); Takeda (1994)[^9][^4] |
-| Typical growing area | Cooler, higher hills | Warm, humid lowlands | Carr (2018); packs |
+| Typical growing area | Cooler, higher hills | Warm, humid lowlands | Carr (2018) |
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what the cultivar survey actually measured"}
@@ -57,18 +57,18 @@ Takeda's 1994 Japan Agricultural Research Quarterly survey compared caffeine and
 
 A separate East African clonal study under matched field design likewise found Assam-type clones richer in catechins and total polyphenols than chinary types—useful because it holds growing site roughly constant.[^6]
 
-**What this does *not* say:** your supermarket "Assam" blend is not a single genotype. Blending, plucking standard (two leaves and a bud vs coarser leaf), shade, and fertilizer can move caffeine by percentage points. The pack narrative already notes a shaded, well-fed China-type bud near **4.5%** caffeine and a poorly fed mature Assam leaf near **2.5%**. Averages lean Assam-higher; gardens write the fine print.
+**What this does *not* say:** your supermarket "Assam" blend is not a single genotype. Blending, plucking standard (two leaves and a bud vs coarser leaf), shade, and fertilizer can move caffeine by percentage points. Secondary notes already flag a shaded, well-fed China-type bud near **4.5%** caffeine and a poorly fed mature Assam leaf near **2.5%**. Averages lean Assam-higher; gardens write the fine print.
 :::
 
 ## The myth of "Assam always doubles China caffeine"
 
-Here is a common story people tell: "Assam always has far more caffeine." Average figures often put the warm-lowland style higher—but growing conditions and which leaf you pick matter a lot. A well-fed, shaded cool-hill bud can out-caffeine a neglected warm-lowland leaf in the pack's counter-examples. So "Assam = double caffeine" is too blunt.[^4]
+Here is a common story people tell: "Assam always has far more caffeine." Average figures often put the warm-lowland style higher—but growing conditions and which leaf you pick matter a lot. A well-fed, shaded cool-hill bud can out-caffeine a neglected warm-lowland leaf in the counter-examples below. So "Assam = double caffeine" is too blunt.[^4]
 
 ::: {.callout-note collapse="true" title="More detail: the garden dials that rewrite averages"}
 Three dials move dry-leaf chemistry as much as variety labels do:
 
 1. **Which leaf you pick.** Young buds and the first leaves are usually richer in caffeine and amino acids than older, coarser leaf. "Two leaves and a bud" is not poetry—it is a plucking standard that changes the cup.
-2. **Shade and nitrogen.** Shading (famous in Japanese Gyokuro and tencha for matcha) and generous feeding can lift L-theanine and, in some settings, caffeine in China-type material. That is one reason a shaded China-type bud can out-caffeine a neglected Assam leaf in the pack's counter-example.
+2. **Shade and nitrogen.** Shading (famous in Japanese Gyokuro and tencha for matcha) and generous feeding can lift L-theanine and, in some settings, caffeine in China-type material. That is one reason a shaded China-type bud can out-caffeine a neglected Assam leaf in the counter-example below.
 3. **Blending.** Grocery "Assam" or "English Breakfast" is often a blend across gardens and seasons. The label names a *style*, not a single bush.
 
 Cold hardiness is another quiet dial: Ban and colleagues' transcriptome work on cold acclimation helps explain why China-type bushes survive colder hills while Assam-type material prefers warmer basins.[^7] Caffeine biosynthesis reviews (Ashihara and colleagues) keep the biochemical map of how the plant makes the stimulant in the first place.[^9]

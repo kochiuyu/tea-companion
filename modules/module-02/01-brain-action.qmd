@@ -48,16 +48,16 @@ In everyday clothes:
 **Two light study snapshots (read the doses):**
 
 - **Caffeine and dopamine receptors:** a PET study by Volkow and colleagues found that oral caffeine increased striatal D2/D3 receptor availability. The published dose is **300 mg** caffeine (not the 200 mg sometimes listed in secondary tables); the increase was on the order of a few percent in putamen/ventral striatum—sensitivity talk, not a huge dopamine dump.[^6]
-- **L-theanine binding:** Kakuda binding work shows low-affinity competition at glutamate-related sites (IC50 on the order of **~10 mM**)—much weaker than glutamate itself. Pack tables sometimes cite an oral **200 mg** L-theanine plasma-GABA rise over two hours; treat that as a pack-sourced snapshot. The primary Kakuda trail still frames calming effects mainly through low-affinity glutamate antagonism plus milder, indirect GABA facilitation—not a direct GABA_A agonist story.[^2][^3]
+- **L-theanine binding:** Kakuda binding work shows low-affinity competition at glutamate-related sites (IC50 on the order of **~10 mM**)—much weaker than glutamate itself. Secondary tables sometimes cite an oral **200 mg** L-theanine plasma-GABA rise over two hours; treat that as a secondary snapshot. The primary Kakuda trail still frames calming effects mainly through low-affinity glutamate antagonism plus milder, indirect GABA facilitation—not a direct GABA_A agonist story.[^2][^3]
 
-**Honesty check on the "GABA booster" slogan.** Secondary wellness copy often calls L-theanine a "GABA booster." The packs' primary trail says it does **not** bind GABA_A / GABA_B active sites as an agonist; calming effects are framed mainly as low-affinity glutamate-receptor antagonism plus milder, indirect GABA facilitation.[^2][^3]
+**Honesty check on the "GABA booster" slogan.** Secondary wellness copy often calls L-theanine a "GABA booster." The primary papers say it does **not** bind GABA_A / GABA_B active sites as an agonist; calming effects are framed mainly as low-affinity glutamate-receptor antagonism plus milder, indirect GABA facilitation.[^2][^3]
 :::
 
 ## Tea's dual story—without overselling
 
 Tea's dual story—caffeine **plus** L-theanine—helps explain why many people describe tea as "awake but not as jittery as coffee." Volunteer studies that give both compounds together often find better attention switching and less distractibility than caffeine alone at modest doses.[^7][^8][^9]
 
-The packs still warn against overselling. Here is a common story people tell: "L-theanine is a direct brain-calm booster" (wellness aisles often name a specific brake chemical). Secondary blurbs often say that. A better everyday phrase is: **it gently turns down excess go-chatter and supports calmer attention**—not "it is a sedative sleeping pill." Open the foldout above for the precise lab names.
+The sources still warn against overselling. Here is a common story people tell: "L-theanine is a direct brain-calm booster" (wellness aisles often name a specific brake chemical). Secondary blurbs often say that. A better everyday phrase is: **it gently turns down excess go-chatter and supports calmer attention**—not "it is a sedative sleeping pill." Open the foldout above for the precise lab names.
 
 ::: {.callout-tip collapse="true" title="More detail: coffee vs tea in one paragraph"}
 Coffee is mostly a **caffeine delivery system** (plus other coffee compounds outside this course's three-guest cast). Tea usually delivers **less caffeine than a large coffee** *and* a second compound coffee does not share: **L-theanine**. Chapter 1's timing still matters—L-theanine blood peaks and many attention findings sit tens of minutes after drinking, not at the first sip. Lab capsules are not grocery bags; keep the [Cup reference](../../cup-reference.qmd) nearby.

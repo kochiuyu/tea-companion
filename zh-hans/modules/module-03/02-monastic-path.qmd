@@ -209,10 +209,10 @@ lang: zh-Hans
 
 [^6]: Yifa. (2002). *The Origins of Buddhist Monastic Codes in China: An Annotated Translation of the Chanyuan Qinggui* (pp. 114–118). University of Hawaii Press.
 
-[^7]: Lu, Yu (c. 760). *The Classic of Tea*. Translation by Carpenter, F. R. (1974). Little, Brown and Company. (Pack-cited boiling stages, pp. 85–92.)
+[^7]: Lu, Yu (c. 760). *The Classic of Tea*. Translation by Carpenter, F. R. (1974). Little, Brown and Company. (Cited boiling stages, pp. 85–92.)
 
 [^8]: *The Classic of Tea* (*Cha Jing*). Overview of the three-scrolls / ten-chapters structure and Chapter 5 (Boiling). https://en.wikipedia.org/wiki/The_Classic_of_Tea
 
 [^9]: Lu Yu. *Cha Jing*, Chapter 5 (*五之煮*). Chinese Text (Wikisource). Fish-eye / pearl-string / billowing-wave boil stages. https://zh.wikisource.org/wiki/%E8%8C%B6%E7%B6%93/%E4%BA%94%E4%B9%8B%E7%85%AE
 
-[^10]: Pack historiography note on the Bodhidharma eyelid legend: absent from early Chinese Chan collections such as the *Jingde chuandeng lu* (*Records of the Transmission of the Lamp*, 1004); appears later in Jesuit travel writing and late-Edo Japanese popular books as allegory rather than early monastic record. (Module 3 socio-ritual pack verification note.)
+[^10]: Historiography note on the Bodhidharma eyelid legend: absent from early Chinese Chan collections such as the *Jingde chuandeng lu* (*Records of the Transmission of the Lamp*, 1004); appears later in Jesuit travel writing and late-Edo Japanese popular books as allegory rather than early monastic record. (Module 3 historiography note.)

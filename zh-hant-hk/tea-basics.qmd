@@ -184,17 +184,17 @@ lang: zh-Hant-HK
 
 [^4]: Wong, M., et al. (2022). Phytochemical profile of differently processed tea: A review. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.16137 (Green / white / oolong / black / pu-erh as processing categories.)
 
-[^5]: Source packs (Module 1 verification): ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See also Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [Chapter 1](modules/module-01/index.qmd).
+[^5]: 普通烏龍／紅茶所謂「發酵」實為酶促氧化；真正的微生物發酵主要出現在普洱等後發酵黑茶。見 Subramanian et al. (1999) 與 Tanaka & Kouno (2003)，亦見[第一章](modules/module-01/index.qmd)。
 
 [^6]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark) sorted by processing and oxidation—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
 [^7]: Kyoto Prefectural Tea Industry Chamber. Types of tea (sencha; matcha/tencha). https://www.ujicha.or.jp/en/knowledge/kinds/
 
-[^8]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071 (Pack cup-reference baseline; shaded gyokuro/matcha noted higher.)
+[^8]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071 (Cup-reference baseline; shaded gyokuro/matcha noted higher.)
 
-[^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Pack-cited naming frame for China-type vs Assam-type talk.)
+[^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Naming frame for China-type vs Assam-type talk.)
 
-[^10]: Pack Module 1 verification note on caffeine averages vs growing conditions; Takeda (1994) cultivar survey as used in [Chapter 1](modules/module-01/index.qmd).
+[^10]: 咖啡因平均值與種植條件；Takeda (1994) 品種調查，見[第一章](modules/module-01/index.qmd)。
 
 [^11]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html (Formal ~2 g / 100 mL vs everyday ~2 g / 250 mL baseline on Cup reference.)
 

@@ -4,7 +4,7 @@ title: "Linkages"
 
 {{< include _includes/lang-switcher/linkages.en.qmd >}}
 
-The four chapters can be read as separate rooms. This page is the hallway between them—eleven bridges from the Cross-Branch Linkages pack, rewritten so you can *feel* why a brewing fact matters for mood, or why a warm mug shows up in a trust game.
+The four chapters can be read as separate rooms. This page is the hallway between them—eleven bridges across the chapters, rewritten so you can *feel* why a brewing fact matters for mood, or why a warm mug shows up in a trust game.
 
 No new links were invented. Citations stay the same. Think of each bridge as a thread someone pulls, and suddenly two chapters lean toward each other.
 
@@ -13,7 +13,7 @@ For fuller citations with URLs and DOIs, open each chapter and use its **clickab
 **Warmth caveat (from Chapter 3's fact-check):** the opening-trust nudge from a warm mug is real in some cited designs, but large replications of the classic gift-choice warmth effect have often failed—so treat bridge 2 as a careful hint, not a negotiation trick.
 
 ::: {.callout-note collapse="true" title="Click for more detail: how to use these eleven bridges"}
-Each bridge is a hallway, not a new claim. Follow the plain connection into the named modules, then use chapter footnotes for DOIs/URLs. Where a pack still listed Brooks et al. (2016) on ritual anxiety, this page now points to Hobson reviews instead—the Brooks article was **retracted in 2024**.
+Each bridge is a hallway, not a new claim. Follow the plain connection into the named modules, then use chapter footnotes for DOIs/URLs. Where older materials still listed Brooks et al. (2016) on ritual anxiety, this page now points to Hobson reviews instead—the Brooks article was **retracted in 2024**.
 :::
 
 You do not have to memorize all eleven. Pick the question you actually have—“why wait after drinking?” “does mug temperature matter?”—and follow that thread into the lessons and the bibliography.
@@ -22,7 +22,7 @@ You do not have to memorize all eleven. Pick the question you actually have—�
 
 ### 1. Why waiting after the first sip matters
 
-L-theanine does not act at the first sip. In the packs, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Chapter 1’s timing note and Chapter 2’s EEG note belong together—the kitchen clock and the lab clock tell the same story.
+L-theanine does not act at the first sip. In the sources, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Chapter 1’s timing note and Chapter 2’s EEG note belong together—the kitchen clock and the lab clock tell the same story.
 
 **Open:** [Chapter 1 · Section 4 Compounds(modules/module-01/04-compounds.qmd) · [Chapter 2 · Section 2 Brain waves(modules/module-02/02-brainwaves.qmd)
 
@@ -30,7 +30,7 @@ L-theanine does not act at the first sip. In the packs, it often peaks in blood 
 
 ### 2. From warm hands to first trust
 
-Chapter 3’s warmth studies and Chapter 4’s Trust Game meet here. Holding a warm (~**60°C**) cup can raise first-mover trust allocations by about **+24.8%** in cited work. The packs link that to warmth–trust overlap in the insula (the brain area that handles both temperature and social feelings). A cozy mug is not a negotiation strategy forever—but it can change the opening move.
+Chapter 3’s warmth studies and Chapter 4’s Trust Game meet here. Holding a warm (~**60°C**) cup can raise first-mover trust allocations by about **+24.8%** in cited work. The sources link that to warmth–trust overlap in the insula (the brain area that handles both temperature and social feelings). A cozy mug is not a negotiation strategy forever—but it can change the opening move.
 
 **Open:** [Chapter 3 · Section 3 Warmth & trust(modules/module-03/03-warmth-trust.qmd) · [Chapter 4 · Section 3 Trust games(modules/module-04/03-trust-games.qmd)
 
@@ -70,7 +70,7 @@ One L-theanine task study is taught with about **+15.4 ms** on a common HRV inde
 
 ### 6. Softening noisy excitement, sustaining attention
 
-L-theanine is linked with quieter excitatory chatter and better sustained attention on hard switching tasks. That is the bridge from Chapter 2’s “gas pedals and brakes” story to Chapter 4’s careful-thinking tasks (for example fewer false alarms on rapid attention tests in the packs). Turning down the chatter helps the careful check.
+L-theanine is linked with quieter excitatory chatter and better sustained attention on hard switching tasks. That is the bridge from Chapter 2’s “gas pedals and brakes” story to Chapter 4’s careful-thinking tasks (for example fewer false alarms on rapid attention tests in the sources). Turning down the chatter helps the careful check.
 
 ::: {.callout-note collapse="true" title="More detail: glutamate signaling"}
 Lab phrasing: by softening excess **glutamate** signaling, L-theanine is linked with better sustained attention. Receptor seats live in [2.1](modules/module-02/01-brain-action.qmd) foldouts.
@@ -94,7 +94,7 @@ One comparison teaches about **+0.88 µS** skin conductance for caffeine alone. 
 
 ### 8. Eisai’s “nourishes the heart,” beside modern HRV tone
 
-Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside modern findings that tea compounds can raise calming rest-and-digest / heart-beat-flexibility tone (Chapter 2). The packs present this as a historical phrase meeting a modern measure—not as proof that Eisai ran an HRV lab. Old language, new meter; same curiosity.
+Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside modern findings that tea compounds can raise calming rest-and-digest / heart-beat-flexibility tone (Chapter 2). The sources present this as a historical phrase meeting a modern measure—not as proof that Eisai ran an HRV lab. Old language, new meter; same curiosity.
 
 **Open:** [Chapter 3 · Section 2 Monastic path(modules/module-03/02-monastic-path.qmd) · [Chapter 2 · Section 4 Body signals(modules/module-02/04-body-signals.qmd)
 
@@ -102,7 +102,7 @@ Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside mod
 
 ### 9. When the brain slows, tomorrow fades
 
-Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong present bias—future costs weigh less (Chapter 4). That is one reason the packs discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
+Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong present bias—future costs weigh less (Chapter 4). That is one reason the sources discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
 
 **Open:** [Chapter 2 · Section 1 Brain action(modules/module-02/01-brain-action.qmd) · [Chapter 4 · Section 2 Risk & waiting(modules/module-04/02-risk-waiting.qmd)
 
@@ -110,7 +110,7 @@ Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong pres
 
 ### 10. Calmer anxiety, less hair-trigger bargaining
 
-Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 3). The packs discuss that alongside fewer hyper-aggressive rejections of unfair offers (Chapter 4 ultimatum patterns). Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
+Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 3). The sources discuss that alongside fewer hyper-aggressive rejections of unfair offers (Chapter 4 ultimatum patterns). Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
 
 **Open:** [Chapter 3 · Section 4 Ritual & stress(modules/module-03/04-ritual-stress.qmd) · [Chapter 4 · Section 3 Trust games(modules/module-04/03-trust-games.qmd)
 

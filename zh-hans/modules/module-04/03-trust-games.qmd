@@ -155,11 +155,11 @@ lang: zh-Hans
 
 [^3]: Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books.
 
-[^4]: Morewedge, C. K., Krishnamurti, T., & Ariely, D. (2014). Focused on fairness: Alcohol intoxication increases the costly rejection of inequitable rewards. *Journal of Experimental Social Psychology, 50*, 15–20. https://doi.org/10.1016/j.jesp.2013.08.006 (Also discussed in *Journal of Behavioral Decision Making* pack citations.)
+[^4]: Morewedge, C. K., Krishnamurti, T., & Ariely, D. (2014). Focused on fairness: Alcohol intoxication increases the costly rejection of inequitable rewards. *Journal of Experimental Social Psychology, 50*, 15–20. https://doi.org/10.1016/j.jesp.2013.08.006 (Also discussed in *Journal of Behavioral Decision Making* source citations.)
 
 [^5]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness. *PLOS ONE, 6*(1), e15836. https://doi.org/10.1371/journal.pone.0015836
 
-[^6]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. (Pack also cites warm-beverage Dilemma cooperation rates in Module 4 additions.)
+[^6]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. (Also cites warm-beverage Dilemma cooperation rates in Module 4 additions.)
 
 [^7]: Lynott, D., et al. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
 

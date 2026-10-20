@@ -22,7 +22,7 @@ Three meters matter for the open story:
 - **Pupil size** — pupils widen when the "go" system is up.
 - **Tiny stress sweat** — sweat-gland changes so small you cannot feel them, but a lab can.[^1]
 
-Tea patterns in the packs often look calmer than coffee alone; alcohol often looks worse for these control signals.
+Tea patterns in the sources often look calmer than coffee alone; alcohol often looks worse for these control signals.
 
 ## What the body quietly admits
 
@@ -34,19 +34,19 @@ In plain patterns from these sources:
 - Caffeine alone can look more **wired** (sweat spikes; pupils can widen).
 - Alcohol often **worsens** control signals.
 
-::: {.callout-note collapse="true" title="More detail: HRV, pupils, skin conductance, and pack numbers"}
-| Measure | Plain meaning | Pattern in these packs |
+::: {.callout-note collapse="true" title="More detail: HRV, pupils, skin conductance, and example numbers"}
+| Measure | Plain meaning | Pattern in the cited studies |
 | --- | --- | --- |
 | Heart rate variability (HRV / RMSSD) | Beat-to-beat flexibility; higher often = more parasympathetic (calmer) tone | Tea / L-theanine linked with higher HF-HRV or RMSSD under load; coffee and alcohol tend to lower HRV |
 | Pupil size | Widens with sympathetic arousal | Caffeine can dilate; alcohol can slow the light reflex |
 | Skin conductance (SCL/SCR) | Tiny stress-sweat changes | Coffee can spike it; tea often steadier |
 | Vessel tone | Constriction vs relaxation | Caffeine can constrict cerebral vessels; L-theanine may counteract via nitric-oxide pathways[^2] |
 
-**Example numbers from the packs (and their papers):**
+**Example numbers from the sources (and their papers):**
 
-- **200 mg L-theanine** during mental arithmetic: heart-rate and stress-marker reductions consistent with less sympathetic drive; one common HRV index up about **15.4 ± 3.2 ms** in the pack narrative of Kimura-linked work.[^3]
-- **Pupil size and caffeine:** pack tables cite about **+0.42 mm** mean pupil diameter under attention tasks with caffeine. Treat the exact millimetre figure as pack-sourced; the broader idea—that pupil dilation tracks locus coeruleus–norepinephrine arousal and mental effort—is grounded in integrative neuroscience reviews.[^4]
-- **200 mg L-theanine + 100 mg caffeine** under stress: skin conductance up only about **0.15 ± 0.04 µS** vs about **+0.88 µS** for caffeine alone in the pack reading of Rogers and colleagues' *Time for tea* design.[^5]
+- **200 mg L-theanine** during mental arithmetic: heart-rate and stress-marker reductions consistent with less sympathetic drive; one common HRV index up about **15.4 ± 3.2 ms** in the narrative of Kimura-linked work.[^3]
+- **Pupil size and caffeine:** secondary tables cite about **+0.42 mm** mean pupil diameter under attention tasks with caffeine. Treat the exact millimetre figure as a secondary snapshot; the broader idea—that pupil dilation tracks locus coeruleus–norepinephrine arousal and mental effort—is grounded in integrative neuroscience reviews.[^4]
+- **200 mg L-theanine + 100 mg caffeine** under stress: skin conductance up only about **0.15 ± 0.04 µS** vs about **+0.88 µS** for caffeine alone in the source reading of Rogers and colleagues' *Time for tea* design.[^5]
 
 Higher HRV during hard thinking is also read as better top-down control—less impulsive, better emotional regulation—not only a "fitness score."[^3] Feeling "wired" has a skin signature too: that ~**+0.88 µS** caffeine-alone bump is measurable arousal, not only a mood word.[^5]
 :::

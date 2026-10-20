@@ -161,9 +161,9 @@ lang: zh-Hans
 - 也代替不了第一章讲的植物和加工——两边一起看：[植物](../module-01/01-plants.qmd) · [加工](../module-01/02-processing.qmd)。
 :::
 
-## 一个经济学家的网站，为什么还要讲这段故事
+## 为什么还要讲白银贸易的规模
 
-本站作者是经济学家。正因如此，更该保持**谦逊**——而不是自己捏造一个清朝白银流动模型。本站已经给了教学用统计（普里查德、马士）和条约骨架。我们转述这些，是为了让初学者摸到白银外流的*规模*，不是假装重估十九世纪的贸易弹性。
+重点是保持**谦逊**——而不是自己捏造一个清朝白银流动模型。下面的教学用统计（普里查德、马士）和条约骨架，是为了让初学者摸到白银外流的*规模*，不是假装重估十九世纪的贸易弹性。
 
 请留意这一节刻意不做的事：
 
@@ -231,7 +231,7 @@ lang: zh-Hans
 
 [^9]: Sharma, J. (2011). *Empire's Garden: Assam and the Making of India*. Duke University Press.
 
-[^10]: Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press. (Pack-cited chest and silver-outflow tallies.)
+[^10]: Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press. (Cited chest and silver-outflow tallies.)
 
 [^11]: Britannica. Canton system; Cohong (hong merchants). https://www.britannica.com/event/Canton-system · https://www.britannica.com/money/cohong
 

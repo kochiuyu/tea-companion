@@ -38,11 +38,11 @@ When you are stressed, the body runs a loop often called the **HPA axis** (brain
 | Morning salivary alpha-amylase during stressful practice | ~200 mg L-theanine twice daily vs placebo | Theanine group showed lower pre-practice sAA and lower subjective stress during a multi-day pharmacy practice | Unno et al. (2013)[^4] |
 | Salivary cortisol across the day | 250 mg caffeine challenges after controlled intake weeks | After abstinence, caffeine raised cortisol robustly; after ~5 days at 300–600 mg/day, morning challenge responses were blunted but not all-day abolished | Lovallo et al. (2005)[^5] |
 
-**Honesty note: where pack tables and papers diverge**
+**Honesty note: where secondary tables and papers diverge**
 
-Some companion pack tables attribute a neat salivary-cortisol delta (L-theanine ~±5% vs placebo ~+22%) to **Yoto et al. (2012)**. The published Yoto 2012 paper measures **blood pressure and mood under stress**, not that cortisol contrast.[^3] This lesson therefore cites Yoto for BP/anxiety, Kimura for HR/sIgA, Unno for sAA under real student stress, and Lovallo for caffeine–cortisol adaptation—and does **not** repeat the mismatched cortisol attribution as fact.
+Some secondary tables attribute a neat salivary-cortisol delta (L-theanine ~±5% vs placebo ~+22%) to **Yoto et al. (2012)**. The published Yoto 2012 paper measures **blood pressure and mood under stress**, not that cortisol contrast.[^3] This lesson therefore cites Yoto for BP/anxiety, Kimura for HR/sIgA, Unno for sAA under real student stress, and Lovallo for caffeine–cortisol adaptation—and does **not** repeat the mismatched cortisol attribution as fact.
 
-Pack tables also sometimes phrase caffeine–cortisol adaptation as "nearly gone within five days." Lovallo's controlled trial is more precise: after five days at 300 or 600 mg/day, the **morning** caffeine-challenge cortisol response was largely abolished, but cortisol could still rise later in the day after further doses—**reduced, not eliminated**.[^5]
+Some secondary tables also phrase caffeine–cortisol adaptation as "nearly gone within five days." Lovallo's controlled trial is more precise: after five days at 300 or 600 mg/day, the **morning** caffeine-challenge cortisol response was largely abolished, but cortisol could still rise later in the day after further doses—**reduced, not eliminated**.[^5]
 
 **Vessel tone.** Caffeine can constrict cerebral vessels as part of its sleepy-signal blockade story.[^7] L-theanine has been shown in cell work to promote nitric-oxide production in endothelial cells—one plausible path for "steadier pressure" language.[^2] Yoto's human stress design adds a bridge: L-theanine can blunt task-related blood-pressure climbs in high-responders.[^3] That is mechanism-plus-trial talk, not a home blood-pressure prescription.
 :::
@@ -63,7 +63,7 @@ Hormones are still somewhat invisible. What can you see on the outside of the bo
 
 ## Story in one minute
 
-Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caffeine can push that loop; habitual intake blunts caffeine-driven spikes incompletely. L-theanine is studied for keeping heart rate, blood pressure, stress enzymes, and subjective stress nearer baseline under load. Pack tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here: Yoto is blood pressure and mood; Lovallo is caffeine–cortisol adaptation.
+Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caffeine can push that loop; habitual intake blunts caffeine-driven spikes incompletely. L-theanine is studied for keeping heart rate, blood pressure, stress enzymes, and subjective stress nearer baseline under load. Secondary tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here: Yoto is blood pressure and mood; Lovallo is caffeine–cortisol adaptation.
 
 ::: {.callout-tip title="You can stop here"}
 - Stress has a chemistry: a fire-alarm hormone story, not only a mood word.
@@ -93,7 +93,7 @@ Keeping the question matched to the paper is how this course stays honest when s
 1. Stress loop → cortisol; caffeine can push it (HPA axis in the foldout above).
 2. Habituation ≠ zero stress chemistry.[^5]
 3. L-theanine evidence is marker- and setting-specific.[^1][^3][^4]
-4. Correct pack/paper mismatches when you see them (Yoto ≠ that cortisol delta).
+4. Correct table/paper mismatches when you see them (Yoto ≠ that cortisol delta).
 5. Next: body meters you can measure without a hormone assay.
 :::
 

@@ -42,13 +42,13 @@ Think of toasting bread: stop early and you have pale toast; leave it longer and
 ::: {.callout-note collapse="true" title="More detail: PPO, heat kill, and why 'fermentation' confuses people"}
 Two leaf enzymes do most of the browning work when cells are crushed: **polyphenol oxidase (PPO)** and **peroxidase (POD)**.[^1] Heat the leaf above about **82°C–85°C** and PPO is permanently inactivated—the chemical lock that keeps green tea's catechins monomeric.[^1] Leave enzymes active in air and simple catechins couple into **theaflavins** (bright golden-red dimers) and further into **thearubigins** (darker, fuller-bodied polymers).[^2]
 
-Pack chemistry writes the first step roughly as:
+The chemistry writes the first step roughly as:
 
 > Epicatechin (EC) + Epigallocatechin (EGC) —[PPO + O₂]→ Theaflavin (TF)
 
 and the follow-on as theaflavins moving toward thearubigins (and related darker pigments) with peroxidase help.[^2]
 
-Optimal enzyme activity in the packs sits around mild acidity (**pH about 5.5–6.0**). Dense Michaelis constants and reaction-rate tables live in the primary papers and the [Bibliography](../../bibliography.qmd)—beginners do not need them to follow the fork-in-the-road story.
+Optimal enzyme activity in the sources sits around mild acidity (**pH about 5.5–6.0**). Dense Michaelis constants and reaction-rate tables live in the primary papers and the [Bibliography](../../bibliography.qmd)—beginners do not need them to follow the fork-in-the-road story.
 
 Why the wine metaphor misleads: wine fermentation is microbial sugar → alcohol. Ordinary black/oolong "fermentation" in factory talk is mostly **enzymatic oxidation**. Pu-erh and some dark teas *do* involve microbes; that is a different branch of the family tree.
 

@@ -29,7 +29,7 @@ lang: zh-Hant-HK
 
 **明天變得模糊。** 「現在一塊曲奇」往往勝過「明天兩塊曲奇」。*眼前*較小的回報，常常贏過*將來*較大的回報——酒精令明天顯得不真實時，就更是如此。[^2][^3] 「星期日才開始寫論文」、「下個月才開始儲錢」、「再打一局就睡」，都是同一個模式。
 
-這兩個概念都不是本站發明的——它們來自經濟學家和心理學家早已共用的文獻。[^1][^6][^9] 正文用家常的說法講故事；正式的概要放在摺疊裡。
+這兩個概念並不新鮮——它們來自經濟學家和心理學家早已共用的文獻。[^1][^6][^9] 正文用家常的說法講故事；正式的概要放在摺疊裡。
 
 ## 一個感受得到的「錢與等待」場景
 
@@ -101,7 +101,7 @@ lang: zh-Hant-HK
 
 文中把與茶相關的狀態，描述為對損失的敏感度多半保持在敘述中的平衡範圍，耐性也較穩定。這是**教材中的質性規律**，不是經過認證的投資守則。同一份本站也警告：從膠囊式的乙醇／咖啡因研究，一跳跳到「綠茶令你成為有耐性的投資者」，是誇大了生態效度上的證據。
 
-::: {.callout-tip collapse="true" title="點開更多詳情：經濟學家的謙虛清單"}
+::: {.callout-tip collapse="true" title="點開更多詳情：謹慎閱讀清單"}
 - 把 λ 和 *k* 當作**在控制劑量下量到的變化**，不是性格移植。[^1]
 - 金額大小、財富、文化、睡眠和名聲，通常比任何飲品的推動更重要。
 - 即使房間裡沒有茶，皮質醇／類固醇帶來的壓力情境也可以改變冒險行為。[^5]
@@ -148,7 +148,7 @@ lang: zh-Hant-HK
 
 [^2]: Steele, C. M., & Josephs, R. A. (1990). Alcohol myopia: Its prized and dangerous effects. *American Psychologist, 45*(8), 921–933.
 
-[^3]: George, S., et al. (2005). Alcohol and risk-taking: Evidence of alcohol myopia in computerized gambling paradigms. *Neuropsychopharmacology* (pack-cited alcohol myopia / gambling paradigms line).
+[^3]: George, S., et al. (2005). Alcohol and risk-taking: Evidence of alcohol myopia in computerized gambling paradigms. *Neuropsychopharmacology* (cited alcohol myopia / gambling paradigms line).
 
 [^4]: Lejuez, C. W., et al. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied, 8*(2), 75–84. (Alcohol BART parameters also cited in Module 4 additions as *Experimental and Clinical Psychopharmacology, 10*(3), 305–313.)
 
@@ -156,8 +156,8 @@ lang: zh-Hant-HK
 
 [^6]: Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5*(4), 297–323.
 
-[^7]: Reynolds, B., et al. (2006). Dimensions of impulsive behavior: Personality and intertemporal choice (pack narrative of alcohol *k* shift). *Experimental and Clinical Psychopharmacology, 14*(2), 213–224.
+[^7]: Reynolds, B., et al. (2006). Dimensions of impulsive behavior: Personality and intertemporal choice (narrative of alcohol *k* shift). *Experimental and Clinical Psychopharmacology, 14*(2), 213–224.
 
-[^8]: Rogers, P. J., et al. (2013). Association of caffeine intake with risk-taking and cognitive performance in simulated high-pressure environments (pack narrative of λ shift). *Psychology of Addictive Behaviors, 27*(3), 742–750.
+[^8]: Rogers, P. J., et al. (2013). Association of caffeine intake with risk-taking and cognitive performance in simulated high-pressure environments (narrative of λ shift). *Psychology of Addictive Behaviors, 27*(3), 742–750.
 
 [^9]: Laibson, D. (1997). Golden eggs and hyperbolic discounting. *Quarterly Journal of Economics, 112*(2), 443–478.

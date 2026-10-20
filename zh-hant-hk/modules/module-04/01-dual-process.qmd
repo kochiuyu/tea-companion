@@ -165,8 +165,8 @@ lang: zh-Hant-HK
 
 [^4]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
 
-[^5]: Haskell, C. F., et al. (2008). The effects of L-theanine, caffeine and their combination on cognition and mood. *Biological Psychology, 77*(2), 113–122. (Pack-cited RVIP hit / false-alarm shifts.)
+[^5]: Haskell, C. F., et al. (2008). The effects of L-theanine, caffeine and their combination on cognition and mood. *Biological Psychology, 77*(2), 113–122. (Cited RVIP hit / false-alarm shifts.)
 
-[^6]: Higashiyama, A., et al. (2011). Effects of L-theanine on attention and reaction time response. *Journal of Functional Foods, 3*(3), 171–178. (Pack-cited Stroop interference ~28 ms.)
+[^6]: Higashiyama, A., et al. (2011). Effects of L-theanine on attention and reaction time response. *Journal of Functional Foods, 3*(3), 171–178. (Cited Stroop interference ~28 ms.)
 
-[^7]: Brunyé, T. T., et al. (2012). Caffeine effects on the Cognitive Reflection Test (pack narrative). *Cognition, 123*(2), 221–236. (Pack-cited ~14% rise in impulsive CRT errors at 200 mg caffeine.)
+[^7]: Brunyé, T. T., et al. (2012). Caffeine effects on the Cognitive Reflection Test (study narrative). *Cognition, 123*(2), 221–236. (Cited ~14% rise in impulsive CRT errors at 200 mg caffeine.)

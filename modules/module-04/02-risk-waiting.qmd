@@ -9,7 +9,7 @@ title: "Section 2 · Losses that sting, tomorrows that fade"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold λ, discounting *k*, prospect/discounting formalism, and BART pump numbers. We retell pack figures—we do **not** invent a private theory of tea-and-markets.
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold λ, discounting *k*, prospect/discounting formalism, and BART pump numbers. We retell teaching figures—we do **not** invent a private theory of tea-and-markets.
 :::
 
 ## Two everyday ideas that shape a lot of choices
@@ -20,7 +20,7 @@ Chapter 4 · Section 1 watched how fast you answer. This lesson watches two quie
 
 **Tomorrows that fade.** "One cookie now" often beats "two cookies tomorrow." The smaller reward that is *here* wins against the larger reward that is *later*—especially when alcohol makes tomorrow feel unreal.[^2][^3] You have seen the same pattern with "I'll start the essay Sunday," "I'll save next month," and "one more game, then sleep."
 
-Neither idea was invented for this website. Both come from literatures that economists and psychologists already share.[^1][^6][^9] The open story stays in kitchen clothes. The foldouts hold the formal summaries.
+Neither idea is new here. Both come from literatures that economists and psychologists already share.[^1][^6][^9] The open story stays in kitchen clothes. The foldouts hold the formal summaries.
 
 ## A money-wait scene you can feel
 
@@ -28,7 +28,7 @@ Imagine you are paid today for a small freelance job. You can take a smaller amo
 
 That is present bias in everyday clothes: tomorrow counts for less when the present is vivid.
 
-Or imagine a small investment game on a screen. Wins feel pleasant. Losses feel sharp. Under some drink states, people seem a little less careful about the downside—losses sting less, so risk-seeking rises. Under other states, patience holds steadier. The packs describe qualitative patterns for tea, high-caffeine stress, and alcohol. They do **not** license "pour green tea, become a patient investor."
+Or imagine a small investment game on a screen. Wins feel pleasant. Losses feel sharp. Under some drink states, people seem a little less careful about the downside—losses sting less, so risk-seeking rises. Under other states, patience holds steadier. The sources describe qualitative patterns for tea, high-caffeine stress, and alcohol. They do **not** license "pour green tea, become a patient investor."
 
 ## How far do you pump?
 
@@ -36,20 +36,20 @@ A balloon appears on a computer. Each pump adds a little money and a little dang
 
 That toy world is useful because it turns "appetite for risk" into something you can count—without pretending it is your career in a cup.[^4]
 
-Alcohol, in pack snapshots of this balloon task, raises how far people push: more pumps, blunted feel for the downside.[^4] Delay-discounting tasks tell a sibling story about *time* rather than *pop risk*: under alcohol, tomorrow gets cheaper—people overweight what is immediate and underweight delayed costs.[^7][^3]
+Alcohol, in study snapshots of this balloon task, raises how far people push: more pumps, blunted feel for the downside.[^4] Delay-discounting tasks tell a sibling story about *time* rather than *pop risk*: under alcohol, tomorrow gets cheaper—people overweight what is immediate and underweight delayed costs.[^7][^3]
 
-Caffeine under pressure, in a pack trading-simulation snapshot, can soften how much losses sting—again a nudge under controlled conditions, not a personality transplant.[^8] Pair that with Chapter 2's cortisol story and field work on traders linking endogenous steroids with risk-taking on real floors, and you get a theme: stress chemistry and risk appetite talk to each other—before any experimental cup is poured.[^5]
+Caffeine under pressure, in a trading-simulation snapshot, can soften how much losses sting—again a nudge under controlled conditions, not a personality transplant.[^8] Pair that with Chapter 2's cortisol story and field work on traders linking endogenous steroids with risk-taking on real floors, and you get a theme: stress chemistry and risk appetite talk to each other—before any experimental cup is poured.[^5]
 
 ::: {.callout-note collapse="true" title="More detail: what λ and k are (without inventing theory)"}
 **λ (loss aversion).** Researchers summarize "losses weigh more than equal gains" with a number λ; if λ > 1, losses weigh more.[^1] If λ = 2, a loss hurts about twice as much as an equal gain pleases—in the prospect-theory framing. Higher λ → more cautious about downside. Lower λ → more willing to gamble losses. Cumulative prospect theory is the formal home for later refinements.[^6]
 
-***k* (discount rate in simple models).** Higher *k* → future rewards shrink faster → stronger preference for now. Alcohol's pack *k* jump is a present-bias story in a single number.[^7] Quasi-hyperbolic β–δ models (Laibson) split "now vs later" from "later vs even later" if you want the economics version.[^9]
+***k* (discount rate in simple models).** Higher *k* → future rewards shrink faster → stronger preference for now. Alcohol's study *k* jump is a present-bias story in a single number.[^7] Quasi-hyperbolic β–δ models (Laibson) split "now vs later" from "later vs even later" if you want the economics version.[^9]
 
 Full Prospect Theory and hyperbolic-discounting equations are skipped in the open story on purpose. Kahneman & Tversky (1979), Tversky & Kahneman (1992), and Laibson (1997) live in the [Bibliography](../../bibliography.qmd) if you want the math.[^1][^6][^9]
 :::
 
 ::: {.callout-note collapse="true" title="More detail: toy arithmetic for λ 2.15 → 1.62 (teaching only)"}
-Pack snapshot: in one caffeine trading simulation, λ moved from about **2.15** to about **1.62**.[^8]
+Study snapshot: in one caffeine trading simulation, λ moved from about **2.15** to about **1.62**.[^8]
 
 **Toy stake (not a new estimate):** suppose a gain of **+$10** "feels like" +10 utils in a simplified teaching scale, and losses are weighted by λ.
 
@@ -59,10 +59,10 @@ Pack snapshot: in one caffeine trading simulation, λ moved from about **2.15** 
 The downside still hurts more than the upside pleases (λ > 1), but it hurts **less than before**. That is all the toy is for: making "softer loss aversion" concrete. It is **not** a forecast for your portfolio, and it does not invent a new empirical λ for tea.
 :::
 
-::: {.callout-note collapse="true" title="More detail: loss aversion λ, discounting, and BART (pack numbers)"}
-Qualitative framing from the packs—not a prescription for your portfolio:
+::: {.callout-note collapse="true" title="More detail: loss aversion λ, discounting, and BART (example numbers)"}
+Qualitative framing from the sources—not a prescription for your portfolio:
 
-| State (pack qualitative framing) | Loss sensitivity (λ idea) | Waiting for future rewards |
+| State (qualitative framing) | Loss sensitivity (λ idea) | Waiting for future rewards |
 | --- | --- | --- |
 | Tea pattern | Often stays in a balanced range (~**1.8–2.5** in the narrative framing) | More patience; present bias closer to stable |
 | High-caffeine / high-cortisol coffee pattern | Can soften loss aversion → more aggressive risk seeking under stress | Mixed; depends on context |
@@ -72,9 +72,9 @@ Lab snapshots (isolated doses):
 
 | Task | Condition | Finding | Trail |
 | --- | --- | --- | --- |
-| BART | Alcohol ~0.08% BrAC | Mean adjusted pumps **38.6** vs **31.2** placebo (*d* ≈ 0.72 in pack) | Lejuez et al. (2002) [^4] |
-| Delay discounting | Alcohol ~0.06% BAC | *k* **0.018 → 0.042** day⁻¹ | Reynolds et al. (2006; pack) [^7] |
-| Loss aversion λ | **200 mg** caffeine in trading simulation | λ **2.15 → 1.62** | Rogers et al. (2013; pack) [^8] |
+| BART | Alcohol ~0.08% BrAC | Mean adjusted pumps **38.6** vs **31.2** placebo (*d* ≈ 0.72 in that reading) | Lejuez et al. (2002) [^4] |
+| Delay discounting | Alcohol ~0.06% BAC | *k* **0.018 → 0.042** day⁻¹ | Reynolds et al. (2006 source) [^7] |
+| Loss aversion λ | **200 mg** caffeine in trading simulation | λ **2.15 → 1.62** | Rogers et al. (2013 source) [^8] |
 | Alcohol + gambling | Intoxication | Riskier play consistent with alcohol myopia | George et al. (2005) [^3] |
 
 **Related task family:** the **Iowa Gambling Task (IGT)** also probes learning from long-run gains and losses; it appears in glossary and in the [Chapter 4 · Section 4 protocol sketch(04-study-protocols.qmd) foldout. This lesson stays with BART and waiting tasks.
@@ -86,17 +86,17 @@ What BART is: pump a virtual balloon; each pump earns a little and raises the ch
 
 Pure caffeine or ethanol in the lab can shift how much losses sting or how fast tomorrow fades. Jumping from that to **"one green tea makes you a patient investor"** overstates the evidence.
 
-That slogan is popular. The packs push back: stake size, income, habit, and social setting all confound real choices. Laboratory trials isolating pure ethanol or pure caffeine report clear statistical shifts; generalizing those findings directly to real-world beverage consumption overstates the ecological evidence (pack verification note).
+That slogan is popular. The sources push back: stake size, income, habit, and social setting all confound real choices. Laboratory trials isolating pure ethanol or pure caffeine report clear statistical shifts; generalizing those findings directly to real-world beverage consumption overstates the ecological evidence (source note).
 
-Alcohol's boost of inhibitory signaling (Chapter 2) is linked with strong present bias—future costs weigh less. That is one reason the packs discuss alcohol beside "tomorrow counts for less," not only beside "feeling drunk."
+Alcohol's boost of inhibitory signaling (Chapter 2) is linked with strong present bias—future costs weigh less. That is one reason the sources discuss alcohol beside "tomorrow counts for less," not only beside "feeling drunk."
 
-The packs describe tea-associated states as often keeping loss sensitivity in a balanced narrative band with steadier patience. That is a **qualitative pattern in the teaching materials**, not a certified portfolio rule. The same packs warn that leaping from capsule ethanol/caffeine to "green tea makes you a patient investor" overstates ecological evidence.
+The sources describe tea-associated states as often keeping loss sensitivity in a balanced narrative band with steadier patience. That is a **qualitative pattern in the teaching materials**, not a certified portfolio rule. The same sources warn that leaping from capsule ethanol/caffeine to "green tea makes you a patient investor" overstates ecological evidence.
 
-::: {.callout-tip collapse="true" title="Click for more detail: an economist's humility checklist"}
+::: {.callout-tip collapse="true" title="Click for more detail: a careful-reading checklist"}
 - Treat λ and *k* as **measured shifts under controlled doses**, not personality transplants.[^1]
 - Stake size, wealth, culture, sleep, and reputation usually dominate any beverage nudge.
 - Cortisol / steroid stress contexts can move risk-taking without any tea in the room.[^5]
-- "Tea → patient investor" is a leap the packs explicitly warn against.
+- "Tea → patient investor" is a leap the sources explicitly warn against.
 - Next lesson's games add *other people*—trust and fairness are not solo balloon pumps.
 :::
 
@@ -104,18 +104,18 @@ The packs describe tea-associated states as often keeping loss sensitivity in a 
 
 Chapter 2 tracked cortisol and autonomic arousal under load. Chapter 4 asks what happens to *choices* when arousal and pharmacology shift how much losses sting. The Coates & Herbert trading-floor study is a reminder that endogenous chemistry already moves risk-taking in the wild—before any experimental cup is poured.[^5]
 
-So when the packs show caffeine softening loss sensitivity under a trading simulation, read it beside stress, not instead of stress.[^8] High-caffeine / high-cortisol "coffee pattern" language in the qualitative table is teaching shorthand for that cluster—not a claim that every latte destroys prudence.
+So when the sources show caffeine softening loss sensitivity under a trading simulation, read it beside stress, not instead of stress.[^8] High-caffeine / high-cortisol "coffee pattern" language in the qualitative table is teaching shorthand for that cluster—not a claim that every latte destroys prudence.
 
 ## Present bias in kitchen language (one more pass)
 
-"One cookie now" versus "two cookies tomorrow" is the whole idea. Alcohol makes tomorrow fade; the pack discounting snapshot is that fade with a number on it.[^7] Tea-pattern language in the packs points the other way—more patience, present bias closer to stable—without licensing "buy green tea, become a long-term investor."
+"One cookie now" versus "two cookies tomorrow" is the whole idea. Alcohol makes tomorrow fade; the discounting snapshot is that fade with a number on it.[^7] Tea-pattern language in the sources points the other way—more patience, present bias closer to stable—without licensing "buy green tea, become a long-term investor."
 
 Risk and patience are often measured alone. Trust and fairness need someone else in the room. That is the next sitting.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 4 · Section 2"}
 1. Open story = losses that sting + tomorrows that fade; λ / *k* live in foldouts.[^1][^7]
 2. BART = "how far do you pump?"—toy risk, not career advice.[^4]
-3. Alcohol → more pumps, cheaper tomorrow in pack snapshots.[^4][^7]
+3. Alcohol → more pumps, cheaper tomorrow in study snapshots.[^4][^7]
 4. Caffeine-under-pressure λ shift sits beside stress chemistry, not instead of it.[^5][^8]
 5. Overclaim fence: **no** "tea → patient investor."
 6. Next: trust, fairness, cooperation—with Chapter 3 warmth caveats intact.
@@ -139,7 +139,7 @@ Losing $10 often hurts more than finding $10 feels good. "One cookie now" often 
 
 [^2]: Steele, C. M., & Josephs, R. A. (1990). Alcohol myopia: Its prized and dangerous effects. *American Psychologist, 45*(8), 921–933.
 
-[^3]: George, S., et al. (2005). Alcohol and risk-taking: Evidence of alcohol myopia in computerized gambling paradigms. *Neuropsychopharmacology* (pack-cited alcohol myopia / gambling paradigms line).
+[^3]: George, S., et al. (2005). Alcohol and risk-taking: Evidence of alcohol myopia in computerized gambling paradigms. *Neuropsychopharmacology* (cited alcohol myopia / gambling paradigms line).
 
 [^4]: Lejuez, C. W., et al. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied, 8*(2), 75–84. (Alcohol BART parameters also cited in Chapter 4 additions as *Experimental and Clinical Psychopharmacology, 10*(3), 305–313.)
 
@@ -147,8 +147,8 @@ Losing $10 often hurts more than finding $10 feels good. "One cookie now" often 
 
 [^6]: Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5*(4), 297–323.
 
-[^7]: Reynolds, B., et al. (2006). Dimensions of impulsive behavior: Personality and intertemporal choice (pack narrative of alcohol *k* shift). *Experimental and Clinical Psychopharmacology, 14*(2), 213–224.
+[^7]: Reynolds, B., et al. (2006). Dimensions of impulsive behavior: Personality and intertemporal choice (narrative of alcohol *k* shift). *Experimental and Clinical Psychopharmacology, 14*(2), 213–224.
 
-[^8]: Rogers, P. J., et al. (2013). Association of caffeine intake with risk-taking and cognitive performance in simulated high-pressure environments (pack narrative of λ shift). *Psychology of Addictive Behaviors, 27*(3), 742–750.
+[^8]: Rogers, P. J., et al. (2013). Association of caffeine intake with risk-taking and cognitive performance in simulated high-pressure environments (narrative of λ shift). *Psychology of Addictive Behaviors, 27*(3), 742–750.
 
 [^9]: Laibson, D. (1997). Golden eggs and hyperbolic discounting. *Quarterly Journal of Economics, 112*(2), 443–478.

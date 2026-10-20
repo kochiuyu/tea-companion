@@ -22,13 +22,13 @@ Now picture a hard homework problem at the kitchen table. You write a first gues
 
 Neither speed is "good" or "bad" by itself. Blurts win when the room is on fire and you need the exit. Careful checks win when a wrong first answer costs a grade, a deal, or a friendship. The question in this chapter is narrower: **do drink states nudge which speed you lean on**, under timed lab tasks?
 
-You do not need formal labels for the open story. Think **fast blurt** versus **careful check**—a dimmer of effort, not a light switch labeled genius. The pack and paper names live in the foldouts.
+You do not need formal labels for the open story. Think **fast blurt** versus **careful check**—a dimmer of effort, not a light switch labeled genius. The paper and theory names live in the foldouts.
 
 ## Why the cup might move the dimmer
 
-Tea patterns in these packs are described as helping keep impulsive reactions in check, with L-theanine and caffeine together linked with longer careful focus.[^2] That is not "tea makes you wise." It is closer to: *the spotlight stays steadier on a boring attention task.*
+Tea patterns in the cited studies are described as helping keep impulsive reactions in check, with L-theanine and caffeine together linked with longer careful focus.[^2] That is not "tea makes you wise." It is closer to: *the spotlight stays steadier on a boring attention task.*
 
-Coffee under stress can push rapid shortcuts. It may help simple arithmetic—the kind of work that rewards speed—but can suffer on complex reflective tasks when time pressure or anxiety is already high (Rogers et al., 2013; pack). Alcohol makes the fast blurt dominant and careful control drops sharply—the classic idea that intoxication narrows attention to the most immediate cues.[^3]
+Coffee under stress can push rapid shortcuts. It may help simple arithmetic—the kind of work that rewards speed—but can suffer on complex reflective tasks when time pressure or anxiety is already high (Rogers et al., 2013 source). Alcohol makes the fast blurt dominant and careful control drops sharply—the classic idea that intoxication narrows attention to the most immediate cues.[^3]
 
 In everyday clothes:
 
@@ -44,8 +44,8 @@ Psychologists often talk about two modes (Kahneman's dual-process framing, build
 | Metric | System 1 (fast blurt) | System 2 (careful check) | Source frame |
 | --- | --- | --- | --- |
 | Speed / effort | Fast, low metabolic cost | Slow, costly | Kahneman (2011) [^1] |
-| Tea pattern in these packs | Helps keep impulsive reactions in check | L-theanine + caffeine synergy linked with longer careful focus | Owen et al. (2008) [^2] |
-| Coffee pattern | Under stress, can push rapid shortcuts | May help simple arithmetic; can suffer on complex reflective tasks | Pack / Rogers line |
+| Tea pattern in the cited studies | Helps keep impulsive reactions in check | L-theanine + caffeine synergy linked with longer careful focus | Owen et al. (2008) [^2] |
+| Coffee pattern | Under stress, can push rapid shortcuts | May help simple arithmetic; can suffer on complex reflective tasks | Rogers line |
 | Alcohol pattern | Becomes dominant | Careful control drops sharply | Steele & Josephs (1990) [^3] |
 
 Dual-process work treats this as a **spectrum of effort**, not a binary drink switch. Do not read the table as "coffee = dumb, tea = wise."
@@ -53,13 +53,13 @@ Dual-process work treats this as a **spectrum of effort**, not a binary drink sw
 
 ## A kitchen scene: blurting into a trap
 
-Imagine a question with an intuitive wrong answer and a slower right answer—the kind of item used in reflection tests. Under a pure caffeine capsule, the packs' Brunyé-line snapshot says impulsive errors rose versus placebo.[^7] That is not "caffeine makes you stupid." It is "caffeine can speed you into the trap when the trap rewards patience."
+Imagine a question with an intuitive wrong answer and a slower right answer—the kind of item used in reflection tests. Under a pure caffeine capsule, the sources' Brunyé-line snapshot says impulsive errors rose versus placebo.[^7] That is not "caffeine makes you stupid." It is "caffeine can speed you into the trap when the trap rewards patience."
 
-Now flip the drink story. A theanine-plus-caffeine combination helped attention switching and cut distractibility at about an hour in Owen et al.[^2] Related vigilance snapshots in the packs show more hits and fewer false alarms.[^5] A Stroop-style interference cost (naming ink color when the word says something else) fell under L-theanine in the Higashiyama-line pack reading.[^6]
+Now flip the drink story. A theanine-plus-caffeine combination helped attention switching and cut distractibility at about an hour in Owen et al.[^2] Related vigilance snapshots in the sources show more hits and fewer false alarms.[^5] A Stroop-style interference cost (naming ink color when the word says something else) fell under L-theanine in the Higashiyama-line source reading.[^6]
 
 Same broad stimulant family—different pattern when L-theanine joins and the task rewards sustained control.
 
-People love a neat slogan: "Coffee = fast thinking, tea = careful thinking." Too neat. The packs' verification note is blunt: these operations sit on a continuous spectrum of executive effort, not a binary physiological switch. Caffeine accelerates basic psychomotor speed; it degrades performance on high-complexity reflective tasks primarily under **high time-pressure** or **pre-existing anxiety**. L-theanine + caffeine stabilizes sustained attention, but its capacity to reduce cognitive biases (anchoring, framing) is heavily moderated by task structure and baseline cognitive capacity.[^1][^2]
+People love a neat slogan: "Coffee = fast thinking, tea = careful thinking." Too neat. A careful reading of the sources is blunt: these operations sit on a continuous spectrum of executive effort, not a binary physiological switch. Caffeine accelerates basic psychomotor speed; it degrades performance on high-complexity reflective tasks primarily under **high time-pressure** or **pre-existing anxiety**. L-theanine + caffeine stabilizes sustained attention, but its capacity to reduce cognitive biases (anchoring, framing) is heavily moderated by task structure and baseline cognitive capacity.[^1][^2]
 
 So: caffeine can speed the blurting; under time pressure or anxiety it can hurt the careful check. L-theanine + caffeine is studied for sustained attention—**not** for deleting every bias.
 
@@ -70,9 +70,9 @@ These are isolated lab doses—often capsules or matched drinks—not "your groc
 | --- | --- | --- | --- |
 | Attention switching / memory distractibility | **100 mg** L-theanine + **50 mg** caffeine | Faster, more accurate switching at 60 min; less distractibility vs placebo | Owen et al. (2008) [^2] |
 | Visuospatial attention + alpha EEG | Same combination | Higher hit rate and *d′*; lower tonic alpha read as engaged attention | Kelly et al. (2008) [^4] |
-| RVIP vigilance | L-theanine + caffeine (Haskell line; pack) | Hits **+8.6%**; false alarms **−12.1%** | Haskell et al. (2008; pack) [^5] |
-| Stroop interference | **200 mg** L-theanine (pack) | Interference cost down about **28.4 ms** | Higashiyama et al. (2011; pack) [^6] |
-| Cognitive Reflection Test | **200 mg** caffeine vs placebo (pack) | Impulsive (System 1) errors up about **14.2%** | Brunyé et al. (2012; pack) [^7] |
+| RVIP vigilance | L-theanine + caffeine (Haskell line source) | Hits **+8.6%**; false alarms **−12.1%** | Haskell et al. (2008 source) [^5] |
+| Stroop interference | **200 mg** L-theanine (source) | Interference cost down about **28.4 ms** | Higashiyama et al. (2011 source) [^6] |
+| Cognitive Reflection Test | **200 mg** caffeine vs placebo (source) | Impulsive (System 1) errors up about **14.2%** | Brunyé et al. (2012 source) [^7] |
 
 What these tasks are *for*:
 
@@ -108,7 +108,7 @@ L-theanine + caffeine helping vigilance hits is not the same as:
 - fixing anchoring on a random number, or
 - making you wise in a negotiation with incomplete information.
 
-The packs say bias reduction is task- and person-dependent. Hold that fence whenever a headline upgrades "better vigilance" into "better judgment about everything."
+The sources say bias reduction is task- and person-dependent. Hold that fence whenever a headline upgrades "better vigilance" into "better judgment about everything."
 
 ## Bridge to Chapter 2 (and why false alarms matter)
 
@@ -122,7 +122,7 @@ Think of executive effort like a dimmer, not a light switch.
 - Low effort / fast: habits, first guesses, emotional reactions.
 - High effort / slow: checking, inhibiting, recomputing.
 
-Drinks nudge where the dimmer sits under load. They do not install a new personality. Anxiety and time pressure matter as much as milligrams—the packs say so explicitly in the heuristic-switch verification note.
+Drinks nudge where the dimmer sits under load. They do not install a new personality. Anxiety and time pressure matter as much as milligrams—the sources say so explicitly in the heuristic-switch verification note.
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 4 · Section 1"}
@@ -136,7 +136,7 @@ Drinks nudge where the dimmer sits under load. They do not install a new persona
 
 ## Story in one minute
 
-Quiz-show speed blurts; homework patience checks. Tea-plus-caffeine designs in the packs more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure; alcohol shrinks the spotlight to the immediate. Formal System 1/2 labels and dose tables live behind the click.
+Quiz-show speed blurts; homework patience checks. Tea-plus-caffeine designs in the sources more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure; alcohol shrinks the spotlight to the immediate. Formal System 1/2 labels and dose tables live behind the click.
 
 ::: {.callout-tip title="You can stop here"}
 - Everyday idea: quiz-show blurt vs homework patience—formal System 1/2 labels live in foldouts.
@@ -156,8 +156,8 @@ Quiz-show speed blurts; homework patience checks. Tea-plus-caffeine designs in t
 
 [^4]: Kelly, S. P., Gomez-Ramirez, M., Montesi, J. L., & Foxe, J. J. (2008). L-Theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance. *Journal of Nutrition, 138*(8), 1572S–1577S. https://doi.org/10.1093/jn/138.8.1572S
 
-[^5]: Haskell, C. F., et al. (2008). The effects of L-theanine, caffeine and their combination on cognition and mood. *Biological Psychology, 77*(2), 113–122. (Pack-cited RVIP hit / false-alarm shifts.)
+[^5]: Haskell, C. F., et al. (2008). The effects of L-theanine, caffeine and their combination on cognition and mood. *Biological Psychology, 77*(2), 113–122. (Cited RVIP hit / false-alarm shifts.)
 
-[^6]: Higashiyama, A., et al. (2011). Effects of L-theanine on attention and reaction time response. *Journal of Functional Foods, 3*(3), 171–178. (Pack-cited Stroop interference ~28 ms.)
+[^6]: Higashiyama, A., et al. (2011). Effects of L-theanine on attention and reaction time response. *Journal of Functional Foods, 3*(3), 171–178. (Cited Stroop interference ~28 ms.)
 
-[^7]: Brunyé, T. T., et al. (2012). Caffeine effects on the Cognitive Reflection Test (pack narrative). *Cognition, 123*(2), 221–236. (Pack-cited ~14% rise in impulsive CRT errors at 200 mg caffeine.)
+[^7]: Brunyé, T. T., et al. (2012). Caffeine effects on the Cognitive Reflection Test (study narrative). *Cognition, 123*(2), 221–236. (Cited ~14% rise in impulsive CRT errors at 200 mg caffeine.)
