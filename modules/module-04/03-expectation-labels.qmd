@@ -1,0 +1,90 @@
+---
+title: "Section 3 · What you think the mug is"
+---
+
+{{< include ../../_includes/lang-switcher/module-04-expectation-labels.en.qmd >}}
+
+::: {.callout-tip}
+**Chapter 4 · Section 3 of 4** — part of [Chapter 4 · Context & Ritual Psychology](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
+Superscript numbers are clickable footnotes. Foldouts hold denser expectancy sketches and pointer tables into Chapter 5 protocols. This lesson is a third context dial—not a second methods textbook.
+:::
+
+## Same liquid, different story
+
+[Section 1](01-warmth-trust.qmd) was the mug's **temperature**. [Section 2](02-ritual-stress.qmd) was the hands' **script**. Expectation is the **name** on the experience: "tea," "specialty," "just hot water," "medicinal," "expensive," "bag."
+
+Chemistry in the leaf still matters ([Chapter 1 · Compounds](../module-01/04-compounds.qmd)). Body state still matters ([Chapter 2](../module-02/index.qmd)). What you were *told*—and what the vessel and label look like—can ride along as a third tint. Keep the warmth lesson's voice: **tint, not destiny.**
+
+## Belief and labels as a third dial
+
+Marketing and sensory research show that extrinsic cues—price, packaging, labels, descriptions—can shape expectations and even measured performance or rated experience.[^1][^2]
+
+Shiv, Carmon, and Ariely (2005) gave people the same energy drink at regular versus discounted price; those who paid less solved fewer puzzles, consistent with weaker efficacy expectations—not a tea trial, but a clean teaching picture that **belief about the drink rides along with the liquid**.[^1] Piqueras-Fiszman and Spence (2015) review how product-extrinsic food cues (labels, packaging, pictures) shape sensory expectations and experience across many designs.[^2]
+
+::: {.callout-caution title="Honesty fence"}
+- General expectancy / marketing-placebo paradigms are often **not** *Camellia* tea. Say so when we use them.
+- Do not invent tea-placebo effect sizes.
+- Expectation ≠ [L-theanine](../../glossary.qmd#l-theanine) calm (Chapter 2 owns chemistry).
+- Expectation ≠ warmth priming ≠ scripted ritual (siblings; mapped in [Section 4](04-context-dials-map.qmd)).
+:::
+
+::: {.callout-note collapse="true" title="More detail: label-cue / expectancy teaching sketch"}
+| Cue type | Teaching example (sourced) | What it is *not* |
+| --- | --- | --- |
+| Price / marketing | Discounted energy drink → weaker measured benefit on puzzle task (Shiv et al.)[^1] | Proof that "cheap tea fails" |
+| Labels / packaging / descriptions | Extrinsic cues shape expected and experienced taste (review)[^2] | A substitute for washout and matched mugs |
+| Vessel / teaware | Chinese participants' expected bitterness/astringency and pleasantness shifted with Chinese vs British teaware images (Li et al.)[^3] | Pharmacology of caffeine |
+
+Assimilation and related expectation accounts in the sensory review are foldout vocabulary—not required for the open story.[^2]
+:::
+
+## Tea-adjacent: teaware as an extrinsic cue
+
+When we want a **tea** example, Li, Qi, Spence, and Wan (2020) showed Chinese participants photographs of green tea in Chinese or British teaware. Teaware shifted expected bitterness and astringency; it also affected pleasantness when price was hidden, and price labels could wipe out that pleasantness effect.[^3] U.S. participants did not show the same bitterness/astringency pattern—so even "vessel cues" are not universal magic.[^3]
+
+That is expectation wearing a teacup, not a claim that fancy porcelain changes milligrams of caffeine.
+
+::: {.callout-note collapse="true" title="More detail: what Chapter 5 · Section 4 already locks (pointer only)"}
+If labels and sensory theater can leak into ratings, careful trials earn their keep:
+
+| Protocol habit | Why it belongs beside this lesson | Where the full table lives |
+| --- | --- | --- |
+| Opaque mug | Hide color / theater cues | [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd) |
+| Matched temperature (~60°C ± 2°C) | Hold warmth dial still | same |
+| Bitterness matching | Fight "this tastes real" expectancy | same |
+| Washout | Yesterday's coffee is also a belief-and-body confound | same |
+
+No new milligram claims here. Headline checklist habit: [Reading a tea study](../../tea-reading-studies.qmd).
+:::
+
+## Why methods obsess over matched mugs
+
+Chapter 5's protocols are not bureaucracy for fun. If what you *think* the mug is can tint ratings and felt states, then opaque cups, bitterness matching, temperature lock, and washout are how labs try to talk about chemistry without letting expectation wear a lab coat.[^4]
+
+Field kitchens are messier; that is fine. Just do not confuse a cafe story with a controlled cup.
+
+## Handoff to the map
+
+Next section puts warmth + ritual + expectation on one beginner map, then opens the door into Decisions games.
+
+::: {.callout-tip title="You can stop here"}
+- Belief and labels are a third context dial beside warmth and ritual.
+- General expectancy evidence (price, packaging) teaches the mechanism—often not tea leaf.[^1][^2]
+- Teaware can shift taste expectations in tea-specific designs—with cultural limits.[^3]
+- Point to Chapter 5 protocols / Reading-studies door; do not re-teach parameter tables here.
+:::
+
+---
+
+**Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Previous](02-ritual-stress.qmd) · [Next →](04-context-dials-map.qmd)
+
+[^1]: Shiv, B., Carmon, Z., & Ariely, D. (2005). Placebo effects of marketing actions: Consumers may get what they pay for. *Journal of Marketing Research, 42*(4), 383–393. https://doi.org/10.1509/jmkr.2005.42.4.383
+
+[^2]: Piqueras-Fiszman, B., & Spence, C. (2015). Sensory expectations based on product-extrinsic food cues: An interdisciplinary review of the empirical evidence and theoretical accounts. *Food Quality and Preference, 40*(Part A), 165–179. https://doi.org/10.1016/j.foodqual.2014.09.013
+
+[^3]: Li, X., Qi, Y., Spence, C., & Wan, X. (2020). Influence of teaware on subjective ratings of, and taste expectations concerning, tea. *Food Quality and Preference, 80*, 103834. https://doi.org/10.1016/j.foodqual.2019.103834
+
+[^4]: See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd) (Rogers et al., 2008; matched-mug / washout language already on site).

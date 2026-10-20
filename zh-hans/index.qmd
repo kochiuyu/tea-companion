@@ -6,7 +6,7 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/home.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -17,7 +17,7 @@ lang: zh-Hans
 
 这个问题，就是本站的门。
 
-本站是一趟**讲故事的旅程**：从茶叶、身体与心情，到历史与温暖，再到日常的选择。每一课尽量既有意思、又够短，读起来仍像故事。
+本站是一趟**讲故事的旅程**：从茶叶、身体与心情，到历史与文化、情境与预期，再到日常的选择。每一课尽量既有意思、又够短，读起来仍像故事。
 
 **脚注可以两边点**：点号码跳到出处，点箭头回到原句；鼠标停住，多数时候会弹出摘要。密一点的表格和支线，收在折叠的**“更多详情…”**里。[参考文献](bibliography.qmd)是全站总地图。
 
@@ -29,24 +29,25 @@ lang: zh-Hans
 | **厨房投诉** — 苦、淡、浑浊、第二泡 → 该拧哪颗旋钮 | [厨房排障](tea-troubleshoot.qmd) |
 | **研究标题** — 相信“喝茶改善决策”之前，先问五个问题 | [读懂茶研究](tea-reading-studies.qmd) |
 | **数字** — 一杯约 250 毫升 里常见的毫克数 | [杯量参考](cup-reference.qmd) |
-| **完整故事** — 四章、十六节 | [章节总览](modules/index.qmd) |
+| **完整故事** — 五章、二十节 | [章节总览](modules/index.qmd) |
 
 ## 这趟旅程在讲什么
 
-四章顺着一条线往下走——每一章各有**四节**，对应各节主题。
+全站**五章**，由同一条线串起；每一章各有**四节**。
 
-先认识**叶子**：茶从哪来、为什么绿茶和红茶差那么远、冲泡把什么带进杯里，还有三个头条化合物。再跟着它们**进身体**：脑信号、脑波、压力激素，以及安静的身体信号。接着镜头拉开。茶曾经改写**贸易账本**，成了寺院里的专注帮手；手里温热的杯子，也出现在信任实验里。一小段泡茶休息，还可以当作实际的压力重置。最后问决策：饮品会不会**轻轻推一把**——答题快不快、敢不敢冒险、有多在乎明天、第一步有多信对方？
+先认识**叶子**：茶从哪来、为什么绿茶和红茶差那么远、冲泡把什么带进杯里，还有三个头条化合物。再跟着它们**进身体**：脑信号、脑波、压力激素，以及安静的身体信号。接着镜头拉开：茶曾改写**贸易账本**，成了寺院里的专注帮手；庄园余波之后，各地又为这杯茶写下不同**剧本**。再看**情境**：手里温热的杯子、一小段泡茶步骤、杯上的标签与预期。最后问决策：饮品会不会**轻轻推一把**——答题快不快、敢不敢冒险、有多在乎明天、第一步有多信对方？
 
 你可以从任何一处进。但若按顺序读，每一节都会递给你打开下一节的理由。
 
-## 四章（一览）
+## 五章（一览）
 
 1. **[化学核心](modules/module-01/index.qmd)** — 植物 · 加工 · 冲泡 · 化合物
 2. **[身体、大脑与心情](modules/module-02/index.qmd)** — 脑部作用 · 脑波 · 压力激素 · 身体信号
-3. **[历史、仪式与温暖](modules/module-03/index.qmd)** — 贸易史 · 寺院之路 · 温暖与信任 · 仪式与压力
-4. **[决策与选择](modules/module-04/index.qmd)** — 双加工 · 风险与等待 · 信任游戏 · 研究规程
+3. **[历史与文化](modules/module-03/index.qmd)** — 贸易史 · 寺院之路 · 庄园余波 · 地方剧本
+4. **[情境与仪式心理](modules/module-04/index.qmd)** — 温暖与信任 · 仪式与压力 · 预期与标签 · 情境旋钮地图
+5. **[决策与选择](modules/module-05/index.qmd)** — 双加工 · 风险与等待 · 信任游戏 · 研究规程
 
-十六节的完整章节表见 [章节总览](modules/index.qmd)。
+二十节的完整章节表见 [章节总览](modules/index.qmd)。
 
 ## 怎样跟本站一起走
 

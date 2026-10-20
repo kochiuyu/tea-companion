@@ -6,7 +6,7 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/bibliography.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -227,3 +227,26 @@ Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative repr
 ## 关于文献完整性的说明 {#note-on-completeness}
 
 引文完整性审核报告显示：全部 16 个分支都有完整的原始出处（主数据库中的 59 条基础文献，加上增补文中的临床和历史文献）。在这次审核中，有四项说法专门补上了原始论文作为支撑：多酚氧化酶（PPO）的变性（Subramanian et al., 1999）、茶氨酸与受体的亲和力（Kakuda et al., 2002）、鸦片贸易的箱数（Morse, 1926），以及错误相关负波（ERN）的波幅差（Hobson et al., 2017）。
+
+## History, culture, and context cues (5×4 additions)
+
+d'Abbs, P. H. (2019). Tea art as everyday practice: Gongfu tea in Chaoshan, Guangdong, today. *The Asia Pacific Journal of Anthropology, 20*(3), 213–231. https://doi.org/10.1080/14442213.2019.1611908
+
+d'Abbs, P. H. N. (2018). *Art as everyday practice: A study of gongfu tea in Chaoshan, China* (Master's thesis, University of New England). https://hdl.handle.net/1959.11/23092
+
+Li, X., Qi, Y., Spence, C., & Wan, X. (2020). Influence of teaware on subjective ratings of, and taste expectations concerning, tea. *Food Quality and Preference, 80*, 103834. https://doi.org/10.1016/j.foodqual.2019.103834
+
+Mak, V. S. W. (2020). The heritagization of milk tea: Cultural governance and placemaking in Hong Kong. *Asian Anthropology*. https://doi.org/10.1080/1683478x.2020.1773616
+
+McCarthy, A., & Devine, T. M. (2017). *Tea and Empire: James Taylor in Victorian Ceylon*. Manchester University Press. https://doi.org/10.7228/manchester/9781526119056.001.0001
+
+Piqueras-Fiszman, B., & Spence, C. (2015). Sensory expectations based on product-extrinsic food cues: An interdisciplinary review of the empirical evidence and theoretical accounts. *Food Quality and Preference, 40*(Part A), 165–179. https://doi.org/10.1016/j.foodqual.2014.09.013
+
+Shiv, B., Carmon, Z., & Ariely, D. (2005). Placebo effects of marketing actions: Consumers may get what they pay for. *Journal of Marketing Research, 42*(4), 383–393. https://doi.org/10.1509/jmkr.2005.42.4.383
+
+Yu, S.-D. (2022). Sense-making in Taiwan's tea art ritual. *Asian Journal of Social Science, 50*(3), 229–235. https://doi.org/10.1016/j.ajss.2022.08.007
+
+Zhang, L. C. L. (2016). A foreign infusion: The forgotten legacy of Japanese *chadō* on modern Chinese tea arts. *Gastronomica, 16*(1), 53–62. https://doi.org/10.1525/gfc.2016.16.1.53
+
+Hong Kong Memory. The History of Hong Kong-style Milk Tea (ICH Oral Legacies Series II). https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html
+

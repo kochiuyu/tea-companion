@@ -6,7 +6,7 @@ lang: zh-Hant-HK
 {{< include ../_includes/lang-switcher/linkages.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
+**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -41,7 +41,7 @@ lang: zh-Hant-HK
 
 第三章的溫暖研究和第四章的信任遊戲，在這裡交會。在被引用的研究中，手握一杯約 **60℃** 的暖杯，可以令先行者送出的信任金額高約 **+24.8%**。文中把這一點連到島葉裡「溫暖」與「信任」的重疊（島葉同時處理體溫和社交感受）。一杯暖茶不是永遠有效的談判策略——但它可能改變開局的一步。
 
-**打開：** [第三章第三節 手暖了，看人也會暖一點？](modules/module-03/03-warmth-trust.qmd) · [第四章第三節 信任、公平與合作的遊戲](modules/module-04/03-trust-games.qmd)
+**打開：** [第三章第三節 手暖了，看人也會暖一點？](modules/module-04/01-warmth-trust.qmd) · [第四章第三節 信任、公平與合作的遊戲](modules/module-05/03-trust-games.qmd)
 
 **出處（英文文獻）：** [Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013)](bibliography.qmd#history-warmth-and-ritual)
 
@@ -58,10 +58,10 @@ lang: zh-Hant-HK
 在某些實驗室情境裡，壓力荷爾蒙一上升，人就可能變得更積極地冒險。火警鐘響的感覺和賭枱，共用同一條走廊：在壓力下，損失可能沒那麼痛，冒險的選擇隨之增加。第二章講荷爾蒙的一課，和第四章講風險的一課，就在這裡相遇。
 
 ::: {.callout-note collapse="true" title="更多詳情：λ 與咖啡因的研究速寫"}
-壓力引起的皮質醇上升，與損失厭惡減弱（在一項咖啡因研究中 λ 約為 **1.62**）以及壓力下更冒險的選擇有關。λ 和 *k* 這些教學用的術語，放在 [第四章第二節](modules/module-04/02-risk-waiting.qmd) 的摺疊裡——走這條走廊不必懂得它們。
+壓力引起的皮質醇上升，與損失厭惡減弱（在一項咖啡因研究中 λ 約為 **1.62**）以及壓力下更冒險的選擇有關。λ 和 *k* 這些教學用的術語，放在 [第四章第二節](modules/module-05/02-risk-waiting.qmd) 的摺疊裡——走這條走廊不必懂得它們。
 :::
 
-**打開：** [第二章第三節 當火警鐘響](modules/module-02/03-stress-hormones.qmd) · [第四章第二節 損失特別痛，明天變模糊](modules/module-04/02-risk-waiting.qmd)
+**打開：** [第二章第三節 當火警鐘響](modules/module-02/03-stress-hormones.qmd) · [第四章第二節 損失特別痛，明天變模糊](modules/module-05/02-risk-waiting.qmd)
 
 **出處（英文文獻）：** [Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013)](bibliography.qmd#decisions-games-and-study-methods)
 
@@ -73,7 +73,7 @@ lang: zh-Hant-HK
 本站教一項茶氨酸任務研究時，提到一個常用的心率變異性指標增加約 **+15.4 ms**。實驗室術語是心率變異性（HRV）；走這條走廊，只要記住「心跳彈性」就夠了。
 :::
 
-**打開：** [第三章第四節 泡茶時的停頓，幫你重新定神](modules/module-03/04-ritual-stress.qmd) · [第二章第四節 身體訊號](modules/module-02/04-body-signals.qmd)
+**打開：** [第三章第四節 泡茶時的停頓，幫你重新定神](modules/module-04/02-ritual-stress.qmd) · [第二章第四節 身體訊號](modules/module-02/04-body-signals.qmd)
 
 **出處（英文文獻）：** [Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) — *布魯克斯等人（2016）已於 2024 年撤稿，故不列入*](bibliography.qmd#history-warmth-and-ritual)
 
@@ -85,7 +85,7 @@ lang: zh-Hant-HK
 實驗室的說法是：茶氨酸能緩和過多的**麩胺酸**訊號，因而與更好的持續注意力有關。受體的細節放在 [第二章第一節](modules/module-02/01-brain-action.qmd) 的摺疊裡。
 :::
 
-**打開：** [第二章第一節 油門、煞車，與一條繁忙的路](modules/module-02/01-brain-action.qmd) · [第四章第一節 衝口而出與細心覆核](modules/module-04/01-dual-process.qmd)
+**打開：** [第二章第一節 油門、煞車，與一條繁忙的路](modules/module-02/01-brain-action.qmd) · [第四章第一節 衝口而出與細心覆核](modules/module-05/01-dual-process.qmd)
 
 **出處（英文文獻）：** [Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008)](bibliography.qmd#brain-mood-and-body-measures)
 
@@ -113,7 +113,7 @@ lang: zh-Hant-HK
 
 酒精會加強抑制性的神經訊號（第二章），這與強烈的[現時偏誤](glossary.qmd#present-bias)有關——將來的代價分量變輕（第四章）。這正是文中把酒精放在「明天不太算數」旁邊來談，而不只放在「喝醉的感覺」旁邊的原因之一。
 
-**打開：** [第二章第一節 油門、煞車，與一條繁忙的路](modules/module-02/01-brain-action.qmd) · [第四章第二節 損失特別痛，明天變模糊](modules/module-04/02-risk-waiting.qmd)
+**打開：** [第二章第一節 油門、煞車，與一條繁忙的路](modules/module-02/01-brain-action.qmd) · [第四章第二節 損失特別痛，明天變模糊](modules/module-05/02-risk-waiting.qmd)
 
 **出處（英文文獻）：** [Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005)](bibliography.qmd#decisions-games-and-study-methods)
 
@@ -121,7 +121,7 @@ lang: zh-Hant-HK
 
 儀式可以減弱大腦的錯誤警報、降低焦慮（第三章）。文中把這一點，與較少過激地拒絕不公平提議放在一起討論（第四章的最後通牒博弈規律）。身體平靜一點，議價時可能沒那麼一觸即發——但不等於自動、永遠公平。
 
-**打開：** [第三章第四節 泡茶時的停頓，幫你重新定神](modules/module-03/04-ritual-stress.qmd) · [第四章第三節 信任、公平與合作的遊戲](modules/module-04/03-trust-games.qmd)
+**打開：** [第三章第四節 泡茶時的停頓，幫你重新定神](modules/module-04/02-ritual-stress.qmd) · [第四章第三節 信任、公平與合作的遊戲](modules/module-05/03-trust-games.qmd)
 
 **出處（英文文獻）：** [Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) — *布魯克斯等人（2016）已於 2024 年撤稿，故不列入*](bibliography.qmd#decisions-games-and-study-methods)
 

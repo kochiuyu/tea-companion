@@ -6,7 +6,7 @@ lang: zh-Hant-HK
 {{< include ../../../_includes/lang-switcher/module-02.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -74,7 +74,7 @@ lang: zh-Hant-HK
 
 不過，茶的歷史比任何實驗儀器都長。它曾改寫貿易收支，在寺院裡陪伴僧人，在信任實驗裡暖過受試者的手；到今天，日子吵鬧時，它仍可以給你一個三步的泡茶小休。第三章會刻意把鏡頭拉遠。
 
-準備好就打開[第三章：歷史、儀式與溫暖](../module-03/index.qmd)——這片葉快要離開實驗室，走進人類歷史了。
+準備好就打開[第三章：歷史與文化](../module-03/index.qmd)——這片葉快要離開實驗室，走進人類歷史了。
 
 ---
 

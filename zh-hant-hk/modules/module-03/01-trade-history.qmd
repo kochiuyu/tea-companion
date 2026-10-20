@@ -6,7 +6,7 @@ lang: zh-Hant-HK
 {{< include ../../../_includes/lang-switcher/module-03-trade-history.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](index.qmd) · [第四章](../module-04/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -14,7 +14,7 @@ lang: zh-Hant-HK
 :::
 
 ::: {.callout-tip}
-**第三章 · 第一節（共四節）** — 屬 [第三章 歷史、儀式與溫暖](index.qmd)。第一次來？先看[本章入口](index.qmd)的整章地圖。
+**第三章 · 第一節（共四節）** — 屬 [第三章 歷史與文化](index.qmd)。第一次來？先看[本章入口](index.qmd)的整章地圖。
 :::
 
 ::: {.callout-note collapse="true" title="怎樣讀這一節（腳註＋摺疊）"}
@@ -143,7 +143,7 @@ lang: zh-Hant-HK
 
 **要拒絕的說法：**「福鈞在 1848 年第一次把茶帶到印度。」阿薩姆野生茶在他出發*之前*已被發現，並在植物學上得到確認。他帶去的，是中國小葉種（*sinensis*）的種植和製作知識，疊加到一個已經起步的產業上。[^7][^8]
 
-**餘波（仍出自邱園，並非新的經濟模型）：** 據邱園的史料，到 **1890** 年，印度已供應英國本土茶葉市場約 **90%**。同一頁也直言開墾茶園的人命代價，並提到當年最先把茶葉告訴羅伯特·布魯斯的馬尼拉姆，在 1857 年起義後被處決。夏爾馬的《帝國的花園》（*Empire's Garden*）則是更詳細的學術線索，講述種植園怎樣重塑土地和勞動力。[^9] 這些都是超市茶包的背景，並不表示我們重新估算過殖民地的利潤分配。
+**接到下一節：** 中國壟斷葉不再是唯一來源之後，工業化茶園怎樣重塑土地與勞動力——以及平價茶包從何而來——見[第三節 · 壟斷打破之後](03-plantation-aftershock.qmd)。邱園的十九世紀末市場線索、夏爾馬的阿薩姆研究，以及（摺頁裡的）錫蘭咖啡轉茶故事，都歸那一節。本節停在壟斷打破與植物轉移的樞紐。[^7][^9]
 :::
 
 ## 從壟斷之葉到大眾商品

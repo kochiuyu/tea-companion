@@ -1,0 +1,80 @@
+---
+title: "Section 4 · Context is part of the dose — three dials, one map"
+---
+
+{{< include ../../_includes/lang-switcher/module-04-context-dials-map.en.qmd >}}
+
+::: {.callout-tip}
+**Chapter 4 · Section 4 of 4** — part of [Chapter 4 · Context & Ritual Psychology](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
+:::
+
+::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
+This sitting is a **map**, not a new experiment. Footnotes point back to the lessons that own the evidence. Foldouts restate fences and hand off to Chapter 5—no new effect sizes.
+:::
+
+## The cup is never only chemistry
+
+Picture a kitchen mug: hot in the hand, a familiar brew sequence, a name on the drink ("tea," "specialty," "just bag"). Beside the leaf's guests—caffeine, [L-theanine](../../glossary.qmd#l-theanine), and friends in [Chapter 1 · Compounds](../module-01/04-compounds.qmd)—three **non-compound** influences can ride along. This chapter named them one by one. Here they sit on one beginner map.
+
+## Three dials
+
+| Dial | Plain job | Where we learned it | What it is *not* |
+| --- | --- | --- | --- |
+| **Warmth** | Body temperature tint on social judgment | [Section 1](01-warmth-trust.qmd) | A boardroom cheat code |
+| **Ritual** | Predictable active script / stress interrupt | [Section 2](02-ritual-stress.qmd) | Mindfulness by another name |
+| **Expectation** | Labels and belief about the cup | [Section 3](03-expectation-labels.qmd) | A substitute for washout and matched mugs |
+
+Temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the chapter take-home—owned here as a set.[^1][^2][^3]
+
+::: {.callout-caution title="Fences in one short callout"}
+- **Warmth humility:** large replications failed to copy the famous warm-pad gift-choice headline—keep Lynott in view.[^1]
+- **Brooks is not evidence:** the retracted ritual-performance paper stays excluded (see Section 2).
+- **Ritual ≠ mindfulness:** predictable scripting is not open-awareness training (Section 2 fence).
+- **Expectation ≠ washout:** belief cues explain why protocols lock the mug—they do not replace those protocols (Section 3 → [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd)).
+:::
+
+::: {.callout-note collapse="true" title="More detail: what we measured / what we didn't"}
+| Dial | What prior lessons actually taught | What this map refuses to add |
+| --- | --- | --- |
+| Warmth | Insula overlap claim more durable; gift-choice behavior fragile; some fairness/trust designs still useful as methods warnings[^1] | New M values or fMRI coordinates |
+| Ritual | Scripted sequences / anxiety-control framing; ERN discussion; mindfulness fence[^2] | New HR bpm tables |
+| Expectation | Marketing placebo + extrinsic-cue review + teaware expectations[^3] | New tea-placebo effect sizes |
+
+Social setting (alone vs shared pot) is **not** a fourth dial on this page—deferred until separately sourced.
+:::
+
+## Door into Decisions
+
+Games in [Chapter 5](../module-05/index.qmd) measure choices—fast blurts vs careful checks, risk and waiting, trust and fairness. Study protocols try to **hold these dials still** so chemistry can be talked about honestly.[^4]
+
+A messy kitchen cup can still be a good cup. It is just a cup where warmth, ritual, and expectation are uncontrolled. Labs that care about compounds try to lock the dials. Headlines that ignore them are incomplete—see also [Reading a tea study](../../tea-reading-studies.qmd) and [Linkages](../../linkages.qmd).
+
+::: {.callout-note collapse="true" title="More detail: field cup vs lab cup (short)"}
+| | Field / cafe cup | Lab cup (aspirational) |
+| --- | --- | --- |
+| Warmth | Whatever the kettle and mug give you | Matched temperature |
+| Ritual | Your habits—or none | Often minimized or standardized |
+| Expectation | Labels, price, vessel theater | Opaque / matched bitterness / cover stories |
+| Chemistry | Real leaf, messy dose | Named dose + washout |
+
+Kitchen troubleshoot dials (too bitter, too flat) are **extraction** dials—different job from these context dials ([Kitchen troubleshoot](../../tea-troubleshoot.qmd)).
+:::
+
+::: {.callout-tip title="You can stop here"}
+- Three beginner dials: warmth, ritual, expectation—beside leaf chemistry.
+- No new empirics on this page; it maps what Sections 1–3 already taught.
+- Chapter 5 games measure decisions; protocols hold dials still.
+- Carry-forward: **context is part of the dose.**
+:::
+
+---
+
+**Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Previous](03-expectation-labels.qmd) · [Chapter 5 hub →](../module-05/index.qmd)
+
+[^1]: See [Section 1 · Warmth](01-warmth-trust.qmd) (Williams & Bargh, 2008; Lynott et al., 2014; Inagaki & Eisenberger, 2013).
+
+[^2]: See [Section 2 · Ritual](02-ritual-stress.qmd) (Hobson et al., 2018; Lang et al., 2015; Brooks retraction fence).
+
+[^3]: See [Section 3 · Expectation](03-expectation-labels.qmd) (Shiv et al., 2005; Piqueras-Fiszman & Spence, 2015; Li et al., 2020).
+
+[^4]: [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd); [Chapter 5 · Section 1 · Dual-process](../module-05/01-dual-process.qmd).

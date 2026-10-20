@@ -1,0 +1,3 @@
+::: {.lang-switcher}
+**Language / 語言 / 语言:** [English](../../../modules/module-05/index.qmd) · [繁體中文（香港）](index.qmd) · [简体中文](../../../zh-hans/modules/module-05/index.qmd)
+:::

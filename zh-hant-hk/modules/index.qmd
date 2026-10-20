@@ -1,88 +1,68 @@
 ---
-title: "章節總覽"
+title: "章節"
 lang: zh-Hant-HK
 ---
 
 {{< include ../../_includes/lang-switcher/modules.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../index.qmd) · [茶葉入門](../tea-basics.qmd) · [杯量參考](../cup-reference.qmd) · [詞彙表](../glossary.qmd) · [章節總覽](index.qmd) · [第一章](module-01/index.qmd) · [第二章](module-02/index.qmd) · [第三章](module-03/index.qmd) · [第四章](module-04/index.qmd) · [連結橋樑](../linkages.qmd) · [參考文獻](../bibliography.qmd)
+**本站中文入口：** [首頁](../index.qmd) · [茶葉入門](../tea-basics.qmd) · [杯量參考](../cup-reference.qmd) · [詞彙表](../glossary.qmd) · [章節總覽](index.qmd) · [第一章](module-01/index.qmd) · [第二章](module-02/index.qmd) · [第三章](module-03/index.qmd) · [第四章](module-04/index.qmd) · [第五章](module-05/index.qmd) · [連結橋樑](../linkages.qmd) · [參考文獻](../bibliography.qmd)
 :::
 
 ::: {.callout-note}
-**英文是核對事實的源頭。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
+**英文是核對事實的源頭。** 用頁頂語言切換列跳轉。
 :::
 
-不妨把本站想成一趟短途旅行，沿途四個站。每個站各有**四節**，合共十六節。
+把本站想成五站小旅程——每站**四節**（一共二十節）。
 
-旅程由茶園和廚房出發：植物、加工、沖泡，以及杯裡的化合物。然後往內走，進入身體和大腦；再走出來，看歷史、寺院、一雙暖手和各種儀式。最後一站是實驗室，人們在那裡小心玩一些關於風險和信任的遊戲。每一節，都會回答上一節留下的疑問。
+## 行程（五個章節目錄）
 
-讀這裡不需要科學學位。每一節先用一個引子開場，再按故事次序帶你看事實；出處用**可點擊的腳註**標明，較密的細節收進**摺起來的方框**，上一節、下一節的門也一直開着。
-
-## 行程（四個入口）
-
-| 站 | 吸引你繼續走的問題 | 前往 |
+| 站 | 往前推的問題 | 打開 |
 | --- | --- | --- |
-| 一、化學核心 | 同一種植物泡出來的兩杯茶，為甚麼味道和感覺都差那麼遠？ | [第一章入口](module-01/index.qmd) |
-| 二、身體、大腦與心情 | 為甚麼喝茶常常令人清醒，*卻又*比喝咖啡平靜？ | [第二章入口](module-02/index.qmd) |
-| 三、歷史、儀式與溫暖 | 茶只是化學嗎？還是也關乎帝國、儀式和一隻暖手？ | [第三章入口](module-03/index.qmd) |
-| 四、決策與選擇 | 一杯茶會不會改變我們的選擇？研究人員又怎樣去量度？ | [第四章入口](module-04/index.qmd) |
+| 1. 化學核心 | 同種植物的兩杯茶，為何味道與感覺差那麼遠？ | [第一章](module-01/index.qmd) |
+| 2. 身體、大腦與心情 | 為何茶常讓人清醒，又比咖啡更平穩？ | [第二章](module-02/index.qmd) |
+| 3. 歷史與文化 | 誰掌握了茶葉——各地又怎樣為這杯茶寫劇本？ | [第三章](module-03/index.qmd) |
+| 4. 情境與儀式心理 | 情境是否也是劑量的一部分——溫暖、儀式、預期？ | [第四章](module-04/index.qmd) |
+| 5. 決策與選擇 | 這杯茶會改變我們怎樣選擇——研究者又如何量度？ | [第五章](module-05/index.qmd) |
 
-## 章節地圖（四章 × 四節）
-
-一眼看清整趟旅程。每張卡片是一章；每條連結是一節。
+## 結構圖（5 章 × 4 節）
 
 :::: {.chapter-map}
 ::: {.chapter-map-card}
-### [第一章 化學核心](module-01/index.qmd)
-1. [第一節 同一物種，兩種茶葉脾氣](module-01/01-plants.qmd)
-2. [第二節 路上的分叉](module-01/02-processing.qmd)
-3. [第三節 沖泡實際上做甚麼](module-01/03-brewing.qmd)
-4. [第四節 杯裡的三位角色](module-01/04-compounds.qmd)
+### [第一章 · 化學核心](module-01/index.qmd)
+1. [第一節 · 兩種植物，同一物種](module-01/01-plants.qmd)
+2. [第二節 · 路上的分岔](module-01/02-processing.qmd)
+3. [第三節 · 沖泡實際在做甚麼](module-01/03-brewing.qmd)
+4. [第四節 · 杯裡的三個角色](module-01/04-compounds.qmd)
 :::
 ::: {.chapter-map-card}
-### [第二章 身體、大腦與心情](module-02/index.qmd)
-1. [第一節 油門、煞車，與一條繁忙的路](module-02/01-brain-action.qmd)
-2. [第二節 聽大腦的節拍](module-02/02-brainwaves.qmd)
-3. [第三節 當火警鈴響](module-02/03-stress-hormones.qmd)
-4. [第四節 身體安靜承認的事](module-02/04-body-signals.qmd)
+### [第二章 · 身體、大腦與心情](module-02/index.qmd)
+1. [第一節 · 油門、煞車與繁忙的路](module-02/01-brain-action.qmd)
+2. [第二節 · 聽大腦的節奏](module-02/02-brainwaves.qmd)
+3. [第三節 · 火警鈴響起來](module-02/03-stress-hormones.qmd)
+4. [第四節 · 身體悄悄承認的事](module-02/04-body-signals.qmd)
 :::
 ::: {.chapter-map-card}
-### [第三章 歷史、儀式與溫暖](module-03/index.qmd)
-1. [第一節 白銀、商船，以及誰掌握了茶葉](module-03/01-trade-history.qmd)
-2. [第二節 從藥湯到禪寺，再到茶室](module-03/02-monastic-path.qmd)
-3. [第三節 手暖了，看人也會暖一點？](module-03/03-warmth-trust.qmd)
-4. [第四節 泡茶時的停頓，幫你重新定神](module-03/04-ritual-stress.qmd)
+### [第三章 · 歷史與文化](module-03/index.qmd)
+1. [第一節 · 白銀、商船，以及誰掌握了茶葉](module-03/01-trade-history.qmd)
+2. [第二節 · 從藥湯到禪寺，再到茶室](module-03/02-monastic-path.qmd)
+3. [第三節 · 壟斷打破之後](module-03/03-plantation-aftershock.qmd)
+4. [第四節 · 同一片葉，多種劇本](module-03/04-regional-scripts.qmd)
 :::
 ::: {.chapter-map-card}
-### [第四章 決策與選擇](module-04/index.qmd)
-1. [第一節 衝口而出與細心覆核](module-04/01-dual-process.qmd)
-2. [第二節 損失特別痛，明天變模糊](module-04/02-risk-waiting.qmd)
-3. [第三節 信任、公平與合作的遊戲](module-04/03-trust-games.qmd)
-4. [第四節 嚴謹的研究通常怎樣設計](module-04/04-study-protocols.qmd)
+### [第四章 · 情境與儀式心理](module-04/index.qmd)
+1. [第一節 · 手暖了，看人也會暖一點？](module-04/01-warmth-trust.qmd)
+2. [第二節 · 泡茶時的停頓](module-04/02-ritual-stress.qmd)
+3. [第三節 · 你以為杯裡是甚麼](module-04/03-expectation-labels.qmd)
+4. [第四節 · 三個旋鈕，一張地圖](module-04/04-context-dials-map.qmd)
+:::
+::: {.chapter-map-card}
+### [第五章 · 決策與選擇](module-05/index.qmd)
+1. [第一節 · 脫口而出與仔細核對](module-05/01-dual-process.qmd)
+2. [第二節 · 虧損刺痛，明天變淡](module-05/02-risk-waiting.qmd)
+3. [第三節 · 信任、公平與合作遊戲](module-05/03-trust-games.qmd)
+4. [第四節 · 謹慎研究通常怎麼做](module-05/04-study-protocols.qmd)
 :::
 ::::
 
-## 只有十分鐘的話
-
-**「貨架上的標籤是甚麼意思？」** 
-先看[茶葉入門](../tea-basics.qmd)，再到[第一章入口](module-01/index.qmd)。
-
-**「我杯裡有甚麼？」** 
-先看[杯量參考](../cup-reference.qmd)，再讀[第一章第三節 沖泡](module-01/03-brewing.qmd)和[第一章第四節 化合物](module-01/04-compounds.qmd)。
-
-**「為甚麼清醒卻不心慌？」** 
-到[第二章入口](module-02/index.qmd)，再看[連結橋樑](../linkages.qmd#why-waiting-after-the-first-sip-matters)裡講[茶氨酸（L-theanine）](../glossary.qmd#l-theanine)起效時間與平靜腦波的那一道橋。
-
-**「茶只是化學嗎？」** 
-不是。[第三章入口](module-03/index.qmd)把鏡頭拉遠：貿易、寺院、暖杯、泡茶小休。
-
-**「飲品會改變選擇嗎？」** 
-看[第四章入口](module-04/index.qmd)，同時記住本站的提醒：實驗室用的劑量，不等於你平日那一杯。
-
-準備好由頭開始，就打開[第一章](module-01/index.qmd)。水已經熱了。
-
-::: {.callout-tip collapse="true" title="點開更多詳情：腳註與摺疊方框"}
-- **腳註：** 上標數字跳到完整引用；箭嘴跳回原文。滑鼠停住，多數也會彈出摘要。
-- **摺疊方框：** 標題寫着「更多詳情…」的方框，打開之前都是關着的——主線讀得順，細節一按就有。
-:::
+準備從頭開始，就打開[第一章](module-01/index.qmd)。水已經熱了。

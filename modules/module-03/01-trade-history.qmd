@@ -5,7 +5,7 @@ title: "Section 1 · Silver, ships, and who controlled the leaf"
 {{< include ../../_includes/lang-switcher/module-03-trade-history.en.qmd >}}
 
 ::: {.callout-tip}
-**Chapter 3 · Section 1 of 4** — part of [Chapter 3 · History, Ritual & Warmth](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
+**Chapter 3 · Section 1 of 4** — part of [Chapter 3 · History & Culture](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
@@ -134,12 +134,12 @@ Kew's public history (Andrew Butterworth, 2015) and the sources' verification no
 
 **What to refuse:** "Fortune first brought tea to India in 1848." Wild Assam tea was identified and botanically confirmed *before* he sailed. His cargo was Chinese *sinensis* know-how layered onto an industry already underway.[^7][^8]
 
-**Aftershock, still from Kew—not a new economic model:** by **1890**, Kew's history says, India supplied about **90 percent** of Britain's domestic tea market. The same page is blunt about the human cost of clearing land for estates, and notes that Maniram, who had first told Robert Bruce about the leaf, was executed after the 1857 uprising. Sharma's *Empire's Garden* is the longer scholarly trail for how plantations remade land and labor.[^9] Those lines are context for the supermarket bag. They are not a claim that we have re-estimated colonial profit shares.
+**Hinge into the next history sitting:** once Chinese monopoly leaf was no longer the only farm, industrial estates remade land and labor—and the cheap bag followed. Kew's late-nineteenth-century market trail, Sharma's Assam garden history, and (in a foldout) Ceylon's coffee-to-tea switch live in [Section 3 · Plantation aftershock](03-plantation-aftershock.qmd). This lesson stops at the monopoly break and the plant-transfer hinge.[^7][^9]
 :::
 
 ## From monopoly leaf to mass commodity
 
-Late nineteenth-century British plantations in Assam and Darjeeling turned tea into an industrial crop on conceded land. The global Chinese monopoly was broken; tea became a cheap mass commodity.[^9][^7] Your supermarket tea bag exists partly because empire, botany, and industrial plantations rewrote who grew the leaf and how cheaply it could ship.
+The global Chinese monopoly was broken; tea became a plantation commodity. What that aftershock did to land, labor, and the supermarket bag is the next history sitting—[Plantation aftershock](03-plantation-aftershock.qmd)—not a second telling of Fortune's packing cases.[^7][^9]
 
 That is history—not a chemistry claim. Chapter 1 still explains why the bag tastes the way it does. This lesson explains why the bag is *there* for pocket change.
 
@@ -168,9 +168,9 @@ Empire, botany, and industrial plantations broke an older monopoly. Chemistry (C
 ::: {.callout-note collapse="true" title="More detail: connecting this lesson to Chapter 1 and Tea basics"}
 | Everyday label | Historical hinge in this lesson | Where to go next |
 | --- | --- | --- |
-| Assam / English Breakfast–style strong black tea | Assam industry validated 1830s; industrial estates later | [Chapter 1 · Section 1 Plants(../module-01/01-plants.qmd) · [Tea basics](../../tea-basics.qmd) |
-| China-style greens / lighter blacks | Fortune's *sinensis* cultivars + processing know-how layered onto Assam | [Chapter 1 · Section 2 Processing(../module-01/02-processing.qmd) |
-| "Cheap tea bag" | Late 19th-c. plantation commodity after monopoly break | This lesson's closing |
+| Assam / English Breakfast–style strong black tea | Assam industry validated 1830s; industrial estates later | [Chapter 1 · Section 1 Plants](../module-01/01-plants.qmd) · [Tea basics](../../tea-basics.qmd) |
+| China-style greens / lighter blacks | Fortune's *sinensis* cultivars + processing know-how layered onto Assam | [Chapter 1 · Section 2 Processing](../module-01/02-processing.qmd) |
+| "Cheap tea bag" | Late 19th-c. plantation commodity after monopoly break | [Section 3 · Plantation aftershock](03-plantation-aftershock.qmd) |
 
 If aisle words still feel slippery, start at [Tea basics](../../tea-basics.qmd), then return here for the geopolitical plot.
 :::
@@ -194,7 +194,7 @@ The Treaty of Nanking then writes beat 4 into law: ports, Hong Kong Island, inde
 
 For readers in Asia/Hong Kong especially, the Treaty of Nanking is not abstract: Article III's cession of Hong Kong Island sits beside the five treaty ports and the indemnity bill.[^3][^4] Later conflicts through 1860 extended the treaty-port system further (Opium Wars era overview). The tea story is only one thread in that larger sovereignty and trade transformation—but it is a thread that ends in your cupboard.
 
-Sharma's *Empire's Garden* follows how Assam plantations remade land, labor, and a commodity market once the botanical and political pieces were in place.[^9] Kew's public history remains the most approachable open trail for Fortune vs Bruce vs Wallich timing.[^7]
+Kew's public history remains the most approachable open trail for Fortune vs Bruce vs Wallich timing.[^7] For how Assam plantations remade land and labor once those botanical pieces were in place, continue to [Section 3](03-plantation-aftershock.qmd) (Sharma; Kew aftershock).[^9]
 
 
 
