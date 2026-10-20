@@ -23,7 +23,10 @@
     var labels = isHant
       ? {
           home: "首頁",
-          tea: "茶葉入門",
+          teaMenu: "茶",
+          teaBasics: "茶葉入門",
+          teaTroubleshoot: "廚房排障",
+          teaReadingStudies: "讀懂茶研究",
           modules: "章節",
           modulesOverview: "章節總覽",
           m1: "第一章 化學核心",
@@ -39,7 +42,10 @@
         }
       : {
           home: "首页",
-          tea: "茶叶入门",
+          teaMenu: "茶",
+          teaBasics: "茶叶入门",
+          teaTroubleshoot: "厨房排障",
+          teaReadingStudies: "读懂茶研究",
           modules: "章节",
           modulesOverview: "章节总览",
           m1: "第一章 化学核心",
@@ -108,7 +114,9 @@
       { re: /\/modules\/module-03\/index\.html$/, to: "modules/module-03/index.html", labelKey: "m3" },
       { re: /\/modules\/module-04\/index\.html$/, to: "modules/module-04/index.html", labelKey: "m4" },
       { re: /\/modules\/index\.html$/, to: "modules/index.html", labelKey: "modulesOverview" },
-      { re: /\/tea-basics\.html$/, to: "tea-basics.html", labelKey: "tea" },
+      { re: /\/tea-basics\.html$/, to: "tea-basics.html", labelKey: "teaBasics" },
+      { re: /\/tea-troubleshoot\.html$/, to: "tea-troubleshoot.html", labelKey: "teaTroubleshoot" },
+      { re: /\/tea-reading-studies\.html$/, to: "tea-reading-studies.html", labelKey: "teaReadingStudies" },
       { re: /\/cup-reference\.html$/, to: "cup-reference.html", labelKey: "cup" },
       { re: /\/glossary\.html$/, to: "glossary.html", labelKey: "glossary" },
       { re: /\/linkages\.html$/, to: "linkages.html", labelKey: "linkages" },
@@ -170,8 +178,9 @@
     // Relabel top-level dropdown toggles
     document.querySelectorAll(".navbar .nav-link.dropdown-toggle").forEach(function (tog) {
       var t = (tog.textContent || "").trim();
-      if (/^Chapters?$/i.test(t)) setLinkText(tog, labels.modules);
+      if (/^Chapters?$/i.test(t) || /^Modules$/i.test(t)) setLinkText(tog, labels.modules);
       else if (/^Reference$/i.test(t)) setLinkText(tog, labels.reference);
+      else if (/^Tea$/i.test(t)) setLinkText(tog, labels.teaMenu);
       // leave Language toggle
     });
 
@@ -183,7 +192,7 @@
       rewriteAnchor(a);
       var t = (a.textContent || "").trim();
       if (/^Home$/i.test(t)) setLinkText(a, labels.home);
-      else if (/^Tea basics$/i.test(t)) setLinkText(a, labels.tea);
+      else if (/^Tea basics$/i.test(t)) setLinkText(a, labels.teaBasics);
     });
 
     // Search placeholder
