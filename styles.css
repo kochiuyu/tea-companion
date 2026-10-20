@@ -79,3 +79,16 @@ body {
   margin-top: -0.5rem;
   margin-bottom: 1.25rem;
 }
+
+/* Glossary term links (in-text → locale glossary#id): dotted underline.
+   Footnotes stay as numbered superscripts; chapter/nav links keep default underline. */
+a[href*="glossary.html#"],
+a[href*="glossary.qmd#"] {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.18em;
+}
+a[href*="glossary.html#"]:hover,
+a[href*="glossary.qmd#"]:hover {
+  text-decoration-style: solid;
+}
