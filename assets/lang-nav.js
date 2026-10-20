@@ -2,6 +2,7 @@
  * Runs only when <html lang> starts with "zh".
  * Rewrites top-nav labels + hrefs to the same-locale tree.
  * Works under GitHub Pages (/tea-companion/) and local (_site/).
+ * Matches pretty URLs (…/module-01/) and …/index.html.
  */
 (function () {
   function ready(fn) {
@@ -14,7 +15,6 @@
     if (!htmlLang.startsWith("zh")) return;
 
     var isHant = htmlLang.indexOf("hant") !== -1 || htmlLang.indexOf("hk") !== -1;
-    // zh-Hans vs zh-Hant-HK
     if (htmlLang === "zh-hans" || htmlLang.indexOf("hans") !== -1) isHant = false;
     if (htmlLang.indexOf("hant") !== -1) isHant = true;
 
@@ -62,40 +62,25 @@
           searchPlaceholder: "搜索",
         };
 
-    // Detect site root (handles /tea-companion/ on GitHub Pages).
-    // Prefer <base href> if present; else infer from a known EN home link in the navbar.
     function siteRoot() {
+      // Ignore empty <base href> — browsers treat it as the document URL and
+      // would wrongly nest the locale (…/zh-hant-hk/zh-hant-hk/…).
       var base = document.querySelector("base");
-      if (base && base.href) {
-        try {
-          var u = new URL(base.href);
-          return u.pathname.endsWith("/") ? u.pathname : u.pathname.replace(/\/[^/]*$/, "/");
-        } catch (e) {}
+      if (base) {
+        var raw = base.getAttribute("href");
+        if (raw && raw.trim() && raw.trim() !== "./") {
+          try {
+            var u = new URL(raw, window.location.href);
+            var p = u.pathname;
+            // If base points inside a locale folder, strip back to site root
+            p = p.replace(/\/zh-hant-hk\/.*$/, "/").replace(/\/zh-hans\/.*$/, "/");
+            if (!p.endsWith("/")) p = p.replace(/\/[^/]*$/, "/");
+            if (p) return p;
+          } catch (e) {}
+        }
       }
-      // Find any navbar link to index.html at site root or locale root
-      var anchors = document.querySelectorAll(".navbar a[href]");
-      for (var i = 0; i < anchors.length; i++) {
-        var href = anchors[i].getAttribute("href");
-        if (!href) continue;
-        try {
-          var abs = new URL(href, window.location.href);
-          var path = abs.pathname;
-          // Match .../tea-companion/index.html or .../tea-companion/zh-hans/index.html
-          var m = path.match(/^(.*\/)(?:zh-hant-hk\/|zh-hans\/)?(?:index\.html)?$/);
-          if (m && /index\.html$/.test(path)) {
-            // Strip locale prefix if present
-            var root = path.replace(/zh-hant-hk\/index\.html$/, "")
-                           .replace(/zh-hans\/index\.html$/, "")
-                           .replace(/index\.html$/, "");
-            if (root) return root;
-          }
-        } catch (e) {}
-      }
-      // Fallback: walk up from current path until we leave zh-* or hit site
       var parts = window.location.pathname.split("/").filter(Boolean);
-      // Drop filename
       if (parts.length && /\.html?$/.test(parts[parts.length - 1])) parts.pop();
-      // Drop locale and below
       var idx = parts.indexOf("zh-hant-hk");
       if (idx === -1) idx = parts.indexOf("zh-hans");
       if (idx !== -1) parts = parts.slice(0, idx);
@@ -104,70 +89,58 @@
 
     var root = siteRoot();
     function locUrl(rel) {
-      // rel like "index.html" or "modules/module-01/index.html"
       return root + locale + "/" + rel.replace(/^\//, "");
     }
 
-    // Map English navbar path suffixes → locale-relative targets
-    // Most-specific paths first so /modules/.../index.html is not eaten by /index.html
+    // optional /index.html or trailing slash (GitHub Pages pretty URLs)
+    function modRe(n) {
+      return new RegExp("\\/modules\\/module-0" + n + "(?:\\/(?:index\\.html)?)?$");
+    }
     var pathMap = [
-      { re: /\/modules\/module-01\/index\.html$/, to: "modules/module-01/index.html", labelKey: "m1" },
-      { re: /\/modules\/module-02\/index\.html$/, to: "modules/module-02/index.html", labelKey: "m2" },
-      { re: /\/modules\/module-03\/index\.html$/, to: "modules/module-03/index.html", labelKey: "m3" },
-      { re: /\/modules\/module-04\/index\.html$/, to: "modules/module-04/index.html", labelKey: "m4" },
-      { re: /\/modules\/module-05\/index\.html$/, to: "modules/module-05/index.html", labelKey: "m5" },
-      { re: /\/modules\/index\.html$/, to: "modules/index.html", labelKey: "modulesOverview" },
-      { re: /\/tea-basics\.html$/, to: "tea-basics.html", labelKey: "teaBasics" },
-      { re: /\/tea-troubleshoot\.html$/, to: "tea-troubleshoot.html", labelKey: "teaTroubleshoot" },
-      { re: /\/tea-reading-studies\.html$/, to: "tea-reading-studies.html", labelKey: "teaReadingStudies" },
-      { re: /\/cup-reference\.html$/, to: "cup-reference.html", labelKey: "cup" },
-      { re: /\/glossary\.html$/, to: "glossary.html", labelKey: "glossary" },
-      { re: /\/linkages\.html$/, to: "linkages.html", labelKey: "linkages" },
-      { re: /\/bibliography\.html$/, to: "bibliography.html", labelKey: "bibliography" },
-      // Root home only (not .../modules/.../index.html)
+      { re: modRe(1), to: "modules/module-01/index.html", labelKey: "m1" },
+      { re: modRe(2), to: "modules/module-02/index.html", labelKey: "m2" },
+      { re: modRe(3), to: "modules/module-03/index.html", labelKey: "m3" },
+      { re: modRe(4), to: "modules/module-04/index.html", labelKey: "m4" },
+      { re: modRe(5), to: "modules/module-05/index.html", labelKey: "m5" },
+      { re: /\/modules(?:\/(?:index\.html)?)?$/, to: "modules/index.html", labelKey: "modulesOverview" },
+      { re: /\/tea-basics(?:\.html)?$/, to: "tea-basics.html", labelKey: "teaBasics" },
+      { re: /\/tea-troubleshoot(?:\.html)?$/, to: "tea-troubleshoot.html", labelKey: "teaTroubleshoot" },
+      { re: /\/tea-reading-studies(?:\.html)?$/, to: "tea-reading-studies.html", labelKey: "teaReadingStudies" },
+      { re: /\/cup-reference(?:\.html)?$/, to: "cup-reference.html", labelKey: "cup" },
+      { re: /\/glossary(?:\.html)?$/, to: "glossary.html", labelKey: "glossary" },
+      { re: /\/linkages(?:\.html)?$/, to: "linkages.html", labelKey: "linkages" },
+      { re: /\/bibliography(?:\.html)?$/, to: "bibliography.html", labelKey: "bibliography" },
+      // Site home: /index.html or bare site root (not …/modules/)
       { re: /\/index\.html$/, to: "index.html", labelKey: "home" },
+      { re: new RegExp("^" + root.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "$"), to: "index.html", labelKey: "home" },
     ];
 
-    function rewriteAnchor(a) {
-      var href = a.getAttribute("href");
-      if (!href || href === "#" || href.indexOf("mailto:") === 0) return;
-      // Leave Language menu home links alone (they already point at the three homes)
-      var inLangMenu = a.closest("#nav-menu-language--語言") ||
-                       a.closest('[id*="nav-menu-language"]') ||
-                       (a.closest(".dropdown-menu") && a.closest(".nav-item") &&
-                        /Language|語言|语言/.test((a.closest(".nav-item").querySelector(".nav-link") || {}).textContent || ""));
-      // More reliable: if parent dropdown toggle contains "Language"
-      var drop = a.closest("li.nav-item.dropdown");
-      if (drop) {
-        var toggle = drop.querySelector(".nav-link.dropdown-toggle");
-        if (toggle && /Language|語言|语言/.test(toggle.textContent || "")) {
-          return; // keep Language menu as-is
-        }
-      }
-
-      var abs;
-      try { abs = new URL(href, window.location.href); } catch (e) { return; }
-      var path = abs.pathname;
-
-      // Skip if already under this locale
-      if (path.indexOf("/" + locale + "/") !== -1) {
-        // Still relabel if needed
-      } else {
-        for (var i = 0; i < pathMap.length; i++) {
-          if (pathMap[i].re.test(path)) {
-            a.setAttribute("href", locUrl(pathMap[i].to));
-            if (pathMap[i].labelKey && labels[pathMap[i].labelKey]) {
-              // Only replace text nodes; keep icons
-              setLinkText(a, labels[pathMap[i].labelKey]);
-            }
-            return;
-          }
-        }
-      }
-    }
+    // English (or stale) link text → labelKey, when path matching is ambiguous
+    var textMap = [
+      { re: /^Chapters?\s*overview$/i, labelKey: "modulesOverview", to: "modules/index.html" },
+      { re: /^Chapter\s*1\b/i, labelKey: "m1", to: "modules/module-01/index.html" },
+      { re: /^Chapter\s*2\b/i, labelKey: "m2", to: "modules/module-02/index.html" },
+      { re: /^Chapter\s*3\b/i, labelKey: "m3", to: "modules/module-03/index.html" },
+      { re: /^Chapter\s*4\b/i, labelKey: "m4", to: "modules/module-04/index.html" },
+      { re: /^Chapter\s*5\b/i, labelKey: "m5", to: "modules/module-05/index.html" },
+      { re: /^Modules$/i, labelKey: "modulesOverview", to: "modules/index.html" },
+      { re: /^Home$/i, labelKey: "home", to: "index.html" },
+      { re: /^Basics$/i, labelKey: "teaBasics", to: "tea-basics.html" },
+      { re: /^Tea basics$/i, labelKey: "teaBasics", to: "tea-basics.html" },
+      { re: /^Kitchen troubleshoot$/i, labelKey: "teaTroubleshoot", to: "tea-troubleshoot.html" },
+      { re: /^Reading a tea study$/i, labelKey: "teaReadingStudies", to: "tea-reading-studies.html" },
+      { re: /^Cup reference$/i, labelKey: "cup", to: "cup-reference.html" },
+      { re: /^Glossary$/i, labelKey: "glossary", to: "glossary.html" },
+      { re: /^Linkages$/i, labelKey: "linkages", to: "linkages.html" },
+      { re: /^Bibliography$/i, labelKey: "bibliography", to: "bibliography.html" },
+    ];
 
     function setLinkText(a, text) {
-      // Prefer direct text; preserve leading icons
+      var span = a.querySelector(".dropdown-text, .menu-text");
+      if (span) {
+        span.textContent = text;
+        return;
+      }
       var icon = a.querySelector("i, .bi, svg");
       if (icon) {
         a.innerHTML = "";
@@ -178,27 +151,86 @@
       }
     }
 
-    // Relabel top-level dropdown toggles
+    function applyTarget(a, to, labelKey) {
+      a.setAttribute("href", locUrl(to));
+      if (labelKey && labels[labelKey]) setLinkText(a, labels[labelKey]);
+    }
+
+    function rewriteAnchor(a) {
+      var href = a.getAttribute("href");
+      if (!href || href === "#" || href.indexOf("mailto:") === 0) return;
+
+      var drop = a.closest("li.nav-item.dropdown");
+      if (drop) {
+        var toggle = drop.querySelector(".nav-link.dropdown-toggle");
+        if (toggle && /Language|語言|语言/.test(toggle.textContent || "")) {
+          return;
+        }
+      }
+
+      var abs;
+      try { abs = new URL(href, window.location.href); } catch (e) { return; }
+      var path = abs.pathname.replace(/\/+$/, function (m, off, s) {
+        // keep single trailing slash for directory URLs; normalize // 
+        return s.length > 1 ? "/" : m;
+      });
+      // Normalize: strip trailing slash except for root
+      if (path.length > 1 && path.endsWith("/")) path = path.slice(0, -1);
+
+      var matched = false;
+      if (path.indexOf("/" + locale + "/") === -1) {
+        for (var i = 0; i < pathMap.length; i++) {
+          // test against both raw and stripped forms
+          var raw = abs.pathname;
+          if (pathMap[i].re.test(raw) || pathMap[i].re.test(path) || pathMap[i].re.test(path + "/")) {
+            applyTarget(a, pathMap[i].to, pathMap[i].labelKey);
+            matched = true;
+            break;
+          }
+        }
+      } else {
+        // Already under this locale: still relabel
+        for (var j = 0; j < pathMap.length; j++) {
+          var raw2 = abs.pathname;
+          if (pathMap[j].re.test(raw2) || pathMap[j].re.test(path) || pathMap[j].re.test(path + "/")) {
+            if (pathMap[j].labelKey && labels[pathMap[j].labelKey]) {
+              setLinkText(a, labels[pathMap[j].labelKey]);
+            }
+            matched = true;
+            break;
+          }
+        }
+      }
+
+      if (!matched) {
+        var t = (a.textContent || "").replace(/\s+/g, " ").trim();
+        for (var k = 0; k < textMap.length; k++) {
+          if (textMap[k].re.test(t)) {
+            applyTarget(a, textMap[k].to, textMap[k].labelKey);
+            break;
+          }
+        }
+      }
+    }
+
     document.querySelectorAll(".navbar .nav-link.dropdown-toggle").forEach(function (tog) {
-      var t = (tog.textContent || "").trim();
+      var t = (tog.textContent || "").replace(/\s+/g, " ").trim();
       if (/^Chapters?$/i.test(t) || /^Modules$/i.test(t)) setLinkText(tog, labels.modules);
       else if (/^Reference$/i.test(t)) setLinkText(tog, labels.reference);
       else if (/^Tea$/i.test(t)) setLinkText(tog, labels.teaMenu);
-      // leave Language toggle
     });
 
-    // Rewrite all navbar anchors (except Language menu)
     document.querySelectorAll(".navbar a[href]").forEach(rewriteAnchor);
 
-    // Top-level Home / Tea basics (non-dropdown)
     document.querySelectorAll(".navbar .nav-item > .nav-link:not(.dropdown-toggle)").forEach(function (a) {
       rewriteAnchor(a);
-      var t = (a.textContent || "").trim();
-      if (/^Home$/i.test(t)) setLinkText(a, labels.home);
-      else if (/^Tea basics$/i.test(t)) setLinkText(a, labels.teaBasics);
+      var t = (a.textContent || "").replace(/\s+/g, " ").trim();
+      if (/^Home$/i.test(t) || t === labels.home) {
+        a.setAttribute("href", locUrl("index.html"));
+        setLinkText(a, labels.home);
+      }
     });
 
-    // Search placeholder
     var search = document.getElementById("quarto-search");
     if (search) {
       var input = search.querySelector("input");
@@ -207,8 +239,5 @@
         input.setAttribute("aria-label", labels.searchPlaceholder);
       }
     }
-
-    // Document title suffix: leave as-is (site title is English project-wide);
-    // page H1 already Chinese from qmd.
   });
 })();
