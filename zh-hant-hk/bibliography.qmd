@@ -17,15 +17,15 @@ lang: zh-Hant-HK
 
 本站每一個說法，都應該有跡可尋。
 
-當某一章寫着「咖啡因約 30–50 mg」或「威廉斯與巴奇（2008）」，這句話就應該指向一個你可以核對的地方——本頁的某一條文獻，或背後由作者提供的資料包。這裡沒有任何東西是為了裝飾而虛構的。故事力求有趣；出處則負責讓它保持誠實。
+當某一章寫着「咖啡因約 30–50 毫克」或「威廉斯與巴奇（2008）」，這句話就應該指向一個你可以核對的地方——本頁的某一條文獻，或本頁列出的來源。這裡沒有任何東西是為了裝飾而虛構的。故事力求有趣；出處則負責讓它保持誠實。
 
 任何人都可以在網站上寫一句充滿自信的話。**引用文獻**就是一條線索：作者、年份，通常還有期刊或書名，讓別人可以找到原文來看。這不代表每篇論文都完美無瑕——只代表我們不是要你相信一句口號。
 
 就本站而言：
 
-- 各章頁面上的數字和研究速寫，應與下面的條目（或已查證的資料包）一致。
-- 有些資料包的引用很簡短（只有年份和期刊）。我們照資料包原樣保留，沒有自行猜補缺少的標題。
-- 資料包提供完整資料時，條目採用美國心理學會（APA）格式。
+- 各章頁面上的數字和研究速寫，應與下面的條目（或已核對的來源）一致。
+- 有些引用很簡短（只有年份和期刊）。我們照原樣保留，沒有自行猜補缺少的標題。
+- 已核對來源提供完整資料時，條目採用美國心理學會（APA）格式。
 - 我們從初學者頁面刪去的密集實驗數據，日後想找的話，大多仍可在這些論文裡找到。
 
 **怎樣使用這一頁。** 在某一課看到作者和年份（例如 Nobre et al., 2008），就到下面相應的分節找出那一條。如果需要完整的研究方法，請打開論文本身——這份清單是地圖，不是原文重印。
@@ -90,7 +90,6 @@ Wight, W. (1962). *Nature, 196*, 441. (Cited in Chapter 1 additions for somatic 
 
 Xia, E. H., et al. (2017). *Proceedings of the National Academy of Sciences, 114*(17), E3569–E3558. (Cited in Chapter 1 additions for relative genomic size; page string as given in that pack.)
 
-
 ## 大腦、心情與身體指標 {#brain-mood-and-body-measures}
 
 Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-norepinephrine function: Adaptive gain and optimal performance. *Annual Review of Neuroscience, 28*, 403–450.
@@ -141,7 +140,6 @@ Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine c
 
 Yoto, A., et al. (2012). *Journal of Physiological Anthropology, 31*(1), 28. (Cited in Chapter 2 additions for salivary cortisol under cognitive stress.)
 
-
 ## 歷史、溫暖與儀式 {#history-warmth-and-ritual}
 
 Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
@@ -190,7 +188,6 @@ Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes in
 
 Yifa. (2002). *The Origins of Buddhist Monastic Codes in China: An Annotated Translation of the Chanyuan Qinggui* (pp. 114–118). University of Hawaii Press.
 
-
 ## 決策、博弈與研究方法 {#decisions-games-and-study-methods}
 
 Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books.
@@ -229,7 +226,6 @@ Steele, C. M., & Josephs, R. A. (1990). Alcohol myopia: Its prized and dangerous
 
 Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5*(4), 297–323.
 
-
 ## 關於引用的完整性 {#note-on-completeness}
 
-根據引用完整性審核報告，全部十六個分支都有完整的第一手出處（主資料庫中 59 條基礎文獻，另加增補資料包裡的臨床和歷史來源）。在那次審核中，有四項說法特別以第一手論文加強了依據：多酚氧化酶的熱變性（Subramanian et al., 1999）、茶氨酸與受體的親和力（Kakuda et al., 2002）、鴉片貿易的箱數（Morse, 1926），以及錯誤相關負波的波幅差異（Hobson et al., 2017）。
+根據引用完整性審核報告，全部十六個分支都有完整的第一手出處（主文獻庫中 59 條基礎文獻，另加增補文中的臨床和歷史來源）。在那次審核中，有四項說法特別以第一手論文加強了依據：多酚氧化酶的熱變性（Subramanian et al., 1999）、茶氨酸與受體的親和力（Kakuda et al., 2002）、鴉片貿易的箱數（Morse, 1926），以及錯誤相關負波的波幅差異（Hobson et al., 2017）。

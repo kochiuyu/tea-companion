@@ -17,15 +17,15 @@ lang: zh-Hans
 
 本站的每一条说法，都应该有据可查。
 
-当某一章写着“约 30–50 mg 咖啡因”或“威廉斯与巴奇（Williams & Bargh，2008）”时，这句话就应该指向一个你能核对的地方——本页的某一条文献，或者背后由作者提供的资料包。这里没有任何东西是为了装点门面而编造的。故事力求有趣，出处力求诚实。
+当某一章写着“约 30–50 毫克 咖啡因”或“威廉斯与巴奇（Williams & Bargh，2008）”时，这句话就应该指向一个你能核对的地方——本页的某一条文献，或本页列出的来源。这里没有任何东西是为了装点门面而编造的。故事力求有趣，出处力求诚实。
 
 谁都可以在网站上写下一句言之凿凿的话。而**引文**留下的是一条线索：作者、年份，通常还有期刊名或书名，好让别人能找到原文。这并不意味着每篇论文都完美无缺——只是说，我们没有要你去相信一句口号。
 
 对本站来说：
 
-- 各章页面上的数字和研究速写，应当与下面的条目（或核实过的资料包）一致。
-- 资料包里有些引文很简略（只有年份和期刊）。我们照资料包原样保留，没有去猜补缺失的标题。
-- 资料包给出完整信息时，条目按 APA 格式书写。
+- 各章页面上的数字和研究速写，应当与下面的条目（或已核对的来源）一致。
+- 文中有些引文很简略（只有年份和期刊）。我们照原样保留，没有去猜补缺失的标题。
+- 来源给出完整信息时，条目按 APA 格式书写。
 - 从入门页面删去的那些密集的实验室常数，如果你以后想查，许多仍然可以在这些论文里找到。
 
 **怎样使用这一页。** 在课文里看到一个“人名＋年份”（例如 Nobre et al., 2008），就在下面相应的分节里找到那一条。如果需要完整的研究方法，请直接打开论文本身——这份清单是一张地图，不是原文的重印。
@@ -88,7 +88,6 @@ Wight, W. (1962). *Nature, 196*, 441. (Cited in Chapter 1 additions for somatic 
 
 Xia, E. H., et al. (2017). *Proceedings of the National Academy of Sciences, 114*(17), E3569–E3558. (Cited in Chapter 1 additions for relative genomic size; page string as given in that pack.)
 
-
 ## 大脑、情绪与身体指标 {#brain-mood-and-body-measures}
 
 Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-norepinephrine function: Adaptive gain and optimal performance. *Annual Review of Neuroscience, 28*, 403–450.
@@ -139,7 +138,6 @@ Williams, J. L., et al. (2020). The effects of green tea amino acid L-theanine c
 
 Yoto, A., et al. (2012). *Journal of Physiological Anthropology, 31*(1), 28. (Cited in Chapter 2 additions for salivary cortisol under cognitive stress.)
 
-
 ## 历史、温暖与仪式 {#history-warmth-and-ritual}
 
 Benn, J. A. (2015). *Tea in China: A Religious and Cultural History*. University of Hawaii Press.
@@ -188,7 +186,6 @@ Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes in
 
 Yifa. (2002). *The Origins of Buddhist Monastic Codes in China: An Annotated Translation of the Chanyuan Qinggui* (pp. 114–118). University of Hawaii Press.
 
-
 ## 决策、博弈与研究方法 {#decisions-games-and-study-methods}
 
 Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books.
@@ -227,7 +224,6 @@ Steele, C. M., & Josephs, R. A. (1990). Alcohol myopia: Its prized and dangerous
 
 Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5*(4), 297–323.
 
-
 ## 关于文献完整性的说明 {#note-on-completeness}
 
-引文完整性审核报告显示：全部 16 个分支都有完整的原始出处（主数据库中的 59 条基础文献，加上增补资料包里的临床和历史文献）。在这次审核中，有四项说法专门补上了原始论文作为支撑：多酚氧化酶（PPO）的变性（Subramanian et al., 1999）、茶氨酸与受体的亲和力（Kakuda et al., 2002）、鸦片贸易的箱数（Morse, 1926），以及错误相关负波（ERN）的波幅差（Hobson et al., 2017）。
+引文完整性审核报告显示：全部 16 个分支都有完整的原始出处（主数据库中的 59 条基础文献，加上增补文中的临床和历史文献）。在这次审核中，有四项说法专门补上了原始论文作为支撑：多酚氧化酶（PPO）的变性（Subramanian et al., 1999）、茶氨酸与受体的亲和力（Kakuda et al., 2002）、鸦片贸易的箱数（Morse, 1926），以及错误相关负波（ERN）的波幅差（Hobson et al., 2017）。

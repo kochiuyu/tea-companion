@@ -2,7 +2,7 @@
 title: "Chapter 3 · History, Ritual & Warmth"
 ---
 
-{{< include ../../_includes/lang-switcher/module-03.en.qmd >}}
+{{< include../../_includes/lang-switcher/module-03.en.qmd >}}
 
 If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back until the whole room comes into view.
 
@@ -33,7 +33,7 @@ Click footnote markers for full citations (and the caret to return). Open "More 
 
 ## The four sections
 
-Each sitting is one pack branch—the same four-way split as the owner's source packs. Lessons are now **full sittings** (story voice, footnotes, collapsed "More detail…" foldouts). Read in order for the full story, or hop to the lesson you need.
+Lessons are now **full sittings** (story voice, footnotes, collapsed "More detail…" foldouts). Read in order for the full story, or hop to the lesson you need.
 
 1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)** — Canton silver, opium, Nanking, Fortune myth corrected
 2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)** — Han medicine → Chan code → Eisai / *chado*
@@ -54,7 +54,6 @@ Picture the chapter as four rooms you walk through in order—same leaf family, 
 
 Needham's botanical history and Benn's religious-cultural history are reminders that tea was never only a stimulant molecule waiting for a Western lab.[^3] The packs keep money, ritual, warmth, and chemistry as *separate threads*—and so do we.
 :::
-
 
 ## Why this chapter belongs after the lab coat
 
@@ -80,13 +79,9 @@ Chemistry explains why a leaf can wake you. History explains why that leaf is ch
 **One sentence for Chapter 4:** context is part of the dose. Temperature, ritual, and expectation ride along with caffeine and L-theanine—so careful decision studies lock mug temperature and bitterness, and headlines that ignore them are incomplete.
 :::
 
-
-
 ---
 
 **Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 2 hub](../module-02/index.qmd) · [First lesson →](01-trade-history.qmd) · [Chapter 4 hub →](../module-04/index.qmd)
-
-
 
 [^1]: Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
 

@@ -2,9 +2,9 @@
 title: "Chapters"
 ---
 
-{{< include ../_includes/lang-switcher/modules.en.qmd >}}
+{{< include../_includes/lang-switcher/modules.en.qmd >}}
 
-Imagine this site as a short trip with four stops—and each stop now has **four sections** (sixteen sittings in all), matching the owner's source-pack branches.
+Imagine this site as a short trip with four stops—and each stop has **four sections** (sixteen sittings in all).
 
 You begin in a garden and a kitchen—plants, processing, brewing, and the compounds in a mug. You travel inward into the body and brain. You climb out again into history, monasteries, warm hands, and ritual. You end in a lab where people play careful games about risk and trust. Each section answers a question the previous one left hanging.
 
@@ -54,10 +54,6 @@ Scan the whole journey at a glance. Each card is one chapter; each link is one s
 :::
 ::::
 
-::: {.chapter-map-note}
-Why **four** sections per chapter, not three? The source packs already use a four-branch skeleton in every chapter. Splitting one long chapter into those four sittings keeps each page a full sitting—without stuffing three topics into an oversized scroll.
-:::
-
 ## If you only have ten minutes
 
 **"What do aisle labels mean?"**  
@@ -73,7 +69,7 @@ Go to [Chapter 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#
 No. [Chapter 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, warm mugs, brewing breaks.
 
 **"Do drinks change choices?"**  
-[Chapter 4 hub](module-04/index.qmd)—with the packs' caveats that lab doses are not your everyday mug.
+[Chapter 4 hub](module-04/index.qmd)—with the caveat that lab doses are not your everyday mug.
 
 When you are ready to begin at the beginning, open [Chapter 1](module-01/index.qmd). The water is already hot.
 

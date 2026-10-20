@@ -2,7 +2,7 @@
 title: "Chapter 1 · The Chemical Core"
 ---
 
-{{< include ../../_includes/lang-switcher/module-01.en.qmd >}}
+{{< include../../_includes/lang-switcher/module-01.en.qmd >}}
 
 Here is a small mystery almost every tea drinker has lived through.
 
@@ -44,7 +44,7 @@ Neither trick invents facts. They only change how much detail sits on the open p
 
 ## The four sections
 
-Each sitting is one pack branch. The open pages stay lay-friendly; open a foldout when you want the chemistry depth.
+Each sitting is one section of the chapter. The open pages stay lay-friendly; open a foldout when you want the chemistry depth.
 
 1. **[Two plants, one species](01-plants.qmd)** — China-type vs Assam-type as everyday leaf personalities; garden fine print; aisle bridges.
 2. **[The fork in the road: stop the browning, or let it run](02-processing.qmd)** — kitchen "stop browning" vs "let it brown"; oolong middle path; fermentation myth.

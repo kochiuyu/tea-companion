@@ -28,10 +28,10 @@ lang: zh-Hans
 | 词条 | 简易定义 | 出现位置 |
 | --- | --- | --- |
 | 腺苷受体（A1、A2A） | 脑里“慢下来／想睡”的感应器；咖啡因挡住它们，让你保持清醒。 | [第二章](modules/module-02/index.qmd) |
-| 阿尔法脑波（Alpha） | 较慢的平静专注脑节奏（约 8–12 Hz），常与茶氨酸相关。 | [第二章](modules/module-02/index.qmd) |
+| 阿尔法脑波（Alpha） | 较慢的平静专注脑节奏（约 8–12 赫兹），常与茶氨酸相关。 | [第二章](modules/module-02/index.qmd) |
 | 前岛叶皮层 | 同时处理体温与信任、同理等感受的脑区。 | [第三章](modules/module-03/index.qmd) |
 | 气球类比风险任务（BART） | 以虚拟气球打气多远来量风险承担的电脑游戏。 | [第四章](modules/module-04/index.qmd) |
-| 贝塔脑波（Beta） | 较快的警觉（或焦虑）脑节奏（约 12–30 Hz），常随咖啡因上升。 | [第二章](modules/module-02/index.qmd) |
+| 贝塔脑波（Beta） | 较快的警觉（或焦虑）脑节奏（约 12–30 赫兹），常随咖啡因上升。 | [第二章](modules/module-02/index.qmd) |
 | 阿萨姆大叶种（var. *assamica*） | 大叶、偏热带的茶树类型；往往咖啡因较高、苦味较强。 | [第一章](modules/module-01/index.qmd) |
 | 中国小叶种（var. *sinensis*） | 小叶、较耐寒的中国型；往往茶氨酸与香气较丰富。 | [第一章](modules/module-01/index.qmd) |
 | 广州贸易制度（一口通商） | 清朝（1757–1842）规定西方贸易集中广州、并要求以白银结算的制度。 | [第三章](modules/module-03/index.qmd) |
@@ -51,15 +51,15 @@ lang: zh-Hans
 | 皮肤电导反应（SCR） | 追踪压力与唤起的微小出汗变化。 | [第二章](modules/module-02/index.qmd) |
 | 茶黄素 | 红茶氧化时形成的明亮金红色色素。 | [第一章](modules/module-01/index.qmd) |
 | 茶红素 | 较深、较大的色素，赋予红茶体感与颜色。 | [第一章](modules/module-01/index.qmd) |
-| 西塔脑波（Theta） | 较慢的昏沉节奏（约 4–8 Hz），常随疲劳或酒精上升。 | [第二章](modules/module-02/index.qmd) |
+| 西塔脑波（Theta） | 较慢的昏沉节奏（约 4–8 赫兹），常随疲劳或酒精上升。 | [第二章](modules/module-02/index.qmd) |
 | 《南京条约》（1842） | 第一次鸦片战争结束后的不平等条约：赔款、五口通商、割让香港。 | [第三章](modules/module-03/index.qmd) |
 
 ## 按章
 
-**[第一章 — 叶与杯](modules/module-01/index.qmd)：** 阿萨姆大叶种、中国小叶种、EGCG、茶氨酸、多酚氧化酶、茶黄素、茶红素  
+**[第一章 — 叶与杯](modules/module-01/index.qmd)：** 阿萨姆大叶种、中国小叶种、EGCG、茶氨酸、多酚氧化酶、茶黄素、茶红素 
 
-**[第二章 — 身与心](modules/module-02/index.qmd)：** 腺苷受体、阿尔法／贝塔／西塔脑波、心率变异性、HPA 轴、皮肤电导  
+**[第二章 — 身与心](modules/module-02/index.qmd)：** 腺苷受体、阿尔法／贝塔／西塔脑波、心率变异性、HPA 轴、皮肤电导 
 
-**[第三章 — 历史与仪式](modules/module-03/index.qmd)：** 广州贸易制度、《禅苑清规》、具身认知、错误相关负波、岛叶皮层、《吃茶养生记》、《南京条约》  
+**[第三章 — 历史与仪式](modules/module-03/index.qmd)：** 广州贸易制度、《禅苑清规》、具身认知、错误相关负波、岛叶皮层、《吃茶养生记》、《南京条约》 
 
-**[第四章 — 决策](modules/module-04/index.qmd)：** 气球类比风险任务、双加工理论、爱荷华赌博任务、损失厌恶系数、现时偏误参数  
+**[第四章 — 决策](modules/module-04/index.qmd)：** 气球类比风险任务、双加工理论、爱荷华赌博任务、损失厌恶系数、现时偏误参数 
