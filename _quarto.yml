@@ -33,10 +33,14 @@ project:
     - bibliography.qmd
     - zh-hant-hk/index.qmd
     - zh-hant-hk/tea-basics.qmd
+    - zh-hant-hk/tea-troubleshoot.qmd
+    - zh-hant-hk/tea-reading-studies.qmd
     - zh-hant-hk/cup-reference.qmd
     - zh-hant-hk/glossary.qmd
     - zh-hans/index.qmd
     - zh-hans/tea-basics.qmd
+    - zh-hans/tea-troubleshoot.qmd
+    - zh-hans/tea-reading-studies.qmd
     - zh-hans/cup-reference.qmd
     - zh-hans/glossary.qmd
     - zh-hant-hk/modules/index.qmd
