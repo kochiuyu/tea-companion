@@ -4,6 +4,8 @@ project:
   render:
     - index.qmd
     - tea-basics.qmd
+    - tea-troubleshoot.qmd
+    - tea-reading-studies.qmd
     - modules/index.qmd
     - modules/module-01/index.qmd
     - modules/module-01/01-plants.qmd
@@ -92,8 +94,14 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Tea basics
-        href: tea-basics.qmd
+      - text: Tea
+        menu:
+          - text: Basics
+            href: tea-basics.qmd
+          - text: Kitchen troubleshoot
+            href: tea-troubleshoot.qmd
+          - text: Reading a tea study
+            href: tea-reading-studies.qmd
       - text: Chapters
         menu:
           - text: Chapters overview

@@ -1,0 +1,118 @@
+---
+title: "Reading a tea study"
+---
+{{< include _includes/lang-switcher/tea-reading-studies.en.qmd >}}
+
+
+Headlines say “tea improves decisions.” This page is the **methods vocabulary door**: what “a cup” meant, dose vs grocery mug, washout, matched mug, and when the test ran—so you can read Chapter 4 without treating marketing as a finding.
+
+It is not a second chemistry lesson and not a second protocol textbook. Full protocol depth lives in [Chapter 4 · Section 4 — How careful studies are usually built](modules/module-04/04-study-protocols.qmd). Typical milligrams live on the [Cup reference](cup-reference.qmd). Use **this** page when a headline or abstract feels confident and you want five referee questions before you believe it.
+
+Keep [Tea basics](tea-basics.qmd) for shelf labels. Keep [Kitchen troubleshoot](tea-troubleshoot.qmd) for bitter or flat mugs. Keep the [Glossary](glossary.qmd) when a task acronym appears ([BART](glossary.qmd#bart), [IGT](glossary.qmd#igt), and friends).
+
+::: {.callout-tip title="5-minute headline path"}
+1. **Washout?** Did people arrive caffeine-free, or already buzzing?
+2. **Matched cup?** Same volume, warmth, bitterness—or was one arm obviously “real tea”?
+3. **Timing?** Near the shared peak window, or right after the first sip?
+4. **Dose vs mug?** Lab capsule / ISO-strength liquor, or an ordinary grocery steep?
+5. **Which task?** Risk, learning, attention, fairness… each measures a different nudge.
+
+Then open [Chapter 4 · Section 4](modules/module-04/04-study-protocols.qmd) for depth, and the [Cup reference](cup-reference.qmd) when milligrams appear.
+:::
+
+::: {.callout-tip title="Words to know on this page"}
+- **Washout** — a caffeine-free (and often alcohol-free) waiting period before the trial so yesterday’s coffee does not pretend to be today’s tea.
+- **Matched mug** — same volume, warmth, and bitterness so expectation does not wear a lab coat.
+- **Test latency / wait for the peak** — starting the cognitive battery near the window where oral [L-theanine](glossary.qmd#l-theanine) and caffeine often peak—not at the first sip.
+- **Dose vs ordinary cup** — study milligrams can be capsules or strong liquors; home baselines live on Cup reference.
+:::
+
+---
+
+## Five questions for a headline
+
+Chapter 4 · Section 4 already teaches these as a careful-reading foldout. This door only owns the **habit**: when a drink “improves decisions,” ask the five questions before you share the headline.
+
+1. **Washout?** Did people arrive caffeine-free, or already buzzing?
+2. **Matched cup?** Same volume, temperature, bitterness—or was one arm obviously “real tea”?
+3. **Timing?** Were tasks started near the shared peak window, or right after the first sip?
+4. **Dose vs grocery mug?** Was it a named lab dose (for example the matched L-theanine + caffeine designs Chapter 4 discusses)—or a supermarket bag?
+5. **Task?** Balloon risk ([BART](glossary.qmd#bart)), gambling learning ([IGT](glossary.qmd#igt)), reflection traps, unfair splits—each measures a different nudge.
+
+**This page owns** the headline → checklist habit. **It does not own** full protocol parameter tables, task textbooks, or warmth-confound deep dives—those stay in Chapter 4 · Section 4 (and Chapter 3 for warmth).
+
+→ Full methods lesson: [Chapter 4 · Section 4](modules/module-04/04-study-protocols.qmd)  
+→ Chapter map: [Chapter 4 hub](modules/module-04/index.qmd)  
+→ Milligram comparison: [Cup reference](cup-reference.qmd)
+
+::: {.callout-note collapse="true" title="More detail: why the checklist lives here and the numbers live elsewhere"}
+If this door pasted Chapter 4’s washout clocks, mug temperatures, and example capsule doses, you would have two protocol pages fighting for the same job. The companion rule is simple: **this page teaches the questions; Chapter 4 · Section 4 teaches the answers with sources.** Open the foldouts there when you need figures.
+:::
+
+---
+
+## “A cup” is not a study dose
+
+When a paper or headline quotes milligrams—or casually says “tea”—open the [Cup reference](cup-reference.qmd) and ask: was this an ordinary **250 mL** home baseline, or a lab capsule / formal tasting-strength liquor?
+
+Cup reference already flags the beginner tip: Chapter 2–style study doses of L-theanine are often much stronger than one ordinary mug. Chapter 1 · Section 4 tells the cups-vs-capsules story in the compound lesson. Chapter 4 · Section 4 keeps active-dose examples inside its protocol foldouts.
+
+**Do not** rebuild the yields table here. The habit is the product: **headline quotes mg → open Cup reference → then decide whether the claim matches a grocery mug.**
+
+→ [Cup reference](cup-reference.qmd)  
+→ Optional compound context: [Chapter 1 · Section 4 — Compounds](modules/module-01/04-compounds.qmd)  
+→ Active-dose examples live in: [Chapter 4 · Section 4](modules/module-04/04-study-protocols.qmd)
+
+---
+
+## Expectation wears a lab coat (thin bridge)
+
+If one arm gets fragrant, bitter, obviously-tea liquid in a clear glass and the other gets lukewarm water in a different cup, you have not isolated L-theanine. You have mixed chemistry with theater. Careful designs try to make the cups *feel* alike—Chapter 4 · Section 4 owns that lesson.
+
+Warmth can also confound decision studies: Chapter 3 showed that a warm mug can nudge social judgments, so Chapter 4 treats matched mug temperature as a controlled constant. This door only points; it does not re-teach warmth psychology.
+
+→ [Chapter 4 · Section 4 — Expectation wears a lab coat…](modules/module-04/04-study-protocols.qmd)  
+→ Optional: [Chapter 3 · Warmth & trust](modules/module-03/03-warmth-trust.qmd)  
+→ Optional hallways: [Linkages · bridge 2 — warm hands / trust](linkages.qmd); [bridge 1 — waiting after the first sip](linkages.qmd)
+
+::: {.callout-note collapse="true" title="More detail: what ‘decaf ≠ magic placebo’ is gesturing at"}
+Chapter 4 notes that decaf still carries leftover caffeine and plant compounds, and that matching astringency and umami without changing smell or look is hard. The difficulty is the point: hard controls are how soft claims get earned. Open Section 4 for the full honesty block—do not treat this foldout as a new methods table.
+:::
+
+---
+
+## Hallways into Linkages and Chapter 4 games
+
+You do not need all eleven [Linkages](linkages.qmd) bridges. Pick the question the headline actually asked:
+
+| If the headline was about… | Open |
+| --- | --- |
+| Waiting after the sip / peak timing | [Linkages · bridge 1](linkages.qmd) · [Chapter 4 · Section 4](modules/module-04/04-study-protocols.qmd) |
+| Brew heat reshaping the cup | [Linkages · bridge 3](linkages.qmd) · [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) |
+| Warmth / trust | [Linkages · bridge 2](linkages.qmd) · [Chapter 4 · Section 3](modules/module-04/03-trust-games.qmd) |
+| Fast vs careful thinking | [Chapter 4 · Section 1 — Dual-process](modules/module-04/01-dual-process.qmd) |
+| Risk / waiting / patience | [Chapter 4 · Section 2](modules/module-04/02-risk-waiting.qmd) |
+| Trust games / first sends | [Chapter 4 · Section 3](modules/module-04/03-trust-games.qmd) |
+
+Methods home for every headline above: [Chapter 4 · Section 4](modules/module-04/04-study-protocols.qmd).
+
+No new bridges are invented here. Linkages already sews the chapters together.
+
+---
+
+## How this door sits next to Cup reference and Chapter 4
+
+Nested maps for study-shaped questions:
+
+1. **[Tea basics](tea-basics.qmd)** — what the *words on the box* usually mean.
+2. **[Cup reference](cup-reference.qmd)** — typical *milligrams in a 250 mL cup*.
+3. **Reading a tea study (this page)** — *headline methods vocabulary* (five questions).
+4. **[Chapter 4 · Section 4](modules/module-04/04-study-protocols.qmd)** — full protocol depth with sources.
+
+If the reader’s real problem was a bitter or flat mug, send them to [Kitchen troubleshoot](tea-troubleshoot.qmd)—not here.
+
+---
+
+## Where to go next
+
+Saw a confident tea headline? You are in the right place. Want the full methods lesson? Open [Chapter 4 · Section 4](modules/module-04/04-study-protocols.qmd). Comparing milligrams? [Cup reference](cup-reference.qmd). Cross-chapter “why it matters”? [Linkages](linkages.qmd). Kitchen complaint instead? [Kitchen troubleshoot](tea-troubleshoot.qmd). Still translating labels? [Tea basics](tea-basics.qmd).
