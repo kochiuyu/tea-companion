@@ -72,7 +72,7 @@ lang: zh-Hans
 先看[杯量参考](../cup-reference.qmd)，再读[第一章第三节 冲泡](module-01/03-brewing.qmd)和[第一章第四节 化合物](module-01/04-compounds.qmd)。
 
 **“为什么清醒却不慌？”** 
-到[第二章入口](module-02/index.qmd)，再看[联结桥梁](../linkages.qmd#why-waiting-after-the-first-sip-matters)里讲茶氨酸（L-theanine）起效时间与平静脑波的那一座桥。
+到[第二章入口](module-02/index.qmd)，再看[联结桥梁](../linkages.qmd#why-waiting-after-the-first-sip-matters)里讲[茶氨酸（L-theanine）](../glossary.qmd#l-theanine)起效时间与平静脑波的那一座桥。
 
 **“茶只是化学吗？”** 
 不是。[第三章入口](module-03/index.qmd)把镜头拉远：贸易、寺院、暖杯、泡茶小憩。

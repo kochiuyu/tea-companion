@@ -34,7 +34,7 @@ Needham's long history of Chinese botanical technology is another reminder that 
 
 Monks in intensive *zazen* were expected to stay wakeful through long sits. Tea offered alertness without the tremor story that harsher stimulants carry in the sources' framing. That is not "ancient energy drink marketing." It is a monastic logistics problem: how do you keep a community alert together, on a schedule, without collapsing the room into chaos?
 
-By **1103**, the *Chanyuan Qinggui* (*Rules of Purity for the Chan Monastery*)—the earliest surviving comprehensive Chan monastic code of its kind in the sources' telling—codified formal communal tea (*chali*): before-dawn drinking, seating orders, bowl-holding procedures.[^6]
+By **1103**, the [*Chanyuan Qinggui*](../../glossary.qmd#chanyuan-qinggui) (*Rules of Purity for the Chan Monastery*)—the earliest surviving comprehensive Chan monastic code of its kind in the sources' telling—codified formal communal tea (*chali*): before-dawn drinking, seating orders, bowl-holding procedures.[^6]
 
 ::: {.callout-note collapse="true" title="More detail: Chanyuan Qinggui as timetable, not cafe culture"}
 Yifa's annotated translation places the tea rules in a living monastic code: communal drinking before dawn practice, exact seating, and bowl etiquette.[^6]
@@ -48,7 +48,7 @@ What it does *not* show: that every modern cafe ritual descends unbroken from Ch
 
 **Japan from Eisai onward (from 1191).** Eisai promoted tea; later tea rooms used *ichigo ichie* ("one time, one meeting"). Status was leveled on the tatami—useful for serious talks.[^2][^3]
 
-In **1211**, Eisai's *Kissa Yōjōki* (*Drinking Tea for Nourishment of Life*) framed tea through a Five Elements / Five Organs idea: tea's bitter flavor (*ku*) nourishes the heart (*shin*), balances the other viscera, and curbs lethargy.[^2][^3]
+In **1211**, Eisai's [*Kissa Yōjōki*](../../glossary.qmd#kissa-yojoki) (*Drinking Tea for Nourishment of Life*) framed tea through a Five Elements / Five Organs idea: tea's bitter flavor (*ku*) nourishes the heart (*shin*), balances the other viscera, and curbs lethargy.[^2][^3]
 
 ::: {.callout-note collapse="true" title="More detail: Eisai's Kissa Yōjōki — bitter flavor, heart, lethargy"}
 Eisai (Myōan Eisai) wrote *Kissa Yōjōki* in **1211** after bringing Song-dynasty tea practice to Japan. Sen's standard English-language history walks the treatise as pharmacology-plus-promotion, not as a modern clinical trial.[^2][^3]
@@ -150,7 +150,7 @@ Overclaim to avoid: tea rooms "cause" peace treaties, or *chado* automatically p
 
 ## How this lesson talks to Chapters 2 and 4
 
-Eisai's "nourishes the heart" line sits beside modern **heart-beat flexibility** (HRV) / rest-and-digest findings in the sources' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([Chapter 2 · Section 4 Body signals(../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
+Eisai's "nourishes the heart" line sits beside modern **heart-beat flexibility** ([HRV](../../glossary.qmd#hrv)) / rest-and-digest findings in the sources' linkage map—not as proof that 1211 knew RMSSD, but as a rhyme between old language and new measures ([Chapter 2 · Section 4 Body signals(../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)).
 
 Monastic scheduling also foreshadows Chapter 3's ritual lesson: fixed steps, shared timing, less improvisation under stress. The monastery wrote tea into the day. The modern brewing break writes a short script into a stressful afternoon. Different centuries; related scaffolding idea.
 

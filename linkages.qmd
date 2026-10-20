@@ -22,7 +22,7 @@ You do not have to memorize all eleven. Pick the question you actually have—�
 
 ### 1. Why waiting after the first sip matters
 
-L-theanine does not act at the first sip. In the sources, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Chapter 1’s timing note and Chapter 2’s EEG note belong together—the kitchen clock and the lab clock tell the same story.
+[L-theanine](glossary.qmd#l-theanine) does not act at the first sip. In the sources, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Chapter 1’s timing note and Chapter 2’s EEG note belong together—the kitchen clock and the lab clock tell the same story.
 
 **Open:** [Chapter 1 · Section 4 Compounds(modules/module-01/04-compounds.qmd) · [Chapter 2 · Section 2 Brain waves(modules/module-02/02-brainwaves.qmd)
 
@@ -38,7 +38,7 @@ Chapter 3’s warmth studies and Chapter 4’s Trust Game meet here. Holding a w
 
 ### 3. How brew heat reshapes the cup you feel
 
-EGCG (a major green-tea catechin) needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So Chapter 1’s brewing section is not only about taste—it changes which compounds dominate the cup you drink in Chapter 2’s world.
+[EGCG](glossary.qmd#egcg) (a major green-tea catechin) needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So Chapter 1’s brewing section is not only about taste—it changes which compounds dominate the cup you drink in Chapter 2’s world.
 
 **Open:** [Chapter 1 · Section 3 Brewing(modules/module-01/03-brewing.qmd) · [Chapter 1 · Section 4 Compounds(modules/module-01/04-compounds.qmd)
 
@@ -92,7 +92,7 @@ One comparison teaches about **+0.88 µS** skin conductance for caffeine alone. 
 
 **Citations:** [Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008)](bibliography.qmd#brain-mood-and-body-measures)
 
-### 8. Eisai’s “nourishes the heart,” beside modern HRV tone
+### 8. Eisai’s “nourishes the heart,” beside modern [HRV](glossary.qmd#hrv) tone
 
 Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside modern findings that tea compounds can raise calming rest-and-digest / heart-beat-flexibility tone (Chapter 2). The sources present this as a historical phrase meeting a modern measure—not as proof that Eisai ran an HRV lab. Old language, new meter; same curiosity.
 
@@ -102,7 +102,7 @@ Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside mod
 
 ### 9. When the brain slows, tomorrow fades
 
-Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong present bias—future costs weigh less (Chapter 4). That is one reason the sources discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
+Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong [present bias](glossary.qmd#present-bias)—future costs weigh less (Chapter 4). That is one reason the sources discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
 
 **Open:** [Chapter 2 · Section 1 Brain action(modules/module-02/01-brain-action.qmd) · [Chapter 4 · Section 2 Risk & waiting(modules/module-04/02-risk-waiting.qmd)
 
@@ -118,7 +118,7 @@ Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 3). The so
 
 ### 11. Why Assam leaves love a dark cup
 
-Higher catechin levels in *assamica* (about **25%–35%** dry weight) give more raw material for the dark pigments of black tea. Chapter 1’s plant table therefore helps explain why Assam-type leaves are such a natural fit for strong black-tea processing—the garden already hinted at the factory.
+Higher catechin levels in [*assamica*](glossary.qmd#assamica) (about **25%–35%** dry weight) give more raw material for the dark pigments of black tea. Chapter 1’s plant table therefore helps explain why Assam-type leaves are such a natural fit for strong black-tea processing—the garden already hinted at the factory.
 
 **Open:** [Chapter 1 · Section 1 Plants(modules/module-01/01-plants.qmd) · [Chapter 1 · Section 2 Processing(modules/module-01/02-processing.qmd)
 

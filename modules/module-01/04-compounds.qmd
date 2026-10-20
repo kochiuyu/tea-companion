@@ -20,8 +20,8 @@ You only need three plain clocks for the open story: **wake-up** (hours), **calm
 
 ::: {.callout-tip title="Everyday words for this sitting"}
 - **Wake-up guest** — caffeine; blocks the "time for sleep" feeling.
-- **Calm-focus guest** — L-theanine; softens noisy chatter so attention feels less panicky.
-- **Green-tea plant-compound guest** — EGCG; the standout catechin in green tea.
+- **Calm-focus guest** — [L-theanine](../../glossary.qmd#l-theanine); softens noisy chatter so attention feels less panicky.
+- **Green-tea plant-compound guest** — [EGCG](../../glossary.qmd#egcg); the standout catechin in green tea.
 - **Not instant Zen** — peak effects sit tens of minutes after drinking, not at the first sip.
 :::
 

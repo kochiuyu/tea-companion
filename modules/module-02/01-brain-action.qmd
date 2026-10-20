@@ -28,7 +28,7 @@ Think of brain signaling as a busy road with gas pedals and brakes.
 
 **Caffeine**—the familiar wake-up compound in coffee and tea—blocks the brain's "you're getting sleepy" signal. Neurons stay more awake. Related go-signals can rise. The classic review by Fredholm and colleagues still gives the clearest public map: at everyday doses, caffeine mainly occupies the sleepy-signal seats so the usual guest cannot sit there as easily—not a mysterious "energy molecule."[^1]
 
-**L-theanine**—a calming amino acid found in tea (not coffee)—gently turns down excess "go" chatter. That can blunt over-excitement and support calmer, more controlled attention.[^2][^3] Think "gentle nudge on the volume knob," not "unplug the amp."
+**[L-theanine](../../glossary.qmd#l-theanine)**—a calming amino acid found in tea (not coffee)—gently turns down excess "go" chatter. That can blunt over-excitement and support calmer, more controlled attention.[^2][^3] Think "gentle nudge on the volume knob," not "unplug the amp."
 
 **Alcohol** works differently. It leans hard on the brake side and weakens some of the go-signals involved in learning and careful memory. Neural activity slows; careful thinking can fade.[^4][^5]
 

@@ -26,7 +26,7 @@ Neither idea is new here. Both come from literatures that economists and psychol
 
 Imagine you are paid today for a small freelance job. You can take a smaller amount *now*, or wait two weeks for a larger amount. On a calm Tuesday, waiting feels easy. After a stressful week, a late night, or a drink that shrinks the spotlight to whatever is immediate, "now" gets louder and "later" gets quieter.
 
-That is present bias in everyday clothes: tomorrow counts for less when the present is vivid.
+That is [present bias](../../glossary.qmd#present-bias) in everyday clothes: tomorrow counts for less when the present is vivid.
 
 Or imagine a small investment game on a screen. Wins feel pleasant. Losses feel sharp. Under some drink states, people seem a little less careful about the downside—losses sting less, so risk-seeking rises. Under other states, patience holds steadier. The sources describe qualitative patterns for tea, high-caffeine stress, and alcohol. They do **not** license "pour green tea, become a patient investor."
 

@@ -24,7 +24,7 @@ Think of methods as the quiet spine under the flashy findings. Interesting resul
 
 ## Three plain ideas before any checklist
 
-**Matched mug.** If one group gets hot, bitter, fragrant tea in a clear glass and the other gets plain lukewarm water in a different cup, you have not isolated L-theanine. You have mixed chemistry with theater. Careful designs try to make the cups *feel* alike—same volume, same warmth, same bitterness—so expectation does not wear a lab coat.
+**Matched mug.** If one group gets hot, bitter, fragrant tea in a clear glass and the other gets plain lukewarm water in a different cup, you have not isolated [L-theanine](../../glossary.qmd#l-theanine). You have mixed chemistry with theater. Careful designs try to make the cups *feel* alike—same volume, same warmth, same bitterness—so expectation does not wear a lab coat.
 
 **Wait for the peak.** Kitchen intuition already knows this: "I just sipped" and "I feel focused" are different moments. Many attention and decision batteries start about forty minutes after drinking—near the windows where oral L-theanine and caffeine often peak.[^7] Test at five minutes and you may catch expectation plus incomplete absorption. Test at three hours and you may miss the peak the study claims to care about.
 

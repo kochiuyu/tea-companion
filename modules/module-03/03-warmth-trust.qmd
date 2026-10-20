@@ -16,7 +16,7 @@ Superscript numbers are clickable footnotes (jump to the source, caret jumps bac
 
 You meet someone while holding a cozy mug versus an icy can. In some lab setups, that body feeling spills into how "warm" or trustworthy the person seems.[^1][^2] Holding something warm can bias first impressions. Effects on real choices show up in some studies—but they are not magic, and they are not always easy to replicate.
 
-Think of a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **anterior insular cortex** (sometimes just "the insula"). The everyday idea—body state as a tint on social judgment—is what psychologists call **embodied cognition** when they want a lab label. You do not need either label to follow the open story.[^1][^2]
+Think of a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **[anterior insular cortex](../../glossary.qmd#anterior-insular-cortex)** (sometimes just "the insula"). The everyday idea—body state as a tint on social judgment—is what psychologists call **[embodied cognition](../../glossary.qmd#embodied-cognition)** when they want a lab label. You do not need either label to follow the open story.[^1][^2]
 
 Why does this lesson sit between monasteries and ritual breaks? Because Chapter 4's decision games will ask you to take "warmth" seriously as a *confound*—and as a bridge. If mug temperature can shift first impressions, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [Chapter 4 · Section 4 Study protocols(../module-04/04-study-protocols.qmd)).
 
@@ -128,7 +128,7 @@ Three papers do different jobs. Keeping them in one table stops a common slide: 
 
 If you only remember one applied sentence from this lesson, remember this: **mug temperature is not a neutral stage prop.**
 
-When Chapter 4's protocols lock drinks near **60°C ± 2°C** in opaque mugs, they are not being fussy for fun. They are trying to keep this lesson's thermal story from silently riding along with caffeine and L-theanine ([Chapter 4 · Section 4 Study protocols(../module-04/04-study-protocols.qmd)).
+When Chapter 4's protocols lock drinks near **60°C ± 2°C** in opaque mugs, they are not being fussy for fun. They are trying to keep this lesson's thermal story from silently riding along with caffeine and [L-theanine](../../glossary.qmd#l-theanine) ([Chapter 4 · Section 4 Study protocols(../module-04/04-study-protocols.qmd)).
 
 Context is part of the dose. Warmth is part of context.
 

@@ -22,8 +22,8 @@ You only need three kitchen dials for the open story: **time**, **temperature**,
 
 ::: {.callout-tip title="Everyday words for this sitting"}
 - **Extraction** — moving compounds from leaf into water.
-- **Early guests** — caffeine and L-theanine leave relatively easily.
-- **Slower guest** — EGCG wants more heat and time.
+- **Early guests** — caffeine and [L-theanine](../../glossary.qmd#l-theanine) leave relatively easily.
+- **Slower guest** — [EGCG](../../glossary.qmd#egcg) wants more heat and time.
 - **Cold brew** — slow extraction in cold water; *not* caffeine-free.
 :::
 

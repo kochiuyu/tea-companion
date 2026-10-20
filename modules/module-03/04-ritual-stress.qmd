@@ -25,7 +25,7 @@ Warmth (previous lesson) was mostly passive: hold a mug. Ritual here is active: 
 Three linked claims show up again and again:
 
 1. **Attention anchor.** High-stress tasks trigger circular worry. The physical steps of a tea ritual—measuring leaves, monitoring water temperature, watching leaves unfurl—demand focused attention and can interrupt that loop.
-2. **Calmer body.** Familiar, structured ritual can lower heart rate and skin stress signals and raise heart-beat flexibility (calmer balance between the body's **go** system and its **rest-and-digest** system)—lab papers often say HRV, sympathetic, and parasympathetic when they want those labels.
+2. **Calmer body.** Familiar, structured ritual can lower heart rate and skin stress signals and raise heart-beat flexibility (calmer balance between the body's **go** system and its **rest-and-digest** system)—lab papers often say [HRV](../../glossary.qmd#hrv), sympathetic, and parasympathetic when they want those labels.
 3. **Mental stamina.** A brief step back from hard analysis can reduce fatigue before you return to the problem—preserving careful thinking rather than grinding it down.
 
 Integrative reviews of ritual psychology describe rituals as structured, repetitive, symbolic action sequences that can reduce anxiety and restore a sense of control—especially when the next task feels high-stakes.[^1] Hobson and colleagues organize ritual functions around emotion regulation, performance goal states, and social connection.[^1]
@@ -48,7 +48,7 @@ Hobson, Schroeder, Risen, Xygalatas, and Inzlicht (2018) review ritual psycholog
 **Two routes:** bottom-up physical features (repetition, rigidity, synchrony) and top-down meaning (why *this* sequence matters to you). A solo brewing break leans on emotion and readiness. A shared tea service adds connection. Neither route is a license to cite a retracted anxiety paper—see the Brooks caution below.[^1][^4]
 :::
 
-Predictable behavioral sequences have been linked with lower anxiety and steadier body readings in experimental work on scripted action.[^2] Separately, Chapter 2's L-theanine findings already showed calmer heart-rate and stress markers during hard arithmetic[^3]—so ritual steps and tea chemistry can point in the same direction without being the same thing. Heart-rate drops, error-alarm microvolts, and review rows live in the foldout—open when you want the poster.
+Predictable behavioral sequences have been linked with lower anxiety and steadier body readings in experimental work on scripted action.[^2] Separately, Chapter 2's [L-theanine](../../glossary.qmd#l-theanine) findings already showed calmer heart-rate and stress markers during hard arithmetic[^3]—so ritual steps and tea chemistry can point in the same direction without being the same thing. Heart-rate drops, error-alarm microvolts, and review rows live in the foldout—open when you want the poster.
 
 ::: {.callout-note collapse="true" title="More detail: Hobson / Lang / ERN metrics table (without the retracted paper)"}
 | Measure | Finding | Source |
@@ -111,7 +111,7 @@ Excluding Brooks does **not** mean "rituals do nothing." It means this one famou
 
 People often blur the two: "Tea ritual = mindfulness." Mindfulness is open awareness of the present moment. Ritual, in these sources, is more about **fixed, predictable steps**.
 
-Cognitive neuroscience in the sources' verification note draws a sharper line: rituals provide rigid, invariant behavioral scripting and top-down predictability. By constraining action sequences, ritual can blunt the brain's quick **"oops" alarm** (lab name: error-related negativity, or ERN)—lowering anxiety through *predictability*, not only through open mindful contemplation.[^5][^1]
+Cognitive neuroscience in the sources' verification note draws a sharper line: rituals provide rigid, invariant behavioral scripting and top-down predictability. By constraining action sequences, ritual can blunt the brain's quick **"oops" alarm** (lab name: [error-related negativity](../../glossary.qmd#ern), or ERN)—lowering anxiety through *predictability*, not only through open mindful contemplation.[^5][^1]
 
 That distinction matters for how you read a "brewing break." You are not required to become a meditation teacher. You are practicing a short, repeatable script that gives the "oops" alarm less room to spiral.
 

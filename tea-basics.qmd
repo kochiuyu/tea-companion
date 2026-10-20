@@ -4,11 +4,11 @@ title: "Tea basics"
 {{< include _includes/lang-switcher/tea-basics.en.qmd >}}
 
 
-You stand in a grocery aisle. Boxes say *English Breakfast*, *Earl Grey*, *green tea*, *chamomile*, *matcha*. Cafe menus add *sencha*, *oolong*, *Assam*. The companion chapters start talking about *Camellia sinensis*, oxidation, and catechins. How do those everyday labels connect?
+You stand in a grocery aisle. Boxes say *English Breakfast*, *Earl Grey*, *green tea*, *chamomile*, *matcha*. Cafe menus add *sencha*, *oolong*, *Assam*. The companion chapters start talking about [*Camellia sinensis*](glossary.qmd#sinensis), oxidation, and catechins. How do those everyday labels connect?
 
 This page is the **bridge**. It is not a second chemistry textbook and not a shopping guide. It maps common commercial names onto the plant and processing ideas that [Chapter 1](modules/module-01/index.qmd) uses—so when Chapter 1 says "green vs black," you already know what your supermarket box probably meant.
 
-Keep the [Glossary](glossary.qmd) for chapter jargon (*HPA axis*, *ERN*, *BART*). Keep the [Cup reference](cup-reference.qmd) for typical milligrams in a 250 mL mug. Use **this** page when a label on a shelf feels disconnected from the story.
+Keep the [Glossary](glossary.qmd) for chapter jargon (*[HPA axis](glossary.qmd#hpa-axis)*, *[ERN](glossary.qmd#ern)*, *[BART](glossary.qmd#bart)*). Keep the [Cup reference](cup-reference.qmd) for typical milligrams in a 250 mL mug. Use **this** page when a label on a shelf feels disconnected from the story.
 
 Tap a footnote number to jump to the source, then the caret to jump back. Hover often shows a popup. Denser side-stories sit in collapsed **"More detail…"** foldouts.
 
@@ -34,7 +34,7 @@ The rest of this page is optional depth for when a shelf still feels foggy.
 
 In everyday English, "tea" can mean almost anything steeped in hot water. In the science and trade language this site uses, **true tea** means leaves (and sometimes buds) of one species: *Camellia sinensis*.
 
-That single plant is why Chapter 1 can say "one species, two main types" and still cover most of what you buy as green or black. Herbal boxes that say "tea" on the front—chamomile, peppermint, ginger, rooibos—are usually **infusions of other plants**. They can be lovely. They are not the same chemical story as caffeine, L-theanine, and EGCG from *Camellia*. FDA consumer materials have long noted that herbal teas come from other plants and should name the plant on the label.[^1] Trade groups likewise ask shoppers to keep "tea" for *Camellia* styles (green, black, oolong, white, dark) and call the rest herbals or tisanes.[^2]
+That single plant is why Chapter 1 can say "one species, two main types" and still cover most of what you buy as green or black. Herbal boxes that say "tea" on the front—chamomile, peppermint, ginger, rooibos—are usually **infusions of other plants**. They can be lovely. They are not the same chemical story as caffeine, [L-theanine](glossary.qmd#l-theanine), and [EGCG](glossary.qmd#egcg) from *Camellia*. FDA consumer materials have long noted that herbal teas come from other plants and should name the plant on the label.[^1] Trade groups likewise ask shoppers to keep "tea" for *Camellia* styles (green, black, oolong, white, dark) and call the rest herbals or tisanes.[^2]
 
 So when Chapter 1 talks about what is in your mug, it assumes a *Camellia* leaf unless it says otherwise. A caffeine-free "bedtime tea" made of chamomile is a different drink—and a different chapter of chemistry.
 
@@ -83,7 +83,7 @@ Labels mix three things: **place** (Assam, Darjeeling), **factory style** (sench
 | Label you see | What it usually means | Bridge into this site |
 | --- | --- | --- |
 | **English Breakfast** | A **blend** of black teas chosen for a strong morning cup (often Assam and/or other robust blacks; recipes vary by brand) | Black-tea processing path; caffeine often toward the higher end of everyday cups—see [Cup reference](cup-reference.qmd) |
-| **Assam** | Black tea from Assam (northeast India); often malty and strong; the region is the home story of the large-leaf *assamica* type | China-type vs Assam-type in [Chapter 1](modules/module-01/index.qmd) |
+| **Assam** | Black tea from Assam (northeast India); often malty and strong; the region is the home story of the large-leaf [*assamica*](glossary.qmd#assamica) type | China-type vs Assam-type in [Chapter 1](modules/module-01/index.qmd) |
 | **Darjeeling** | Tea from Darjeeling (Himalayan foothills); often delicate, high-grown; sold as black tea though some lots sit toward lighter oxidation | Geography + processing; not a separate species |
 | **Earl Grey** | Usually **black tea flavored with bergamot** (citrus aroma); the base is still *Camellia* black tea | Flavoring on top of a black path—not a new plant |
 | **Ceylon / Kenyan** | Black teas named for origin (Sri Lanka; Kenya)—common building blocks in blends | Origin labels ≠ different species |
@@ -159,7 +159,7 @@ A short path many readers like:
 - See *sencha* or *matcha* → green path → Cup reference green rows (and the matcha/gyokuro L-theanine note) → Chapter 1 heat-kill / catechin story.
 - See *chamomile tea* → herbal infusion → not the Chapter 1 chemical core.
 
-When you want chapter jargon (*PPO*, *theaflavins*, *HPA axis*), open the [Glossary](glossary.qmd). When you want how brewing facts stitch to mood or decisions, open [Linkages](linkages.qmd).
+When you want chapter jargon (*[PPO](glossary.qmd#ppo)*, *[theaflavins](glossary.qmd#theaflavins)*, *HPA axis*), open the [Glossary](glossary.qmd). When you want how brewing facts stitch to mood or decisions, open [Linkages](linkages.qmd).
 
 ---
 

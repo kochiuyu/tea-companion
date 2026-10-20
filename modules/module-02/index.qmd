@@ -4,7 +4,7 @@ title: "Chapter 2 · Body, Brain & Mood"
 
 {{< include../../_includes/lang-switcher/module-02.en.qmd >}}
 
-Chapter 1 left three guests in your bloodstream: **caffeine** (the familiar wake-up compound), **L-theanine** (a calming amino acid found in tea, not coffee), and—especially in green tea—EGCG. Now comes the question that makes people switch from coffee to tea, or defend the switch to friends:
+Chapter 1 left three guests in your bloodstream: **caffeine** (the familiar wake-up compound), **[L-theanine](../../glossary.qmd#l-theanine)** (a calming amino acid found in tea, not coffee), and—especially in green tea—[EGCG](../../glossary.qmd#egcg). Now comes the question that makes people switch from coffee to tea, or defend the switch to friends:
 
 **Why does tea so often feel awake *and* calmer—while coffee can feel like a jolt?**
 
