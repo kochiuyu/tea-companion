@@ -2,7 +2,7 @@
 title: "Chapter 2 · Body, Brain & Mood"
 ---
 
-{{< include ../../_includes/lang-switcher/module-02.en.qmd >}}
+{{< include../../_includes/lang-switcher/module-02.en.qmd >}}
 
 Chapter 1 left three guests in your bloodstream: **caffeine** (the familiar wake-up compound), **L-theanine** (a calming amino acid found in tea, not coffee), and—especially in green tea—EGCG. Now comes the question that makes people switch from coffee to tea, or defend the switch to friends:
 
@@ -27,7 +27,7 @@ Superscript numbers are clickable footnotes (jump to the source, caret jumps bac
 
 ## The four sections
 
-Each sitting is one pack branch. The open pages stay lay-friendly; open a foldout when you want the science depth.
+Each sitting is one section of the chapter. The open pages stay lay-friendly; open a foldout when you want the science depth.
 
 1. **[Gas pedals, brakes, and a busy road](01-brain-action.qmd)** — why caffeine wakes you, how L-theanine softens the edge, and why alcohol is a different story.
 2. **[Listening to the brain's tempo](02-brainwaves.qmd)** — calm-focus vs busy-alert vs drowsy rhythms; rest vs hard work.

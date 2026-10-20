@@ -25,14 +25,13 @@ lang: zh-Hant-HK
 
 ## 詞條（淺白解釋）
 
-
 | 詞條 | 淺白解釋 | 主要出現於 |
 | --- | --- | --- |
 | 腺苷受體（A1、A2A） | 腦裡負責「慢下來、想睡」的感應器；咖啡因把它們擋住，你就保持清醒。 | [第二章](modules/module-02/index.qmd) |
-| 阿法腦波（Alpha） | 較慢、平靜而專注時的腦節奏（約 8–12 Hz），常與茶氨酸一併提起。 | [第二章](modules/module-02/index.qmd) |
+| 阿法腦波（Alpha） | 較慢、平靜而專注時的腦節奏（約 8–12 赫茲），常與茶氨酸一併提起。 | [第二章](modules/module-02/index.qmd) |
 | 前島葉皮質 | 一個既處理體溫、又處理信任和同理心等感受的腦區。 | [第三章](modules/module-03/index.qmd) |
 | 氣球類比風險任務（BART） | 一個電腦遊戲：看你肯把虛擬氣球打氣到多大，藉此量度冒險傾向。 | [第四章](modules/module-04/index.qmd) |
-| 貝他腦波（Beta） | 較快、警覺（或焦慮）時的腦節奏（約 12–30 Hz），喝咖啡因後常會上升。 | [第二章](modules/module-02/index.qmd) |
+| 貝他腦波（Beta） | 較快、警覺（或焦慮）時的腦節奏（約 12–30 赫茲），喝咖啡因後常會上升。 | [第二章](modules/module-02/index.qmd) |
 | 阿薩姆大葉種（*Camellia sinensis* var. *assamica*） | 大葉、熱帶型的茶樹；咖啡因往往較高，苦味也較重。 | [第一章](modules/module-01/index.qmd) |
 | 中國小葉種（*Camellia sinensis* var. *sinensis*） | 小葉、較耐寒的中國型茶樹；茶氨酸和香氣往往較豐富。 | [第一章](modules/module-01/index.qmd) |
 | 廣州貿易制度（一口通商） | 清朝（1757–1842）把西方貿易集中在廣州、並要求以白銀付款的規定。 | [第三章](modules/module-03/index.qmd) |
@@ -52,15 +51,15 @@ lang: zh-Hant-HK
 | 皮膚電導反應（SCR） | 皮膚微量出汗的變化，可反映壓力和興奮程度。 | [第二章](modules/module-02/index.qmd) |
 | 茶黃素 | 紅茶氧化時生成的鮮亮金紅色色素。 | [第一章](modules/module-01/index.qmd) |
 | 茶紅素 | 較深色、分子較大的色素，給紅茶厚度和顏色。 | [第一章](modules/module-01/index.qmd) |
-| 西他腦波（Theta） | 較慢、昏昏欲睡時的腦節奏（約 4–8 Hz），疲倦或喝酒後常會上升。 | [第二章](modules/module-02/index.qmd) |
+| 西他腦波（Theta） | 較慢、昏昏欲睡時的腦節奏（約 4–8 赫茲），疲倦或喝酒後常會上升。 | [第二章](modules/module-02/index.qmd) |
 | 《南京條約》（1842） | 結束第一次鴉片戰爭的不平等條約：賠款、開放五口通商、割讓香港。 | [第三章](modules/module-03/index.qmd) |
 
 ## 按章分類
 
-**[第一章——茶葉與茶杯](modules/module-01/index.qmd)：** 阿薩姆大葉種、中國小葉種、EGCG、茶氨酸、多酚氧化酶、茶黃素、茶紅素  
+**[第一章——茶葉與茶杯](modules/module-01/index.qmd)：** 阿薩姆大葉種、中國小葉種、EGCG、茶氨酸、多酚氧化酶、茶黃素、茶紅素 
 
-**[第二章——身體與心靈](modules/module-02/index.qmd)：** 腺苷受體、阿法／貝他／西他腦波、心率變異性、HPA 軸、皮膚電導  
+**[第二章——身體與心靈](modules/module-02/index.qmd)：** 腺苷受體、阿法／貝他／西他腦波、心率變異性、HPA 軸、皮膚電導 
 
-**[第三章——歷史與儀式](modules/module-03/index.qmd)：** 廣州貿易制度、《禪苑清規》、具身認知、錯誤相關負波、島葉皮質、《喫茶養生記》、《南京條約》  
+**[第三章——歷史與儀式](modules/module-03/index.qmd)：** 廣州貿易制度、《禪苑清規》、具身認知、錯誤相關負波、島葉皮質、《喫茶養生記》、《南京條約》 
 
-**[第四章——決策](modules/module-04/index.qmd)：** 氣球類比風險任務、雙重歷程理論、愛荷華賭博任務、損失厭惡係數、現時偏誤參數  
+**[第四章——決策](modules/module-04/index.qmd)：** 氣球類比風險任務、雙重歷程理論、愛荷華賭博任務、損失厭惡係數、現時偏誤參數 

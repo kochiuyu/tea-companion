@@ -7,12 +7,11 @@ title: "Tea, Caffeine & Decision Companion"
 The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version—home, tea basics, the four chapters, linkages, and bibliography.
 :::
 
-
 You tip hot water over a handful of leaves. Steam rises. The water darkens—maybe green-gold, maybe deep amber—and a smell fills the room that is somehow both sharp and soft. Twenty minutes later you are a little more awake. Sometimes you also feel a little calmer. Coffee can wake you up too. So why does *tea* so often feel like a different kind of alertness?
 
 That question is the door into this site.
 
-This is not a lab notebook and not a sales brochure. It is a **story-shaped journey** through a drink that almost everyone has tried and almost nobody fully explains. The facts come from owner-supplied source packs, and—where we expand a chapter—from peer-reviewed papers, historical archives, and university pages we opened and checked. The owner of this site is an economist. We do **not** invent economic theories here. We only retell what those sources already support—in plain English a smart high-school student can follow.
+This is not a lab notebook and not a sales brochure. It is a **story-shaped journey** through a drink that almost everyone has tried and almost nobody fully explains. The facts come from peer-reviewed papers, historical archives, and university pages we opened and checked—plus ranges we collected and labelled on this site. The owner of this site is an economist. We do **not** invent economic theories here. We only retell what those sources already support—in plain English a smart high-school student can follow.
 
 Each **lesson** is meant to be long enough to be interesting and short enough to stay a story. **Clickable footnotes** work both ways (tap the number → source; tap the caret → back to the sentence; hover often shows a popup). Denser study tables and side-stories sit in collapsed **"More detail…"** foldouts so the open page does not feel like a wall of text. The [Bibliography](bibliography.qmd) remains the master map across the whole site.
 
@@ -26,7 +25,7 @@ Each **lesson** is meant to be long enough to be interesting and short enough to
 
 ## What this journey is about
 
-Think of four chapters that follow one continuous thread—each with **four lessons** matching the source-pack branches.
+Think of four chapters that follow one continuous thread—each with **four lessons** 
 
 First you meet the **leaf**—where tea comes from, why green and black look so different, what brewing pulls into the mug, and three headline compounds. Then you follow those compounds **into the body**: brain signaling, brain-wave patterns, stress hormones, and quiet body signals. Next you zoom out. Tea remade **trade balances**, became a monastic focus aid, and even a warm mug in the hand shows up in experiments on trust. A short brewing break can also act as a practical stress reset. Finally you ask the decision question: do drinks **nudge** how fast we answer, how much risk we take, how much we care about tomorrow, and how trusting we are in a first move?
 
@@ -43,7 +42,7 @@ A full structure map of all sixteen sections sits on the [Chapters overview](mod
 
 ## How to travel with this site
 
-When a number appears—say "about 30–50 mg caffeine"—treat it as a **typical range from the packs**, not a promise about your exact mug. Brands, leaves, and steep times differ. The [Cup reference](cup-reference.qmd) is the quick table for a common 250 mL cup.
+When a number appears—say "about 30–50 mg caffeine"—treat it as a **typical range**, not a promise about your exact mug. Brands, leaves, and steep times differ. The [Cup reference](cup-reference.qmd) is the quick table for a common 250 mL cup.
 
 New to grocery and cafe labels? Start with **[Tea basics](tea-basics.qmd)** before or alongside Chapter 1.
 

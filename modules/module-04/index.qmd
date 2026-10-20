@@ -2,7 +2,7 @@
 title: "Chapter 4 · Decisions & Choices"
 ---
 
-{{< include ../../_includes/lang-switcher/module-04.en.qmd >}}
+{{< include../../_includes/lang-switcher/module-04.en.qmd >}}
 
 You have followed tea from plant to cup, through the body, and out into history and ritual. Here is the question that hangs over the whole journey—especially for anyone who makes hard choices for a living:
 
@@ -48,7 +48,7 @@ Footnotes are bidirectional (click number → source; caret → back). Foldouts 
 
 ## The four sections
 
-Each sitting is one pack branch—the same four-way split as the owner's source packs. The **open pages stay everyday language** and take more time unpacking the main idea; open a foldout when you want the theory labels, dose tables, or protocol clocks. Still **no invented economics**. Read in order or hop.
+The **open pages stay everyday language** and take more time unpacking the main idea; open a foldout when you want the theory labels, dose tables, or protocol clocks. Still **no invented economics**. Read in order or hop.
 
 1. **[Fast blurts and careful checks](01-dual-process.qmd)** — quiz-show speed vs homework patience; how tea, coffee-stress, and alcohol nudge the spotlight.
 2. **[Losses that sting, tomorrows that fade](02-risk-waiting.qmd)** — everyday money-wait scenes; "how far do you pump?"; why "tea → patient investor" is a leap.

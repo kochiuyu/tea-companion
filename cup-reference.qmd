@@ -3,10 +3,9 @@ title: "Cup reference"
 ---
 {{< include _includes/lang-switcher/cup-reference.en.qmd >}}
 
-
 Before Chapter 1 talks about plants and processing, and before Chapter 2 talks about how you *feel*, it helps to know what "a cup" even means. People say the phrase casually. Labs and home kitchens mean very different strengths. If the *words on the box* still feel disconnected from the chemistry, skim [Tea basics](tea-basics.qmd) first (aisle labels → processing paths), then come back here for milligrams.
 
-This page standardizes on a **250 mL** cup and lists typical lab and consumer-brew ranges from the source packs. Use it as a **map**, not a promise about your exact mug. When a chapter mentions "200 mg L-theanine," come back here and compare: that lab capsule is often much stronger than one ordinary mug. Tap a footnote marker to jump to the source (and the caret to jump back). Hover often shows a popup.
+This page standardizes on a **250 mL** cup and lists typical lab and consumer-brew ranges used on this site. Use it as a **map**, not a promise about your exact mug. When a chapter mentions "200 mg L-theanine," come back here and compare: that lab capsule is often much stronger than one ordinary mug. Tap a footnote marker to jump to the source (and the caret to jump back). Hover often shows a popup.
 
 ## Why the numbers move
 
@@ -31,13 +30,12 @@ If your green tea tastes mild, you may be below these ranges. If your black tea 
 
 Keenan's group measured L-theanine in real 200 mL cups after a two-minute steep and found brew time was the biggest dial—ordinary black tea often landed near **24 mg**, with lower averages for some greens in that particular sample set [^5]. Pack ranges above blend those findings with other consumer-brew notes so a 250 mL home cup stays easy to compare.
 
-
 ::: {.callout-note title="Tea vs coffee caffeine (qualitative)"}
 On this site, everyday **tea** cups in the table above land in the **tens of milligrams** of caffeine (roughly **30–80 mg** for the green/black rows). A large **coffee** is usually described as a stronger caffeine hit than those tea rows—which is why Chapter 2 can say tea is often "less caffeine than a large coffee" plus a second compound coffee does not share. <!-- pack-silent: no coffee mg column in source packs / existing site cites -->
 Exact coffee milligrams are **pack-silent** here; we do not invent a coffee column. Compare tea numbers to the table above, not to an unverified cafe estimate.
 :::
 
-## Practical notes (still from the packs)
+## Practical notes
 
 **Water temperature.** Hotter water pulls more catechins. Steeping green tea at **100°C** instead of **80°C** can raise total catechin yield by about **25%**, but it also pulls more bitter material and can hurt taste [^1]. That is the same brew-temperature thread Chapter 1 uses when it talks about EGCG needing heat.
 
@@ -46,8 +44,6 @@ Exact coffee milligrams are **pack-silent** here; we do not invent a coffee colu
 **Leaf amount.** Formal tasting (ISO 3103) uses about **2 g per 100 mL** (about **5 g per 250 mL**). The table above uses a common everyday baseline: **2 g dry leaf per 250 mL** cup (one bag or modest spoonful).
 
 **Beginner tip.** When you read Chapter 2 study doses like "200 mg L-theanine," compare them to this table: a typical green cup here is about **15–30 mg** L-theanine (shaded Gyokuro or Matcha often **45–80 mg**). Lab capsules are often much stronger than one ordinary mug.
-
-
 
 ::: {.callout-note collapse="true" title="More detail: why lab cups and home cups disagree"}
 Formal sensory preparation under **ISO 3103:2019** uses about **2 g tea per 100 mL** freshly boiling water (about **5 g per 250 mL**)—brew times on the order of **6 minutes** for black tea and **3–5 minutes** for green depending on leaf grade.[^8] Many home cups use closer to **2 g per 250 mL**. That single difference can move caffeine and theanine yields a lot before brand even enters the story.
