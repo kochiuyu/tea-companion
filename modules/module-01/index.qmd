@@ -9,7 +9,7 @@ Here is a small mystery almost every tea drinker has lived through.
 You buy two boxes. Both say "tea." One pours pale and grassy. The other pours dark and malty. One leaves you gently alert. The other can feel stronger, more "coffee-adjacent." Same grocery aisle. Same word on the label. So what changed—the plant, the factory, or the way you steeped it?
 
 ::: {.callout-tip}
-**New to tea labels?** Start with **[Tea basics](../../tea-basics.qmd)**—a short aisle-to-cup map (what *English Breakfast*, *matcha*, bag vs loose, and herbal "tea" usually mean)—then come back here for the chemistry.
+**New to tea?** [Tea basics](../../tea-basics.qmd) is a first mug; [Tea labels](../../tea-labels.qmd) is the shelf-name sheet—then come back here for the chemistry.
 :::
 
 This chapter answers that question in order—in plain kitchen language. First we meet the **tea plant** behind almost all commercial tea (one species, two everyday leaf personalities). Then we watch what happens after picking—when makers either **stop** the leaf from browning (green tea) or **let** it brown in air (black tea). Then we watch hot water act like a selective extractor: some guests leave the leaf early; one needs more heat and time. Finally we meet three named guests who arrive on different clocks: **caffeine** (wake-up), **[L-theanine](../../glossary.qmd#l-theanine)** (calm focus), and **[EGCG](../../glossary.qmd#egcg) (the standout green-tea plant compound)**.

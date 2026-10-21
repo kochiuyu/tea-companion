@@ -6,7 +6,7 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/home.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [茶叶标签](tea-labels.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -25,7 +25,8 @@ lang: zh-Hans
 
 | 如果你想要… | 打开 |
 | --- | --- |
-| **标签** — 英式早餐茶、煎茶、抹茶，以及茶包和散茶通常指什么 | [茶叶入门](tea-basics.qmd) |
+| **第一杯** — 茶是什么、真茶对花草、倒一杯简单的 | [茶叶入门](tea-basics.qmd) |
+| **货架与咖啡馆名称** — 中文／日文／西方标签、等级、茶壶 | [茶叶标签](tea-labels.qmd) |
 | **厨房投诉** — 苦、淡、浑浊、第二泡 → 该拧哪颗旋钮 | [厨房排障](tea-troubleshoot.qmd) |
 | **研究标题** — 相信“喝茶改善决策”之前，先问五个问题 | [读懂茶研究](tea-reading-studies.qmd) |
 | **数字** — 一杯约 250 毫升 里常见的毫克数 | [杯量参考](cup-reference.qmd) |
@@ -53,7 +54,7 @@ lang: zh-Hans
 
 看见数字——比如“约 30–50 毫克 咖啡因”——请当作**文中的典型范围**，不是对你那一杯的保证。牌子、茶叶、浸泡时间都不一样。[杯量参考](cup-reference.qmd)是常见 250 毫升 杯的快查表。
 
-超市和咖啡店标签还不熟？进第一章之前或同时，先看 **[茶叶入门](tea-basics.qmd)**。
+对茶本身还不熟？进第一章之前或同时，先看 **[茶叶入门](tea-basics.qmd)** 倒第一杯。盒子或菜单上的名字仍糊？打开 **[茶叶标签](tea-labels.qmd)**。
 
 技术词第一次出现时，我们会在故事里讲清楚。想要一行提醒，翻 [词汇表](glossary.qmd)（并链到对应本章入口）。
 
@@ -61,4 +62,4 @@ lang: zh-Hans
 
 想查某个“姓名—年份”背后的论文，或课文上的脚注，点脚注或打开 [参考文献](bibliography.qmd)。
 
-准备好了？先倒一杯想象中的茶——标签让人糊，就从 [茶叶入门](tea-basics.qmd) 起；杯已经倒坏了，就打开 [厨房排障](tea-troubleshoot.qmd)；想信一篇标题之前，先看 [读懂茶研究](tea-reading-studies.qmd)——再到 [第一章：化学核心](modules/module-01/index.qmd)——或者先扫一眼 [路线图](modules/index.qmd)。
+准备好了？先倒一杯想象中的茶——要第一杯，就从 [茶叶入门](tea-basics.qmd) 起；盒子或菜单上的名字仍糊，就打开 [茶叶标签](tea-labels.qmd)；杯已经倒坏了，就打开 [厨房排障](tea-troubleshoot.qmd)；想信一篇标题之前，先看 [读懂茶研究](tea-reading-studies.qmd)——再到 [第一章：化学核心](modules/module-01/index.qmd)——或者先扫一眼 [路线图](modules/index.qmd)。

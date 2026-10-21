@@ -4,11 +4,11 @@ title: "Kitchen troubleshoot"
 {{< include _includes/lang-switcher/tea-troubleshoot.en.qmd >}}
 
 
-[Tea basics](tea-basics.qmd) told you what the words on the box usually mean. This page is the **kitchen complaint sheet**: bitter, flat, cloudy, or a second steep that feels different → which dial to nudge first.
+[Tea basics](tea-basics.qmd) is the first mug. [Tea labels](tea-labels.qmd) is box words and kit names. This page is the **kitchen complaint sheet**: bitter, flat, cloudy, or a second steep that feels different → which dial to nudge first.
 
 It is not a second brewing textbook. The full extraction story lives in [Chapter 1 · Section 3 — What brewing actually does](modules/module-01/03-brewing.qmd). Typical milligrams live on the [Cup reference](cup-reference.qmd). Use **this** page when the mug already happened and you want a short “what to try next.”
 
-Keep the [Glossary](glossary.qmd) for chapter jargon. Keep Basics for grocery and cafe labels. Keep Cup reference when “weak” really means “compare my mug to the baseline.”
+Keep the [Glossary](glossary.qmd) for chapter jargon. Keep Basics for the first mug. Keep Labels for grocery and cafe names. Keep Cup reference when “weak” really means “compare my mug to the baseline.”
 
 ::: {.callout-tip title="5-minute fix path"}
 1. **Name the symptom** — bitter / flat / cloudy / second steep feels different.
@@ -35,7 +35,7 @@ Start here. One compact routing sheet—kitchen language only. No new numbers; t
 | --- | --- | --- |
 | **Bitter / harsh** | Shorter time and/or cooler water (especially greens); treat bitterness as your brake | [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) (heat and time also pull bitter material; [EGCG](glossary.qmd#egcg) wants more heat) |
 | **Flat / pale / weak** | Longer time, hotter water (style-aware), or more leaf | [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) dials; [Cup reference](cup-reference.qmd) when you want a home baseline strength map |
-| **Cloudy / muddy look** | Often fine particles / bag grade plus a short hot dunk—not a new plant | [Tea basics · Bag vs loose / CTC](tea-basics.qmd); Chapter 1 · Section 3 foldout on particle size / surface area |
+| **Cloudy / muddy look** | Often fine particles / bag grade plus a short hot dunk—not a new plant | [Tea labels · grades](tea-labels.qmd#grades); Chapter 1 · Section 3 foldout on particle size / surface area |
 | **Second steep different** | Expected with whole leaf: early guests leave first; bag grades compress the drama | [Chapter 1 · Section 3 — A second cup…](modules/module-01/03-brewing.qmd) |
 
 **This page owns** the complaint → dial routing sheet. **It does not own** extraction kinetics, solubility tables, or lab-vs-home strength tables—those stay in Chapter 1 · Section 3 and Cup reference.
@@ -51,7 +51,7 @@ Chapter 1 already taught the three home dials. Here is only a pointer habit—**
 - **Time** — longer usually means more compounds in the water, until taste turns too bitter for you. Early guests (caffeine and [L-theanine](glossary.qmd#l-theanine) in the Chapter 1 story) leave relatively easily; bitterness and slower guests often show up later.
 - **Temperature** — hotter water pulls more overall strength and helps heat-hungry guests such as EGCG; it can also pull harshness. Style matters: greens often prefer cooler water than blacks—details in Chapter 1 · Section 3.
 - **Leaf amount** — more grams per mug raises everything. When “weak” means “compare to a typical mug,” open Cup reference rather than guessing.
-- **Leaf style** — broken bag grades expose more surface area, so color and strength often appear quickly; whole leaf is slower and often leaves more for a second steep. Product framing (bag vs loose, CTC vs orthodox) already sits on [Tea basics](tea-basics.qmd); the geometry story sits in Chapter 1 · Section 3.
+- **Leaf style** — broken bag grades expose more surface area, so color and strength often appear quickly; whole leaf is slower and often leaves more for a second steep. Product framing (bag vs loose, CTC vs orthodox) already sits on [Tea labels](tea-labels.qmd#grades); the geometry story sits in Chapter 1 · Section 3.
 
 → Full dial story and foldouts: [Chapter 1 · Section 3 — What brewing actually does](modules/module-01/03-brewing.qmd)  
 → Why numbers move with temp and leaf amount: [Cup reference · Practical notes](cup-reference.qmd)
@@ -74,14 +74,15 @@ No new cold-brew recipes, no new hour counts, and no new milligram claims live o
 
 ---
 
-## How this door sits next to Basics and Chapter 1
+## How this door sits next to Basics, Labels, and Chapter 1
 
 Read the tea doors as nested maps:
 
-1. **[Tea basics](tea-basics.qmd)** — what the *words on the box* usually mean.
-2. **Kitchen troubleshoot (this page)** — *kitchen complaints* → which dial to nudge.
-3. **[Chapter 1 · Section 3](modules/module-01/03-brewing.qmd)** — the full brewing / extraction story.
-4. **[Cup reference](cup-reference.qmd)** — typical *milligrams in a 250 mL cup* under common baselines.
+1. **[Tea basics](tea-basics.qmd)** — first mug; true tea versus herbal; green↔black.
+2. **[Tea labels](tea-labels.qmd)** — shelf and cafe names, grades, and kit nouns.
+3. **Kitchen troubleshoot (this page)** — *kitchen complaints* → which dial to nudge.
+4. **[Chapter 1 · Section 3](modules/module-01/03-brewing.qmd)** — the full brewing / extraction story.
+5. **[Cup reference](cup-reference.qmd)** — typical *milligrams in a 250 mL cup* under common baselines.
 
 If your real problem was “why doesn’t my mug match the headline?,” that is not a kettle dial—open [Reading a tea study](tea-reading-studies.qmd) instead.
 
@@ -89,4 +90,4 @@ If your real problem was “why doesn’t my mug match the headline?,” that is
 
 ## Where to go next
 
-Cup already poured and something feels off? You are in the right place. Want the full extraction story? Open [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd). Still translating shelf labels? Back to [Tea basics](tea-basics.qmd). Comparing milligrams? [Cup reference](cup-reference.qmd). Reading a study headline? [Reading a tea study](tea-reading-studies.qmd).
+Cup already poured and something feels off? You are in the right place. Want the full extraction story? Open [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd). Still pouring a first cup? Back to [Tea basics](tea-basics.qmd). Still translating a box or menu name? Open [Tea labels](tea-labels.qmd). Comparing milligrams? [Cup reference](cup-reference.qmd). Reading a study headline? [Reading a tea study](tea-reading-studies.qmd).

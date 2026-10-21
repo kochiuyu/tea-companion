@@ -6,196 +6,130 @@ lang: zh-Hans
 {{< include ../_includes/lang-switcher/tea-basics.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [茶叶标签](tea-labels.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
 
 ::: {.callout-note}
-**英文是核对事实的源头。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
+**核对数字与出处，以英文页为准。** 用页顶语言切换在英文／繁体／简体之间跳转。
 :::
 
-站在超市茶叶货架前。盒子上写着英式早餐茶、伯爵茶、绿茶、洋甘菊、抹茶。咖啡店菜单再添上煎茶、乌龙、阿萨姆。后面的章节开始谈茶树、氧化、儿茶素。这些日常标签，跟故事怎么对上？
+手头有一只杯子、一壶热水，再加一小撮干叶——或者超市里那种纸茶包。水倒下去，等几分钟。水色变了，屋里的气味也变了。大家嘴里的**茶**，通常就是这一杯。
 
-本页是**桥梁**。不是第二本化学课本，也不是购物指南。它把常见商品名，接到 [第一章](modules/module-01/index.qmd) 里用的植物与加工概念——这样第一章说“绿茶对红茶”时，你已经知道超市盒子大概在说什么。
+同一排货架上，有的盒子是另一杯东西：洋甘菊、薄荷、路易波士，多半是**别的植物**用热水泡出来的（常叫花草茶）。本页从这里起——杯子里是什么、怎样倒一杯简单的、三个日常名字。更长的货架名单在 [茶叶标签](tea-labels.qmd)。课文晚一点才谈化学、心情或研究。
 
-课文章节术语（[HPA 轴](glossary.qmd#hpa-axis)、[错误相关负波](glossary.qmd#ern)、[气球类比风险任务](glossary.qmd#bart)）请用 [词汇表](glossary.qmd)。一杯约 250 毫升 的典型毫克数，请用 [杯量参考](cup-reference.qmd)。货架标签跟故事脱节时，翻**这一页**。
+这是一扇温和的门。不是名称词典，也不是化学课。典型毫克数在 [杯量参考](cup-reference.qmd)。苦了或淡了，去 [厨房排障](tea-troubleshoot.qmd)。
 
-点脚注号码跳到来源，再点箭头回来。鼠标停住，多数时候也会弹出摘要。密一点的支线，收在折叠的**“更多详情…”**里。
+点脚注数字可跳到来源，再点箭头回来；鼠标停住，常会弹出摘要。几则短旁注收在折叠的**“更多详情…”**里。
 
-::: {.callout-tip title="五分钟货架路线"}
-1. **真茶还是花草茶** — 茶树叶（绿／红／乌龙／白…）对洋甘菊／薄荷／路易波士等草本浸泡。
-2. **绿／红分叉** — 同一株植物；早早加热（绿），或让它在空气里褐变（红茶；英语称 black tea）。
-3. **一个标签例子** — 英式早餐茶通常是浓郁的**红茶拼配**；煎茶是日常日本**绿茶**。
-4. **数字** — 有人报毫克数时，打开 [杯量参考](cup-reference.qmd)。
-
-本页其余是可选深度，留给货架仍觉得雾的时候。
+::: {.callout-tip title="五分钟走一遍"}
+1. **真茶还是花草** — 茶树的叶，还是另一种植物泡进热水。
+2. **同一株植物，两条路** — 趁早加热（绿茶），或让它在空气里变褐（红茶；英语称 black tea）。
+3. **倒一杯简单的** — 大约 2 克茶叶、大约 250 毫升热水。喝一口。别背表。
+4. **一句感觉** — 茶树泡出来的茶，通常带着咖啡因和茶氨酸。多少不一定 → [杯量参考](cup-reference.qmd)。
+5. **盒子上还有别的名字** — 打开 [茶叶标签](tea-labels.qmd)。
+6. **想知道为什么？** — 打开 [第一章](modules/module-01/index.qmd)。
 :::
 
-::: {.callout-tip title="本页要认识的词"}
-- **真茶** — 来自茶树（*Camellia sinensis*）的浸泡液（绿、白、乌龙、红、黑茶／普洱等）。
-- **花草“茶”／草本浸泡饮** — 其他植物的热水浸泡（洋甘菊、薄荷、路易波士…）；通常没有来自茶树的咖啡因。
-- **氧化** — 叶酶加空气，让儿茶素变深（茶行常说“发酵”，但对普通绿／红茶，多半指这一步）。
-- **传统制法与切碎揉捻（CTC）** — 两种红茶厂房风格：较大卷曲叶 vs 细小快泡颗粒。
-:::
-
----
-
-## 商品标签上的“茶”指什么
-
-日常口语里，“茶”几乎可以指任何热水泡的东西。在本站的科学与贸易说法里，**真茶**只指一个物种的叶（有时也有芽）：茶树（*Camellia sinensis*）。
-
-正因为是同一物种，第一章才能说“一个物种，两大主要类型”，仍盖住你买的大部分绿或红茶。正面写着“茶”的花草盒子——洋甘菊、薄荷、姜、路易波士——通常是**别的植物的浸泡液**。它们可以很好喝。但它们不是茶树带来的咖啡因、[茶氨酸（L-theanine）](glossary.qmd#l-theanine)和表没食子儿茶素没食子酸酯（[EGCG](glossary.qmd#egcg)）那一套化学故事。美国食品药品管理局（FDA）的消费者材料早就说过：花草茶来自其他植物，标签应写明植物名。[^1] 业界团体也请消费者把“茶”留给茶树风格（绿、红、乌龙、白、黑茶），其余叫花草茶或草本浸泡饮。[^2]
-
-所以第一章谈杯里有什么时，除非另说，否则默认是茶树叶。洋甘菊做的无咖啡因“睡前茶”，是另一种饮品——也是另一章化学。
-
-::: {.callout-note collapse="true" title="更多详情：为什么“茶”这个词被拉大"}
-英语先把 *tea* 借来指茶树饮品，再拉大到任何热浸泡。咖啡店柜台这样讲没问题。科学伴侣里就会混：咖啡因、茶氨酸和 EGCG 是茶树的招牌角色——不是“杯里随便什么”的通用角色。
-
-本站本站基准：第一章的商品茶指茶树。花草浸泡超出这块化学核心，除非本站明确引入（本伴侣不发明花草剂量或经济学）。
+::: {.callout-tip title="本页会用到的词"}
+- **真茶** — 用茶树叶子泡出来的饮品（绿茶、红茶，以及夹在中间的那些做法）。
+- **花草“茶”／草本浸泡** — 热水泡别的植物（洋甘菊、薄荷、路易波士…）。
+- **浸泡** — 让茶叶在热水里坐一会儿，颜色和味道才出来。
 :::
 
 ---
 
-## 风格地图：加工路径，不是不同物种
+## 杯子里是茶树，还是别的植物
 
-绿、白、乌龙、红茶和黑茶（普洱），多半是同一株植物上不同的**厂房路径**——不是货架上不同的物种。第一章的中央分叉，用两大笔说同一件事：用热**提早停住**叶酶（绿路径），或**让**它们在空气里干活（红路径）。
+口语里，“茶”几乎可以指任何热水泡出来的东西。在本站，**真茶**只指一种植物的叶，有时也包括芽：茶树（词汇表里的 [*Camellia sinensis*](glossary.qmd#sinensis)）。
 
-一把有用的尺子是：加热锁叶之前，酶促氧化被允许跑多远：
+正面写着“茶”的花草盒子——洋甘菊、薄荷、姜、路易波士——通常是**别的植物**泡的。它们可以很好喝，但不是茶树绿茶或红茶那一杯，也不是后面几章要讲的化学。美国食品药品管理局（FDA）的消费者材料早就说过：花草茶来自其他植物，标签应写明是什么植物。[^1] 行业团体也请人把“茶”留给茶树做成的绿、红、乌龙、白、黑茶，其余叫花草茶或草本浸泡。[^2]
 
-| 日常风格 | 粗略加工想法 | 杯里通常注意到什么 |
+所以后面的章节谈杯子里有什么时，除非另说，否则默认是茶树叶。睡前那杯洋甘菊“茶”是另一种饮料。花草的名字列在 [茶叶标签](tea-labels.qmd)。
+
+::: {.callout-note collapse="true" title="更多详情：“茶”这个词为什么越用越大"}
+英语先把 *tea* 借来指茶树那杯，后来又拉到任何热浸泡。咖啡馆柜台这样讲没问题。放进这本读物里就容易混——清醒和那一点安静，属于茶树，不属于每一盒写着“茶”的东西。
+:::
+
+---
+
+## 同一株植物，不同的路
+
+绿茶和红茶，多半是同一株植物在厂房里**走了不同的路**，不是货架上的两个物种。英国茶与浸泡饮协会说得很直：加工时氧化走了多久——或者根本没氧化——把红茶、绿茶、乌龙和白茶的性格分开了。[^3]
+
+| 路线 | 白话 | 杯子里通常怎样 |
 | --- | --- | --- |
-| **绿茶** | 早加热（蒸或锅炒）以停住褐变酶 | 淡至黄绿；草青／菜香；儿茶素多半仍“简单” |
-| **白茶** | 最少处理；嫩芽／叶萎凋干燥 | 水色浅；细致；最少“厂房戏剧” |
-| **乌龙** | 部分氧化（范围很宽——偏绿到偏深） | 介乎绿与红之间；花香到焙香视风格而定 |
-| **红茶** | 充分酶促氧化，再干燥 | 琥珀至深红棕；麦芽／爽利；许多儿茶素连成较深色素 |
-| **黑茶（如普洱）** | 茶坯之后再经微生物陈化／发酵 | 泥土、陈香；这里真正的微生物才重要 |
+| **绿茶** | 很早加热，不让叶子变褐 | 淡黄到黄绿；草香或菜香 |
+| **红茶** | 让叶子在空气里变褐，再烘干 | 琥珀到深红棕；麦芽或爽口 |
+| **中间、更轻，或陈过** | 乌龙夹在绿与红之间；白茶处理更少；普洱这类黑茶是陈过的 | 仍是同一株植物——停在不同地方 |
 
-英国茶与浸泡饮协会说得同样直白：加工时氧化的长短——或者有没有氧化——分开红、绿、乌龙和白的个性。[^3] 茶化学综述也同意：风格标签跟的是加工，多于物种。[^4]
+**先说清楚：**做茶的人常把由绿转红叫“发酵”。说到普通绿茶、乌龙、红茶，他们多半是指叶子里的酶加上空气。真正靠微生物陈化的，主要是普洱这类黑茶。[^4]
 
-**先说清楚：** 制茶人常把绿→红的变化叫“发酵”。从生化看，普通乌龙与红茶是**有氧酶促氧化**（叶酶＋空气）。真正的微生物发酵，主要出现在后发酵黑茶如普洱。[^5]
+茶包对散茶，以及红茶工厂说的“传统制法”和“切碎揉捻（CTC）”，讲的是**颗粒**，不是新植物。碎一点，杯子往往上色更快。等级表在 [茶叶标签](tea-labels.qmd)。
 
-::: {.callout-note collapse="true" title="更多详情：黄茶与“六大茶类”放哪里"}
-贸易与标准写作有时列出**六**种制成品类（绿、黄、白、乌龙、红、黑），按加工与氧化排序（见参考中的六类框架脚注）。黄茶在中国以外较少见，大致走类似绿茶的路径，再加一步“闷黄”；进第一章前不必先精通它。
+::: {.callout-note collapse="true" title="更多详情：六大茶类这个名字"}
+行业名单有时列出**六类**成品：绿茶、黄茶、白茶、乌龙、红茶、黑茶。黄茶在中国以外少见。进第一章之前不必先弄懂它。[^5]
 
-乌龙氧化是一个**范围**（常被描述为约 ~10% 到接近 ~80%，视风格而定），不是单一中点。所以一家咖啡店的“乌龙”可以几乎像绿，另一家几乎像红——仍是同一株植物，不同的停点。
-:::
-
-六类加工列表见于多份茶加工概览与 ISO 分类工作。[^6]
-
-说到底，盒子写绿或红时，通常是在命名一种**工艺**，不是另一个植物物种。第一章往下建的，就是这句话。
-
----
-
-## 常见超市与咖啡店名称 → 通常指什么
-
-标签混了三件事：**产地**（阿萨姆、大吉岭）、**厂房风格**（煎茶、抹茶），以及**拼配或加味配方**（英式早餐茶、伯爵茶）。下表是对照表——不保证每个品牌用法完全一样。
-
-| 你看到的标签 | 通常指什么 | 链回本站 |
-| --- | --- | --- |
-| **英式早餐茶** | 为早上浓杯而选的**红茶拼配**（常含阿萨姆及／或其他厚实红茶；配方因品牌而异） | 红茶加工路径；咖啡因常靠向日常杯的高位——见 [杯量参考](cup-reference.qmd) |
-| **阿萨姆** | 印度东北部阿萨姆的红茶；常麦芽味、浓；该区是大叶种（[*assamica*](glossary.qmd#assamica)）的家乡故事 | [中国小叶种](glossary.qmd#sinensis) vs 阿萨姆大叶种见 [第一章](modules/module-01/index.qmd) |
-| **大吉岭** | 喜马拉雅山麓大吉岭的茶；常细致、高海拔；多作红茶卖，有些批次氧化偏轻 | 地理＋加工；不是另一物种 |
-| **伯爵茶** | 通常是**用香柠檬（佛手柑）加味的红茶**；底子仍是茶树红茶 | 在红路径之上加味——不是新植物 |
-| **锡兰／肯尼亚** | 以产地命名的红茶（斯里兰卡；肯尼亚）——拼配常见建材 | 产地标签 ≠ 不同物种 |
-| **煎茶** | 日常日本**绿茶**：叶通常**蒸过**，再揉捻干燥 | 绿路径（热提早停酶） |
-| **抹茶** | 遮荫栽培的绿茶制成**细粉**，用热水打匀饮用（你喝下叶本身，不只浸泡液） | 本站注：遮荫抹茶／玉露杯中茶氨酸常**较高**——见 [杯量参考](cup-reference.qmd) |
-| **茉莉绿茶** | 用茉莉花**窨香**的绿茶；底子仍是茶树绿茶 | 窨香 ≠ 花草浸泡 |
-| **乌龙**（铁观音、包种等） | 部分氧化的茶树茶；风格名称标示传统与氧化程度 | 氧化尺的中段 |
-| **普洱／黑茶** | 云南（及相关）经微生物陈化的黑茶；“生”“熟”做法不同 | 真正发酵的例外（微生物陈化） |
-| **洋甘菊／薄荷／路易波士“茶”** | 花草浸泡——**不是**茶树，除非标签也列出茶叶 | 在第一章化学核心之外 |
-
-拼配、产地与绿茶风格的通常含义，依循上文引用的英国茶与浸泡饮协会类型页；煎茶与抹茶加工笔记也对应日本业界摘要；[^7] 抹茶／玉露茶氨酸范围落在本站杯量基准。[^8]
-
-::: {.callout-note collapse="true" title="更多详情：拼配、等级，以及品牌为什么不一致"}
-**英式早餐茶** 是一个*配方家族*，不是单一茶园。拼配师为了色泽、浓度与加奶友好度组合产地；两盒超市茶可以同名仍不同。
-
-**抹茶 vs 煎茶：** 煎茶浸泡后叶通常丢弃；抹茶是悬浮粉末，因此更多叶固形物进入饮品。本站杯量范围已标出：遮荫玉露／抹茶的茶氨酸，往往高于普通绿浸泡。
-
-**珠茶、祁门、正山小种、云南：** 货架上更多绿或红的*风格*名——仍是茶树加工传统，不是另一物种。
+乌龙是一个**范围**，不是一个固定的中点。所以这家咖啡馆的乌龙几乎像绿，那家几乎像红。仍是同一株植物。
 :::
 
 ---
 
-## 白话说中国小叶种与阿萨姆大叶种
+## 你的第一杯
 
-第一章第一个大植物想法很简单：几乎所有商品茶都是一个物种——茶树——却带着两种主要“脾气”的植株，好比狗是一个物种、却有许多品种。[^9]
+本站说的一只普通家用杯，大约是 **2 克**干叶——一包茶，或一小匙——配大约 **250 毫升**热水。这就是 [杯量参考](cup-reference.qmd) 谈毫克时用的日常基准。[^6]
 
-- **中国小叶种**（var. *sinensis*）：较小叶灌木；常与较凉山区相关；平均往往茶氨酸较丰富。
-- **阿萨姆大叶种**（var. *assamica*）：较大叶、较像树；喜暖湿低地；平均往往咖啡因与多酚较高。
+- **红茶**常常用接近沸腾的水，泡几分钟。
+- **绿茶**往往凉一点、短一点，比较顺口。
 
-**为什么超市标签在乎：** 盒子上的“阿萨姆”，通常指向以大叶种红茶闻名的地区。大吉岭与许多中国绿茶，偏向小叶种材料。拼配会把界线弄糊——你的“英式早餐茶”可能刻意混产地。
+喝一口。若觉得刮嘴，下一杯早点停。不用把表背下来。
 
-**先说清楚：**“阿萨姆一定咖啡因高很多”说得太死。平均往往偏向大叶种较高，但遮荫、肥料与采哪片叶，可以翻转单次比较。[^10] 第一章会带数字讲这个提醒；本页只需地图。
-
-→ 完整故事：[第一章第一节 — 同一物种，两种茶叶脾气](modules/module-01/01-plants.qmd)
-
----
-
-## 茶包 vs 散茶，以及切碎揉捻与传统制法
-
-货架上常把两个问题缠在一起。
-
-**1. 茶包 vs 散茶** 多半关乎**分量和颗粒大小**，不是不同植物。茶包是预量好的一份；散茶是同一植物按重量卖。茶包常用较小颗粒，好让颜色和浓度在杯里很快出来。[杯量参考](cup-reference.qmd)采用常见日常基准：约 **每 250 毫升 2 克 干叶**——大约一包茶包或一小匙——而正式品评（ISO 3103）用更浓的比例。[^11]
-
-**2. 传统制法 vs 切碎揉捻（CTC）** 是**红茶厂房**区分（氧化前／期间如何打碎叶），不是绿茶规则。[^12]
-
-| | **传统（正统）制法** | **切碎揉捻（CTC）** |
-| --- | --- | --- |
-| 叶形 | 较大卷曲或碎叶 | 细小均匀颗粒 |
-| 冲泡习惯 | 较慢，层次往往较多 | 快、浓、色深——常见于茶包与奶茶 |
-| 心里图像 | 揉与挫 | 为速度而切碎 |
-
-英国业界页面描述：传统揉捻做出较大等级；“非传统”切碎揉捻（或类似）机器把叶切成更小颗粒以加快冲泡——正是许多现代茶包市场想要的。
-
-两种方法都不会发明新物种。两者都可以进“英式早餐茶”拼配。颗粒大小与拼配配方推动杯子的程度，不亚于盒上的字——这也是第一章拒绝给“茶”一个单一咖啡因数的另一个理由。
-
-::: {.callout-note collapse="true" title="更多详情：为什么茶包往往较快“变浓”"}
-较小颗粒暴露更多表面积，因此可溶固形物——包括咖啡因与色素——更快进入水中。这不自动等于“永远更多咖啡因”；它往往指在平日早晨那种短浸泡时间里，杯子更深、更爽利。第一章的本站萃取笔记（温度、时间、叶量）才是旋钮；茶包 vs 散茶是多一个旋钮，不是道德排名。
-:::
+**不对劲** — 苦或淡 → [厨房排障](tea-troubleshoot.qmd)。  
+**想知道为什么温度和时间要紧** → [第一章 · 第三节](modules/module-01/03-brewing.qmd)。  
+**器具有名字**（茶壶、盖碗、茶筅）→ [茶叶标签](tea-labels.qmd)。  
+**想看毫克** → [杯量参考](cup-reference.qmd)。
 
 ---
 
-## 本页如何链到杯量参考与第一章
+## 清醒，又有一点安静
 
-把本站当成三层地图来读：
+茶树泡出来的茶，通常带着**咖啡因**（那点清醒）和**[茶氨酸（L-theanine）](glossary.qmd#l-theanine)**（叶子里一种偏向安静专注的氨基酸）。各有多少，看叶子，也看浸泡。本页不给剂量，也不劝你为了健康去喝哪一种。
 
-1. **茶叶入门（本页）** — *盒子上的字*通常指什么。
-2. **[第一章](modules/module-01/index.qmd)** — *叶与厂房*在化学上做什么（中国小叶种／阿萨姆大叶种；停 vs 跑氧化；冲泡；咖啡因、茶氨酸、EGCG）。
-3. **[杯量参考](cup-reference.qmd)** — 在本站冲泡基准下，*一杯 250 毫升 的典型毫克数*。
+数字在 [杯量参考](cup-reference.qmd)。“杯子里三位客人”的故事在 [第一章 · 第四节](modules/module-01/04-compounds.qmd)。
 
-许多读者喜欢的短路径：
+---
 
-- 看到英式早餐茶 → 红茶拼配 → 杯量参考红茶咖啡因列（本站基准约 **40–80 毫克**）→ 第一章氧化故事。
-- 看到煎茶或抹茶 → 绿路径 → 杯量参考绿茶列（以及抹茶／玉露茶氨酸注）→ 第一章热杀／儿茶素故事。
-- 看到洋甘菊茶 → 花草浸泡 → 不是第一章化学核心。
+## 先认三个名字
 
-若要课章术语（[多酚氧化酶](glossary.qmd#ppo)、[茶黄素](glossary.qmd#theaflavins)、HPA 轴），打开 [词汇表](glossary.qmd)。若要冲泡事实如何缝到心情或决策，打开 [联结桥梁](linkages.qmd)。
+故意只留三个。长表是下一扇门。
+
+| 名称 | 一般指什么 |
+| --- | --- |
+| **英式早餐茶** | 多半是浓口的**红茶拼配**。配方各牌不同。 |
+| **煎茶** | 日本人日常喝的**绿茶**。 |
+| **洋甘菊“茶”** | 多半是**花草**——另一种植物，不是茶树。 |
+
+英式早餐茶作为红茶拼配、绿与红作为加工差别，依循上文引用的英国茶与浸泡饮协会类型页。[^3] 洋甘菊是另一种植物，依循上面的 FDA 注。[^1]
+
+中文名、日文名、西方咖啡馆名——连等级、花草和茶壶名称——都在 [茶叶标签](tea-labels.qmd)。
 
 ---
 
 ## 下一步去哪里
 
-对茶标签还新？你来对地方了。准备好看那些标签底下的化学故事？开始 [第一章：化学核心](modules/module-01/index.qmd)。想先看标准杯的数字？打开 [杯量参考](cup-reference.qmd)。杯已经倒好、感觉不对？打开 [厨房排障](tea-troubleshoot.qmd)。见到很有把握的茶标题？打开 [读懂茶研究](tea-reading-studies.qmd)。
+- 更多名称、等级或器具词 → [茶叶标签](tea-labels.qmd)
+- 一只 250 毫升杯的数字 → [杯量参考](cup-reference.qmd)
+- 化学故事 → [第一章：化学核心](modules/module-01/index.qmd)
+- 杯子已经不对 → [厨房排障](tea-troubleshoot.qmd)
+- 很有把握的标题 → [读懂茶研究](tea-reading-studies.qmd)
 
-[^1]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html (Notes that herbal teas are made from leaves of other plants and should name the plant.)
+[^1]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html (Herbal teas are made from other plants and should name the plant.)
 
 [^2]: Tea Association of the USA. (2019). Comment on FDA food standards of identity modernization (Docket FDA-2018-N-2381): true tea from *Camellia sinensis* (green, black, oolong, white, dark) vs herbal tisanes. https://downloads.regulations.gov/FDA-2018-N-2381-1376/attachment_1.pdf
 
-[^3]: UK Tea & Infusions Association. Types of tea, origins & varieties. https://www.tea.co.uk/types-of-tea (Black/green/white/dark overview; English Breakfast and Earl Grey as black-tea blends; sencha steaming vs pan-firing; Pu-erh notes.)
+[^3]: UK Tea & Infusions Association. Types of tea, origins & varieties. https://www.tea.co.uk/types-of-tea (Oxidation—or its absence—separates black, green, oolong, and white; English Breakfast as a black-tea blend.)
 
-[^4]: Wong, M., et al. (2022). Phytochemical profile of differently processed tea: A review. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.16137 (Green / white / oolong / black / pu-erh as processing categories.)
+[^4]: Ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [Chapter 1](modules/module-01/index.qmd).
 
-[^5]: 普通乌龙／红茶所谓「发酵」实为酶促氧化；真正的微生物发酵主要出现在普洱等后发酵黑茶。见 Subramanian et al. (1999) 与 Tanaka & Kouno (2003)，亦见[第一章](modules/module-01/index.qmd)。
+[^5]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark)—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
-[^6]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark) sorted by processing and oxidation—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
-
-[^7]: Kyoto Prefectural Tea Industry Chamber. Types of tea (sencha; matcha/tencha). https://www.ujicha.or.jp/en/knowledge/kinds/
-
-[^8]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071 (Cup-reference baseline; shaded gyokuro/matcha noted higher.)
-
-[^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Naming frame for China-type vs Assam-type talk.)
-
-[^10]: 咖啡因平均值与种植条件；Takeda (1994) 品种调查，见[第一章](modules/module-01/index.qmd)。
-
-[^11]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html (Formal ~2 g / 100 mL vs everyday ~2 g / 250 mL baseline on Cup reference.)
-
-[^12]: UK Tea & Infusions Association. Creating the perfect blend (orthodox rolling vs CTC / unorthodox smaller particles for quicker brew). https://www.tea.co.uk/tea-processing-and-blending
+[^6]: Everyday baseline on the [Cup reference](cup-reference.qmd): about 2 g dry leaf per 250 mL. Formal tasting strength under ISO 3103:2019 is stronger (about 2 g per 100 mL)—https://www.iso.org/standard/73224.html—and that comparison stays on the Cup page.

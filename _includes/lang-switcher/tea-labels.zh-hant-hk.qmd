@@ -1,0 +1,3 @@
+::: {.lang-switcher}
+**Language / 語言 / 语言:** [English](../tea-labels.qmd) · [繁體中文（香港）](tea-labels.qmd) · [简体中文](../zh-hans/tea-labels.qmd)
+:::

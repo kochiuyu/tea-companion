@@ -4,7 +4,7 @@ title: "Tea, Caffeine & Decision Companion"
 {{< include _includes/lang-switcher/home.en.qmd >}}
 
 ::: {.callout-tip title="Also in Chinese / 亦有中文版"}
-The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version—home, tea basics, the five chapters, linkages, and bibliography.
+The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version—home, tea basics, tea labels, the five chapters, linkages, and bibliography.
 :::
 
 You tip hot water over a handful of leaves. Steam rises. The water darkens—maybe green-gold, maybe deep amber—and a smell fills the room that is somehow both sharp and soft. Twenty minutes later you are a little more awake. Sometimes you also feel a little calmer. Coffee can wake you up too. So why does *tea* so often feel like a different kind of alertness?
@@ -19,7 +19,8 @@ This site is a **story-shaped journey** through tea—leaves, body and mood, his
 
 | If you want… | Open |
 | --- | --- |
-| **Labels** — what *English Breakfast*, *sencha*, *matcha*, bag vs loose usually mean | [Tea basics](tea-basics.qmd) |
+| **First cup** — what tea is, true vs herbal, one simple mug | [Tea basics](tea-basics.qmd) |
+| **Shelf & cafe names** — Chinese / Japanese / Western labels, grades, teapots | [Tea labels](tea-labels.qmd) |
 | **Kitchen complaints** — bitter, flat, cloudy, second steep → which dial | [Kitchen troubleshoot](tea-troubleshoot.qmd) |
 | **Study headlines** — five questions before you believe “tea improves decisions” | [Reading a tea study](tea-reading-studies.qmd) |
 | **Numbers** — typical milligrams in a 250 mL mug | [Cup reference](cup-reference.qmd) |
@@ -47,7 +48,7 @@ A full structure map of all twenty sections sits on the [Chapters overview](modu
 
 When a number appears—say "about 30–50 mg caffeine"—treat it as a **typical range**, not a promise about your exact mug. Brands, leaves, and steep times differ. The [Cup reference](cup-reference.qmd) is the quick table for a common 250 mL cup.
 
-New to grocery and cafe labels? Start with **[Tea basics](tea-basics.qmd)** before or alongside Chapter 1.
+New to tea itself? Start with **[Tea basics](tea-basics.qmd)** for a first mug. Still foggy about a shelf or cafe name? Open **[Tea labels](tea-labels.qmd)** before or alongside Chapter 1.
 
 When a technical word appears, we define it in the story the first time. The [Glossary](glossary.qmd) is there when you want a one-line reminder (with links into the right chapter hub).
 
@@ -55,4 +56,4 @@ When you wonder how a brewing fact connects to mood, or a warm mug to a trust ga
 
 When you want the paper behind a name-and-year—or a footnote marker on a lesson page—click the footnote or open the [Bibliography](bibliography.qmd).
 
-Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) if labels feel confusing, [Kitchen troubleshoot](tea-troubleshoot.qmd) if the mug already went wrong, or [Reading a tea study](tea-reading-studies.qmd) before you trust a headline—then [Chapter 1: The Chemical Core](modules/module-01/index.qmd)—or skim the [roadmap](modules/index.qmd) first.
+Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) for a first mug, [Tea labels](tea-labels.qmd) if a box or menu name is still foggy, [Kitchen troubleshoot](tea-troubleshoot.qmd) if the mug already went wrong, or [Reading a tea study](tea-reading-studies.qmd) before you trust a headline—then [Chapter 1: The Chemical Core](modules/module-01/index.qmd)—or skim the [roadmap](modules/index.qmd) first.
