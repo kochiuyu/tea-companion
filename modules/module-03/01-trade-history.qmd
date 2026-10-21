@@ -72,7 +72,7 @@ The four-era map (Canton → wars → plant transfer → plantations) and the Ar
 | Canton System (1757–1842) | Qing China vs Britain / East India Company | Western buyers paid for Chinese tea largely in silver, draining Western silver and creating a trade deficit | Company turned to opium smuggling into China to rebalance trade | Farooqui (2005); National Army Museum [^5][^1] |
 | Opium Wars (1839–1860) | Britain, Qing, Company | Force and treaties opened ports; Hong Kong ceded | Britain pushed tea growing in its own colonies to reduce dependence on China | Lovell (2011); Britannica overview [^6][^4] |
 | Corporate plant transfer (1848–) | Kew networks, Company, Robert Fortune | Fortune entered interior China for plants, seed, and processing know-how | Chinese processing knowledge moved to British-run Indian plantations | Kew history; Brockway (1979) [^7][^8] |
-| Late 19th c. plantations | British Raj (Assam, Darjeeling) | Large industrial estates on conceded land | Global Chinese monopoly broken; tea became a cheap mass commodity | Sharma (2011); Kew [^9][^7] |
+| Late 19th c. plantations | British Raj (Assam, Darjeeling) | Large industrial estates on conceded land | Global Chinese monopoly broken; tea became a cheap mass commodity — **story continues in [Section 3](03-plantation-aftershock.qmd)** | Sharma (2011); Kew [^9][^7] |
 :::
 
 ::: {.callout-note collapse="true" title="More detail: Treaty of Nanking clauses (source reading) and $6 / $3 / $12"}
@@ -139,11 +139,9 @@ Kew's public history (Andrew Butterworth, 2015) and the sources' verification no
 
 ## From monopoly leaf to mass commodity
 
-The global Chinese monopoly was broken; tea became a plantation commodity. What that aftershock did to land, labor, and the supermarket bag is the next history sitting—[Plantation aftershock](03-plantation-aftershock.qmd)—not a second telling of Fortune's packing cases.[^7][^9]
+Once Chinese monopoly leaf was no longer the only farm, industrial estates remade land and labor—and the cheap bag followed. That aftershock is the next history sitting: [Plantation aftershock](03-plantation-aftershock.qmd)—not a second telling of Fortune's packing cases.[^7][^9]
 
-That is history—not a chemistry claim. Chapter 1 still explains why the bag tastes the way it does. This lesson explains why the bag is *there* for pocket change.
-
-Empire explains how tea became cheap and everywhere. But long before the Opium Wars, tea had another job: helping people stay awake for long practice. That path—medicine soup to monastery to tea room—is the next lesson.
+Chemistry (Chapter 1) still explains why the bag tastes the way it does. This lesson explains why the bag is *there* for pocket change. Empire explains how tea became *cheap*; the next lesson explains how tea became a *practice*.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: what this lesson is not claiming"}
 - Not claiming tea "caused" the Opium Wars alone—silver, opium, sovereignty, and coercive diplomacy were entangled.[^5][^6]
@@ -153,17 +151,18 @@ Empire explains how tea became cheap and everywhere. But long before the Opium W
 :::
 
 
-## Why this silver-trade scale still matters
+## The silver–opium loop, in four beats
 
-The point is **humility** about what a teaching page can claim—not a private model of Qing silver flows. The tallies (Pritchard; Morse) and treaty skeletons below are here so beginners can feel the *scale* of the drain—not so anyone can pretend to re-estimate nineteenth-century trade elasticities.
+The tallies (Pritchard; Morse) and treaty skeletons are here so beginners can feel the *scale* of the drain—not so anyone can re-estimate nineteenth-century trade elasticities. Try the loop as the sources tell it:
 
-Notice what this lesson refuses:
+1. **Demand.** Britain wants tea (and silk, porcelain).
+2. **Settlement.** Qing Canton rules demand silver, not British manufactures.
+3. **Rebalance attempt.** Opium from British India is sold into China for silver; silver buys more tea.
+4. **Collision.** Qing suppression meets British force; treaties open ports and shift sovereignty; colonial plantations later reduce dependence on Chinese leaf.
 
-- It does not claim tea alone "caused" war.
-- It does not treat Fortune as a comic-book thief who "invented" Indian tea.
-- It does not confuse "cheap supermarket bag today" with "morally simple history."
+Chest counts make beat 3 visceral: **4,244** chests (1820) → **40,200** (1839). Silver outflow from China on the order of **$34 million** (1831–1838) sits beside that surge in the secondary tallies (Morse).[^10] The Treaty of Nanking writes the first collision into law: ports, Hong Kong Island, indemnity. Lovell's narrative history and museum/archives explainers add human and political texture beyond the spreadsheet.[^6][^1][^2]
 
-Empire, botany, and industrial plantations broke an older monopoly. Chemistry (Chapter 1) still explains the cup's contents. History explains the cup's price and presence.
+This lesson still refuses three shortcuts: tea alone "caused" war; Fortune "invented" Indian tea; a cheap bag today means a morally simple past. Chemistry (Chapter 1) explains the cup's contents. History explains the cup's price and presence.
 
 ::: {.callout-note collapse="true" title="More detail: connecting this lesson to Chapter 1 and Tea basics"}
 | Everyday label | Historical hinge in this lesson | Where to go next |
@@ -175,26 +174,29 @@ Empire, botany, and industrial plantations broke an older monopoly. Chemistry (C
 If aisle words still feel slippery, start at [Tea basics](../../tea-basics.qmd), then return here for the geopolitical plot.
 :::
 
-## A slow reading of the silver–opium loop
-
-Try the loop in four beats, as the sources tell it:
-
-1. **Demand.** Britain wants tea (and silk, porcelain).
-2. **Settlement.** Qing Canton rules demand silver, not British manufactures.
-3. **Rebalance attempt.** Opium from British India is sold into China for silver; silver buys more tea.
-4. **Collision.** Qing suppression meets British force; treaties open ports and shift sovereignty; colonial plantations reduce dependence on Chinese leaf.
-
-Chest counts make beat 3 visceral: **4,244** chests (1820) → **40,200** (1839). Silver outflow from China on the order of **$34 million** (1831–1838) sits beside that surge in the secondary tallies (Morse). You do not need a PhD in economic history to feel the direction of the flow—only the humility to keep the figures labeled as secondary tallies.
-
-The Treaty of Nanking then writes beat 4 into law: ports, Hong Kong Island, indemnity. Lovell's narrative history and museum/archives explainers are readable companions if you want the human and political texture beyond the spreadsheet.[^6][^1][^2]
-
 
 
 ## Hong Kong, ports, and aftershocks
 
-For readers in Asia/Hong Kong especially, the Treaty of Nanking is not abstract: Article III's cession of Hong Kong Island sits beside the five treaty ports and the indemnity bill.[^3][^4] Later conflicts through 1860 extended the treaty-port system further (Opium Wars era overview). The tea story is only one thread in that larger sovereignty and trade transformation—but it is a thread that ends in your cupboard.
+For readers in Asia/Hong Kong especially, the Treaty of Nanking is not abstract: Article III's cession of Hong Kong Island sits beside the five treaty ports and the indemnity bill.[^3][^4]
 
-Kew's public history remains the most approachable open trail for Fortune vs Bruce vs Wallich timing.[^7] For how Assam plantations remade land and labor once those botanical pieces were in place, continue to [Section 3](03-plantation-aftershock.qmd) (Sharma; Kew aftershock).[^9]
+Nanking was not the last forced rewrite of the trade map. A **Second Opium War** (also called the Arrow War, **1856–1860**) ended with further commercial and territorial concessions: the **Treaties of Tianjin** (1858) and the **Convention of Peking** (1860) expanded the treaty-port system—more open ports, and, in standard teaching summaries, foreign travel and Yangtze / inland access—while tea remained only one thread in a larger sovereignty fight, not the sole cause of either war.[^4][^6] Named dates and the teaching-summary fence live in the foldout; this page does **not** invent a treaty-article checklist.
+
+The tea story still ends in your cupboard. Kew remains the open trail for Fortune vs Bruce vs Wallich timing.[^7] How Assam estates remade land and labor after the botanical pieces were in place belongs to [Section 3 · Plantation aftershock](03-plantation-aftershock.qmd).[^9]
+
+::: {.callout-note collapse="true" title="More detail: Second Opium War / 1860 ports (teaching summary)"}
+Britannica's Opium Wars overview and Lovell's narrative history frame the second conflict as Britain and France pressing for further privileges after Nanking—not as a tea-only war.[^4][^6]
+
+| Beat | Teaching summary (no article list on this page) | Fence |
+| --- | --- | --- |
+| **1856–1860** | Second Opium War / Arrow War; Britain and France vs Qing China[^4] | Not "tea caused war" |
+| **Treaties of Tianjin (1858)** | Opened additional treaty ports; foreign envoys in Beijing; foreign travel in the interior; missionary movement; later Shanghai talks legalized opium importation in the Britannica framing[^4] | Teaching snapshot—not a clause-by-clause transcript |
+| **Convention of Peking (1860)** | Ratified / extended Tianjin terms; southern Kowloon Peninsula ceded beside Hong Kong Island in the same overview[^4] | Local geography for HK readers; still not a tea monopoly rewrite |
+
+**What this lesson still owns:** Canton silver, Cohong, First Opium War, Nanking, Fortune myth correction.  
+**What Section 3 owns:** Assam estates, indenture labor, Ceylon coffee→tea, empire marketing.  
+**Honesty fence:** do not invent wages, acreage, or a private list of Tianjin article numbers here—lock a primary treaty URL only if a later draft needs clause-level tables.[^4][^6]
+:::
 
 
 
@@ -209,13 +211,30 @@ Kew's public history remains the most approachable open trail for Fortune vs Bru
 
 **Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-monastic-path.qmd)
 
+## References
+
+1. National Army Museum. First China War (First Opium War), 1839–1842. https://www.nam.ac.uk/explore/first-china-war-1839-1842
+2. The National Archives (UK). Hong Kong and the Opium Wars (education resource). https://www.nationalarchives.gov.uk/education/teaching-resources/hong-kong-and-the-opium-wars/
+3. MIT Visualizing Cultures. The First Opium War (essay / primary-image context). https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay_04.pdf
+4. Britannica. Opium Wars (First and Second; scholarly overview). https://www.britannica.com/topic/Opium-Wars
+5. Farooqui, A. (2005). *Opium City: The Making of Early Victorian Bombay*. Three Essays Collective.
+6. Lovell, J. (2011). *The Opium War: Drugs, Dreams, and the Making of Modern China*. Picador.
+7. Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
+8. Brockway, L. H. (1979). Science and colonial expansion: The role of the British Royal Botanic Gardens. *American Ethnologist, 6*(3), 449–465.
+9. Sharma, J. (2011). *Empire's Garden: Assam and the Making of India*. Duke University Press.
+10. Morse, H. B. (1926). *The Chronicles of the East India Company Trading to China, 1635–1834* (Vol. IV, pp. 383–387). Oxford: Clarendon Press. (Cited chest and silver-outflow tallies.)
+11. Britannica. Canton system; Cohong (hong merchants). https://www.britannica.com/event/Canton-system · https://www.britannica.com/money/cohong
+12. Treaty of Nanking (Nanjing), signed 29 August 1842. English text transcription, USC U.S.–China Institute. https://china.usc.edu/node/20462 (Articles II–VII: five ports, Hong Kong Island, the 6 + 3 + 12 million dollar clauses, and the 21 million schedule with 5% interest on arrears.)
+13. Fortune, R. (1852). *A Journey to the Tea Countries of China*. London: John Murray. Preface (departure 20 June 1848; Hong Kong 14 August 1848; "upwards of twenty thousand" plants and eight manufacturers).
+14. Royal Horticultural Society. Plant Collector Archive: Robert Fortune (1812–1880), including the 1843–1846 Horticultural Society journey and the 1848 East India Company tea commission. https://collections.rhs.org.uk/view/327706/rhs-plant-collector-archive-robert-fortune
+
 [^1]: National Army Museum. First China War (First Opium War), 1839–1842. https://www.nam.ac.uk/explore/first-china-war-1839-1842
 
 [^2]: The National Archives (UK). Hong Kong and the Opium Wars (education resource). https://www.nationalarchives.gov.uk/education/teaching-resources/hong-kong-and-the-opium-wars/
 
 [^3]: MIT Visualizing Cultures. The First Opium War (essay / primary-image context). https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay_04.pdf
 
-[^4]: Britannica. First Opium War (scholarly overview). https://www.britannica.com/topic/Opium-Wars
+[^4]: Britannica. Opium Wars (First and Second; scholarly overview). https://www.britannica.com/topic/Opium-Wars
 
 [^5]: Farooqui, A. (2005). *Opium City: The Making of Early Victorian Bombay*. Three Essays Collective.
 
