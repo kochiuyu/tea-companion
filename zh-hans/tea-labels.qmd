@@ -1,0 +1,181 @@
+---
+title: "茶叶标签"
+lang: zh-Hans
+---
+
+{{< include ../_includes/lang-switcher/tea-labels.zh-hans.qmd >}}
+
+::: {.zh-door-nav}
+**本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [茶叶标签](tea-labels.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
+:::
+
+::: {.callout-note}
+**核对数字与出处，以英文页为准。** 用页顶语言切换在英文／繁体／简体之间跳转。
+:::
+
+[茶叶入门](tea-basics.qmd)已经带你倒了第一杯，也认了三个名字。本页是**货架与咖啡馆字典**——中文、日文、西方日常标签——外加一条**薄薄的**茶壶／冲泡器具带（只讲器具*是什么*，不讲萃取化学）。
+
+它不是第二本第一章，不是毫克表，也不是厨房投诉单。典型毫克数在 [杯量参考](cup-reference.qmd)。苦或淡的杯子去 [厨房排障](tea-troubleshoot.qmd)。潮汕工夫茶、港式奶茶的文化厚度，在 [第三章 · 第四节——地域剧本](modules/module-03/04-regional-scripts.qmd)。
+
+入门看完，盒子或菜单仍糊，就回来**本页**。
+
+点脚注数字可跳到来源，再点箭头回来；鼠标停住，常会弹出摘要。
+
+::: {.callout-tip title="五分钟标签路径"}
+1. **挑一块** — 中文名、日文名，或西方／咖啡馆名。
+2. **看“一般指什么”那一列** — 翻译表，不是牌子保证。
+3. **花草？** — 先确认是茶树叶，还是别的植物。
+4. **器具名？** — 对一下下面的薄带 → 旋钮看 [厨房排障](tea-troubleshoot.qmd) 或 [第一章 · 第三节](modules/module-01/03-brewing.qmd)；文化场面看 [第三章 · 第四节](modules/module-03/04-regional-scripts.qmd)。
+:::
+
+::: {.callout-tip title="本页会用到的词"}
+- **做法／传统名** — 工序或流派标签（煎茶、龙井、乌龙…），多半仍是茶树。
+- **拼配／加香配方** — 店家混叶或加香（英式早餐茶、伯爵茶）。
+- **产地标** — 盒子上的地名（阿萨姆、大吉岭、锡兰…）。
+- **等级** — 叶碎程度用语（橙白毫、碎茶、末茶），不是另一个物种。
+:::
+
+---
+
+## 怎样读一张茶标签
+
+标签常混四样东西：
+
+1. **地方** — 阿萨姆、大吉岭、云南…
+2. **工厂做法** — 煎茶、龙井、抹茶…
+3. **拼配或加香** — 英式早餐茶、伯爵茶、茉莉花茶…
+4. **等级** — 橙白毫、碎茶、末茶（叶有多碎）
+
+下面各表是**一般意思**。牌子会吵架，配方会不同。想知道*为什么*绿和红在化学上分家，打开 [第一章](modules/module-01/index.qmd)。想再倒第一杯，回 [茶叶入门](tea-basics.qmd)。
+
+---
+
+## 常见中文名
+
+| 你看到的标签 | 一般是什么意思 | 桥去哪 |
+| --- | --- | --- |
+| **龙井** | 许多菜单上的**炒青绿茶**做法名 | 绿茶路线 → [第一章](modules/module-01/index.qmd) |
+| **茉莉花茶／茉莉绿茶** | 绿茶**窨**了茉莉花香；底仍是茶树绿茶 | 加香 ≠ 花草茶 |
+| **珠茶（Gunpowder）** | 揉成小颗粒的绿茶（做法名） | 绿茶路线 |
+| **铁观音** | 著名**乌龙**传统名（氧化深浅因厂而异） | 绿↔红之间[^1] |
+| **包种** | 偏浅的**乌龙**做法名，常与台湾有关 | 乌龙带 |
+| **大红袍** | 著名**武夷岩茶／乌龙**菜单名 | 乌龙带——这里不讲传说 |
+| **祁门（Keemun）** | 常见于拼配与单喝的中国**红茶**做法名 | 红茶路线[^1] |
+| **云南**（作红茶词用时） | 许多带麦芽感的中国红茶产地／做法标 | 产地 ≠ 另一物种 |
+| **正山小种（Lapsang Souchong）** | **带烟熏味**的红茶（贸易上常见的松烟印象） | 加香／烟熏红茶[^1] |
+| **普洱／黑茶** | 云南（及相关）黑茶，带微生物陈化；**生茶**与**熟茶**做法不同 | 真正发酵的例外[^2] |
+| **白茶** | 处理较少的茶树叶；杯通常清淡 | 工厂戏份较少[^1] |
+| **黄茶** | 中国以外少见；近绿茶，多一道“闷黄” | 可选；六大茶类列表[^3] |
+
+工夫茶作为**日常社交场面**（小壶、多次短倒），是文化剧本——打开 [第三章 · 第四节](modules/module-03/04-regional-scripts.qmd)。下面器具带只点名用具。
+
+---
+
+## 常见日文名
+
+| 你看到的标签 | 一般是什么意思 | 桥去哪 |
+| --- | --- | --- |
+| **煎茶** | 日常日本**绿茶**：叶多半先**蒸**，再揉、再干 | 绿茶；入门迷你表[^4] |
+| **抹茶** | 遮荫绿叶磨成**细粉**，搅进水里（连叶一起喝） | 杯量范围里茶氨酸往往较高 → [杯量参考](cup-reference.qmd)[^5] |
+| **玉露** | 遮荫的高档日本**绿茶**（浸泡叶，不是搅粉） | 遮荫见 [第一章 · 第一节](modules/module-01/01-plants.qmd)；数字看杯量[^5] |
+| **碾茶（Tencha）** | 遮荫叶，石磨成抹茶之前的形态 | 抹茶的桥[^4] |
+| **玄米茶** | 绿茶加**炒米**（底仍是茶树，除非标签另说） | 绿茶 + 米 |
+| **焙茶（Houjicha）** | **焙过**的日本绿茶（一般印象偏烤香） | 绿茶，焙火 |
+
+煎茶／抹茶／碾茶的做法说明，对应入门页引用的日本行业类型页。[^4]
+
+---
+
+## 常见西方与咖啡馆名
+
+| 你看到的标签 | 一般是什么意思 | 桥去哪 |
+| --- | --- | --- |
+| **英式早餐茶** | 为浓口早茶而设的**红茶拼配**（常含阿萨姆等；配方因牌而异） | 红茶拼配；日常咖啡因范围见杯量[^1] |
+| **伯爵茶（Earl Grey）** | 通常是**加了佛手柑香**的红茶 | 加香，不是新植物[^1] |
+| **阿萨姆** | 印度阿萨姆的红茶；一般印象偏浓、带麦芽 | 产地 + 阿萨姆型植物见 [第一章 · 第一节](modules/module-01/01-plants.qmd) |
+| **大吉岭** | 大吉岭高山茶；一般偏细致；多当红茶卖，有些批次氧化较浅 | 地理 + 加工——不是另一物种 |
+| **锡兰／肯尼亚** | 以产地命名的红茶（斯里兰卡；肯尼亚）——常见拼配原料 | 产地标 ≠ 另一物种[^1] |
+| **尼尔吉里（Nilgiri）** | 南印度产地标，可见于红茶与拼配 | 这里只当产地词 |
+| **马萨拉茶／印度奶茶拿铁** | 许多店的配方：香料**红茶**加奶加甜；底仍是茶树红茶，除非标成花草 | 配方家族，不是物种 |
+| **奶茶／港式奶茶** | 浓红茶（常是细碎／CTC）加奶的文化饮 | 文化工艺 → [第三章 · 第四节](modules/module-03/04-regional-scripts.qmd) |
+| **珍珠奶茶／波霸** | 咖啡馆饮品家族：茶（或奶茶）底加配料 | 店铺表亲——不是工厂氧化种类 |
+| **低因茶（Decaf）** | 经处理**减少**咖啡因的茶（产品名）；跟花草“无咖啡因”不是同一句话 | 只点名——这里不讲残留百分比 |
+
+---
+
+## 等级、茶包与颗粒用语 {#grades}
+
+货架上两条问题常缠在一起。
+
+**茶包对散茶**，多半是**份量与颗粒大小**，不是另一种植物。茶包是预先量好的一份；散茶是按重量卖的同一类植物。茶包常用较碎的叶，好让颜色和浓度很快出来。入门与杯量参考用的日常基准，大约是 **2 克**干叶配 **250 毫升**。[^6]
+
+**传统制法对切碎揉捻（CTC）**，是**红茶工厂**怎么弄碎叶子的分别，不是绿茶规则。[^7]
+
+| | **传统制法（Orthodox）** | **切碎揉捻（CTC）** |
+| --- | --- | --- |
+| 叶形 | 较大的卷叶或碎叶 | 细小、均匀的颗粒 |
+| 泡法习惯 | 较慢，层次往往较多 | 快、浓、色深——常见于茶包与奶茶 |
+
+**橙白毫（Orange Pekoe）、碎橙白毫（BOP）、碎茶（fannings）、末茶（dust）**是许多红茶贸易里讲**叶有多碎**的等级词——不是另一物种，也不是道德排名。较细的等级往往泡得快，短浸就显得浓。
+
+→ 浑浊或“一下子太猛”：[厨房排障](tea-troubleshoot.qmd)。  
+→ 为什么颗粒改变出场速度：[第一章 · 第三节](modules/module-01/03-brewing.qmd)。
+
+---
+
+## 花草提醒
+
+| 你看到的标签 | 一般是什么意思 |
+| --- | --- |
+| **洋甘菊／薄荷／姜／路易波士“茶”** | 花草浸泡饮——**不是**茶树，除非标签也写了茶叶 |
+
+它们不在第一章的化学核心里。真茶对花草的短课，仍在 [茶叶入门](tea-basics.qmd)。[^8][^9]
+
+---
+
+## 薄带：茶壶与冲泡方法
+
+只讲器具**名称**——一般是什么。没有萃取动力学、没有仪式步骤表、没有第二张排障矩阵。
+
+| 器具／方法 | 白话意思 | 接着打开… |
+| --- | --- | --- |
+| **杯 + 茶包／滤篮** | 日常默认；一杯一浸 | [茶叶入门](tea-basics.qmd) 第一杯；不对劲找 [厨房排障](tea-troubleshoot.qmd) |
+| **英式／西式茶壶** | 较大的壶；叶在壶里或滤芯；可分享 | [厨房排障](tea-troubleshoot.qmd)；时间／温度／叶量看 [第一章 · 第三节](modules/module-01/03-brewing.qmd) |
+| **盖碗** | 有盖的碗，短浸多次 | 排障／第一章第三节——不是仪式课 |
+| **小朱泥／瓷壶（工夫茶用具）** | 小壶、小杯、多次短倒 | **文化：**[第三章 · 第四节](modules/module-03/04-regional-scripts.qmd)；**旋钮：**排障／第一章第三节 |
+| **爷爷杯（grandpa style）** | 叶留在大杯或玻璃杯里，加水续泡 | 排障／第一章第三节（第二泡直觉） |
+| **茶碗 + 茶筅（抹茶）** | 把粉悬浮起来；连叶一起喝 | 上面抹茶行；茶氨酸范围看 [杯量参考](cup-reference.qmd) |
+
+---
+
+## 这扇门坐在哪／下一步
+
+把茶的门想成一层层地图：
+
+1. **[茶叶入门](tea-basics.qmd)** — 第一杯；真茶对花草；绿↔红；三个样例标签。
+2. **茶叶标签（本页）** — 较长的名称表 + 器具名词。
+3. **[厨房排障](tea-troubleshoot.qmd)** — 杯已经不对 → 拧哪颗旋钮。
+4. **[第一章](modules/module-01/index.qmd)** — 植物、工厂、冲泡、化合物。
+5. **[杯量参考](cup-reference.qmd)** — 一只 250 毫升杯的典型毫克数。
+6. **[第三章 · 第四节](modules/module-03/04-regional-scripts.qmd)** — 工夫茶、港式奶茶等文化剧本。
+7. **[读懂茶研究](tea-reading-studies.qmd)** — 标题清单。
+
+还在倒第一杯？留在入门。准备好看数字？打开杯量参考。
+
+[^1]: UK Tea & Infusions Association. Types of tea, origins & varieties. https://www.tea.co.uk/types-of-tea (Black/green/white/dark overview; English Breakfast and Earl Grey as black-tea blends; oolong as partial oxidation; Keemun / Lapsang notes on trade type pages.)
+
+[^2]: Ordinary oolong/black “fermentation” is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [Chapter 1](modules/module-01/index.qmd). Wong et al. (2022) treat pu-erh among processing categories: https://doi.org/10.1111/1750-3841.16137
+
+[^3]: Six manufactured types (green, yellow, white, oolong, black, dark) appear in processing overviews and ISO tea-type classification work (e.g. *Food Reviews International* tea-processing chapter, https://doi.org/10.1080/87559129509541052; ISO 20715:2023).
+
+[^4]: Kyoto Prefectural Tea Industry Chamber. Types of tea (sencha; matcha/tencha). https://www.ujicha.or.jp/en/knowledge/kinds/
+
+[^5]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071 (Cup-reference baseline; shaded gyokuro/matcha noted higher.)
+
+[^6]: Everyday baseline on the [Cup reference](cup-reference.qmd); formal tasting strength under ISO 3103:2019 — https://www.iso.org/standard/73224.html
+
+[^7]: UK Tea & Infusions Association. Creating the perfect blend (orthodox rolling vs CTC / unorthodox smaller particles for quicker brew). https://www.tea.co.uk/tea-processing-and-blending
+
+[^8]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html
+
+[^9]: Tea Association of the USA. (2019). Comment on FDA food standards of identity modernization (Docket FDA-2018-N-2381). https://downloads.regulations.gov/FDA-2018-N-2381-1376/attachment_1.pdf

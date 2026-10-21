@@ -4,6 +4,7 @@ project:
   render:
     - index.qmd
     - tea-basics.qmd
+    - tea-labels.qmd
     - tea-troubleshoot.qmd
     - tea-reading-studies.qmd
     - modules/index.qmd
@@ -38,12 +39,14 @@ project:
     - bibliography.qmd
     - zh-hant-hk/index.qmd
     - zh-hant-hk/tea-basics.qmd
+    - zh-hant-hk/tea-labels.qmd
     - zh-hant-hk/tea-troubleshoot.qmd
     - zh-hant-hk/tea-reading-studies.qmd
     - zh-hant-hk/cup-reference.qmd
     - zh-hant-hk/glossary.qmd
     - zh-hans/index.qmd
     - zh-hans/tea-basics.qmd
+    - zh-hans/tea-labels.qmd
     - zh-hans/tea-troubleshoot.qmd
     - zh-hans/tea-reading-studies.qmd
     - zh-hans/cup-reference.qmd
@@ -117,6 +120,8 @@ website:
         menu:
           - text: Basics
             href: tea-basics.qmd
+          - text: Labels
+            href: tea-labels.qmd
           - text: Kitchen troubleshoot
             href: tea-troubleshoot.qmd
           - text: Reading a tea study

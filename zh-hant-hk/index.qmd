@@ -6,7 +6,7 @@ lang: zh-Hant-HK
 {{< include ../_includes/lang-switcher/home.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
+**本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [茶葉標籤](tea-labels.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -25,7 +25,8 @@ lang: zh-Hant-HK
 
 | 想知道… | 請打開 |
 | --- | --- |
-| **標籤**——英式早餐茶、煎茶、抹茶、茶包與散茶，一般指甚麼 | [茶葉入門](tea-basics.qmd) |
+| **第一杯**——茶是甚麼、真茶對花草、倒一杯簡單的 | [茶葉入門](tea-basics.qmd) |
+| **貨架與咖啡店名稱**——中文／日文／西方標籤、等級、茶壺 | [茶葉標籤](tea-labels.qmd) |
 | **廚房投訴**——苦、淡、渾濁、第二泡 → 該扭哪顆旋鈕 | [廚房排障](tea-troubleshoot.qmd) |
 | **研究標題**——相信「喝茶改善決策」之前，先問五個問題 | [讀懂茶研究](tea-reading-studies.qmd) |
 | **數字**——一隻 250 毫升 杯裡，大概有多少毫克 | [杯量參考](cup-reference.qmd) |
@@ -53,7 +54,7 @@ lang: zh-Hant-HK
 
 見到數字，例如「咖啡因約 30–50 毫克」，請當它是**文中的一般範圍**，不是你手上那一杯的保證。牌子、茶葉、浸泡時間都會令數字不同。想快速查一隻普通 250 毫升 杯，可看[杯量參考](cup-reference.qmd)。
 
-對超市和咖啡店的標籤還不太熟？讀第一章之前——或者一邊讀一邊翻——不妨先看 **[茶葉入門](tea-basics.qmd)**。
+對茶本身還不太熟？讀第一章之前——或者一邊讀一邊翻——不妨先看 **[茶葉入門](tea-basics.qmd)** 倒第一杯。盒上或餐牌的名字仍霧？打開 **[茶葉標籤](tea-labels.qmd)**。
 
 專門用語第一次出現時，我們會在故事裡解釋。想要一句話的提示，可查[詞彙表](glossary.qmd)，那裡也連到相關的本章入口。
 
@@ -61,4 +62,4 @@ lang: zh-Hant-HK
 
 想找某個「人名加年份」背後的論文，或課文裡某個腳註的出處，點一下腳註，或打開[參考文獻](bibliography.qmd)便可。
 
-準備好了嗎？先在心裡倒一杯。標籤看得糊塗，就由[茶葉入門](tea-basics.qmd)開始；杯已經倒壞了，就打開[廚房排障](tea-troubleshoot.qmd)；想信一篇標題之前，先看[讀懂茶研究](tea-reading-studies.qmd)——然後再讀[第一章：化學核心](modules/module-01/index.qmd)；又或者先瀏覽一下[路線圖](modules/index.qmd)。
+準備好了嗎？先在心裡倒一杯。要第一杯，就由[茶葉入門](tea-basics.qmd)開始；盒上或餐牌的名字仍霧，就打開[茶葉標籤](tea-labels.qmd)；杯已經倒壞了，就打開[廚房排障](tea-troubleshoot.qmd)；想信一篇標題之前，先看[讀懂茶研究](tea-reading-studies.qmd)——然後再讀[第一章：化學核心](modules/module-01/index.qmd)；又或者先瀏覽一下[路線圖](modules/index.qmd)。

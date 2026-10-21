@@ -4,189 +4,123 @@ title: "Tea basics"
 {{< include _includes/lang-switcher/tea-basics.en.qmd >}}
 
 
-You stand in a grocery aisle. Boxes say *English Breakfast*, *Earl Grey*, *green tea*, *chamomile*, *matcha*. Cafe menus add *sencha*, *oolong*, *Assam*. The companion chapters start talking about [*Camellia sinensis*](glossary.qmd#sinensis), oxidation, and catechins. How do those everyday labels connect?
+You have a mug, hot water, and a small pile of dry leaves—or a paper bag from the grocery aisle. Pour the water on. Wait a few minutes. The water changes color and the room smells different. That drink is what people usually mean by **tea**.
 
-This page is the **bridge**. It is not a second chemistry textbook and not a shopping guide. It maps common commercial names onto the plant and processing ideas that [Chapter 1](modules/module-01/index.qmd) uses—so when Chapter 1 says "green vs black," you already know what your supermarket box probably meant.
+Some boxes in the same aisle are a different drink: chamomile, peppermint, or rooibos are usually **other plants** steeped in hot water (often called herbal tea). This page starts there—what is in the mug, how to make one simple cup, and three everyday names. Longer shelf lists live on [Tea labels](tea-labels.qmd). The chapters come later.
 
-Keep the [Glossary](glossary.qmd) for chapter jargon (*[HPA axis](glossary.qmd#hpa-axis)*, *[ERN](glossary.qmd#ern)*, *[BART](glossary.qmd#bart)*). Keep the [Cup reference](cup-reference.qmd) for typical milligrams in a 250 mL mug. Use **this** page when a label on a shelf feels disconnected from the story.
+This is the gentle door. It is not a name encyclopedia and not a chemistry lesson. Typical milligrams live on the [Cup reference](cup-reference.qmd). A bitter or flat mug goes to [Kitchen troubleshoot](tea-troubleshoot.qmd).
 
-Tap a footnote number to jump to the source, then the caret to jump back. Hover often shows a popup. Denser side-stories sit in collapsed **"More detail…"** foldouts.
+Tap a footnote number to jump to the source, then the caret to jump back. Hover often shows a popup. A few short side-notes sit in collapsed **"More detail…"** foldouts.
 
-::: {.callout-tip title="5-minute aisle path"}
-1. **True tea vs herbal** — *Camellia* leaf (green/black/oolong/white…) vs chamomile/peppermint/rooibos tisanes.
-2. **Green / black fork** — same plant; heat early (green) vs let it brown in air (black).
-3. **One label example** — *English Breakfast* is usually a strong **black blend**; *sencha* is everyday Japanese **green**.
-4. **Numbers** — when someone quotes milligrams, open the [Cup reference](cup-reference.qmd).
-
-The rest of this page is optional depth for when a shelf still feels foggy.
+::: {.callout-tip title="5-minute path"}
+1. **True tea vs herbal** — tea-plant leaf, or another plant in hot water.
+2. **Same plant, two paths** — heat the leaf early (green) or let it brown in air (black).
+3. **Make one simple mug** — about 2 g of leaf in about 250 mL of hot water. Taste it. Do not memorize a chart.
+4. **One feeling sentence** — tea-plant tea usually brings caffeine and L-theanine. Amounts vary → [Cup reference](cup-reference.qmd).
+5. **More box names** — open [Tea labels](tea-labels.qmd).
+6. **Ready for why?** — open [Chapter 1](modules/module-01/index.qmd).
 :::
 
 ::: {.callout-tip title="Words to know on this page"}
-- **True tea** — an infusion from the tea plant *Camellia sinensis* (green, white, oolong, black, dark/Pu-erh, and so on).
-- **Herbal "tea" / tisane** — hot-water infusions of other plants (chamomile, peppermint, rooibos…); usually no caffeine from *Camellia*.
-- **Oxidation** — leaf enzymes plus air that darken catechins (tea people often say "fermentation," but for ordinary green/black tea they usually mean this).
-- **Orthodox vs CTC** — two black-tea factory styles: larger twisted leaf vs small fast-brewing granules.
+- **True tea** — a drink from the tea plant (green, black, and the styles between them).
+- **Herbal "tea" / tisane** — hot water on another plant (chamomile, peppermint, rooibos…).
+- **Steep** — letting the leaf sit in hot water so the drink takes on color and taste.
 :::
 
 ---
 
-## What "tea" means on a commercial label
+## True tea vs other plants in the mug
 
-In everyday English, "tea" can mean almost anything steeped in hot water. In the science and trade language this site uses, **true tea** means leaves (and sometimes buds) of one species: *Camellia sinensis*.
+In everyday English, "tea" can mean almost anything steeped in hot water. On this site, **true tea** means leaf—and sometimes the bud—of one plant: the tea plant ([*Camellia sinensis*](glossary.qmd#sinensis) in the glossary).
 
-That single plant is why Chapter 1 can say "one species, two main types" and still cover most of what you buy as green or black. Herbal boxes that say "tea" on the front—chamomile, peppermint, ginger, rooibos—are usually **infusions of other plants**. They can be lovely. They are not the same chemical story as caffeine, [L-theanine](glossary.qmd#l-theanine), and [EGCG](glossary.qmd#egcg) from *Camellia*. FDA consumer materials have long noted that herbal teas come from other plants and should name the plant on the label.[^1] Trade groups likewise ask shoppers to keep "tea" for *Camellia* styles (green, black, oolong, white, dark) and call the rest herbals or tisanes.[^2]
+Herbal boxes that say "tea" on the front—chamomile, peppermint, ginger, rooibos—are usually infusions of **other plants**. They can be lovely. They are not the same drink as tea-plant green or black, and they are not the chemical story the later chapters tell. FDA consumer materials have long noted that herbal teas come from other plants and should name the plant on the label.[^1] Trade groups likewise ask shoppers to keep "tea" for tea-plant styles (green, black, oolong, white, dark) and call the rest herbals or tisanes.[^2]
 
-So when Chapter 1 talks about what is in your mug, it assumes a *Camellia* leaf unless it says otherwise. A caffeine-free "bedtime tea" made of chamomile is a different drink—and a different chapter of chemistry.
+So when a later chapter talks about what is in your mug, it assumes a tea-plant leaf unless it says otherwise. A caffeine-free "bedtime tea" made of chamomile is a different drink. Named herbal rows live on [Tea labels](tea-labels.qmd).
 
 ::: {.callout-note collapse="true" title="More detail: why the word 'tea' got stretched"}
-English borrowed the word *tea* for the *Camellia* drink, then stretched it to any hot infusion. That stretch is fine at a cafe counter. It becomes confusing in a science companion, because caffeine, L-theanine, and EGCG are signature *Camellia* characters—not universal "anything in a mug" characters.
-
-Baseline for this site: commercial tea in Chapter 1 means *Camellia sinensis*. Herbal infusions are outside that chemical core unless a lesson page explicitly brings them in (this companion does not invent herbal dosing or economics).
+English borrowed the word *tea* for the tea-plant drink, then stretched it to any hot infusion. That stretch is fine at a cafe counter. It becomes confusing in this companion, because the wake-up and calm-focus story belongs to the tea plant—not to every box that says "tea."
 :::
 
 ---
 
-## Style map: processing paths, not different species
+## Same plant, different paths
 
-Green, white, oolong, black, and dark (Pu-erh) teas are mostly different **factory paths** on the same plant—not different species on the shelf. Chapter 1's central fork is the same idea in two big strokes: **stop** the leaf enzymes early with heat (green path) or **let** them work with air (black path).
+Green and black tea are mostly different **factory paths** on the same plant—not two species on the shelf. The UK Tea & Infusions Association puts the split simply: how long oxidation runs during processing—or whether it runs at all—is what separates black, green, oolong, and white character.[^3]
 
-A useful mental ruler is how far enzymatic oxidation is allowed to run before heat locks the leaf:
-
-| Everyday style | Rough processing idea | What you usually notice in the cup |
+| Path | Plain idea | What you usually notice |
 | --- | --- | --- |
-| **Green** | Heat early (steam or pan-fire) to stop browning enzymes | Pale to yellow-green; grassy/vegetal; catechins stay mostly "simple" |
-| **White** | Minimal handling; young buds/leaves wilted and dried | Light color; delicate; least "factory drama" |
-| **Oolong** | Partial oxidation (a wide band—light to quite dark) | Between green and black; floral to roasted depending on style |
-| **Black** | Full enzymatic oxidation, then dry | Amber to deep red-brown; malty/brisk; many catechins linked into darker pigments |
-| **Dark (e.g. Pu-erh)** | Extra microbial aging/fermentation after a tea base | Earthy, aged character; true microbes matter here |
+| **Green** | Heat the leaf early so it does not brown | Pale to yellow-green; grassy or vegetal |
+| **Black** | Let the leaf brown in air, then dry | Amber to deep red-brown; malty or brisk |
+| **In between, lighter, or aged** | Oolong sits between green and black; white is lighter handling; dark teas such as Pu-erh are aged | Still the same plant—different stopping points |
 
-The UK Tea & Infusions Association puts the same idea simply: length—or absence—of oxidation during processing is what separates black, green, oolong, and white character.[^3] Reviews of tea chemistry agree that style labels track processing more than species.[^4]
+**Honesty check:** tea makers often say "fermentation" for the green-to-black change. For ordinary green, oolong, and black tea they usually mean leaf enzymes plus air. True microbial aging shows up mainly in dark teas such as Pu-erh.[^4]
 
-**Honesty check:** tea makers often say "fermentation" for the green→black change. Biochemically, ordinary oolong and black tea are **aerobic enzymatic oxidation** (leaf enzymes + air). True microbial fermentation shows up mainly in post-fermented dark teas such as Pu-erh.[^5]
+Bag versus loose, and the black-tea factory words *orthodox* and *CTC*, are **particle** stories—not a new plant. Smaller pieces often color the mug faster. The grade table lives on [Tea labels](tea-labels.qmd).
 
-::: {.callout-note collapse="true" title="More detail: where yellow tea and 'six types' fit"}
-Trade and standards writing sometimes list **six** manufactured types (green, yellow, white, oolong, black, dark), sorted by processing and oxidation (see footnote on six-type framing in the References). Yellow tea is rare outside China and follows a green-like path with an extra "smothering/sweating" step; this companion does not need you to master it before Chapter 1.
+::: {.callout-note collapse="true" title="More detail: six type-names"}
+Trade lists sometimes name **six** manufactured types (green, yellow, white, oolong, black, dark). Yellow tea is rare outside China. You do not need it before Chapter 1.[^5]
 
-Oolong oxidation is a **range** (often described from roughly ~10% to nearly ~80% depending on style), not a single midpoint. That is why one cafe "oolong" can taste almost green and another almost black—still one plant, different stopping points.
-:::
-
-Six-type processing lists appear across tea-processing overviews and ISO classification work.[^6]
-
-So when a box says *green* or *black*, it is usually naming a **process**, not a different botanical species. That is the sentence Chapter 1 builds on.
-
----
-
-## Common grocery and cafe names → what they usually mean
-
-Labels mix three things: **place** (Assam, Darjeeling), **factory style** (sencha, matcha), and **blend or flavor recipe** (English Breakfast, Earl Grey). The table below is a translation sheet—not a guarantee that every brand uses the name the same way.
-
-| Label you see | What it usually means | Bridge into this site |
-| --- | --- | --- |
-| **English Breakfast** | A **blend** of black teas chosen for a strong morning cup (often Assam and/or other robust blacks; recipes vary by brand) | Black-tea processing path; caffeine often toward the higher end of everyday cups—see [Cup reference](cup-reference.qmd) |
-| **Assam** | Black tea from Assam (northeast India); often malty and strong; the region is the home story of the large-leaf [*assamica*](glossary.qmd#assamica) type | China-type vs Assam-type in [Chapter 1](modules/module-01/index.qmd) |
-| **Darjeeling** | Tea from Darjeeling (Himalayan foothills); often delicate, high-grown; sold as black tea though some lots sit toward lighter oxidation | Geography + processing; not a separate species |
-| **Earl Grey** | Usually **black tea flavored with bergamot** (citrus aroma); the base is still *Camellia* black tea | Flavoring on top of a black path—not a new plant |
-| **Ceylon / Kenyan** | Black teas named for origin (Sri Lanka; Kenya)—common building blocks in blends | Origin labels ≠ different species |
-| **Sencha** | Everyday Japanese **green** tea: leaves are typically **steamed**, then rolled and dried | Green path (heat stops enzymes early) |
-| **Matcha** | Shade-grown green tea processed into **fine powder** you whisk into water (you drink the leaf, not only an infusion) | Shaded matcha/gyokuro often yield **higher L-theanine** in cup ranges—see [Cup reference](cup-reference.qmd) |
-| **Jasmine green** | Green tea **scented** with jasmine blossoms; base is still green *Camellia* | Scenting ≠ herbal tisane |
-| **Oolong** (Tieguanyin, Baozhong, etc.) | Partially oxidized *Camellia* tea; style names mark tradition and oxidation level | Middle of the oxidation ruler |
-| **Pu-erh / dark tea** | Yunnan (and related) dark teas with microbial aging; "raw" vs "ripe" methods differ | True-fermentation exception (microbial aging) |
-| **Chamomile / peppermint / rooibos "tea"** | Herbal infusions—**not** *Camellia* unless the label also lists tea leaf | Outside Chapter 1's chemical core |
-
-Usual meanings for blends, origins, and green styles follow the UK Tea & Infusions Association type pages cited above; sencha and matcha processing notes also match Japanese industry summaries;[^7] matcha/gyokuro theanine ranges sit on the Cup-reference baseline.[^8]
-
-::: {.callout-note collapse="true" title="More detail: blends, grades, and why brands disagree"}
-**English Breakfast** is a *recipe family*, not a single garden. Blenders combine origins for color, strength, and milk-friendliness; two supermarket boxes can share the name and still differ.
-
-**Matcha vs sencha:** sencha is steeped and the leaves are usually discarded; matcha is suspended powder, so more of the leaf solids enter the drink. Cup ranges already flag shaded gyokuro/matcha as often higher in L-theanine than ordinary green infusions.
-
-**Gunpowder, Keemun, Lapsang Souchong, Yunnan:** more green or black *style* names you may see on shelves—still *Camellia* processing traditions, not separate species.
+Oolong is a **range**, not one midpoint—so one cafe oolong can taste almost green and another almost black. Still one plant.
 :::
 
 ---
 
-## China-type vs Assam-type in plain language
+## Your first mug
 
-Chapter 1's first big plant idea is simple: almost all commercial tea is one species—*Camellia sinensis*—with two main "flavors" of plant, the way dogs are one species with many breeds.[^9]
+A simple home cup on this site is about **2 g** of dry leaf—one bag, or a modest spoon—in about **250 mL** of hot water. That is the everyday baseline the [Cup reference](cup-reference.qmd) uses when it talks about milligrams.[^6]
 
-- **China type** (var. *sinensis*): smaller-leaved shrub; often linked with cooler hills; on average often richer in L-theanine.
-- **Assam type** (var. *assamica*): larger-leaved, more tree-like; loves warm humid lowlands; on average often higher in caffeine and polyphenols.
+- **Black** tea is often made with water near boiling, for a few minutes.
+- **Green** tea is often happier a little cooler, and a little shorter.
 
-**Why grocery labels care:** the word *Assam* on a box usually points to a region famous for *assamica* black tea. *Darjeeling* and many Chinese greens lean on *sinensis*-type material. Blends muddy the line—your "English Breakfast" may mix origins on purpose.
+Taste the cup. If it is harsh, stop sooner next time. You do not need a chart in your head.
 
-**Honesty check:** "Assam always has far more caffeine" is too blunt. Averages often lean *assamica*-higher, but shade, fertilizer, and which leaf you pick can flip a single comparison.[^10] Chapter 1 walks that caveat with numbers; this page only needs the map.
-
-→ Full story: [Chapter 1 · Section 1 — Two plants, one species](modules/module-01/01-plants.qmd)
-
----
-
-## Bag vs loose leaf, and CTC vs orthodox
-
-Two separate questions get tangled on the shelf.
-
-**1. Bag vs loose** is mostly about **portion and particle size**, not a different plant. A bag is a pre-measured serving; loose leaf is the same plant sold by weight. Bags often use smaller particles so color and strength appear quickly in a mug. The [Cup reference](cup-reference.qmd) models a common everyday baseline of about **2 g dry leaf per 250 mL**—roughly one bag or a modest spoonful—while formal tasting (ISO 3103) uses a stronger ratio.[^11]
-
-**2. Orthodox vs CTC** is a **black-tea factory** distinction (how the leaf is broken before/during oxidation), not a green-tea rule.[^12]
-
-| | **Orthodox** | **CTC** (crush, tear, curl) |
-| --- | --- | --- |
-| Leaf form | Larger twisted or broken leaf pieces | Small, uniform granules |
-| Brew habit | Slower, often more layered | Fast, strong, deep color—common in bags and milk tea |
-| Mental picture | Roll and bruise | Shred for speed |
-
-UK trade pages describe orthodox rolling for larger grades and "unorthodox" CTC (or similar) machines that chop leaf into smaller particles for quicker brewing—exactly what many modern bag markets want.
-
-Neither method invents a new species. Both can feed an "English Breakfast" blend. Particle size and blend recipe move the cup as much as the print on the box—another reason Chapter 1 refuses a single caffeine number for "tea."
-
-::: {.callout-note collapse="true" title="More detail: why bags often taste 'stronger' sooner"}
-Smaller particles expose more surface area, so soluble solids—including caffeine and pigments—move into water faster. That does not automatically mean "more caffeine forever"; it often means a darker, brisker cup in the short steep times people use on a weekday morning. Extraction notes in Chapter 1 (temperature, time, leaf amount) are the dials; bag vs loose is one more dial, not a moral ranking.
-:::
+**If something is off** — bitter or flat → [Kitchen troubleshoot](tea-troubleshoot.qmd).  
+**If you want why heat and time matter** → [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd).  
+**If the gear has a name** (teapot, gaiwan, whisk) → [Tea labels](tea-labels.qmd).  
+**If you want milligrams** → [Cup reference](cup-reference.qmd).
 
 ---
 
-## How this page connects to Cup reference and Chapter 1
+## Awake, and a little calm
 
-Read this site as three nested maps:
+Tea-plant tea usually brings **caffeine** (the wake-up) and **[L-theanine](glossary.qmd#l-theanine)** (a calm-focus amino acid in the leaf). How much of each depends on the leaf and the steep. This page does not give a dose and does not tell you what to drink for health.
 
-1. **Tea basics (this page)** — what the *words on the box* usually mean.
-2. **[Chapter 1](modules/module-01/index.qmd)** — what the *leaf and factory* do chemically (China/Assam types; stop vs run oxidation; brewing; caffeine, L-theanine, EGCG).
-3. **[Cup reference](cup-reference.qmd)** — typical *milligrams in a 250 mL cup* under common brewing baselines.
+Numbers live on the [Cup reference](cup-reference.qmd). The "three guests in the mug" story lives in [Chapter 1 · Section 4](modules/module-01/04-compounds.qmd).
 
-A short path many readers like:
+---
 
-- See *English Breakfast* → black blend → Cup reference black-tea caffeine row (**about 40–80 mg** in common baselines) → Chapter 1 oxidation story.
-- See *sencha* or *matcha* → green path → Cup reference green rows (and the matcha/gyokuro L-theanine note) → Chapter 1 heat-kill / catechin story.
-- See *chamomile tea* → herbal infusion → not the Chapter 1 chemical core.
+## Three labels to recognize
 
-When you want chapter jargon (*[PPO](glossary.qmd#ppo)*, *[theaflavins](glossary.qmd#theaflavins)*, *HPA axis*), open the [Glossary](glossary.qmd). When you want how brewing facts stitch to mood or decisions, open [Linkages](linkages.qmd).
+Only three, on purpose. The long sheet is the next door.
+
+| Name | Usual meaning |
+| --- | --- |
+| **English Breakfast** | Usually a strong **black blend**. Recipes vary by brand. |
+| **Sencha** | Everyday Japanese **green**. |
+| **Chamomile "tea"** | Usually **herbal** — another plant, not the tea plant. |
+
+English Breakfast as a black blend, and green versus black as processing, follow the UK Tea & Infusions Association type pages already cited.[^3] Chamomile as another plant follows the FDA note above.[^1]
+
+Chinese, Japanese, and Western cafe lists—grades, herbals, and teapot names included—are on [Tea labels](tea-labels.qmd).
 
 ---
 
 ## Where to go next
 
-New to tea labels? You are in the right place. Ready for the chemistry story those labels sit on? Start [Chapter 1: The Chemical Core](modules/module-01/index.qmd). Want numbers for a standard mug first? Open the [Cup reference](cup-reference.qmd). Cup already poured and something feels off? Open [Kitchen troubleshoot](tea-troubleshoot.qmd). Reading a confident tea headline? Open [Reading a tea study](tea-reading-studies.qmd).
+- More names, grades, or kit words → [Tea labels](tea-labels.qmd)
+- Numbers in a 250 mL mug → [Cup reference](cup-reference.qmd)
+- The chemistry story → [Chapter 1: The Chemical Core](modules/module-01/index.qmd)
+- The mug went wrong → [Kitchen troubleshoot](tea-troubleshoot.qmd)
+- A confident headline → [Reading a tea study](tea-reading-studies.qmd)
 
-[^1]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html (Notes that herbal teas are made from leaves of other plants and should name the plant.)
+[^1]: U.S. Food and Drug Administration. (1996). Tea: A story of serendipity. *FDA Consumer*. https://permanent.access.gpo.gov/lps1609/www.fda.gov/fdac/features/296_tea.html (Herbal teas are made from other plants and should name the plant.)
 
 [^2]: Tea Association of the USA. (2019). Comment on FDA food standards of identity modernization (Docket FDA-2018-N-2381): true tea from *Camellia sinensis* (green, black, oolong, white, dark) vs herbal tisanes. https://downloads.regulations.gov/FDA-2018-N-2381-1376/attachment_1.pdf
 
-[^3]: UK Tea & Infusions Association. Types of tea, origins & varieties. https://www.tea.co.uk/types-of-tea (Black/green/white/dark overview; English Breakfast and Earl Grey as black-tea blends; sencha steaming vs pan-firing; Pu-erh notes.)
+[^3]: UK Tea & Infusions Association. Types of tea, origins & varieties. https://www.tea.co.uk/types-of-tea (Oxidation—or its absence—separates black, green, oolong, and white; English Breakfast as a black-tea blend.)
 
-[^4]: Wong, M., et al. (2022). Phytochemical profile of differently processed tea: A review. *Journal of Food Science*. https://doi.org/10.1111/1750-3841.16137 (Green / white / oolong / black / pu-erh as processing categories.)
+[^4]: Ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [Chapter 1](modules/module-01/index.qmd).
 
-[^5]: Ordinary oolong/black "fermentation" is enzymatic oxidation; true microbial fermentation mainly in post-fermented teas such as Pu-erh. See Subramanian et al. (1999) and Tanaka & Kouno (2003) as cited in [Chapter 1](modules/module-01/index.qmd).
+[^5]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark)—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
-[^6]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark) sorted by processing and oxidation—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
-
-[^7]: Kyoto Prefectural Tea Industry Chamber. Types of tea (sencha; matcha/tencha). https://www.ujicha.or.jp/en/knowledge/kinds/
-
-[^8]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071 (Cup-reference baseline; shaded gyokuro/matcha noted higher.)
-
-[^9]: Wight, W. (1959). Nomenclature and taxonomy of the tea plant. *Nature, 183*(4677), 1726–1728. (Naming frame for China-type vs Assam-type talk.)
-
-[^10]: Caffeine averages vs growing conditions; Takeda (1994) cultivar survey as used in [Chapter 1](modules/module-01/index.qmd).
-
-[^11]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html (Formal ~2 g / 100 mL vs everyday ~2 g / 250 mL baseline on Cup reference.)
-
-[^12]: UK Tea & Infusions Association. Creating the perfect blend (orthodox rolling vs CTC / unorthodox smaller particles for quicker brew). https://www.tea.co.uk/tea-processing-and-blending
+[^6]: Everyday baseline on the [Cup reference](cup-reference.qmd): about 2 g dry leaf per 250 mL. Formal tasting strength under ISO 3103:2019 is stronger (about 2 g per 100 mL)—https://www.iso.org/standard/73224.html—and that comparison stays on the Cup page.

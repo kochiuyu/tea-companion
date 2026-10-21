@@ -6,7 +6,7 @@ lang: zh-Hans
 {{< include ../../../_includes/lang-switcher/module-05-dual-process.zh-hans.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [章节总览](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
+**本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [茶叶标签](../../tea-labels.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [章节总览](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
 :::
 
 ::: {.callout-note}

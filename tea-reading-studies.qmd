@@ -8,7 +8,7 @@ Headlines say “tea improves decisions.” This page is the **methods vocabular
 
 It is not a second chemistry lesson and not a second protocol textbook. Full protocol depth lives in [Chapter 5 · Section 4 — How careful studies are usually built](modules/module-05/04-study-protocols.qmd). Typical milligrams live on the [Cup reference](cup-reference.qmd). Use **this** page when a headline or abstract feels confident and you want five referee questions before you believe it.
 
-Keep [Tea basics](tea-basics.qmd) for shelf labels. Keep [Kitchen troubleshoot](tea-troubleshoot.qmd) for bitter or flat mugs. Keep the [Glossary](glossary.qmd) when a task acronym appears ([BART](glossary.qmd#bart), [IGT](glossary.qmd#igt), and friends).
+Keep [Tea basics](tea-basics.qmd) for a first mug. Keep [Tea labels](tea-labels.qmd) for shelf and cafe names. Keep [Kitchen troubleshoot](tea-troubleshoot.qmd) for bitter or flat mugs. Keep the [Glossary](glossary.qmd) when a task acronym appears ([BART](glossary.qmd#bart), [IGT](glossary.qmd#igt), and friends).
 
 ::: {.callout-tip title="5-minute headline path"}
 1. **Washout?** Did people arrive caffeine-free, or already buzzing?
@@ -104,10 +104,11 @@ No new bridges are invented here. Linkages already sews the chapters together.
 
 Nested maps for study-shaped questions:
 
-1. **[Tea basics](tea-basics.qmd)** — what the *words on the box* usually mean.
-2. **[Cup reference](cup-reference.qmd)** — typical *milligrams in a 250 mL cup*.
-3. **Reading a tea study (this page)** — *headline methods vocabulary* (five questions).
-4. **[Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd)** — full protocol depth with sources.
+1. **[Tea basics](tea-basics.qmd)** — first mug; true tea versus herbal.
+2. **[Tea labels](tea-labels.qmd)** — what the *words on the box* usually mean.
+3. **[Cup reference](cup-reference.qmd)** — typical *milligrams in a 250 mL cup*.
+4. **Reading a tea study (this page)** — *headline methods vocabulary* (five questions).
+5. **[Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd)** — full protocol depth with sources.
 
 If the reader’s real problem was a bitter or flat mug, send them to [Kitchen troubleshoot](tea-troubleshoot.qmd)—not here.
 
@@ -115,4 +116,4 @@ If the reader’s real problem was a bitter or flat mug, send them to [Kitchen t
 
 ## Where to go next
 
-Saw a confident tea headline? You are in the right place. Want the full methods lesson? Open [Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd). Comparing milligrams? [Cup reference](cup-reference.qmd). Cross-chapter “why it matters”? [Linkages](linkages.qmd). Kitchen complaint instead? [Kitchen troubleshoot](tea-troubleshoot.qmd). Still translating labels? [Tea basics](tea-basics.qmd).
+Saw a confident tea headline? You are in the right place. Want the full methods lesson? Open [Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd). Comparing milligrams? [Cup reference](cup-reference.qmd). Cross-chapter “why it matters”? [Linkages](linkages.qmd). Kitchen complaint instead? [Kitchen troubleshoot](tea-troubleshoot.qmd). Still pouring a first cup? [Tea basics](tea-basics.qmd). Still translating labels? [Tea labels](tea-labels.qmd).

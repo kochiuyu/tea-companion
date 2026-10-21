@@ -6,7 +6,7 @@ lang: zh-Hant-HK
 {{< include ../../_includes/lang-switcher/modules.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../index.qmd) · [茶葉入門](../tea-basics.qmd) · [杯量參考](../cup-reference.qmd) · [詞彙表](../glossary.qmd) · [章節總覽](index.qmd) · [第一章](module-01/index.qmd) · [第二章](module-02/index.qmd) · [第三章](module-03/index.qmd) · [第四章](module-04/index.qmd) · [第五章](module-05/index.qmd) · [連結橋樑](../linkages.qmd) · [參考文獻](../bibliography.qmd)
+**本站中文入口：** [首頁](../index.qmd) · [茶葉入門](../tea-basics.qmd) · [茶葉標籤](../tea-labels.qmd) · [杯量參考](../cup-reference.qmd) · [詞彙表](../glossary.qmd) · [章節總覽](index.qmd) · [第一章](module-01/index.qmd) · [第二章](module-02/index.qmd) · [第三章](module-03/index.qmd) · [第四章](module-04/index.qmd) · [第五章](module-05/index.qmd) · [連結橋樑](../linkages.qmd) · [參考文獻](../bibliography.qmd)
 :::
 
 ::: {.callout-note}
