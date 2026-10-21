@@ -18,7 +18,9 @@ You meet someone while holding a cozy mug versus an icy can. In some lab setups,
 
 Think of a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **[anterior insular cortex](../../glossary.qmd#anterior-insular-cortex)** (sometimes just "the insula"). The everyday idea—body state as a tint on social judgment—is what psychologists call **[embodied cognition](../../glossary.qmd#embodied-cognition)** when they want a lab label. You do not need either label to follow the open story.[^1][^2]
 
-Why does this lesson sit between monasteries and ritual breaks? Because Chapter 5's decision games will ask you to take "warmth" seriously as a *confound*—and as a bridge. If mug temperature can shift first impressions, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd)).
+The same *kind* of tint shows up outside the lab long before anyone names a paper. A commute mug that warms your fingers on a cold morning; a cafe ceramic that sits in your palms while you wait for a stranger—those holds are everyday versions of the body cue the studies try to isolate. They are not proof that a cafe replicates Williams & Bargh's gift-choice *d*. They are a reminder that temperature is already in the room when first impressions form. Keep the teaching voice from later chapters: **tint, not destiny.**
+
+Why does this lesson open Chapter 4's Context & Ritual Psychology track? Because Chapter 5's decision games will ask you to take "warmth" seriously as a *confound*—and as a bridge. If mug temperature can shift first impressions, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd)). Passive warmth here is the first dial; ritual and expectation follow in the next two sections; the map that holds all three sits in [Section 4](04-context-dials-map.qmd).
 
 ## What the early studies claimed
 
@@ -51,10 +53,10 @@ People sometimes say: "Warm mug always makes people generous." Williams & Bargh 
 
 What looks more robust in the sources' framing is the **neurobiological overlap** in that hand-warmth / social-warmth brain neighborhood between physical warmth and social bonding—shown in imaging and thermoregulation-style designs.[^2] Downstream behavior in unstructured settings depends on person, attachment style, and ambient room temperature (source note).
 
-That honesty is part of the story: interesting claim → checked claim → limited claim.
+That honesty is part of the story: interesting claim → checked claim → limited claim. Beginners do not need to open every foldout to hear the arc. The early gift-choice headline was large enough to sell; the hard check did not copy it; the neural-overlap claim and the methods warning still earn a place on this page. That is why the caution box stays open, not buried.
 
 ::: {.callout-caution title="Warmth is interesting—not a boardroom cheat code"}
-Lynott et al. (2014) did not replicate Williams & Bargh's Study 2 gift-choice effect at any site or in the combined N = 861 analysis.[^4] Keep that in view when someone sells "serve tea, win the deal." Opening trust nudges in *some* cited designs (including Kang's temperature manipulation) are still worth knowing—especially as a reason Chapter 5 locks mug temperature—but they are not a permanent negotiation upgrade.[^3][^7]
+Lynott et al. (2014) did not replicate Williams & Bargh's Study 2 gift-choice effect at any site or in the combined N = 861 analysis.[^4] Keep that in view when someone sells "serve tea, win the deal." Opening trust nudges in *some* cited designs (including Kang's temperature manipulation) are still worth knowing—especially as a reason Chapter 5 locks mug temperature—but they are not a permanent negotiation upgrade.[^3][^6]
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what failed to replicate—and what still matters for later chapters"}
@@ -121,7 +123,7 @@ Three papers do different jobs. Keeping them in one table stops a common slide: 
 | Kang et al. (2011) | Physical temperature around fairness/trust tasks | Fairness / first-mover style allocations | Cited narrative ~**+24.8%** first send at ~**60°C** vs cold | Separate design—not a Lynott rematch [^3] |
 | Inagaki & Eisenberger (2013) | Warm pad + supportive messages | fMRI overlap in anterior insula | Shared insula cluster | Neural-overlap bridge [^2] |
 
-**Teaching sentence:** the famous prosocial-gift headline is **contested**; the insula overlap is **more durable** in the sources' framing; Kang is a **different** thermal-bargaining story that Chapter 4 still treats as a reason to lock mug temperature—not as a boardroom cheat code.[^3][^4][^7]
+**Teaching sentence:** the famous prosocial-gift headline is **contested**; the insula overlap is **more durable** in the sources' framing; Kang is a **different** thermal-bargaining story that Chapter 4 still treats as a reason to lock mug temperature—not as a boardroom cheat code.[^3][^4][^6]
 :::
 
 ## Why Chapter 4 will obsess over 60°C
@@ -130,10 +132,10 @@ If you only remember one applied sentence from this lesson, remember this: **mug
 
 When Chapter 5's protocols lock drinks near **60°C ± 2°C** in opaque mugs, they are not being fussy for fun. They are trying to keep this lesson's thermal story from silently riding along with caffeine and [L-theanine](../../glossary.qmd#l-theanine) ([Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd)).
 
-Context is part of the dose. Warmth is part of context.
+Unlocked temperature is the confound in one picture. If two cups differ in heat as well as in leaf chemistry, a later trust or fairness shift can be chemistry, warmth priming, or both—and you will not know which. That is why the matched-mug language in Chapter 5 sits next to washout and bitterness matching: hold the thermal dial still so the drink's pharmacology can be read more cleanly. This page does not dump those protocol tables; it only names why the lock exists. Context is part of the dose. Warmth is part of context.
 
 ::: {.callout-note collapse="true" title="More detail: why the matched mug sits near 60°C"}
-Chapter 4's study-protocol lesson specifies drinks in identical opaque mugs held near **60°C ± 2°C**, with bitterness matched (for example with food-grade quinine in controls) so that *temperature and taste* do not quietly become the experiment.[^7]
+Chapter 5's study-protocol lesson specifies drinks in identical opaque mugs held near **60°C ± 2°C**, with bitterness matched (for example with food-grade quinine in controls) so that *temperature and taste* do not quietly become the experiment.[^6]
 
 Why that number shows up in the sources' warmth narrative:
 
@@ -177,6 +179,15 @@ Chabris and colleagues' later reports likewise lean near-zero for the original w
 
 **Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Chapter 3 hub](../module-03/index.qmd) · [Next →](02-ritual-stress.qmd)
 
+## References
+
+1. Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
+2. Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. https://doi.org/10.1177/0956797613491965
+3. Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness. *PLOS ONE, 6*(1), e15836. https://doi.org/10.1371/journal.pone.0015836
+4. Lynott, D., Corker, K. S., Wortman, J., Connell, L., Donnellan, M. B., Lucas, R. E., & O'Brien, K. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
+5. Chabris, C. F., et al. (2018 preprint / later reports). Failures to replicate Williams and Bargh (2008) warmth priming in field settings. https://doi.org/10.31234/osf.io/mvn9b
+6. See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd); Chapter 4 verification note on equilibrium vs priming: opening trust (+15% to +25% in cited work) often fades if the other side defects in later rounds.
+
 [^1]: Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
 
 [^2]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. https://doi.org/10.1177/0956797613491965
@@ -187,4 +198,4 @@ Chabris and colleagues' later reports likewise lean near-zero for the original w
 
 [^5]: Chabris, C. F., et al. (2018 preprint / later reports). Failures to replicate Williams and Bargh (2008) warmth priming in field settings. https://doi.org/10.31234/osf.io/mvn9b
 
-[^7]: See also the Chapter 4 verification note on equilibrium vs priming: opening trust (+15% to +25% in cited work) often fades if the other side defects in later rounds.
+[^6]: See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd); Chapter 4 verification note on equilibrium vs priming: opening trust (+15% to +25% in cited work) often fades if the other side defects in later rounds.
