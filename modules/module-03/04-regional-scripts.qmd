@@ -9,14 +9,14 @@ title: "Section 4 · One leaf, many scripts — how regions stage the cup"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes. Collapsed "More detail…" boxes hold denser implements, etiquette notes, and folklore-vs-chronicle fences so the open page stays a story of living scripts—not a world tour and not a lab-ritual lesson.
+Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser implements, dated chronologies, and folklore-vs-chronicle fences so the open page stays a story of living scripts—not a world tour and not a lab-ritual lesson.
 :::
 
 ## After the tea-room doorway
 
 [Section 2](02-monastic-path.qmd) ended at monastery timetables and Japan's tea-room leveling. This lesson asks a different question: what other **scripts** does the leaf wear when the room is a Chaoshan table, a Taiwan tea-art gathering, or a Hong Kong milk-tea counter?
 
-A script here means a way of **staging** the drink—tools, sequence, social roles—not a [Tea basics](../../tea-basics.qmd) shopping label and not a [Chapter 1](../module-01/03-brewing.qmd) extraction dial. Commodity leaf from [Section 3](03-plantation-aftershock.qmd) can travel anywhere; local scripts decide how people actually sit with it.
+A script here means a way of **staging** the drink—tools, sequence, social roles—not a [Tea basics](../../tea-basics.qmd) shopping label and not a [Chapter 1](../module-01/03-brewing.qmd) extraction dial. Commodity leaf from [Section 3](03-plantation-aftershock.qmd) can travel anywhere; local scripts decide how people actually sit with it. Estate aftershock explains why a bag can be historically cheap; this sitting asks how three living rooms stage the same leaf family differently.
 
 ::: {.callout-caution title="Not lab ritual"}
 Predictable shared steps will return in [Chapter 4 · Section 2](../module-04/02-ritual-stress.qmd) as *context psychology*. This page does **not** teach Hobson, heart-rate buffering, or error-related negativity. Culture first; psych next chapter.
@@ -24,55 +24,144 @@ Predictable shared steps will return in [Chapter 4 · Section 2](../module-04/02
 
 ## Portrait 1 — Chaoshan gongfu as everyday staging
 
-In Chaoshan (north-eastern Guangdong), gongfu tea is best taught as an **everyday social practice**—family, friends, business associates—not as a museum "Chinese tea ceremony."[^1] People prepare strong tea in small pots and drink repeated small cups; the point, in the ethnography, is nourishing social connectedness woven into day-to-day life rather than performing a separate "tea art."[^1]
+Picture a Chaoshan table: a small clay pot, a cluster of small cups, leaf poured short and often. Guests do not wait for a single grand steeping. They sit through repeated infusions while talk—family, friends, business associates—keeps the room moving. The pot comes back to the same leaf again and again; the cups stay small; nobody needs a stage. In Chaoshan (north-eastern Guangdong), gongfu tea is best taught as that **everyday social practice**, not as a museum "Chinese tea ceremony."[^1] The ethnography's point is nourishing social connectedness woven into day-to-day life rather than performing a separate "tea art."[^1]
 
-Some practitioners refine discernment (teapots, leaf appreciation); tea-houses commercialize leisure. The open story keeps the everyday spine: small pot, repeated pours, social glue.[^1]
+The same leaf and tools can shift mode without changing the furniture. Some sittings stay everyday hospitality—the table as social glue. Some refine discernment: teapots, leaf appreciation, the quiet work of taste among people who care how the cup lands. Tea-houses commercialize leisure for paying guests. d'Abbs's fieldwork keeps those three frames in view: everyday practice, refined cultivation, and commercialised tea-house leisure.[^1] The open story keeps the everyday spine so beginners meet people first, not a packaged syllabus. Implements, the invented-tradition fence, and a dated formation trail from Fujian oolong into Chaozhou practice live in the foldouts.[^1][^2][^7]
+
+What the open story refuses is the packaged national ceremony frame. Local drinking is old; the claim of unbroken thousand-year continuity as *the* Chinese tea ceremony is a different kind of story—one the thesis trail calls invented tradition.[^2] Modern nationwide "gongfucha as Chinese tea art" packaging also has a twentieth-century transmission trail (Taiwanese uptake, Japanese *senchadō*-flavored aesthetics) that later narratives sometimes obscure.[^3] Same habit as Section 2's Bodhidharma check: folklore and branding are color; chronicle and ethnography keep the fence. If a tour guide sells "the ancient Chinese tea ceremony" as one national script, this portrait asks you to hear Chaoshan's everyday table first.
 
 ::: {.callout-note collapse="true" title="More detail: Chaoshan gongfu — practice vs packaged ceremony"}
 d'Abbs's fieldwork distinguishes everyday practice, refined cultivation, and commercialised tea-house leisure in Chaoshan today.[^1] A longer thesis trail argues that claims of unbroken thousand-year continuity for Chaoshan gongfu as a national ceremony are an **invented tradition**—tea was long drunk locally, but the packaged continuity story is not supported as primary medieval evidence.[^2]
 
-Modern nationwide "gongfucha as Chinese tea art" packaging also has a twentieth-century transmission trail: Taiwanese uptake and Japanese *chadō* / *senchadō* influences that later narratives sometimes obscure.[^3] Same habit as Section 2's Bodhidharma check—folklore and branding are color; chronicle and ethnography keep the fence.
+Zhang's historical essay sharpens the regional fence: gongfucha was identified with Chaozhou and the south-eastern Fujian–Guangdong coast; Lin Yutang (1937) already noted the style as generally unknown in North China / connoisseur practice elsewhere.[^3] Qing observers treat small-pot repeated infusions as a **novelty** to outsiders (Yuan Mei on Wuyi practice; Yu Jiao ~1800 on Guangdong)—not as a national ceremony already on the books.[^3] Mid-century, Chaoshan native Weng Huidong wrote a dedicated gongfucha treatise (**1957**, circulated though not formally published in Zhang's account)—utensil list and procedure; visitors from elsewhere find it astonishing yet popular in fields and factories.[^3] Do **not** treat any single "seven steps" paraphrase as universal Chaoshan law without marking that it is paraphrase of a local treatise.[^3]
 
-**Beginner implements (foldout only):** small clay pot, small cups, attention to repeated short infusions—not a Ch1 temperature spreadsheet.
+Modern nationwide packaging also has a twentieth-century transmission trail: Taiwanese uptake and Japanese *chadō* / *senchadō* influences that later narratives sometimes obscure—detail in the transmission foldout below.[^3]
+
+**Beginner implements (foldout only):** small clay pot, small cups, attention to repeated short infusions—not a Chapter 1 temperature spreadsheet, and not a claim that everyday Chaoshan practice *is* Taiwan *chayi*.
+:::
+
+::: {.callout-note collapse="true" title="More detail: Chaoshan / Chaozhou formation chronology (Liu)"}
+Liu (2023) offers a department-bulletin chronology for how Chaozhou kungfu practice took shape—**Med confidence**; foldout spine, not open-story primary.[^7] It complements d'Abbs's contemporary ethnography; it does not replace it.
+
+| Beat | What the abstract supports | Fence |
+| --- | --- | --- |
+| **Geography** | Chaozhou kungfu tea popular in Yuedong (eastern Guangdong), Chaozhou-centered[^7] | Regional, not national |
+| **18th c.** | Wuyi (Fujian) oolong emerges; introduced to Chaozhou by tea merchants; tasting practice prevalent under Qianlong–Jiaqing[^7] | Abstract phrasing—no invented first-year dates |
+| **19th c.** | Chaozhou kungfu practice takes shape by integrating Fujian oolong practice into a local one[^7] | Merchants essential in Liu's thesis line |
+| **Early 20th c.** | Oolong production localized / matured in Fenghuang Mountain (Chaozhou)[^7] | Production geography, not a cafe lesson |
+| **Mid/late 20th c.** | Fenghuang Dancong largely used instead of Wuyi leaf for Chaozhou kungfu[^7] | Leaf-source shift—not a claim that practice began then |
+| **Thesis line** | Creation heavily influenced by Fujian tea culture; Chaozhou merchants essential[^7] | Chronology job ≠ ethnography job |
+
+**Honesty:** no page-level production tonnages; no claim that Liu overturns d'Abbs on everyday social glue.
 :::
 
 ## Portrait 2 — Hong Kong milk-tea counter
 
-For Asia/Hong Kong readers, the milk-tea counter is the local living script: a fine cotton strainer locals nickname **silk-stocking** milk tea, strong leaf, condensed milk, and a postwar localization through *bing sutt* and *dai pai dong* that later settled into *cha chaan teng* ubiquity.[^4]
+For Asia/Hong Kong readers, the milk-tea counter is the local living script: a fine cotton strainer locals nickname **silk-stocking** milk tea (the mesh stains tea-brown with use; shape and color evoke stockings), strong leaf, condensed milk, and a postwar localization through *bing sutt* and *dai pai dong* that later settled into *cha chaan teng* ubiquity.[^4] This is not Chaoshan's sitting-room glue and not Taiwan's cultivated *chaxi*. It is a counter craft—fast, repeatable, built for a city that needed calories and smoothness on a schedule.
 
-English-style tea with milk arrived under colonial administration; early elite Western restaurants kept it mild and expensive. After World War II, population boom and working-class cafes rebuilt the drink—stronger leaf grades, condensed milk for calories and cost, and the mesh strainer for smoothness—until it became a city-wide cafe offering, not only a street-stall cup.[^4]
+Start earlier than the cafe. After **1842**, British administration brought Western-style tea—fine Ceylon leaf, milk, sugar—into elite Western restaurants where it stayed mild, expensive, and socially gated.[^4] That cup was too gentle and too costly for popular Hong Kong taste. After World War II, a population boom and a wave of licences for basic eateries rebuilt the drink into a working-class script: a fine cotton strainer for smoothness, **lower-grade** leaf used to **strengthen** flavour at lower cost, and **condensed milk** in place of fresh milk for calories and cost under physical labour.[^4] The dated table (colonial introduction → elite mild cup → 1950s localization → venue shift) lives in the foldout; the open story only needs the hinge—empire's mild cup was the wrong register, so the city reinvented the drink.[^4]
 
-::: {.callout-note collapse="true" title="More detail: heritagization (optional honesty layer)"}
-Mak (2020) follows how milk tea became a heritage and placemaking object in Hong Kong—official branding and generational meanings that do not always match.[^5] Open story keeps the counter script (strainer, strength, condensed milk, *cha chaan teng*). Heritage politics stay foldout so this page does not become a city-branding essay or a Tea-basics label table.
+As the economy improved, *bing sutt* tearooms shifted toward Hong Kong-style cafés (*cha chaan teng*); street stalls dwindled; milk tea became a city-wide restaurant offering, not only a low-end stall cup.[^4] Heritage talk exists—official branding and placemaking can turn a counter craft into a city story—but competing meanings stay in the Mak foldout so this page does not become a branding essay.[^5] Craft-technique monographs can deepen utensils and numbered steps later; this sitting keeps the counter script and a bibliographic pointer only—no invented brew ratios on the open page.[^4]
+
+::: {.callout-note collapse="true" title="More detail: Hong Kong milk tea — counter script timeline"}
+Dated beats from Hong Kong Memory's ICH Oral Legacies trail (public history page—readable localization spine):[^4]
+
+| Beat | What the source supports | Fence |
+| --- | --- | --- |
+| **Nickname** | "Silk stocking milk tea" from fine-mesh **cotton** strainer that stains tea-brown (shape/color evoke stockings)[^4] | Cotton mesh—not a literal stocking recipe |
+| **After 1842** | Western-style tea (fine Ceylon, milk, sugar) introduced under British administration[^4] | Introduction ≠ instant popular cup |
+| **Early 20th c.** | High-class Western restaurants = elite privilege[^4] | Mild / expensive for local popular taste |
+| **Postwar / 1950s** | Truly localised after WWII; population boom → F&B demand; many licences for *bing sutt* / *dai pai dong*-type eateries[^4] | Localization window, not a single founding day |
+| **Craft innovations** | Fine cotton strainer; lower-grade leaf to strengthen flavour; condensed milk replaces fresh milk (calories + cost)[^4] | Do not invent leaf-grade % or brew ratios |
+| **Venue shift** | *Bing sutt* → *cha chaan teng*; street stalls dwindle; milk tea as wide restaurant offering[^4] | Ubiquity story, not a franchise history |
+
+**Craft monograph pointer (bibliographic only):** 劉智鵬、黃君健、盧惠玲 (2023). 《港式奶茶製作技藝》. 香港：中華書局. ISBN 9789888860357 (~208 pp.; Lingnan / ICH Funding Scheme). Publisher blurbs place the technique on Hong Kong's **2017** first ICH Representative List and promise history, materials, utensils, steps, hot vs iced, inheritance—**do not** invent numbered brew steps, ratios, or "secrets" on this page without page-level paste from that book.
 :::
 
-## Portrait 3 — Taiwan tea art (thinner third)
+::: {.callout-note collapse="true" title="More detail: heritagization (Mak)"}
+Mak (2020) follows how milk-tea making technique became a heritage and placemaking object in Hong Kong—a lens on postcolonial cultural governance, identity, and city branding.[^5] Government, entrepreneurs, and consumers interactively commodify tradition and skills for branding, economic development, and identity politics.[^5]
 
-Taiwan's contemporary *cha yi* (tea art) gatherings stage elegance through brewing, bodily gesture, utensil arrangement (*chaxi*), and designed tea space—a sensory, ritualized aesthetic practice often called literati tea.[^6] Yu describes public tea gatherings as a "sense-scape": fragrance, light, sound, utensils, and atmosphere organizing who "we" and "they" are.[^6]
-
-The script can claim Chinese legacy and Japanese infusion at once; Yu notes the paradox that a practice strongly identified with Taiwan has also been eagerly adopted on the mainland as "traditional."[^6] That is culture history—not a claim that every steeping contest is Chan monastic continuity from Section 2.
-
-::: {.callout-note collapse="true" title="More detail: Taiwan tea art — utensils and sense-scape"}
-Gongfu-style small pot and cups appear as a basic set in Yu's teaching sketch; what Taiwan tea art adds for this portrait is the cultivated performance of elegance—gesture, costume, *chaxi*, spatial design—beyond Chaoshan's everyday social glue.[^6] High-mountain oolong as a place-taste commodity is a related research trail; we leave chemistry and terroir mechanics to Chapter 1 and do not open a second plants lesson here.
+Abstract-level honesty on meaning: official narrative can support a vision of harmonious society with **docile labor**; younger readers may treat milk tea as an icon of **rebelliousness**—a widening gap under rapid political change.[^5] Open story keeps the counter script (strainer, strength, condensed milk, *cha chaan teng*). Heritage politics stay foldout so this page does not become a city-branding essay or a Tea-basics label table.
 :::
+
+## Portrait 3 — Taiwan tea art
+
+Taiwan's contemporary *cha yi* (tea art) gatherings stage elegance through brewing, bodily gesture, utensil arrangement (*chaxi*), and designed tea space—a sensory, ritualized aesthetic practice often called literati tea.[^6] Yu describes public tea gatherings as a "sense-scape": fragrance, light, sound, utensils, and atmosphere organizing who "we" and "they" are.[^6] Gongfu-style small pot and cups appear as a basic set; what this portrait adds beyond Chaoshan's everyday social glue is the cultivated performance of elegance—gesture, costume, *chaxi*, spatial design—so the room itself becomes part of the cup.[^6] This is no longer the "thinner third" of an earlier draft: Taiwan sits at open-story parity with Chaoshan and Hong Kong.
+
+The script can claim Chinese legacy and Japanese infusion at once. One open hinge from Zhang: Taiwan *chayi* also **reimagined** Chaozhou gongfu with Japanese *senchadō*-flavored aesthetics—*chaxi*, formalized movement, aroma-cup technique—then that repackaged "Chinese tea art" returned to the mainland from the **1980s**.[^3] The dated beats (*chayi* as a late-twentieth-century term, 1970s tea-art houses, 1981 association "revive" language, aroma cup as Taiwanese add) stay in the transmission foldout; the open story only needs the hinge—regional Chaoshan practice, Taiwanese reimagination, mainland return.[^3] Yu notes the paradox that a practice strongly identified with Taiwan has also been eagerly adopted on the mainland as "traditional."[^3][^6] That is culture history—not a claim that every steeping contest is Chan monastic continuity from Section 2, and not a rebuild of Okakura's *chadō* syllabus (Section 2 still owns that doorway).
+
+A related *place-taste* trail sits beside the gathering script: Taiwan high-mountain tea (*gaoshancha*) rose from the **1980s** as a signature commodity whose "fresh" mountain taste is socially constructed as much as grown—detail in the Jiang foldout; chemistry and altitude dials stay in Chapter 1.[^8] Leaf romance and gathering elegance can share a room; they are still not the same job as Chaoshan hospitality or a milk-tea counter pull.
+
+::: {.callout-note collapse="true" title="More detail: twentieth-century transmission — Taiwan *chayi*, *senchadō*, mainland return (Zhang)"}
+Zhang (2016) argues that today's packaged "standard Chinese tea ceremony" / national gongfucha story was originally a **Chaozhou regional custom**; Taiwanese pioneers took it up, repackaged it as quintessential Chinese culture, and exported it back to the mainland from the **1980s**; Japanese *senchadō* (and broader tea-ceremony aesthetics) infused the reimagination; foreign contribution was later obscured by national narrative.[^3]
+
+| Beat | What Zhang supports | Fence |
+| --- | --- | --- |
+| ***Chayi* as neologism** | Term *chayi* ("tea arts") lacks pre-~1970 dictionary pedigree in the entries Zhang checked; chosen partly to avoid *chadao* / *chadō* confusion with Japan[^3] | Neologism claim is Zhang's lexical check—not a census of all speech |
+| **1970s incubation** | Tea-art houses (*chayiguan*) appear in Taiwan in the **1970s** and proliferate with rising living standards / leisure / distinction[^3] | Social history of venues, not a temple continuity claim |
+| **1981 hinge** | ROC Tea Arts Association formed; mandate language includes "**revive** Chinese tea arts culture…"—Zhang notes "revive" is paradoxical because *chayi* itself is new[^3] | Institutional hinge, not medieval revival evidence |
+| **Why Chaozhou base** | Taiwanese links to Chaozhou / Fujian / Guangdong; gongfu already familiar; small-pot skill + full implement set suited "art" elevation vs utilitarian large-cup norms elsewhere[^3] | Base ≠ identity erasure |
+| ***Chaxi* + movement** | Spatial tea-setting (*chaxi*) + formalized body movement largely **new** to Chinese gongfu discourse before the **1970s**; parallel to Japanese (esp. *senchadō*) emphasis on arrangement/process; older Chaoshan texts (e.g. Weng) focus on brewing technique, not table aesthetics[^3] | Do not equate with *matcha chadō* as direct template |
+| **Aroma cup** | Taiwanese technical add: elongated aroma cup (*wenxiangbei*); pour to aroma cup before drinking cup (unlike customary Chaozhou direct-to-cup)[^3] | Technical modification, not ancient universal law |
+| **Mainland unfamiliarity (author framing)** | Zhang's teaching line: ~thirty years before writing, in most of China this small-pot method would have been virtually unheard of / read as foreign[^3] | **Author's rhetorical framing**—not a census |
+
+**Fence:** do not rebuild Okakura / *chadō* syllabus here (Section 2 owns the tea-room doorway); do not claim Chan continuity from monastery timetables to cafe elegance.
+:::
+
+::: {.callout-note collapse="true" title="More detail: Taiwan tea art — utensils and sense-scape (Yu)"}
+Gongfu-style small pot and cups appear as a basic set in Yu's teaching sketch; what Taiwan tea art adds for this portrait is the cultivated performance of elegance—gesture, costume, *chaxi*, spatial design—beyond Chaoshan's everyday social glue.[^6] Public gatherings organize a sense-scape: fragrance, light, sound, utensils, atmosphere—and with them, boundaries of who counts as "we" and "they."[^6]
+
+**Bridge to high-mountain leaf:** place-taste commodity research (Jiang) is a related trail for why Taiwan leaf can carry mountain romance into the same rooms; we leave catechin / theanine / altitude chemistry to Chapter 1.[^8]
+:::
+
+::: {.callout-note collapse="true" title="More detail: high-mountain leaf as place-taste commodity (Jiang)"}
+Jiang (2024) tracks Taiwan high-mountain tea (*gaoshancha*) as a commodity whose taste is tied to ideas of nature and place—not as a Chapter 1 lab sheet.[^8]
+
+| Beat | What the abstract supports | Fence |
+| --- | --- | --- |
+| **Rise** | *Gaoshancha* starts in the **1980s**, grows quickly, becomes a signature Taiwanese tea[^8] | Commodity chronology—not a first-garden myth invented here |
+| **Place-taste construction** | Sector connects *gaoshancha* with "fresh" taste of high-mountain nature / place; cultural meanings of nature and place shape the commodity[^8] | Social construction of taste, not mg/L chemistry |
+| **"Greening" trade-off** | Lighter oxidation ("greening") can narrow taste, reduce makers' skill agency, and—**as Jiang claims**—even bring negative consumer-body effects; **attribute**, do not amplify clinically[^8] | Author's claim; not a medical lesson on this page |
+| **Alternate makers** | Some makers work outside the *gaoshancha*-centric grid, engaging leaf-material complexity[^8] | Plural practice, not a single orthodox cup |
+
+**Hard fence:** no altitude-mg chemistry tables; no TRES flavor-wheel as primary cite; no re-teach of Chapter 1 plants.
+:::
+
+## How the scripts talk to each other
+
+Three sittings, three jobs. Chaoshan everyday gongfu glues social life with small pots and repeated pours—hospitality first, ceremony packaging later.[^1] Hong Kong milk tea is industrial counter craft—strainer, strength, condensed milk—localized after empire's mild cup proved the wrong register for popular taste.[^4] Taiwan *cha yi* cultivates elegance as performance: gesture, *chaxi*, designed space, sense-scape.[^6] Same leaf family; different staging work. Continuity myths that collapse all three into one ancient national ceremony—or into Chan monastic timetable—get the same folklore-vs-chronicle fence as Section 2.[^2][^3]
 
 ## Chapter close — and a bridge into psychology
 
 History spine on this site: who controlled the leaf → how practice entered daily life → plantation aftershock → **many living scripts**. Psychology starts next: warmth, ritual, expectation as context dials beside chemistry.
 
-One bridge sentence only: predictable shared steps show up again as ritual and context effects in [Chapter 4](../module-04/index.qmd). This page refuses to equate every regional practice with a lab finding that "ritual reduces anxiety."
+One bridge sentence only: predictable shared steps show up again as ritual and context effects in [Chapter 4](../module-04/index.qmd). This page refuses to equate Chaoshan hospitality, milk-tea counter rhythm, or *cha yi* elegance with a lab finding that "ritual reduces anxiety."
 
 ::: {.callout-tip title="You can stop here"}
-- Chaoshan gongfu: everyday social staging—not a museum ceremony.[^1]
-- Hong Kong milk tea: counter script with a documented postwar localization.[^4]
-- Taiwan tea art: utensil/gesture/space as cultivated aesthetic practice.[^6]
+- Chaoshan gongfu: everyday social staging—three modes (everyday / refined / tea-house)—not a museum ceremony.[^1]
+- Formation chronology (Liu) and invented-tradition fence stay foldout honesty beside the table picture.[^7][^2]
+- Hong Kong milk tea: counter script with a documented postwar localization (silk-stocking strainer, stronger leaf, condensed milk, *cha chaan teng*).[^4]
+- Heritage politics (Mak) and craft-monograph steps stay foldout / pointer—not this page's open essay.[^5]
+- Taiwan tea art: utensil / gesture / space as cultivated aesthetic practice; Zhang's 1970s–1980s transmission hinge; high-mountain leaf as related place-taste commodity.[^6][^3][^8]
 - Continuity myths get the same folklore-vs-chronicle fence as Section 2.
-- Next chapter: context is part of the dose.
+- Next chapter: context is part of the dose—not a claim that every regional practice is lab ritual.
 :::
 
 ---
 
 **Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](03-plantation-aftershock.qmd) · [Chapter 4 hub →](../module-04/index.qmd)
+
+## References
+
+1. d'Abbs, P. H. (2019). Tea art as everyday practice: Gongfu tea in Chaoshan, Guangdong, today. *The Asia Pacific Journal of Anthropology, 20*(3), 213–231. https://doi.org/10.1080/14442213.2019.1611908
+2. d'Abbs, P. H. N. (2018). *Art as everyday practice: A study of gongfu tea in Chaoshan, China* (Master's thesis, University of New England). https://hdl.handle.net/1959.11/23092
+3. Zhang, L. C. L. (2016). A foreign infusion: The forgotten legacy of Japanese *chadō* on modern Chinese tea arts. *Gastronomica, 16*(1), 53–62. https://doi.org/10.1525/gfc.2016.16.1.53
+4. Hong Kong Memory. The History of Hong Kong-style Milk Tea (ICH Oral Legacies Series II). https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html
+5. Mak, V. S. W. (2020). The heritagization of milk tea: Cultural governance and placemaking in Hong Kong. *Asian Anthropology*. https://doi.org/10.1080/1683478x.2020.1773616
+6. Yu, S.-D. (2022). Sense-making in Taiwan's tea art ritual. *Asian Journal of Social Science, 50*(3), 229–235. https://doi.org/10.1016/j.ajss.2022.08.007
+7. Liu, Changyun (劉嫦雲). (2023). A Study of the Creation of Chaozhou Kungfu Tea Practice / 潮州工夫茶の成立に関する考察. *比較日本文化学研究*, 16, 23–43. https://doi.org/10.15027/53587
+8. Jiang, H. (2024). Commodity, nature, and taste: The making of Taiwan's high-mountain tea. *Geographical Review*. https://doi.org/10.1080/00167428.2024.2319255
+9. 劉智鵬、黃君健、盧惠玲 (2023). 《港式奶茶製作技藝》. 香港：中華書局. ISBN 9789888860357. (Bibliographic pointer only—no page-mined steps on this site yet.)
 
 [^1]: d'Abbs, P. H. (2019). Tea art as everyday practice: Gongfu tea in Chaoshan, Guangdong, today. *The Asia Pacific Journal of Anthropology, 20*(3), 213–231. https://doi.org/10.1080/14442213.2019.1611908
 
@@ -85,3 +174,7 @@ One bridge sentence only: predictable shared steps show up again as ritual and c
 [^5]: Mak, V. S. W. (2020). The heritagization of milk tea: Cultural governance and placemaking in Hong Kong. *Asian Anthropology*. https://doi.org/10.1080/1683478x.2020.1773616
 
 [^6]: Yu, S.-D. (2022). Sense-making in Taiwan's tea art ritual. *Asian Journal of Social Science, 50*(3), 229–235. https://doi.org/10.1016/j.ajss.2022.08.007
+
+[^7]: Liu, Changyun (劉嫦雲). (2023). A Study of the Creation of Chaozhou Kungfu Tea Practice / 潮州工夫茶の成立に関する考察. *比較日本文化学研究*, 16, 23–43. https://doi.org/10.15027/53587
+
+[^8]: Jiang, H. (2024). Commodity, nature, and taste: The making of Taiwan's high-mountain tea. *Geographical Review*. https://doi.org/10.1080/00167428.2024.2319255
