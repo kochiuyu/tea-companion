@@ -6,7 +6,7 @@ lang: zh-Hant-HK
 {{< include ../../../_includes/lang-switcher/module-04-ritual-stress.zh-hant-hk.qmd >}}
 
 ::: {.zh-door-nav}
-**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第五章](../module-05/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
+**本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
 
 ::: {.callout-note}
@@ -17,7 +17,7 @@ lang: zh-Hant-HK
 **第四章 · 第二節（共四節）** — 屬於[第四章 · 情境與儀式心理](index.qmd)。第一次來？先看[本章入口](index.qmd)的整章地圖。
 :::
 
-::: {.callout-note collapse="true" title="怎樣讀這一節（腳註＋摺疊）"}
+::: {.callout-note collapse="true" title="怎樣讀這一節（腳註＋摺頁）"}
 上標數字是腳註，點一下跳去出處，再點箭嘴回來；滑鼠停住，多數時候也會彈出摘要。較密的自主神經數據、錯誤相關負波筆記，以及「正念」與「固定步驟」的分別，全收在摺起來的「更多詳情…」裡。有一篇出名的論文**不會**被當作證據——見警示框。
 :::
 
@@ -26,6 +26,8 @@ lang: zh-Hant-HK
 每逢大考或難纏的會議之前，你都做同樣的三步：煲水、泡茶、啜一口。雙手早已記熟這套步驟。在這些資料裡，重點正是這份可預期——不是「空洞的神秘主義」。
 
 一段短而熟悉的程序——量茶葉、看水、等一等——讓腦袋有些具體的事可做。這樣可以打斷腦中焦慮的兜圈，讓身體稍為平靜下來；應付下一件難事時，頭腦也更清醒。
+
+可以點算的動作在這裡很重要。量同樣份量的茶葉、看水是否夠熱、等浸泡完成：每一步在*當下*都有對錯，焦慮對考試或電郵的預演就少一點不停兜圈的空間。這是注意力的錨——不是臨床程序，也不是性格大改造。三步教學示意仍收在下面的摺頁；正文只需記住：一段固定劇本，用你做得到完的動作，打斷繞圈的憂慮。
 
 上一節的溫暖大多是被動的：握着杯子就是了。這一節的儀式卻是主動的：你要*親手*泡茶。本站認真看待這個分別。
 
@@ -57,13 +59,13 @@ lang: zh-Hant-HK
 **兩條路徑：** 由下而上的身體特徵（重複、僵固、同步），以及由上而下的意義（*這一串*動作為甚麼對你重要）。獨自泡茶小休，主要靠情緒和準備程度；與人一起奉茶，則再加上聯繫。但兩條路徑都不是引用一篇已撤回的焦慮論文的理由——見下面關於布魯克斯的警示。[^1][^4]
 :::
 
-在研究固定步驟動作的實驗裡，可預期的行為序列與較低的焦慮和較平穩的身體讀數有關。[^2] 另一方面，第二章關於[茶氨酸](../../glossary.qmd#l-theanine)的研究已顯示，人在做艱深心算時，心跳和壓力指標都較平靜[^3]——所以儀式步驟和茶的化學可以指向同一方向，卻不是同一回事。心跳下降多少、大腦錯誤警報的微伏數、回顧文章的各項整理，都放在摺疊裡；想看海報式細節時再打開。
+在研究固定步驟動作的實驗裡，可預期的行為序列與較低的焦慮和較平穩的身體讀數有關。[^2] 另一方面，第二章關於[茶氨酸](../../glossary.qmd#l-theanine)的研究已顯示，人在做艱深心算時，心跳和壓力指標都較平靜[^3]——所以儀式步驟和茶的化學可以指向同一方向，卻不是同一回事。心跳下降多少、大腦錯誤警報的微伏數、回顧文章的各項整理，都放在摺頁裡；想看海報式細節時再打開。
 
 ::: {.callout-note collapse="true" title="更多詳情：霍布森／朗／錯誤相關負波數據表（不含已撤回的論文）"}
 | 量度 | 發現 | 出處 |
 | --- | --- | --- |
 | 儀式心理學（回顧） | 有結構的儀式能減輕焦慮，並在壓力下支持表現（機制：調節情緒、掌控感） | 霍布森等人（2018）[^1] |
-| 可預期的動作序列 | 固定步驟的序列與較低的焦慮、較平穩的自主神經調節有關的敘述包括急性壓力下心跳下降約 **4.3 bpm** | 朗（Lang）等人（2015）[^2] |
+| 可預期的動作序列 | 固定步驟的序列與較低的焦慮、較平穩的自主神經調節有關；文獻敘述包括急性壓力下心跳下降約 **4.3 bpm** | 朗（Lang）等人（2015）[^2] |
 | 大腦快速的「糟了」警報（錯誤相關負波，ERN） | 高度儀式化的情境可減弱錯誤警報的幅度（按霍布森等人 2017 年研究的敘述，下降約 **1.85 μV**） | 霍布森等人（2017）[^5] |
 | 心算壓力下的茶氨酸 | 與安慰劑相比，心跳和壓力指標較低 | 木村（Kimura）等人（2007）[^3] |
 
@@ -75,13 +77,13 @@ lang: zh-Hant-HK
 
 儀式心理學回顧（霍布森等人，2018）：有結構的儀式可以透過由下而上的身體特徵和由上而下的意義，調節情緒、表現目標和社交聯繫。[^1]
 
-**不在這張表裡：** 布魯克斯等人（2016）的狀態－特質焦慮量表（STAI）分數——見警示框和撤稿摺疊。這些數字在本站**不算**證據。
+**不在這張表裡：** 布魯克斯等人（2016）的狀態－特質焦慮量表（STAI）分數——見警示框和撤稿摺頁。這些數字在本站**不算**證據。
 :::
 
 ::: {.callout-note collapse="true" title="更多詳情：朗的心跳數據和霍布森的錯誤相關負波——文中的數字是甚麼"}
 兩行與布魯克斯無關的數據，承載了文中的數字色彩。它們是**實驗快照**，不保證你的水煲能令你的心跳改變某個固定數值。
 
-**朗和同事（2015）——急性壓力下的心跳。** 本站認為，固定而重複的動作序列能緩衝自主神經的加速：與結構較鬆散的對照相比，平均心跳下降約 **4.3 bpm ± 0.9**（本站：*t*(44) = 4.78，*p* < 0.001，*d* ≈ 0.71）。[^2] 正文要表達的是方向：可預期的動作能讓身體稍為穩定下來。摺疊要交代的，則是本站為這篇論文附上的幅度——以及一份謙虛：一個實驗室的對比，並不是個人生理回饋的保證。
+**朗和同事（2015）——急性壓力下的心跳。** 本站認為，固定而重複的動作序列能緩衝自主神經的加速：與結構較鬆散的對照相比，平均心跳下降約 **4.3 bpm ± 0.9**（本站：*t*(44) = 4.78，*p* < 0.001，*d* ≈ 0.71）。[^2] 正文要表達的是方向：可預期的動作能讓身體稍為穩定下來。摺頁要交代的，則是本站為這篇論文附上的幅度——以及一份謙虛：一個實驗室的對比，並不是個人生理回饋的保證。
 
 **霍布森和同事（2017）——錯誤相關負波。** 錯誤相關負波是大腦一道很快的「糟了」腦波，常被認為與前扣帶皮質有關，大約在犯錯後首 **100 ms** 內出現。本站的解讀是：高度儀式化的一組，波幅比沒有固定步驟的對照組下降約 **1.85 μV ± 0.35**（*p* < 0.05）。[^5] 用教學的話說：人較少在情緒上糾纏於錯誤——不是「你從此不會犯錯」，也不是換了個名字的「正念」。
 
@@ -120,12 +122,14 @@ lang: zh-Hant-HK
 
 人們常把兩者混為一談：「茶道儀式＝正念。」正念是對當下保持開放的覺察；在這些資料裡，儀式更多是關於**固定、可預期的步驟**。
 
-查證筆記中引述的認知神經科學，把界線劃得更清楚：儀式提供僵固、不變的行為腳本，以及由上而下的可預期性。透過限制動作的次序，儀式可以減弱大腦那道快速的**「糟了」警報**（實驗室術語：[錯誤相關負波](../../glossary.qmd#ern)）——靠的是*可預期性*來降低焦慮，而不單是開放的正念觀照。[^5][^1]
+你想帶着開放覺察泡茶也可以。本頁依據的實驗並不要求你這樣做。它們依靠一段短而不變的序列——同樣的量、同樣的看、同樣的等——即使今天很糟。開放覺察看管出現的一切；劇本則約束你*下一步做甚麼*，好讓繞圈的憂慮少幾條分岔。管理簡報把「茶正念」賣成同一把工具時，請把這道界線說大聲。
+
+查證筆記中引述的認知神經科學，把界線劃得更清楚：儀式提供僵固、不變的行為腳本，以及由上而下的可預期性。透過限制動作的次序，儀式可以減弱大腦那道快速的**「糟了」警報**（實驗室術語：[錯誤相關負波](../../glossary.qmd#ern)，或 ERN）——靠的是*可預期性*來降低焦慮，而不單是開放的正念觀照。[^5][^1]
 
 這個分別，影響你怎樣理解「泡茶小休」。你不必成為冥想導師——只是在練習一段短而可重複的步驟，讓那道「糟了」警報少一點失控打轉的空間。
 
 ::: {.callout-note collapse="true" title="更多詳情：正念與按步驟泡茶小休的分別"}
-通俗的管理書，常把「茶道儀式」壓扁成「正念」。查證筆記和霍布森的回顧，則劃出更清楚的界線。[^1][^5]
+通俗的管理書，常把「茶道儀式」壓扁成「正念」。仔細讀本站的資料——以及霍布森的回顧——則劃出更清楚的界線。[^1][^5]
 
 | | 正念（通俗意義） | 儀式步驟（這一節） |
 | --- | --- | --- |
@@ -134,24 +138,27 @@ lang: zh-Hant-HK
 | 失敗的樣子 | 「我沒能活在當下」 | 跳過步驟，又在任務上鑽牛角尖 |
 | 泡茶的例子 | 留意香氣、溫度，看着念頭來去 | 同樣的茶葉份量、同樣地看水、同樣地等——即使今天很糟 |
 
-你*可以*帶着正念泡茶，但本頁依據的實驗並不要求你這樣做。它們依靠的是一段短而不變的序列，讓反覆的憂慮少一點空間。[第三章第二節](01-warmth-trust.qmd) 的寺院規約，是同一種支撐思路更古老、集體的版本——不是實驗室的複製品。
+你*可以*帶着正念泡茶，但本頁依據的實驗並不要求你這樣做。它們依靠的是一段短而不變的序列，讓反覆的憂慮少一點空間。[第三章第二節](../module-03/02-monastic-path.qmd) 的寺院規約，是同一種支撐思路更古老、集體的版本——不是實驗室的複製品。
 :::
 
 ## 化學與動作可以互相呼應
 
-固定的泡茶步驟不只是文化。在研究茶成分的文獻裡，它與較高的心跳彈性和較低的壓力喚起有關。[^3] 儀式步驟加上茶的成分，可以一同指向「更平靜地掌控自己」——這又是一道通往[第二章 · 身體訊號](../module-02/04-body-signals.qmd)的橋，也連到第四章議價時的冷靜（焦慮較低時，較少一觸即發地拒絕對方）。
+固定的泡茶步驟不只是文化。在研究茶成分的文獻裡，它與較高的心跳彈性和較低的壓力喚起有關。[^3] 儀式步驟加上茶的成分，可以一同指向「更平靜地掌控自己」——這又是一道通往[第二章 · 身體訊號](../module-02/04-body-signals.qmd)的橋，也連到第五章議價時的冷靜（焦慮較低時，較少一觸即發地拒絕對方）。
 
-說到底，情境本身就是劑量的一部分：溫度、儀式和期望，會跟咖啡因、茶氨酸一起發揮作用。這就是要帶進[第五章](../module-05/index.qmd)的一句話。
+這句呼應要說得小心。第二章的[茶氨酸](../../glossary.qmd#l-theanine)是化學故事：葉裡的客人，在被引用的設計裡，可以令艱深心算時的壓力指標平靜下來。[^3] 泡茶劇本是動作編排的故事：可預期的步驟，可以打斷焦慮兜圈和那道錯誤警報。兩者都可以讓你應付下一件難事時更清醒。它們仍是不同的機制——一個在杯裡，一個在手上。別把它們壓成同一個「茶平靜」開關，也別在這裡捏造新的木村數字；化學深度仍由「身體訊號」那一節掌管。
+
+情境是劑量的一部分：溫度、儀式和預期，會跟咖啡因、茶氨酸一起上路。這就是要帶進[第五章](../module-05/index.qmd)的一句話——而[第四節](04-context-dials-map.qmd)的三旋鈕地圖，會把溫暖、劇本和名字收在同一張圖裡，卻不搶這一節的工作。
 
 ::: {.callout-tip collapse="true" title="點開更多詳情：三步泡茶小休（教學示意，不是臨床程序）"}
 取材自本站的白話重點——不是醫療處方：
 
 1. **量** — 用你一向用的茶葉份量（注意力落在一個可以點算的動作上）。
-2. **看** — 看水、看茶葉（[第三章第二節](01-warmth-trust.qmd) 裡陸羽「看水泡辨火候」的習慣，可當作歷史點綴，隨意）。
+2. **看** — 看水、看茶葉（[第三章第二節](../module-03/02-monastic-path.qmd) 裡陸羽「看水泡辨火候」的習慣，可當作歷史點綴，隨意）。
 3. **等** — 浸泡的時間就是停頓；別把等待當成「開工前浪費的時間」。
 
 然後回到那件難事。這些資料的說法很溫和：讓腦袋重新開始，讓自主神經的基線平靜一點——不保證你變天才，也不能代替睡眠。
 :::
+
 
 ## 腦中打轉時，為甚麼可預期性有幫助
 
@@ -168,20 +175,22 @@ lang: zh-Hant-HK
 2. **表現目標狀態** — 大事當前的準備程度。
 3. **社交聯繫** — 群體協調而生的意義。
 
-獨自泡茶小休，主要靠第 1 和第 2 項；與人一起奉茶，還加上第 3 項。寺院規約（[第三章第二節](01-warmth-trust.qmd)）早在幾百年前，已把第 2 和第 3 項制度化。
+獨自泡茶小休，主要靠第 1 和第 2 項；與人一起奉茶，還加上第 3 項。寺院規約（[第三章第二節](../module-03/02-monastic-path.qmd)）早在幾百年前，已把第 2 和第 3 項制度化。
 
 在回顧文章的框架裡，由下而上的特徵（重複、僵固、同步）和由上而下的意義（這串動作為甚麼重要），都有作用。[^1]
 :::
 
 ## 帶進第五章的三句話
 
-帶着這三句話往前走：
+帶着這幾句話走進「決策」：
 
-1. 儀式可以透過可預期性減輕焦慮（那道「糟了」警報的故事）——不只是靠「正念」這個招牌。[^5]
-2. 布魯克斯（2016）的焦慮量表數字，在撤稿後**不可再用**。[^4]
-3. 情境（儀式＋溫暖＋期望）會跟成分一起起作用——所以第四章要把研究方法鎖緊。
+1. 儀式可以透過可預期性減輕焦慮（那道「糟了」警報／ERN 的故事）——不只是靠「正念」這個招牌。[^5] 第五章的遊戲會量度壓力下的選擇；一段有劇本的小休帶來的較平靜基線，是一顆情境旋鈕，不是更好出價的保證。
+2. 布魯克斯（2016）的焦慮量表數字和表現說法，在二〇二四年撤稿後**不可再用**。[^4] 若簡報仍以它們打頭陣，請當作警示標籤。
+3. 情境旋鈕會跟成分一起上路——溫暖來自[第一節](01-warmth-trust.qmd)，儀式來自這一節，預期來自[第三節](03-expectation-labels.qmd)——所以第五章要鎖住方法（配對杯子、沖洗期、清楚標籤）。綜合地圖在[第四節](04-context-dials-map.qmd)；程序表仍在[第五章 · 第四節](../module-05/04-study-protocols.qmd)。
 
-想看決策遊戲時，就打開[第五章](../module-05/index.qmd)。
+想看決策遊戲時，就打開[第五章](../module-05/index.qmd)——若想先把三顆旋鈕收進同一張圖，就先讀完情境旋鈕地圖。
+
+
 
 ::: {.callout-tip title="你可以先停在這裡"}
 - 一段短而熟悉的泡茶步驟，可以打斷焦慮的兜圈——注意力落在可以點算的步驟上。
@@ -192,16 +201,25 @@ lang: zh-Hant-HK
 
 ---
 
-**導航：** [↑ 第四章入口](index.qmd) · [←](01-warmth-trust.qmd) · [下一節 →](03-expectation-labels.qmd)
+**導航：** [↑ 第四章入口](index.qmd) · [← 上一節](01-warmth-trust.qmd) · [下一節 →](03-expectation-labels.qmd)
+
+## 參考文獻
+
+1. Hobson, N. M., Schroeder, J., Risen, J. L., Xygalatas, D., & Inzlicht, M. (2018). The psychology of rituals: An integrative review and process-based framework. *Personality and Social Psychology Review, 22*(3), 260–284. https://doi.org/10.1177/1088868317734944
+2. Lang, M., Krátký, J., Shaver, J. H., Jerotijević, D., & Xygalatas, D. (2015). Effects of anxiety on spontaneous ritualized behavior. *Current Biology, 25*(14), 1892–1897. https://doi.org/10.1016/j.cub.2015.05.049 （本站敘述：固定步驟序列與心跳緩衝。）
+3. Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
+4. Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. (2016). Don't stop believing: Rituals improve performance by decreasing anxiety. *Organizational Behavior and Human Decision Processes* — **2024 年撤回**；不作證據。 https://doi.org/10.1016/j.obhdp.2016.07.004
+5. Hobson, N. M., et al. (2017). Ritualistic behavior and the error-related negativity (ERN). *Social Cognitive and Affective Neuroscience, 12*(11), 1779–1788.（所引 ERN 波幅差異。）
+6. 撤稿聲明（2024）。Brooks et al., *Organizational Behavior and Human Decision Processes*. https://doi.org/10.1016/j.obhdp.2024.104377 — 數據完整性細節；**本站不作證據。**
 
 [^1]: Hobson, N. M., Schroeder, J., Risen, J. L., Xygalatas, D., & Inzlicht, M. (2018). The psychology of rituals: An integrative review and process-based framework. *Personality and Social Psychology Review, 22*(3), 260–284. https://doi.org/10.1177/1088868317734944
 
-[^2]: Lang, M., Krátký, J., Shaver, J. H., Jerotijević, D., & Xygalatas, D. (2015). Effects of anxiety on spontaneous ritualized behavior. *Current Biology* / cited autonomic sequence work also listed as *Human Nature, 26*(3), 295–314 in Module 3 additions. (Narrative: scripted sequences and HR buffering.)
+[^2]: Lang, M., Krátký, J., Shaver, J. H., Jerotijević, D., & Xygalatas, D. (2015). Effects of anxiety on spontaneous ritualized behavior. *Current Biology, 25*(14), 1892–1897. https://doi.org/10.1016/j.cub.2015.05.049 （本站敘述：固定步驟序列與心跳緩衝。）
 
 [^3]: Kimura, K., Ozeki, M., Juneja, L. R., & Ohira, H. (2007). L-Theanine reduces psychological and physiological stress responses. *Biological Psychology, 74*(1), 39–45. https://doi.org/10.1016/j.biopsycho.2006.06.006
 
-[^4]: Retraction notice: Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. (2016). Don't stop believing: Rituals improve performance by decreasing anxiety. *Organizational Behavior and Human Decision Processes* — retracted 2024 for data-integrity issues. https://doi.org/10.1016/j.obhdp.2016.07.004
+[^4]: Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. (2016). Don't stop believing: Rituals improve performance by decreasing anxiety. *Organizational Behavior and Human Decision Processes* — **2024 年撤回**；不作證據。 https://doi.org/10.1016/j.obhdp.2016.07.004
 
-[^5]: Hobson, N. M., et al. (2017). Ritualistic behavior and the error-related negativity (ERN). *Social Cognitive and Affective Neuroscience, 12*(11), 1779–1788. (Cited ERN amplitude delta.)
+[^5]: Hobson, N. M., et al. (2017). Ritualistic behavior and the error-related negativity (ERN). *Social Cognitive and Affective Neuroscience, 12*(11), 1779–1788.（所引 ERN 波幅差異。）
 
-[^6]: Retraction notice (2024). Brooks, A. W., Schroeder, J., Risen, J. L., Gino, F., Galinsky, A. D., Norton, M. I., & Schweitzer, M. E. "Don't stop believing: Rituals improve performance by decreasing anxiety." *Organizational Behavior and Human Decision Processes*. https://doi.org/10.1016/j.obhdp.2024.104377 — Authors reported loss of confidence in data integrity; journal noted anomalies in Study 1b heart-rate data and unreported exclusions in Studies 3 and 4 (focal effects nonsignificant when exclusions were restored). **Not used as evidence on this site.**
+[^6]: 撤稿聲明（2024）。Brooks et al., *Organizational Behavior and Human Decision Processes*. https://doi.org/10.1016/j.obhdp.2024.104377 — 數據完整性細節；**本站不作證據。**
