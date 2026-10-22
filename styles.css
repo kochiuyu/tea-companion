@@ -80,15 +80,20 @@ body {
   margin-bottom: 1.25rem;
 }
 
-/* Glossary term links (in-text → locale glossary#id): dotted underline.
+/* Glossary term links (in-text → locale glossary#id): Elsevier-style body color + underline cue.
    Footnotes stay as numbered superscripts; chapter/nav links keep default underline. */
 a[href*="glossary.html#"],
 a[href*="glossary.qmd#"] {
+  color: inherit;
+  text-decoration-color: currentColor;
   text-decoration-line: underline;
-  text-decoration-style: dotted;
+  text-decoration-style: solid;
   text-underline-offset: 0.18em;
 }
 a[href*="glossary.html#"]:hover,
 a[href*="glossary.qmd#"]:hover {
+  color: inherit;
+  text-decoration-color: currentColor;
   text-decoration-style: solid;
+  text-decoration-thickness: 0.08em;
 }
