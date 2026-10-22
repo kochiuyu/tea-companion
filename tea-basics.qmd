@@ -6,9 +6,9 @@ title: "Tea basics"
 
 You have a mug, hot water, and a small pile of dry leaves—or a paper bag from the grocery aisle. Pour the water on. Wait a few minutes. The water changes color and the room smells different. That drink is what people usually mean by **tea**.
 
-Some boxes in the same aisle are a different drink: chamomile, peppermint, or rooibos are usually **other plants** steeped in hot water (often called herbal tea). This page starts there—what is in the mug, how to make one simple cup, and three everyday names. Longer shelf lists live on [Tea labels](tea-labels.qmd). The chapters come later.
+In the same aisle you will also find boxes labeled "tea" that are made from other plants—chamomile, peppermint, or rooibos, for example. Those drinks can be pleasant, but they are not the same as tea made from the tea plant. This page starts with that everyday distinction: what is in the mug, how to make one simple cup, and a few names you are likely to see. Longer shelf lists live on [Tea labels](tea-labels.qmd). The later chapters go deeper into chemistry, body, history, and choice.
 
-This is the gentle door. It is not a name encyclopedia and not a chemistry lesson. Typical milligrams live on the [Cup reference](cup-reference.qmd). A bitter or flat mug goes to [Kitchen troubleshoot](tea-troubleshoot.qmd).
+This page is meant as a gentle first step. It is not a name encyclopedia and not a chemistry lesson. Typical milligrams live on the [Cup reference](cup-reference.qmd). If a mug turns out bitter or flat, try [Kitchen troubleshoot](tea-troubleshoot.qmd).
 
 Tap a footnote number to jump to the source, then the caret to jump back. Hover often shows a popup. A few short side-notes sit in collapsed **"More detail…"** foldouts.
 
@@ -31,21 +31,21 @@ Tap a footnote number to jump to the source, then the caret to jump back. Hover 
 
 ## True tea vs other plants in the mug
 
-In everyday English, "tea" can mean almost anything steeped in hot water. On this site, **true tea** means leaf—and sometimes the bud—of one plant: the tea plant ([*Camellia sinensis*](glossary.qmd#sinensis) in the glossary).
+In everyday English, "tea" can mean almost anything steeped in hot water. That loose use is fine at a cafe counter. On this site, **true tea** means leaf—and sometimes the bud—of one plant: the tea plant ([*Camellia sinensis*](glossary.qmd#sinensis) in the glossary).
 
-Herbal boxes that say "tea" on the front—chamomile, peppermint, ginger, rooibos—are usually infusions of **other plants**. They can be lovely. They are not the same drink as tea-plant green or black, and they are not the chemical story the later chapters tell. FDA consumer materials have long noted that herbal teas come from other plants and should name the plant on the label.[^1] Trade groups likewise ask shoppers to keep "tea" for tea-plant styles (green, black, oolong, white, dark) and call the rest herbals or tisanes.[^2]
+Many herbal boxes still say "tea" on the front. Chamomile, peppermint, ginger, and rooibos are usually infusions of **other plants**. They can be lovely. They are not the same drink as tea-plant green or black, and they are not the chemical story the later chapters tell. FDA consumer materials have long noted that herbal teas come from other plants and should name the plant on the label.[^1] Trade groups likewise ask shoppers to keep "tea" for tea-plant styles (green, black, oolong, white, dark) and call the rest herbals or tisanes.[^2]
 
 So when a later chapter talks about what is in your mug, it assumes a tea-plant leaf unless it says otherwise. A caffeine-free "bedtime tea" made of chamomile is a different drink. Named herbal rows live on [Tea labels](tea-labels.qmd).
 
 ::: {.callout-note collapse="true" title="More detail: why the word 'tea' got stretched"}
-English borrowed the word *tea* for the tea-plant drink, then stretched it to any hot infusion. That stretch is fine at a cafe counter. It becomes confusing in this companion, because the wake-up and calm-focus story belongs to the tea plant—not to every box that says "tea."
+English borrowed the word *tea* for the tea-plant drink, then stretched it to any hot infusion. That stretch is fine at a cafe counter. It becomes confusing here, because the wake-up and calm-focus story belongs to the tea plant—not to every box that says "tea."
 :::
 
 ---
 
 ## Same plant, different paths
 
-Green and black tea are mostly different **factory paths** on the same plant—not two species on the shelf. The UK Tea & Infusions Association puts the split simply: how long oxidation runs during processing—or whether it runs at all—is what separates black, green, oolong, and white character.[^3]
+Green and black tea usually come from the same plant. What changes is the **factory path**—how the leaf is handled after harvest—not which species sits on the shelf. The UK Tea & Infusions Association puts the split simply: how long oxidation runs during processing—or whether it runs at all—is what separates black, green, oolong, and white character.[^3]
 
 | Path | Plain idea | What you usually notice |
 | --- | --- | --- |
@@ -53,9 +53,9 @@ Green and black tea are mostly different **factory paths** on the same plant—n
 | **Black** | Let the leaf brown in air, then dry | Amber to deep red-brown; malty or brisk |
 | **In between, lighter, or aged** | Oolong sits between green and black; white is lighter handling; dark teas such as Pu-erh are aged | Still the same plant—different stopping points |
 
-**Honesty check:** tea makers often say "fermentation" for the green-to-black change. For ordinary green, oolong, and black tea they usually mean leaf enzymes plus air. True microbial aging shows up mainly in dark teas such as Pu-erh.[^4]
+Tea makers often say "fermentation" for the green-to-black change. For ordinary green, oolong, and black tea they usually mean leaf enzymes plus air. True microbial aging shows up mainly in dark teas such as Pu-erh.[^4]
 
-Bag versus loose, and the black-tea factory words *orthodox* and *CTC*, are **particle** stories—not a new plant. Smaller pieces often color the mug faster. The grade table lives on [Tea labels](tea-labels.qmd).
+Bag versus loose leaf, and the black-tea factory words *orthodox* and *CTC*, are about **particle size**—not a new plant. Smaller pieces often color the mug faster. The grade table lives on [Tea labels](tea-labels.qmd).
 
 ::: {.callout-note collapse="true" title="More detail: six type-names"}
 Trade lists sometimes name **six** manufactured types (green, yellow, white, oolong, black, dark). Yellow tea is rare outside China. You do not need it before Chapter 1.[^5]
@@ -74,16 +74,13 @@ A simple home cup on this site is about **2 g** of dry leaf—one bag, or a mode
 
 Taste the cup. If it is harsh, stop sooner next time. You do not need a chart in your head.
 
-**If something is off** — bitter or flat → [Kitchen troubleshoot](tea-troubleshoot.qmd).  
-**If you want why heat and time matter** → [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd).  
-**If the gear has a name** (teapot, gaiwan, whisk) → [Tea labels](tea-labels.qmd).  
-**If you want milligrams** → [Cup reference](cup-reference.qmd).
+If something is off—bitter or flat—try [Kitchen troubleshoot](tea-troubleshoot.qmd). If you want to know why heat and time matter, open [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd). Gear with a name (teapot, gaiwan, whisk) is listed on [Tea labels](tea-labels.qmd). Milligrams live on the [Cup reference](cup-reference.qmd).
 
 ---
 
 ## Awake, and a little calm
 
-Tea-plant tea usually brings **caffeine** (the wake-up) and **[L-theanine](glossary.qmd#l-theanine)** (a calm-focus amino acid in the leaf). How much of each depends on the leaf and the steep. This page does not give a dose and does not tell you what to drink for health.
+Tea-plant tea usually brings **caffeine** (the familiar wake-up) and **[L-theanine](glossary.qmd#l-theanine)** (a calm-focus amino acid in the leaf). How much of each depends on the leaf and the steep. This page does not give a dose and does not tell you what to drink for health.
 
 Numbers live on the [Cup reference](cup-reference.qmd). The "three guests in the mug" story lives in [Chapter 1 · Section 4](modules/module-01/04-compounds.qmd).
 
@@ -91,7 +88,7 @@ Numbers live on the [Cup reference](cup-reference.qmd). The "three guests in the
 
 ## Three labels to recognize
 
-Only three, on purpose. The long sheet is the next door.
+Only three names here, on purpose. The long sheet is the next door.
 
 | Name | Usual meaning |
 | --- | --- |

@@ -4,15 +4,15 @@ title: "Glossary"
 {{< include _includes/lang-switcher/glossary.en.qmd >}}
 
 
-Every journey collects new words. Some are friendly on first meeting—*caffeine*, *ritual*. Others arrive packed tight—*HPA axis*, *error-related negativity*—as if five ideas were folded into one suitcase.
+Every journey collects new words. Some are friendly on first meeting, such as *caffeine* and *ritual*. Others arrive packed tight, such as *HPA axis* and *error-related negativity*, as if five ideas were folded into one suitcase.
 
-This page unpacks those suitcases. When a chapter uses a technical word, look it up here for a one-sentence definition in everyday English. Chapter numbers point to where the term matters most in the story.
+This page unpacks those suitcases. When a chapter uses a technical word, look it up here for a one-sentence definition in everyday English. The chapter numbers point to where the term matters most in the story.
 
-You do not need to memorize the whole table. Skim the “By chapter” list at the bottom when you start a new chapter. Ultra-niche lab constants and diffusion equations are left out on purpose; see the [Bibliography](bibliography.qmd) if you need the primary papers.
+You do not need to memorize the whole table. When you start a new chapter, skim the “By chapter” list at the bottom. Ultra-niche lab constants and diffusion equations are left out on purpose. If you need the primary papers, see the [Bibliography](bibliography.qmd).
 
 Think of this as a pocket phrasebook for the four chapters—not a second textbook.
 
-For a first mug and true-tea versus herbal orientation, use **[Tea basics](tea-basics.qmd)**. For the longer name sheet—Chinese, Japanese, and Western labels, grades, and teapot words—use **[Tea labels](tea-labels.qmd)**. This glossary stays chapter jargon only.
+For a first mug, and for true tea versus herbal drinks, use **[Tea basics](tea-basics.qmd)**. For the longer name sheet—Chinese, Japanese, and Western labels, grades, and teapot words—use **[Tea labels](tea-labels.qmd)**. This glossary stays with chapter jargon only.
 
 ## Terms (simple definitions)
 

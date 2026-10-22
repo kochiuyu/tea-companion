@@ -9,16 +9,16 @@ title: "Section 4 · Context is part of the dose — three dials, one map"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-This sitting is a **map**, not a new experiment. Footnotes point back to the lessons that own the evidence. Foldouts restate fences and hand off to Chapter 5—no new effect sizes.
+This sitting is a **map**, not a new experiment. The footnotes point back to the lessons that own the evidence. The foldouts restate the fences and hand off to Chapter 5, with no new effect sizes.
 :::
 
 ## The cup is never only chemistry
 
-Picture a kitchen mug on an ordinary morning. The ceramic is hot in the hand. Your hands already know the brew sequence—boil, steep, sip—because you have done it a hundred times. The drink has a name on it, spoken or implied: "tea," "specialty," "just bag," maybe a cafe menu line. Beside the leaf's guests—caffeine, [L-theanine](../../glossary.qmd#l-theanine), and friends in [Chapter 1 · Compounds](../module-01/04-compounds.qmd)—three **non-compound** influences can ride along at once: body-temperature tint, a familiar script, and a belief about what the liquid *is*.
+Picture a kitchen mug on an ordinary morning. The ceramic is hot in the hand. Your hands already know the brew sequence, boil, steep, sip, because you have done it a hundred times. The drink has a name on it, spoken or only implied: "tea," "specialty," "just bag," maybe a line on a cafe menu. Beside the leaf's guests, caffeine, [L-theanine](../../glossary.qmd#l-theanine), and the friends in [Chapter 1 · Compounds](../module-01/04-compounds.qmd), three **non-compound** influences can ride along at once: a tint from body temperature, a familiar script, and a belief about what the liquid *is*.
 
-In a quiet lab those three tints can be locked one at a time. In a kitchen they usually arrive together. Heat in the palms, a hurried or careful series of steps, a story about the drink—none of that dissolved more caffeine into the water, and all of it can still ride along with the sip. This page does not re-teach compound clocks or brew extraction; it only names the context guests so you can see them beside the leaf.
+In a quiet lab, those three tints can be locked one at a time. In a kitchen, they usually arrive together. Heat in the palms, a hurried or careful series of steps, a story about the drink: none of that dissolved more caffeine into the water, and all of it can still ride along with the sip. This page does not re-teach compound clocks or brew extraction. It only names the context guests, so you can see them beside the leaf.
 
-None of those three is milligrams in the cup. Each can still color how the cup feels, how you judge the person across from you, or how you rate the sip. This chapter named them one by one—[warmth](01-warmth-trust.qmd), [ritual](02-ritual-stress.qmd), [expectation](03-expectation-labels.qmd). Here they sit on one beginner map. Chemistry still matters. Body state still matters ([Chapter 2](../module-02/index.qmd)). Context is the third guest at the table: **part of the dose**, not a substitute for the leaf.
+None of those three is milligrams in the cup. Each can still color how the cup feels, how you judge the person across from you, or how you rate the sip. This chapter named them one by one: [warmth](01-warmth-trust.qmd), [ritual](02-ritual-stress.qmd), [expectation](03-expectation-labels.qmd). Here they sit on one beginner map. Chemistry still matters. Body state still matters ([Chapter 2](../module-02/index.qmd)). Context is the third guest at the table: **part of the dose**, not a substitute for the leaf.
 
 ## Three dials
 
@@ -28,19 +28,19 @@ None of those three is milligrams in the cup. Each can still color how the cup f
 | **Ritual** | Predictable active script / stress interrupt | [Section 2](02-ritual-stress.qmd) | Mindfulness by another name |
 | **Expectation** | Labels and belief about the cup | [Section 3](03-expectation-labels.qmd) | A substitute for washout and matched mugs |
 
-Walk the three rows in plain words. **Warmth** is the passive tint: hot or cold in the hands can briefly color how "warm" or trustworthy someone seems—interesting in stripped-down lab tasks, fragile when sold as strategy.[^1] **Ritual** is the active script: measure, watch, wait—a predictable sequence that can interrupt anxious looping without being open-awareness training.[^2] **Expectation** is the name on the experience: price, vessel, menu line, "relaxing" versus "specialty"—belief cues that can ride along with the liquid before the first sip.[^3]
+Walk the three rows in plain words. **Warmth** is the passive tint. Hot or cold in the hands can briefly color how "warm" or trustworthy someone seems. That tint is interesting in a stripped-down lab task, and it is fragile when someone sells it as strategy.[^1] **Ritual** is the active script: measure, watch, wait. It is a predictable sequence that can interrupt anxious looping, without being open-awareness training.[^2] **Expectation** is the name on the experience: price, vessel, a menu line, "relaxing" versus "specialty." Those belief cues can ride along with the liquid before the first sip.[^3]
 
-Keep the jobs separate when you read a headline. A warm mug is not a brewing break. A brewing break is not a label on a box. A label is not washout. The table's "what it is *not*" column exists so those collapses stay loud on the map, not buried in a footnote.
+Keep the jobs separate when you read a headline. A warm mug is not a brewing break. A brewing break is not a label on a box. A label is not washout. The table's "what it is *not*" column exists so those collapses stay loud on the map, rather than buried in a footnote.
 
-Temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the chapter take-home—owned here as a set, not reinvented as new empirics. For numbers, designs, and replication honesty, open the sibling lessons. This page only puts the three dials on one picture.
+Temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the chapter take-home, owned here as a set, not reinvented as new empirics. For the numbers, the designs, and the honesty about replication, open the sibling lessons. This page only puts the three dials on one picture.
 
-The map needs humility for the same reason the siblings did: famous warmth headlines failed large replications; one ritual-performance paper was retracted; ritual is easy to confuse with mindfulness marketing; labels are easy to confuse with proper washout and matched mugs. The short fences box below restates those limits so the map does not sound like a fourth experiment.
+The map needs the same humility the siblings needed. Famous warmth headlines failed large replications. One paper on ritual and performance was retracted. Ritual is easy to confuse with mindfulness marketing. Labels are easy to confuse with proper washout and matched mugs. The short fences box below restates those limits, so the map does not sound like a fourth experiment.
 
 ::: {.callout-caution title="Fences in one short callout"}
-- **Warmth humility:** large replications failed to copy the famous warm-pad gift-choice headline—keep Lynott in view.[^1]
-- **Brooks is not evidence:** the retracted ritual-performance paper stays excluded (see Section 2).
-- **Ritual ≠ mindfulness:** predictable scripting is not open-awareness training (Section 2 fence).
-- **Expectation ≠ washout:** belief cues explain why protocols lock the mug—they do not replace those protocols (Section 3 → [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd)). Herbal ≠ *Camellia* label designs stay owned in Section 3—not re-taught here.
+- **Warmth humility:** large replications failed to copy the famous warm-pad gift-choice headline. Keep Lynott in view.[^1]
+- **Brooks is not evidence:** the retracted paper on ritual and performance stays excluded (see Section 2).
+- **Ritual is not mindfulness:** predictable scripting is not open-awareness training (Section 2 fence).
+- **Expectation is not washout:** belief cues explain why protocols lock the mug. They do not replace those protocols (Section 3 → [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd)). Herbal designs are not *Camellia* label designs; that fence stays owned in Section 3, and it is not re-taught here.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what we measured / what we didn't"}
@@ -50,28 +50,28 @@ The map needs humility for the same reason the siblings did: famous warmth headl
 | Ritual | Scripted sequences / anxiety-control framing; ERN discussion; mindfulness fence[^2] | New HR bpm tables |
 | Expectation | Marketing placebo + extrinsic-cue review + teaware expectations + herbal infusion-label hinge (Kuenzel; herbal ≠ *Camellia*)[^3] | New tea-placebo effect sizes |
 
-Social setting (alone vs shared pot) is **not** a fourth dial on this page—deferred until separately sourced. Section 3 already said the same handoff out loud.
+Social setting, an alone cup versus a shared pot, is **not** a fourth dial on this page. It stays deferred until it is separately sourced. Section 3 already said the same handoff out loud.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: messy kitchen cup (vignette)"}
-**Illustrative only—not a study claim.** Same leaf, same morning pot. Three loose dials at once:
+**Illustrative only, not a study claim.** Same leaf, same morning pot. Three loose dials at once:
 
-1. **Warmth loose.** The kettle ran hot; the mug is thin porcelain; your palms are already warm from the steam. Nobody matched temperature to a protocol band.
-2. **Ritual loose—or rushed.** Some mornings you measure, watch, wait. Today you dunked the bag while answering a message. The script that can interrupt looping is either present or missing—this page does not invent a heart-rate number for either case.
-3. **Expectation loose.** The cafe menu said "specialty oolong"; the vessel is theater porcelain; the barista's line sold a story. Or, at home, the box said nothing and you called it "just tea." The name rode along either way.
+1. **Warmth loose.** The kettle ran hot. The mug is thin porcelain. Your palms are already warm from the steam. Nobody matched temperature to a protocol band.
+2. **Ritual loose, or rushed.** Some mornings you measure, watch, and wait. Today you dunked the bag while answering a message. The script that can interrupt looping is either present or missing. This page does not invent a heart-rate number for either case.
+3. **Expectation loose.** The cafe menu said "specialty oolong." The vessel is theater porcelain. The barista's line sold a story. Or, at home, the box said nothing and you called it "just tea." The name rode along either way.
 
-Which dials are uncontrolled? All three, on an ordinary kitchen cup. That does not make the cup a bad cup. It makes it a **field** cup: chemistry is real, and context is real, and neither is locked. Alone versus a shared pot is a *different* question—still deferred, still not a fourth dial here.
+Which dials are uncontrolled? All three, on an ordinary kitchen cup. That does not make the cup a bad cup. It makes it a **field** cup: chemistry is real, and context is real, and neither is locked. Alone versus a shared pot is a *different* question. It is still deferred, and it is still not a fourth dial here.
 
-Do not read invented percentages into this vignette. For sourced warmth, ritual, and expectation designs, return to Sections 1–3.
+Do not read invented percentages into this vignette. For sourced designs of warmth, ritual, and expectation, return to Sections 1–3.
 :::
 
 ## Door into Decisions
 
-Games in [Chapter 5](../module-05/index.qmd) measure choices—fast blurts versus careful checks, risk and waiting, trust and fairness. Dual-process language on that hub asks when a choice was a quick blurt and when it was a careful check; risk and trust games ask what people do with uncertainty and with other people. This map does not re-teach those games. It only names why context dials matter before you open them.
+Games in [Chapter 5](../module-05/index.qmd) measure choices: fast blurts versus careful checks, risk and waiting, trust and fairness. Dual-process language on that hub asks when a choice was a quick blurt and when it was a careful check. Risk games and trust games ask what people do with uncertainty, and what they do with other people. This map does not re-teach those games. It only names why the context dials matter before you open them.
 
-Study protocols try to **hold these dials still** so chemistry can be talked about honestly.[^4] Opaque mugs, matched temperature, bitterness matching, and washout are not bureaucracy for fun: they are how a lab keeps warmth, ritual theater, and label belief from wearing a lab coat while the leaf is under discussion. Section 3 already pointed at those habits; Section 1 explained why temperature lock earns its keep; Section 2 kept ritual out of the mindfulness aisle. The map's job is to say the quiet part once: if the dials move freely, a "tea improved decisions" headline may be mixing leaf with context.
+Study protocols try to **hold these dials still** so chemistry can be talked about honestly.[^4] Opaque mugs, matched temperature, bitterness matching, and washout are not bureaucracy for the sake of bureaucracy. They are how a lab keeps warmth, ritual theater, and belief in a label from wearing a lab coat while the leaf is under discussion. Section 3 already pointed at those habits. Section 1 explained why a temperature lock earns its keep. Section 2 kept ritual out of the mindfulness aisle. The map's job is to say the quiet part once. If the dials move freely, a headline that "tea improved decisions" may be mixing the leaf with the context.
 
-A messy kitchen cup can still be a good cup. It is just a cup where warmth, ritual, and expectation are uncontrolled. Labs that care about compounds try to lock the dials. Headlines that ignore them are incomplete—see also [Reading a tea study](../../tea-reading-studies.qmd) and [Linkages](../../linkages.qmd). Enjoy the cafe story; when you read a tea decision study, ask whether the dials were held still.
+A messy kitchen cup can still be a good cup. It is just a cup where warmth, ritual, and expectation are uncontrolled. Labs that care about compounds try to lock the dials. Headlines that ignore them are incomplete. See also [Reading a tea study](../../tea-reading-studies.qmd) and [Linkages](../../linkages.qmd). Enjoy the cafe story. When you read a study of tea and decisions, ask whether the dials were held still.
 
 ::: {.callout-note collapse="true" title="More detail: field cup vs lab cup (short)"}
 | | Field / cafe cup | Lab cup (aspirational) |
@@ -81,20 +81,20 @@ A messy kitchen cup can still be a good cup. It is just a cup where warmth, ritu
 | Expectation | Labels, price, vessel theater | Opaque / matched bitterness / cover stories |
 | Chemistry | Real leaf, messy dose | Named dose + washout |
 
-Kitchen troubleshoot dials (too bitter, too flat) are **extraction** dials—different job from these context dials ([Kitchen troubleshoot](../../tea-troubleshoot.qmd)).
+Kitchen troubleshoot dials (too bitter, too flat) are **extraction** dials. They do a different job from these context dials ([Kitchen troubleshoot](../../tea-troubleshoot.qmd)).
 :::
 
 ## Chapter take-home
 
-You now have one picture of Chapter 4: three beginner dials beside leaf chemistry. Warmth can tint social judgment. Ritual can interrupt stress with a script. Expectation can rename the same liquid. None of those claims is re-proven on this page; the siblings own the evidence and the fences. Chapter 5 opens the door into decision games—and into protocols that try to hold the dials still so the leaf can be heard.
+You now have one picture of Chapter 4: three beginner dials beside the chemistry of the leaf. Warmth can tint social judgment. Ritual can interrupt stress with a script. Expectation can rename the same liquid. None of those claims is proved again on this page. The sibling lessons own the evidence and the fences. Chapter 5 opens the door into decision games, and into protocols that try to hold the dials still so the leaf can be heard.
 
-Carry-forward sentence for the rest of the book: **context is part of the dose.**
+The sentence to carry into the rest of the book is this: **context is part of the dose.**
 
 ::: {.callout-tip title="You can stop here"}
-- Three beginner dials: warmth, ritual, expectation—beside leaf chemistry.
-- No new empirics on this page; it maps what Sections 1–3 already taught.
-- Chapter 5 games measure decisions; protocols hold dials still.
-- Carry-forward: **context is part of the dose.**
+- Three beginner dials sit beside leaf chemistry: warmth, ritual, and expectation.
+- There are no new empirics on this page. It maps what Sections 1–3 already taught.
+- Chapter 5 games measure decisions. Protocols hold the dials still.
+- Carry this forward: **context is part of the dose.**
 :::
 
 ---

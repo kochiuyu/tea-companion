@@ -9,35 +9,35 @@ title: "Section 1 · Two plants, one species"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold cultivar tables, genome notes, and garden dials so the open page stays everyday language.
+The superscript numbers are clickable footnotes. You jump to the source, the caret jumps back, and a hover often pops the note. The collapsed "More detail…" boxes hold the cultivar tables, the genome notes, and the garden dials, so the open page can stay in everyday language.
 :::
 
 ## A morning that starts with the wrong question
 
-You stand in a grocery aisle holding two boxes. One says *English Breakfast*. One says *sencha*. Both are "tea." Both will wake you up a little. Yet one will pour dark and malty, the other pale and grassy—and the calm-focus side of the cup will not feel the same.
+You stand in a grocery aisle holding two boxes. One says *English Breakfast*, and the other says *sencha*. Both are called "tea," and both will wake you up a little. When you pour them, though, one runs dark and malty while the other stays pale and grassy, and the calm-focus side of the cup will not feel the same.
 
-Most people ask, "Which brand is better?" A better first question is quieter: **which leaf personality am I holding—and what did the factory do to it?** This section answers the plant half. Processing, brewing, and the three named guests come in the sittings that follow. If aisle labels still feel foggy, skim **[Tea basics](../../tea-basics.qmd)** first, then come back.
+Most people ask, "Which brand is better?" A quieter first question gets you further: **which leaf personality am I holding—and what did the factory do to it?** This section answers the plant half of that question. Processing, brewing, and the three named guests come in the sittings that follow. If the aisle labels still feel foggy, skim **[Tea basics](../../tea-basics.qmd)** first, then come back.
 
-You only need one plain idea for the open story: almost all commercial tea comes from **one plant species** with **two everyday leaf personalities**—a smaller cool-hill style and a larger warm-lowland style. Latin variety names, genome notes, and dense dry-leaf tables live in the foldouts.
+For the open story, you only need one plain idea. Almost all commercial tea comes from **one plant species** with **two everyday leaf personalities**: a smaller cool-hill style, and a larger warm-lowland style. The Latin variety names, the genome notes, and the dense dry-leaf tables live in the foldouts, ready when you want them.
 
 ::: {.callout-tip title="Everyday words for this sitting"}
-- **Tea plant** — the bush behind almost all commercial tea.
-- **Cool-hill style** — smaller leaves, cooler hills on average (China-type personality).
-- **Warm-lowland style** — larger leaves, warm lowlands on average (Assam-type personality).
-- **Garden fine print** — plucking, shade, feeding, and blends that rewrite averages.
+- **Tea plant** — this is the bush behind almost all commercial tea.
+- **Cool-hill style** — these leaves run smaller, and the plants favor cooler hills on average (the China-type personality).
+- **Warm-lowland style** — these leaves run larger, and the plants favor warm lowlands on average (the Assam-type personality).
+- **Garden fine print** — plucking, shade, feeding, and blends can rewrite the averages.
 :::
 
 ## Two everyday leaf personalities
 
-Commercial tea is one species—the tea plant. Think of it as one species with two main "flavors" of plant, the way dogs are one species with many breeds. Botanists have argued for decades about how to name those forms; a classic note still sits behind how growers talk about China-type and Assam-type plants.[^1]
+Commercial tea is one species, the tea plant. Think of it as one species with two main "flavors" of plant, the way dogs are one species with many breeds. Botanists have argued for decades about how to name those forms, and a classic note still sits behind the way growers talk about China-type and Assam-type plants.[^1]
 
-The **cool-hill style** (China type) tends to be a smaller-leaved shrub. It grows more slowly and handles cold better. It is often linked with cooler, higher hills. The **warm-lowland style** (Assam type) tends to be larger-leaved and more tree-like. It grows faster in warm, humid lowlands.[^2][^3]
+The **cool-hill style** (China type) tends to be a smaller-leaved shrub. It grows more slowly, it handles cold better, and it is often linked with cooler, higher hills. The **warm-lowland style** (Assam type) tends to be larger-leaved and more tree-like, and it grows faster in warm, humid lowlands.[^2][^3]
 
-Why should a drinker care? Because dry-leaf chemistry differs on average. Warm-lowland leaves often carry more caffeine and more of the plant compounds that later make black tea dark and full. Cool-hill leaves often carry more of the calm-focus amino acid ([L-theanine](../../glossary.qmd#l-theanine)). Growing conditions and which leaf you pick still matter a lot—so averages are guides, not laws.[^4][^5]
+A drinker should care because the dry-leaf chemistry differs on average. Warm-lowland leaves often carry more caffeine, and more of the plant compounds that later make black tea dark and full. Cool-hill leaves often carry more of the calm-focus amino acid ([L-theanine](../../glossary.qmd#l-theanine)). Growing conditions, and which leaf you pick, still matter a lot, so the averages are guides rather than laws.[^4][^5]
 
-Picture a small, hardy bush on a cool hillside versus a larger, leafy plant in a hot lowland garden. That contrast is the China-type vs Assam-type story. One careful survey of world cultivars found that the Assam group showed the widest spread in tannin and caffeine—and that cultivars with especially high tannin appeared only in the Assam group.[^4] Useful breeding material, and a reminder that "Assam" is not a single cookie-cutter plant.
+Picture a small, hardy bush on a cool hillside set beside a larger, leafy plant in a hot lowland garden. That contrast is the China-type versus Assam-type story. One careful survey of world cultivars found that the Assam group showed the widest spread in tannin and caffeine, and that cultivars with especially high tannin appeared only in the Assam group.[^4] That spread is useful breeding material, and it is also a reminder that "Assam" is not a single cookie-cutter plant.
 
-The draft genome of the cool-hill variety also helps explain why flavor chemistry is not a marketing slogan: the plant's evolutionary path left it unusually rich in pathways that make caffeine, theanine, and catechins—the same three families Chapter 1 keeps returning to.[^8]
+The draft genome of the cool-hill variety also helps explain why flavor chemistry is not a marketing slogan. The plant's evolutionary path left it unusually rich in the pathways that make caffeine, theanine, and catechins, which are the same three families Chapter 1 keeps returning to.[^8]
 
 ::: {.callout-note collapse="true" title="More detail: drinker's comparison table (dry-leaf ranges)"}
 | | China type (var. *sinensis*) | Assam type (var. *assamica*) | Source trail |
@@ -53,75 +53,75 @@ The draft genome of the cool-hill variety also helps explain why flavor chemistr
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what the cultivar survey actually measured"}
-Takeda's 1994 Japan Agricultural Research Quarterly survey compared caffeine and tannin across tea cultivars used in breeding.[^4] Mean caffeine sat near **4.09%** dry weight for Assam-group material versus about **3.11%** for China-group material—a real average gap, not a guarantee for any one garden. The same survey's high-tannin (above ~25% dry weight) outliers appeared only in the Assam group, which is why breeders still mine *assamica* when they want polyphenol punch.
+Takeda's 1994 Japan Agricultural Research Quarterly survey compared caffeine and tannin across the tea cultivars used in breeding.[^4] Mean caffeine sat near **4.09%** dry weight for Assam-group material, versus about **3.11%** for China-group material. That is a real average gap, and it is not a guarantee for any one garden. The same survey's high-tannin outliers (above ~25% dry weight) appeared only in the Assam group, which is why breeders still mine *assamica* when they want polyphenol punch.
 
-A separate East African clonal study under matched field design likewise found Assam-type clones richer in catechins and total polyphenols than chinary types—useful because it holds growing site roughly constant.[^6]
+A separate East African clonal study, run under a matched field design, likewise found Assam-type clones richer in catechins and total polyphenols than chinary types. The comparison is useful because it holds the growing site roughly constant.[^6]
 
-**What this does *not* say:** your supermarket "Assam" blend is not a single genotype. Blending, plucking standard (two leaves and a bud vs coarser leaf), shade, and fertilizer can move caffeine by percentage points. Secondary notes already flag a shaded, well-fed China-type bud near **4.5%** caffeine and a poorly fed mature Assam leaf near **2.5%**. Averages lean Assam-higher; gardens write the fine print.
+**What this does *not* say:** your supermarket "Assam" blend is not a single genotype. Blending, the plucking standard (two leaves and a bud versus coarser leaf), shade, and fertilizer can move caffeine by percentage points. Secondary notes already flag a shaded, well-fed China-type bud near **4.5%** caffeine, and a poorly fed mature Assam leaf near **2.5%**. The averages lean Assam-higher, while the gardens write the fine print.
 :::
 
 ## The myth of "Assam always doubles China caffeine"
 
-Here is a common story people tell: "Assam always has far more caffeine." Average figures often put the warm-lowland style higher—but growing conditions and which leaf you pick matter a lot. A well-fed, shaded cool-hill bud can out-caffeine a neglected warm-lowland leaf in the counter-examples below. So "Assam = double caffeine" is too blunt.[^4]
+A common story goes like this: "Assam always has far more caffeine." Average figures often put the warm-lowland style higher, but growing conditions and which leaf you pick matter a lot. In the counter-examples below, a well-fed, shaded cool-hill bud can out-caffeine a neglected warm-lowland leaf. The slogan "Assam = double caffeine" is too blunt for that reason.[^4]
 
 ::: {.callout-note collapse="true" title="More detail: the garden dials that rewrite averages"}
-Three dials move dry-leaf chemistry as much as variety labels do:
+Three dials move dry-leaf chemistry as much as the variety labels do.
 
-1. **Which leaf you pick.** Young buds and the first leaves are usually richer in caffeine and amino acids than older, coarser leaf. "Two leaves and a bud" is not poetry—it is a plucking standard that changes the cup.
-2. **Shade and nitrogen.** Shading (famous in Japanese Gyokuro and tencha for matcha) and generous feeding can lift L-theanine and, in some settings, caffeine in China-type material. That is one reason a shaded China-type bud can out-caffeine a neglected Assam leaf in the counter-example below.
+1. **Which leaf you pick.** Young buds and the first leaves are usually richer in caffeine and amino acids than older, coarser leaf. "Two leaves and a bud" is not poetry. It is a plucking standard, and that standard changes the cup.
+2. **Shade and nitrogen.** Shading (famous in Japanese Gyokuro and in the tencha used for matcha) and generous feeding can lift L-theanine and, in some settings, caffeine in China-type material. That is one reason a shaded China-type bud can out-caffeine a neglected Assam leaf in the counter-example below.
 3. **Blending.** Grocery "Assam" or "English Breakfast" is often a blend across gardens and seasons. The label names a *style*, not a single bush.
 
-Cold hardiness is another quiet dial: Ban and colleagues' transcriptome work on cold acclimation helps explain why China-type bushes survive colder hills while Assam-type material prefers warmer basins.[^7] Caffeine biosynthesis reviews (Ashihara and colleagues) keep the biochemical map of how the plant makes the stimulant in the first place.[^9]
+Cold hardiness is another quiet dial. Ban and colleagues' transcriptome work on cold acclimation helps explain why China-type bushes survive colder hills, while Assam-type material prefers warmer basins.[^7] The caffeine biosynthesis reviews (Ashihara and colleagues) keep the biochemical map of how the plant makes the stimulant in the first place.[^9]
 
-Takeda's Assam-group mean caffeine around **4.09%** versus about **3.11%** for China-group material is the survey gap behind the myth—not a passport stamp for every tin.[^4]
+Takeda's Assam-group mean caffeine, around **4.09%**, versus about **3.11%** for China-group material, is the survey gap behind the myth. It is not a passport stamp for every tin.[^4]
 :::
 
 ## Why this plant story matters for black tea later
 
-And there is one more plant-to-cup thread worth remembering for later: higher catechin levels in the warm-lowland style give more raw material for the dark pigments of black tea. That is why Assam-type leaves are such a natural fit for strong black-tea processing—a bridge we will meet again on the [Linkages](../../linkages.qmd) page and in [Chapter 1 · Section 2](02-processing.qmd). East African clonal work likewise often finds Assam-type material richer in catechins and total polyphenols than chinary types under the same field design.[^6]
+One more plant-to-cup thread is worth remembering for later. Higher catechin levels in the warm-lowland style give more raw material for the dark pigments of black tea. That is why Assam-type leaves are such a natural fit for strong black-tea processing, a bridge we will meet again on the [Linkages](../../linkages.qmd) page and in [Chapter 1 · Section 2](02-processing.qmd). East African clonal work likewise often finds Assam-type material richer in catechins and total polyphenols than chinary types, when both grow under the same field design.[^6]
 
 ::: {.callout-tip collapse="true" title="More detail: mapping plants to aisle words"}
-Quick bridges to everyday labels (full map in [Tea basics](../../tea-basics.qmd)):
+These are quick bridges from the plant story to everyday labels. The full map sits in [Tea basics](../../tea-basics.qmd).
 
-- **English Breakfast / Assam breakfast blends** — often lean Assam-type leaf and black processing; expect malt, body, and a more familiar caffeine feel.
-- **Sencha / many Chinese greens** — often China-type leaf with heat that *stops* browning early; expect grassy/vegetal notes and more intact catechins.
-- **Matcha / Gyokuro** — usually shaded China-type material; L-theanine can climb; matcha also means you ingest the leaf powder, not only an infusion.
-- **Herbal "tea"** — usually *not* *Camellia sinensis* (peppermint, rooibos, chamomile). Different plant, different chemistry.
+- **English Breakfast / Assam breakfast blends** often lean on Assam-type leaf and black processing, so you can expect malt, body, and a more familiar caffeine feel.
+- **Sencha / many Chinese greens** often use China-type leaf, with heat that *stops* browning early, so you can expect grassy or vegetal notes and more intact catechins.
+- **Matcha / Gyokuro** are usually shaded China-type material, so L-theanine can climb. Matcha also means you ingest the leaf powder, and not only an infusion.
+- **Herbal "tea"** is usually *not* *Camellia sinensis* (peppermint, rooibos, or chamomile). It is a different plant, and it brings different chemistry.
 
-None of those label shortcuts replace reading the tin—but they stop the aisle from feeling random.
+None of those label shortcuts replace reading the tin. They do keep the aisle from feeling random.
 :::
 
 
 ## Story in one minute
 
-One species. Two everyday leaf personalities. Cool-hill bushes lean smaller leaves and—on average—more calm-focus amino acid. Warm-lowland plants lean larger leaves and—on average—more caffeine and the plant compounds that later make black tea bold. Your supermarket tin may ignore all of that and still taste wonderful, because gardens, plucking, shade, and blends rewrite averages. The point of this sitting is not to memorize a passport for every leaf. It is to stop treating "tea" as one chemical object.
+The story fits in a minute once the pieces are in order. There is one species, and there are two everyday leaf personalities. Cool-hill bushes lean toward smaller leaves and, on average, more of the calm-focus amino acid. Warm-lowland plants lean toward larger leaves and, on average, more caffeine and more of the plant compounds that later make black tea bold. Your supermarket tin may ignore all of that and still taste wonderful, because gardens, plucking, shade, and blends rewrite the averages. The point of this sitting is not to memorize a passport for every leaf. It is to stop treating "tea" as one chemical object.
 
 ::: {.callout-tip title="You can stop here"}
-- Almost all commercial tea is one plant species with two everyday leaf personalities.
-- Averages lean Assam-higher for caffeine and plant bitter/color compounds; China-higher for calm-focus theanine—gardens rewrite the fine print.
-- Aisle words are shortcuts; [Tea basics](../../tea-basics.qmd) and the [Cup reference](../../cup-reference.qmd) keep labels honest.
+- Almost all commercial tea is one plant species, and that species shows up as two everyday leaf personalities.
+- The averages lean Assam-higher for caffeine and for the plant compounds tied to bitterness and color, and they lean China-higher for calm-focus theanine, while the gardens rewrite the fine print.
+- Aisle words are shortcuts, and [Tea basics](../../tea-basics.qmd) together with the [Cup reference](../../cup-reference.qmd) keep those labels honest.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
-- If you want a calmer-focus leaning cup, cool-hill greens and shaded styles are a smarter *starting bet* than a bargain Assam breakfast bag—then still check the [Cup reference](../../cup-reference.qmd).
+- If you want a cup that leans toward calmer focus, cool-hill greens and shaded styles are a smarter *starting bet* than a bargain Assam breakfast bag, and you should still check the [Cup reference](../../cup-reference.qmd).
 - If you want malt and punch, Assam-type black processing has the plant chemistry on its side.
-- If someone insists Assam always doubles China caffeine, you now have the survey averages *and* the garden counter-examples.
+- If someone insists that Assam always doubles China caffeine, you now have the survey averages *and* the garden counter-examples.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: a worked 'two boxes' example"}
-**Box A — English Breakfast.** Often Assam-leaning leaf + black oxidation. Expect darker pigments (from [Chapter 1 · Section 2](02-processing.qmd)), familiar caffeine feel, usually modest L-theanine in a quick steep ([Chapter 1 · Section 3](03-brewing.qmd)).
+**Box A — English Breakfast.** This box often pairs Assam-leaning leaf with black oxidation. You can expect darker pigments (from [Chapter 1 · Section 2](02-processing.qmd)), a familiar caffeine feel, and usually modest L-theanine in a quick steep ([Chapter 1 · Section 3](03-brewing.qmd)).
 
-**Box B — Sencha.** Often China-type leaf + early heat kill. Expect simple catechins preserved, grassy liquor, and a different EGCG-to-caffeine balance if you brew near ~80°C.
+**Box B — Sencha.** This box often pairs China-type leaf with an early heat kill. You can expect the simple catechins to stay preserved, a grassy liquor, and a different EGCG-to-caffeine balance if you brew near ~80°C.
 
-Same word on the shelf ("tea"). Different plant-style *tendencies* plus different processing forks. That is why Chapter 1 is four sittings, not one paragraph.
+The same word sits on the shelf ("tea"). The plant-style *tendencies* differ, and so do the processing forks. That is why Chapter 1 is four sittings, rather than one paragraph.
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 1 · Section 1"}
-1. Species first: *Camellia sinensis* almost always.[^1]
-2. Style second: China-type vs Assam-type averages.[^4]
-3. Garden third: pluck, shade, feed, blend.
-4. Aisle fourth: [Tea basics](../../tea-basics.qmd) for labels.
-5. Milligrams fifth: [Cup reference](../../cup-reference.qmd) before Chapter 2 claims.
+1. Start with the species: this leaf is almost always *Camellia sinensis*.[^1]
+2. Then place the style: China-type and Assam-type averages are not the same thing.[^4]
+3. Then remember the garden: pluck, shade, feed, and blend all rewrite the leaf.
+4. Then read the aisle: [Tea basics](../../tea-basics.qmd) is where the labels get unpacked.
+5. Then check the milligrams in the [Cup reference](../../cup-reference.qmd) before you carry a claim into Chapter 2.
 :::
 
 ---

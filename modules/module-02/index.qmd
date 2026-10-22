@@ -4,68 +4,68 @@ title: "Chapter 2 · Body, Brain & Mood"
 
 {{< include../../_includes/lang-switcher/module-02.en.qmd >}}
 
-Chapter 1 left three guests in your bloodstream: **caffeine** (the familiar wake-up compound), **[L-theanine](../../glossary.qmd#l-theanine)** (a calming amino acid found in tea, not coffee), and—especially in green tea—[EGCG](../../glossary.qmd#egcg). Now comes the question that makes people switch from coffee to tea, or defend the switch to friends:
+Chapter 1 left three guests in your bloodstream: **caffeine** (the familiar wake-up compound), **[L-theanine](../../glossary.qmd#l-theanine)** (a calming amino acid found in tea, not coffee), and—especially in green tea—[EGCG](../../glossary.qmd#egcg). From there comes the question that makes people switch from coffee to tea, or defend the switch to friends.
 
 **Why does tea so often feel awake *and* calmer—while coffee can feel like a jolt?**
 
-**Read the story; open More detail boxes only when curious.** This chapter follows that feeling into the body—in plain language. First we meet the brain's "time for sleep" signal and how caffeine blocks it, while L-theanine tends to support calm, controlled attention. Then we look at brain-wave patterns researchers record—without needing the lab equations. Then stress chemistry. Then quiet body signals such as heart-beat rhythm and tiny stress-sweat changes. Alcohol appears as a contrast: it slows careful control rather than sharpening it.
+**Read the story; open More detail boxes only when curious.** This chapter follows that feeling into the body, and it stays in plain language. First you meet the brain's "time for sleep" signal, and you see how caffeine blocks it, while L-theanine tends to support calm, controlled attention. Then you look at the brain-wave patterns researchers record, without needing the lab equations. Then comes stress chemistry. After that come quiet body signals, such as heart-beat rhythm and tiny stress-sweat changes. Alcohol appears as a contrast: it slows careful control rather than sharpening it.
 
-Picture two friends at the same office hour. One finishes a large coffee and answers email at speed—fingers fast, shoulders high. The other finishes a mug of tea and also works, but the room feels quieter. Both are awake. Only one looks ready to snap at a Slack ping. That everyday contrast is what this chapter tries to explain—without slang and without miracle claims.
+Picture two friends at the same office hour. One finishes a large coffee and answers email at speed, with fingers fast and shoulders high. The other finishes a mug of tea and also works, but the room feels quieter. Both are awake. Only one looks ready to snap at a Slack ping. That everyday contrast is what this chapter tries to explain, without slang and without miracle claims.
 
-You do **not** need receptor names or wave frequencies to follow the story. Those details live in collapsed **More detail** boxes. Tap a footnote marker to jump to the source, then tap the caret to jump back. Hover often shows a popup too.
+To follow the story, you do **not** need receptor names or wave frequencies. Those details live in the collapsed **More detail** boxes. Tap a footnote marker to jump to the source, then tap the caret to jump back. A hover often shows a popup too.
 
 ::: {.callout-tip title="Everyday words for this journey"}
-- **Sleepy signal** — the chemical note that says "slow down"; caffeine blocks it.
-- **Calm focus** — awake without the wired edge; tea's dual story aims here.
-- **Stress chemistry** — hormones and body meters that rise when the day is loud.
-- **Quiet body meters** — heart-beat flexibility, tiny sweat changes, pupil size—things labs measure that you might not feel.
+- **Sleepy signal** — the chemical note that says "slow down," which caffeine blocks.
+- **Calm focus** — awake without the wired edge, which is where tea's dual story aims.
+- **Stress chemistry** — the hormones and body meters that rise when the day is loud.
+- **Quiet body meters** — heart-beat flexibility, tiny sweat changes, and pupil size, the things labs measure that you might not feel.
 :::
 
 ::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser study snapshots—receptor names, wave bands, hormone tables, milligrams—so the open page stays a story.
+Superscript numbers are clickable footnotes: a click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold the denser study snapshots—receptor names, wave bands, hormone tables, milligrams—so the open page can stay a story.
 :::
 
 ## The four sections
 
-Each sitting is one section of the chapter. The open pages stay lay-friendly; open a foldout when you want the science depth.
+Each sitting is one section of the chapter. The open pages stay lay-friendly, and you open a foldout when you want the science depth.
 
 1. **[Gas pedals, brakes, and a busy road](01-brain-action.qmd)** — why caffeine wakes you, how L-theanine softens the edge, and why alcohol is a different story.
-2. **[Listening to the brain's tempo](02-brainwaves.qmd)** — calm-focus vs busy-alert vs drowsy rhythms; rest vs hard work.
-3. **[When the fire alarm rings](03-stress-hormones.qmd)** — stress chemistry, habit vs real stress, and what L-theanine studies actually measured.
-4. **[What the body quietly admits](04-body-signals.qmd)** — heart flexibility, pupils, tiny stress sweat; "wired" has a skin signature.
+2. **[Listening to the brain's tempo](02-brainwaves.qmd)** — calm-focus, busy-alert, and drowsy rhythms, and the difference between rest and hard work.
+3. **[When the fire alarm rings](03-stress-hormones.qmd)** — stress chemistry, the difference between habit and real stress, and what L-theanine studies actually measured.
+4. **[What the body quietly admits](04-body-signals.qmd)** — heart flexibility, pupils, and tiny stress sweat, and the way "wired" has a skin signature.
 
 **Start with section 1:** [Gas pedals, brakes, and a busy road](01-brain-action.qmd)
 
 ## Putting the dual story in one picture
 
-By the end of the four lessons, the dual story should feel less like a slogan and more like a chain:
+By the end of the four lessons, the dual story should feel less like a slogan and more like a chain.
 
-1. Caffeine lifts the sleepy brake so the mental road stays busy.[^1]  
+1. Caffeine lifts the sleepy brake, so the mental road stays busy.[^1]  
 2. L-theanine gently turns down excess "go" chatter and supports a calmer attentional style.[^2][^3]  
-3. At rest, that often shows up as a calmer brain rhythm; under hard work, as better selective attention rather than sleepy blankness.[^4][^5]  
+3. At rest, that often shows up as a calmer brain rhythm. Under hard work, it shows up as better selective attention rather than sleepy blankness.[^4][^5]  
 4. Under stress, L-theanine-linked drinks more often keep heart rate, sweat, and stress markers nearer baseline than caffeine alone.[^6][^7]  
 5. Alcohol, by contrast, floods the "slow everything down" side and weakens the careful monitoring you need for hard choices.[^8][^9][^10]
 
-Why does that matter for a smart high-school or early-college reader? Because it explains a familiar experience without magic. Tea is not "coffee minus the bad parts" by advertising. It is usually **less caffeine than a large coffee** plus **a second compound coffee does not share**, arriving on a **delayed clock**. Chapter 1's 30–50 minute lag is not trivia—it is why "I just sipped" and "I feel focused" are different moments.
+Why does that matter for a smart high-school or early-college reader? It explains a familiar experience without magic. Tea is not "coffee minus the bad parts" by advertising. It is usually **less caffeine than a large coffee**, plus **a second compound coffee does not share**, arriving on a **delayed clock**. Chapter 1's 30–50 minute lag is not trivia. It is why "I just sipped" and "I feel focused" are different moments.
 
-One more honesty check: most cognitive trials use purified L-theanine and caffeine in known milligram doses. Your grocery bag is a mixture that varies by leaf, brand, and steep. The [Cup reference](../../cup-reference.qmd) is there so lab doses and mug doses do not get confused.
+One more honesty check is worth keeping nearby. Most cognitive trials use purified L-theanine and caffeine in known milligram doses. Your grocery bag is a mixture that varies by leaf, brand, and steep. The [Cup reference](../../cup-reference.qmd) is there so lab doses and mug doses do not get confused.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: dual-story checklist (with science labels)"}
-1. Caffeine ≈ adenosine-receptor antagonism (lifts the sleepy brake).[^1]
-2. L-theanine ≈ weak glutamate antagonism + calmer attention—not a direct GABA agonist.[^2][^3]
-3. At rest → more alpha; under load → better selective attention, not sleepy blankness.[^4][^5]
-4. Under stress → heart rate, sweat, and stress markers nearer baseline than caffeine alone in cited designs.[^6][^7]
-5. Alcohol ≈ more GABA_A inhibition + less NMDA function—floods careful monitoring.[^8][^9][^10]
-6. Lab milligrams ≠ grocery mug—use the [Cup reference](../../cup-reference.qmd).
+1. Caffeine ≈ adenosine-receptor antagonism, which lifts the sleepy brake.[^1]
+2. L-theanine ≈ weak glutamate antagonism plus calmer attention, and it is not a direct GABA agonist.[^2][^3]
+3. At rest → more alpha. Under load → better selective attention, not sleepy blankness.[^4][^5]
+4. Under stress → heart rate, sweat, and stress markers nearer baseline than caffeine alone, in the cited designs.[^6][^7]
+5. Alcohol ≈ more GABA_A inhibition plus less NMDA function, which floods careful monitoring.[^8][^9][^10]
+6. Lab milligrams ≠ grocery mug, so use the [Cup reference](../../cup-reference.qmd).
 :::
 
 ## Looking ahead
 
-You have followed the cup into the brain, the stress loop, and the body's quiet meters. Tea's dual chemistry helps explain a calmer kind of alertness—without promising magic.
+You have followed the cup into the brain, the stress loop, and the body's quiet meters. Tea's dual chemistry helps explain a calmer kind of alertness, without promising magic.
 
-But tea is older than lab machines. It remade trade balances, sat in monasteries, warmed hands in trust experiments, and still offers a three-step brewing break when the day is loud. Chapter 3 zooms out on purpose.
+Tea is older than lab machines. It remade trade balances, sat in monasteries, warmed hands in trust experiments, and still offers a three-step brewing break when the day is loud. Chapter 3 zooms out on purpose.
 
-Open [Chapter 3: History & Culture](../module-03/index.qmd) when you are ready—the leaf is about to leave the lab and enter human history.
+Open [Chapter 3: History & Culture](../module-03/index.qmd) when you are ready. The leaf is about to leave the lab and enter human history.
 
 ---
 

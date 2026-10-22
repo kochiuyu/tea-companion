@@ -4,29 +4,29 @@ title: "Tea labels"
 {{< include _includes/lang-switcher/tea-labels.en.qmd >}}
 
 
-[Tea basics](tea-basics.qmd) got you a first mug and three sample names. This page is the **shelf and cafe dictionary**—Chinese, Japanese, and Western everyday labels—plus a **classification map** of the six manufactured types, **grade languages** (particle size vs quality-tier labels), and a **thin** strip on common teapots and brew kits (what the gear *is*, not extraction chemistry).
+[Tea basics](tea-basics.qmd) got you a first mug and three sample names. This page is the **shelf and cafe dictionary**. It covers Chinese, Japanese, and Western everyday labels, a **classification map** of the six manufactured types, the **grade languages** (particle size versus quality-tier labels), and a **thin** strip on common teapots and brew kits. The strip tells you what the gear *is*. It does not teach extraction chemistry.
 
 It is not a second Chapter 1, not a milligram table, not a kitchen complaint sheet, and not a shopping or “best of” ranking list. Typical milligrams live on the [Cup reference](cup-reference.qmd). Bitter or flat mugs go to [Kitchen troubleshoot](tea-troubleshoot.qmd). Culture depth for Chaoshan gongfu and Hong Kong milk tea lives in [Chapter 3 · Section 4 — Regional scripts](modules/module-03/04-regional-scripts.qmd).
 
-Use **this** page when a box or menu still feels foggy after Basics—especially when you need to match a name to a type, or to ask whether a “grade” word is about leaf size or a quality-tier label.
+Use **this** page when a box or menu still feels foggy after Basics. That is especially true when you need to match a name to a type, or to ask whether a “grade” word is about leaf size or a quality-tier label.
 
 Tap a footnote number to jump to the source, then the caret to jump back. Hover often shows a popup.
 
 ::: {.callout-tip title="5-minute labels path"}
-1. **Pick a block** — Chinese, Japanese, or Western / cafe names.
-2. **Read the usual-meaning row** — translation sheet, not a brand promise.
-3. **Type map?** — match the box to the six manufactured types below.
-4. **Grade word?** — ask particle / size vs quality-tier label (neither is a moral ranking).
-5. **Herbals?** — confirm whether the drink is tea-plant leaf or another plant.
-6. **Kit name?** — match the thin strip below → [Kitchen troubleshoot](tea-troubleshoot.qmd) or [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) for dials; [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd) if the question is culture staging.
+1. **Pick a block.** Choose Chinese names, Japanese names, or Western and cafe names.
+2. **Read the usual-meaning row.** Treat it as a translation sheet, not a brand promise.
+3. **Type map?** Match the box to the six manufactured types below.
+4. **Grade word?** Ask whether it is a particle or size word, or a quality-tier label. Neither is a moral ranking.
+5. **Herbals?** Confirm whether the drink is tea-plant leaf or another plant.
+6. **Kit name?** Match the thin strip below. For the dials, open [Kitchen troubleshoot](tea-troubleshoot.qmd) or [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd). If the question is culture staging, open [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd).
 :::
 
 ::: {.callout-tip title="Words to know on this page"}
-- **Style name** — a processing or tradition label (sencha, Longjing, oolong…), usually still the tea plant.
-- **Blend / flavor recipe** — a house mix or aroma add-on (English Breakfast, Earl Grey).
-- **Origin label** — a place name on the box (Assam, Darjeeling, Ceylon…).
-- **Type-name** — which of the six manufactured types (green, yellow, white, oolong, black, dark) the box sits under.[^3]
-- **Grade language** — may mean **(a)** particle / size words (OP, BOP, fannings, dust; orthodox vs CTC) or **(b)** quality-tier labels (e.g. 特級 / 一級 on some Chinese packs). Neither is a different species, and neither is a shopping “best of” list.
+- **Style name.** A processing or tradition label (sencha, Longjing, oolong…). It is usually still the tea plant.
+- **Blend / flavor recipe.** A house mix or aroma add-on (English Breakfast, Earl Grey).
+- **Origin label.** A place name on the box (Assam, Darjeeling, Ceylon…).
+- **Type-name.** Which of the six manufactured types (green, yellow, white, oolong, black, dark) the box sits under.[^3]
+- **Grade language.** It may mean **(a)** particle or size words (OP, BOP, fannings, dust; orthodox versus CTC) or **(b)** quality-tier labels (e.g. 特級 / 一級 on some Chinese packs). Neither is a different species, and neither is a shopping “best of” list.
 :::
 
 ---
@@ -35,13 +35,13 @@ Tap a footnote number to jump to the source, then the caret to jump back. Hover 
 
 Labels mix five things:
 
-1. **Place** — Assam, Darjeeling, Yunnan…
-2. **Factory style** — sencha, Longjing, matcha…
-3. **Blend or flavor recipe** — English Breakfast, Earl Grey, jasmine green…
-4. **Type-name** — green, oolong, black, white, yellow, or dark (the classification map below)
-5. **Grade language** — particle / size words (Orange Pekoe, fannings, dust) *or* quality-tier labels on some packs—see [Grade languages](#grades)
+1. **Place.** Examples include Assam, Darjeeling, and Yunnan.
+2. **Factory style.** Examples include sencha, Longjing, and matcha.
+3. **Blend or flavor recipe.** Examples include English Breakfast, Earl Grey, and jasmine green.
+4. **Type-name.** Green, oolong, black, white, yellow, or dark (the classification map below).
+5. **Grade language.** Particle or size words (Orange Pekoe, fannings, dust), *or* quality-tier labels on some packs. See [Grade languages](#grades).
 
-The tables below are a **usual-meaning** sheet. Brands disagree; recipes vary. When you want *why* green and black diverge chemically, open [Chapter 1 · Section 2 — Processing](modules/module-01/02-processing.qmd). When you want a first mug again, open [Tea basics](tea-basics.qmd).
+The tables below are a **usual-meaning** sheet. Brands disagree, and recipes vary. When you want *why* green and black diverge chemically, open [Chapter 1 · Section 2 — Processing](modules/module-01/02-processing.qmd). When you want a first mug again, open [Tea basics](tea-basics.qmd).
 
 ---
 
@@ -49,20 +49,20 @@ The tables below are a **usual-meaning** sheet. Brands disagree; recipes vary. W
 
 | Label you see | What it usually means | Bridge |
 | --- | --- | --- |
-| **Longjing / Dragon Well** | A well-known **pan-fired Chinese green** style name on many menus | Sits on **green** in the map below → [Chapter 1](modules/module-01/index.qmd) |
-| **Jasmine green** | Green tea **scented** with jasmine blossoms; base is still tea-plant green | Scenting ≠ herbal tisane; **green** map row |
-| **Gunpowder** | Green tea rolled into small pellets (a style name) | **Green** path |
-| **Tieguanyin** | A famous **oolong** tradition name (oxidation band varies by producer) | **Oolong** map row; middle of the green↔black ruler[^1] |
-| **Baozhong** | A lighter **oolong** style name often linked with Taiwan | **Oolong** band |
-| **Da Hong Pao** | A famous **Wuyi rock-oolong** menu/shelf name | **Oolong** band—no legend essay here |
-| **Keemun** | A Chinese **black** tea style name common in blends and straight cups | **Black** map row[^1] |
-| **Yunnan** (as a black-tea word) | Origin / style label for many malty Chinese blacks | Origin ≠ different species; often **black** path |
-| **Lapsang Souchong** | **Smoky** black tea (pine-smoke character in the usual trade picture) | Flavored/smoky **black** path[^1] |
-| **Pu-erh / dark tea** | Yunnan (and related) dark teas with microbial aging; **raw (sheng)** vs **ripe (shou)** methods differ | **Dark** map row; true-fermentation exception[^2] |
-| **White tea** | Light-handled tea-plant leaf; delicate cup in the usual picture | **White** map row; minimal factory drama[^1] |
-| **Yellow tea** | Rare outside China; green-like path with an extra “smothering” step in trade lists | **Yellow** map row; six-type lists[^3] |
+| **Longjing / Dragon Well** | A well-known **pan-fired Chinese green** style name, the kind that shows up on many menus | It sits on **green** in the map below. See [Chapter 1](modules/module-01/index.qmd). |
+| **Jasmine green** | Green tea **scented** with jasmine blossoms. The base is still tea-plant green | Scenting is not the same thing as an herbal tisane. This is the **green** map row. |
+| **Gunpowder** | Green tea rolled into small pellets. The word is a style name | This is the **green** path. |
+| **Tieguanyin** | A famous **oolong** tradition name. The oxidation band varies by producer | The **oolong** map row, in the middle of the green↔black ruler.[^1] |
+| **Baozhong** | A lighter **oolong** style name, often linked with Taiwan | The **oolong** band. |
+| **Da Hong Pao** | A famous **Wuyi rock-oolong** name on menus and shelves | The **oolong** band. This page does not tell the legend. |
+| **Keemun** | A Chinese **black** tea style name, common in blends and in cups drunk on their own | The **black** map row.[^1] |
+| **Yunnan** (as a black-tea word) | An origin or style label for many malty Chinese black teas | An origin is not a different species. These often follow the **black** path. |
+| **Lapsang Souchong** | **Smoky** black tea. In the usual trade picture it has a pine-smoke character | A flavored or smoky **black** path.[^1] |
+| **Pu-erh / dark tea** | Yunnan (and related) dark teas with microbial aging. The **raw (sheng)** and **ripe (shou)** methods differ | The **dark** map row. This is the true-fermentation exception.[^2] |
+| **White tea** | Light-handled tea-plant leaf. In the usual picture the cup is delicate | The **white** map row, with minimal factory drama.[^1] |
+| **Yellow tea** | Rare outside China. Trade lists give it a green-like path with an extra “smothering” step | The **yellow** map row, in the six-type lists.[^3] |
 
-Gongfu as **everyday social staging** (small pot, many short pours) is a culture script—open [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd). The kit strip below only names the gear.
+Gongfu as **everyday social staging** (a small pot, and many short pours) is a culture script. Open [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd) for that script. The kit strip below only names the gear.
 
 ---
 
@@ -70,14 +70,14 @@ Gongfu as **everyday social staging** (small pot, many short pours) is a culture
 
 | Label you see | What it usually means | Bridge |
 | --- | --- | --- |
-| **Sencha** | Everyday Japanese **green**: leaves typically **steamed**, then rolled and dried | **Green** map row; Basics mini-sheet[^4] |
-| **Matcha** | Shade-grown green processed into **fine powder** you whisk into water (you drink the leaf) | **Green** path; often higher L-theanine in cup ranges → [Cup reference](cup-reference.qmd)[^5] |
-| **Gyokuro** | Shaded Japanese **green** (steeped leaf, not whisked powder)—a style + shade-path name, not an OP particle grade | Shade note in [Chapter 1 · Section 1](modules/module-01/01-plants.qmd); Cup for ranges[^5] |
-| **Tencha** | Shade-grown leaf used before stone-milling into matcha | Matcha bridge; **green** path[^4] |
-| **Genmaicha** | Green tea mixed with **roasted rice** (still a tea-plant base unless the label says otherwise) | **Green** path + rice |
-| **Houjicha** | **Roasted** Japanese green (toasty cup in the usual picture) | **Green** path, roasted |
+| **Sencha** | Everyday Japanese **green**. The leaves are typically **steamed**, then rolled and dried | The **green** map row, and the Basics mini-sheet.[^4] |
+| **Matcha** | Shade-grown green processed into **fine powder**. You whisk it into water, and you drink the leaf | The **green** path. Cup ranges often show higher L-theanine. See the [Cup reference](cup-reference.qmd).[^5] |
+| **Gyokuro** | Shaded Japanese **green** (steeped leaf, not whisked powder). It is a style and shade-path name, not an OP particle grade | The shade note is in [Chapter 1 · Section 1](modules/module-01/01-plants.qmd). For ranges, use the Cup page.[^5] |
+| **Tencha** | Shade-grown leaf, used before it is stone-milled into matcha | The bridge to matcha, on the **green** path.[^4] |
+| **Genmaicha** | Green tea mixed with **roasted rice**. It is still a tea-plant base unless the label says otherwise | The **green** path, with rice added. |
+| **Houjicha** | **Roasted** Japanese green. In the usual picture the cup is toasty | The **green** path, roasted. |
 
-Sencha / matcha / tencha processing notes match Japanese industry type pages cited on Basics.[^4]
+Processing notes for sencha, matcha, and tencha match the Japanese industry type pages cited on Basics.[^4]
 
 ---
 
@@ -85,84 +85,85 @@ Sencha / matcha / tencha processing notes match Japanese industry type pages cit
 
 | Label you see | What it usually means | Bridge |
 | --- | --- | --- |
-| **English Breakfast** | A **blend** of black teas for a strong morning cup (often Assam and/or other robust blacks; recipes vary) | Usually **black** path; Cup for everyday caffeine ranges[^1] |
-| **Earl Grey** | Usually **black tea flavored with bergamot** (citrus aroma) | Flavoring on a **black** path—not a new plant[^1] |
-| **Assam** | Black tea from Assam (northeast India); often malty and strong in the usual picture | Origin + Assam-type plant tip in [Chapter 1 · Section 1](modules/module-01/01-plants.qmd); **black** map row |
-| **Darjeeling** | Tea from Darjeeling (Himalayan foothills); often delicate, high-grown; sold as black though some lots sit lighter | Geography + processing—not a separate species |
-| **Ceylon / Kenyan** | Black teas named for origin (Sri Lanka; Kenya)—common blend building blocks | Origin labels ≠ different species; often **black**[^1] |
-| **Nilgiri** | South Indian origin label you may see on blacks and blends | Origin word only here |
-| **Masala chai / chai latte** | Spiced **black** tea with milk and sweetener in many cafe recipes; base is still tea-plant black unless the label is herbal | Recipe family, not a species |
-| **Milk tea / Hong Kong–style milk tea** | Strong black tea (often fine-grade / CTC) shaken or pulled with milk | Culture craft → [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd) |
-| **Bubble / boba tea** | Cafe drink family: a tea (or milk-tea) base plus toppings | Cafe cousin—not a factory oxidation style |
-| **Decaf tea** | Tea processed to **reduce** caffeine (product name); not the same claim as herbal caffeine-free | Name only—no residual-% claim here |
+| **English Breakfast** | A **blend** of black teas for a strong morning cup. It often uses Assam and/or other robust blacks, and recipes vary | Usually the **black** path. The Cup page has everyday caffeine ranges.[^1] |
+| **Earl Grey** | Usually **black tea flavored with bergamot** (a citrus aroma) | Flavoring on a **black** path. It is not a new plant.[^1] |
+| **Assam** | Black tea from Assam (northeast India). In the usual picture it is often malty and strong | Origin, plus the Assam-type plant tip in [Chapter 1 · Section 1](modules/module-01/01-plants.qmd). The **black** map row. |
+| **Darjeeling** | Tea from Darjeeling (the Himalayan foothills). It is often delicate and high-grown. It is sold as black, though some lots sit lighter | Geography plus processing. It is not a separate species. |
+| **Ceylon / Kenyan** | Black teas named for origin (Sri Lanka; Kenya). They are common building blocks in blends | Origin labels are not different species. These are often **black**.[^1] |
+| **Nilgiri** | A South Indian origin label you may see on blacks and blends | On this page it is only an origin word. |
+| **Masala chai / chai latte** | In many cafe recipes, spiced **black** tea with milk and sweetener. The base is still tea-plant black unless the label is herbal | A recipe family, not a species. |
+| **Milk tea / Hong Kong–style milk tea** | Strong black tea (often fine-grade or CTC) shaken or pulled with milk | For the culture craft, see [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd). |
+| **Bubble / boba tea** | A cafe drink family: a tea (or milk-tea) base plus toppings | A cafe cousin. It is not a factory oxidation style. |
+| **Decaf tea** | Tea processed to **reduce** caffeine. The words are a product name, and this is not the same claim as herbal caffeine-free | This page only names it. It does not make a residual-percentage claim. |
 
 ---
 
 ## Six manufactured types (the classification map) {#type-map}
 
-Same plant. Factories stop browning at different points. Trade lists and standards work often name **six** manufactured types—green, yellow, white, oolong, black, and dark.[^3] The UK Tea & Infusions Association puts the everyday split simply: how long oxidation runs during processing—or whether it runs at all—is what separates black, green, oolong, and white character.[^1]
+These teas come from the same plant. Factories stop the browning at different points. Trade lists and standards work often name **six** manufactured types: green, yellow, white, oolong, black, and dark.[^3] The UK Tea & Infusions Association puts the everyday split simply. How long oxidation runs during processing, or whether it runs at all, is what separates black, green, oolong, and white character.[^1]
 
-This map is a **shelf ruler**, not a health ranking and not a second Chapter 1. For the chemical fork (process, not species), open [Chapter 1 · Section 2](modules/module-01/02-processing.qmd). Basics keeps a thin six-type foldout and points here for the fuller map.[^3]
+This map is a **shelf ruler**. It is not a health ranking, and it is not a second Chapter 1. For the chemical fork (process, not species), open [Chapter 1 · Section 2](modules/module-01/02-processing.qmd). Basics keeps a thin six-type foldout and points here for the fuller map.[^3]
 
 | Manufactured type | Plain idea | Everyday names (from the tables above) |
 | --- | --- | --- |
 | **Green** | Heat the leaf early so it does not brown | Longjing, gunpowder, jasmine green; sencha, matcha, gyokuro, houjicha, genmaicha… |
-| **Yellow** | Rare outside China; green-like path with an extra “smothering” step in trade lists | Yellow tea (name mainly)[^3] |
-| **White** | Light-handled tea-plant leaf; minimal factory drama in the usual picture | White tea rows[^1] |
-| **Oolong** | Partial-oxidation band between green and black | Tieguanyin, Baozhong, Da Hong Pao…[^1] |
-| **Black** | Full enzymatic-oxidation path in the usual trade picture | Keemun, Assam, English Breakfast base, Lapsang, many cafe blacks[^1] |
-| **Dark** | Microbial-aging branch (e.g. Pu-erh raw / ripe as menu words) | Pu-erh / dark tea[^2] |
+| **Yellow** | Rare outside China. Trade lists give it a green-like path with an extra “smothering” step | Yellow tea (mainly the name).[^3] |
+| **White** | Light-handled tea-plant leaf. In the usual picture there is minimal factory drama | The white tea rows.[^1] |
+| **Oolong** | A partial-oxidation band between green and black | Tieguanyin, Baozhong, Da Hong Pao…[^1] |
+| **Black** | In the usual trade picture, the full enzymatic-oxidation path | Keemun, Assam, the English Breakfast base, Lapsang, and many cafe blacks.[^1] |
+| **Dark** | The microbial-aging branch (for example, Pu-erh raw or ripe, as menu words) | Pu-erh and dark tea.[^2] |
 
-**Honesty check (already on Basics):** tea makers often say “fermentation” for the green-to-black change. For ordinary green, oolong, and black they usually mean leaf enzymes plus air. True microbial aging shows up mainly in dark teas such as Pu-erh.[^2]
+**Honesty check (already on Basics).** Tea makers often say “fermentation” for the change from green to black. For ordinary green, oolong, and black they usually mean leaf enzymes plus air. True microbial aging shows up mainly in dark teas such as Pu-erh.[^2]
 
 ### How CN / JP / Western names sit on the map
 
-- **Chinese-style names** often *are* the type, or a famous tradition inside a type—Longjing → green; Tieguanyin → oolong; Keemun → black; Pu-erh → dark (tables above).
-- **Japanese everyday names** are mostly **green-path styles**—sencha, matcha, gyokuro, houjicha, genmaicha—different factory or serving habits, same manufactured type.[^4]
-- **Western / cafe names** mix **type** (green / black), **origin** (Assam), and **blend / flavor** (English Breakfast, Earl Grey). The blend is usually still black-path leaf.[^1]
+- **Chinese-style names** often *are* the type, or a famous tradition inside a type. Longjing sits with green, Tieguanyin with oolong, Keemun with black, and Pu-erh with dark (see the tables above).
+- **Japanese everyday names** are mostly **green-path styles**: sencha, matcha, gyokuro, houjicha, and genmaicha. The factory habits or the serving habits differ, but the manufactured type is the same.[^4]
+- **Western and cafe names** mix **type** (green or black), **origin** (Assam), and **blend / flavor** (English Breakfast, Earl Grey). The blend is usually still black-path leaf.[^1]
 
 ::: {.callout-note collapse="true" title="ISO 20715 and six-type lists"}
-Standards and processing overviews sort tea by **how it was made**, not by cafe English. ISO tea-type classification work (ISO 20715:2023) and processing surveys commonly list the same six manufactured types named in the table.[^3] Cafe menus are messier: they mix type, origin, blend, and flavor words. Yellow tea is rare on most Western shelves—you do not need it before Chapter 1. This foldout does not paste standard text or map every cafe name to a clause.
+Standards and processing overviews sort tea by **how it was made**, not by cafe English. ISO tea-type classification work (ISO 20715:2023) and processing surveys commonly list the same six manufactured types named in the table.[^3] Cafe menus are messier. They mix type, origin, blend, and flavor words. Yellow tea is rare on most Western shelves, so you do not need it before Chapter 1. This foldout does not paste standard text, and it does not map every cafe name to a clause.
 :::
 
 ---
 
 ## Grade languages: particle size and quality-tier words {#grades}
 
-Shelf “grade” mixes at least **two** languages. Separating them stops the false story that OP beats BOP “because better,” or that 特級 is a universal quality score that matches Orange Pekoe codes across countries. None of these words is a different species, and none is a moral “best tea” ranking.
+Shelf “grade” mixes at least **two** languages. If you separate them, you will not fall for the false story that OP beats BOP “because better,” or that 特級 is a universal quality score that matches Orange Pekoe codes across countries. None of these words is a different species, and none is a moral “best tea” ranking.
 
 ### Leaf size / particle words (black-tea trade)
 
-**Bag vs loose** is mostly about **portion and particle size**, not a different plant. A bag is a pre-measured serving; loose leaf is the same plant sold by weight. Bags often use smaller particles so color and strength appear quickly. Tea basics and Cup reference use a common everyday baseline of about **2 g** dry leaf per **250 mL**.[^6]
+**Bag versus loose** is mostly about **portion and particle size**, not a different plant. A bag is a pre-measured serving. Loose leaf is the same plant sold by weight. Bags often use smaller particles so that color and strength appear quickly. Tea basics and the Cup reference use a common everyday baseline of about **2 g** dry leaf per **250 mL**.[^6]
 
-**Orthodox vs CTC** is a **black-tea factory** distinction (how the leaf is broken), not a green-tea rule.[^7]
+**Orthodox versus CTC** is a **black-tea factory** distinction. It describes how the leaf is broken, not a green-tea rule.[^7]
 
 | | **Orthodox** | **CTC** (crush, tear, curl) |
 | --- | --- | --- |
-| Leaf form | Larger twisted or broken leaf pieces | Small, uniform granules |
-| Brew habit | Slower, often more layered | Fast, strong, deep color—common in bags and milk tea |
+| Leaf form | Larger pieces of twisted or broken leaf | Small, uniform granules |
+| Brew habit | Slower, and often more layered | Fast, strong, and deep in color. Common in bags and milk tea |
 
-**Orange Pekoe (OP), BOP, fannings, dust** are **particle / size words** in many black-tea trades—not separate species and not a moral ranking. Finer grades often brew fast and look strong in a short mug steep.
+**Orange Pekoe (OP), BOP, fannings, and dust** are **particle and size words** in many black-tea trades. They are not separate species, and they are not a moral ranking. Finer grades often brew fast and look strong in a short mug steep.
 
-→ Cloudy or “too strong too fast” cups: [Kitchen troubleshoot](tea-troubleshoot.qmd).  
-→ Why particle size changes exit speed: [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd).
+If the cup is cloudy, or “too strong too fast,” open [Kitchen troubleshoot](tea-troubleshoot.qmd).
+
+If you want to know why particle size changes exit speed, open [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd).
 
 ### Quality-tier languages (separate from particle words)
 
-Some packs use a **different** grade language—quality-tier *labels*—that is **not** the same system as OP / BOP / fannings / dust.
+Some packs use a **different** grade language: quality-tier *labels*. That language is **not** the same system as OP, BOP, fannings, or dust.
 
-**Chinese retail tiers you may see** (特級, 一級, 二級…): on some Chinese-packaged teas these characters are **quality-tier labels** from a producer or region’s own grading language. They are **not** Orange Pekoe particle codes, not a global ranking across countries, and not a guarantee this page can define without a cited standard. This page only names them as shelf words so you do not crosswalk them to OP by accident.
+**Chinese retail tiers you may see** (特級, 一級, 二級, and so on). On some Chinese-packaged teas these characters are **quality-tier labels** from a producer or region’s own grading language. They are **not** Orange Pekoe particle codes, not a global ranking across countries, and not a guarantee this page can define without a cited standard. This page only names them as shelf words, so you do not crosswalk them to OP by accident.
 
-**Japanese shade-path styles:** gyokuro, matcha, and tencha are **style + shade-path names** (how the leaf was grown and finished), not an OP particle ladder.[^4] English trade talk may call gyokuro “high-grade”; that habit still does not equal black-tea size codes. Shade notes live in [Chapter 1 · Section 1](modules/module-01/01-plants.qmd); theanine ranges on the [Cup reference](cup-reference.qmd).[^5]
+**Japanese shade-path styles.** Gyokuro, matcha, and tencha are **style and shade-path names**. They describe how the leaf was grown and finished, not an OP particle ladder.[^4] English trade talk may call gyokuro “high-grade.” That habit still does not equal black-tea size codes. Shade notes live in [Chapter 1 · Section 1](modules/module-01/01-plants.qmd). Theanine ranges are on the [Cup reference](cup-reference.qmd).[^5]
 
 ::: {.callout-note collapse="true" title="Why “grade” confuses shoppers"}
 | Language | Examples | What it is *not* |
 | --- | --- | --- |
-| **Particle / size** | OP, BOP, fannings, dust; orthodox vs CTC | Not a different species; not “morally better” |
-| **Quality-tier label** | 特級 / 一級… on some Chinese packs | Not OP codes; not a universal world ranking on this site |
-| **Style + shade name** | Gyokuro, matcha, tencha | Not an OP ladder; still usually **green**-path leaf |
+| **Particle / size** | OP, BOP, fannings, dust; orthodox versus CTC | Not a different species, and not “morally better” |
+| **Quality-tier label** | 特級 / 一級… on some Chinese packs | Not OP codes, and not a universal world ranking on this site |
+| **Style + shade name** | Gyokuro, matcha, tencha | Not an OP ladder. Still usually **green**-path leaf |
 
-Refrain: grade language on a box is a **dictionary clue**, not a shopping “best of” list. Famous-tea contests, awards, and brand rankings are out of scope here.
+A useful refrain: grade language on a box is a **dictionary clue**, not a shopping “best of” list. Famous-tea contests, awards, and brand rankings are out of scope here.
 :::
 
 ---
@@ -171,40 +172,40 @@ Refrain: grade language on a box is a **dictionary clue**, not a shopping “bes
 
 | Label you see | What it usually means |
 | --- | --- |
-| **Chamomile / peppermint / ginger / rooibos “tea”** | Herbal infusions—**not** the tea plant unless the label also lists tea leaf |
+| **Chamomile / peppermint / ginger / rooibos “tea”** | Herbal infusions. These are **not** the tea plant unless the label also lists tea leaf |
 
-They sit outside Chapter 1’s chemical core. The short true-vs-herbal lesson stays on [Tea basics](tea-basics.qmd).[^8][^9]
+They sit outside the chemical core of Chapter 1. The short lesson on true tea versus herbal stays on [Tea basics](tea-basics.qmd).[^8][^9]
 
 ---
 
 ## Thin strip: teapots and brewing methods
 
-Kit **names** only—what the gear usually is. No extraction kinetics, no ceremonial step lists, no second Troubleshoot matrix.
+These are kit **names** only: what the gear usually is. There are no extraction kinetics, no ceremonial step lists, and no second Troubleshoot matrix.
 
 | Kit / method | Plain meaning | Then open… |
 | --- | --- | --- |
-| **Mug + bag / basket** | Everyday default; one steep in a cup | [Tea basics](tea-basics.qmd) first mug; [Kitchen troubleshoot](tea-troubleshoot.qmd) if off |
-| **English / Western teapot** | Larger pot; leaf in the pot or an infuser; shareable pot | [Kitchen troubleshoot](tea-troubleshoot.qmd); [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) for time / temp / leaf |
-| **Gaiwan** | Lidded bowl for short infusions | Troubleshoot / Ch1 · §3—not a ceremony lecture |
-| **Small clay or porcelain pot (gongfu-style kit)** | Small pot, small cups, many short pours | **Culture:** [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd); **dials:** Troubleshoot / Ch1 · §3 |
-| **Grandpa style** | Leaf left in a large cup or glass; top up with water | Troubleshoot / Ch1 · §3 (second-steep intuition) |
-| **Matcha bowl + whisk** | Suspend powder; you drink the leaf solids | Matcha row above; [Cup reference](cup-reference.qmd) for theanine ranges |
+| **Mug + bag / basket** | The everyday default: one steep in a cup | The first mug on [Tea basics](tea-basics.qmd). If the cup is off, open [Kitchen troubleshoot](tea-troubleshoot.qmd). |
+| **English / Western teapot** | A larger pot. The leaf sits in the pot or in an infuser, and the pot can be shared | [Kitchen troubleshoot](tea-troubleshoot.qmd), and [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) for time, temperature, and leaf. |
+| **Gaiwan** | A lidded bowl for short infusions | Troubleshoot, or Chapter 1 · Section 3. This is not a ceremony lecture. |
+| **Small clay or porcelain pot (gongfu-style kit)** | A small pot, small cups, and many short pours | **Culture:** [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd). **Dials:** Troubleshoot, or Chapter 1 · Section 3. |
+| **Grandpa style** | The leaf stays in a large cup or glass, and you top up with water | Troubleshoot, or Chapter 1 · Section 3 (second-steep intuition). |
+| **Matcha bowl + whisk** | You suspend the powder, and you drink the leaf solids | The matcha row above, and the [Cup reference](cup-reference.qmd) for theanine ranges. |
 
 ---
 
 ## Where this door sits / where to go next
 
-Read the tea doors as nested maps:
+Read the tea doors as nested maps.
 
-1. **[Tea basics](tea-basics.qmd)** — first mug; true vs herbal; green↔black; three sample labels; thin six-type foldout pointing here.
-2. **Tea labels (this page)** — name sheet; **six-type classification map**; **grade languages** (particle vs quality-tier); kit nouns.
-3. **[Kitchen troubleshoot](tea-troubleshoot.qmd)** — mug already wrong → which dial.
-4. **[Chapter 1](modules/module-01/index.qmd)** — plant, factory, brewing, compounds.
-5. **[Cup reference](cup-reference.qmd)** — typical milligrams in a 250 mL mug.
-6. **[Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd)** — gongfu, HK milk tea, and related culture scripts.
-7. **[Reading a tea study](tea-reading-studies.qmd)** — headline checklist.
+1. **[Tea basics](tea-basics.qmd).** The first mug, true tea versus herbal, the green↔black contrast, three sample labels, and a thin six-type foldout that points here.
+2. **Tea labels (this page).** The name sheet, the **six-type classification map**, the **grade languages** (particle versus quality-tier), and the kit nouns.
+3. **[Kitchen troubleshoot](tea-troubleshoot.qmd).** The mug is already wrong, so the question is which dial to nudge.
+4. **[Chapter 1](modules/module-01/index.qmd).** Plant, factory, brewing, and compounds.
+5. **[Cup reference](cup-reference.qmd).** Typical milligrams in a 250 mL mug.
+6. **[Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd).** Gongfu, HK milk tea, and related culture scripts.
+7. **[Reading a tea study](tea-reading-studies.qmd).** A headline checklist.
 
-Still pouring your first cup? Stay on Basics. Ready for numbers? Open Cup reference.
+Still pouring your first cup? Stay on Basics. Ready for numbers? Open the Cup reference.
 
 [^1]: UK Tea & Infusions Association. Types of tea, origins & varieties. https://www.tea.co.uk/types-of-tea (Black/green/white/dark overview; English Breakfast and Earl Grey as black-tea blends; oolong as partial oxidation; Keemun / Lapsang notes on trade type pages.)
 

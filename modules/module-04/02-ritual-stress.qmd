@@ -9,48 +9,48 @@ title: "Section 2 · The brewing break as a stress reset"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser autonomic numbers, ERN notes, and the mindfulness-vs-scripting distinction. One famous paper is **not** used as evidence—see the caution box.
+Superscript numbers are clickable footnotes. A click jumps to the source, and the caret jumps back; if you hover, the note often pops open. The collapsed "More detail…" boxes hold the denser autonomic numbers, the ERN notes, and the distinction between mindfulness and scripting. One famous paper is **not** used as evidence. The caution box explains why.
 :::
 
 ## Hands that know the script
 
-Before a hard exam or tough meeting, you do the same three steps every time: boil, steep, sip. Your hands know the script. That predictability is the point in these sources—not "empty mysticism."
+Before a hard exam or a tough meeting, you do the same three steps every time: boil, steep, sip. Your hands know the script. In these sources, that predictability is the point. The point is not "empty mysticism."
 
-A short, familiar sequence—measure leaves, watch the water, wait—gives the mind something concrete to do. That can cut anxious looping, calm the body a bit, and leave you clearer for the next hard task.
+A short, familiar sequence gives the mind something concrete to do. You measure the leaves, you watch the water, and you wait. That sequence can cut anxious looping, calm the body a bit, and leave you clearer for the next hard task.
 
-Countable acts matter here. Measuring the same leaf amount, watching whether the water is ready, waiting out the steep: each step has a right answer *in the moment*, so anxious rehearsal of the exam or the email has less room to keep looping. That is an attention anchor—not a clinical protocol, and not a personality makeover. The three-step teaching sketch stays in the foldout below when you want the poster; the open story only needs the idea that a fixed script interrupts circular worry with acts you can finish.
+Countable acts matter here. You measure the same leaf amount, you watch whether the water is ready, and you wait out the steep. Each step has a right answer *in the moment*, so anxious rehearsal of the exam or the email has less room to keep looping. That is an attention anchor. It is not a clinical protocol, and it is not a personality makeover. The three-step teaching sketch stays in the foldout below when you want the poster. The open story only needs the idea that a fixed script interrupts circular worry with acts you can finish.
 
-Warmth (previous lesson) was mostly passive: hold a mug. Ritual here is active: *make* the tea. This lesson treats that difference seriously.
+Warmth, in the previous lesson, was mostly passive: you hold a mug. Ritual here is active: you *make* the tea. This lesson treats that difference seriously.
 
 ## What this lesson emphasizes
 
-Three linked claims show up again and again:
+Three linked claims show up again and again.
 
-1. **Attention anchor.** High-stress tasks trigger circular worry. The physical steps of a tea ritual—measuring leaves, monitoring water temperature, watching leaves unfurl—demand focused attention and can interrupt that loop.
-2. **Calmer body.** Familiar, structured ritual can lower heart rate and skin stress signals and raise heart-beat flexibility (calmer balance between the body's **go** system and its **rest-and-digest** system)—lab papers often say [HRV](../../glossary.qmd#hrv), sympathetic, and parasympathetic when they want those labels.
-3. **Mental stamina.** A brief step back from hard analysis can reduce fatigue before you return to the problem—preserving careful thinking rather than grinding it down.
+1. **Attention anchor.** A high-stress task tends to trigger circular worry. The physical steps of a tea ritual demand focused attention, and that demand can interrupt the loop. You measure leaves, you monitor water temperature, and you watch the leaves unfurl.
+2. **Calmer body.** A familiar, structured ritual can lower heart rate and skin stress signals, and it can raise heart-beat flexibility. That flexibility is a calmer balance between the body's **go** system and its **rest-and-digest** system. When lab papers want the technical labels, they say [HRV](../../glossary.qmd#hrv), sympathetic, and parasympathetic.
+3. **Mental stamina.** A brief step back from hard analysis can reduce fatigue before you return to the problem. The hope is to preserve careful thinking, rather than grind it down.
 
-Integrative reviews of ritual psychology describe rituals as structured, repetitive, symbolic action sequences that can reduce anxiety and restore a sense of control—especially when the next task feels high-stakes.[^1] Hobson and colleagues organize ritual functions around emotion regulation, performance goal states, and social connection.[^1]
+Integrative reviews of ritual psychology describe rituals as structured, repetitive, symbolic sequences of action. Those sequences can reduce anxiety and restore a sense of control, especially when the next task feels high-stakes.[^1] Hobson and colleagues organize the functions of ritual around emotion regulation, performance goal states, and social connection.[^1]
 
 ::: {.callout-note collapse="true" title="More detail: Hobson 2018 — how ritual is defined, and what it is for"}
-Hobson, Schroeder, Risen, Xygalatas, and Inzlicht (2018) review ritual psychology as a **process**, not as a single magic outcome.[^1] Teaching snapshot for this site:
+Hobson, Schroeder, Risen, Xygalatas, and Inzlicht (2018) review ritual psychology as a **process**, not as a single magic outcome.[^1] Here is the teaching snapshot for this site.
 
 **Definition ingredients** (the review's family of features, in plain English):
 
 - A sequence of actions that is **structured** and often **repetitive**.
-- Actions that are **rigid** or invariant relative to the goal (you do the steps even when a shortcut would "work").
-- Often **symbolic**—the sequence means something beyond the physical result (a cup of tea could be made faster; the script is the point).
+- Actions that are **rigid**, or invariant relative to the goal. You do the steps even when a shortcut would "work."
+- Often **symbolic**. The sequence means something beyond the physical result. A cup of tea could be made faster; the script is the point.
 
-**Three functions** the review organizes (expanded again later on this page):
+**Three functions** the review organizes (they are expanded again later on this page):
 
 1. Regulate **emotions** (anxiety, grief, excitement).
 2. Regulate **performance goal states** (readiness before a high-stakes task).
 3. Regulate **social connection** (doing the same thing together).
 
-**Two routes:** bottom-up physical features (repetition, rigidity, synchrony) and top-down meaning (why *this* sequence matters to you). A solo brewing break leans on emotion and readiness. A shared tea service adds connection. Neither route is a license to cite a retracted anxiety paper—see the Brooks caution below.[^1][^4]
+**Two routes.** One route is bottom-up and physical: repetition, rigidity, synchrony. The other is top-down and meaningful: why *this* sequence matters to you. A solo brewing break leans on emotion and readiness. A shared tea service adds connection. Neither route is a license to cite a retracted anxiety paper. See the Brooks caution below.[^1][^4]
 :::
 
-Predictable behavioral sequences have been linked with lower anxiety and steadier body readings in experimental work on scripted action.[^2] Separately, Chapter 2's [L-theanine](../../glossary.qmd#l-theanine) findings already showed calmer heart-rate and stress markers during hard arithmetic[^3]—so ritual steps and tea chemistry can point in the same direction without being the same thing. Heart-rate drops, error-alarm microvolts, and review rows live in the foldout—open when you want the poster.
+Predictable sequences of behavior have been linked with lower anxiety and with steadier body readings, in experimental work on scripted action.[^2] Separately, Chapter 2's [L-theanine](../../glossary.qmd#l-theanine) findings already showed calmer heart-rate and stress markers during hard arithmetic.[^3] Ritual steps and tea chemistry can therefore point in the same direction without being the same thing. Heart-rate drops, error-alarm microvolts, and the review rows live in the foldout. Open it when you want the poster.
 
 ::: {.callout-note collapse="true" title="More detail: Hobson / Lang / ERN metrics table (without the retracted paper)"}
 | Measure | Finding | Source |
@@ -66,35 +66,35 @@ Predictable behavioral sequences have been linked with lower anxiety and steadie
 | Error-related negativity (ERN) | High-ritualized group vs unscripted control | Amplitude down about **1.85 μV ± 0.35** (p < 0.05) in source reading | Hobson et al. (2017) [^5] |
 | L-theanine + hard arithmetic | **200 mg**-class L-theanine designs (Chapter 2 bridge) | Lower HR and stress markers vs placebo | Kimura et al. (2007) [^3] |
 
-Ritual psychology review (Hobson et al., 2018): structured rituals can regulate emotion, performance goals, and social connection via bottom-up physical features and top-down meaning.[^1]
+The ritual-psychology review (Hobson et al., 2018) puts it this way: structured rituals can regulate emotion, performance goals, and social connection, through bottom-up physical features and through top-down meaning.[^1]
 
-**Not in this table:** Brooks et al. (2016) STAI anxiety scores—see the caution box and the retraction foldout. Those numbers are **not** evidence on this site.
+**Not in this table:** Brooks et al. (2016) STAI anxiety scores. See the caution box and the retraction foldout. Those numbers are **not** evidence on this site.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: Lang heart-rate and Hobson ERN — what the example numbers are"}
-Two non-Brooks rows carry the sources' numeric color. They are **experimental snapshots**, not a promise that your kettle will move your heart rate by a fixed amount.
+Two rows that do not come from Brooks carry the sources' numeric color. They are **experimental snapshots**. They are not a promise that your kettle will move your heart rate by a fixed amount.
 
-**Lang and colleagues (2015) — heart rate under acute stress.** The sources read a scripted, repetitive sequence as buffering autonomic acceleration: mean heart rate down about **4.3 bpm ± 0.9** versus a less structured comparison (source: *t*(44) = 4.78, *p* < 0.001, *d* ≈ 0.71).[^2] The open lesson's point is directional: predictable action can steady the body a bit. The foldout's point is the magnitude the sources attach to that paper—and the humility that one lab contrast is not a personal biofeedback guarantee.
+**Lang and colleagues (2015) — heart rate under acute stress.** The sources read a scripted, repetitive sequence as buffering autonomic acceleration: mean heart rate down about **4.3 bpm ± 0.9** versus a less structured comparison (source: *t*(44) = 4.78, *p* < 0.001, *d* ≈ 0.71).[^2] The open lesson's point is directional. Predictable action can steady the body a bit. The foldout's point is the magnitude the sources attach to that paper, together with a humble limit: one lab contrast is not a personal biofeedback guarantee.
 
-**Hobson and colleagues (2017) — error-related negativity.** ERN is a fast brain "oops" wave, often discussed at the anterior cingulate, within roughly the first **100 ms** after a mistake. The sources read a high-ritual group as showing amplitude down about **1.85 μV ± 0.35** versus an unscripted control (*p* < 0.05).[^5] Teaching translation: less emotional perseveration on the error—not "you stop making mistakes," and not "mindfulness" by another name.
+**Hobson and colleagues (2017) — error-related negativity.** ERN is a fast brain "oops" wave, often discussed at the anterior cingulate, within roughly the first **100 ms** after a mistake. The sources read a high-ritual group as showing amplitude down about **1.85 μV ± 0.35** versus an unscripted control (*p* < 0.05).[^5] In teaching language, that is less emotional perseveration on the error. It is not "you stop making mistakes," and it is not "mindfulness" by another name.
 
-**Kimura bridge (not a ritual-script paper).** L-theanine under hard arithmetic lowered heart rate and stress markers versus placebo.[^3] Chemistry and choreography can rhyme. They are still different mechanisms—see [Chapter 2 · Body signals](../module-02/04-body-signals.qmd).
+**Kimura bridge (not a ritual-script paper).** L-theanine under hard arithmetic lowered heart rate and stress markers versus placebo.[^3] Chemistry and choreography can rhyme. They are still different mechanisms. See [Chapter 2 · Body signals](../module-02/04-body-signals.qmd).
 :::
 
 ## A citation we do not lean on
 
 ::: {.callout-caution title="Brooks et al. (2016) was retracted—do not use its STAI numbers"}
-One cited paper (Brooks et al., 2016, "Don't stop believing…") reported that rituals lowered anxiety (STAI) and improved performance. That article was **retracted in 2024** after data-integrity problems. We keep the broader ritual story from reviews and other experiments (Hobson; Lang; Kimura), but we **do not** use Brooks's STAI numbers—or any of its performance claims—as evidence.[^4]
+One cited paper (Brooks et al., 2016, "Don't stop believing…") reported that rituals lowered anxiety (STAI) and improved performance. That article was **retracted in 2024** after data-integrity problems. We keep the broader ritual story from reviews and from other experiments (Hobson; Lang; Kimura). We **do not** use Brooks's STAI numbers, or any of its performance claims, as evidence.[^4]
 
-If you see that paper cited approvingly elsewhere, treat it as a warning label, not a finding.
+If you see that paper cited approvingly elsewhere, treat the citation as a warning label, not as a finding.
 :::
 
 ::: {.callout-caution collapse="true" title="More detail: why Brooks 2016 is excluded (retraction, not a quibble)"}
-The named sources include a Brooks et al. (2016) row: ritual vs random movements, STAI means about **34.6** vs **42.8**, and a performance story. **This site does not teach those numbers.** The article in *Organizational Behavior and Human Decision Processes* was **retracted in 2024**.[^4][^6]
+The named sources include a Brooks et al. (2016) row: ritual versus random movements, STAI means about **34.6** versus **42.8**, and a performance story. **This site does not teach those numbers.** The article in *Organizational Behavior and Human Decision Processes* was **retracted in 2024**.[^4][^6]
 
-What the journal's retraction notice describes, in plain language:[^6]
+Here is what the journal's retraction notice describes, in plain language.[^6]
 
-- The author team contacted the editor after their own data audit and said they **no longer had confidence in the integrity of the data**, then requested retraction.
+- The author team contacted the editor after their own data audit. They said they **no longer had confidence in the integrity of the data**, and they requested retraction.
 - The journal could not obtain raw data for Studies 1a, 1b, or 2. Posted data for Study 1b showed **anomalous streaks** in heart-rate ratings.
 - For Studies 3 and 4, reanalysis found **unreported exclusions** (6 and 11 participants). With everyone included, the **focal effects were no longer significant**.
 
@@ -106,21 +106,21 @@ What the journal's retraction notice describes, in plain language:[^6]
 | "Rituals improve performance (Brooks 2016)" | **Not used** |
 | Hobson 2018 review; Lang autonomic work; Hobson 2017 ERN; Kimura L-theanine | **Still in the story**, with their own limits [^1][^2][^5][^3] |
 
-Excluding Brooks does **not** mean "rituals do nothing." It means this one famous anxiety-and-performance paper is not evidence. If a slide deck still leads with it, that is a warning label.
+Excluding Brooks does **not** mean "rituals do nothing." It means this one famous paper on anxiety and performance is not evidence. If a slide deck still leads with it, that lead is a warning label.
 :::
 
 ## Ritual is not the same as mindfulness
 
-People often blur the two: "Tea ritual = mindfulness." Mindfulness is open awareness of the present moment. Ritual, in these sources, is more about **fixed, predictable steps**.
+People often blur the two, as if "tea ritual" simply meant "mindfulness." Mindfulness is open awareness of the present moment. Ritual, in these sources, is more about **fixed, predictable steps**.
 
-You can brew with open awareness if you want. The experiments this page leans on do not require it. They lean on a short invariant sequence—the same measure, the same watch, the same wait—even on a bad day. Open awareness watches whatever arises; a script constrains what you *do* next so circular worry has fewer branches. Keep that fence loud when a management slide sells "tea mindfulness" as if the two were the same tool.
+You can brew with open awareness if you want to. The experiments this page leans on do not require it. They lean on a short invariant sequence: the same measure, the same watch, the same wait, even on a bad day. Open awareness watches whatever arises. A script constrains what you *do* next, so circular worry has fewer branches. Keep that fence loud when a management slide sells "tea mindfulness" as if the two were the same tool.
 
-Cognitive neuroscience in the sources' verification note draws a sharper line: rituals provide rigid, invariant behavioral scripting and top-down predictability. By constraining action sequences, ritual can blunt the brain's quick **"oops" alarm** (lab name: [error-related negativity](../../glossary.qmd#ern), or ERN)—lowering anxiety through *predictability*, not only through open mindful contemplation.[^5][^1]
+Cognitive neuroscience, in the sources' verification note, draws a sharper line. Rituals provide rigid, invariant behavioral scripting, and they provide top-down predictability. By constraining the sequence of actions, ritual can blunt the brain's quick **"oops" alarm** (lab name: [error-related negativity](../../glossary.qmd#ern), or ERN). The lowering of anxiety, in that account, comes through *predictability*, not only through open mindful contemplation.[^5][^1]
 
 That distinction matters for how you read a "brewing break." You are not required to become a meditation teacher. You are practicing a short, repeatable script that gives the "oops" alarm less room to spiral.
 
 ::: {.callout-note collapse="true" title="More detail: mindfulness vs a scripted brewing break"}
-Popular management writing often flattens "tea ritual" into "mindfulness." A careful reading of the sources—and Hobson's review—draw a sharper line.[^1][^5]
+Popular management writing often flattens "tea ritual" into "mindfulness." A careful reading of the sources, and of Hobson's review, draws a sharper line.[^1][^5]
 
 | | Mindfulness (popular sense) | Ritual scripting (this lesson) |
 | --- | --- | --- |
@@ -129,65 +129,65 @@ Popular management writing often flattens "tea ritual" into "mindfulness." A car
 | Failure mode | "I failed to be present" | Skipping the script and spiraling on the task |
 | Tea example | Noticing aroma, temperature, thoughts as they pass | Same leaf amount, same watch-the-water, same wait—even on a bad day |
 
-You *can* brew mindfully. The experiments this page leans on do not require you to. They lean on a short invariant sequence that gives circular worry less room. Monastery codes in [Chapter 3 · Section 2](../module-03/02-monastic-path.qmd) are an older, communal version of the same scaffolding idea—not a lab replica.
+You *can* brew mindfully. The experiments this page leans on do not require you to. They lean on a short invariant sequence that gives circular worry less room. Monastery codes in [Chapter 3 · Section 2](../module-03/02-monastic-path.qmd) are an older, communal version of the same scaffolding idea. They are not a lab replica.
 :::
 
 ## Chemistry and choreography can rhyme
 
-A fixed tea-making sequence is not only cultural. It is linked with higher heart-beat flexibility and lower stress arousal in the tea-compound literature.[^3] Ritual steps plus tea compounds can point in the same "calmer control" direction—another bridge to [Chapter 2 · Body signals](../module-02/04-body-signals.qmd) and to Chapter 5's bargaining calm (fewer hair-trigger rejections when anxiety is lower).
+A fixed sequence of tea-making is not only cultural. In the tea-compound literature, it is linked with higher heart-beat flexibility and with lower stress arousal.[^3] Ritual steps plus tea compounds can point in the same "calmer control" direction. That is another bridge to [Chapter 2 · Body signals](../module-02/04-body-signals.qmd), and to the bargaining calm in Chapter 5, where lower anxiety goes with fewer hair-trigger rejections.
 
-Say the rhyme carefully. [L-theanine](../../glossary.qmd#l-theanine) in Chapter 2 is a chemistry story: a leaf guest that can calm stress markers during hard arithmetic in cited designs.[^3] A brewing script is a choreography story: predictable steps that can blunt anxious looping and the error-alarm. Both can leave you clearer for the next hard task. They are still different mechanisms—one rides in the cup, one rides in the hands. Do not collapse them into a single "tea calm" switch, and do not invent new Kimura numbers here; Body signals still owns the chemistry depth.
+Say the rhyme carefully. [L-theanine](../../glossary.qmd#l-theanine) in Chapter 2 is a chemistry story: a guest in the leaf that can calm stress markers during hard arithmetic, in the designs that are cited.[^3] A brewing script is a choreography story: predictable steps that can blunt anxious looping and the error alarm. Both can leave you clearer for the next hard task. They are still different mechanisms. One rides in the cup, and one rides in the hands. Do not collapse them into a single "tea calm" switch, and do not invent new Kimura numbers here. Body signals still owns the chemistry depth.
 
-Context is part of the dose: temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the sentence to carry into [Chapter 5](../module-05/index.qmd)—and the three-dial map in [Section 4](04-context-dials-map.qmd) will hold warmth, script, and name together without stealing this lesson's job.
+Context is part of the dose. Temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the sentence to carry into [Chapter 5](../module-05/index.qmd). The three-dial map in [Section 4](04-context-dials-map.qmd) will hold warmth, script, and name together, without stealing this lesson's job.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: a three-step brewing break (teaching sketch, not a clinical protocol)"}
-Borrowed from the sources' plain-language emphasis—not a medical prescription:
+This sketch is borrowed from the sources' plain-language emphasis. It is not a medical prescription.
 
-1. **Measure** — same leaf amount you always use (attention lands on a countable act).
-2. **Watch** — water and leaf (Lu Yu's boil-by-eye habit from [Chapter 3 · Section 2](../module-03/02-monastic-path.qmd) is optional historical flavor).
-3. **Wait** — the steep is the pause; do not treat the wait as "wasted time before work."
+1. **Measure** — use the same leaf amount you always use, so attention lands on a countable act.
+2. **Watch** — watch the water and the leaf. Lu Yu's boil-by-eye habit from [Chapter 3 · Section 2](../module-03/02-monastic-path.qmd) is optional historical flavor.
+3. **Wait** — the steep is the pause. Do not treat the wait as "wasted time before work."
 
-Then return to the hard task. The claim in these sources is modest: a cognitive reset and a calmer autonomic baseline—not a guarantee of genius, and not a substitute for sleep.
+Then return to the hard task. The claim in these sources is modest: a cognitive reset, and a calmer autonomic baseline. It is not a guarantee of genius, and it is not a substitute for sleep.
 :::
 
 
 ## Why predictability helps when you are spiraling
 
-Anxious looping is expensive. The mind rehearses the exam, the meeting, the email, again and again. A brewing script interrupts that rehearsal with acts that have right answers in the moment: the water is or is not ready; the leaves have or have not been measured.
+Anxious looping is expensive. The mind rehearses the exam, the meeting, and the email, again and again. A brewing script interrupts that rehearsal with acts that have a right answer in the moment. The water is ready, or it is not. The leaves have been measured, or they have not.
 
-That is an **attention anchor**—not a personality makeover.
+That is an **attention anchor**. It is not a personality makeover.
 
-The sources also describe a body rhyme: familiar ritual → lower heart rate / skin stress signals, higher heart-beat flexibility.[^2] Chapter 2 already showed L-theanine calming stress markers during arithmetic.[^3] Chemistry and choreography can point the same way without being identical.
+The sources also describe a rhyme in the body. Familiar ritual goes with a lower heart rate, with lower skin stress signals, and with higher heart-beat flexibility.[^2] Chapter 2 already showed L-theanine calming stress markers during arithmetic.[^3] Chemistry and choreography can point the same way without being identical.
 
 ::: {.callout-note collapse="true" title="More detail: Hobson's three ritual functions (teaching map)"}
-Hobson et al. (2018) organize ritual psychology around regulating:[^1]
+Hobson et al. (2018) organize ritual psychology around three kinds of regulation.[^1]
 
 1. **Emotions** — anxiety, grief, excitement.
-2. **Performance goal states** — readiness before high-stakes tasks.
-3. **Social connection** — coordinated group meaning.
+2. **Performance goal states** — readiness before a high-stakes task.
+3. **Social connection** — meaning that a group coordinates together.
 
 A solo brewing break leans on (1) and (2). A shared tea service leans on (3) as well. Monastery codes ([Chapter 3 · Section 2](../module-03/02-monastic-path.qmd)) institutionalized (2) and (3) centuries earlier.
 
-Bottom-up features (repetition, rigidity, synchrony) and top-down meaning (why this sequence matters) both contribute in the review's framework.[^1]
+In the review's framework, both kinds of ingredient contribute: bottom-up features (repetition, rigidity, synchrony) and top-down meaning (why this sequence matters).[^1]
 :::
 
 ## What to take into Chapter 5
 
-Carry these sentences forward into Decisions:
+Carry these sentences forward into Decisions.
 
-1. Ritual can blunt anxiety via predictability (the "oops" alarm / ERN story)—not only via "mindfulness" branding.[^5] Chapter 5's games will measure choices under pressure; a calmer baseline from a scripted break is a context dial, not a guarantee of better offers.
-2. Brooks (2016) STAI numbers and performance claims are **off-limits** after the 2024 retraction.[^4] If a slide still leads with them, treat that as a warning label.
-3. Context dials ride along with compounds—warmth from [Section 1](01-warmth-trust.qmd), ritual from this lesson, expectation from [Section 3](03-expectation-labels.qmd)—so Chapter 5 locks methods (matched mugs, washouts, clear labels). The synthesis map is [Section 4](04-context-dials-map.qmd); the protocol tables stay in [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd).
+1. Ritual can blunt anxiety through predictability (the "oops" alarm / ERN story), not only through "mindfulness" branding.[^5] Chapter 5's games will measure choices under pressure. A calmer baseline from a scripted break is a context dial, not a guarantee of better offers.
+2. Brooks (2016) STAI numbers and performance claims are **off-limits** after the 2024 retraction.[^4] If a slide still leads with them, treat that lead as a warning label.
+3. Context dials ride along with compounds. Warmth comes from [Section 1](01-warmth-trust.qmd), ritual from this lesson, and expectation from [Section 3](03-expectation-labels.qmd), so Chapter 5 locks methods (matched mugs, washouts, clear labels). The synthesis map is [Section 4](04-context-dials-map.qmd). The protocol tables stay in [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd).
 
-Then open [Chapter 5](../module-05/index.qmd) when you want the decision games—or finish the Context dials map first if you want all three dials in one picture.
+Open [Chapter 5](../module-05/index.qmd) when you want the decision games. If you would rather see all three dials in one picture first, finish the Context dials map before you go.
 
 
 
 ::: {.callout-tip title="You can stop here"}
-- A short, familiar brewing script can interrupt anxious looping—attention lands on countable steps.
-- Predictability is the point in these sources; you do not have to become a meditation teacher.
+- A short, familiar brewing script can interrupt anxious looping. Attention lands on steps you can count.
+- In these sources, predictability is the point. You do not have to become a meditation teacher.
 - Brooks et al. (2016) STAI anxiety numbers are **off-limits** after the 2024 retraction.
-- Chemistry and choreography can rhyme; they are still different mechanisms—see [Chapter 2 · Body signals](../module-02/04-body-signals.qmd).
+- Chemistry and choreography can rhyme. They are still different mechanisms. See [Chapter 2 · Body signals](../module-02/04-body-signals.qmd).
 :::
 
 ---

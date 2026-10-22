@@ -4,24 +4,24 @@ title: "Bibliography"
 
 {{< include _includes/lang-switcher/bibliography.en.qmd >}}
 
-**Footnotes live on lesson pages** (click the number, then the caret to return). This page is the master map by theme. Start from a [chapter hub](modules/index.qmd) if you want the story first.
+**Footnotes live on the lesson pages.** Click the number to jump to the source, then the caret to return. This page is the master map, arranged by theme. If you want the story first, start from a [chapter hub](modules/index.qmd).
 
 Every claim on this site should leave a trail.
 
-When a chapter says “about 30–50 mg caffeine” or “Williams & Bargh (2008),” that sentence should point somewhere you can check—an entry on this page. The story is meant to be interesting; the sources are meant to keep it honest.
+When a chapter says “about 30–50 mg caffeine” or “Williams & Bargh (2008),” that sentence should point somewhere you can check: an entry on this page. The story is meant to be interesting. The sources are meant to keep it honest.
 
-Anyone can put a confident sentence on a website. A **citation** is a trail: author, year, and usually a journal or book so another person can open the original. That does not mean every paper is perfect. It means we are not asking you to trust a slogan.
+Anyone can put a confident sentence on a website. A **citation** is a trail: an author, a year, and usually a journal or a book, so another person can open the original. That does not mean every paper is perfect. It means we are not asking you to trust a slogan.
 
 For this site:
 
-- Numbers and study snapshots on the chapter pages should match entries below.
-- Some citations are short (year and journal only). We left them as found rather than guessing missing titles.
-- Entries follow APA style when full details are available.
-- Dense lab constants we removed from the beginner pages still live in many of these papers if you want them later.
+- Numbers and study snapshots on the chapter pages should match the entries below.
+- Some citations are short, with a year and a journal only. We left them as we found them, rather than guessing the missing titles.
+- When full details are available, the entries follow APA style.
+- Dense lab constants that we removed from the beginner pages still live in many of these papers, if you want them later.
 
-**How to use this page.** Spot a name-and-year on a chapter page (for example Nobre et al., 2008). Find that entry in the section below. If you need the full methods, open the paper itself—this list is a map, not a reprint.
+**How to use this page.** Spot a name and a year on a chapter page, for example Nobre et al., 2008. Find that entry in the section below. If you need the full methods, open the paper itself. This list is a map, not a reprint.
 
-When you are done hunting a source, the [Chapters overview](modules/index.qmd) will take you back into the story.
+When you are done hunting for a source, the [Chapters overview](modules/index.qmd) will take you back into the story.
 
 ## Plant chemistry and brewing
 
@@ -217,7 +217,7 @@ Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative repr
 
 ## Note on completeness
 
-Supplementary clinical and historical sources sit alongside the foundational references below. Four claims were fortified with primary papers in particular: PPO denaturation (Subramanian et al., 1999), L-theanine receptor affinity (Kakuda et al., 2002), opium trade chest quantities (Morse, 1926), and ERN amplitude delta (Hobson et al., 2017).
+Supplementary clinical and historical sources sit alongside the foundational references below. Four claims in particular were fortified with primary papers: PPO denaturation (Subramanian et al., 1999), L-theanine receptor affinity (Kakuda et al., 2002), opium trade chest quantities (Morse, 1926), and ERN amplitude delta (Hobson et al., 2017).
 
 ## History, culture, and context cues (5×4 additions)
 

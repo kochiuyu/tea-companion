@@ -9,35 +9,35 @@ title: "Section 3 · Games of trust, fairness, and cooperation"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold formal game names, percent snapshots, and equilibrium talk. Opening trust is not forever trust—and warmth replication caveats from Chapter 3 still apply.
+Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" boxes hold the formal game names, the percent snapshots, and the equilibrium talk. Opening trust is not forever trust, and the warmth replication caveats from Chapter 3 still apply.
 :::
 
 ## When someone else is in the room
 
-Lessons 4.1 and 4.2 mostly watched one brain choosing alone—blurting vs checking, pumping a balloon, waiting for tomorrow. This lesson adds a second person. Trust, fairness, and cooperation are social. That is why classic lab games matter: they turn "will you be fair?" into something you can count—without pretending a warm mug rewrites the whole deal.
+Lessons 4.1 and 4.2 mostly watched one brain choosing alone: blurting versus checking, pumping a balloon, waiting for tomorrow. This lesson adds a second person. Trust, fairness, and cooperation are social. That is why classic laboratory games matter. They turn "will you be fair?" into something you can count, without pretending a warm mug rewrites the whole deal.
 
 Play three scenes in your head before any formal names.
 
-**Scene one — the unfair split.** Someone offers you $2 of a $10 pot. If you accept, you get $2 and they keep $8. If you reject, both get nothing. Cold self-interest says take the $2. Many people reject. Unfairness has a price people are willing to pay.[^1] You have seen the same instinct at a restaurant table when the bill-split feels insulting: sometimes people walk away from a little money to punish a little disrespect.
+**Scene one — the unfair split.** Someone offers you $2 of a $10 pot. If you accept, you get $2 and they keep $8. If you reject, both get nothing. Cold self-interest says take the $2. Many people reject. Unfairness has a price people are willing to pay.[^1] You have seen the same instinct at a restaurant table when the bill-split feels insulting. Sometimes people walk away from a little money to punish a little disrespect.
 
-**Scene two — the first send.** You are given $10. You may send some of it to a stranger. Whatever you send grows. The stranger decides how much to return. Sending something is an act of **opening trust**. Getting something back is reciprocity. Sending nothing is the cold prediction. Real people often send something—at least at first.[^2]
+**Scene two — the first send.** You are given $10. You may send some of it to a stranger. Whatever you send grows, and the stranger decides how much to return. Sending something is an act of **opening trust**. Getting something back is reciprocity. Sending nothing is the cold prediction. Real people often send something, at least at first.[^2]
 
-**Scene three — cooperate or cut.** You and a partner both do better if you both cooperate. Each of you is also tempted to cut and take a short-term edge. Mutual cooperation beats mutual cutting—but the temptation is real. Cooperation needs structure and feedback, not only good vibes.[^3]
+**Scene three — cooperate or cut.** You and a partner both do better if you both cooperate. Each of you is also tempted to cut and take a short-term edge. Mutual cooperation beats mutual cutting, but the temptation is real. Cooperation needs structure and feedback, not only good vibes.[^3]
 
-Cold theory says accept any positive crumb, send nothing, and cut. Real people often reject unfair splits, send something, and cooperate—at least in early rounds.[^1][^2][^3]
+Cold theory says accept any positive crumb, send nothing, and cut. Real people often reject unfair splits, send something, and cooperate, at least in early rounds.[^1][^2][^3]
 
 Opening trust is not the same as forever trust. That sentence will do more work than any slogan about boardroom tea service.
 
 ## Why drinks and warmth show up here
 
-Drinks and warm hands do not invent fairness. They can nudge **opening moves**—how much you send first, how hair-trigger you are about rejecting an unfair split, how steady early cooperation feels.
+Drinks and warm hands do not invent fairness. They can nudge **opening moves**: how much you send first, how hair-trigger you are about rejecting an unfair split, and how steady early cooperation feels.
 
-Warmth and ritual can lift **opening** trust in cited work. If the other side defects in later rounds, cooperation often collapses. Sensory primes influence opening moves; formal incentives and payoff structures dominate over extended interactions (source note).[^3]
+Warmth and ritual can lift **opening** trust in the cited work. If the other side defects in later rounds, cooperation often collapses. Sensory primes influence opening moves. Formal incentives and payoff structures dominate over extended interactions (source note).[^3]
 
-Alcohol is a useful extreme contrast again. Intoxication does not simply make people "chill about fairness." In one careful design, people rejected unfair offers *more* often when intoxicated—not less.[^4] Alcohol myopia and fairness punishment can both be true in the same session: the spotlight shrinks to vivid cues, and unfairness can be a vivid cue.[^8]
+Alcohol is a useful extreme contrast again. Intoxication does not simply make people "chill about fairness." In one careful design, people rejected unfair offers *more* often when intoxicated, not less.[^4] Alcohol myopia and fairness punishment can both be true in the same session. The spotlight shrinks to vivid cues, and unfairness can be a vivid cue.[^8]
 
 ::: {.callout-note collapse="true" title="More detail: Ultimatum, Trust, and Dilemma (names + study patterns)"}
-These are classic lab games. "Nash" / cold prediction here just means the cold, self-interested prediction—not what people always do.
+These are classic laboratory games. "Nash," or the cold prediction, here just means the cold, self-interested prediction. It is not a description of what people always do.
 
 | Game | Cold prediction | Tea / warmth pattern in sources | Alcohol pattern in sources |
 | --- | --- | --- | --- |
@@ -55,84 +55,84 @@ Anchors: Güth et al. (1982) Ultimatum;[^1] Berg, Dickhaut & McCabe (1995) Trust
 | Trust Game / fairness, warm ~60°C mug | First-mover investment about **+24.8%** (source narrative: ~$7.85 vs $6.29 of $10) | Kang et al. (2011) [^5] |
 | Iterated Dilemma, warm drink (source) | Mutual cooperation rounds 1–10: **62.5%** vs **47.2%** control | Inagaki & Eisenberger (2013 source) [^6] |
 
-Notice the Ultimatum alcohol result carefully: intoxication raised *rejection* of unfair offers. That is costly altruistic punishment—people turning down money to punish unfairness—not "drunk people accept anything."[^4][^8]
+Notice the Ultimatum alcohol result carefully. Intoxication raised *rejection* of unfair offers. That is costly altruistic punishment: people turning down money to punish unfairness. It is not a finding that "drunk people accept anything."[^4][^8]
 
-Warmth and ritual can lift **opening** trust (about **+15% to +25%** in cited work). If the other side defects in later rounds, cooperation often collapses.[^3]
+Warmth and ritual can lift **opening** trust (about **+15% to +25%** in the cited work). If the other side defects in later rounds, cooperation often collapses.[^3]
 :::
 
 ## Play the unfair split again—with alcohol in view
 
-Someone offers you $2 of $10. Many people reject. Now raise alcohol. In Morewedge et al.'s design (N = 92), rejection of offers ≤20% jumped from **58.1%** to **82.4%**.[^4] Intoxication did not make people "chill about fairness." It made costly punishment *more* likely—emotional reactivity with a price tag.
+Someone offers you $2 of $10. Many people reject. Now raise the alcohol. In Morewedge et al.'s design (N = 92), rejection of offers ≤20% jumped from **58.1%** to **82.4%**.[^4] Intoxication did not make people "chill about fairness." It made costly punishment *more* likely, emotional reactivity with a price tag.
 
-That surprises beginners who expect alcohol to make everyone say yes. Alcohol myopia narrows attention to vivid cues; unfairness can be a vivid cue.[^8]
+That result surprises beginners who expect alcohol to make everyone say yes. Alcohol myopia narrows attention to vivid cues, and unfairness can be a vivid cue.[^8]
 
 ## Opening trust with a warm mug—and the fence around it
 
-A warm mug in the hand can nudge how much people send on a first move in cited fairness/trust designs.[^5] Read that as an **opening allocation nudge** under thermal priming—not as "tea creates trustworthy partners forever." If player two defects in later rounds, the cooperative glow often fades (equilibrium note).
+A warm mug in the hand can nudge how much people send on a first move in the cited fairness and trust designs.[^5] Read that as an **opening allocation nudge** under thermal priming. It is not a finding that "tea creates trustworthy partners forever." If player two defects in later rounds, the cooperative glow often fades (equilibrium note).
 
-People sometimes hope: "Serve tea and the negotiation becomes win–win forever." Opening trust is real in cited work; forever cooperation is not.
+People sometimes hope that serving tea will make the negotiation win–win forever. Opening trust is real in the cited work. Forever cooperation is not.
 
 ::: {.callout-note collapse="true" title="More detail: Trust Game arithmetic (Kang source narrative)"}
-Endowment $10. Warm ~60°C mug vs cold pad.
+The endowment is $10. The contrast is a warm mug, about 60°C, versus a cold pad.
 
-Source narrative of Kang et al.: first-mover sends average about **$7.85** (warm) vs **$6.29** (cold)—roughly **+24.8%**.[^5]
+The source narrative of Kang et al. says the first mover sends about **$7.85** on average when the mug is warm, versus **$6.29** when the pad is cold, roughly **+24.8%**.[^5]
 
-Read it as an **opening allocation nudge** under thermal priming—not as "tea creates trustworthy partners forever." If player two defects in later rounds, the cooperative glow often fades (equilibrium note).
+Read it as an **opening allocation nudge** under thermal priming. It is not a finding that "tea creates trustworthy partners forever." If player two defects in later rounds, the cooperative glow often fades (equilibrium note).
 :::
 
 ## Bridge back to Chapter 3 (do not forget the caveats)
 
-Ritual can also blunt the brain's error-alarm and lower anxiety ([Chapter 4 · Section 2 Ritual stress](../module-04/02-ritual-stress.qmd))—discussed in the sources alongside fewer hyper-aggressive rejections of unfair offers. Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
+Ritual can also blunt the brain's error alarm and lower anxiety ([Chapter 4 · Section 2 Ritual stress](../module-04/02-ritual-stress.qmd)). The sources discuss that finding alongside fewer hyper-aggressive rejections of unfair offers. Calmer bodies can mean less hair-trigger bargaining. They do not mean automatic fairness forever.
 
-And remember Chapter 3's replication caution: warmth effects on generosity are smaller and less reliable than early headlines suggested.[^7] Lynott et al. (2014) failed to replicate Williams & Bargh's gift-choice Study 2 at N = 861. Keep that in view when someone sells "serve tea, win the deal."
+Remember Chapter 3's replication caution as well. Warmth effects on generosity are smaller and less reliable than early headlines suggested.[^7] Lynott et al. (2014) failed to replicate Williams & Bargh's gift-choice Study 2 at N = 861. Keep that result in view when someone sells "serve tea, win the deal."
 
 ::: {.callout-caution title="Opening nudge vs long-game incentives"}
-Thermal and beverage-ritual priming can raise initial trust allocations in cited designs. That cooperative bias often degrades in multi-round games if the counterpart defects. Primes nudge opening moves; payoffs dominate over a long game.[^3][^5]
+Thermal and beverage-ritual priming can raise initial trust allocations in the cited designs. That cooperative bias often degrades in multi-round games if the counterpart defects. Primes nudge opening moves. Payoffs dominate over a long game.[^3][^5]
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: how this lesson uses Chapter 3 without overclaiming"}
-- **Warm mug → Trust send** ([4.1](../module-04/01-warmth-trust.qmd) → this lesson): useful as a bridge and as a methods warning for [5.4](04-study-protocols.qmd).
-- **Ritual → calmer ERN / lower anxiety** ([4.2](../module-04/02-ritual-stress.qmd)): may reduce hair-trigger Ultimatum rejections in the sources' qualitative framing—not a fairness guarantee.
+- **Warm mug → Trust send** ([4.1](../module-04/01-warmth-trust.qmd) → this lesson): useful as a bridge, and as a methods warning for [5.4](04-study-protocols.qmd).
+- **Ritual → calmer ERN / lower anxiety** ([4.2](../module-04/02-ritual-stress.qmd)): may reduce hair-trigger Ultimatum rejections in the sources' qualitative framing. It is not a fairness guarantee.
 - **Brooks (2016)**: still **not** evidence after the 2024 retraction.
 - **Lynott (2014)**: still the check on "warmth always makes people generous."[^7]
 :::
 
 ## Cooperation needs a structure, not only a kettle
 
-Tournaments and repeated games already taught that strategies like reciprocity can thrive when games repeat and feedback is clear—structure enables cooperation.[^3] A warm drink may help early coordination (Dilemma snapshot of higher mutual cooperation in early rounds).[^6] It does not rewrite the payoff matrix.
+Tournaments and repeated games have already shown that strategies like reciprocity can thrive when games repeat and feedback is clear. Structure enables cooperation.[^3] A warm drink may help early coordination, as in the Dilemma snapshot of higher mutual cooperation in early rounds.[^6] It does not rewrite the payoff matrix.
 
-So when someone says "serve tea and the boardroom becomes win–win," translate: *maybe a better opening*; *not a new game theory*.
+When someone says "serve tea and the boardroom becomes win–win," translate the sentence this way: *maybe a better opening*; *not a new game theory*.
 
 ## Ritual calm and unfair offers (qualitative bridge)
 
-The sources link Chapter 3's ritual story to bargaining: if scripted action blunts the error-alarm and lowers somatic anxiety, people may be less hair-trigger about rejecting mid-unfair offers. That is a **qualitative bridge**, not a new Ultimatum experiment unique to tea.
+The sources link Chapter 3's ritual story to bargaining. If scripted action blunts the error alarm and lowers somatic anxiety, people may be less hair-trigger about rejecting mid-unfair offers. That is a **qualitative bridge**, not a new Ultimatum experiment unique to tea.
 
-Keep the chain honest:
+Keep the chain honest.
 
-1. Ritual can reduce anxiety / blunt error-monitoring signals in cited work ([4.2](../module-04/02-ritual-stress.qmd)).
-2. Anxiety and emotional reactivity can raise costly punishment (alcohol unfair-split result).[^4]
-3. Therefore calmer bodies *might* mean fewer hyper-aggressive rejections—without guaranteeing fair offers or forever cooperation.
+1. Ritual can reduce anxiety and blunt error-monitoring signals in the cited work ([4.2](../module-04/02-ritual-stress.qmd)).
+2. Anxiety and emotional reactivity can raise costly punishment (the alcohol unfair-split result).[^4]
+3. Therefore calmer bodies *might* mean fewer hyper-aggressive rejections, without guaranteeing fair offers or forever cooperation.
 
 Brooks (2016) still cannot be used to decorate step 1.
 
 If headlines about drinks and decisions feel loud, the next section is the quiet machinery behind careful studies.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 5 · Section 3"}
-1. Open story = unfair split / first send / cooperate-or-cut—before formal game jargon.
-2. Alcohol unfair-offer rejection **82.4%** vs **58.1%**—keep accurately.[^4]
-3. Kang opening trust about **+24.8%**—opening, not forever.[^5]
-4. Lynott 2014 + Brooks retracted: warmth/ritual overclaim guards stay.[^7]
-5. Primes nudge openings; payoffs dominate long games.[^3]
-6. Next: matched mugs, washout, and why methods deserve their own sitting.
+1. The open story is the unfair split, the first send, and cooperate-or-cut, before the formal game jargon.
+2. Alcohol unfair-offer rejection was **82.4%** versus **58.1%**. Keep that pair accurately.[^4]
+3. The Kang opening-trust shift is about **+24.8%**. It is an opening, not forever.[^5]
+4. Lynott 2014, and the Brooks retraction, keep the warmth and ritual overclaim guards in place.[^7]
+5. Primes nudge openings. Payoffs dominate long games.[^3]
+6. Next come matched mugs, washout, and the reason methods deserve their own sitting.
 :::
 
 ## Story in one minute
 
-Someone else is in the room. Unfair splits and first sends are social games, not solo pumps. Alcohol and a warm mug can nudge opening moves in cited designs; Chapter 3's replication caution still applies. Cooperation needs structure, not only a kettle.
+Someone else is in the room. Unfair splits and first sends are social games, not solo pumps. Alcohol and a warm mug can nudge opening moves in the cited designs, and Chapter 3's replication caution still applies. Cooperation needs structure, not only a kettle.
 
 ::: {.callout-tip title="You can stop here"}
-- Unfair splits and first sends need someone else in the room—not only a solo balloon.
-- Alcohol and warmth show up as opening nudges in cited designs; they are not permanent negotiation upgrades.
+- Unfair splits and first sends need someone else in the room. A solo balloon is not enough.
+- Alcohol and warmth show up as opening nudges in the cited designs. They are not permanent negotiation upgrades.
 - Keep Chapter 3's Lynott caution when someone sells "serve tea, win the deal."
 :::
 
