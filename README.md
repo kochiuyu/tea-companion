@@ -1,6 +1,6 @@
-# Tea, Caffeine & Decision Companion
+# Tea Companion
 
-Quarto website for the Tea, Caffeine & Decision Companion. Separate from LAE.
+Quarto website for Tea Companion. Separate from LAE.
 
 Public repo: https://github.com/kochiuyu/tea-companion  
 Expected Pages URL (after setup): https://kochiuyu.github.io/tea-companion/

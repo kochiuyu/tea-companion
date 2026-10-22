@@ -1,5 +1,5 @@
 ---
-title: "茶、咖啡因与决策伴侣"
+title: "茶伴侣"
 lang: zh-Hans
 ---
 

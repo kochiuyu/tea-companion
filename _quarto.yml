@@ -109,7 +109,7 @@ project:
     - zh-hans/bibliography.qmd
 
 website:
-  title: "Tea, Caffeine & Decision Companion"
+  title: "Tea Companion"
   search: true
   back-to-top-navigation: true
   navbar:
