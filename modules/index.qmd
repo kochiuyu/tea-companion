@@ -4,11 +4,11 @@ title: "Chapters"
 
 {{< include ../_includes/lang-switcher/modules.en.qmd >}}
 
-Imagine this site as a short trip with **five** stops—and each stop has **four sections** (twenty sittings in all).
+Imagine this site as a short trip with **five** stops. Each stop has **four sections**, twenty sittings in all.
 
-You begin in a garden and a kitchen—plants, processing, brewing, and the compounds in a mug. You travel inward into the body and brain. You climb out into history and living tea cultures. You pause on warmth, ritual, and expectation—context as part of the dose. You end in a lab where people play careful games about risk and trust. Each section answers a question the previous one left hanging.
+You begin in a garden and a kitchen, with plants, processing, brewing, and the compounds in a mug. From there you travel inward, into the body and brain. Then you climb out into history and living tea cultures. You pause on warmth, ritual, and expectation, where context is part of the dose. You end in a lab, where people play careful games about risk and trust. Each section answers a question the previous one left hanging.
 
-Nothing here requires a science degree. Each section opens with a hook, walks you through the facts in story order, cites sources with **clickable footnotes**, tucks denser detail into **collapsed foldouts**, and leaves previous/next doors open.
+Nothing here requires a science degree. Each section opens with a hook and walks you through the facts in story order. Sources are cited with **clickable footnotes**. Denser detail is tucked into **collapsed foldouts**. Previous and next doors stay open.
 
 ## The itinerary (five hubs)
 
@@ -63,23 +63,23 @@ Nothing here requires a science degree. Each section opens with a hook, walks yo
 ## If you only have ten minutes
 
 **"What do aisle labels mean?"**  
-Start with [Tea basics](../tea-basics.qmd), then [Chapter 1 hub](module-01/index.qmd).
+If that is the question, start with [Tea basics](../tea-basics.qmd), then open the [Chapter 1 hub](module-01/index.qmd).
 
 **"What's in my cup?"**  
-Start with [Cup reference](../cup-reference.qmd), then [Chapter 1 · Section 3 · Brewing](module-01/03-brewing.qmd) and [Chapter 1 · Section 4 · Compounds](module-01/04-compounds.qmd).
+If that is the question, start with the [Cup reference](../cup-reference.qmd), then read [Chapter 1 · Section 3 · Brewing](module-01/03-brewing.qmd) and [Chapter 1 · Section 4 · Compounds](module-01/04-compounds.qmd).
 
 **"Why awake but not jittery?"**  
-Go to [Chapter 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#why-waiting-after-the-first-sip-matters) bridge on [L-theanine](../glossary.qmd#l-theanine) timing and calm brain waves.
+For that feeling, go to the [Chapter 2 hub](module-02/index.qmd), then the [Linkages](../linkages.qmd#why-waiting-after-the-first-sip-matters) bridge on [L-theanine](../glossary.qmd#l-theanine) timing and calm brain waves.
 
 **"Is tea only chemistry?"**  
-No. [Chapter 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, plantations, regional scripts. [Chapter 4 hub](module-04/index.qmd) adds warmth, ritual, and expectation.
+No. The [Chapter 3 hub](module-03/index.qmd) is the zoom-out: trade, monasteries, plantations, and regional scripts. The [Chapter 4 hub](module-04/index.qmd) adds warmth, ritual, and expectation.
 
 **"Do drinks change choices?"**  
-[Chapter 5 hub](module-05/index.qmd)—with the caveat that lab doses are not your everyday mug.
+Open the [Chapter 5 hub](module-05/index.qmd), with the caveat that lab doses are not your everyday mug.
 
 When you are ready to begin at the beginning, open [Chapter 1](module-01/index.qmd). The water is already hot.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: footnotes and foldouts"}
-- **Footnotes:** superscript numbers jump to the full citation; the caret jumps back. Hover often pops the note.
-- **Foldouts:** boxes titled "More detail…" or "Click for more detail" stay closed until you open them—so the main story stays readable while the expansion stays one click away.
+- **Footnotes:** the superscript numbers jump to the full citation, and the caret jumps back. Hover often pops the note.
+- **Foldouts:** boxes titled "More detail…" or "Click for more detail" stay closed until you open them, so the main story stays readable while the expansion stays one click away.
 :::

@@ -4,45 +4,45 @@ title: "Chapter 3 · History & Culture"
 
 {{< include ../../_includes/lang-switcher/module-03.en.qmd >}}
 
-If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back into **who moved the leaf** and **how people staged the cup**.
+If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back. The wider view is **who moved the leaf**, and **how people staged the cup**.
 
-Tea remade **trade balances** between China and Britain. It became a **monastic focus aid** and a tea-room practice. After the monopoly break, **plantations** remade land and labor into a cheap mass commodity. And living **regional scripts**—Chaoshan tables, Hong Kong milk-tea counters, Taiwan tea art—still stage the drink as culture.
+Along the way, tea remade **trade balances** between China and Britain. It became a **monastic focus aid** and a tea-room practice. After the monopoly break, **plantations** remade land and labor into a cheap mass commodity. Living **regional scripts**—Chaoshan tables, Hong Kong milk-tea counters, Taiwan tea art—still stage the drink as culture.
 
-Warmth priming and ritual-stress psychology used to share this chapter. They now live next door in [Chapter 4 · Context & Ritual Psychology](../module-04/index.qmd). History stays narrative here.
+Warmth priming and ritual-stress psychology used to share this chapter. They now live next door, in [Chapter 4 · Context & Ritual Psychology](../module-04/index.qmd). History stays narrative here.
 
 ::: {.callout-tip collapse="true" title="Words to know on this journey (open if you want labels)"}
-- **Canton System** — Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment.
-- **Opium Wars** — conflicts (1839–1860) that forced trade openings after the silver–tea–opium crisis.
+- **Canton System** — the Qing rule (1757–1842) that funneled Western trade through Canton and demanded payment in silver.
+- **Opium Wars** — the conflicts (1839–1860) that forced trade openings after the silver–tea–opium crisis.
 - **Chado** — Japan's highly ritualized "way of tea."
-- **Gongfu tea (Chaoshan)** — everyday small-pot, repeated-cup staging (culture script—not a lab ritual).
-- **Plantation aftershock** — land, labor, and commodity form after Chinese monopoly leaf ceased to be the only farm.
+- **Gongfu tea (Chaoshan)** — everyday staging with a small pot and repeated cups, a culture script rather than a lab ritual.
+- **Plantation aftershock** — the land, the labor, and the commodity form that followed once Chinese monopoly leaf ceased to be the only farm.
 :::
 
 ::: {.callout-tip}
-**Read the story; open More detail boxes only when curious.** History and culture stay on the open path; denser tables live behind the click.
+**Read the story; open More detail boxes only when curious.** History and culture stay on the open path, and the denser tables live behind the click.
 :::
 
 ## The four sections
 
-1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)** — Canton silver, opium, Nanking, Fortune myth corrected
-2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)** — Han medicine → Chan code → Eisai / *chado*
-3. **[After the monopoly break — gardens, estates, cheap bags](03-plantation-aftershock.qmd)** — Assam land/labor aftershock; Kew market trail; Ceylon foldout
-4. **[One leaf, many scripts](04-regional-scripts.qmd)** — Chaoshan gongfu · HK milk tea · Taiwan tea art
+1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)** — Canton silver, opium, Nanking, and the Fortune myth corrected.
+2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)** — the path from Han medicine → Chan code → Eisai / *chado*.
+3. **[After the monopoly break — gardens, estates, cheap bags](03-plantation-aftershock.qmd)** — the Assam land and labor aftershock, the Kew market trail, and the Ceylon foldout.
+4. **[One leaf, many scripts](04-regional-scripts.qmd)** — Chaoshan gongfu, HK milk tea, and Taiwan tea art, read as living scripts.
 
 **Start with section 1:** [Silver, ships, and who controlled the leaf](01-trade-history.qmd)
 
 ::: {.callout-note collapse="true" title="More detail: four rooms in the story (a chapter map)"}
 | Room | What you notice | Lesson |
 | --- | --- | --- |
-| **Counting house** | Silver leaves; tea chests arrive; treaties rewrite the rules | [3.1](01-trade-history.qmd) |
-| **Monastery / tea room** | Medicine soup → wakefulness schedule → leveled social practice | [3.2](02-monastic-path.qmd) |
-| **Estate** | Cleared land, migrant labor, cheap mass commodity | [3.3](03-plantation-aftershock.qmd) |
-| **Local table / counter** | Living scripts that stage the same leaf differently | [3.4](04-regional-scripts.qmd) |
+| **Counting house** | Silver leaves, tea chests arrive, and treaties rewrite the rules | [3.1](01-trade-history.qmd) |
+| **Monastery / tea room** | Medicine soup leads toward a wakefulness schedule, then toward a leveled social practice | [3.2](02-monastic-path.qmd) |
+| **Estate** | Cleared land, migrant labor, and a cheap mass commodity | [3.3](03-plantation-aftershock.qmd) |
+| **Local table / counter** | Living scripts that stage the same leaf in different ways | [3.4](04-regional-scripts.qmd) |
 :::
 
 ## Looking ahead
 
-History explains how the leaf reached your cupboard and how cultures stage it. [Chapter 4](../module-04/index.qmd) asks how warmth, ritual, and expectation ride along with chemistry—**context is part of the dose**. [Chapter 5](../module-05/index.qmd) then measures decisions and locks those dials in protocols.
+History explains how the leaf reached your cupboard, and how cultures stage it. [Chapter 4](../module-04/index.qmd) asks how warmth, ritual, and expectation ride along with chemistry, because **context is part of the dose**. [Chapter 5](../module-05/index.qmd) then measures decisions and locks those dials in protocols.
 
 ---
 

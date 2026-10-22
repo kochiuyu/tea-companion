@@ -4,87 +4,87 @@ title: "Chapter 5 · Decisions & Choices"
 
 {{< include../../_includes/lang-switcher/module-05.en.qmd >}}
 
-You have followed tea from plant to cup, through the body, through history and culture, and through warmth, ritual, and expectation. Here is the question that hangs over the whole journey—especially for anyone who makes hard choices for a living:
+You have followed tea from plant to cup, through the body, through history and culture, and through warmth, ritual, and expectation. One question still hangs over the whole journey, especially for anyone who makes hard choices for a living.
 
 **Does the cup change how we choose?**
 
-Drinks do not flip a magic "smart switch." They can **nudge** how fast you answer, how much risk you take, how much you care about tomorrow, and how trusting you are in a first move. Real life still depends on stakes and setting—and a lab dose is not the same as your everyday mug. Treat study findings as **careful hints**, not life rules.
+Drinks do not flip a magic "smart switch." What they can do is **nudge** how fast you answer, how much risk you take, how much you care about tomorrow, and how trusting you are in a first move. Real life still depends on stakes and setting, and a lab dose is not the same as your everyday mug. Treat study findings as **careful hints**, not life rules.
 
 ## A balloon, a weekend washout, and a careful hint
 
 Imagine a balloon on a computer screen. Each pump earns a little money and raises the chance of a pop that wipes the trial. How far do you push?
 
-Now imagine the same task after alcohol, or after a matched [L-theanine](../../glossary.qmd#l-theanine)-caffeine drink, or after a washout weekend with no coffee. That is the flavor of evidence in this chapter: small, timed, artificial—and still useful if you refuse to overclaim.
+Now imagine the same task after alcohol, or after a matched [L-theanine](../../glossary.qmd#l-theanine)-caffeine drink, or after a washout weekend with no coffee. That is the flavor of the evidence in this chapter. It is small, timed, and artificial, and it is still useful if you refuse to overclaim.
 
-Why does that scene matter? Because it turns a vague slogan—"tea makes you wiser"—into a question you can watch: *under this drink state, how far do people push, how patiently do they wait, how much do they send on a first move?* The answer is never "always" or "never." It is "a nudge, under these conditions, with these caveats."
+The scene matters because it turns a vague slogan—"tea makes you wiser"—into a question you can watch: *under this drink state, how far do people push, how patiently do they wait, how much do they send on a first move?* The answer is never "always" or "never." It is "a nudge, under these conditions, with these caveats."
 
-Cited studies show patterns for tea, high-caffeine coffee stress, and alcohol—in isolated lab conditions. Stake size, habit, and social setting all matter outside the lab. Tap a footnote marker to jump to the source, then tap the caret to jump back—Wikipedia-style. Hover often shows a popup too. Collapsed **More detail** boxes hold denser task tables, Greek-letter summaries, and protocol checklists.
+The cited studies show patterns for tea, for high-caffeine coffee stress, and for alcohol, each in isolated lab conditions. Outside the lab, stake size, habit, and social setting all matter. Tap a footnote marker to jump to the source, then tap the caret to jump back, Wikipedia-style. A hover often shows a popup too. The collapsed **More detail** boxes hold the denser task tables, Greek-letter summaries, and protocol checklists.
 
 ::: {.callout-tip title="Everyday words for this journey"}
-- **Fast blurt** — the quick first answer that arrives before you check.
-- **Careful check** — the slower second look that catches a trap.
-- **Losses that sting** — losing $10 often hurts more than finding $10 feels good.
-- **Tomorrows that fade** — "one cookie now" beating "two cookies tomorrow."
-- **Opening trust** — how much you send on a first move before you know the other person.
-- **Matched mug** — same look, warmth, and bitterness so expectation does not wear a lab coat.
+- **Fast blurt** — the quick first answer that arrives before you have checked.
+- **Careful check** — the slower second look, the one that catches a trap.
+- **Losses that sting** — the way losing $10 often hurts more than finding $10 feels good.
+- **Tomorrows that fade** — the way "one cookie now" beats "two cookies tomorrow."
+- **Opening trust** — how much you send on a first move, before you know the other person.
+- **Matched mug** — the same look, warmth, and bitterness, so expectation does not wear a lab coat.
 :::
 
 ::: {.callout-tip}
-**Read the story; open More detail boxes only when curious.** Decision scenes stay open; λ, *k*, and dose tables live in foldouts.
+**Read the story; open More detail boxes only when curious.** Decision scenes stay on the open page, while λ, *k*, and the dose tables live in foldouts.
 :::
 
 ::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
-Footnotes are bidirectional (click number → source; caret → back). Foldouts hold denser CRT/Stroop/BART snapshots, λ / *k* summaries, game tables, and protocol checklists so the open story stays readable.
+Footnotes are bidirectional: click the number and you go to the source, then the caret brings you back. Foldouts hold the denser CRT/Stroop/BART snapshots, the λ / *k* summaries, the game tables, and the protocol checklists, so the open story stays readable.
 :::
 
 ::: {.callout-tip collapse="true" title="More detail: lab words you may meet in the foldouts"}
-- **System 1 / System 2** — fast automatic thinking vs slow careful thinking (dual-process idea).
-- **Loss aversion (λ)** — feeling losses more strongly than equal gains; if λ > 1, losses weigh more.
-- **Present bias / discounting *k*** — preferring a smaller reward *now* over a larger one later; higher *k* means tomorrow fades faster.
+- **System 1 / System 2** — fast automatic thinking set beside slow careful thinking, the dual-process idea.
+- **Loss aversion (λ)** — feeling losses more strongly than equal gains. If λ > 1, losses weigh more.
+- **Present bias / discounting *k*** — preferring a smaller reward *now* over a larger one later. A higher *k* means tomorrow fades faster.
 - **Trust Game / Ultimatum / Prisoner's Dilemma** — classic lab games about sending money, splitting offers, and cooperating.
-- **BART** — Balloon Analogue Risk Task; how far people pump a virtual balloon.
-- **Washout** — a period before a study when people avoid caffeine, alcohol, etc., so the test is cleaner.
+- **BART** — the Balloon Analogue Risk Task, which asks how far people pump a virtual balloon.
+- **Washout** — a period before a study when people avoid caffeine, alcohol, and the like, so the test is cleaner.
 :::
 
 ## The four sections
 
-The **open pages stay everyday language** and take more time unpacking the main idea; open a foldout when you want the theory labels, dose tables, or protocol clocks. Read in order or hop.
+The **open pages stay everyday language** and take more time unpacking the main idea. Open a foldout when you want the theory labels, the dose tables, or the protocol clocks. You can read in order, or hop.
 
-1. **[Fast blurts and careful checks](01-dual-process.qmd)** — quiz-show speed vs homework patience; how tea, coffee-stress, and alcohol nudge the spotlight.
-2. **[Losses that sting, tomorrows that fade](02-risk-waiting.qmd)** — everyday money-wait scenes; "how far do you pump?"; why "tea → patient investor" is a leap.
-3. **[Games of trust, fairness, and cooperation](03-trust-games.qmd)** — sending money, rejecting unfair splits, cooperating at first; opening ≠ forever.
-4. **[How careful studies are usually built](04-study-protocols.qmd)** — matched mug, wait for peak, why decaf is not magic placebo.
+1. **[Fast blurts and careful checks](01-dual-process.qmd)** — quiz-show speed set beside homework patience, and how tea, coffee-stress, and alcohol nudge the spotlight.
+2. **[Losses that sting, tomorrows that fade](02-risk-waiting.qmd)** — everyday scenes of money and waiting, the question "how far do you pump?", and why "tea → patient investor" is a leap.
+3. **[Games of trust, fairness, and cooperation](03-trust-games.qmd)** — sending money, rejecting unfair splits, and cooperating at first, with the reminder that opening ≠ forever.
+4. **[How careful studies are usually built](04-study-protocols.qmd)** — a matched mug, a wait for the peak, and why decaf is not a magic placebo.
 
 **Start with section 1:** [Fast blurts and careful checks](01-dual-process.qmd)
 
 ## A careful reading
 
-Tools that already exist—ways of talking about losses that sting, tomorrows that fade, trust sends, and unfair splits—are shared tools among psychologists and economists [^1][^2][^3]. This chapter uses those tools to describe how *drink states* look in lab snapshots. They do not license claims like "tea makes you a rational investor" or "coffee ruins negotiations." Stake size, wealth, culture, sleep, and the other player's reputation usually dominate any beverage nudge.
+Tools that already exist—ways of talking about losses that sting, tomorrows that fade, trust sends, and unfair splits—are shared tools among psychologists and economists [^1][^2][^3]. This chapter uses those tools to describe how *drink states* look in lab snapshots. The tools do not license claims like "tea makes you a rational investor" or "coffee ruins negotiations." Stake size, wealth, culture, sleep, and the other player's reputation usually dominate any beverage nudge.
 
-So a careful reading of this chapter is plain:
+A careful reading of this chapter is plain.
 
 - Treat measured shifts under controlled doses as **nudges**, not personality transplants.  
 - Prefer studies that wash out caffeine, match sensory cues, and time the task to known peaks [^4].  
-- Remember that alcohol can make unfairness feel *more* vivid, not less—people may reject unfair splits more often when intoxicated [^5][^6].  
+- Remember that alcohol can make unfairness feel *more* vivid, not less. People may reject unfair splits more often when intoxicated [^5][^6].  
 - Keep Chapter 4's warmth replication failure in view when someone sells "serve tea, win the deal" [^7].
 
-Interesting? Yes. Fact-based? Only as far as the citations go. That is the deal.
+The findings are interesting. They are fact-based only as far as the citations go. That is the deal.
 
 ::: {.callout-tip collapse="true" title="Click for more detail: a careful-reading checklist (with labels)"}
-- Treat λ, discount rates, and trust sends as **measured shifts under controlled doses**, not personality transplants.[^1][^3]
+- Treat λ, discount rates, and trust sends as **measured shifts under controlled doses**, not as personality transplants.[^1][^3]
 - Prefer studies that wash out caffeine, match sensory cues, and time the task to known peaks.[^4]
-- Alcohol myopia and fairness punishment can both be true in the same intoxicated Ultimatum session—people may reject unfairness *more*, not less.[^5][^6]
-- Keep Chapter 4's warmth replication failure in view for "serve tea, win the deal" claims.[^7]
-- Stake size, wealth, culture, sleep, and reputation usually dominate any beverage nudge—interesting, not magical.
+- Alcohol myopia and fairness punishment can both be true in the same intoxicated Ultimatum session. People may reject unfairness *more*, not less.[^5][^6]
+- Keep Chapter 4's warmth replication failure in view when a claim says "serve tea, win the deal."[^7]
+- Stake size, wealth, culture, sleep, and reputation usually dominate any beverage nudge. The pattern is interesting, and it is not magical.
 :::
 
 ## Closing the journey (for now)
 
-You began with steam over leaves. You met two plants, a processing fork, a brew, and three compounds. You followed those compounds into alertness, calm, stress, and body signals. You zoomed out to silver and empire, monasteries and regional scripts, plantation aftershock, warm hands, ritual breaks, and label belief. You ended in lab scenes that measure nudges—not magic switches—and in protocols that try to keep expectation honest.
+You began with steam over leaves. You met two plants, a processing fork, a brew, and three compounds. You followed those compounds into alertness, calm, stress, and body signals. You zoomed out to silver and empire, to monasteries and regional scripts, to plantation aftershock, warm hands, ritual breaks, and label belief. You ended in lab scenes that measure nudges rather than magic switches, and in protocols that try to keep expectation honest.
 
-If you want the quick cup numbers, open the [Cup reference](../../cup-reference.qmd). If a word still feels slippery, try the [Glossary](../../glossary.qmd). If you want to see how the chapters stitch together, walk the eleven threads on [Linkages](../../linkages.qmd). If you want the papers, each chapter now uses clickable footnotes—and the [Bibliography](../../bibliography.qmd) remains the master map.
+If you want the quick cup numbers, open the [Cup reference](../../cup-reference.qmd). If a word still feels slippery, try the [Glossary](../../glossary.qmd). If you want to see how the chapters stitch together, walk the eleven threads on [Linkages](../../linkages.qmd). If you want the papers, each chapter now uses clickable footnotes, and the [Bibliography](../../bibliography.qmd) remains the master map.
 
-The cup is ordinary. The story is not. And the next time you pour, you will know a little more about why.
+The cup is ordinary. The story is not. The next time you pour, you will know a little more about why.
 
 ---
 

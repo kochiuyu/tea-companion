@@ -9,37 +9,37 @@ title: "Section 1 · Fast blurts and careful checks"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold formal dual-process labels, CRT/Stroop/RVIP dose tables, and study snapshots so the open page stays a story—not a claim that drinks flip a genius switch.
+Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" boxes hold the formal dual-process labels, the CRT, Stroop, and RVIP dose tables, and the study snapshots, so the open page can stay a story. The page is not a claim that drinks flip a genius switch.
 :::
 
 ## Quiz-show speed and homework patience
 
-You already know two speeds of thinking—even if nobody gave them lab names.
+You already know two speeds of thinking, even if nobody has given them laboratory names.
 
-Picture a quiz show. The buzzer is live. A question flashes. Your mouth answers before your mind has finished checking. Sometimes that blurt is right. Sometimes it walks straight into a trap that rewards patience.
+Picture a quiz show. The buzzer is live, a question flashes, and your mouth answers before your mind has finished checking. Sometimes that fast blurt is right. Sometimes it walks straight into a trap that rewards patience.
 
-Now picture a hard homework problem at the kitchen table. You write a first guess. You frown. You erase. You check the units. You ask whether the answer makes sense. That second pass is slower and costs effort. It is also how you catch the trap.
+Now picture a hard homework problem at the kitchen table. You write a first guess, then frown, erase, and check the units, and you ask whether the answer makes sense. That second pass is slower, and it costs effort. It is also how you catch the trap.
 
-Neither speed is "good" or "bad" by itself. Blurts win when the room is on fire and you need the exit. Careful checks win when a wrong first answer costs a grade, a deal, or a friendship. The question in this chapter is narrower: **do drink states nudge which speed you lean on**, under timed lab tasks?
+Neither speed is "good" or "bad" by itself. A fast blurt is the tool you want when the room is on fire and you need the exit. A careful check is the tool you want when a wrong first answer costs a grade, a deal, or a friendship. The question in this chapter is narrower. Under timed laboratory tasks, **do drink states nudge which speed you lean on**?
 
-You do not need formal labels for the open story. Think **fast blurt** versus **careful check**—a dimmer of effort, not a light switch labeled genius. The paper and theory names live in the foldouts.
+You do not need formal labels to follow the open story. Think of a **fast blurt** versus a **careful check**: a dimmer of effort, not a light switch labeled genius. The paper and theory names live in the foldouts.
 
 ## Why the cup might move the dimmer
 
-Tea patterns in the cited studies are described as helping keep impulsive reactions in check, with [L-theanine](../../glossary.qmd#l-theanine) and caffeine together linked with longer careful focus.[^2] That is not "tea makes you wise." It is closer to: *the spotlight stays steadier on a boring attention task.*
+In the studies cited here, tea patterns are described as helping keep impulsive reactions in check. [L-theanine](../../glossary.qmd#l-theanine) and caffeine together are linked with longer careful focus.[^2] That is not a claim that tea makes you wise. It is closer to this picture: *the spotlight stays steadier on a boring attention task.*
 
-Coffee under stress can push rapid shortcuts. It may help simple arithmetic—the kind of work that rewards speed—but can suffer on complex reflective tasks when time pressure or anxiety is already high (Rogers et al., 2013 source). Alcohol makes the fast blurt dominant and careful control drops sharply—the classic idea that intoxication narrows attention to the most immediate cues.[^3]
+Coffee under stress can push you toward rapid shortcuts. It may help simple arithmetic, the kind of work that rewards speed, but performance can suffer on complex reflective tasks when time pressure or anxiety is already high (Rogers et al., 2013 source). Alcohol makes the fast blurt dominant, and careful control drops sharply. That is the classic idea that intoxication narrows attention to the most immediate cues.[^3]
 
-In everyday clothes:
+In everyday clothes, the contrast looks like this.
 
 - **Tea combo (as studied):** more like keeping the homework patience available a little longer.
 - **High-caffeine under stress:** more like the quiz-show buzzer getting louder.
 - **Alcohol:** more like the whole room shrinking to whatever is loudest right now—a joke, an insult, an unfair offer.
 
-Same broad family of caffeine still sits in many tea designs. The pattern changes when L-theanine joins and the task rewards sustained control—not when marketing renames caffeine.
+The same broad family of caffeine still sits in many tea designs. The pattern changes when L-theanine joins and the task rewards sustained control. It does not change merely because marketing renames caffeine.
 
 ::: {.callout-note collapse="true" title="More detail: System 1 / System 2 table (formal labels)"}
-Psychologists often talk about two modes (Kahneman's dual-process framing, building on earlier work with Tversky):[^1]
+Psychologists often talk about two modes. The usual frame is Kahneman's dual-process account, building on earlier work with Tversky:[^1]
 
 | Metric | System 1 (fast blurt) | System 2 (careful check) | Source frame |
 | --- | --- | --- | --- |
@@ -48,23 +48,23 @@ Psychologists often talk about two modes (Kahneman's dual-process framing, build
 | Coffee pattern | Under stress, can push rapid shortcuts | May help simple arithmetic; can suffer on complex reflective tasks | Rogers line |
 | Alcohol pattern | Becomes dominant | Careful control drops sharply | Steele & Josephs (1990) [^3] |
 
-Dual-process work treats this as a **spectrum of effort**, not a binary drink switch. Do not read the table as "coffee = dumb, tea = wise."
+Dual-process work treats this as a **spectrum of effort**, not a binary drink switch. Read the table as a spectrum. The slogan "coffee = dumb, tea = wise" is the reading to set aside.
 :::
 
 ## A kitchen scene: blurting into a trap
 
-Imagine a question with an intuitive wrong answer and a slower right answer—the kind of item used in reflection tests. Under a pure caffeine capsule, the sources' Brunyé-line snapshot says impulsive errors rose versus placebo.[^7] That is not "caffeine makes you stupid." It is "caffeine can speed you into the trap when the trap rewards patience."
+Imagine a question with an intuitive wrong answer and a slower right answer, the kind of item used in reflection tests. Under a pure caffeine capsule, the sources' Brunyé-line snapshot says impulsive errors rose versus placebo.[^7] That finding is not a claim that caffeine makes you stupid. It is a claim that caffeine can speed you into the trap when the trap rewards patience.
 
-Now flip the drink story. A theanine-plus-caffeine combination helped attention switching and cut distractibility at about an hour in Owen et al.[^2] Related vigilance snapshots in the sources show more hits and fewer false alarms.[^5] A Stroop-style interference cost (naming ink color when the word says something else) fell under L-theanine in the Higashiyama-line source reading.[^6]
+The drink story can also run the other way. A theanine-plus-caffeine combination helped attention switching and cut distractibility at about an hour in Owen et al.[^2] Related vigilance snapshots in the sources show more hits and fewer false alarms.[^5] A Stroop-style interference cost, naming the ink color when the word says something else, fell under L-theanine in the Higashiyama-line source reading.[^6]
 
-Same broad stimulant family—different pattern when L-theanine joins and the task rewards sustained control.
+It is still the same broad stimulant family. The pattern differs when L-theanine joins and the task rewards sustained control.
 
-People love a neat slogan: "Coffee = fast thinking, tea = careful thinking." Too neat. A careful reading of the sources is blunt: these operations sit on a continuous spectrum of executive effort, not a binary physiological switch. Caffeine accelerates basic psychomotor speed; it degrades performance on high-complexity reflective tasks primarily under **high time-pressure** or **pre-existing anxiety**. L-theanine + caffeine stabilizes sustained attention, but its capacity to reduce cognitive biases (anchoring, framing) is heavily moderated by task structure and baseline cognitive capacity.[^1][^2]
+People love a neat slogan: "Coffee = fast thinking, tea = careful thinking." The slogan is too neat. A careful reading of the sources is blunt. These operations sit on a continuous spectrum of executive effort, not a binary physiological switch. Caffeine accelerates basic psychomotor speed. It degrades performance on high-complexity reflective tasks primarily under **high time-pressure** or **pre-existing anxiety**. L-theanine + caffeine stabilizes sustained attention, but its capacity to reduce cognitive biases (anchoring, framing) is heavily moderated by task structure and baseline cognitive capacity.[^1][^2]
 
-So: caffeine can speed the blurting; under time pressure or anxiety it can hurt the careful check. L-theanine + caffeine is studied for sustained attention—**not** for deleting every bias.
+Caffeine can speed the blurting. Under time pressure or anxiety, it can hurt the careful check. L-theanine + caffeine is studied for sustained attention—**not** for deleting every bias.
 
 ::: {.callout-note collapse="true" title="More detail: dual-process snapshots (lab doses, not slogans)"}
-These are isolated lab doses—often capsules or matched drinks—not "your grocery mug at 9 a.m."
+These are isolated laboratory doses, often capsules or matched drinks. They are not your grocery mug at 9 a.m.
 
 | Task | Condition | Finding | Trail |
 | --- | --- | --- | --- |
@@ -74,35 +74,35 @@ These are isolated lab doses—often capsules or matched drinks—not "your groc
 | Stroop interference | **200 mg** L-theanine (source) | Interference cost down about **28.4 ms** | Higashiyama et al. (2011 source) [^6] |
 | Cognitive Reflection Test | **200 mg** caffeine vs placebo (source) | Impulsive (System 1) errors up about **14.2%** | Brunyé et al. (2012 source) [^7] |
 
-What these tasks are *for*:
+What these tasks are *for* is easier to keep straight in plain language.
 
 - **CRT** — traps that punish blurting the intuitive wrong answer.
-- **Stroop** — naming ink color when the word says something else (inhibit automatic reading).
+- **Stroop** — naming the ink color when the word says something else (you inhibit automatic reading).
 - **RVIP / switching** — sustained attention under load.
 
-Alcohol makes System 1 dominant via alcohol myopia—attention narrows to the most immediate cues.[^3] Chapter 2's L-theanine story connects here: by softening excess glutamate signaling, L-theanine is linked with better sustained attention on hard switching tasks (see [Linkages](../../linkages.qmd) and [Chapter 2 · Section 1 Brain action](../module-02/01-brain-action.qmd)).
+Alcohol makes System 1 dominant via alcohol myopia. Attention narrows to the most immediate cues.[^3] Chapter 2's L-theanine story connects here. By softening excess glutamate signaling, L-theanine is linked with better sustained attention on hard switching tasks (see [Linkages](../../linkages.qmd) and [Chapter 2 · Section 1 Brain action](../module-02/01-brain-action.qmd)).
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: how to read a 'tea makes you wiser' headline"}
-Ask four questions before you believe the headline:
+Before you believe the headline, ask four questions.
 
 1. **Which task?** CRT, Stroop, RVIP, and "real negotiation" are not interchangeable.
 2. **Which dose?** **100/50**, **200** L-theanine, **200** caffeine—or a cafe latte of unknown mg?
 3. **Which timing?** Many attention designs land near **+40 to +60 minutes**—see [4.4](04-study-protocols.qmd).
 4. **Which contrast?** Placebo capsule, decaf, water, or "no drink"? Expectation matters.
 
-If those answers are missing, keep the finding on the "interesting hint" shelf—not the "life rule" shelf.
+If those answers are missing, keep the finding on the "interesting hint" shelf, and leave the "life rule" shelf for another day.
 :::
 
 ## Alcohol as the extreme contrast
 
-If tea-combo studies are about *sustaining* careful attention, alcohol studies are about *narrowing* it. Steele and Josephs's alcohol-myopia idea: intoxication shrinks the spotlight to whatever is most immediate—sometimes a joke, sometimes an insult, sometimes an unfair offer.[^3]
+If tea-combo studies are about *sustaining* careful attention, alcohol studies are about *narrowing* it. Steele and Josephs's alcohol-myopia idea is that intoxication shrinks the spotlight to whatever is most immediate—sometimes a joke, sometimes an insult, sometimes an unfair offer.[^3]
 
-That extreme contrast helps beginners. You do not need to believe "tea = careful thinking" to believe "drinks can move the spotlight." Alcohol yanks the spotlight inward and short-range. L-theanine + caffeine designs more often try to keep the spotlight steady on a boring vigilance task. Different directions on the same dimmer metaphor.
+That extreme contrast helps beginners. You do not need to believe "tea = careful thinking" in order to believe that drinks can move the spotlight. Alcohol yanks the spotlight inward and short-range. L-theanine + caffeine designs more often try to keep the spotlight steady on a boring vigilance task. Those are different directions on the same dimmer metaphor.
 
 ## What "careful focus" is not
 
-L-theanine + caffeine helping vigilance hits is not the same as:
+L-theanine + caffeine helping vigilance hits is a narrower finding than any of these:
 
 - removing framing effects in a pricing decision,
 - fixing anchoring on a random number, or
@@ -112,9 +112,9 @@ The sources say bias reduction is task- and person-dependent. Hold that fence wh
 
 ## Bridge to Chapter 2 (and why false alarms matter)
 
-Chapter 2's L-theanine story was about quieter excitatory noise and calmer stress markers. Chapter 4's attention batteries ask whether that quieter control shows up as fewer false alarms and better switching. The linkage page stitches those claims; this lesson keeps the doses honest ([Chapter 2 · Section 1 Brain action](../module-02/01-brain-action.qmd); [Linkages](../../linkages.qmd)).
+Chapter 2's L-theanine story was about quieter excitatory noise and calmer stress markers. Chapter 4's attention batteries ask whether that quieter control shows up as fewer false alarms and better switching. The linkage page stitches those claims together, and this lesson keeps the doses honest ([Chapter 2 · Section 1 Brain action](../module-02/01-brain-action.qmd); [Linkages](../../linkages.qmd)).
 
-Speed of thinking is one axis. Appetite for risk—and patience for tomorrow—is another. That is the next sitting.
+Speed of thinking is one axis. Appetite for risk, and patience for tomorrow, is another. That is the next sitting.
 
 ::: {.callout-note collapse="true" title="More detail: spectrum language for beginners"}
 Think of executive effort like a dimmer, not a light switch.
@@ -122,26 +122,26 @@ Think of executive effort like a dimmer, not a light switch.
 - Low effort / fast: habits, first guesses, emotional reactions.
 - High effort / slow: checking, inhibiting, recomputing.
 
-Drinks nudge where the dimmer sits under load. They do not install a new personality. Anxiety and time pressure matter as much as milligrams—the sources say so explicitly in the heuristic-switch verification note.
+Drinks nudge where the dimmer sits under load. They do not install a new personality. Anxiety and time pressure matter as much as milligrams. The sources say so explicitly in the heuristic-switch verification note.
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 5 · Section 1"}
-1. Open story = fast blurt vs careful check; formal System 1/2 labels live in foldouts.[^1]
-2. Tea combo → sustained attention pattern in cited designs—not "wiser about everything."[^2]
+1. The open story is a fast blurt versus a careful check. Formal System 1/2 labels live in the foldouts.[^1]
+2. In the cited designs, a tea combo lines up with a sustained-attention pattern, and that pattern is not "wiser about everything."[^2]
 3. Pure caffeine can speed you into reflection traps under pressure.[^7]
-4. Alcohol myopia = spotlight shrinks to the immediate.[^3]
-5. Ask task / dose / timing / contrast before believing a headline.
-6. Next: losses that sting and tomorrows that fade—still no invented tea-and-markets theory.
+4. Alcohol myopia means the spotlight shrinks to the immediate.[^3]
+5. Ask about the task, the dose, the timing, and the contrast before you believe a headline.
+6. Next come losses that sting and tomorrows that fade, still with no invented tea-and-markets theory.
 :::
 
 ## Story in one minute
 
-Quiz-show speed blurts; homework patience checks. Tea-plus-caffeine designs in the sources more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure; alcohol shrinks the spotlight to the immediate. Formal [System 1 / System 2](../../glossary.qmd#dual-process-theory) labels and dose tables live behind the click.
+Quiz-show speed is the fast blurt, and homework patience is the careful check. Tea-plus-caffeine designs in the sources more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure, and alcohol shrinks the spotlight to the immediate. Formal [System 1 / System 2](../../glossary.qmd#dual-process-theory) labels and dose tables live behind the click.
 
 ::: {.callout-tip title="You can stop here"}
-- Everyday idea: quiz-show blurt vs homework patience—formal System 1/2 labels live in foldouts.
-- Tea combo → sustained attention in cited designs—not "wiser about everything."
-- Ask task / dose / timing / contrast before believing a headline.
+- Everyday idea: a quiz-show blurt versus homework patience, with the formal System 1/2 labels living in the foldouts.
+- In the cited designs, a tea combo lines up with sustained attention, and that pattern is not "wiser about everything."
+- Ask about the task, the dose, the timing, and the contrast before you believe a headline.
 :::
 
 ---

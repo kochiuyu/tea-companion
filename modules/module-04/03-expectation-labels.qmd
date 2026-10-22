@@ -9,31 +9,31 @@ title: "Section 3 · What you think the mug is"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes. Foldouts hold denser expectancy sketches, one infusion-label design, and pointer tables into Chapter 5 protocols. This lesson is a third context dial—not a second methods textbook.
+Superscript numbers are clickable footnotes. The foldouts hold denser sketches of expectancy, one infusion-label design, and pointer tables into Chapter 5 protocols. This lesson is a third context dial. It is not a second methods textbook.
 :::
 
 ## Same liquid, different story
 
-[Section 1](01-warmth-trust.qmd) was the mug's **temperature**. [Section 2](02-ritual-stress.qmd) was the hands' **script**. Expectation is the **name** on the experience—what you were told the liquid *is*, and what the vessel and label ask you to believe before the first sip.
+[Section 1](01-warmth-trust.qmd) was the mug's **temperature**. [Section 2](02-ritual-stress.qmd) was the **script** in the hands. Expectation is the **name** on the experience: what you were told the liquid *is*, and what the vessel and the label ask you to believe before the first sip.
 
-Picture one kitchen pot of the same brew. Split it into four mugs and rename them without changing the leaf: "specialty," "bag," "just hot water," "medicinal." Nothing new dissolved in the water. What changed is the story riding along—the cue that tells your brain which template to open. Price tags, porcelain versus paper cup, a cafe menu line, a wellness claim on a box: all of those can act as names. The temperature dial from Section 1 can still warm the hands; the ritual dial from Section 2 can still pace the brew; neither dial is the *name* on the mug. Chemistry in the leaf still matters ([Chapter 1 · Compounds](../module-01/04-compounds.qmd)). Body state still matters ([Chapter 2](../module-02/index.qmd)). What you were *told*—and what the vessel and label look like—can ride along as a third tint. Keep the warmth lesson's voice: **tint, not destiny.**
+Picture one kitchen pot of the same brew. Split it into four mugs and rename them without changing the leaf: "specialty," "bag," "just hot water," "medicinal." Nothing new dissolved in the water. What changed is the story riding along, the cue that tells your brain which template to open. A price tag, porcelain versus a paper cup, a line on a cafe menu, a wellness claim on a box: any of those can act as a name. The temperature dial from Section 1 can still warm the hands. The ritual dial from Section 2 can still pace the brew. Neither dial is the *name* on the mug. Chemistry in the leaf still matters ([Chapter 1 · Compounds](../module-01/04-compounds.qmd)). Body state still matters ([Chapter 2](../module-02/index.qmd)). What you were *told*, and what the vessel and the label look like, can ride along as a third tint. Keep the warmth lesson's voice: **tint, not destiny.**
 
 ## Belief and labels as a third dial
 
-Think of three dials on one cup. Dial one is temperature (Section 1). Dial two is the brewing script (Section 2). Dial three is belief and labels: chemistry plus body plus **what you were told**. This section owns only the third dial. It is not a second chemistry lesson, and it is not a ritual lesson in disguise.
+Think of three dials on one cup. Dial one is temperature (Section 1). Dial two is the brewing script (Section 2). Dial three is belief and labels: chemistry, plus the body, plus **what you were told**. This section owns only the third dial. It is not a second chemistry lesson, and it is not a ritual lesson in disguise.
 
-Marketing and sensory research show that extrinsic cues—price, packaging, labels, descriptions—can shape expectations and even measured performance or rated experience.[^1][^2]
+Marketing and sensory research show that extrinsic cues, such as price, packaging, labels, and descriptions, can shape expectations. They can even shape measured performance or a rated experience.[^1][^2]
 
-Shiv, Carmon, and Ariely (2005) gave people the same energy drink at regular versus discounted price; those who paid less solved fewer puzzles, consistent with weaker efficacy expectations—not a tea trial, but a clean teaching picture that **belief about the drink rides along with the liquid**.[^1] Piqueras-Fiszman and Spence (2015) review how product-extrinsic food cues (labels, packaging, pictures) shape sensory expectations and experience across many designs.[^2] The review also sketches assimilation-style accounts—how an expectation can pull the later rating toward itself—but that vocabulary stays in the foldout. For the open story, one sentence is enough: the name on the mug is not decoration; it is part of the experience you will later rate.
+Shiv, Carmon, and Ariely (2005) gave people the same energy drink at a regular price and at a discounted price. Those who paid less solved fewer puzzles, consistent with weaker expectations of efficacy. It is not a tea trial. It is a clean teaching picture of the idea that **belief about the drink rides along with the liquid**.[^1] Piqueras-Fiszman and Spence (2015) review how product-extrinsic food cues (labels, packaging, pictures) shape sensory expectations and experience across many designs.[^2] The review also sketches assimilation-style accounts, in which an expectation can pull the later rating toward itself, but that vocabulary stays in the foldout. For the open story, one sentence is enough. The name on the mug is not decoration. It is part of the experience you will later rate.
 
-Teaching examples in this literature often use energy drinks, packaged foods, or other non-tea products. Say that out loud before the tea-adjacent designs below, so the mechanism stays honest.
+Teaching examples in this literature often use energy drinks, packaged foods, or other products that are not tea. Say that out loud before the tea-adjacent designs below, so the mechanism stays honest.
 
 ::: {.callout-caution title="Honesty fence"}
-- General expectancy / marketing-placebo paradigms are often **not** [*Camellia sinensis*](../../glossary.qmd#sinensis) tea. Say so when we use them.
-- One beverage design below uses an unfamiliar **herbal** infusion labeled "relaxing" vs "activating"—**herbal infusion ≠ *Camellia* tea**. Do not treat it as a tea-leaf pharmacology or *Camellia* labeling RCT.
+- General expectancy and marketing-placebo paradigms are often **not** [*Camellia sinensis*](../../glossary.qmd#sinensis) tea. Say so when we use them.
+- One beverage design below uses an unfamiliar **herbal** infusion labeled "relaxing" versus "activating". **Herbal infusion ≠ *Camellia* tea**. Do not treat it as tea-leaf pharmacology, or as a *Camellia* labeling RCT.
 - Do not invent tea-placebo effect sizes ("% better because labeled specialty").
-- Expectation ≠ [L-theanine](../../glossary.qmd#l-theanine) calm (Chapter 2 owns chemistry).
-- Expectation ≠ warmth priming ≠ scripted ritual (siblings; mapped in [Section 4](04-context-dials-map.qmd)).
+- Expectation is not the same thing as [L-theanine](../../glossary.qmd#l-theanine) calm (Chapter 2 owns chemistry).
+- Expectation is not warmth priming, and it is not a scripted ritual. The three are siblings, mapped in [Section 4](04-context-dials-map.qmd).
 :::
 
 ::: {.callout-note collapse="true" title="More detail: label-cue / expectancy teaching sketch"}
@@ -44,21 +44,21 @@ Teaching examples in this literature often use energy drinks, packaged foods, or
 | Vessel / teaware | Chinese participants' expected bitterness/astringency and pleasantness shifted with Chinese vs British teaware images (Li et al.)[^3] | Pharmacology of caffeine |
 | Infusion labeled relaxing vs activating | Unfamiliar **herbal** infusion: relaxation ratings shift when unaware of the manipulation; liking rises with positive labels vs control (Kuenzel et al.)[^4] | A *Camellia* tea RCT—**herbal ≠ tea leaf** |
 
-Assimilation and related expectation accounts in the sensory review are foldout vocabulary—not required for the open story.[^2]
+Assimilation and the related accounts of expectation, in the sensory review, are foldout vocabulary. They are not required for the open story.[^2]
 :::
 
 ## Tea-adjacent: teaware as an extrinsic cue
 
-When we want a **tea** example, Li, Qi, Spence, and Wan (2020) showed Chinese participants photographs of green tea in Chinese or British teaware. The liquid in the photos was tea; the manipulation was the vessel and the story around it. Teaware shifted expected bitterness and astringency; it also affected pleasantness when price was hidden, and price labels could wipe out that pleasantness effect.[^3] In other words, the cup can rewrite the *expected* taste before anyone has sipped—and a price tag can rewrite the pleasantness story again.
+When we want a **tea** example, Li, Qi, Spence, and Wan (2020) showed Chinese participants photographs of green tea in Chinese or British teaware. The liquid in the photos was tea. The manipulation was the vessel, and the story around it. Teaware shifted expected bitterness and astringency. It also affected pleasantness when price was hidden, and price labels could wipe out that pleasantness effect.[^3] In other words, the cup can rewrite the *expected* taste before anyone has sipped, and a price tag can rewrite the pleasantness story again.
 
-The cultural-limits beat matters for beginners. U.S. participants in the same paper did not show the same bitterness/astringency pattern with those vessel images.[^3] So even "vessel cues" are not universal magic: the name on the cup can pull harder when the vessel already belongs in a shared tea culture, and softer when it does not. Chinese versus British ware is a teaching contrast in that design, not a worldwide rule that porcelain always beats a mug. That is expectation wearing a teacup, not a claim that fancy porcelain changes milligrams of caffeine—or that every drinker will read the same vessel the same way. Keep the fence next to the finding: tea-adjacent and culturally bounded, not pharmacology and not destiny.
+The beat about cultural limits matters for a beginner. U.S. participants in the same paper did not show the same bitterness and astringency pattern with those vessel images.[^3] So even "vessel cues" are not universal magic. The name on the cup can pull harder when the vessel already belongs in a shared tea culture, and it can pull more softly when it does not. Chinese versus British ware is a teaching contrast in that design, not a worldwide rule that porcelain always beats a mug. That is expectation wearing a teacup. It is not a claim that fancy porcelain changes milligrams of caffeine, or that every drinker will read the same vessel the same way. Keep the fence next to the finding: tea-adjacent and culturally bounded, not pharmacology and not destiny.
 
 ## "Told what the drink does"
 
-Some beverage designs go one step further than teaware photos: they **label** an unfamiliar infusion "relaxing" or "activating" and then ask how people feel. Kuenzel and colleagues (2012) did that with an unfamiliar **herbal** infusion—not *Camellia* tea.[^4] When people were unaware of the manipulation, relaxation ratings shifted with the label; liking rose with positive labels versus control. Awareness changed the placebo pattern for feeling relaxed, but not for liking. Full design, and the herbal ≠ *Camellia* fence, live in the foldout—use the hinge here only as "told what the drink does," not as a tea RCT.
+Some beverage designs go one step further than photographs of teaware. They **label** an unfamiliar infusion "relaxing" or "activating," and then they ask how people feel. Kuenzel and colleagues (2012) did that with an unfamiliar **herbal** infusion, not *Camellia* tea.[^4] When people were unaware of the manipulation, relaxation ratings shifted with the label, and liking rose with positive labels versus control. Awareness changed the placebo pattern for feeling relaxed, but not for liking. The full design, and the fence that herbal infusion is not *Camellia*, live in the foldout. Use the hinge here only as "told what the drink does," not as a tea RCT.
 
 ::: {.callout-note collapse="true" title="More detail: infusion label & awareness (Kuenzel 2012)"}
-**Design (teaching sketch).** Participants tasted an unfamiliar **herbal** infusion under labels that framed it as activating versus relaxing (plus control-style comparisons in the paper). The drink was not *Camellia sinensis* tea.[^4]
+**Design (teaching sketch).** Participants tasted an unfamiliar **herbal** infusion under labels that framed it as activating versus relaxing, plus the control-style comparisons in the paper. The drink was not *Camellia sinensis* tea.[^4]
 
 **What the sources allow us to say.**
 
@@ -68,13 +68,13 @@ Some beverage designs go one step further than teaware photos: they **label** an
 | Liking rose with positive labels vs control | Not a tea-leaf pharmacology result |
 | **Awareness** changed placebo effects for feeling relaxed, but **not** for liking (title claim) | Do not invent % effect sizes beyond the paper |
 
-**Why it sits here.** Closest peer-reviewed "told what the drink does" beverage design in the Chapter 4 research pack. It teaches label-as-dial beside Shiv (price/efficacy) and Li (teaware/taste expectations)—with a louder honesty fence than either, because the liquid itself is herbal, not tea leaf.
+**Why it sits here.** It is the closest peer-reviewed "told what the drink does" beverage design in the Chapter 4 research pack. It teaches label-as-dial beside Shiv (price and efficacy) and Li (teaware and taste expectations), with a louder honesty fence than either, because the liquid itself is herbal, not tea leaf.
 
-**What it is not.** Not a *Camellia* labeling RCT. Not permission to invent "specialty vs bag" tea-placebo percentages. Not Chapter 2 chemistry and not Section 2 ritual.
+**What it is not.** It is not a *Camellia* labeling RCT. It is not permission to invent "specialty versus bag" tea-placebo percentages. It is not Chapter 2 chemistry, and it is not Section 2 ritual.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what Chapter 5 · Section 4 already locks (pointer only)"}
-If labels and sensory theater can leak into ratings, careful trials earn their keep:
+If labels and sensory theater can leak into ratings, careful trials earn their keep. The habits below are the reason:
 
 | Protocol habit | Why it belongs beside this lesson | Where the full table lives |
 | --- | --- | --- |
@@ -83,25 +83,25 @@ If labels and sensory theater can leak into ratings, careful trials earn their k
 | Bitterness matching | Fight "this tastes real" expectancy | same |
 | Washout | Yesterday's coffee is also a belief-and-body confound | same |
 
-No new milligram claims here. Headline checklist habit: [Reading a tea study](../../tea-reading-studies.qmd).
+No new milligram claims here. The headline checklist habit lives at [Reading a tea study](../../tea-reading-studies.qmd).
 :::
 
 ## Why methods obsess over matched mugs
 
-Chapter 5's protocols are not bureaucracy for fun. If what you *think* the mug is can tint ratings and felt states, then opaque cups, bitterness matching, temperature lock, and washout are how labs try to talk about chemistry without letting expectation wear a lab coat.[^5] Opaque mugs hide color theater. Matched temperature holds the warmth dial still (Section 1's lesson). Bitterness matching fights the "this tastes like the real thing" expectancy. Washout keeps yesterday's coffee from arriving as both a body confound and a belief confound. None of those habits are re-taught as tables here—they already live in [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd) and the [Reading a tea study](../../tea-reading-studies.qmd) door.
+Chapter 5's protocols are not bureaucracy for the sake of bureaucracy. If what you *think* the mug is can tint ratings and felt states, then opaque cups, bitterness matching, a temperature lock, and washout are how labs try to talk about chemistry without letting expectation wear a lab coat.[^5] Opaque mugs hide the theater of color. Matched temperature holds the warmth dial still (Section 1's lesson). Bitterness matching fights the expectancy that "this tastes like the real thing." Washout keeps yesterday's coffee from arriving as both a body confound and a belief confound. None of those habits are re-taught as tables here. They already live in [Chapter 5 · Section 4](../module-05/04-study-protocols.qmd) and at the [Reading a tea study](../../tea-reading-studies.qmd) door.
 
-Field kitchens are messier—and that is fine. A cafe can sell a story with the cup: menu name, porcelain, price, the barista's line about "specialty." That story is real life. It is not the same object as a controlled cup where the label, vessel, temperature, and bitterness are held still on purpose so chemistry can be heard. Confusing the two is how a kitchen vignette pretends to be a trial. Keep both: enjoy the cafe story; when you read a tea study, ask whether expectation was wearing the lab coat.
+A field kitchen is messier, and that is fine. A cafe can sell a story with the cup: a menu name, porcelain, a price, the barista's line about "specialty." That story is real life. It is not the same object as a controlled cup, where the label, the vessel, the temperature, and the bitterness are held still on purpose so chemistry can be heard. Confusing the two is how a kitchen vignette pretends to be a trial. Keep both. Enjoy the cafe story. When you read a tea study, ask whether expectation was wearing the lab coat.
 
 ## Handoff to the map
 
-You now have three sibling lessons: warmth in the hands, script in the brew, and name on the experience. Next section puts warmth + ritual + expectation on one beginner map—three dials, one picture—before the chapter opens the door into Decisions games. That map is synthesis, not a new experiment: it restates the fences (expectation ≠ L-theanine; ≠ warmth; ≠ ritual) and points forward without inventing effect sizes. Alone-versus-shared-pot social setting stays a question for later, not a fourth dial invented on this page.
+You now have three sibling lessons: warmth in the hands, a script in the brew, and a name on the experience. The next section puts warmth, ritual, and expectation on one beginner map, three dials in one picture, before the chapter opens the door into the Decisions games. That map is a synthesis, not a new experiment. It restates the fences (expectation is not L-theanine, not warmth, and not ritual) and points forward without inventing effect sizes. The social setting of an alone cup versus a shared pot stays a question for later. It is not a fourth dial invented on this page.
 
 ::: {.callout-tip title="You can stop here"}
-- Belief and labels are a third context dial beside warmth and ritual.
-- General expectancy evidence (price, packaging) teaches the mechanism—often not tea leaf.[^1][^2]
-- Teaware can shift taste expectations in tea-specific designs—with cultural limits.[^3]
-- Label-on-infusion designs in the research pack are often **non-*Camellia*** (Kuenzel herbal)—say so.[^4]
-- Point to Chapter 5 protocols / Reading-studies door; do not re-teach parameter tables here.
+- Belief and labels are a third context dial, beside warmth and ritual.
+- General expectancy evidence (price, packaging) teaches the mechanism, and it is often not about the tea leaf.[^1][^2]
+- Teaware can shift taste expectations in tea-specific designs, with cultural limits.[^3]
+- Label-on-infusion designs in the research pack are often **non-*Camellia*** (Kuenzel, herbal). Say so.[^4]
+- Point onward to Chapter 5 protocols and the Reading-studies door. Do not re-teach the parameter tables here.
 :::
 
 ---

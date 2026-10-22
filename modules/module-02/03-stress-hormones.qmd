@@ -5,96 +5,96 @@ title: "Section 3 · When the fire alarm rings"
 {{< include ../../_includes/lang-switcher/module-02-stress-hormones.en.qmd >}}
 
 ::: {.callout-tip}
-**Chapter 2 · Section 3 of 4** — part of [Chapter 2 · Body, Brain & Mood](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
+**Chapter 2 · Section 3 of 4** is part of [Chapter 2 · Body, Brain & Mood](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is waiting.
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold hormone-loop names, dose tables, and paper-by-paper honesty notes so the open page stays everyday language.
+Superscript numbers are clickable footnotes. A click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold hormone-loop names, dose tables, and paper-by-paper honesty notes, so the open page can stay in everyday language.
 :::
 
 ## Stress has a chemistry too
 
-Brain signaling ([2.1](01-brain-action.qmd)) and brain rhythms ([2.2](02-brainwaves.qmd)) are two windows on tea's dual story. This sitting opens a third: **what happens in the body when the day itself is noisy**.
+Brain signaling ([2.1](01-brain-action.qmd)) and brain rhythms ([2.2](02-brainwaves.qmd)) are two windows on tea's dual story. This sitting opens a third window: **what happens in the body when the day itself is noisy**.
 
-When you are stressed, the body runs a chemical fire-alarm loop. One main output is a stress hormone many people have heard of: **cortisol**. Another fast "go" signal is adrenaline. You do not need the full loop diagram to follow the story—the foldouts hold it.
+When you are stressed, the body runs a chemical fire-alarm loop. One main output is a stress hormone many people have heard of, **cortisol**. Another fast "go" signal is adrenaline. You do not need the full loop diagram to follow the story. The foldouts hold that diagram.
 
 ## Plain takeaways
 
-Imagine a fire alarm (real stress) and also a loud caffeine "boost" siren.
+Picture a fire alarm, which is real stress, and also a loud caffeine "boost" siren.
 
 - Caffeine can push the stress-chemistry loop and raise cortisol.
-- With daily caffeine use, that *caffeine-driven* siren often gets quieter over days—but the fire alarm of **real stress** can still ring.[^5]
+- With daily caffeine use, that *caffeine-driven* siren often gets quieter over days, but the fire alarm of **real stress** can still ring.[^5]
 - [L-theanine](../../glossary.qmd#l-theanine) is studied for helping keep heart rate, blood pressure, stress-linked enzymes, and how stressed people *feel* nearer baseline when the load is on.[^1][^3][^4]
 
-In everyday clothes: habit can quiet the caffeine siren. It does not delete the fire alarm. That is exactly where L-theanine studies earn their keep.
+In everyday clothes, habit can quiet the caffeine siren, but it does not delete the fire alarm. That is exactly where L-theanine studies earn their keep.
 
 ::: {.callout-note collapse="true" title="More detail: the stress loop, study table, and honesty notes"}
 When you are stressed, the body runs a loop often called the **HPA axis** (brain → pituitary → adrenals). One output is **cortisol**. Another related signal is **epinephrine** (adrenaline). **Salivary alpha-amylase (sAA)** is a stress-linked enzyme often used as a "go-system" marker.
 
 | Measure | Condition | Finding | Source |
 | --- | --- | --- | --- |
-| Heart rate / salivary IgA under arithmetic stress | L-theanine vs placebo | L-theanine reduced heart-rate and salivary immune-stress responses; heart-rhythm pattern suggested less "go" drive | Kimura et al. (2007)[^1] |
-| Blood pressure / tension-anxiety under mental tasks | L-theanine vs placebo | L-theanine attenuated BP rise in high-response adults and lowered Tension-Anxiety scores vs placebo | Yoto et al. (2012)[^3] |
-| Morning salivary alpha-amylase during stressful practice | ~200 mg L-theanine twice daily vs placebo | Theanine group showed lower pre-practice sAA and lower subjective stress during a multi-day pharmacy practice | Unno et al. (2013)[^4] |
-| Salivary cortisol across the day | 250 mg caffeine challenges after controlled intake weeks | After abstinence, caffeine raised cortisol robustly; after ~5 days at 300–600 mg/day, morning challenge responses were blunted but not all-day abolished | Lovallo et al. (2005)[^5] |
+| Heart rate / salivary IgA under arithmetic stress | L-theanine vs placebo | L-theanine reduced heart-rate and salivary immune-stress responses; the heart-rhythm pattern suggested less "go" drive | Kimura et al. (2007)[^1] |
+| Blood pressure / tension-anxiety under mental tasks | L-theanine vs placebo | L-theanine attenuated the blood-pressure rise in high-response adults and lowered Tension-Anxiety scores versus placebo | Yoto et al. (2012)[^3] |
+| Morning salivary alpha-amylase during stressful practice | ~200 mg L-theanine twice daily vs placebo | The theanine group showed lower pre-practice sAA and lower subjective stress during a multi-day pharmacy practice | Unno et al. (2013)[^4] |
+| Salivary cortisol across the day | 250 mg caffeine challenges after controlled intake weeks | After abstinence, caffeine raised cortisol robustly; after ~5 days at 300–600 mg/day, morning challenge responses were blunted but not abolished for the whole day | Lovallo et al. (2005)[^5] |
 
 **Honesty note: where secondary tables and papers diverge**
 
-Some secondary tables attribute a neat salivary-cortisol delta (L-theanine ~±5% vs placebo ~+22%) to **Yoto et al. (2012)**. The published Yoto 2012 paper measures **blood pressure and mood under stress**, not that cortisol contrast.[^3] This lesson therefore cites Yoto for BP/anxiety, Kimura for HR/sIgA, Unno for sAA under real student stress, and Lovallo for caffeine–cortisol adaptation—and does **not** repeat the mismatched cortisol attribution as fact.
+Some secondary tables attribute a neat salivary-cortisol delta (L-theanine ~±5% vs placebo ~+22%) to **Yoto et al. (2012)**. The published Yoto 2012 paper measures **blood pressure and mood under stress**, not that cortisol contrast.[^3] This lesson therefore cites Yoto for blood pressure and anxiety, Kimura for heart rate and sIgA, Unno for sAA under real student stress, and Lovallo for caffeine–cortisol adaptation, and it does **not** repeat the mismatched cortisol attribution as fact.
 
-Some secondary tables also phrase caffeine–cortisol adaptation as "nearly gone within five days." Lovallo's controlled trial is more precise: after five days at 300 or 600 mg/day, the **morning** caffeine-challenge cortisol response was largely abolished, but cortisol could still rise later in the day after further doses—**reduced, not eliminated**.[^5]
+Some secondary tables also phrase caffeine–cortisol adaptation as "nearly gone within five days." Lovallo's controlled trial is more precise. After five days at 300 or 600 mg/day, the **morning** caffeine-challenge cortisol response was largely abolished, but cortisol could still rise later in the day after further doses. The response was **reduced, not eliminated**.[^5]
 
-**Vessel tone.** Caffeine can constrict cerebral vessels as part of its sleepy-signal blockade story.[^7] L-theanine has been shown in cell work to promote nitric-oxide production in endothelial cells—one plausible path for "steadier pressure" language.[^2] Yoto's human stress design adds a bridge: L-theanine can blunt task-related blood-pressure climbs in high-responders.[^3] That is mechanism-plus-trial talk, not a home blood-pressure prescription.
+**Vessel tone.** Caffeine can constrict cerebral vessels as part of its sleepy-signal blockade story.[^7] L-theanine has been shown in cell work to promote nitric-oxide production in endothelial cells, which is one plausible path for "steadier pressure" language.[^2] Yoto's human stress design adds a bridge: L-theanine can blunt task-related blood-pressure climbs in high-responders.[^3] That is mechanism-plus-trial talk, not a home blood-pressure prescription.
 :::
 
 ::: {.callout-tip}
-**Before you believe a stress headline:** check **dose**, **task vs rest**, **timing**, and **what was compared**—the same four questions Chapter 2.2 teaches for brain-wave claims.
+**Before you believe a stress headline,** check **dose**, **task vs rest**, **timing**, and **what was compared**. Those are the same four questions Chapter 2.2 teaches for brain-wave claims.
 :::
 
 ## Myth check: "Caffeine permanently wrecks your adrenals"
 
-Acute caffeine can raise cortisol a lot. With daily use in the hundreds of milligrams, that caffeine-driven spike often shrinks within about five days of controlled intake—but the careful trial says **incomplete** quieting at everyday levels, not permanent adrenal destruction and not a total mute button.[^5] Stress-driven responses can still rise, which is exactly where L-theanine studies (Kimura, Yoto, Unno) earn their keep.[^1][^3][^4] Systematic reviews of L-theanine and stress/anxiety stay cautious: effects exist in some trials, but dose, setting, and what you measure matter.[^6]
+Acute caffeine can raise cortisol a lot. With daily use in the hundreds of milligrams, that caffeine-driven spike often shrinks within about five days of controlled intake. The careful trial, though, says the quieting is **incomplete** at everyday levels. It is not permanent adrenal destruction, and it is not a total mute button.[^5] Stress-driven responses can still rise, which is exactly where the L-theanine studies (Kimura, Yoto, Unno) earn their keep.[^1][^3][^4] Systematic reviews of L-theanine and stress or anxiety stay cautious. Effects exist in some trials, but dose, setting, and what you measure all matter.[^6]
 
 ## A bridge into Chapter 4
 
-This hormone thread also reaches forward into Chapter 4: when stress chemistry rises, people can become more aggressive risk seekers in some lab settings. Softened [loss aversion](../../glossary.qmd#loss-aversion-lambda) under pressure is one of the bridges on the [Linkages](../../linkages.qmd) page.
+This hormone thread also reaches forward into Chapter 4. When stress chemistry rises, people can become more aggressive risk seekers in some lab settings. Softened [loss aversion](../../glossary.qmd#loss-aversion-lambda) under pressure is one of the bridges on the [Linkages](../../linkages.qmd) page.
 
-Hormones are still somewhat invisible. What can you see on the outside of the body?
+Hormones are still somewhat invisible. The next question is what you can see on the outside of the body.
 
 ## Story in one minute
 
-Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caffeine can push that loop; habitual intake blunts caffeine-driven spikes incompletely. L-theanine is studied for keeping heart rate, blood pressure, stress enzymes, and subjective stress nearer baseline under load. Secondary tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here: Yoto is blood pressure and mood; Lovallo is caffeine–cortisol adaptation.
+Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caffeine can push that loop, and habitual intake blunts caffeine-driven spikes only incompletely. L-theanine is studied for keeping heart rate, blood pressure, stress enzymes, and subjective stress nearer baseline under load. Secondary tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here. Yoto is blood pressure and mood. Lovallo is caffeine–cortisol adaptation.
 
 ::: {.callout-tip title="You can stop here"}
 - Stress has a chemistry: a fire-alarm hormone story, not only a mood word.
-- Caffeine can raise the siren; L-theanine-linked drinks more often keep markers nearer baseline in cited designs.
-- Before you believe a stress headline: **dose, task, timing, contrast** (same literacy as Chapter 2.2).
+- Caffeine can raise the siren. Drinks linked with L-theanine more often keep markers nearer baseline in the cited designs.
+- Before you believe a stress headline, check **dose, task, timing, contrast**. That is the same literacy as Chapter 2.2.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
-- "I adapted to coffee" ≠ "stress no longer raises cortisol."[^5]
-- L-theanine stress findings are often **task** or **real-life stress** designs—not magic on a sofa.[^1][^4]
-- Vessel and blood-pressure talk is supportive physiology, not a treatment plan.[^2][^3]
+- "I adapted to coffee" does not mean "stress no longer raises cortisol."[^5]
+- L-theanine stress findings are often **task** designs or **real-life stress** designs, not magic on a sofa.[^1][^4]
+- Talk of vessels and blood pressure is supportive physiology, not a treatment plan.[^2][^3]
 :::
 
 ::: {.callout-note collapse="true" title="More detail: which paper answers which question?"}
 | Question | Better primary trail |
 | --- | --- |
-| Does L-theanine reduce HR / stress markers under acute lab stress? | Kimura et al. (2007)[^1] |
-| Does L-theanine blunt BP / tension under mental tasks? | Yoto et al. (2012)[^3] |
-| Does multi-day theanine change sAA / subjective stress in real student stress? | Unno et al. (2013)[^4] |
+| Does L-theanine reduce heart rate and stress markers under acute lab stress? | Kimura et al. (2007)[^1] |
+| Does L-theanine blunt blood pressure and tension under mental tasks? | Yoto et al. (2012)[^3] |
+| Does multi-day theanine change sAA and subjective stress in real student stress? | Unno et al. (2013)[^4] |
 | Does daily caffeine blunt caffeine-driven cortisol? | Lovallo et al. (2005) — reduced, not eliminated[^5] |
 | Do reviews stay cautious? | Williams et al. (2020)[^6] |
 
-Keeping the question matched to the paper is how this course stays honest when secondary tables blur together.
+Keeping each question matched to its paper is how this course stays honest when secondary tables blur together.
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 2 · Section 3"}
-1. Stress loop → cortisol; caffeine can push it (HPA axis in the foldout above).
-2. Habituation ≠ zero stress chemistry.[^5]
-3. L-theanine evidence is marker- and setting-specific.[^1][^3][^4]
-4. Correct table/paper mismatches when you see them (Yoto ≠ that cortisol delta).
-5. Next: body meters you can measure without a hormone assay.
+1. The stress loop runs toward cortisol, and caffeine can push it (the HPA axis is in the foldout above).
+2. Habituation is not the same thing as zero stress chemistry.[^5]
+3. L-theanine evidence is specific to the marker and the setting.[^1][^3][^4]
+4. When a table and a paper disagree, correct the mismatch (Yoto is not that cortisol delta).
+5. Next come body meters you can measure without a hormone assay.
 :::
 
 ---

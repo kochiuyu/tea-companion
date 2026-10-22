@@ -5,119 +5,119 @@ title: "Section 4 · What the body quietly admits"
 {{< include ../../_includes/lang-switcher/module-02-body-signals.en.qmd >}}
 
 ::: {.callout-tip}
-**Chapter 2 · Section 4 of 4** — part of [Chapter 2 · Body, Brain & Mood](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
+**Chapter 2 · Section 4 of 4** is part of [Chapter 2 · Body, Brain & Mood](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is waiting.
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold meter names (HRV, skin conductance), milligram doses, and µS / millisecond numbers so the open page stays everyday language.
+Superscript numbers are clickable footnotes. A click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold meter names (HRV, skin conductance), milligram doses, and µS / millisecond numbers, so the open page can stay in everyday language.
 :::
 
 ## Numbers you cannot feel—but labs can
 
-Besides mood surveys, labs track signals you might never notice yourself. This sitting closes Chapter 2's arc: signaling → rhythms → stress chemistry → **quiet body meters**.
+Besides mood surveys, labs track signals you might never notice in yourself. This sitting closes Chapter 2's arc, from signaling to rhythms to stress chemistry to **quiet body meters**.
 
-Three meters matter for the open story:
+Three meters matter for the open story.
 
-- **Heart-beat flexibility** — how much the gap between beats varies; more flexibility often means calmer "rest-and-digest" tone.
-- **Pupil size** — pupils widen when the "go" system is up.
-- **Tiny stress sweat** — sweat-gland changes so small you cannot feel them, but a lab can.[^1]
+- **Heart-beat flexibility** is how much the gap between beats varies. More flexibility often means a calmer "rest-and-digest" tone.
+- **Pupil size** is a second meter. Pupils widen when the "go" system is up.
+- **Tiny stress sweat** is a change in the sweat glands so small that you cannot feel it, although a lab can.[^1]
 
-Tea patterns in the sources often look calmer than coffee alone; alcohol often looks worse for these control signals.
+In the sources, tea patterns often look calmer than coffee alone, and alcohol often looks worse for these control signals.
 
 ## What the body quietly admits
 
-Think of heart-beat flexibility as how flexibly your heart "breathes" between beats when you are calm versus locked tight when you are stressed. Tiny stress sweat is like a meter you cannot feel but a lab can.[^1]
+Think of heart-beat flexibility as how flexibly your heart "breathes" between beats when you are calm, versus how locked tight it becomes when you are stressed. Tiny stress sweat is a meter you cannot feel, but a lab can.[^1]
 
-In plain patterns from these sources:
+The plain patterns in these sources look like this.
 
-- Tea-linked drinks often look like **steadier control** under load (more heart flexibility; steadier sweat).
-- Caffeine alone can look more **wired** (sweat spikes; pupils can widen).
-- Alcohol often **worsens** control signals.
+- Tea-linked drinks often look like **steadier control** under load, with more heart flexibility and steadier sweat.
+- Caffeine alone can look more **wired**, with sweat spikes and pupils that can widen.
+- Alcohol often **worsens** the control signals.
 
 ::: {.callout-note collapse="true" title="More detail: HRV, pupils, skin conductance, and example numbers"}
 | Measure | Plain meaning | Pattern in the cited studies |
 | --- | --- | --- |
-| Heart rate variability (HRV / RMSSD) | Beat-to-beat flexibility; higher often = more parasympathetic (calmer) tone | Tea / L-theanine linked with higher HF-HRV or RMSSD under load; coffee and alcohol tend to lower HRV |
-| Pupil size | Widens with sympathetic arousal | Caffeine can dilate; alcohol can slow the light reflex |
-| Skin conductance (SCL/SCR) | Tiny stress-sweat changes | Coffee can spike it; tea often steadier |
-| Vessel tone | Constriction vs relaxation | Caffeine can constrict cerebral vessels; L-theanine may counteract via nitric-oxide pathways[^2] |
+| Heart rate variability (HRV / RMSSD) | Beat-to-beat flexibility; a higher value often means more parasympathetic (calmer) tone | Tea and L-theanine are linked with higher HF-HRV or RMSSD under load; coffee and alcohol tend to lower HRV |
+| Pupil size | Widens with sympathetic arousal | Caffeine can dilate the pupil; alcohol can slow the light reflex |
+| Skin conductance (SCL/SCR) | Tiny stress-sweat changes | Coffee can spike skin conductance; tea is often steadier |
+| Vessel tone | Constriction versus relaxation | Caffeine can constrict cerebral vessels; L-theanine may counteract that via nitric-oxide pathways[^2] |
 
 **Example numbers from the sources (and their papers):**
 
-- **200 mg L-theanine** during mental arithmetic: heart-rate and stress-marker reductions consistent with less sympathetic drive; one common HRV index up about **15.4 ± 3.2 ms** in the narrative of Kimura-linked work.[^3]
-- **Pupil size and caffeine:** secondary tables cite about **+0.42 mm** mean pupil diameter under attention tasks with caffeine. Treat the exact millimetre figure as a secondary snapshot; the broader idea—that pupil dilation tracks locus coeruleus–norepinephrine arousal and mental effort—is grounded in integrative neuroscience reviews.[^4]
-- **200 mg L-theanine + 100 mg caffeine** under stress: skin conductance up only about **0.15 ± 0.04 µS** vs about **+0.88 µS** for caffeine alone in the source reading of Rogers and colleagues' *Time for tea* design.[^5]
+- **200 mg L-theanine** during mental arithmetic came with heart-rate and stress-marker reductions consistent with less sympathetic drive. In the narrative of Kimura-linked work, one common HRV index rose by about **15.4 ± 3.2 ms**.[^3]
+- **Pupil size and caffeine.** Secondary tables cite about **+0.42 mm** mean pupil diameter under attention tasks with caffeine. Treat the exact millimetre figure as a secondary snapshot. The broader idea, that pupil dilation tracks locus coeruleus–norepinephrine arousal and mental effort, is grounded in integrative neuroscience reviews.[^4]
+- **200 mg L-theanine + 100 mg caffeine** under stress raised skin conductance by only about **0.15 ± 0.04 µS**, versus about **+0.88 µS** for caffeine alone, in the source reading of Rogers and colleagues' *Time for tea* design.[^5]
 
-Higher HRV during hard thinking is also read as better top-down control—less impulsive, better emotional regulation—not only a "fitness score."[^3] Feeling "wired" has a skin signature too: that ~**+0.88 µS** caffeine-alone bump is measurable arousal, not only a mood word.[^5]
+Higher HRV during hard thinking is also read as better top-down control, meaning less impulsive responding and better emotional regulation, not only a "fitness score."[^3] The wired feeling has a skin signature too. That caffeine-alone bump of about **+0.88 µS** is measurable arousal, not only a mood word.[^5]
 :::
 
 ::: {.callout-tip}
-**Before you believe a body-signal headline:** check **dose**, **design**, **rest vs load**, and **timing**—the Chapter 2.2 literacy habit, applied to heart-beat flexibility and stress-sweat claims.
+**Before you believe a body-signal headline,** check **dose**, **design**, **rest vs load**, and **timing**. That is the Chapter 2.2 literacy habit, applied here to heart-beat flexibility and to stress-sweat claims.
 :::
 
 ## Myth check: "Heart flexibility is only a fitness score"
 
-People sometimes shrug: "That heart number is only for athletes." In these sources, higher flexibility during hard thinking is also read as better top-down control. [L-theanine](../../glossary.qmd#l-theanine) is described as protecting that balance; coffee or alcohol often reduce it.[^3]
+People sometimes shrug and say that heart number is only for athletes. In these sources, higher flexibility during hard thinking is also read as better top-down control. [L-theanine](../../glossary.qmd#l-theanine) is described as protecting that balance, while coffee or alcohol often reduce it.[^3]
 
-Notice how the wired feeling has a skin signature too: caffeine-driven alert patterns line up with higher tiny-sweat readings in one comparison.[^5] Feeling "wired" is not only a mood word.
+Notice that the wired feeling has a skin signature too. Caffeine-driven alert patterns line up with higher tiny-sweat readings in one comparison.[^5] Feeling "wired" is not only a mood word.
 
 ## A bridge into Chapter 4's protocols
 
-Matched tea-constituent drinks in Rogers and colleagues' design—*Time for tea*—are also a bridge into Chapter 4's protocol talk: same volume, controlled temperature, and timed cognitive tests after drinking.[^5] When Chapter 4 asks how careful studies are built, remember that these body meters only mean something if the mug, the clock, and the task are controlled.
+Matched tea-constituent drinks in the design Rogers and colleagues called *Time for tea* are also a bridge into Chapter 4's protocol talk: the same volume, a controlled temperature, and timed cognitive tests after drinking.[^5] When Chapter 4 asks how careful studies are built, remember that these body meters only mean something if the mug, the clock, and the task are controlled.
 
 ::: {.callout-tip collapse="true" title="More detail: reading body-signal headlines"}
-Before you trust a "tea calms your nervous system" headline, ask:
+Before you trust a headline that says "tea calms your nervous system," ask four questions.
 
 1. **Which meter?** Heart flexibility, tiny sweat, pupils, and hormones are not interchangeable.
-2. **Which dose?** 200 mg purified L-theanine ≠ one grocery bag.
+2. **Which dose?** 200 mg of purified L-theanine is not the same thing as one grocery bag.
 3. **Rest or stress task?** Kimura's arithmetic stress is not a sofa afternoon.
-4. **Compared to what?** Caffeine alone, placebo, or coffee?
+4. **Compared to what?** The comparison might be caffeine alone, placebo, or coffee.
 
 Then walk back through [2.1](01-brain-action.qmd)–[2.3](03-stress-hormones.qmd) and the [Cup reference](../../cup-reference.qmd).
 :::
 
 ::: {.callout-tip}
-Want the five-step dual story in one place? The [chapter hub](index.qmd) ends with **Putting the dual story in one picture**—caffeine, L-theanine, calm focus under load, stress markers, and the alcohol contrast—plus a foldout checklist.
+If you want the five-step dual story in one place, the [chapter hub](index.qmd) ends with **Putting the dual story in one picture**. That picture gathers caffeine, L-theanine, calm focus under load, stress markers, and the alcohol contrast, and it adds a foldout checklist.
 :::
 
 
 ## Story in one minute
 
-Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Tea-linked L-theanine patterns often look like steadier control under load; caffeine alone can look more "wired"; alcohol often worsens control signals. These meters only mean something when dose, task, and timing are controlled—Chapter 4's protocol sitting will return to that.
+Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Tea-linked L-theanine patterns often look like steadier control under load. Caffeine alone can look more "wired." Alcohol often worsens the control signals. These meters only mean something when dose, task, and timing are controlled, and Chapter 4's protocol sitting will return to that point.
 
 ::: {.callout-tip title="You can stop here"}
-- Heart-beat flexibility, tiny stress sweat, and pupils are quiet body admits labs can measure.
-- Before you believe a "tea calms your nervous system" headline: **dose, design, rest-vs-load, timing**.
-- Matched mugs show up again in Chapter 4 so warmth and bitterness do not silently become the experiment.
+- Heart-beat flexibility, tiny stress sweat, and pupils are quiet admissions the body makes, and labs can measure them.
+- Before you believe a headline that says "tea calms your nervous system," check **dose, design, rest-vs-load, timing**.
+- Matched mugs show up again in Chapter 4, so warmth and bitterness do not silently become the experiment.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
 - Feeling wired can show up as tiny stress sweat, not only as a mood adjective.[^5]
-- Higher heart flexibility under hard thinking is read here as flexible control—not only gym recovery.[^3]
-- Translate every "tea calms the nervous system" headline through dose and design.
+- Higher heart flexibility under hard thinking is read here as flexible control, not only as gym recovery.[^3]
+- Translate every headline that says "tea calms the nervous system" through dose and design.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: connecting all four Chapter 2 sittings"}
-1. **2.1** — caffeine lifts the sleepy brake; L-theanine softens excess go-chatter.
-2. **2.2** — that dual story shows up in state-dependent calm-focus / attention rhythms.
-3. **2.3** — under stress, hormones and BP/stress-enzyme markers often look steadier with L-theanine than with unbuffered caffeine stories.
-4. **2.4** — heart flexibility / tiny sweat / pupils give outside-the-skull meters of the same calm-control idea.
+1. **2.1** — caffeine lifts the sleepy brake, and L-theanine softens excess go-chatter.
+2. **2.2** — that dual story shows up in calm-focus and attention rhythms that depend on state.
+3. **2.3** — under stress, hormones and the blood-pressure and stress-enzyme markers often look steadier with L-theanine than in unbuffered caffeine stories.
+4. **2.4** — heart flexibility, tiny sweat, and pupils give outside-the-skull meters of the same calm-control idea.
 
-Alcohol remains the contrast case across the arc: more braking, slower monitoring, worse control signals.
+Across the whole arc, alcohol remains the contrast case: more braking, slower monitoring, and worse control signals.
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 2 · Section 4"}
-1. Higher heart flexibility (HRV) often ≈ calmer flexible control in these sources.
-2. Skin-conductance spikes can fingerprint "wired."
-3. Pupils track effort/arousal families of signals.
-4. Protocols matter as much as compounds.
-5. Hub next: one dual-story picture before Chapter 3.
+1. Higher heart flexibility (HRV) often means calmer, flexible control in these sources.
+2. Spikes in skin conductance can fingerprint the feeling of being "wired."
+3. Pupils track the effort and arousal families of signals.
+4. Protocols matter as much as the compounds do.
+5. The hub comes next, with one dual-story picture before Chapter 3.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: why matched mugs show up again in Chapter 4"}
-Rogers and colleagues' caffeine×theanine designs matter twice: once for mood/BP/cognition results, and again as a template for **matched volume, timed tests, and controlled comparisons**.[^5] Chapter 4's protocol lesson will ask you to notice washouts, placebos, and temperature control. You met the "why bother" reason here: body meters are noisy unless the cup is fair.
+The caffeine-by-theanine designs from Rogers and colleagues matter twice. They matter once for the mood, blood-pressure, and cognition results, and again as a template for **matched volume, timed tests, and controlled comparisons**.[^5] Chapter 4's protocol lesson will ask you to notice washouts, placebos, and temperature control. You met the reason for that care here. Body meters are noisy unless the cup is fair.
 
-If Chapter 3 later talks about ritual and warmth, remember that skin and heart signals are already listening—even when your survey form says "I feel fine."
+If Chapter 3 later talks about ritual and warmth, remember that skin and heart signals are already listening, even when your survey form says "I feel fine."
 :::
 
 ---

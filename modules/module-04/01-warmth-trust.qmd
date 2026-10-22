@@ -9,26 +9,26 @@ title: "Section 1 · Warm hands, warmer judgments?"
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser effect sizes, Trust Game figures, and replication caveats so the open story stays readable.
+Superscript numbers are clickable footnotes. A click jumps to the source, and the caret jumps back; if you hover, the note often pops open. The collapsed "More detail…" boxes hold the denser effect sizes, Trust Game figures, and replication caveats, so the open story can stay readable.
 :::
 
 ## The mug is not psychologically invisible
 
-You meet someone while holding a cozy mug versus an icy can. In some lab setups, that body feeling spills into how "warm" or trustworthy the person seems.[^1][^2] Holding something warm can bias first impressions. Effects on real choices show up in some studies—but they are not magic, and they are not always easy to replicate.
+You meet someone while holding a cozy mug, and you meet someone else while holding an icy can. In some lab setups, that feeling in the body spills over into how "warm" or trustworthy the person seems.[^1][^2] Holding something warm can bias a first impression. Effects on real choices do show up in some studies. They are not magic, though, and they are not always easy to replicate.
 
-Think of a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **[anterior insular cortex](../../glossary.qmd#anterior-insular-cortex)** (sometimes just "the insula"). The everyday idea—body state as a tint on social judgment—is what psychologists call **[embodied cognition](../../glossary.qmd#embodied-cognition)** when they want a lab label. You do not need either label to follow the open story.[^1][^2]
+It helps to picture a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **[anterior insular cortex](../../glossary.qmd#anterior-insular-cortex)** (sometimes just "the insula"). The everyday idea, that a body state can lay a tint on social judgment, is what psychologists call **[embodied cognition](../../glossary.qmd#embodied-cognition)** when they want a lab label. You do not need either label to follow the open story.[^1][^2]
 
-The same *kind* of tint shows up outside the lab long before anyone names a paper. A commute mug that warms your fingers on a cold morning; a cafe ceramic that sits in your palms while you wait for a stranger—those holds are everyday versions of the body cue the studies try to isolate. They are not proof that a cafe replicates Williams & Bargh's gift-choice *d*. They are a reminder that temperature is already in the room when first impressions form. Keep the teaching voice from later chapters: **tint, not destiny.**
+The same *kind* of tint shows up outside the lab, long before anyone names a paper. A commute mug that warms your fingers on a cold morning, or a cafe ceramic that sits in your palms while you wait for a stranger, is an everyday version of the body cue the studies try to isolate. Those holds are not proof that a cafe replicates Williams & Bargh's gift-choice *d*. They are a reminder that temperature is already in the room when a first impression forms. Later chapters keep the same teaching voice: **tint, not destiny.**
 
-Why does this lesson open Chapter 4's Context & Ritual Psychology track? Because Chapter 5's decision games will ask you to take "warmth" seriously as a *confound*—and as a bridge. If mug temperature can shift first impressions, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd)). Passive warmth here is the first dial; ritual and expectation follow in the next two sections; the map that holds all three sits in [Section 4](04-context-dials-map.qmd).
+Why does this lesson open Chapter 4's Context & Ritual Psychology track? Chapter 5's decision games will ask you to take "warmth" seriously, both as a *confound* and as a bridge. If the temperature of a mug can shift a first impression, then a decision study that forgets temperature may mix pharmacology with thermal priming. Careful protocols later lock cups near **60°C ± 2°C** for exactly that reason (see [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd)). Passive warmth is the first dial here. Ritual and expectation follow in the next two sections, and the map that holds all three sits in [Section 4](04-context-dials-map.qmd).
 
 ## What the early studies claimed
 
-Williams and Bargh (2008) reported that people who briefly held a warm cup of coffee rated a stranger as having a "warmer" personality than people who held an iced cup, and that holding a warm (versus cold) therapeutic pad raised the chance of choosing a gift for a friend rather than for oneself.[^1]
+Williams and Bargh (2008) reported that people who briefly held a warm cup of coffee rated a stranger as having a "warmer" personality than people who held an iced cup. They also reported that holding a warm (versus cold) therapeutic pad raised the chance of choosing a gift for a friend rather than for oneself.[^1]
 
-Follow-on imaging work linked physical and social "warmth" in that same hand-warmth / social-warmth brain neighborhood: overlapping activation when people experience warm pads and when they read warm, supportive social messages.[^2] Kang and colleagues reported that physical temperature also shifted responses to fairness and trust allocations in bargaining settings.[^3]
+Follow-on imaging work linked physical and social "warmth" in that same hand-warmth / social-warmth brain neighborhood. Activation overlapped when people experienced warm pads and when they read warm, supportive social messages.[^2] Kang and colleagues reported that physical temperature also shifted responses to fairness and trust allocations in bargaining settings.[^3]
 
-A warm cup can nudge first impressions and opening trust in cited work. It does not guarantee generosity forever. The lab numbers, condition tables, and effect sizes live in the foldouts below—open them when you want the poster detail.
+In the work cited here, a warm cup can nudge a first impression and the opening moment of trust. It does not guarantee that generosity will last. The lab numbers, the condition tables, and the effect sizes live in the foldouts below. Open them when you want the poster detail.
 
 ::: {.callout-note collapse="true" title="More detail: condition table and original warmth numbers"}
 | Condition | Stimulus | Typical behavioral skew in cited work | Source |
@@ -44,52 +44,52 @@ A warm cup can nudge first impressions and opening trust in cited work. It does 
 | Trust / fairness first send | ~**+24.8%** vs cold (~$7.85 vs $6.29 of $10) | Cold pad ~10°C | Kang et al. (2011 source) [^3] |
 | fMRI overlap | Bilateral anterior insula cluster during warm pad + supportive messages | — | Inagaki & Eisenberger (2013) [^2] |
 
-Read these as **lab snapshots**, not personality transplants. The original Williams & Bargh behavioral effect size was remarkably large (*d* ≈ 1.69 in one reading of Study 1)—large enough that later replications treated it as a claim that needed a hard check.
+Read these figures as **lab snapshots**, not as personality transplants. The original Williams & Bargh behavioral effect size was remarkably large (*d* ≈ 1.69 in one reading of Study 1). It was large enough that later replications treated it as a claim that needed a hard check.
 :::
 
 ## Replication honesty (keep this clear)
 
-People sometimes say: "Warm mug always makes people generous." Williams & Bargh (2008) reported a very large effect. A large preregistered multi-lab replication of Study 2 (Lynott et al., 2014; total **N = 861** across three sites) **failed** to copy the pure behavioral gift-choice result.[^4] Later independent reports have also found near-zero effects for the original warmth-to-prosocial link.[^5]
+People sometimes say that a warm mug always makes people generous. Williams & Bargh (2008) reported a very large effect. A large preregistered multi-lab replication of Study 2 (Lynott et al., 2014; total **N = 861** across three sites) **failed** to copy the pure behavioral gift-choice result.[^4] Later independent reports have also found near-zero effects for the original warmth-to-prosocial link.[^5]
 
-What looks more robust in the sources' framing is the **neurobiological overlap** in that hand-warmth / social-warmth brain neighborhood between physical warmth and social bonding—shown in imaging and thermoregulation-style designs.[^2] Downstream behavior in unstructured settings depends on person, attachment style, and ambient room temperature (source note).
+What looks more robust, in the sources' framing, is the **neurobiological overlap** in that hand-warmth / social-warmth brain neighborhood between physical warmth and social bonding. That overlap shows up in imaging and in thermoregulation-style designs.[^2] Downstream behavior in unstructured settings depends on the person, on attachment style, and on ambient room temperature (source note).
 
-That honesty is part of the story: interesting claim → checked claim → limited claim. Beginners do not need to open every foldout to hear the arc. The early gift-choice headline was large enough to sell; the hard check did not copy it; the neural-overlap claim and the methods warning still earn a place on this page. That is why the caution box stays open, not buried.
+That honesty is part of the story: an interesting claim, then a checked claim, then a limited claim. A beginner does not need to open every foldout to hear the arc. The early gift-choice headline was large enough to sell. The hard check did not copy it. The neural-overlap claim, and the warning about methods, still earn a place on this page. That is why the caution box stays open, rather than buried.
 
 ::: {.callout-caution title="Warmth is interesting—not a boardroom cheat code"}
-Lynott et al. (2014) did not replicate Williams & Bargh's Study 2 gift-choice effect at any site or in the combined N = 861 analysis.[^4] Keep that in view when someone sells "serve tea, win the deal." Opening trust nudges in *some* cited designs (including Kang's temperature manipulation) are still worth knowing—especially as a reason Chapter 5 locks mug temperature—but they are not a permanent negotiation upgrade.[^3][^6]
+Lynott et al. (2014) did not replicate Williams & Bargh's Study 2 gift-choice effect at any site, or in the combined N = 861 analysis.[^4] Keep that result in view when someone sells the line "serve tea, win the deal." Opening-trust nudges in *some* cited designs (including Kang's temperature manipulation) are still worth knowing, especially as a reason Chapter 5 locks mug temperature. They are not a permanent negotiation upgrade.[^3][^6]
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what failed to replicate—and what still matters for later chapters"}
-**Failed / fragile (behavioral gift choice).** Lynott et al. (2014): three high-powered labs, combined N = 861, no support for brief warm-pad → prosocial gift choice.[^4] Chabris and colleagues' later reports likewise lean near-zero for the original warmth-to-prosocial headline.[^5]
+**Failed / fragile (behavioral gift choice).** Lynott et al. (2014) ran three high-powered labs, with a combined N = 861, and found no support for a brief warm pad leading to a prosocial gift choice.[^4] Chabris and colleagues' later reports likewise lean near-zero for the original warmth-to-prosocial headline.[^5]
 
-**More durable (neural overlap claim).** Inagaki & Eisenberger (2013): shared anterior insula responses to physical warmth and social warmth cues.[^2]
+**More durable (neural overlap claim).** Inagaki & Eisenberger (2013) report shared anterior insula responses to physical warmth and to social warmth cues.[^2]
 
-**Still useful as a methods warning.** If thermal primes can shift *some* social and fairness behaviors in *some* designs,[^3] then decision studies that ignore cup temperature risk mixing chemistry with warmth. That is why [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd) specify opaque mugs near **60°C ± 2°C**.
+**Still useful as a methods warning.** If thermal primes can shift *some* social and fairness behaviors in *some* designs,[^3] then a decision study that ignores cup temperature risks mixing chemistry with warmth. That is why [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd) specify opaque mugs near **60°C ± 2°C**.
 
-This warmth thread reappears in [Chapter 5 · Section 3 Trust games](../module-05/03-trust-games.qmd)—the same first-mover figure is one of the bridges on [Linkages](../../linkages.qmd).
+This warmth thread reappears in [Chapter 5 · Section 3 Trust games](../module-05/03-trust-games.qmd). The same first-mover figure is one of the bridges on [Linkages](../../linkages.qmd).
 :::
 
 ## Passive warmth vs active ritual
 
-Warmth, in this lesson, is mostly **passive**: you hold something hot or cold. Ritual, in the next lesson, is **active**: you *make* the tea on purpose—measure, watch, wait. Both can sit beside "calm trust" talk. They are not the same mechanism.
+Warmth, in this lesson, is mostly **passive**. You hold something hot or cold, and the temperature does the rest. Ritual, in the next lesson, is **active**: you *make* the tea on purpose, with a measure, a watch, and a wait. Both can sit beside talk of calm trust. They are not the same mechanism.
 
-A warm cup can nudge first impressions and opening trust in cited work. A familiar brewing sequence tries to interrupt anxious looping with predictable steps. Keep both tools—and keep both caveats.
+In the work cited here, a warm cup can nudge a first impression and the opening moment of trust. A familiar brewing sequence tries to interrupt anxious looping with steps you can predict. Keep both tools, and keep both caveats.
 
 
 ## A beginner picture of the hand-warmth / social-warmth overlap
 
-You do not need a neuroscience degree for the sources' core image. One brain neighborhood helps track both "my hand is warm" and "that person seems warm/trustworthy." When those maps overlap, a hot mug can briefly color a social judgment.[^2] Lab papers often name that neighborhood the **anterior insular cortex**—the foldout below keeps the coordinates.
+You do not need a neuroscience degree to follow the sources' core image. One brain neighborhood helps track both "my hand is warm" and "that person seems warm/trustworthy." When those maps overlap, a hot mug can briefly color a social judgment.[^2] Lab papers often name that neighborhood the **anterior insular cortex**. The foldout below keeps the coordinates.
 
-That is the embodied-cognition idea in one sentence: body state as a tint on social paint.
+That is the embodied-cognition idea in one sentence: a body state works as a tint on social paint.
 
-Important limits, said early and often:
+The important limits are worth saying early, and worth saying often:
 
-- Tint is not destiny.
-- Lab tint is not boardroom strategy.
+- A tint is not a destiny.
+- A tint in the lab is not a strategy for the boardroom.
 - Early behavioral headlines were large; later replications were not.[^4]
 
 ::: {.callout-note collapse="true" title="More detail: where physical warmth and social warmth meet"}
-Inagaki and Eisenberger (2013) used fMRI to look for overlap between physical warmth (warm vs cold pad) and social warmth (reading supportive messages). They report a shared cluster in the **bilateral anterior insula**—the sources' teaching coordinates are about **x = 38, y = 20, z = −4** in that paper's space.[^2]
+Inagaki and Eisenberger (2013) used fMRI to look for overlap between physical warmth (a warm pad versus a cold pad) and social warmth (reading supportive messages). They report a shared cluster in the **bilateral anterior insula**. The sources' teaching coordinates are about **x = 38, y = 20, z = −4** in that paper's space.[^2]
 
 | Everyday phrase | What the study is pointing at |
 | --- | --- |
@@ -97,23 +97,23 @@ Inagaki and Eisenberger (2013) used fMRI to look for overlap between physical wa
 | "That person seems warm" | Social-affective judgment |
 | "Same neighborhood in the brain" | Overlapping anterior-insula activation in the cited design |
 
-**Keep the fence:** neural overlap is the more durable claim in the sources' framing. Downstream gift-choice behavior is the fragile one (see Lynott).[^4] Embodied cognition here means *tint*, not *remote control*.
+**Keep the fence.** In the sources' framing, neural overlap is the more durable claim. Downstream gift-choice behavior is the fragile one (see Lynott).[^4] Embodied cognition here means a *tint*, not a *remote control*.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: reading Kang beside Lynott"}
-Kang et al. (2011) report temperature effects on fairness/trust-related allocations—including the cited ~**+24.8%** first-mover story at ~**60°C** vs cold.[^3]
+Kang et al. (2011) report temperature effects on fairness and trust-related allocations, including the cited ~**+24.8%** first-mover story at ~**60°C** versus cold.[^3]
 
 Lynott et al. (2014) fail to replicate Williams & Bargh's *gift-choice* Study 2 at high power.[^4]
 
-Both can be true in a careful teaching site:
+On a careful teaching site, both of those statements can stand together:
 
-- Some thermal designs show social/fairness shifts.
+- Some thermal designs show shifts in social and fairness behavior.
 - The most famous prosocial-gift headline did not survive a hard replication check.
-- Therefore: cite warmth as **interesting and contested**, and as a **methods confound**—not as a permanent generosity switch.
+- Cite warmth, then, as **interesting and contested**, and as a **methods confound**. Do not cite it as a permanent generosity switch.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: Williams & Bargh vs Kang vs Lynott (side-by-side)"}
-Three papers do different jobs. Keeping them in one table stops a common slide: citing the largest original *d* while ignoring the failed replication, or treating Kang's bargaining design as if it *were* Williams & Bargh's gift choice.
+Three papers do different jobs. Keeping them in one table stops a common slide, in which someone cites the largest original *d* while ignoring the failed replication, or treats Kang's bargaining design as if it *were* Williams & Bargh's gift choice.
 
 | Paper | What was manipulated | What was measured | Headline number (as taught here) | Status for this site |
 | --- | --- | --- | --- | --- |
@@ -123,23 +123,23 @@ Three papers do different jobs. Keeping them in one table stops a common slide: 
 | Kang et al. (2011) | Physical temperature around fairness/trust tasks | Fairness / first-mover style allocations | Cited narrative ~**+24.8%** first send at ~**60°C** vs cold | Separate design—not a Lynott rematch [^3] |
 | Inagaki & Eisenberger (2013) | Warm pad + supportive messages | fMRI overlap in anterior insula | Shared insula cluster | Neural-overlap bridge [^2] |
 
-**Teaching sentence:** the famous prosocial-gift headline is **contested**; the insula overlap is **more durable** in the sources' framing; Kang is a **different** thermal-bargaining story that Chapter 4 still treats as a reason to lock mug temperature—not as a boardroom cheat code.[^3][^4][^6]
+**Teaching sentence.** The famous prosocial-gift headline is **contested**. The insula overlap is **more durable** in the sources' framing. Kang is a **different** thermal-bargaining story, and Chapter 4 still treats it as a reason to lock mug temperature, not as a boardroom cheat code.[^3][^4][^6]
 :::
 
 ## Why Chapter 4 will obsess over 60°C
 
-If you only remember one applied sentence from this lesson, remember this: **mug temperature is not a neutral stage prop.**
+If you remember only one applied sentence from this lesson, let it be this: **mug temperature is not a neutral stage prop.**
 
-When Chapter 5's protocols lock drinks near **60°C ± 2°C** in opaque mugs, they are not being fussy for fun. They are trying to keep this lesson's thermal story from silently riding along with caffeine and [L-theanine](../../glossary.qmd#l-theanine) ([Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd)).
+When Chapter 5's protocols lock drinks near **60°C ± 2°C** in opaque mugs, they are not being fussy for the sake of fuss. They are trying to keep this lesson's thermal story from silently riding along with caffeine and [L-theanine](../../glossary.qmd#l-theanine) ([Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd)).
 
-Unlocked temperature is the confound in one picture. If two cups differ in heat as well as in leaf chemistry, a later trust or fairness shift can be chemistry, warmth priming, or both—and you will not know which. That is why the matched-mug language in Chapter 5 sits next to washout and bitterness matching: hold the thermal dial still so the drink's pharmacology can be read more cleanly. This page does not dump those protocol tables; it only names why the lock exists. Context is part of the dose. Warmth is part of context.
+When temperature is left unlocked, the confound is easy to picture. If two cups differ in heat as well as in leaf chemistry, a later shift in trust or fairness can be chemistry, warmth priming, or both, and you will not know which. That is why the matched-mug language in Chapter 5 sits next to washout and bitterness matching. Hold the thermal dial still, so the drink's pharmacology can be read more cleanly. This page does not dump those protocol tables. It only names why the lock exists. Context is part of the dose. Warmth is part of context.
 
 ::: {.callout-note collapse="true" title="More detail: why the matched mug sits near 60°C"}
-Chapter 5's study-protocol lesson specifies drinks in identical opaque mugs held near **60°C ± 2°C**, with bitterness matched (for example with food-grade quinine in controls) so that *temperature and taste* do not quietly become the experiment.[^6]
+Chapter 5's study-protocol lesson specifies drinks in identical opaque mugs held near **60°C ± 2°C**, with bitterness matched (for example with food-grade quinine in controls), so that *temperature and taste* do not quietly become the experiment.[^6]
 
-Why that number shows up in the sources' warmth narrative:
+Here is why that number shows up in the sources' warmth narrative:
 
-- Kang et al.'s temperature manipulations are taught here with a warm condition near **~60°C** versus a cold pad—so locking the mug near that band is a methods rhyme, not a mystical tea temperature.[^3]
+- Kang et al.'s temperature manipulations are taught here with a warm condition near **~60°C** versus a cold pad, so locking the mug near that band is a methods rhyme, not a mystical tea temperature.[^3]
 - If thermal priming can shift *some* social or fairness behaviors in *some* designs, then an unlocked mug temperature confounds pharmacology with warmth.[^3]
 - Opacity and matched bitterness attack a different confound: people guessing which cup is "the real tea."
 
@@ -150,9 +150,9 @@ Why that number shows up in the sources' warmth narrative:
 
 ## Field vs lab: what a beginner should expect
 
-In a quiet lab, a researcher can hand you a warm pad, ask you to rate a stranger, and write down a number. In a noisy cafe, warmth competes with sleep debt, reputation, attractiveness, and whether you already like the person across from you. That is one reason large behavioral replications struggled: the original effect was huge, and huge social effects are exactly what later teams stress-test.[^4][^5]
+In a quiet lab, a researcher can hand you a warm pad, ask you to rate a stranger, and write down a number. In a noisy cafe, warmth has to compete with sleep debt, with reputation, with attractiveness, and with whether you already like the person across from you. That is one reason large behavioral replications struggled. The original effect was huge, and huge social effects are exactly what later teams stress-test.[^4][^5]
 
-So use this lesson as a **lens**, not a lever. The lens says: body temperature can tint social judgment, especially in stripped-down tasks. The lever fantasy says: hand someone a mug and rewrite the deal. Chapter 4 will keep the lens and refuse the fantasy.
+Use this lesson, then, as a **lens**, not a lever. The lens says that body temperature can tint social judgment, especially in a stripped-down task. The lever fantasy says that you can hand someone a mug and rewrite the deal. Chapter 4 will keep the lens and refuse the fantasy.
 
 ::: {.callout-note collapse="true" title="More detail: field vs lab — what a beginner should expect"}
 | Setting | What is controlled | What usually wins | How to read a "warm mug" claim |
@@ -161,18 +161,18 @@ So use this lesson as a **lens**, not a lever. The lens says: body temperature c
 | Multi-lab replication | Same idea, more sites, preregistration | Fragile effects often shrink or vanish | Lynott N = 861 is the caution light [^4] |
 | Cafe / boardroom | Almost nothing thermal is locked | Sleep, liking, power, reputation, room climate | Do not sell a mug as strategy |
 
-Source note: downstream behavioral outcomes in unstructured settings are highly moderated by individual differences (for example attachment style) and by ambient room temperature—even when the neural overlap story looks sturdier.[^2][^4]
+Source note: downstream behavioral outcomes in unstructured settings are highly moderated by individual differences (for example attachment style) and by ambient room temperature, even when the neural overlap story looks sturdier.[^2][^4]
 
-Chabris and colleagues' later reports likewise lean near-zero for the original warmth-to-prosocial headline in field-leaning checks.[^5] That is why this site keeps Lynott in the open caution box, not buried in a footnote.
+Chabris and colleagues' later reports likewise lean near-zero for the original warmth-to-prosocial headline in field-leaning checks.[^5] That is why this site keeps Lynott in the open caution box, instead of burying the result in a footnote.
 :::
 
 
 
 ::: {.callout-tip title="You can stop here"}
-- A cozy mug can tint how "warm" someone seems—interesting, not magic.
-- Some early lab headlines were huge; a large replication (**N = 861**) failed to copy the famous gift-choice result.
-- Chapter 5 locks mug temperature near **60°C** so warmth does not quietly ride along with the drink.
-- Passive warmth (hold a mug) ≠ active ritual (make the tea)—next lesson.
+- A cozy mug can tint how "warm" someone seems. The finding is interesting, and it is not magic.
+- Some early lab headlines were huge. A large replication (**N = 861**) failed to copy the famous gift-choice result.
+- Chapter 5 locks mug temperature near **60°C** so that warmth does not quietly ride along with the drink.
+- Passive warmth (you hold a mug) is not the same thing as active ritual (you make the tea). That difference is the next lesson.
 :::
 
 ---

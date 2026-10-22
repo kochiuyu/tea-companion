@@ -6,31 +6,31 @@ title: "Chapter 4 · Context & Ritual Psychology"
 
 Chemistry explains why a leaf can wake you. History explains why that leaf is cheap in your cupboard. This chapter asks what else rides along in the mug: **warmth**, **ritual**, and **expectation**.
 
-Hold three kitchen pictures. A cozy mug in the hand while you meet someone new. A short, familiar brew sequence—measure, watch, wait—before a hard task. A label or vessel that says "specialty" versus "just bag." Same compounds can share the cup with all three. Effects are tints, not destiny—and replication humility stays on the page.
+Hold three kitchen pictures. One is a cozy mug in the hand while you meet someone new. Another is a short, familiar brew sequence—measure, watch, wait—before a hard task. A third is a label or a vessel that says "specialty" versus "just bag." The same compounds can share the cup with all three. The effects are tints, not destiny, and replication humility stays on the page.
 
 ::: {.callout-tip collapse="true" title="Words to know on this journey"}
-- **Anterior insular cortex** — brain area that handles both body temperature and feelings like trust or empathy.
-- **Embodied cognition** — the claim that body feelings (like warmth) can shape social judgments.
-- **Error-related negativity (ERN)** — a quick brain "oops" signal after mistakes; predictable rituals can blunt related anxiety responses in some studies.
+- **Anterior insular cortex** — the brain area that handles both body temperature and feelings like trust or empathy.
+- **Embodied cognition** — the claim that body feelings, such as warmth, can shape social judgments.
+- **Error-related negativity (ERN)** — a quick brain "oops" signal after mistakes. In some studies, predictable rituals can blunt related anxiety responses.
 - **Expectation / label cues** — belief about what the drink is, shaped by price, packaging, vessel, or story.
 :::
 
 ::: {.callout-tip}
-**Read the story; open More detail boxes only when curious.** Context scenes stay open; denser lab tables live in foldouts.
+**Read the story; open More detail boxes only when curious.** Context scenes stay open, and the denser lab tables live in foldouts.
 :::
 
 ## The four sections
 
-1. **[Warm hands, warmer judgments?](01-warmth-trust.qmd)** — thermal priming with replication caveats
-2. **[The brewing break as a stress reset](02-ritual-stress.qmd)** — ritual psychology; Brooks 2016 not used as evidence
-3. **[What you think the mug is](03-expectation-labels.qmd)** — belief and labels as a third dial
-4. **[Context is part of the dose — three dials, one map](04-context-dials-map.qmd)** — warmth + ritual + expectation → door into Decisions
+1. **[Warm hands, warmer judgments?](01-warmth-trust.qmd)** — thermal priming, kept together with the replication caveats.
+2. **[The brewing break as a stress reset](02-ritual-stress.qmd)** — ritual psychology, with Brooks 2016 not used as evidence.
+3. **[What you think the mug is](03-expectation-labels.qmd)** — belief and labels, treated as a third dial.
+4. **[Context is part of the dose — three dials, one map](04-context-dials-map.qmd)** — warmth, ritual, and expectation, and the door they open into Decisions.
 
 **Start with section 1:** [Warm hands, warmer judgments?](01-warmth-trust.qmd)
 
 ## Carry-forward into Decisions
 
-If you take only one sentence into [Chapter 5](../module-05/index.qmd), take this: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and [L-theanine](../../glossary.qmd#l-theanine). That is why careful decision studies lock mug temperature and bitterness—and why a headline that ignores them is incomplete.
+If you take only one sentence into [Chapter 5](../module-05/index.qmd), take this one: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and [L-theanine](../../glossary.qmd#l-theanine). That is why careful decision studies lock mug temperature and bitterness, and why a headline that ignores them is incomplete.
 
 ---
 

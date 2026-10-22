@@ -4,25 +4,25 @@ title: "Linkages"
 
 {{< include _includes/lang-switcher/linkages.en.qmd >}}
 
-The four chapters can be read as separate rooms. This page is the hallway between them—eleven bridges across the chapters, rewritten so you can *feel* why a brewing fact matters for mood, or why a warm mug shows up in a trust game.
+The four chapters can be read as separate rooms. This page is the hallway between them: eleven bridges across the chapters, rewritten so you can *feel* why a brewing fact matters for mood, or why a warm mug shows up in a trust game.
 
-No new links were invented. Citations stay the same. Think of each bridge as a thread someone pulls, and suddenly two chapters lean toward each other.
+No new links were invented here, and the citations stay the same. Think of each bridge as a thread. Someone pulls it, and suddenly two chapters lean toward each other.
 
-For fuller citations with URLs and DOIs, open each chapter and use its **clickable footnotes** (tap the number, then the caret to return; hover often shows a popup). Denser side-detail sits in collapsed "More detail…" foldouts.
+For fuller citations, with URLs and DOIs, open each chapter and use its **clickable footnotes**. Tap the number, then the caret to return. Hover often shows a popup. Denser side-detail sits in collapsed "More detail…" foldouts.
 
-**Warmth caveat (from Chapter 4's fact-check):** the opening-trust nudge from a warm mug is real in some cited designs, but large replications of the classic gift-choice warmth effect have often failed—so treat bridge 2 as a careful hint, not a negotiation trick.
+**Warmth caveat (from Chapter 4's fact-check):** the opening-trust nudge from a warm mug is real in some cited designs. Large replications of the classic gift-choice warmth effect have often failed, so treat bridge 2 as a careful hint, not a negotiation trick.
 
 ::: {.callout-note collapse="true" title="Click for more detail: how to use these eleven bridges"}
-Each bridge is a hallway, not a new claim. Follow the plain connection into the named modules, then use chapter footnotes for DOIs/URLs. Where older materials still listed Brooks et al. (2016) on ritual anxiety, this page now points to Hobson reviews instead—the Brooks article was **retracted in 2024**.
+Each bridge is a hallway, not a new claim. Follow the plain connection into the named modules, then use the chapter footnotes for the DOIs and URLs. Where older materials still listed Brooks et al. (2016) on ritual anxiety, this page now points to Hobson reviews instead. The Brooks article was **retracted in 2024**.
 :::
 
-You do not have to memorize all eleven. Pick the question you actually have—“why wait after drinking?” “does mug temperature matter?”—and follow that thread into the lessons and the bibliography.
+You do not have to memorize all eleven. Pick the question you actually have, such as “why wait after drinking?” or “does mug temperature matter?”, and follow that thread into the lessons and the bibliography.
 
 ---
 
 ### 1. Why waiting after the first sip matters
 
-[L-theanine](glossary.qmd#l-theanine) does not act at the first sip. In the sources, it often peaks in blood about **35–50 minutes** after drinking. Clear alpha-wave changes (calm-focus brain rhythms) are often reported about **30–45 minutes** in. That matching lag is why Chapter 1’s timing note and Chapter 2’s EEG note belong together—the kitchen clock and the lab clock tell the same story.
+[L-theanine](glossary.qmd#l-theanine) does not act at the first sip. In the sources, it often peaks in the blood about **35–50 minutes** after drinking. Clear alpha-wave changes, the calm-focus brain rhythms, are often reported about **30–45 minutes** in. Those two lags line up. That is why Chapter 1’s timing note and Chapter 2’s EEG note belong together: the kitchen clock and the lab clock tell the same story.
 
 **Open:** [Chapter 1 · Section 4 Compounds](modules/module-01/04-compounds.qmd) · [Chapter 2 · Section 2 Brain waves](modules/module-02/02-brainwaves.qmd)
 
@@ -30,7 +30,7 @@ You do not have to memorize all eleven. Pick the question you actually have—�
 
 ### 2. From warm hands to first trust
 
-Chapter 4’s warmth studies and Chapter 5’s Trust Game meet here. Holding a warm (~**60°C**) cup can raise first-mover trust allocations by about **+24.8%** in cited work. The sources link that to warmth–trust overlap in the insula (the brain area that handles both temperature and social feelings). A cozy mug is not a negotiation strategy forever—but it can change the opening move.
+Chapter 4’s warmth studies and Chapter 5’s Trust Game meet here. In the cited work, holding a warm cup (about **60°C**) can raise first-mover trust allocations by about **+24.8%**. The sources link that change to a warmth–trust overlap in the insula, the brain area that handles both temperature and social feelings. A cozy mug is not a negotiation strategy forever, but it can change the opening move.
 
 **Open:** [Chapter 4 · Section 1 Warmth & trust](modules/module-04/01-warmth-trust.qmd) · [Chapter 5 · Section 3 Trust games](modules/module-05/03-trust-games.qmd)
 
@@ -38,7 +38,7 @@ Chapter 4’s warmth studies and Chapter 5’s Trust Game meet here. Holding a w
 
 ### 3. How brew heat reshapes the cup you feel
 
-[EGCG](glossary.qmd#egcg) (a major green-tea catechin) needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So Chapter 1’s brewing section is not only about taste—it changes which compounds dominate the cup you drink in Chapter 2’s world.
+[EGCG](glossary.qmd#egcg), a major green-tea catechin, needs more heat to extract well. Brewing green tea well below **80°C** tends to lower the EGCG-to-caffeine ratio. So Chapter 1’s brewing section is not only about taste. It changes which compounds dominate the cup you drink in Chapter 2’s world.
 
 **Open:** [Chapter 1 · Section 3 Brewing](modules/module-01/03-brewing.qmd) · [Chapter 1 · Section 4 Compounds](modules/module-01/04-compounds.qmd)
 
@@ -46,10 +46,10 @@ Chapter 4’s warmth studies and Chapter 5’s Trust Game meet here. Holding a w
 
 ### 4. When stress hormones meet risk taking
 
-When stress hormones rise, people can become more aggressive risk seekers in some lab settings. The fire-alarm feeling and the betting table share a hallway: under pressure, losses can sting a little less and risky choices can rise. Chapter 2’s hormone sitting and Chapter 5’s risk sitting meet here.
+When stress hormones rise, people can become more aggressive risk seekers in some lab settings. The fire-alarm feeling and the betting table share a hallway. Under pressure, losses can sting a little less, and risky choices can rise. Chapter 2’s hormone sitting and Chapter 5’s risk sitting meet here.
 
 ::: {.callout-note collapse="true" title="More detail: λ and the caffeine snapshot"}
-Stress-driven cortisol rises are linked with softer loss aversion (λ around **1.62** in one caffeine study) and more risky choices under pressure. Teaching labels λ / *k* live in [5.2](modules/module-05/02-risk-waiting.qmd) foldouts—not required for the open hallway.
+Stress-driven rises in cortisol are linked with softer loss aversion (λ around **1.62** in one caffeine study) and with more risky choices under pressure. The teaching labels λ and *k* live in the [5.2](modules/module-05/02-risk-waiting.qmd) foldouts. You do not need them for the open hallway.
 :::
 
 **Open:** [Chapter 2 · Section 3 Stress hormones](modules/module-02/03-stress-hormones.qmd) · [Chapter 5 · Section 2 Risk & waiting](modules/module-05/02-risk-waiting.qmd)
@@ -58,10 +58,10 @@ Stress-driven cortisol rises are linked with softer loss aversion (λ around **1
 
 ### 5. Ritual steps and a calmer heart rhythm
 
-A fixed tea-making sequence is not only cultural (Chapter 3 history / Chapter 4 ritual). It is linked with higher **heart-beat flexibility** and lower stress arousal. Ritual steps plus tea compounds can point in the same “calmer control” direction—hands busy, heart a little freer.
+A fixed tea-making sequence is not only cultural. It sits in Chapter 3’s history and in Chapter 4’s ritual. It is also linked with higher **heart-beat flexibility** and lower stress arousal. Ritual steps, together with tea compounds, can point in the same “calmer control” direction: the hands stay busy, and the heart is a little freer.
 
 ::: {.callout-note collapse="true" title="More detail: HRV milliseconds"}
-One L-theanine task study is taught with about **+15.4 ms** on a common HRV index. Lab name: HRV. Open hallway only needs “heart-beat flexibility.”
+One L-theanine task study is taught with about **+15.4 ms** on a common HRV index. The lab name is HRV. The open hallway only needs the plain phrase “heart-beat flexibility.”
 :::
 
 **Open:** [Chapter 4 · Section 2 Ritual & stress](modules/module-04/02-ritual-stress.qmd) · [Chapter 2 · Section 4 Body signals](modules/module-02/04-body-signals.qmd)
@@ -70,10 +70,10 @@ One L-theanine task study is taught with about **+15.4 ms** on a common HRV inde
 
 ### 6. Softening noisy excitement, sustaining attention
 
-L-theanine is linked with quieter excitatory chatter and better sustained attention on hard switching tasks. That is the bridge from Chapter 2’s “gas pedals and brakes” story to Chapter 4’s careful-thinking tasks (for example fewer false alarms on rapid attention tests in the sources). Turning down the chatter helps the careful check.
+L-theanine is linked with quieter excitatory chatter, and with better sustained attention on hard switching tasks. That is the bridge from Chapter 2’s “gas pedals and brakes” story to Chapter 4’s careful-thinking tasks. In the sources, for example, there are fewer false alarms on rapid attention tests. Turning down the chatter helps the careful check.
 
 ::: {.callout-note collapse="true" title="More detail: glutamate signaling"}
-Lab phrasing: by softening excess **glutamate** signaling, L-theanine is linked with better sustained attention. Receptor seats live in [2.1](modules/module-02/01-brain-action.qmd) foldouts.
+In lab phrasing, L-theanine is linked with better sustained attention by softening excess **glutamate** signaling. The receptor seats live in the [2.1](modules/module-02/01-brain-action.qmd) foldouts.
 :::
 
 **Open:** [Chapter 2 · Section 1 Brain action](modules/module-02/01-brain-action.qmd) · [Chapter 4 · Section 1 Dual-process](modules/module-05/01-dual-process.qmd)
@@ -82,10 +82,10 @@ Lab phrasing: by softening excess **glutamate** signaling, L-theanine is linked 
 
 ### 7. The “wired” feeling has a skin signature
 
-Caffeine-driven alertness can show up as a tiny stress-sweat signal on the skin—feeling “wired” is not only a mood word. Chapter 2’s body-signal sitting gives that everyday phrase a measurable signature.
+Caffeine-driven alertness can show up as a tiny stress-sweat signal on the skin. Feeling “wired” is not only a mood word. Chapter 2’s body-signal sitting gives that everyday phrase a measurable signature.
 
 ::: {.callout-note collapse="true" title="More detail: skin conductance microsiemens"}
-One comparison teaches about **+0.88 µS** skin conductance for caffeine alone. Lab name: SCR / skin conductance. Open hallway only needs “tiny stress sweat.”
+One comparison teaches about **+0.88 µS** of skin conductance for caffeine alone. The lab name is SCR, or skin conductance. The open hallway only needs the plain phrase “tiny stress sweat.”
 :::
 
 **Open:** [Chapter 2 · Section 4 Body signals](modules/module-02/04-body-signals.qmd) · [Chapter 2 · Section 2 Brain waves](modules/module-02/02-brainwaves.qmd)
@@ -94,7 +94,7 @@ One comparison teaches about **+0.88 µS** skin conductance for caffeine alone. 
 
 ### 8. Eisai’s “nourishes the heart,” beside modern [HRV](glossary.qmd#hrv) tone
 
-Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside modern findings that tea compounds can raise calming rest-and-digest / heart-beat-flexibility tone (Chapter 2). The sources present this as a historical phrase meeting a modern measure—not as proof that Eisai ran an HRV lab. Old language, new meter; same curiosity.
+Eisai’s 1211 claim about tea and the heart, from Chapter 3’s history, sits beside modern findings that tea compounds can raise a calming rest-and-digest tone, and heart-beat-flexibility tone, in Chapter 2. The sources present this as a historical phrase meeting a modern measure. They do not present it as proof that Eisai ran an HRV lab. Old language, a new meter, and the same curiosity.
 
 **Open:** [Chapter 3 · Section 2 Monastic path](modules/module-03/02-monastic-path.qmd) · [Chapter 2 · Section 4 Body signals](modules/module-02/04-body-signals.qmd)
 
@@ -102,7 +102,7 @@ Eisai’s 1211 claim about tea and the heart (Chapter 3 history) sits beside mod
 
 ### 9. When the brain slows, tomorrow fades
 
-Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong [present bias](glossary.qmd#present-bias)—future costs weigh less (Chapter 4). That is one reason the sources discuss alcohol beside “tomorrow counts for less,” not only beside “feeling drunk.”
+Alcohol’s boost of inhibitory signaling, in Chapter 2, is linked with a strong [present bias](glossary.qmd#present-bias). Future costs weigh less, which Chapter 4 takes up. That is one reason the sources discuss alcohol beside “tomorrow counts for less,” and not only beside “feeling drunk.”
 
 **Open:** [Chapter 2 · Section 1 Brain action](modules/module-02/01-brain-action.qmd) · [Chapter 5 · Section 2 Risk & waiting](modules/module-05/02-risk-waiting.qmd)
 
@@ -110,7 +110,7 @@ Alcohol’s boost of inhibitory signaling (Chapter 2) is linked with strong [pre
 
 ### 10. Calmer anxiety, less hair-trigger bargaining
 
-Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 4). The sources discuss that alongside fewer hyper-aggressive rejections of unfair offers (Chapter 4 ultimatum patterns). Calmer bodies can mean less hair-trigger bargaining—not automatic fairness forever.
+Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 4). The sources discuss that alongside fewer hyper-aggressive rejections of unfair offers, the ultimatum patterns in Chapter 4. Calmer bodies can mean less hair-trigger bargaining. They do not mean automatic fairness forever.
 
 **Open:** [Chapter 4 · Section 2 Ritual & stress](modules/module-04/02-ritual-stress.qmd) · [Chapter 5 · Section 3 Trust games](modules/module-05/03-trust-games.qmd)
 
@@ -118,7 +118,7 @@ Ritual can blunt the brain’s error-alarm and lower anxiety (Chapter 4). The so
 
 ### 11. Why Assam leaves love a dark cup
 
-Higher catechin levels in [*assamica*](glossary.qmd#assamica) (about **25%–35%** dry weight) give more raw material for the dark pigments of black tea. Chapter 1’s plant table therefore helps explain why Assam-type leaves are such a natural fit for strong black-tea processing—the garden already hinted at the factory.
+Higher catechin levels in [*assamica*](glossary.qmd#assamica), about **25%–35%** of dry weight, give more raw material for the dark pigments of black tea. Chapter 1’s plant table therefore helps explain why Assam-type leaves are such a natural fit for strong black-tea processing. The garden already hinted at the factory.
 
 **Open:** [Chapter 1 · Section 1 Plants](modules/module-01/01-plants.qmd) · [Chapter 1 · Section 2 Processing](modules/module-01/02-processing.qmd)
 
@@ -130,16 +130,16 @@ Higher catechin levels in [*assamica*](glossary.qmd#assamica) (about **25%–35%
 
 | From → To | Plain connection | Citations |
 | --- | --- | --- |
-| L-theanine timing → calm brain waves | Peaks about **35–50 min**; alpha changes often **30–45 min** in | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |
-| Warm cup → trust-game sending | Warm (~**60°C**) cup; about **+24.8%** first-mover trust in cited work | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
-| Brew temperature → EGCG in the cup | Well below **80°C** tends to lower EGCG-to-caffeine ratio | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
-| Stress cortisol → risk taking | Under pressure, losses can sting less / risk rises (λ snapshot in bridge fold) | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
-| Brewing ritual → calmer heart rhythm | Higher heart-beat flexibility (+ms detail in bridge fold) | Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) |
-| L-theanine calming excitation → careful attention | Quieter excitatory chatter; better sustained attention on hard tasks | Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008) |
-| Caffeine alertness → sweaty stress signal | Tiny stress-sweat signature (µS detail in bridge fold) | Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008) |
-| Eisai’s “nourishes the heart” → vagal tone | 1211 phrase beside modern calming HRV tone findings | Eisai (1211); Sen (1998); Kimura et al. (2007) |
-| Alcohol’s slowing of the brain → living for now | Inhibitory signaling boost linked with strong present bias | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
-| Ritual calms anxiety → fairer bargaining reactions | Blunted error-alarm / lower anxiety discussed with less hyper-aggressive unfair-offer rejection | Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) |
-| Assam chemistry → darker black tea | About **25%–35%** dry-weight catechins as raw material for dark pigments | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |
+| L-theanine timing → calm brain waves | Blood levels peak about **35–50 min** later; alpha changes often appear **30–45 min** in | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |
+| Warm cup → trust-game sending | A warm cup (about **60°C**); about **+24.8%** first-mover trust in the cited work | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
+| Brew temperature → EGCG in the cup | Water well below **80°C** tends to lower the EGCG-to-caffeine ratio | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
+| Stress cortisol → risk taking | Under pressure, losses can sting less and risk can rise (λ snapshot in the bridge fold) | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
+| Brewing ritual → calmer heart rhythm | Higher heart-beat flexibility (the +ms detail sits in the bridge fold) | Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) |
+| L-theanine calming excitation → careful attention | Quieter excitatory chatter, and better sustained attention on hard tasks | Kakuda (2011); Gomez-Ramirez et al. (2007); Haskell et al. (2008) |
+| Caffeine alertness → sweaty stress signal | A tiny stress-sweat signature (the µS detail sits in the bridge fold) | Barry et al. (2005); Dawson et al. (2007); Rogers et al. (2008) |
+| Eisai’s “nourishes the heart” → vagal tone | The 1211 phrase sits beside modern findings on a calming HRV tone | Eisai (1211); Sen (1998); Kimura et al. (2007) |
+| Alcohol’s slowing of the brain → living for now | A boost in inhibitory signaling, linked with a strong present bias | Mihic et al. (1997); Reynolds et al. (2006); George et al. (2005) |
+| Ritual calms anxiety → fairer bargaining reactions | A blunted error-alarm and lower anxiety, discussed with less hyper-aggressive rejection of unfair offers | Hobson et al. (2017); Hobson et al. (2018); Morewedge et al. (2014) |
+| Assam chemistry → darker black tea | About **25%–35%** dry-weight catechins, the raw material for those dark pigments | Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000) |
 
 From any thread, you can step back into the [Chapters overview](modules/index.qmd), open a linked lesson above, or jump into the [Bibliography](bibliography.qmd) section named in each citation link.

@@ -5,211 +5,211 @@ title: "Section 2 · From medicine soup to monastery to tea room"
 {{< include ../../_includes/lang-switcher/module-03-monastic-path.en.qmd >}}
 
 ::: {.callout-tip}
-**Chapter 3 · Section 2 of 4** — part of [Chapter 3 · History & Culture](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
+**Chapter 3 · Section 2 of 4** is part of [Chapter 3 · History & Culture](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is set out before the sections begin.
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes (jump to the source, caret jumps back; hover often pops the note). Collapsed "More detail…" boxes hold denser text dates, monastic timetable notes, and folklore checks so the open page stays a story.
+Superscript numbers on this page are clickable footnotes. Follow one to jump to the source, then use the caret to jump back; a hover often pops the note open beside the sentence you were reading. The collapsed "More detail…" boxes hold the denser text dates, the monastic timetable notes, and the folklore checks, so the open page can stay a story.
 :::
 
 ## Three human jobs for one leaf family
 
 The sources describe a pathway in plain words: medicinal drink (Han) → focus aid in Chan/Zen monasteries (Tang/Song) → highly ritualized social practice (Japan's *chado*). Cultural historians such as James Benn trace how tea moved through Chinese religious and medical worlds before it became a global grocery staple.[^1]
 
-First tea is "medicine soup." Later it is "stay awake for long practice." Still later it is "a shared room with rules that make everyone equal for a while." Same leaf family, different human jobs.
+At first, tea is a "medicine soup." Later, it is a way to "stay awake for long practice." Still later, it is "a shared room with rules that make everyone equal for a while." The leaf family is the same. The human job changes.
 
-Why tell this after silver and ships? Because empire explains how tea became *cheap*. Monasteries and tea rooms explain how tea became a *practice*—a timed, shared, rule-bound way of paying attention. Chapter 2 measured calm alertness with EEG and cortisol. This lesson asks what humans did with that calm alertness for centuries.
+Why tell this story after silver and ships? Empire explains how tea became *cheap*. Monasteries and tea rooms explain how tea became a *practice*—a timed, shared, rule-bound way of paying attention. Chapter 2 measured calm alertness with EEG and cortisol. This lesson asks what humans did with that calm alertness across the centuries.
 
 ## Medicine soup (Han & Tang)
 
-**Han & Tang (about 206 BC–907 AD).** Early tea was often a bitter soup with salt, ginger, peel, scallions. Medical texts in the *Shennong Ben Cao Jing* tradition list it for food poisoning, liver tonic use, and clearing "brain fog"—that is a **received medical framing** summarized through cultural-religious histories such as Benn's, not a claim that this page re-dated the classic or edited a critical *Shennong* verse list.[^1]
+**Han & Tang (about 206 BC–907 AD).** Early tea was often a bitter soup, seasoned with salt, ginger, peel, and scallions. Medical texts in the *Shennong Ben Cao Jing* tradition list it for food poisoning, for liver tonic use, and for clearing "brain fog." That is a **received medical framing**, summarized through cultural-religious histories such as Benn's. It is not a claim that this page re-dated the classic, or that it edited a critical *Shennong* verse list.[^1]
 
-Picture a kitchen that treats the leaf more like a pharmacy ingredient than a cafe beverage. Bitterness is not a branding problem yet—it is part of the claim. The soup form also hints at *how* tea travelled before it became a single-leaf steep: mixed, seasoned, and argued for as care for the body, not only as a tasting note. This lesson does not ask us to re-run Han pharmacology in a modern lab. It asks us to notice that "tea as medicine" is older than "tea as grocery."
+Picture a kitchen that treats the leaf more like a pharmacy ingredient than a cafe beverage. Bitterness is not a branding problem yet. It is part of the claim. The soup form also hints at *how* tea travelled before it became a single-leaf steep: mixed, seasoned, and argued for as care for the body, not only as a tasting note. This lesson does not ask us to re-run Han pharmacology in a modern lab. It asks us to notice that "tea as medicine" is older than "tea as grocery."
 
-Needham's long history of Chinese botanical technology is another reminder that tea sat inside a broader Chinese science of plants long before Western tasting notes arrived.[^5]
+Needham's long history of Chinese botanical technology is another reminder of the same point. Tea sat inside a broader Chinese science of plants long before Western tasting notes arrived.[^5]
 
 ::: {.callout-note collapse="true" title="More detail: medicine-soup framing (Benn, not a lab notebook)"}
-Benn traces tea through Chinese religious and medical worlds before the grocery age.[^1] For a beginner page, three teaching moves matter:
+Benn traces tea through Chinese religious and medical worlds, in the centuries before the grocery age.[^1] For a beginner page, three teaching moves matter.
 
-1. **Form.** Early tea is often a **bitter soup**—seasoned with salt, ginger, citrus peel, scallions—closer to a kitchen remedy than to a modern cafe cup.
-2. **Claim.** In the *Shennong Ben Cao Jing* **tradition** (as received in later medical and cultural summaries), tea is listed among remedies for food-related harm, liver tonic use, and clearing foggy thinking—exact wording and verse numbers vary by edition, so this page stays at tradition-summary level.[^1]
-3. **Fence.** Needham supplies botanical long-view context; he is not treated here as a primary *Shennong* editor.[^5]
+1. **Form.** Early tea is often a **bitter soup**—seasoned with salt, ginger, citrus peel, and scallions—closer to a kitchen remedy than to a modern cafe cup.
+2. **Claim.** In the *Shennong Ben Cao Jing* **tradition** (as received in later medical and cultural summaries), tea is listed among remedies for food-related harm, for liver tonic use, and for clearing foggy thinking. Exact wording and verse numbers vary by edition, so this page stays at tradition-summary level.[^1]
+3. **Fence.** Needham supplies the botanical long view. He is not treated here as a primary *Shennong* editor.[^5]
 
-**Honesty fence:** do not invent Han clinical trials, dose tables, or a private critical edition of *Shennong* on this page. Medicine soup is the first of three human jobs—before monastery timetable and tea-room practice.
+**Honesty fence:** do not invent Han clinical trials, dose tables, or a private critical edition of *Shennong* on this page. Medicine soup is the first of three human jobs, and it comes before the monastery timetable and the tea-room practice.
 :::
 
 ## Stay awake for practice (Tang & Song monasteries)
 
-**Tang & Song monasteries (about 618–1279).** Chan monks used tea to stay awake in long meditation without relying on harsher stimulants. Communal codes eventually wrote tea into the daily timetable.
+**Tang & Song monasteries (about 618–1279).** Chan monks used tea to stay awake through long meditation, without relying on harsher stimulants. Communal codes eventually wrote tea into the daily timetable.
 
-Monks in intensive *zazen* were expected to stay wakeful through long sits. Tea offered alertness without the tremor story that harsher stimulants carry in the sources' framing. That is not "ancient energy drink marketing." It is a monastic logistics problem: how do you keep a community alert together, on a schedule, without collapsing the room into chaos?
+Monks in intensive *zazen* were expected to stay wakeful through long sits. Tea offered alertness without the tremor story that harsher stimulants carry in the sources' framing. That use is not "ancient energy drink marketing." It is a monastic logistics problem: how do you keep a community alert together, on a schedule, without collapsing the room into chaos?
 
-By **1103**, the [*Chanyuan Qinggui*](../../glossary.qmd#chanyuan-qinggui) (*Rules of Purity for the Chan Monastery*)—the earliest surviving comprehensive Chan monastic code of its kind in the sources' telling—codified formal communal tea (*chali*): before-dawn drinking, seating orders, bowl-holding procedures.[^6]
+By **1103**, the [*Chanyuan Qinggui*](../../glossary.qmd#chanyuan-qinggui) (*Rules of Purity for the Chan Monastery*)—the earliest surviving comprehensive Chan monastic code of its kind in the sources' telling—had codified formal communal tea (*chali*). The code covers before-dawn drinking, seating orders, and bowl-holding procedures.[^6]
 
 ::: {.callout-note collapse="true" title="More detail: Chanyuan Qinggui as timetable, not cafe culture"}
-Yifa's annotated translation places the tea rules in a living monastic code: communal drinking before dawn practice, exact seating, and bowl etiquette.[^6]
+Yifa's annotated translation places the tea rules inside a living monastic code: communal drinking before dawn practice, exact seating, and bowl etiquette.[^6]
 
-What that shows: tea was **scheduled**—part of discipline and wakefulness, not only private taste.
+What that shows is straightforward. Tea was **scheduled**. It belonged to discipline and to wakefulness, and not only to private taste.
 
-What it does *not* show: that every modern cafe ritual descends unbroken from Chan, or that a 1103 seating chart causes cooperation in Trust Games. Those later bridges live on [Linkages](../../linkages.qmd)—historical phrase beside modern measure—not proof that monks ran EEG labs.
+What it does *not* show is that every modern cafe ritual descends unbroken from Chan, or that a 1103 seating chart causes cooperation in Trust Games. Those later bridges live on [Linkages](../../linkages.qmd)—a historical phrase set beside a modern measure, and not proof that monks ran EEG labs.
 :::
 
 ## Song powder, then Eisai's Japan
 
-Before Japan, one more China-side hinge: Tang boiled **cake tea** (Lu Yu's roast–grind–boil curriculum) was not the last elite form. In **Song** elite and monastic practice, powdered tea whisked in a bowl (*diancha* in teaching labels; often glossed beside early Japanese *mocha*-related practice) became a shared attention script—**not** a modern grocery-matcha barista lesson ([Tea basics](../../tea-basics.qmd) / [Chapter 1](../module-01/index.qmd) own aisle matcha).[^1][^2] That Song form is part of what Eisai helps carry to Japan; dates and fences live in the foldout.
+Before the story reaches Japan, there is one more China-side hinge. Tang boiled **cake tea** (Lu Yu's roast–grind–boil curriculum) was not the last elite form. In **Song** elite and monastic practice, powdered tea whisked in a bowl (*diancha* in teaching labels; often glossed beside early Japanese *mocha*-related practice) became a shared attention script. It was **not** a modern grocery-matcha barista lesson. [Tea basics](../../tea-basics.qmd) and [Chapter 1](../module-01/index.qmd) own the aisle matcha.[^1][^2] That Song form is part of what Eisai helps carry to Japan. The dates and the fences live in the foldout.
 
 ::: {.callout-note collapse="true" title="More detail: Tang cake boil → Song whisked powder (*diancha*)"}
-Teaching sequence from Benn's China history and Sen's China→Japan origin chapters:[^1][^2]
+The teaching sequence below comes from Benn's China history and from Sen's China→Japan origin chapters.[^1][^2]
 
 | Stage | Form (teaching labels) | What changes for the drinker |
 | --- | --- | --- |
-| Tang (Lu Yu's world) | Cake tea → roast, grind, sieve, **boil** (fish eyes / pearls / waves) | Attention to heat in a kettle; powder **into** the boil[^7] |
-| Song elite / monastic | Whisked powdered tea in a bowl (*diancha* / early *mocha*-related teaching labels) | Froth and bowl as the stage; shared whisking as practice |
-| Eisai → Japan | Song-linked practice promoted as nourishment and wakefulness | Helps tea root in Japan before later *chado* aesthetics fully flower[^2][^3] |
+| Tang (Lu Yu's world) | Cake tea → roast, grind, sieve, **boil** (fish eyes / pearls / waves) | Attention stays on the heat in the kettle, and the powder goes **into** the boil[^7] |
+| Song elite / monastic | Whisked powdered tea in a bowl (*diancha* / early *mocha*-related teaching labels) | Froth and bowl become the stage, and shared whisking becomes the practice |
+| Eisai → Japan | Song-linked practice, promoted as nourishment and as wakefulness | The practice helps tea take root in Japan, before later *chado* aesthetics fully flower[^2][^3] |
 
-**Read it as:** a processing-and-attention bridge from Tang monograph to Japanese tea culture.  
-**Do not read it as:** unbroken cafe descent, or a how-to for modern latte art. Grocery matcha stays with Tea basics / Chapter 1.
+**Read it as:** a processing-and-attention bridge from the Tang monograph to Japanese tea culture.
+**Do not read it as:** an unbroken cafe descent, or a how-to for modern latte art. Grocery matcha stays with Tea basics and with Chapter 1.
 :::
 
 ## Eisai, Lu Yu, and the Japanese tea room
 
-**Japan from Eisai onward (from 1191).** Eisai promoted tea after contact with Song practice; later tea rooms used *ichigo ichie* ("one time, one meeting"). Status was leveled on the tatami—useful for serious talks.[^2][^3]
+**Japan from Eisai onward (from 1191).** Eisai promoted tea after his contact with Song practice. Later tea rooms used *ichigo ichie* ("one time, one meeting"). Status was leveled on the tatami, which made the room useful for serious talks.[^2][^3]
 
-In **1211**, Eisai's [*Kissa Yōjōki*](../../glossary.qmd#kissa-yojoki) (*Drinking Tea for Nourishment of Life*) framed tea through a Five Elements / Five Organs idea: tea's bitter flavor (*ku*) nourishes the heart (*shin*), balances the other viscera, and curbs lethargy.[^2][^3]
+In **1211**, Eisai's [*Kissa Yōjōki*](../../glossary.qmd#kissa-yojoki) (*Drinking Tea for Nourishment of Life*) framed tea through a Five Elements / Five Organs idea. Tea's bitter flavor (*ku*) nourishes the heart (*shin*), balances the other viscera, and curbs lethargy.[^2][^3]
 
 ::: {.callout-note collapse="true" title="More detail: Eisai's Kissa Yōjōki — bitter flavor, heart, lethargy"}
-Eisai (Myōan Eisai) wrote *Kissa Yōjōki* in **1211** after bringing Song-dynasty tea practice to Japan. Sen's standard English-language history walks the treatise as pharmacology-plus-promotion, not as a modern clinical trial.[^2][^3]
+Eisai (Myōan Eisai) wrote *Kissa Yōjōki* in **1211**, after bringing Song-dynasty tea practice to Japan. Sen's standard English-language history walks through the treatise as pharmacology-plus-promotion, and not as a modern clinical trial.[^2][^3]
 
-Teaching snapshot (aligned with Sen's discussion):
+The teaching snapshot below is aligned with Sen's discussion.
 
 - **Five Elements / Five Organs frame.** Each flavor is paired with an organ. Tea's bitterness (*ku*) is said to nourish the heart (*shin*).
-- **Practical pitch.** Drink tea to balance the other viscera and to suppress lethargy—wakefulness as medical claim, not only as cafe branding.
-- **Historical job.** Help tea take root in Japan as nourishment and as a monastic/elite practice, decades before later *chado* aesthetics fully flower.
+- **Practical pitch.** Drink tea to balance the other viscera and to suppress lethargy. Wakefulness, in this text, is a medical claim, and not only a cafe brand.
+- **Historical job.** The treatise helps tea take root in Japan, both as nourishment and as a monastic and elite practice, decades before later *chado* aesthetics fully flower.
 
 **Read it as:** a 1211 sales-and-care argument that tea keeps people awake and well.
 
-**Do not read it as:** an fMRI abstract, an HRV paper, or proof that Eisai measured parasympathetic tone. This lesson places his "nourishes the heart" phrase *beside* modern HRV findings on [Linkages](../../linkages.qmd)—rhyme, not anachronism.[^2]
+**Do not read it as:** an fMRI abstract, an HRV paper, or proof that Eisai measured parasympathetic tone. This lesson places his "nourishes the heart" phrase *beside* modern HRV findings on [Linkages](../../linkages.qmd). The pairing is a rhyme, not an anachronism.[^2]
 :::
 
-Centuries earlier in China, Lu Yu's *Cha Jing* (about **760**) had already treated boiling as an attention practice: three stages by bubble look—"fish eyes," "pearls," "billowing waves."[^7] Watching water carefully is not only aesthetics. It is a script for noticing.
+Centuries earlier in China, Lu Yu's *Cha Jing* (about **760**) had already treated boiling as an attention practice. He set out three stages by the look of the bubbles: "fish eyes," "pearls," and "billowing waves."[^7] Watching the water carefully is not only a matter of aesthetics. It is a script for noticing.
 
 ::: {.callout-note collapse="true" title="More detail: Lu Yu's Cha Jing — ten chapters and three boils"}
-The *Cha Jing* (*Classic of Tea*) is short—about **7,000** classical Chinese characters in the form usually summarized as **three scrolls, ten chapters**—and it is the earliest surviving tea monograph of its kind.[^8] Chapter 5 (*Boiling*) is the sources' teaching favorite, and the Chinese text itself matches the three-stage picture:[^7][^9]
+The *Cha Jing* (*Classic of Tea*) is short—about **7,000** classical Chinese characters, in the form usually summarized as **three scrolls, ten chapters**—and it is the earliest surviving tea monograph of its kind.[^8] Chapter 5 (*Boiling*) is the sources' teaching favorite, and the Chinese text itself matches the three-stage picture.[^7][^9]
 
 | Stage (Carpenter) | What the boil looks like | What Lu Yu has you do (plain English) |
 | --- | --- | --- |
-| First boil | Small bubbles like **fish eyes**, faint sound | Season the water lightly with salt; taste; do not drown the leaf in salt |
-| Second boil | Bubbles at the rim like a **string of pearls** | Ladle out one scoop and set it aside; stir a whirlpool; drop measured tea powder into the center |
-| Third boil | **Billowing waves** | Pour the reserved water back to calm the boil and keep the surface froth (*hua*) |
+| First boil | Small bubbles like **fish eyes**, with a faint sound | Season the water lightly with salt, then taste it, and do not drown the leaf in salt |
+| Second boil | Bubbles at the rim like a **string of pearls** | Ladle out one scoop and set it aside, stir a whirlpool, and drop the measured tea powder into the center |
+| Third boil | **Billowing waves** | Pour the reserved water back, so as to calm the boil and keep the surface froth (*hua*) |
 
-Beyond the third boil, the Classic warns, the water is "old" and unfit. Tang practice here is cake tea: roast, grind, sieve, boil—not a modern steeping bag. Chapter 10 even tells the reader to hang the contents on scrolls where tea is made, so the handbook stays visible at the workbench.[^8]
+Beyond the third boil, the Classic warns, the water is "old" and unfit. Tang practice here is cake tea: roast, grind, sieve, and boil, rather than a modern steeping bag. Chapter 10 even tells the reader to hang the contents on scrolls where tea is made, so the handbook stays visible at the workbench.[^8]
 
-**What this shows:** attention to heat as a curriculum of noticing—long before EEG.
+**What this shows:** attention to heat, taught as a curriculum of noticing, long before EEG.
 
-**What it does not show:** that every modern cafe timer descends unbroken from Lu Yu, or that bubble poetry is a clinical stress protocol. This chapter keeps that fence; so do we.[^1]
+**What it does not show:** that every modern cafe timer descends unbroken from Lu Yu, or that the bubble poetry is a clinical stress protocol. This chapter keeps that fence, and so do we.[^1]
 :::
 
 | When | Text / practice | What it did | Source |
 | --- | --- | --- | --- |
-| About 760 | Lu Yu's *Cha Jing* | Three boils by bubble look: "fish eyes," "pearls," "billowing waves" | Lu Yu; Carpenter (1974 source) [^7] |
-| Song | Whisked powdered tea (*diancha*) | Elite / monastic bowl practice; form Eisai helps carry | Benn; Sen [^1][^2] |
-| 1103 | *Chanyuan Qinggui* (Chan monastic code) | Formal communal tea before dawn practice; seating and bowl rules | Yifa (2002 source) [^6] |
-| 1211 | Eisai's *Kissa Yōjōki* | Tea as nourishment; bitter flavor said to nourish the heart and curb lethargy | Eisai (1211); Sen (1998) [^2][^3] |
-| Late 1500s | Sen no Rikyū (tea-room reception) | *Wabi* simplicity; small room; host/guest etiquette as social technology | Sen (1998) [^2] |
-| 1906 | Okakura Kakuzō, *The Book of Tea* | A modern English-language window onto tea aesthetics for Western readers | Okakura (1906) [^4] |
+| About 760 | Lu Yu's *Cha Jing* | Three boils, told by the look of the bubbles: "fish eyes," "pearls," and "billowing waves" | Lu Yu; Carpenter (1974 source) [^7] |
+| Song | Whisked powdered tea (*diancha*) | An elite and monastic bowl practice, and a form that Eisai helps carry | Benn; Sen [^1][^2] |
+| 1103 | *Chanyuan Qinggui* (Chan monastic code) | Formal communal tea before dawn practice, with seating and bowl rules | Yifa (2002 source) [^6] |
+| 1211 | Eisai's *Kissa Yōjōki* | Tea as nourishment; the bitter flavor is said to nourish the heart and to curb lethargy | Eisai (1211); Sen (1998) [^2][^3] |
+| Late 1500s | Sen no Rikyū (tea-room reception) | *Wabi* simplicity, a small room, and host/guest etiquette used as a social technology | Sen (1998) [^2] |
+| 1906 | Okakura Kakuzō, *The Book of Tea* | A modern English-language window onto tea aesthetics, written for Western readers | Okakura (1906) [^4] |
 
-In the Japanese *chado* environment, ritualized preparation under Zen-linked principles removed external social status: samurai, merchants, and emperors could sit as equals on the tatami for talks that needed a leveled room.[^2] That is a social technology claim in the sources' language—not a promise that tea automatically produces peace treaties.
+In the Japanese *chado* environment, ritualized preparation under Zen-linked principles removed external social status. Samurai, merchants, and emperors could sit as equals on the tatami, for talks that needed a leveled room.[^2] In the sources' language, that is a claim about social technology. It is not a promise that tea automatically produces peace treaties.
 
-**Sen no Rikyū** (late 1500s) is the name later generations most often attach to that tea-room social technology: *wabi* simplicity, a small room, and host/guest etiquette that can level status for a while.[^2] Use Sen for aesthetics and etiquette as practice—not for "Rikyū invented peace," or ritual-as-anxiety-cure (Chapter 4 owns modern stress measures).
+**Sen no Rikyū** (late 1500s) is the name later generations most often attach to that tea-room social technology: *wabi* simplicity, a small room, and host/guest etiquette that can level status for a while.[^2] Use Sen for aesthetics and for etiquette as a practice. Do not use him for the claim that "Rikyū invented peace," or for ritual-as-anxiety-cure. Chapter 4 owns the modern stress measures.
 
 ::: {.callout-note collapse="true" title="More detail: Sen no Rikyū — tea-room aesthetics as social technology"}
-Sen's standard English-language trail ends at Rikyū; Okakura's 1906 doorway later popularized *wabi*-linked tea-room atmosphere for Western readers.[^2][^4]
+Sen's standard English-language trail ends at Rikyū. Okakura's 1906 doorway later popularized a *wabi*-linked tea-room atmosphere for Western readers.[^2][^4]
 
-Teaching snapshot (no extra monograph locked on this polish):
+The teaching snapshot below adds no extra monograph on this polish.
 
-- **Late 1500s tea room.** Small space, careful utensils, host/guest roles—attention as shared etiquette, not only as private taste.
-- ***Wabi* simplicity.** Preference for the modest and imperfect in later reception—useful as aesthetic vocabulary, not as a personality quiz.
-- **Social technology.** A leveled room can make hard talks *possible*; it does not guarantee peace treaties or Trust-Game cooperation (Chapter 5).
+- **Late 1500s tea room.** A small space, careful utensils, and host/guest roles. Attention here is shared etiquette, and not only private taste.
+- ***Wabi* simplicity.** A preference, in the later reception, for the modest and the imperfect. It is useful as aesthetic vocabulary, and it is not a personality quiz.
+- **Social technology.** A leveled room can make hard talks *possible*. It does not guarantee peace treaties, and it does not guarantee Trust-Game cooperation (Chapter 5).
 
-**Foldout fence:** Hideyoshi / Nobunaga politics, *raku* ware lineages, and garden design stay off the open page unless a later draft locks a dedicated Rikyū monograph. This beat cites **Sen [^2]** (and Okakura [^4] as doorway only).
+**Foldout fence:** Hideyoshi / Nobunaga politics, *raku* ware lineages, and garden design stay off the open page unless a later draft locks a dedicated Rikyū monograph. This beat cites **Sen [^2]** (and Okakura [^4] as a doorway only).
 :::
 
 ::: {.callout-note collapse="true" title="More detail: from medicine soup to Chan code to chado"}
 | When | Text / practice | What it did | Trail |
 | --- | --- | --- | --- |
-| ~760 | Lu Yu's *Cha Jing* | Three boils by bubble look (Tang cake → powder into boil) | Lu Yu; Carpenter (1974 source) [^7] |
-| Song | Whisked powdered tea (*diancha* teaching label) | Elite / monastic bowl practice; bridge toward Japan | Benn; Sen [^1][^2] |
-| 1103 | *Chanyuan Qinggui* | Formal communal tea before dawn; seating and bowl rules | Yifa (2002 source) [^6] |
-| 1211 | Eisai's *Kissa Yōjōki* | Bitter flavor nourishes the heart; curbs lethargy | Eisai; Sen (1998) [^2][^3] |
-| Late 1500s | Sen no Rikyū (tea-room reception) | *Wabi* simplicity; small room; host/guest leveling | Sen (1998) [^2] |
-| 1906 | Okakura, *The Book of Tea* | Modern English-language window onto tea aesthetics | Okakura (1906) [^4] |
+| ~760 | Lu Yu's *Cha Jing* | Three boils by the look of the bubbles (Tang cake → powder into the boil) | Lu Yu; Carpenter (1974 source) [^7] |
+| Song | Whisked powdered tea (*diancha* teaching label) | An elite and monastic bowl practice, and a bridge toward Japan | Benn; Sen [^1][^2] |
+| 1103 | *Chanyuan Qinggui* | Formal communal tea before dawn, with seating and bowl rules | Yifa (2002 source) [^6] |
+| 1211 | Eisai's *Kissa Yōjōki* | Bitter flavor nourishes the heart, and curbs lethargy | Eisai; Sen (1998) [^2][^3] |
+| Late 1500s | Sen no Rikyū (tea-room reception) | *Wabi* simplicity, a small room, and host and guest brought to one level | Sen (1998) [^2] |
+| 1906 | Okakura, *The Book of Tea* | A modern English-language window onto tea aesthetics | Okakura (1906) [^4] |
 
-Pathway in plain words: medicinal drink (Han) → focus aid in Chan/Zen monasteries (Tang/Song, including Song powder) → highly ritualized social practice (Japan's *chado*, with Rikyū in later reception).[^1][^2] Early tea was often a bitter soup with salt, ginger, peel, scallions. Later, monks used tea to stay awake in long meditation without harsher stimulants. In Japan, *ichigo ichie* and tatami etiquette leveled status for serious talks.[^2][^3]
+The pathway, in plain words, runs from a medicinal drink (Han) to a focus aid in Chan/Zen monasteries (Tang/Song, including Song powder), and then to a highly ritualized social practice (Japan's *chado*, with Rikyū in the later reception).[^1][^2] Early tea was often a bitter soup with salt, ginger, peel, and scallions. Later, monks used tea to stay awake in long meditation without harsher stimulants. In Japan, *ichigo ichie* and the etiquette of the tatami leveled status for serious talks.[^2][^3]
 :::
 
 ## Folklore check: Bodhidharma's eyelids
 
-And because folklore loves a dramatic birth story: Bodhidharma's eyelids grew into tea bushes, people say. That is popular folklore, not early Chan history. Keep the legend as a *legend*—not as monastic primary evidence.
+Folklore loves a dramatic birth story, and this one is told often. People say that Bodhidharma's eyelids grew into tea bushes. That story is popular folklore, and it is not early Chan history. Keep the legend as a *legend*, and not as monastic primary evidence.
 
 ::: {.callout-caution collapse="true" title="More detail: Bodhidharma's eyelids — folklore check"}
-Popular tellings say Bodhidharma tore off his eyelids to stay awake through years of wall-gazing, and that tea bushes sprouted where the lids fell. It is a vivid allegory for wakefulness. It is **not** early Chan documentary history.
+Popular tellings say that Bodhidharma tore off his eyelids so he could stay awake through years of wall-gazing, and that tea bushes sprouted where the lids fell. It is a vivid allegory for wakefulness. It is **not** early Chan documentary history.
 
-Historiography note (our baseline):[^10]
+The historiography note that this page takes as its baseline is short.[^10]
 
 - The story is **absent** from early Chinese Chan collections such as the *Records of the Transmission of the Lamp* (*Jingde chuandeng lu*, **1004**).
-- It appears much later in **European Jesuit travel writing** and in **late-Edo** Japanese popular books—as a mythic explanation, not as an attested Tang/Song monastic record.
+- It appears much later, in **European Jesuit travel writing** and in **late-Edo** Japanese popular books, as a mythic explanation rather than as an attested Tang/Song monastic record.
 
-So: use it to talk about how cultures *explain* tea and sleep. Do **not** cite it beside *Chanyuan Qinggui* (1103) or Eisai (1211) as if it were the same kind of source.[^6][^2]
+So use the story when you want to talk about how cultures *explain* tea and sleep. Do **not** cite it beside *Chanyuan Qinggui* (1103) or Eisai (1211) as if it were the same kind of source.[^6][^2]
 :::
 
 ::: {.callout-caution collapse="true" title="More detail: reading the timetable without romance"}
-The monastic codes and Eisai's essay are **prescriptions and promotions**, not lab notebooks. *Chanyuan Qinggui* (1103) shows tea written into a communal schedule; *Kissa Yōjōki* (1211) argues for tea as nourishment against lethargy; Lu Yu's *Cha Jing* teaches attention to the boil by eye.[^1][^2][^6][^7]
+The monastic codes, and Eisai's essay with them, are **prescriptions and promotions**. They are not lab notebooks. *Chanyuan Qinggui* (1103) shows tea written into a communal schedule. *Kissa Yōjōki* (1211) argues for tea as nourishment against lethargy. Lu Yu's *Cha Jing* teaches attention to the boil by eye.[^1][^2][^6][^7]
 
-What this lesson does *not* claim: that every modern cafe ritual descends unbroken from Chan, or that *ichigo ichie* causes cooperation in Trust Games. Those are later bridges on [Linkages](../../linkages.qmd).
+What this lesson does *not* claim is that every modern cafe ritual descends unbroken from Chan, or that *ichigo ichie* causes cooperation in Trust Games. Those are later bridges, and they are set out on [Linkages](../../linkages.qmd).
 
-Eisai's 1211 phrase about tea nourishing the heart sits, in the sources, beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone—see [Chapter 2 · Body signals](../module-02/04-body-signals.qmd). That is a historical phrase meeting a modern measure—not proof that Eisai ran an HRV lab.
+Eisai's 1211 phrase about tea nourishing the heart sits, in the sources, beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone. See [Chapter 2 · Body signals](../module-02/04-body-signals.qmd). That meeting is a historical phrase beside a modern measure. It is not proof that Eisai ran an HRV lab.
 :::
 
-Ritual and focus uses of tea are old. Modern "calm alertness" talk sits beside a long cultural history—not instead of it.
+Ritual uses of tea, and focus uses of tea, are old. Modern talk of "calm alertness" sits beside that long cultural history. It does not stand in its place.
 
-From monasteries, later chapters ask quieter modern questions—warmth, ritual under stress, negotiation rooms—without treating Tang codes as lab notebooks.
+From the monasteries, later chapters ask quieter modern questions—warmth, ritual under stress, and negotiation rooms—without treating Tang codes as lab notebooks.
 
 
 ## What "focus aid" meant before EEG
 
-Modern readers hear "focus" and picture productivity apps. Monastic tea was a different problem: how to keep a community awake through long, shared sits without turning the hall into a stimulant free-for-all.
+Modern readers hear the word "focus" and picture productivity apps. Monastic tea was a different problem: how to keep a community awake through long, shared sits, without turning the hall into a stimulant free-for-all.
 
-Tea entered the timetable. That is the sources' quiet point. *Chanyuan Qinggui* does not read like a tasting note. It reads like logistics—who sits where, when the bowls appear, how the community moves together before dawn practice.[^6]
+Tea entered the timetable. That is the sources' quiet point. *Chanyuan Qinggui* does not read like a tasting note. It reads like logistics: who sits where, when the bowls appear, and how the community moves together before dawn practice.[^6]
 
-Lu Yu's boil stages do similar work for attention: you cannot rush "fish eyes" into "billowing waves" without watching. The Classic of Tea turns heat into a curriculum of noticing.[^7]
+Lu Yu's boil stages do similar work for attention. You cannot rush "fish eyes" into "billowing waves" without watching. The Classic of Tea turns heat into a curriculum of noticing.[^7]
 
-Eisai then sells tea to Japan partly as nourishment against lethargy—bitter flavor as heart-nourishing *ku*—in a medical-cosmological frame that modern readers should not anachronistically rewrite as an fMRI abstract.[^2][^3]
+Eisai then offers tea to Japan partly as nourishment against lethargy—bitter flavor as heart-nourishing *ku*—inside a medical and cosmological frame. Modern readers should not rewrite that frame, anachronistically, as an fMRI abstract.[^2][^3]
 
 ::: {.callout-note collapse="true" title="More detail: ichigo ichie without romantic fog"}
-*Ichigo ichie* ("one time, one meeting") marks the unrepeatable encounter. In tea-room practice, that idea sits beside etiquette that levels status on the tatami.[^2]
+*Ichigo ichie* ("one time, one meeting") marks the encounter that cannot be repeated. In tea-room practice, that idea sits beside etiquette that levels status on the tatami.[^2]
 
-Useful teaching claim: ritualized equality can create a room where hard talks are *possible*.
+The useful teaching claim is modest. Ritualized equality can create a room where hard talks are *possible*.
 
-Overclaim to avoid: tea rooms "cause" peace treaties, or *chado* automatically produces Trust-Game cooperation. Negotiation outcomes still depend on interests, power, and payoffs—Chapter 5's theme.
+The overclaim to avoid is larger. Tea rooms do not "cause" peace treaties, and *chado* does not automatically produce Trust-Game cooperation. Negotiation outcomes still depend on interests, power, and payoffs, which is Chapter 5's theme.
 :::
 
 ## How this lesson talks to Chapters 2 and 4–5
 
-Eisai's "nourishes the heart" line can sit *beside* modern **heart-beat flexibility** ([HRV](../../glossary.qmd#hrv)) findings as a rhyme—not as proof that 1211 knew laboratory measures ([Chapter 2 · Section 4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)). Monastic **shared timing** may foreshadow Chapter 4's ritual lesson in one sentence; **Chapter 4** owns brewing-break protocols, Hobson, and ERN scaffolding—this page does not teach them.
+Eisai's "nourishes the heart" line can sit *beside* modern **heart-beat flexibility** ([HRV](../../glossary.qmd#hrv)) findings, as a rhyme rather than as proof that 1211 knew laboratory measures ([Chapter 2 · Section 4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)). Monastic **shared timing** may foreshadow Chapter 4's ritual lesson, and a single sentence is enough to point there. **Chapter 4** owns the brewing-break protocols, Hobson, and the ERN scaffolding. This page does not teach them.
 
 
 
 ## Okakura as a doorway, not a primary chronicle
 
-Okakura's 1906 *Book of Tea* gave many English-language readers their first aesthetic vocabulary for tea.[^4] Use it as a doorway into *chado* atmosphere—not as a substitute for Yifa's monastic code, Eisai's treatise, or Benn's religious-cultural history.[^1][^6][^2] Popular books can open curiosity; primary and scholarly trails keep the timetable honest.
+Okakura's 1906 *Book of Tea* gave many English-language readers their first aesthetic vocabulary for tea.[^4] Use that book as a doorway into the atmosphere of *chado*. Do not use it as a substitute for Yifa's monastic code, for Eisai's treatise, or for Benn's religious and cultural history.[^1][^6][^2] Popular books can open curiosity. Primary texts and scholarly trails keep the timetable honest.
 
 ::: {.callout-note collapse="true" title="More detail: The Book of Tea (1906) — doorway, not gospel"}
-Okakura Kakuzō wrote *The Book of Tea* in **English** (Fox Duffield, **1906**) for Western readers—especially an early-twentieth-century American audience curious about Japan.[^4] It popularized "Teaism": simplicity, harmony, and care for everyday beauty, including reverence for imperfect things often associated with *wabi* aesthetics and with Sen no Rikyū's tea-room legacy in later reception.[^2][^4]
+Okakura Kakuzō wrote *The Book of Tea* in **English** (Fox Duffield, **1906**) for Western readers, especially an early-twentieth-century American audience that was curious about Japan.[^4] The book popularized "Teaism": simplicity, harmony, and care for everyday beauty, including a reverence for imperfect things often associated with *wabi* aesthetics and with Sen no Rikyū's tea-room legacy in the later reception.[^2][^4]
 
 **Useful doorway:**
 
-- A readable English invitation to tea-room atmosphere and to the idea that preparing tea is an aesthetic and ethical practice, not only a beverage step.
-- A historical artifact of *how Japan was explained to the West* in 1906—itself a cultural document.
+- A readable English invitation into the atmosphere of the tea room, and into the idea that preparing tea is an aesthetic and ethical practice, not only a step in making a beverage.
+- A historical artifact of *how Japan was explained to the West* in 1906. The book is itself a cultural document.
 
 **Not a substitute for:**
 
@@ -220,16 +220,16 @@ Okakura Kakuzō wrote *The Book of Tea* in **English** (Fox Duffield, **1906**) 
 | Chinese religious-cultural history | Benn [^1] |
 | Botanical/tech long view | Needham [^5] |
 
-Romance to refuse: treating Okakura's 1906 English essay as if it *were* the Tang Classic, the 1103 Chan code, or a lab notebook. Doorway yes. Gospel no.[^4]
+The romance to refuse is the habit of treating Okakura's 1906 English essay as if it *were* the Tang Classic, the 1103 Chan code, or a lab notebook. It can be a doorway. It cannot be a gospel.[^4]
 :::
 
 
 
 ::: {.callout-tip title="You can stop here"}
-- Tea moved from medicine soup → monastery timetable → Song powder / Eisai → tea-room practice (Rikyū in later reception).
-- Lu Yu taught noticing the boil; Chan codes wrote tea into shared schedules; Eisai argued tea nourishes against lethargy.
-- Folklore (Bodhidharma's eyelids) is color, not primary history—keep it labeled.
-- Old "nourishes the heart" language can rhyme with modern heart-beat flexibility measures without becoming an fMRI claim—Chapter 4 owns the lab bridges.
+- Tea moved from medicine soup to the monastery timetable, then to Song powder and Eisai, and then to tea-room practice, with Rikyū in the later reception.
+- Lu Yu taught people to notice the boil. Chan codes wrote tea into shared schedules. Eisai argued that tea nourishes, and that it works against lethargy.
+- The folklore of Bodhidharma's eyelids is color, and it is not primary history. Keep it labeled.
+- The old phrase "nourishes the heart" can rhyme with modern measures of heart-beat flexibility, without turning into an fMRI claim. Chapter 4 owns the lab bridges.
 :::
 
 ---

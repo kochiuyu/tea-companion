@@ -4,35 +4,35 @@ title: "Tea Companion"
 {{< include _includes/lang-switcher/home.en.qmd >}}
 
 ::: {.callout-tip title="Also in Chinese / 亦有中文版"}
-The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version—home, tea basics, tea labels, the five chapters, linkages, and bibliography.
+The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version. Those versions include the home page, tea basics, tea labels, the five chapters, linkages, and the bibliography.
 :::
 
 You tip hot water over a handful of leaves. Steam rises. The water darkens—maybe green-gold, maybe deep amber—and a smell fills the room that is somehow both sharp and soft. Twenty minutes later you are a little more awake. Sometimes you also feel a little calmer. Coffee can wake you up too. So why does *tea* so often feel like a different kind of alertness?
 
 That question is the door into this site.
 
-This site is a **story-shaped journey** through tea—leaves, body and mood, history and warmth, then everyday decisions. Each lesson aims to stay interesting and short enough to feel like a story.
+This site is a **story-shaped journey** through tea. It moves from the leaves, to the body and mood, through history and warmth, and on to everyday decisions. Each lesson aims to stay interesting, and short enough to feel like a story.
 
-**Footnotes** work both ways (number → source; caret → back; hover often shows a popup). Denser tables and side-stories sit in collapsed **"More detail…"** foldouts. The [Bibliography](bibliography.qmd) is the master map.
+**Footnotes** work in both directions: the number jumps to the source, and the caret jumps back. Hover often shows a popup. Denser tables and side-stories sit in collapsed **"More detail…"** foldouts. The [Bibliography](bibliography.qmd) is the master map.
 
 ## Start here
 
 | If you want… | Open |
 | --- | --- |
-| **First cup** — what tea is, true vs herbal, one simple mug | [Tea basics](tea-basics.qmd) |
-| **Shelf & cafe names** — Chinese / Japanese / Western labels, grades, teapots | [Tea labels](tea-labels.qmd) |
-| **Kitchen complaints** — bitter, flat, cloudy, second steep → which dial | [Kitchen troubleshoot](tea-troubleshoot.qmd) |
+| **First cup** — what tea is, how true tea differs from herbal, and one simple mug | [Tea basics](tea-basics.qmd) |
+| **Shelf and cafe names** — Chinese / Japanese / Western labels, grades, and teapots | [Tea labels](tea-labels.qmd) |
+| **Kitchen complaints** — bitter, flat, cloudy, or a second steep, and which dial to turn | [Kitchen troubleshoot](tea-troubleshoot.qmd) |
 | **Study headlines** — five questions before you believe “tea improves decisions” | [Reading a tea study](tea-reading-studies.qmd) |
 | **Numbers** — typical milligrams in a 250 mL mug | [Cup reference](cup-reference.qmd) |
-| **The full story** — five chapters, twenty sections | [Chapters overview](modules/index.qmd) |
+| **The full story** — five chapters and twenty sections | [Chapters overview](modules/index.qmd) |
 
 ## What this journey is about
 
-Think of five chapters that follow one continuous thread—each with **four lessons** 
+Think of five chapters that follow one continuous thread. Each chapter has **four lessons**.
 
-First you meet the **leaf**—where tea comes from, why green and black look so different, what brewing pulls into the mug, and three headline compounds. Then you follow those compounds **into the body**: brain signaling, brain-wave patterns, stress hormones, and quiet body signals. Next you zoom out. Tea remade **trade balances**, became a monastic focus aid, and even a warm mug in the hand shows up in experiments on trust. A short brewing break can also act as a practical stress reset. Finally you ask the decision question: do drinks **nudge** how fast we answer, how much risk we take, how much we care about tomorrow, and how trusting we are in a first move?
+First you meet the **leaf**: where tea comes from, why green and black look so different, what brewing pulls into the mug, and three headline compounds. Then you follow those compounds **into the body**, through brain signaling, brain-wave patterns, stress hormones, and quiet body signals. Next you zoom out. Tea remade **trade balances**, became a monastic focus aid, and even a warm mug in the hand shows up in experiments on trust. A short brewing break can also act as a practical stress reset. Finally you ask the decision question. Do drinks **nudge** how fast we answer, how much risk we take, how much we care about tomorrow, and how trusting we are in a first move?
 
-You can start anywhere. But if you read in order, each lesson hands you a reason to open the next.
+You can start anywhere. If you read in order, each lesson hands you a reason to open the next.
 
 ## The five chapters (at a glance)
 
@@ -48,12 +48,12 @@ A full structure map of all twenty sections sits on the [Chapters overview](modu
 
 When a number appears—say "about 30–50 mg caffeine"—treat it as a **typical range**, not a promise about your exact mug. Brands, leaves, and steep times differ. The [Cup reference](cup-reference.qmd) is the quick table for a common 250 mL cup.
 
-New to tea itself? Start with **[Tea basics](tea-basics.qmd)** for a first mug. Still foggy about a shelf or cafe name? Open **[Tea labels](tea-labels.qmd)** before or alongside Chapter 1.
+If you are new to tea itself, start with **[Tea basics](tea-basics.qmd)** and make a first mug. If a shelf or cafe name is still foggy, open **[Tea labels](tea-labels.qmd)** before Chapter 1, or alongside it.
 
-When a technical word appears, we define it in the story the first time. The [Glossary](glossary.qmd) is there when you want a one-line reminder (with links into the right chapter hub).
+When a technical word appears, we define it in the story the first time. The [Glossary](glossary.qmd) is there when you want a one-line reminder, with links into the right chapter hub.
 
-When you wonder how a brewing fact connects to mood, or a warm mug to a trust game, open [Linkages](linkages.qmd). Those eleven bridges sew the chapters together.
+When you wonder how a brewing fact connects to mood, or how a warm mug connects to a trust game, open [Linkages](linkages.qmd). Those eleven bridges sew the chapters together.
 
-When you want the paper behind a name-and-year—or a footnote marker on a lesson page—click the footnote or open the [Bibliography](bibliography.qmd).
+When you want the paper behind a name-and-year, or the note behind a footnote marker on a lesson page, click the footnote or open the [Bibliography](bibliography.qmd).
 
-Ready? Pour an imaginary cup—and start with [Tea basics](tea-basics.qmd) for a first mug, [Tea labels](tea-labels.qmd) if a box or menu name is still foggy, [Kitchen troubleshoot](tea-troubleshoot.qmd) if the mug already went wrong, or [Reading a tea study](tea-reading-studies.qmd) before you trust a headline—then [Chapter 1: The Chemical Core](modules/module-01/index.qmd)—or skim the [roadmap](modules/index.qmd) first.
+Ready? Pour an imaginary cup. Start with [Tea basics](tea-basics.qmd) for a first mug. Open [Tea labels](tea-labels.qmd) if a box or menu name is still foggy. Open [Kitchen troubleshoot](tea-troubleshoot.qmd) if the mug already went wrong. Read [Reading a tea study](tea-reading-studies.qmd) before you trust a headline. Then open [Chapter 1: The Chemical Core](modules/module-01/index.qmd), or skim the [roadmap](modules/index.qmd) first.
