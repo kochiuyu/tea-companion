@@ -53,6 +53,22 @@ Tea Companion has **five chapters and twenty lessons**. Read them in order for a
 
 [Browse all twenty lessons →](modules/index.qmd)
 
+::: {.callout-note collapse="true" title="More detail: the full reading journey"}
+Begin with the leaf: where tea comes from, how processing changes it, what brewing extracts, and the compounds you will meet again. Then move into the body and the studies used to investigate brain activity, mood, stress, and body signals.
+
+The view widens in the history chapter, from trade to monastic traditions, plantations, and regional customs. The final chapters ask how warmth, ritual, expectations, and social settings enter the experience—and how researchers investigate judgments, risk, patience, and trust. These are questions to explore, not promises that a cup will produce a particular effect.
+
+Each chapter has four lessons:
+
+1. **[The Chemical Core](modules/module-01/index.qmd):** Plants · Processing · Brewing · Compounds.
+2. **[Body, Brain & Mood](modules/module-02/index.qmd):** Brain action · Brain waves · Stress hormones · Body signals.
+3. **[History & Culture](modules/module-03/index.qmd):** Trade history · Monastic path · Plantation aftershock · Regional scripts.
+4. **[Context & Ritual Psychology](modules/module-04/index.qmd):** Warmth & trust · Ritual & stress · Expectation & labels · Context dials map.
+5. **[Decisions & Choices](modules/module-05/index.qmd):** Dual-process · Risk & waiting · Trust games · Study protocols.
+
+Read in sequence, or use [Linkages](linkages.qmd) to follow connections between chapters. Tea basics and the label guide can be read before Chapter 1 or alongside it.
+:::
+
 ## Keep these beside your cup
 
 - **Something tastes wrong?** [Kitchen troubleshoot](tea-troubleshoot.qmd) helps you choose one brewing adjustment.
@@ -65,5 +81,11 @@ Tea Companion has **five chapters and twenty lessons**. Read them in order for a
 You do not need a chemistry background or special teaware. Begin with an observation, follow the explanation, and use the optional **More detail** foldouts when you want to look closer. Footnotes lead to sources, and the [Bibliography](bibliography.qmd) brings the references together.
 
 As you read, keep three questions separate: **What changed in the cup? What did a study measure? What did I personally notice?** A finding about extracted compounds does not, by itself, establish an effect on mood or decisions. Learning to make those distinctions is part of the pleasure of understanding tea.
+
+::: {.callout-note collapse="true" title="More detail: using sources and reference pages"}
+Click a footnote number to jump to its source; use the return arrow to come back. In browsers that support it, hovering can also show a preview. Expand a **More detail** box to read its tables or explanation without leaving the lesson.
+
+When a number appears, check the preparation it describes. Tea, leaf amount, cup size, and steeping conditions can differ. The [Cup reference](cup-reference.qmd) gathers everyday estimates for a 250 mL cup; the [Bibliography](bibliography.qmd) helps you find the papers behind the claims. The [Glossary](glossary.qmd) is there for a quick definition.
+:::
 
 The companion is also available in [香港繁體中文](zh-hant-hk/index.qmd) and [简体中文](zh-hans/index.qmd).

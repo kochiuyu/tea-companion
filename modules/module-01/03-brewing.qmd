@@ -62,6 +62,26 @@ Also distinguish **solubility**—how much of a substance can dissolve under spe
 
 ## A research result worth reading carefully
 
+::: {.callout-note collapse="true" title="More detail: measured theanine in a cup"}
+Keenan and colleagues reported **24.2 ± 5.7 mg of L-theanine per 200 mL** for the black teas in their standard preparation and **7.9 ± 3.8 mg** for the green teas; the ± values are standard deviations.[^theanine] These are sample averages, not promises about all black or green tea.
+
+| What the measurement tells you | What it does not tell you |
+| --- | --- |
+| Tea selection and preparation affect the amount in the cup. | That a tea's color category fixes its theanine content. |
+| Brewing time mattered in the experiment. | That theanine always finishes extracting before catechins. |
+| The amount is reported for a specified 200 mL preparation. | The dose in your larger mug, or the effect you will feel. |
+
+Use the [Cup reference](../../cup-reference.qmd) to compare preparation assumptions, and the [tea-label guide](../../tea-labels.qmd) when comparing specific styles such as Gyokuro or Matcha. Do not turn this study's averages into a ranking of every tea style.
+:::
+
+::: {.callout-note collapse="true" title="More detail: leaf size, tea bags, and extraction kinetics"}
+**Kinetics** asks how quickly extraction proceeds; **equilibrium** concerns how a compound is distributed when the system has settled under specified conditions. Early work by Spiro and Siddique examined partitioning between tea leaf and water; Spiro and Jago studied the steps that can limit extraction speed.[^partition][^kinetics]
+
+Particle size is one part of that story. Price and Spiro compared whole teas and sieved fractions at 80°C. For the fractions they studied, smaller particles extracted faster, but particle size did not account for all the differences between teas.[^particles] Broken leaf has different geometry from whole leaf; the leaf's structure and processing also matter.
+
+This explains why comparing a fine tea bag with a whole-leaf infuser changes more than packaging. Keep leaf style fixed when testing time. If you compare bagged and loose tea, record both the leaf form and the brewing container rather than attributing every difference to the bag.
+:::
+
 Here is a concrete example of how to use a brewing paper without turning it into a commandment.
 
 Saklar and colleagues brewed Turkish green tea at **75, 85, and 95°C**, using times from **1 to 45 minutes**. They measured compounds and asked **nine trained panelists** to assess the infusions. In that experiment, **85°C for 3 minutes** gave the highest EGCG content and the highest sensory scores.[^brewing]
@@ -72,6 +92,8 @@ That is an interesting result. It is also bounded by the tea, preparation method
 Extraction is not the only process taking place. In the same experiment, some catechin forms decreased with prolonged brewing while other forms increased. Heat can promote changes between related chemical forms, and degradation can also matter.[^brewing]
 
 So “leave it longer to get more EGCG” is not an unlimited rule. The useful question is always: more of which compound, from which tea, under which conditions?
+
+The original lesson also drew on Perva-Uzunalić and colleagues' extraction study. In its water-extraction experiments, the reported maximum catechin recoveries included **97% at 80°C after 20 minutes** and **90% at 95°C after 10 minutes**; degradation occurred at higher temperatures and prolonged extraction times.[^extraction] Those are recovery figures from that experimental setup, not recommended drinking recipes or percentages you can assume for a home cup.
 :::
 
 ## Two tempting shortcuts
@@ -92,6 +114,40 @@ Remember that this is a different question from the two-cup experiment: the leav
 
 ## What to do with your result
 
+::: {.callout-note collapse="true" title="More detail: laboratory strength and your home mug"}
+ISO 3103 is a method for preparing tea for **sensory comparison**, not a standard for the most enjoyable home cup. Its preparation ratio is **2 g of leaf per 100 mL** of water.[^iso] Scaling that ratio gives **5 g per 250 mL**.
+
+For comparison, a deliberately chosen home recipe of **2 g per 250 mL** uses only **0.8 g per 100 mL**. The ISO leaf-to-water ratio is 2.5 times that example's ratio. This arithmetic compares recipes; it does not imply 2.5 times as much of every compound in the finished drink.
+
+| Preparation | Leaf | Water | Purpose here |
+| --- | --- | --- | --- |
+| ISO ratio, scaled | 5 g | 250 mL | Understand a standardized sensory preparation. |
+| Illustrative home baseline | 2 g | 250 mL | Record a repeatable starting recipe, then adjust to taste. |
+
+When reading a paper, look for leaf mass, water volume, temperature, time, and whether the authors measured the infusion or an extract. “One cup” alone is not enough to compare experiments.
+:::
+
+::: {.callout-note collapse="true" title="More detail: a weekday kettle checklist"}
+1. **Record the leaf and water.** Follow the packet first. If you need a simple loose-leaf comparison baseline, you can choose 2 g in 250 mL and record that choice; it is not a universal optimum.
+2. **Record the starting temperature.** For a green-tea comparison you could choose 80°C; for a black-tea comparison you could choose near-boiling water. Treat these as starting settings to adjust, not guaranteed extraction targets. Follow more specific packet instructions where available.
+3. **Use a timer and separate the leaves.** Write down the actual time rather than “a while.” Taste at a comfortable drinking temperature.
+4. **Change one setting next time.** Keep the tea, vessel, water volume, and handling consistent enough that the comparison is useful.
+5. **Treat cold brewing as a different method.** Record its temperature and duration too. Do not infer caffeine-free tea from a gentle taste.
+6. **Compare like with like.** Cup-reference estimates, laboratory extracts, and measured supplement doses describe different preparations.
+:::
+
+::: {.callout-note collapse="true" title="More detail: from brewing chemistry to how you feel"}
+Brewing experiments measure what enters the water. Studies of people ask what happens after drinking. A change in a cup's composition does not establish a change in attention, relaxation, stress, or decision-making.
+
+This is the bridge to [Chapter 2](../module-02/index.qmd): check the preparation and measured dose before comparing a brewing result with a human experiment. A caffeine-to-EGCG ratio alone cannot predict “calm focus,” and a softer second infusion is not evidence of a particular psychological effect. Keep your personal observation, the chemical measurement, and the human outcome separate.
+:::
+
+::: {.callout-note collapse="true" title="More detail: checking a technical number before using it"}
+A useful solubility table needs the compound's identity, solvent, temperature, units, and a traceable measurement. It answers a different question from how rapidly that compound leaves a tea leaf.
+
+The earlier version included numerical solubilities and a precise pH threshold whose support in the cited papers has not been established in this review. Those values are therefore not presented here as verified constants. The extraction and solubility concepts remain above; the exact earlier figures and their original attributions remain accessible in the [original lesson](https://github.com/kochiuyu/tea-companion/blob/1822d2e8ae2f7b6fa3ac841209027c87df296316/modules/module-01/03-brewing.qmd), so they can be revisited against primary measurements.
+:::
+
 Suppose your notes read: **“Cup A smells pleasant but tastes thin. Cup B has more body, but the finish is too drying.”** That is an illustrative result, not a prediction. A sensible next trial would keep everything else the same and try a time between the two. If both cups disappoint you, choose another control to investigate rather than changing the whole recipe at once.
 
 The [Kitchen troubleshoot](../../tea-troubleshoot.qmd) guide gives more starting points. Keep the recipe beside the verdict: “two minutes, this much leaf, this much water” is something you can repeat. “Nice tea” is harder to reproduce.
@@ -111,3 +167,13 @@ The next lesson introduces the [compounds behind the cup](04-compounds.qmd). For
 [^theanine]: Keenan, E. K., Finnie, M. D. A., Jones, P. S., Rogers, P. J., & Priestley, C. M. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. [University of Bristol research record](https://research-information.bris.ac.uk/en/publications/how-much-theanine-in-a-cup-of-tea-effects-of-tea-type-and-method-/). https://doi.org/10.1016/j.foodchem.2010.08.071
 
 [^cold]: Lantano, C., Rinaldi, M., Cavazza, A., Barbanti, D., & Corradini, C. (2015). Effects of alternative steeping methods on composition, antioxidant property and colour of green, black and oolong tea infusions. *Journal of Food Science and Technology, 52*, 8276–8283. [Full paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4648929/). https://doi.org/10.1007/s13197-015-1971-4
+
+[^partition]: Spiro, M., & Siddique, S. (1981). Kinetics and equilibria of tea infusion. Analysis and partition constants of theaflavins, thearubigins, and caffeine in Koonsong Broken Pekoe. *Journal of the Science of Food and Agriculture, 32*, 1027–1032. https://doi.org/10.1002/jsfa.2740321012
+
+[^kinetics]: Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion. Part 3.—Rotating-disc experiments interpreted by a steady-state model. *Journal of the Chemical Society, Faraday Transactions 1, 78*, 295–305. https://doi.org/10.1039/F19827800295. The original lesson's Spiro–Jago reference had mismatched title, journal, and pages; this is the verified 1982 paper by those authors.
+
+[^particles]: Price, W. E., & Spiro, M. (1985). Kinetics and equilibria of tea infusion: Rates of extraction of theaflavin, caffeine and theobromine from several whole teas and sieved fractions. *Journal of the Science of Food and Agriculture, 36*, 1309–1314. https://doi.org/10.1002/jsfa.2740361216
+
+[^extraction]: Perva-Uzunalić, A., Škerget, M., Knez, Ž., Weinreich, B., Otto, F., & Grüner, S. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. [University research record](https://www.hswt.de/en/research/research-profile/publications/detail/extraction-of-active-ingredients-from-green-tea-camellia-sinensis-extraction-efficiency-of-major-catechins-and-caffeine). https://doi.org/10.1016/j.foodchem.2005.03.015
+
+[^iso]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. [ISO record](https://www.iso.org/standard/73224.html); [standard preview, Table 1](https://cdn.standards.iteh.ai/samples/73224/a6f48e6d306c4a199cefcf8737b671cc/ISO-3103-2019.pdf).
