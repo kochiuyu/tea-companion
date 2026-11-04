@@ -4,6 +4,22 @@ title: "Section 1 · Silver, ships, and who controlled the leaf"
 
 {{< include ../../_includes/lang-switcher/module-03-trade-history.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A modest tea bag is a good place to begin an immodest history. Follow the trade story through money, power, and ports, watching how a familiar household drink enters much larger conflicts.
+
+**As you read:** Make a short timeline as you read. Keep treaties, wars, trading arrangements, and individual journeys on separate lines until their order is clear.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 3 · Section 1 of 4** is part of [Chapter 3 · History & Culture](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is set out before the sections begin.
 :::
@@ -11,7 +27,8 @@ title: "Section 1 · Silver, ships, and who controlled the leaf"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers on this page are clickable footnotes. Follow one to jump to the source, then use the caret to jump back; a hover often pops the note open beside the sentence you were reading. The collapsed "More detail…" boxes hold the denser trade figures and the plant-transfer timelines, so the open page can stay a story rather than a wall of tables.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## A cheap bag with an expensive past
 
 Start with a grocery-shelf miracle: a cheap bag of tea. The price is easy to overlook, but that cheapness has a geopolitical past. Before tea was a supermarket staple, it was a strategic commodity—paid for in silver, fought over with gunboats, and eventually grown on colonial plantations so that one empire would not depend forever on another.
@@ -207,7 +224,7 @@ Britannica's Opium Wars overview and Lovell's narrative history frame the second
 - Chemistry, in Chapter 1, still explains the cup. This lesson explains why the bag is there for pocket change.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-monastic-path.qmd)
 

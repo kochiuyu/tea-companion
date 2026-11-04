@@ -4,6 +4,22 @@ title: "Section 4 · Context is part of the dose — three dials, one map"
 
 {{< include ../../_includes/lang-switcher/module-04-context-dials-map.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Now put the surrounding influences on one page. A map is useful when it helps you design a comparison, not just name everything that might matter.
+
+**As you read:** Take an imagined tea experiment and mark warmth, ritual, and expectation. Decide which one you want to vary and how you would keep the others comparable.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 4 · Section 4 of 4** — part of [Chapter 4 · Context & Ritual Psychology](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 4 · Context is part of the dose — three dials, one map"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 This sitting is a **map**, not a new experiment. The footnotes point back to the lessons that own the evidence. The foldouts restate the fences and hand off to Chapter 5, with no new effect sizes.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## The cup is never only chemistry
 
 Picture a kitchen mug on an ordinary morning. The ceramic is hot in the hand. Your hands already know the brew sequence, boil, steep, sip, because you have done it a hundred times. The drink has a name on it, spoken or only implied: "tea," "specialty," "just bag," maybe a line on a cafe menu. Beside the leaf's guests, caffeine, [L-theanine](../../glossary.qmd#l-theanine), and the friends in [Chapter 1 · Compounds](../module-01/04-compounds.qmd), three **non-compound** influences can ride along at once: a tint from body temperature, a familiar script, and a belief about what the liquid *is*.
@@ -97,7 +114,7 @@ The sentence to carry into the rest of the book is this: **context is part of th
 - Carry this forward: **context is part of the dose.**
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Previous](03-expectation-labels.qmd) · [Chapter 5 hub →](../module-05/index.qmd)
 

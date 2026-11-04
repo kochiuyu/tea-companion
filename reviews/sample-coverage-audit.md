@@ -1,5 +1,7 @@
 # Sample revision: coverage audit
 
+**Historical audit of the first sample and its follow-up.** The later sitewide pass restores the complete original discussions on both sample pages in expandable sections, including the original numerical claims and source entries. See [the current sitewide review](sitewide-review.md) for the preservation policy, coverage counts, and questions retained for review. The descriptions below record the earlier sample decisions rather than the final sitewide retention state.
+
 The first sample did remove substantive detail as well as repetition. This revision keeps the approachable main narrative and restores useful technical coverage in **eight expandable lesson sections** and **two homepage sections**. The review document expands all of them.
 
 Comparison: original base **1822d2e8ae2f7b6fa3ac841209027c87df296316**; first sample **6b8622c8635b6b4af128c99c6be3b12ad8d1df97**. Only the English homepage and brewing lesson are revised. Other lessons, Chinese editions, and the shared bibliography remain unchanged.

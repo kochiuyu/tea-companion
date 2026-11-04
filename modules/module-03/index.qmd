@@ -4,6 +4,22 @@ title: "Chapter 3 · History & Culture"
 
 {{< include ../../_includes/lang-switcher/module-03.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Look beyond the cup and a larger cast comes into view: traders, growers, workers, monks, and people making room for tea in everyday life. This chapter follows their different stories.
+
+**As you read:** Read trade, monastic traditions, plantation labor, and regional customs as connected histories. For each, ask whose perspective the source makes visible.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 If Chapters 1 and 2 were a close-up of the leaf and the body, this chapter steps back. The wider view is **who moved the leaf**, and **how people staged the cup**.
 
 Along the way, tea remade **trade balances** between China and Britain. It became a **monastic focus aid** and a tea-room practice. After the monopoly break, **plantations** remade land and labor into a cheap mass commodity. Living **regional scripts**—Chaoshan tables, Hong Kong milk-tea counters, Taiwan tea art—still stage the drink as culture.
@@ -21,7 +37,8 @@ Warmth priming and ritual-stress psychology used to share this chapter. They now
 ::: {.callout-tip}
 **Read the story; open More detail boxes only when curious.** History and culture stay on the open path, and the denser tables live behind the click.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## The four sections
 
 1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)** — Canton silver, opium, Nanking, and the Fortune myth corrected.
@@ -44,6 +61,6 @@ Warmth priming and ritual-stress psychology used to share this chapter. They now
 
 History explains how the leaf reached your cupboard, and how cultures stage it. [Chapter 4](../module-04/index.qmd) asks how warmth, ritual, and expectation ride along with chemistry, because **context is part of the dose**. [Chapter 5](../module-05/index.qmd) then measures decisions and locks those dials in protocols.
 
----
+***
 
 **Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 2 hub](../module-02/index.qmd) · [First lesson →](01-trade-history.qmd) · [Chapter 4 hub →](../module-04/index.qmd)

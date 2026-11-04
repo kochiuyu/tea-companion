@@ -4,6 +4,22 @@ title: "Section 3 · Games of trust, fairness, and cooperation"
 
 {{< include ../../_includes/lang-switcher/module-05-trust-games.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+An offer can feel generous, unfair, or risky depending on the rules around it. Start with those rules, then consider what a drink or a setting could add to the experiment.
+
+**As you read:** Write down who moves first, what each person knows, and how the payoff works. Only then interpret a change in trust or cooperation.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 5 · Section 3 of 4** — part of [Chapter 5 · Decisions & Choices](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 3 · Games of trust, fairness, and cooperation"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" boxes hold the formal game names, the percent snapshots, and the equilibrium talk. Opening trust is not forever trust, and the warmth replication caveats from Chapter 3 still apply.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## When someone else is in the room
 
 Lessons 4.1 and 4.2 mostly watched one brain choosing alone: blurting versus checking, pumping a balloon, waiting for tomorrow. This lesson adds a second person. Trust, fairness, and cooperation are social. That is why classic laboratory games matter. They turn "will you be fair?" into something you can count, without pretending a warm mug rewrites the whole deal.
@@ -128,15 +145,19 @@ If headlines about drinks and decisions feel loud, the next section is the quiet
 
 ## Story in one minute
 
-Someone else is in the room. Unfair splits and first sends are social games, not solo pumps. Alcohol and a warm mug can nudge opening moves in the cited designs, and Chapter 3's replication caution still applies. Cooperation needs structure, not only a kettle.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Someone else is in the room. Unfair splits and first sends are social games, not solo pumps. Alcohol and a warm mug can nudge opening moves in the cited designs, and Chapter 3's replication caution still applies. Cooperation needs structure, not only a kettle.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Unfair splits and first sends need someone else in the room. A solo balloon is not enough.
 - Alcohol and warmth show up as opening nudges in the cited designs. They are not permanent negotiation upgrades.
 - Keep Chapter 3's Lynott caution when someone sells "serve tea, win the deal."
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 5 hub](index.qmd) · [← Previous](02-risk-waiting.qmd) · [Next →](04-study-protocols.qmd)
 

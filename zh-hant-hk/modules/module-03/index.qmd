@@ -5,6 +5,19 @@ lang: zh-Hant-HK
 
 {{< include ../../../_includes/lang-switcher/module-03.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+把視線移離杯子，人物便多起來：商人、茶農、工人、僧人，以及把茶放進日常生活的人。這一章沿着他們不同的故事走。
+
+**閱讀時試一試:** 把貿易、寺院傳統、種植園勞動和地方習俗連起來讀；每讀一節，都問來源讓誰的經驗變得可見。
+
+[首頁](../../index.qmd) · [章節地圖](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [茶葉標籤](../../tea-labels.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
@@ -30,6 +43,6 @@ lang: zh-Hant-HK
 
 歷史要講清的，是茶葉怎樣進了你的櫥櫃，各地又怎樣為這杯茶搭台。到了[第四章](../module-04/index.qmd)，話題轉到溫暖、儀式與預期，因為**情境也是劑量的一部分**。再到[第五章](../module-05/index.qmd)，才會去量度決策，並用研究程序把那些旋鈕鎖住。
 
----
+***
 
 **導航：** [← 章節總覽](../index.qmd) · [← 第二章](../module-02/index.qmd) · [第一節 →](01-trade-history.qmd) · [第四章 →](../module-04/index.qmd)

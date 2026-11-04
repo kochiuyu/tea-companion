@@ -4,6 +4,22 @@ title: "Section 2 · The fork in the road: stop the browning, or let it run"
 
 {{< include ../../_includes/lang-switcher/module-01-processing.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Picture a freshly picked leaf at a fork in the road. This lesson follows the maker's decisions and asks why the words oxidation, fermentation, and roasting should not be treated as interchangeable.
+
+**As you read:** Sketch a simple route from leaf to finished tea. Mark the step you would ask a producer to explain before guessing how the cup will taste.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 1 · Section 2 of 4** — part of [Chapter 1 · The Chemical Core](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 2 · The fork in the road: stop the browning, or let it run"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 The superscript numbers are clickable footnotes. You jump to the source, the caret jumps back, and a hover often pops the note. The collapsed "More detail…" boxes hold the enzyme names, the kill-green chemistry, and the factory-day tables, so the open page can stay a kitchen story.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## From bush to decision
 
 [Chapter 1 · Section 1](01-plants.qmd) left you with a leaf on a bush: a cool-hill or warm-lowland personality, some garden fine print, and a hint that Assam-type plant-compound richness loves black-tea processing. Now the leaf is picked. Someone in a factory, or in a small workshop, must choose. They can **stop the browning early**, or they can **let air rewrite the chemistry**.
@@ -98,8 +115,12 @@ Another common story says, "Black tea is fermented like wine." In ordinary oolon
 
 ## Story in one minute
 
-After picking, tea makers face a fork. Heat the leaf early and lock the browning off, and the plant compounds stay simple, which is the green path. Or crush the leaf, let the enzymes meet air, and watch brighter pigments build and then darker ones, which is the black path. Oolong parks in the middle on purpose. "Fermented like wine" is usually the wrong metaphor for ordinary black tea. Microbes matter mainly in post-fermented styles such as some Pu-erh.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+After picking, tea makers face a fork. Heat the leaf early and lock the browning off, and the plant compounds stay simple, which is the green path. Or crush the leaf, let the enzymes meet air, and watch brighter pigments build and then darker ones, which is the black path. Oolong parks in the middle on purpose. "Fermented like wine" is usually the wrong metaphor for ordinary black tea. Microbes matter mainly in post-fermented styles such as some Pu-erh.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Green versus black is mostly a **processing fork**, and not a different everyday species.
 - Heat locks the browning off on the green path, air plus enzymes build darker pigments on the black path, and oolong parks in the middle.
@@ -125,7 +146,7 @@ Robert Fortune's nineteenth-century collecting work for British interests is fam
 6. Tang et al. (2023) is the modern PPO review.[^4]
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 1 hub](index.qmd) · [← Previous](01-plants.qmd) · [Next →](03-brewing.qmd)
 

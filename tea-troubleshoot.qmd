@@ -3,6 +3,22 @@ title: "Kitchen troubleshoot"
 ---
 {{< include _includes/lang-switcher/tea-troubleshoot.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+The cup is not quite right. Before changing the tea, the kettle, and the timing together, describe the problem in a few words. A precise complaint makes the next cup a useful experiment.
+
+**As you read:** Choose the symptom that best matches your cup, select one adjustment, and record the result before trying another.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 
 [Tea basics](tea-basics.qmd) is the first mug. [Tea labels](tea-labels.qmd) is the words on the box and the names of the kit. This page is the **kitchen complaint sheet**. When the cup is bitter, flat, or cloudy, or when a second steep feels different, it tells you which dial to nudge first.
 
@@ -25,8 +41,9 @@ The rest of this page is optional depth, for when one nudge is not enough.
 - **Second steep.** With whole leaf, the early guests leave first, and later steeps often feel different. Bag grades compress that drama into one fast act.
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## Symptom → dial map
 
 Start here. This is one compact routing sheet, written in kitchen language only. There are no new numbers. The *why* sits one click away.
@@ -42,7 +59,7 @@ Start here. This is one compact routing sheet, written in kitchen language only.
 
 There is an optional hallway for when the real question is “why does heat change what I feel later?” Open [Linkages · bridge 3 — How brew heat reshapes the cup you feel](linkages.qmd).
 
----
+***
 
 ## One dial at a time
 
@@ -61,7 +78,7 @@ To see why the numbers move with temperature and leaf amount, open [Cup referenc
 If this page rebuilt Chapter 1’s dial table, weekday kettle protocol, and solubility foldouts, you would have two brewing lessons fighting for the same job. The companion rule is simple: **one full-depth room per job**. Kitchen troubleshoot routes the complaint. Chapter 1 teaches. The Cup reference maps milligrams.
 :::
 
----
+***
 
 ## Cold brew and other myths (thin)
 
@@ -73,7 +90,7 @@ The myth check is here: [Chapter 1 · Section 3 — Myth check: Cold brew means 
 No new cold-brew recipes, no new hour counts, and no new milligram claims live on this door. If Chapter 1 or the Cup reference already states a figure, follow the link. If they do not, this page stays silent rather than inventing kitchen folklore.
 :::
 
----
+***
 
 ## How this door sits next to Basics, Labels, and Chapter 1
 
@@ -87,7 +104,7 @@ Read the tea doors as nested maps.
 
 If your real problem was “why doesn’t my mug match the headline?,” that is not a kettle dial. Open [Reading a tea study](tea-reading-studies.qmd) instead.
 
----
+***
 
 ## Where to go next
 

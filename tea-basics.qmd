@@ -3,6 +3,22 @@ title: "Tea basics"
 ---
 {{< include _includes/lang-switcher/tea-basics.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+You do not need a collection of teapots to begin. Put one tea, one cup, and one question on the table: what would make this a cup you want to drink again?
+
+**As you read:** Choose one tea you already have. Follow the first-mug instructions, then write down one thing you would keep and one thing you would change.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 
 You have a mug, hot water, and a small pile of dry leaves—or a paper bag from the grocery aisle. Pour the water on. Wait a few minutes. The water changes color and the room smells different. That drink is what people usually mean by **tea**.
 
@@ -27,8 +43,9 @@ Tap a footnote number to jump to the source, then the caret to jump back. Hover 
 - **Steep** — letting the leaf sit in hot water so the drink takes on color and taste.
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## True tea vs other plants in the mug
 
 In everyday English, "tea" can mean almost anything steeped in hot water. That loose use is fine at a cafe counter. On this site, **true tea** means leaf—and sometimes the bud—of one plant: the tea plant ([*Camellia sinensis*](glossary.qmd#sinensis) in the glossary).
@@ -41,7 +58,7 @@ So when a later chapter talks about what is in your mug, it assumes a tea-plant 
 English borrowed the word *tea* for the tea-plant drink, then stretched it to any hot infusion. That stretch is fine at a cafe counter. It becomes confusing here, because the wake-up and calm-focus story belongs to the tea plant—not to every box that says "tea."
 :::
 
----
+***
 
 ## Same plant, different paths
 
@@ -63,7 +80,7 @@ Trade lists sometimes name **six** manufactured types (green, yellow, white, ool
 Oolong is a **range**, not one midpoint—so one cafe oolong can taste almost green and another almost black. Still one plant.
 :::
 
----
+***
 
 ## Your first mug
 
@@ -76,7 +93,7 @@ Taste the cup. If it is harsh, stop sooner next time. You do not need a chart in
 
 If something is off—bitter or flat—try [Kitchen troubleshoot](tea-troubleshoot.qmd). If you want to know why heat and time matter, open [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd). Gear with a name (teapot, gaiwan, whisk) is listed on [Tea labels](tea-labels.qmd). Milligrams live on the [Cup reference](cup-reference.qmd).
 
----
+***
 
 ## Awake, and a little calm
 
@@ -84,7 +101,7 @@ Tea-plant tea usually brings **caffeine** (the familiar wake-up) and **[L-theani
 
 Numbers live on the [Cup reference](cup-reference.qmd). The "three guests in the mug" story lives in [Chapter 1 · Section 4](modules/module-01/04-compounds.qmd).
 
----
+***
 
 ## Three labels to recognize
 
@@ -100,7 +117,7 @@ English Breakfast as a black blend, and green versus black as processing, follow
 
 Chinese, Japanese, and Western cafe lists—grades, herbals, and teapot names included—are on [Tea labels](tea-labels.qmd).
 
----
+***
 
 ## Where to go next
 

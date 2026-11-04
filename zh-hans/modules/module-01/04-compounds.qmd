@@ -5,9 +5,26 @@ lang: zh-Hans
 
 {{< include ../../../_includes/lang-switcher/module-01-compounds.zh-hans.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**从一个问题开始**
+
+三个化学名称，可以让一杯茶听来像补充剂标签。这一节让它们各就其位，也把饮品中的分量与研究使用的剂量分开。
+
+**阅读时试一试:** 每遇到一种成分，记下名称、制备方式和时间相关主张。比较茶杯与胶囊之前，先沿脚注看来源。
+
+[首页](../../index.qmd) · [章节地图](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [茶叶标签](../../tea-labels.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [章节总览](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有导读与阅读提示"}
+
+
+
 
 ::: {.callout-note}
 **核对数字和出处，以英文页为准。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
@@ -20,7 +37,8 @@ lang: zh-Hans
 ::: {.callout-note collapse="true" title="怎样读这一节（脚注＋折叠）"}
 上标数字是脚注。点一下，就跳到出处；再点箭头，就回到刚才那一句。鼠标停在数字上，多数时候也会弹出摘要。分子式、半衰期表、受体和通路的标签，以及胶囊对罐子的算术，都收在折叠起来的“更多详情…”里，好让打开的正文继续用白话讲。
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## 按不同时钟到来的客人
 
 日常谈茶的化学，多半绕着三个名字转。不妨把他们想成三位客人：到达的速度不同，离开的时间也不同。在他们出场之前，植物（[第一章第一节](01-plants.qmd)）、厂房里的分叉（[第一章第二节](02-processing.qmd)）和水壶（[第一章第三节](03-brewing.qmd)）都已经做完各自的工作。
@@ -86,8 +104,12 @@ lang: zh-Hans
 
 ## 一分钟说完
 
-三位有名字的客人，共用这一杯。咖啡因挡住困倦的信号，可以待上几小时。茶氨酸在较短的血浆时钟上，支持更平静的专注。EGCG 是绿茶里最突出的植物化合物，时间尺度以数小时计。没有一位在第一口就到达峰值。实验室的胶囊和超市的茶包，是两个世界。
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="需要时重温"}
 
+三位有名字的客人，共用这一杯。咖啡因挡住困倦的信号，可以待上几小时。茶氨酸在较短的血浆时钟上，支持更平静的专注。EGCG 是绿茶里最突出的植物化合物，时间尺度以数小时计。没有一位在第一口就到达峰值。实验室的胶囊和超市的茶包，是两个世界。
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="你可以先停在这里"}
 - 三位客人，三只时钟：提神的是咖啡因，平静专注的是茶氨酸，绿茶植物化合物是 EGCG。
 - 杯子送出的是**数十 毫克**；许多实验室试验用的是 **100–200 毫克** 的胶囊。不要把两者混为一谈。
@@ -139,7 +161,7 @@ lang: zh-Hans
 [杯量参考](../../cup-reference.qmd) 就是为了这一次换算。
 :::
 
----
+***
 
 **导航：** [↑ 第一章入口](index.qmd) · [← 上一节](03-brewing.qmd) · [下一章 →](../module-02/index.qmd)
 

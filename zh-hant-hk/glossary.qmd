@@ -5,9 +5,26 @@ lang: zh-Hant-HK
 
 {{< include ../_includes/lang-switcher/glossary.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+術語應該幫你讀懂故事。遇到一個令你停下來的詞，先看這裏的簡短解釋，再回到引起你好奇的例子。
+
+**閱讀時試一試:** 查一個不熟悉的詞，試着用自己的話解釋，再沿連結看看它在章節中怎樣使用。
+
+[首頁](index.qmd) · [章節地圖](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [茶葉標籤](tea-labels.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有導讀與閱讀提示"}
+
+
+
 
 ::: {.callout-note}
 **核對數字與出處時，以英文頁為準。** 要換語言，用頁頂的語言切換列，在英文、繁體和簡體之間跳轉。
@@ -22,7 +39,8 @@ lang: zh-Hant-HK
 說到底，把這裏當四章的袖珍詞典就好，不是另一本教科書。
 
 想看第一杯，以及真茶和花草的分別，請看 **[茶葉入門](tea-basics.qmd)**。想看較長的名稱表，包括中文、日文、西方標籤、等級和茶壺，請看 **[茶葉標籤](tea-labels.qmd)**。本詞彙表只收課文裏的專門用語。
-
+::::::::
+<!-- reading-fold:end -->
 ## 詞條（淺白解釋）
 
 | 詞條 | 淺白解釋 | 主要出現於 |

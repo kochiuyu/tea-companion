@@ -3,6 +3,22 @@ title: "Reading a tea study"
 ---
 {{< include _includes/lang-switcher/tea-reading-studies.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Imagine a headline arriving beside your morning tea: a drink improves focus, reduces stress, or changes a decision. Before accepting or rejecting it, ask what was actually compared.
+
+**As you read:** Choose one claim from the site or a headline. Work through the five questions and distinguish the researchers' measurement from the claim you would make to a friend.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 
 Headlines say “tea improves decisions.” This page is the **methods vocabulary door**. It covers what “a cup” meant, a dose versus a grocery mug, washout, the matched mug, and when the test ran, so you can read Chapter 5 without treating marketing as a finding.
 
@@ -27,8 +43,9 @@ Then open [Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd) for
 - **Dose vs ordinary cup.** Study milligrams can be capsules or strong liquors. Home baselines live on the Cup reference.
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## Five questions for a headline
 
 Chapter 5 · Section 4 already teaches these as a careful-reading foldout. This door only owns the **habit**. When a drink “improves decisions,” ask the five questions before you share the headline.
@@ -51,7 +68,7 @@ For a milligram comparison, open the [Cup reference](cup-reference.qmd).
 If this door pasted Chapter 5’s washout clocks, mug temperatures, and example capsule doses, you would have two protocol pages fighting for the same job. The companion rule is simple: **this page teaches the questions, and Chapter 5 · Section 4 teaches the answers with sources.** Open the foldouts there when you need figures.
 :::
 
----
+***
 
 ## “A cup” is not a study dose
 
@@ -67,7 +84,7 @@ For optional compound context, open [Chapter 1 · Section 4 — Compounds](modul
 
 Active-dose examples live in [Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd).
 
----
+***
 
 ## Expectation wears a lab coat (thin bridge)
 
@@ -85,7 +102,7 @@ Optional hallways: [Linkages · bridge 2 — warm hands / trust](linkages.qmd); 
 Chapter 4 notes that decaf still carries leftover caffeine and plant compounds, and that matching astringency and umami without changing smell or look is hard. The difficulty is the point. Hard controls are how soft claims get earned. Open Section 4 for the full honesty block. Do not treat this foldout as a new methods table.
 :::
 
----
+***
 
 ## Hallways into Linkages and Chapter 4 games
 
@@ -104,7 +121,7 @@ The methods home for every headline above is [Chapter 5 · Section 4](modules/mo
 
 No new bridges are invented here. Linkages already sews the chapters together.
 
----
+***
 
 ## How this door sits next to Cup reference and Chapter 4
 
@@ -118,7 +135,7 @@ Nested maps, for questions that have the shape of a study:
 
 If the reader’s real problem was a bitter or flat mug, send them to [Kitchen troubleshoot](tea-troubleshoot.qmd). That complaint does not belong on this page.
 
----
+***
 
 ## Where to go next
 

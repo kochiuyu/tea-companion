@@ -3,6 +3,22 @@ title: "Glossary"
 ---
 {{< include _includes/lang-switcher/glossary.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A technical word should help you follow the story. When one slows you down, use the short definition here, then return to the example that made you curious.
+
+**As you read:** Look up one unfamiliar term and explain it in your own words before following its chapter link.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 
 Every journey collects new words. Some are friendly on first meeting, such as *caffeine* and *ritual*. Others arrive packed tight, such as *HPA axis* and *error-related negativity*, as if five ideas were folded into one suitcase.
 
@@ -13,7 +29,8 @@ You do not need to memorize the whole table. When you start a new chapter, skim 
 Think of this as a pocket phrasebook for the four chapters—not a second textbook.
 
 For a first mug, and for true tea versus herbal drinks, use **[Tea basics](tea-basics.qmd)**. For the longer name sheet—Chinese, Japanese, and Western labels, grades, and teapot words—use **[Tea labels](tea-labels.qmd)**. This glossary stays with chapter jargon only.
-
+::::::::
+<!-- reading-fold:end -->
 ## Terms (simple definitions)
 
 

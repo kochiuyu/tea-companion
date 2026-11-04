@@ -2,7 +2,23 @@
 title: "Chapter 2 · Body, Brain & Mood"
 ---
 
-{{< include../../_includes/lang-switcher/module-02.en.qmd >}}
+{{< include ../../_includes/lang-switcher/module-02.en.qmd >}}
+
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+The cup has left the kettle; now the questions become personal. What can researchers measure after someone drinks, and how does that relate to the experience the drinker describes?
+
+**As you read:** Keep three columns in mind: the proposed mechanism, the measured result, and the person's experience. Follow brain action, brain waves, stress hormones, then body signals.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
 
 Chapter 1 left three guests in your bloodstream: **caffeine** (the familiar wake-up compound), **[L-theanine](../../glossary.qmd#l-theanine)** (a calming amino acid found in tea, not coffee), and—especially in green tea—[EGCG](../../glossary.qmd#egcg). From there comes the question that makes people switch from coffee to tea, or defend the switch to friends.
 
@@ -24,7 +40,8 @@ To follow the story, you do **not** need receptor names or wave frequencies. Tho
 ::: {.callout-note collapse="true" title="How to read this chapter (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes: a click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold the denser study snapshots—receptor names, wave bands, hormone tables, milligrams—so the open page can stay a story.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## The four sections
 
 Each sitting is one section of the chapter. The open pages stay lay-friendly, and you open a foldout when you want the science depth.
@@ -67,7 +84,7 @@ Tea is older than lab machines. It remade trade balances, sat in monasteries, wa
 
 Open [Chapter 3: History & Culture](../module-03/index.qmd) when you are ready. The leaf is about to leave the lab and enter human history.
 
----
+***
 
 **Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 1 hub](../module-01/index.qmd) · [First lesson →](01-brain-action.qmd) · [Chapter 3 hub →](../module-03/index.qmd)
 

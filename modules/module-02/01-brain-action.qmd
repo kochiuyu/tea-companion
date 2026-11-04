@@ -4,6 +4,22 @@ title: "Section 1 · Gas pedals, brakes, and a busy road"
 
 {{< include ../../_includes/lang-switcher/module-02-brain-action.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+“I feel more alert” is easy to say and harder to explain. Follow the proposed routes from a drink to brain signaling, and notice where a mechanism becomes a claim about a person's experience.
+
+**As you read:** Draw two columns: what the mechanism proposes and what the experiment measured. Put each claim in the column it belongs to.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 2 · Section 1 of 4** is part of [Chapter 2 · Body, Brain & Mood](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is waiting.
 :::
@@ -11,7 +27,8 @@ title: "Section 1 · Gas pedals, brakes, and a busy road"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold receptor names, dose tables, and study snapshots, so the open page can stay in everyday language.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Why tea and coffee can feel different
 
 Chapter 1 left three guests in your bloodstream. This sitting asks the question that makes people switch drinks, or defend that switch to a friend.
@@ -68,8 +85,12 @@ Combination trials (Owen, Kelly, Haskell) compared L-theanine and caffeine alone
 
 ## Story in one minute
 
-Caffeine takes the sleepy note off the desk. L-theanine gently turns down noisy chatter, so focus feels less panicky. Alcohol dims the whole room. Tea's dual chemistry is caffeine **plus** L-theanine, not caffeine with better branding.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Caffeine takes the sleepy note off the desk. L-theanine gently turns down noisy chatter, so focus feels less panicky. Alcohol dims the whole room. Tea's dual chemistry is caffeine **plus** L-theanine, not caffeine with better branding.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Caffeine blocks the sleepy signal, and L-theanine leans toward calm, controlled attention.
 - Tea's dual story is awake *and* quieter, not the slogan "coffee minus the bad parts."
@@ -99,7 +120,7 @@ Keep the cartoon, check the doses, and leave the miracle aisle alone.
 6. The next sitting is brain tempos, still without the laboratory equations in the open story.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-brainwaves.qmd)
 

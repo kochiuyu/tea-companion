@@ -4,6 +4,22 @@ title: "Section 4 · Three characters in the cup"
 
 {{< include ../../_includes/lang-switcher/module-01-compounds.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Three chemical names can make a cup sound like a supplement label. This lesson gives each a place in the story, while keeping the amount in a drink separate from the amount used in a study.
+
+**As you read:** For each compound, note its name, the preparation being discussed, and the timing claim. Follow the footnote before comparing a cup with a capsule.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 1 · Section 4 of 4** — part of [Chapter 1 · The Chemical Core](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 4 · Three characters in the cup"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 The superscript numbers are clickable footnotes. You jump to the source, the caret jumps back, and a hover often pops the note. The collapsed "More detail…" boxes hold the formulas, the half-life tables, the receptor and pathway labels, and the capsule-versus-tin math, so the open page can stay in everyday language.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Guests who arrive on different clocks
 
 Most everyday talk about tea chemistry centers on three names. Meet them as guests who arrive at different speeds and leave at different times, after the plant ([1.1](01-plants.qmd)), the factory fork ([1.2](02-processing.qmd)), and the kettle ([1.3](03-brewing.qmd)) have already done their work.
@@ -78,8 +95,12 @@ Once you are done with the three guests, the [chapter hub](index.qmd) keeps a sh
 
 ## Story in one minute
 
-Three named guests share the cup. Caffeine blocks sleepiness signals, and it can linger for hours. L-theanine supports calmer focus on a shorter plasma clock. EGCG is the standout green-tea plant compound, and it sits on a multi-hour scale. None of them peak at the first sip. Lab capsules and grocery bags are different worlds.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Three named guests share the cup. Caffeine blocks sleepiness signals, and it can linger for hours. L-theanine supports calmer focus on a shorter plasma clock. EGCG is the standout green-tea plant compound, and it sits on a multi-hour scale. None of them peak at the first sip. Lab capsules and grocery bags are different worlds.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Three guests run on different clocks: wake-up (caffeine), calm-focus (L-theanine), and the green-tea plant compound (EGCG).
 - Cups deliver **tens of mg**, while many lab trials use **100–200 mg** capsules, so do not confuse the two.
@@ -131,7 +152,7 @@ Suppose a capsule says **200 mg L-theanine**, and a paper reports attention effe
 The [Cup reference](../../cup-reference.qmd) exists for that translation.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 1 hub](index.qmd) · [← Previous](03-brewing.qmd) · [Next module →](../module-02/index.qmd)
 

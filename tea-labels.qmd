@@ -3,6 +3,22 @@ title: "Tea labels"
 ---
 {{< include _includes/lang-switcher/tea-labels.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A tea packet can read like a place name, a plant name, a processing method, and a promise all at once. The useful trick is to separate those jobs before deciding what the label tells you.
+
+**As you read:** Pick a real packet or menu entry. Mark which words describe origin, style, grade, or preparation; leave anything you cannot yet classify as a question.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 
 [Tea basics](tea-basics.qmd) got you a first mug and three sample names. This page is the **shelf and cafe dictionary**. It covers Chinese, Japanese, and Western everyday labels, a **classification map** of the six manufactured types, the **grade languages** (particle size versus quality-tier labels), and a **thin** strip on common teapots and brew kits. The strip tells you what the gear *is*. It does not teach extraction chemistry.
 
@@ -29,8 +45,9 @@ Tap a footnote number to jump to the source, then the caret to jump back. Hover 
 - **Grade language.** It may mean **(a)** particle or size words (OP, BOP, fannings, dust; orthodox versus CTC) or **(b)** quality-tier labels (e.g. 特級 / 一級 on some Chinese packs). Neither is a different species, and neither is a shopping “best of” list.
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## How to read a tea label
 
 Labels mix five things:
@@ -43,7 +60,7 @@ Labels mix five things:
 
 The tables below are a **usual-meaning** sheet. Brands disagree, and recipes vary. When you want *why* green and black diverge chemically, open [Chapter 1 · Section 2 — Processing](modules/module-01/02-processing.qmd). When you want a first mug again, open [Tea basics](tea-basics.qmd).
 
----
+***
 
 ## Chinese names you will see
 
@@ -64,7 +81,7 @@ The tables below are a **usual-meaning** sheet. Brands disagree, and recipes var
 
 Gongfu as **everyday social staging** (a small pot, and many short pours) is a culture script. Open [Chapter 3 · Section 4](modules/module-03/04-regional-scripts.qmd) for that script. The kit strip below only names the gear.
 
----
+***
 
 ## Japanese names you will see
 
@@ -79,7 +96,7 @@ Gongfu as **everyday social staging** (a small pot, and many short pours) is a c
 
 Processing notes for sencha, matcha, and tencha match the Japanese industry type pages cited on Basics.[^4]
 
----
+***
 
 ## Western and cafe names you will see
 
@@ -96,7 +113,7 @@ Processing notes for sencha, matcha, and tencha match the Japanese industry type
 | **Bubble / boba tea** | A cafe drink family: a tea (or milk-tea) base plus toppings | A cafe cousin. It is not a factory oxidation style. |
 | **Decaf tea** | Tea processed to **reduce** caffeine. The words are a product name, and this is not the same claim as herbal caffeine-free | This page only names it. It does not make a residual-percentage claim. |
 
----
+***
 
 ## Six manufactured types (the classification map) {#type-map}
 
@@ -125,7 +142,7 @@ This map is a **shelf ruler**. It is not a health ranking, and it is not a secon
 Standards and processing overviews sort tea by **how it was made**, not by cafe English. ISO tea-type classification work (ISO 20715:2023) and processing surveys commonly list the same six manufactured types named in the table.[^3] Cafe menus are messier. They mix type, origin, blend, and flavor words. Yellow tea is rare on most Western shelves, so you do not need it before Chapter 1. This foldout does not paste standard text, and it does not map every cafe name to a clause.
 :::
 
----
+***
 
 ## Grade languages: particle size and quality-tier words {#grades}
 
@@ -166,7 +183,7 @@ Some packs use a **different** grade language: quality-tier *labels*. That langu
 A useful refrain: grade language on a box is a **dictionary clue**, not a shopping “best of” list. Famous-tea contests, awards, and brand rankings are out of scope here.
 :::
 
----
+***
 
 ## Herbals reminder
 
@@ -176,7 +193,7 @@ A useful refrain: grade language on a box is a **dictionary clue**, not a shoppi
 
 They sit outside the chemical core of Chapter 1. The short lesson on true tea versus herbal stays on [Tea basics](tea-basics.qmd).[^8][^9]
 
----
+***
 
 ## Thin strip: teapots and brewing methods
 
@@ -191,7 +208,7 @@ These are kit **names** only: what the gear usually is. There are no extraction 
 | **Grandpa style** | The leaf stays in a large cup or glass, and you top up with water | Troubleshoot, or Chapter 1 · Section 3 (second-steep intuition). |
 | **Matcha bowl + whisk** | You suspend the powder, and you drink the leaf solids | The matcha row above, and the [Cup reference](cup-reference.qmd) for theanine ranges. |
 
----
+***
 
 ## Where this door sits / where to go next
 

@@ -4,6 +4,22 @@ title: "Section 4 · How careful studies are usually built"
 
 {{< include ../../_includes/lang-switcher/module-05-study-protocols.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+You have reached the place where an attractive story must become a fair test. Think of this lesson as the workbench: which details would another researcher need to repeat the comparison?
+
+**As you read:** Take one claim from an earlier lesson and outline the drink, comparison, timing, task, and outcome. Use the protocol details below to find what your outline is missing.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 5 · Section 4 of 4** — part of [Chapter 5 · Decisions & Choices](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 4 · How careful studies are usually built"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" boxes hold the washout clocks, the matched-mug parameter tables, and a headline checklist. This lesson is the "how do they know?" sitting after the flashy games.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Why methods deserve their own lesson
 
 If you read a headline such as "tea improves decisions!", ask how the trial was built. Good trials try to separate the drug effect from expectation, temperature, and bitter taste.
@@ -109,10 +126,14 @@ This is how the sources describe *credible* beverage–decision work. Real labor
 
 ## Opaque mugs and the warmth confound (one more time)
 
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
+
 Chapter 4 taught that warm hands can tint trust. Chapter 5 therefore treats matched mug temperature as a *controlled constant*, not a cozy accident. Opaque walls hide color cues. Bitterness matching fights the feeling that "this tastes like the real thing." Washout fights yesterday's coffee.
 
 Skip those controls and your "tea effect" may be theater, plus residual caffeine, plus a warm palm.
-
+::::::::
+<!-- reading-fold:end -->
 ## A closing honesty note for the whole module
 
 Chapter 5's flashy findings, the reflection errors, the balloon pumps, and the trust sends, only deserve as much confidence as their methods. This lesson is the spine. If you remember only the games and forget washout, temperature, and timing, you will overfit kitchen folklore to laboratory posters.
@@ -132,15 +153,19 @@ Careful protocols are not bureaucracy for its own sake. They are how you keep Ch
 
 ## Story in one minute
 
-Flashy games only deserve as much confidence as their methods. Match the mug, wait for the peak, and remember that decaf is not a magic placebo. Washout, temperature, bitterness, and timing are how careful studies keep warmth and expectation from silently contaminating the pharmacology.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Flashy games only deserve as much confidence as their methods. Match the mug, wait for the peak, and remember that decaf is not a magic placebo. Washout, temperature, bitterness, and timing are how careful studies keep warmth and expectation from silently contaminating the pharmacology.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - A matched mug, a wait for the peak, and the reminder that decaf is not a magic placebo are the open spine.
 - Washout, temperature, a bitterness match, and timing police the flashy games.
 - Methods are part of the claim, especially when someone sells a drink as a decision tool.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 5 hub](index.qmd) · [← Previous](03-trust-games.qmd) · [Cup reference →](../../cup-reference.qmd)
 

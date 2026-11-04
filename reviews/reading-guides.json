@@ -1,0 +1,492 @@
+{
+  "index.qmd": [
+    [
+      "A cup can be a beginning. Start with the drink you want to make, the name you want to understand, or a question you want to investigate.",
+      "Choose Tea basics for a first cup, Tea labels for the shelf, or Chapter 1 for the journey from leaf to water."
+    ],
+    [
+      "一杯茶，可以是一個起點。你可以先學沖好眼前這杯茶，也可以由包裝上的名字，或一個令你好奇的問題開始。",
+      "第一次沖茶，先看「茶的基礎」；想讀懂包裝，先看「茶名與標籤」；想追尋葉到杯的故事，就由第一章開始。"
+    ],
+    [
+      "一杯茶，可以是一个起点。你可以先学着泡好眼前这杯茶，也可以从包装上的名字，或一个让你好奇的问题开始。",
+      "第一次泡茶，先看“茶的基础”；想读懂包装，先看“茶名与标签”；想追寻从叶到杯的故事，就从第一章开始。"
+    ]
+  ],
+  "tea-basics.qmd": [
+    [
+      "You do not need a collection of teapots to begin. Put one tea, one cup, and one question on the table: what would make this a cup you want to drink again?",
+      "Choose one tea you already have. Follow the first-mug instructions, then write down one thing you would keep and one thing you would change."
+    ],
+    [
+      "開始喝茶，不必先買齊一套茶具。拿出一款茶、一隻杯，問一個簡單問題：怎樣沖，會令你想再喝一杯？",
+      "選一款手邊已有的茶，跟着第一杯的步驟做。記下一點想保留的地方，以及一點下次想調整的地方。"
+    ],
+    [
+      "开始喝茶，不必先买齐一套茶具。拿出一款茶、一个杯子，问一个简单问题：怎样泡，会让你想再喝一杯？",
+      "选一款手边已有的茶，跟着第一杯的步骤做。记下一点想保留的地方，以及一点下次想调整的地方。"
+    ]
+  ],
+  "tea-labels.qmd": [
+    [
+      "A tea packet can read like a place name, a plant name, a processing method, and a promise all at once. The useful trick is to separate those jobs before deciding what the label tells you.",
+      "Pick a real packet or menu entry. Mark which words describe origin, style, grade, or preparation; leave anything you cannot yet classify as a question."
+    ],
+    [
+      "一個茶名，可能同時像地名、品種名、製法，也像一句推介。先分清每個字在說甚麼，標籤就容易讀得多。",
+      "找一個真實包裝或餐牌上的茶名，標出產地、茶類、等級與沖泡方式；暫時分不清的字，先留作問題。"
+    ],
+    [
+      "一个茶名，可能同时像地名、品种名、制法，也像一句推荐。先分清每个词在说什么，标签就容易读得多。",
+      "找一个真实包装或菜单上的茶名，标出产地、茶类、等级与冲泡方式；暂时分不清的词，先留作问题。"
+    ]
+  ],
+  "tea-troubleshoot.qmd": [
+    [
+      "The cup is not quite right. Before changing the tea, the kettle, and the timing together, describe the problem in a few words. A precise complaint makes the next cup a useful experiment.",
+      "Choose the symptom that best matches your cup, select one adjustment, and record the result before trying another."
+    ],
+    [
+      "這杯茶不太對勁。先別同時換茶、換水，又改時間；用幾個字說清楚問題，下一杯才比較容易找出原因。",
+      "先找最接近的症狀，只選一項調整。記下結果，再決定是否改下一項。"
+    ],
+    [
+      "这杯茶不太对劲。先别同时换茶、换水，又改时间；用几个词说清楚问题，下一杯才比较容易找出原因。",
+      "先找最接近的症状，只选一项调整。记下结果，再决定是否改下一项。"
+    ]
+  ],
+  "tea-reading-studies.qmd": [
+    [
+      "Imagine a headline arriving beside your morning tea: a drink improves focus, reduces stress, or changes a decision. Before accepting or rejecting it, ask what was actually compared.",
+      "Choose one claim from the site or a headline. Work through the five questions and distinguish the researchers' measurement from the claim you would make to a friend."
+    ],
+    [
+      "想像你喝早茶時看到一則標題：某種飲品改善專注、減輕壓力，或改變決策。先不急着相信或否定，問問研究究竟比較了甚麼。",
+      "選站內一個主張，或一則新聞標題，逐一回答下面五個問題。分清研究實際量度的結果，以及你會怎樣向朋友轉述。"
+    ],
+    [
+      "想象你喝早茶时看到一则标题：某种饮品改善专注、减轻压力，或改变决策。先不急着相信或否定，问问研究究竟比较了什么。",
+      "选站内一个主张，或一则新闻标题，逐一回答下面五个问题。分清研究实际测量的结果，以及你会怎样向朋友转述。"
+    ]
+  ],
+  "cup-reference.qmd": [
+    [
+      "A number is most useful when its cup has a size and its recipe has a method. Use this page beside the kettle or a research paper, with the preparation details in view.",
+      "Find the entry closest to your tea, then compare water volume, leaf amount, and steeping conditions before comparing milligrams."
+    ],
+    [
+      "數字要放回杯子和沖法裏，才容易理解。你可以把這頁放在水壺旁，也可以在讀論文時用它核對製備條件。",
+      "先找最接近你那款茶的項目，再比較水量、茶葉量和浸泡條件，最後才比較毫克數。"
+    ],
+    [
+      "数字要放回杯子和泡法里，才容易理解。你可以把这页放在水壶旁，也可以在读论文时用它核对制备条件。",
+      "先找最接近你那款茶的项目，再比较水量、茶叶量和浸泡条件，最后才比较毫克数。"
+    ]
+  ],
+  "glossary.qmd": [
+    [
+      "A technical word should help you follow the story. When one slows you down, use the short definition here, then return to the example that made you curious.",
+      "Look up one unfamiliar term and explain it in your own words before following its chapter link."
+    ],
+    [
+      "術語應該幫你讀懂故事。遇到一個令你停下來的詞，先看這裏的簡短解釋，再回到引起你好奇的例子。",
+      "查一個不熟悉的詞，試着用自己的話解釋，再沿連結看看它在章節中怎樣使用。"
+    ],
+    [
+      "术语应该帮你读懂故事。遇到一个让你停下来的词，先看这里的简短解释，再回到引起你好奇的例子。",
+      "查一个不熟悉的词，试着用自己的话解释，再沿链接看看它在章节中怎样使用。"
+    ]
+  ],
+  "bibliography.qmd": [
+    [
+      "Behind each concise explanation sits a longer trail of evidence. This is the place to follow that trail from a name or date to the source itself.",
+      "Choose one claim you care about. Find its reference, check what kind of source it is, and compare its scope with the wording of the claim."
+    ],
+    [
+      "每段簡短解說背後，都有一條較長的資料線索。這一頁讓你由作者、年份或題目，追到原來的來源。",
+      "選一個你在意的主張，找出對應文獻，看看它屬於哪類來源，以及支持的範圍是否與主張相符。"
+    ],
+    [
+      "每段简短解说背后，都有一条较长的资料线索。这一页让你从作者、年份或题目，追到原来的来源。",
+      "选一个你在意的主张，找出对应文献，看看它属于哪类来源，以及支持的范围是否与主张相符。"
+    ]
+  ],
+  "linkages.qmd": [
+    [
+      "The interesting questions often sit between chapters. How would a brewing observation connect to a study of people, or a historical custom to a modern experiment? Follow one connection at a time.",
+      "Pick a bridge, identify the evidence on each side, and note which part of the connection is explanation, comparison, or a question still to test."
+    ],
+    [
+      "有趣的問題，往往出現在章與章之間。一次沖泡觀察，怎樣連到人體研究？一種歷史習俗，又怎樣連到現代實驗？一次追一條線索便可以。",
+      "選一道橋，找出兩端各自的證據，再分清中間的連接是解說、比較，還是仍待驗證的問題。"
+    ],
+    [
+      "有趣的问题，往往出现在章与章之间。一次冲泡观察，怎样连到人体研究？一种历史习俗，又怎样连到现代实验？一次追一条线索就可以。",
+      "选一道桥，找出两端各自的证据，再分清中间的连接是解说、比较，还是仍待验证的问题。"
+    ]
+  ],
+  "modules/index.qmd": [
+    [
+      "You can follow a leaf all the way from the garden to a decision at the kitchen table. The five chapters give you different places to join that journey.",
+      "Choose a practical question, a scientific question, or a historical question. Start at the matching chapter and use its four lessons as a short reading route."
+    ],
+    [
+      "你可以跟着一片茶葉，由茶園走到餐桌上的一次選擇。五章提供不同入口，不必每次都由第一頁開始。",
+      "先選一個實用、科學或歷史問題，再到相應章節，把四節當作一條短短的閱讀路線。"
+    ],
+    [
+      "你可以跟着一片茶叶，从茶园走到餐桌上的一次选择。五章提供不同入口，不必每次都从第一页开始。",
+      "先选一个实用、科学或历史问题，再到相应章节，把四节当作一条短短的阅读路线。"
+    ]
+  ],
+  "modules/module-01/index.qmd": [
+    [
+      "Two packets say tea; the cups seem worlds apart. This chapter follows the choices between the plant and the pour, so you can ask which part of the journey produced the difference.",
+      "Follow plant → processing → brewing → compounds. Keep one familiar tea in mind as you move through the four lessons."
+    ],
+    [
+      "兩個包裝都寫着茶，沖出來卻像兩回事。這一章沿着茶樹到注水的過程，逐步問：差別在哪一步出現？",
+      "依次讀茶樹、加工、沖泡與成分。一路想着一款你熟悉的茶，看看每節能替它補上甚麼背景。"
+    ],
+    [
+      "两个包装都写着茶，泡出来却像两回事。这一章沿着茶树到注水的过程，逐步问：差别在哪一步出现？",
+      "依次读茶树、加工、冲泡与成分。一路想着一款你熟悉的茶，看看每节能为它补上什么背景。"
+    ]
+  ],
+  "modules/module-02/index.qmd": [
+    [
+      "The cup has left the kettle; now the questions become personal. What can researchers measure after someone drinks, and how does that relate to the experience the drinker describes?",
+      "Keep three columns in mind: the proposed mechanism, the measured result, and the person's experience. Follow brain action, brain waves, stress hormones, then body signals."
+    ],
+    [
+      "茶已離開水壺，問題開始貼近身體。喝下去之後，研究者能量度甚麼？這些數據又怎樣對應飲茶者自己的感受？",
+      "閱讀時分開三欄：提出的機制、實際量度的結果，以及個人感受。依次讀腦部作用、腦波、壓力荷爾蒙和身體訊號。"
+    ],
+    [
+      "茶已离开水壶，问题开始贴近身体。喝下去之后，研究者能测量什么？这些数据又怎样对应饮茶者自己的感受？",
+      "阅读时分开三栏：提出的机制、实际测量的结果，以及个人感受。依次读脑部作用、脑波、压力激素和身体信号。"
+    ]
+  ],
+  "modules/module-03/index.qmd": [
+    [
+      "Look beyond the cup and a larger cast comes into view: traders, growers, workers, monks, and people making room for tea in everyday life. This chapter follows their different stories.",
+      "Read trade, monastic traditions, plantation labor, and regional customs as connected histories. For each, ask whose perspective the source makes visible."
+    ],
+    [
+      "把視線移離杯子，人物便多起來：商人、茶農、工人、僧人，以及把茶放進日常生活的人。這一章沿着他們不同的故事走。",
+      "把貿易、寺院傳統、種植園勞動和地方習俗連起來讀；每讀一節，都問來源讓誰的經驗變得可見。"
+    ],
+    [
+      "把视线移开杯子，人物便多起来：商人、茶农、工人、僧人，以及把茶放进日常生活的人。这一章沿着他们不同的故事走。",
+      "把贸易、寺院传统、种植园劳动和地方习俗连起来读；每读一节，都问来源让谁的经验变得可见。"
+    ]
+  ],
+  "modules/module-04/index.qmd": [
+    [
+      "Imagine the same drink offered in two different rooms, with different words and different gestures. This chapter asks how to investigate everything around the liquid without confusing those influences with its chemistry.",
+      "Follow warmth → ritual → expectation → the context map. Keep asking what a comparison holds constant and what it changes."
+    ],
+    [
+      "想像同一杯飲品，在兩個不同房間，用不同說話和動作遞給你。這一章研究液體以外的環境，也問怎樣把它與成分的作用分清。",
+      "依次讀溫度、儀式、期望和情境地圖。一路問：每次比較保留了甚麼，又改變了甚麼？"
+    ],
+    [
+      "想象同一杯饮品，在两个不同房间，用不同话语和动作递给你。这一章研究液体以外的环境，也问怎样把它与成分的作用分清。",
+      "依次读温度、仪式、期望和情境地图。一路问：每次比较保留了什么，又改变了什么？"
+    ]
+  ],
+  "modules/module-05/index.qmd": [
+    [
+      "A quick answer, a risky choice, an offer from a stranger: familiar decisions become research tasks in this chapter. The challenge is to understand the task before deciding what its result says about everyday life.",
+      "Read judgments, risk and waiting, social games, then study protocols. Carry one question throughout: what would justify extending this finding beyond the experiment?"
+    ],
+    [
+      "一個快答、一個冒險選擇、陌生人的提議：這些日常情境，在本章變成研究任務。先讀懂任務，才判斷結果能說明多少日常生活。",
+      "依次讀判斷、風險與等待、社交博弈和研究程序。一路保留一個問題：憑甚麼把實驗結果推到實驗之外？"
+    ],
+    [
+      "一个快答、一个冒险选择、陌生人的提议：这些日常情境，在本章变成研究任务。先读懂任务，才判断结果能说明多少日常生活。",
+      "依次读判断、风险与等待、社交博弈和研究程序。一路保留一个问题：凭什么把实验结果推到实验之外？"
+    ]
+  ],
+  "modules/module-01/01-plants.qmd": [
+    [
+      "Before comparing the cups, look back at the plants. A familiar tea name invites a useful question: how much does the plant explain, and how much depends on the garden and the maker?",
+      "Choose two tea labels. Separate what they actually tell you about the plant from what you would still need to learn."
+    ],
+    [
+      "比較杯中的茶之前，先回頭看茶樹。一個熟悉的茶名，能讓你問：茶樹解釋了多少，茶園和製茶人又改變了多少？",
+      "選兩個茶名，分開標籤實際告訴你的茶樹資料，以及你仍需要查明的事。"
+    ],
+    [
+      "比较杯中的茶之前，先回头看茶树。一个熟悉的茶名，能让你问：茶树解释了多少，茶园和制茶人又改变了多少？",
+      "选两个茶名，分开标签实际告诉你的茶树资料，以及你仍需要查明的事。"
+    ]
+  ],
+  "modules/module-01/02-processing.qmd": [
+    [
+      "Picture a freshly picked leaf at a fork in the road. This lesson follows the maker's decisions and asks why the words oxidation, fermentation, and roasting should not be treated as interchangeable.",
+      "Sketch a simple route from leaf to finished tea. Mark the step you would ask a producer to explain before guessing how the cup will taste."
+    ],
+    [
+      "想像剛採下的茶葉，來到一個分岔口。這一節跟着製茶人的選擇走，也釐清氧化、發酵和焙火為何不能隨意混用。",
+      "畫一條由鮮葉到成茶的簡單路線，標出你最想請製茶人解釋的一步，再回頭想杯中的味道。"
+    ],
+    [
+      "想象刚采下的茶叶，来到一个分岔口。这一节跟着制茶人的选择走，也厘清氧化、发酵和焙火为何不能随意混用。",
+      "画一条从鲜叶到成茶的简单路线，标出你最想请制茶人解释的一步，再回头想杯中的味道。"
+    ]
+  ],
+  "modules/module-01/03-brewing.qmd": [
+    [
+      "The same packet can start two different conversations at the kettle. What changes when you adjust one brewing setting and leave the others alone?",
+      "Record leaf amount, water volume, temperature, and time. Choose one setting to compare and keep your tasting observation separate from a chemical measurement."
+    ],
+    [
+      "同一包茶，可以在水壺旁引出兩種不同的結果。只改一項沖泡設定，其餘不變，你會注意到甚麼？",
+      "記下茶葉量、水量、溫度和時間，只選一項比較。把品飲觀察與化學量度分開記錄。"
+    ],
+    [
+      "同一包茶，可以在水壶旁引出两种不同的结果。只改一项冲泡设置，其余不变，你会注意到什么？",
+      "记下茶叶量、水量、温度和时间，只选一项比较。把品饮观察与化学测量分开记录。"
+    ]
+  ],
+  "modules/module-01/04-compounds.qmd": [
+    [
+      "Three chemical names can make a cup sound like a supplement label. This lesson gives each a place in the story, while keeping the amount in a drink separate from the amount used in a study.",
+      "For each compound, note its name, the preparation being discussed, and the timing claim. Follow the footnote before comparing a cup with a capsule."
+    ],
+    [
+      "三個化學名稱，可以令一杯茶聽來像補充劑標籤。這一節讓它們各就其位，也把飲品中的份量與研究使用的劑量分開。",
+      "每遇到一種成分，記下名稱、製備方式和時間相關主張。比較茶杯與膠囊之前，先沿註腳看來源。"
+    ],
+    [
+      "三个化学名称，可以让一杯茶听来像补充剂标签。这一节让它们各就其位，也把饮品中的分量与研究使用的剂量分开。",
+      "每遇到一种成分，记下名称、制备方式和时间相关主张。比较茶杯与胶囊之前，先沿脚注看来源。"
+    ]
+  ],
+  "modules/module-02/01-brain-action.qmd": [
+    [
+      "“I feel more alert” is easy to say and harder to explain. Follow the proposed routes from a drink to brain signaling, and notice where a mechanism becomes a claim about a person's experience.",
+      "Draw two columns: what the mechanism proposes and what the experiment measured. Put each claim in the column it belongs to."
+    ],
+    [
+      "「我覺得精神了」很容易說，解釋起來卻不簡單。跟着飲品到腦部訊號的路線，留意哪一步由機制變成了對個人感受的主張。",
+      "畫兩欄：機制提出甚麼，以及實驗量度了甚麼。把讀到的主張放到合適的一欄。"
+    ],
+    [
+      "“我觉得精神了”很容易说，解释起来却不简单。跟着饮品到脑部信号的路线，留意哪一步从机制变成了对个人感受的主张。",
+      "画两栏：机制提出什么，以及实验测量了什么。把读到的主张放到合适的一栏。"
+    ]
+  ],
+  "modules/module-02/02-brainwaves.qmd": [
+    [
+      "A brain-wave trace can look wonderfully precise. The interesting question is what that trace lets us say about attention, relaxation, or the task a person was doing.",
+      "For one study, identify the participants, dose, timing, task, and measured signal before interpreting the word calm."
+    ],
+    [
+      "腦波圖看起來很精密。更值得問的是：這條曲線讓我們能說多少關於注意力、放鬆，或受試者當時所做的任務？",
+      "選一項研究，先找受試者、劑量、時間、任務和量度訊號，再解讀「平靜」這個詞。"
+    ],
+    [
+      "脑波图看起来很精密。更值得问的是：这条曲线让我们能说多少关于注意力、放松，或受试者当时所做的任务？",
+      "选一项研究，先找受试者、剂量、时间、任务和测量信号，再解读“平静”这个词。"
+    ]
+  ],
+  "modules/module-02/03-stress-hormones.qmd": [
+    [
+      "A difficult morning and a laboratory stress test both use the word stress. This lesson asks how researchers turn that broad experience into a timed measurement.",
+      "Trace the sequence: drink, waiting period, task, sample, result. Note whether the claim concerns an immediate response, recovery, or repeated use."
+    ],
+    [
+      "難捱的一個早上，與實驗室的壓力測試，都會用到「壓力」這個詞。這一節看看研究者怎樣把廣泛的感受，轉成按時間量度的結果。",
+      "沿着飲用、等待、任務、採樣、結果排出次序，再分清主張談的是即時反應、恢復，還是重複使用。"
+    ],
+    [
+      "难熬的一个早上，与实验室的压力测试，都会用到“压力”这个词。这一节看看研究者怎样把广泛的感受，转成按时间测量的结果。",
+      "沿着饮用、等待、任务、采样、结果排出次序，再分清主张谈的是即时反应、恢复，还是重复使用。"
+    ]
+  ],
+  "modules/module-02/04-body-signals.qmd": [
+    [
+      "Your description of a cup and an instrument's reading tell different parts of the story. Explore the body measures here with one question in mind: what would count as a meaningful change?",
+      "Choose a measure and write down its units, comparison condition, and timing. Keep a change in the number separate from a conclusion about wellbeing."
+    ],
+    [
+      "你對一杯茶的形容，與儀器讀數，說的是故事的不同部分。讀這些身體指標時，可以一直問：怎樣的改變才有意義？",
+      "選一項指標，記下單位、比較條件和量度時間。把數字變化與對身心狀態的結論分開。"
+    ],
+    [
+      "你对一杯茶的形容，与仪器读数，说的是故事的不同部分。读这些身体指标时，可以一直问：怎样的改变才有意义？",
+      "选一项指标，记下单位、比较条件和测量时间。把数字变化与对身心状态的结论分开。"
+    ]
+  ],
+  "modules/module-03/01-trade-history.qmd": [
+    [
+      "A modest tea bag is a good place to begin an immodest history. Follow the trade story through money, power, and ports, watching how a familiar household drink enters much larger conflicts.",
+      "Make a short timeline as you read. Keep treaties, wars, trading arrangements, and individual journeys on separate lines until their order is clear."
+    ],
+    [
+      "一個不起眼的茶包，可以帶出一段並不平淡的歷史。沿着金錢、權力和港口追下去，看看家常飲品怎樣走進更大的衝突。",
+      "邊讀邊畫一條短時間線，先把條約、戰爭、貿易安排和個人行程分開，待先後次序清楚後再連起來。"
+    ],
+    [
+      "一个不起眼的茶包，可以带出一段并不平淡的历史。沿着金钱、权力和港口追下去，看看家常饮品怎样走进更大的冲突。",
+      "边读边画一条短时间线，先把条约、战争、贸易安排和个人行程分开，待先后次序清楚后再连起来。"
+    ]
+  ],
+  "modules/module-03/02-monastic-path.qmd": [
+    [
+      "Tea's past contains texts, practices, and memorable legends. The pleasure of reading them together is learning what kind of story each source can tell.",
+      "Choose one episode and label the evidence: historical text, later interpretation, or folklore. Notice how that changes the question you ask of it."
+    ],
+    [
+      "茶的過去，有文獻、有實踐，也有令人難忘的傳說。把它們放在一起讀的樂趣，在於認清每種來源能說哪一種故事。",
+      "選一段情節，標明證據屬於歷史文獻、後來的詮釋，還是民間傳說，再看看你會怎樣改變提問方式。"
+    ],
+    [
+      "茶的过去，有文献、有实践，也有令人难忘的传说。把它们放在一起读的乐趣，在于认清每种来源能说哪一种故事。",
+      "选一段情节，标明证据属于历史文献、后来的诠释，还是民间传说，再看看你会怎样改变提问方式。"
+    ]
+  ],
+  "modules/module-03/03-plantation-aftershock.qmd": [
+    [
+      "The journey from garden to inexpensive cup has a human side. This lesson asks you to look at the land, work, and institutions that can disappear behind a product on a shelf.",
+      "Sketch the journey from growing to sale. At each step, ask whose labor is visible in the account and whose experience you would want to hear more about."
+    ],
+    [
+      "從茶園到價格相宜的一杯茶，還有人與制度的故事。這一節請你看看貨架上的商品背後，容易被略過的土地、勞動和安排。",
+      "畫出種植到銷售的路線。每一步都問：敘述讓誰的勞動可見？你還想聽到誰的經驗？"
+    ],
+    [
+      "从茶园到价格实惠的一杯茶，还有人与制度的故事。这一节请你看看货架上的商品背后，容易被略过的土地、劳动和安排。",
+      "画出种植到销售的路线。每一步都问：叙述让谁的劳动可见？你还想听到谁的经验？"
+    ]
+  ],
+  "modules/module-03/04-regional-scripts.qmd": [
+    [
+      "A tea counter, a shared table, a carefully arranged serving: each scene gives you something different to notice. Read these portraits as situated practices, with people and places in view.",
+      "Compare two portraits using the same questions: who prepares, who serves, what equipment appears, and what the occasion asks of the participants."
+    ],
+    [
+      "茶檔、共坐的茶桌、細心安排的奉茶場面，各有值得留意的地方。讀這幾幅地方圖景時，把人物與場合一起放進視線。",
+      "用同一組問題比較兩個場景：誰準備、誰奉茶、用了甚麼器具，以及這個場合對參與者有甚麼要求？"
+    ],
+    [
+      "茶摊、共坐的茶桌、细心安排的奉茶场面，各有值得留意的地方。读这几幅地方图景时，把人物与场合一起放进视线。",
+      "用同一组问题比较两个场景：谁准备、谁奉茶、用了什么器具，以及这个场合对参与者有什么要求？"
+    ]
+  ],
+  "modules/module-04/01-warmth-trust.qmd": [
+    [
+      "Someone hands you a warm mug before a conversation. It is an appealing scene for a psychological experiment—and a useful test of how carefully we read surprising findings.",
+      "Read the initial result and the replication discussion together. Ask what each experiment tested before deciding how widely the claim should travel."
+    ],
+    [
+      "交談之前，有人把一隻暖杯遞到你手上。這是很有吸引力的心理實驗場景，也適合用來練習仔細閱讀令人意外的結果。",
+      "把最初發現與重複研究的討論一起讀。先問各項實驗測試了甚麼，再判斷主張可以推廣多遠。"
+    ],
+    [
+      "交谈之前，有人把一个暖杯递到你手上。这是很有吸引力的心理实验场景，也适合用来练习仔细阅读令人意外的结果。",
+      "把最初发现与重复研究的讨论一起读。先问各项实验测试了什么，再判断主张可以推广多远。"
+    ]
+  ],
+  "modules/module-04/02-ritual-stress.qmd": [
+    [
+      "Measure, pour, wait, serve: a tea routine offers a sequence to examine. What belongs to the repeated actions, what belongs to expectation, and what belongs to the drink?",
+      "Describe a familiar routine without explaining its effect. Then identify the comparison you would need to test one proposed explanation."
+    ],
+    [
+      "量茶、注水、等待、奉茶：一套熟悉動作，提供了一段可以觀察的次序。哪些關乎重複動作，哪些關乎期望，哪些又關乎飲品？",
+      "先描述一套熟悉程序，暫時不解釋它的效果；再想想，要測試其中一個解釋，需要怎樣比較。"
+    ],
+    [
+      "量茶、注水、等待、奉茶：一套熟悉动作，提供了一段可以观察的次序。哪些关乎重复动作，哪些关乎期望，哪些又关乎饮品？",
+      "先描述一套熟悉程序，暂时不解释它的效果；再想想，要测试其中一个解释，需要怎样比较。"
+    ]
+  ],
+  "modules/module-04/03-expectation-labels.qmd": [
+    [
+      "Imagine being given the same drink under two different descriptions. Before tasting, what would you expect? This lesson turns that simple thought experiment into questions about labels and study design.",
+      "Invent two descriptions for an imaginary tea, then identify what would have to stay identical to test the descriptions rather than the liquid."
+    ],
+    [
+      "想像同一杯飲品，配上兩種不同介紹。還未入口，你會期待甚麼？這一節由這個小小設想，走到標籤與研究設計。",
+      "為一款虛構的茶寫兩種介紹，再列出要保持一致的條件，確保測試的是介紹，而不是液體差異。"
+    ],
+    [
+      "想象同一杯饮品，配上两种不同介绍。还未入口，你会期待什么？这一节从这个小小设想，走到标签与研究设计。",
+      "为一款虚构的茶写两种介绍，再列出要保持一致的条件，确保测试的是介绍，而不是液体差异。"
+    ]
+  ],
+  "modules/module-04/04-context-dials-map.qmd": [
+    [
+      "Now put the surrounding influences on one page. A map is useful when it helps you design a comparison, not just name everything that might matter.",
+      "Take an imagined tea experiment and mark warmth, ritual, and expectation. Decide which one you want to vary and how you would keep the others comparable."
+    ],
+    [
+      "現在把杯子周圍的因素放到同一張圖上。一張好地圖，應該幫你設計比較，而不只是列出所有可能重要的東西。",
+      "設想一個飲茶實驗，標出溫度、儀式和期望，再決定要改哪一項，以及怎樣令其餘條件可比。"
+    ],
+    [
+      "现在把杯子周围的因素放到同一张图上。一张好地图，应该帮你设计比较，而不只是列出所有可能重要的东西。",
+      "设想一个饮茶实验，标出温度、仪式和期望，再决定要改哪一项，以及怎样让其余条件可比。"
+    ]
+  ],
+  "modules/module-05/01-dual-process.qmd": [
+    [
+      "Think of an answer you gave too quickly and later reconsidered. This lesson uses that familiar experience to introduce research tasks about responding quickly and checking an answer.",
+      "For each task, separate speed, accuracy, and the kind of error. Ask which outcome a claim about better thinking actually refers to."
+    ],
+    [
+      "想想一次答得太快、後來又改口的經驗。這一節由這種熟悉感覺，介紹關於快答與覆核答案的研究任務。",
+      "每遇到一個任務，把速度、準確度和錯誤類型分開。問問「想得更好」這個主張，實際指哪一項結果。"
+    ],
+    [
+      "想想一次答得太快、后来又改口的经验。这一节从这种熟悉感觉，介绍关于快答与检查答案的研究任务。",
+      "每遇到一个任务，把速度、准确度和错误类型分开。问问“想得更好”这个主张，实际指哪一项结果。"
+    ]
+  ],
+  "modules/module-05/02-risk-waiting.qmd": [
+    [
+      "Would you take a smaller reward now, wait for more, or keep going for a chance at a larger gain? These choices make a useful doorway into the tasks in this lesson.",
+      "Describe what each task rewards and what it risks. Keep a laboratory choice separate from a prediction about someone's career or finances."
+    ],
+    [
+      "你會現在拿較少的回報、等候較多的回報，還是繼續爭取更大的收益？這些選擇，是走進本節研究任務的一個入口。",
+      "先說清每個任務的回報與風險，再把實驗中的選擇，與對一個人事業或財務決策的預測分開。"
+    ],
+    [
+      "你会现在拿较少的回报、等候较多的回报，还是继续争取更大的收益？这些选择，是走进本节研究任务的一个入口。",
+      "先说清每个任务的回报与风险，再把实验中的选择，与对一个人事业或财务决策的预测分开。"
+    ]
+  ],
+  "modules/module-05/03-trust-games.qmd": [
+    [
+      "An offer can feel generous, unfair, or risky depending on the rules around it. Start with those rules, then consider what a drink or a setting could add to the experiment.",
+      "Write down who moves first, what each person knows, and how the payoff works. Only then interpret a change in trust or cooperation."
+    ],
+    [
+      "同一個提議，可能令人覺得慷慨、不公平，或有風險，關鍵往往在規則。先讀懂規則，再看飲品或情境在實驗中扮演甚麼角色。",
+      "記下誰先行動、雙方知道甚麼，以及回報怎樣計算，然後才解讀信任或合作的變化。"
+    ],
+    [
+      "同一个提议，可能让人觉得慷慨、不公平，或有风险，关键往往在规则。先读懂规则，再看饮品或情境在实验中扮演什么角色。",
+      "记下谁先行动、双方知道什么，以及回报怎样计算，然后才解读信任或合作的变化。"
+    ]
+  ],
+  "modules/module-05/04-study-protocols.qmd": [
+    [
+      "You have reached the place where an attractive story must become a fair test. Think of this lesson as the workbench: which details would another researcher need to repeat the comparison?",
+      "Take one claim from an earlier lesson and outline the drink, comparison, timing, task, and outcome. Use the protocol details below to find what your outline is missing."
+    ],
+    [
+      "來到這裏，一個吸引人的故事，要變成一次公平的測試。把這一節當作工作枱：另一位研究者需要知道哪些細節，才能重做這個比較？",
+      "選前面一節的主張，列出飲品、比較條件、時間、任務和結果，再用下面的程序細節找出遺漏。"
+    ],
+    [
+      "来到这里，一个吸引人的故事，要变成一次公平的测试。把这一节当作工作台：另一位研究者需要知道哪些细节，才能重做这个比较？",
+      "选前面一节的主张，列出饮品、比较条件、时间、任务和结果，再用下面的程序细节找出遗漏。"
+    ]
+  ]
+}

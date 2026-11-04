@@ -2,7 +2,23 @@
 title: "Chapter 1 · The Chemical Core"
 ---
 
-{{< include../../_includes/lang-switcher/module-01.en.qmd >}}
+{{< include ../../_includes/lang-switcher/module-01.en.qmd >}}
+
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Two packets say tea; the cups seem worlds apart. This chapter follows the choices between the plant and the pour, so you can ask which part of the journey produced the difference.
+
+**As you read:** Follow plant → processing → brewing → compounds. Keep one familiar tea in mind as you move through the four lessons.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
 
 A small mystery sits inside a habit almost every tea drinker already knows.
 
@@ -41,7 +57,8 @@ Two navigation tricks keep the story light.
 
 Neither trick invents facts. Each one only changes how much detail sits on the open page.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## The four sections
 
 Each sitting is one section of the chapter. The open pages stay lay-friendly, and you open a foldout when you want the chemistry depth.
@@ -94,7 +111,7 @@ Open [Chapter 2: Body, Brain & Mood](../module-02/index.qmd) when you are ready.
 - Lab capsules (e.g. 100–200 mg L-theanine) are not grocery-bag cups. Check the [Cup reference](../../cup-reference.qmd).[^3][^4]
 :::
 
----
+***
 
 **Navigate:** [← Chapters overview](../index.qmd) · [First lesson →](01-plants.qmd) · [Chapter 2 hub →](../module-02/index.qmd)
 

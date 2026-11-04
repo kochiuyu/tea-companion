@@ -4,6 +4,22 @@ title: "Section 2 · Listening to the brain's tempo"
 
 {{< include ../../_includes/lang-switcher/module-02-brainwaves.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A brain-wave trace can look wonderfully precise. The interesting question is what that trace lets us say about attention, relaxation, or the task a person was doing.
+
+**As you read:** For one study, identify the participants, dose, timing, task, and measured signal before interpreting the word calm.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 2 · Section 2 of 4** is part of [Chapter 2 · Body, Brain & Mood](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is waiting.
 :::
@@ -11,7 +27,8 @@ title: "Section 2 · Listening to the brain's tempo"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold wave frequencies (Hz), dose tables, and study designs, so the open page can stay in everyday language.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Headphones for the cortex
 
 [Chapter 2 · Section 1](01-brain-action.qmd) gave you gas pedals and brakes. This sitting asks whether researchers can *hear* those changes.
@@ -84,8 +101,12 @@ Brain rhythms are one window onto the same story. Stress chemistry is another, e
 
 ## Story in one minute
 
-Labs sort brain rhythms by speed. L-theanine often lifts resting calm-focus, caffeine leans toward busy-alert, and alcohol pushes slower fatigue and sedation bands. The same theanine story depends on **state**: rest versus hard work. Timing still matches Chapter 1's delayed clocks, not first-sip magic.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Labs sort brain rhythms by speed. L-theanine often lifts resting calm-focus, caffeine leans toward busy-alert, and alcohol pushes slower fatigue and sedation bands. The same theanine story depends on **state**: rest versus hard work. Timing still matches Chapter 1's delayed clocks, not first-sip magic.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Calm-focus, busy-alert, and drowsy are everyday families. The Hz bands live in the foldouts.
 - A rest recording is not a hard-work recording. Ask which one you have before you believe a headline.
@@ -118,7 +139,7 @@ If a blog collapses both pictures into "theanine = alpha = Zen," it has skipped 
 Alcohol is in this lesson as a contrast, not as a tea tip. As the effects deepen, slower bands linked with fatigue and sedation rise in classic human EEG work.[^2] That story runs opposite to tea's dual pitch of "awake + calm focus." The difference is not merely less caffeine, but a different network story. Keep the contrast for Chapter 2's closing picture on the hub.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Previous](01-brain-action.qmd) · [Next →](03-stress-hormones.qmd)
 

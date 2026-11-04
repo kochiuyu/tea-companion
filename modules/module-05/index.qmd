@@ -2,14 +2,31 @@
 title: "Chapter 5 · Decisions & Choices"
 ---
 
-{{< include../../_includes/lang-switcher/module-05.en.qmd >}}
+{{< include ../../_includes/lang-switcher/module-05.en.qmd >}}
+
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A quick answer, a risky choice, an offer from a stranger: familiar decisions become research tasks in this chapter. The challenge is to understand the task before deciding what its result says about everyday life.
+
+**As you read:** Read judgments, risk and waiting, social games, then study protocols. Carry one question throughout: what would justify extending this finding beyond the experiment?
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
 
 You have followed tea from plant to cup, through the body, through history and culture, and through warmth, ritual, and expectation. One question still hangs over the whole journey, especially for anyone who makes hard choices for a living.
 
 **Does the cup change how we choose?**
 
 Drinks do not flip a magic "smart switch." What they can do is **nudge** how fast you answer, how much risk you take, how much you care about tomorrow, and how trusting you are in a first move. Real life still depends on stakes and setting, and a lab dose is not the same as your everyday mug. Treat study findings as **careful hints**, not life rules.
-
+::::::::
+<!-- reading-fold:end -->
 ## A balloon, a weekend washout, and a careful hint
 
 Imagine a balloon on a computer screen. Each pump earns a little money and raises the chance of a pop that wipes the trial. How far do you push?
@@ -86,7 +103,7 @@ If you want the quick cup numbers, open the [Cup reference](../../cup-reference.
 
 The cup is ordinary. The story is not. The next time you pour, you will know a little more about why.
 
----
+***
 
 **Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 4 hub](../module-04/index.qmd) · [First lesson →](01-dual-process.qmd)
 
