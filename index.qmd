@@ -3,6 +3,99 @@ title: "Tea Companion"
 ---
 {{< include _includes/lang-switcher/home.en.qmd >}}
 
+## A better cup. A more curious mind.
+
+You pour water over leaves. A few minutes later, you have something fragrant, warming, and surprisingly complicated. Why does the same tea taste gentle one morning and bitter the next? What does a name on the packet actually tell you? And how much of a tea headline should you believe?
+
+Start with the cup in front of you. Follow your curiosity from there.
+
+:::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+### Make your first cup
+
+Meet the tea families, choose a simple setup, and brew a mug you can adjust to your taste.
+
+[Start with tea basics →](tea-basics.qmd)
+:::
+::: {.g-col-12 .g-col-md-4}
+### Explore the science
+
+Try the same leaves with two steeping times. Discover what changes in the water—and what taste alone cannot tell you.
+
+[Try the brewing lesson →](modules/module-01/03-brewing.qmd)
+:::
+::: {.g-col-12 .g-col-md-4}
+### Understand a tea label
+
+Make sense of names on a shelf or café menu, from tea styles and origins to grades and equipment.
+
+[Decode a tea label →](tea-labels.qmd)
+:::
+::::
+
+## One small experiment to begin
+
+Next time you make tea, notice three things before reaching for a verdict: **what you smell, what you taste, and how your mouth feels afterwards**. “I don't like this tea” is a starting point. “I like the aroma, but the finish is too drying” gives you something to work with.
+
+The [brewing lesson](modules/module-01/03-brewing.qmd#try-it-two-cups-one-change) turns that observation into a simple comparison. If your mug needs rescuing right now, go straight to [Kitchen troubleshoot](tea-troubleshoot.qmd).
+
+## Follow the leaf beyond the kettle
+
+Tea Companion has **five chapters and twenty lessons**. Read them in order for a journey from leaf to everyday life, or begin with a question that interests you.
+
+| Your question | Where it leads |
+| --- | --- |
+| How can one plant become such different teas? | [**1 · The Chemical Core**](modules/module-01/index.qmd): plants, processing, brewing, and compounds |
+| What happens after I drink it? | [**2 · Body, Brain & Mood**](modules/module-02/index.qmd): brain signaling, brain waves, stress hormones, and body signals |
+| How did a drink become part of trade and daily culture? | [**3 · History & Culture**](modules/module-03/index.qmd): trade, monastic traditions, plantations, and regional customs |
+| How much does the setting shape the experience? | [**4 · Context & Ritual Psychology**](modules/module-04/index.qmd): warmth, ritual, expectations, and labels |
+| Can a drink change a decision—and how would we know? | [**5 · Decisions & Choices**](modules/module-05/index.qmd): quick judgments, risk, patience, trust, and study design |
+
+[Browse all twenty lessons →](modules/index.qmd)
+
+::: {.callout-note collapse="true" title="More detail: the full reading journey"}
+Begin with the leaf: where tea comes from, how processing changes it, what brewing extracts, and the compounds you will meet again. Then move into the body and the studies used to investigate brain activity, mood, stress, and body signals.
+
+The view widens in the history chapter, from trade to monastic traditions, plantations, and regional customs. The final chapters ask how warmth, ritual, expectations, and social settings enter the experience—and how researchers investigate judgments, risk, patience, and trust. These are questions to explore, not promises that a cup will produce a particular effect.
+
+Each chapter has four lessons:
+
+1. **[The Chemical Core](modules/module-01/index.qmd):** Plants · Processing · Brewing · Compounds.
+2. **[Body, Brain & Mood](modules/module-02/index.qmd):** Brain action · Brain waves · Stress hormones · Body signals.
+3. **[History & Culture](modules/module-03/index.qmd):** Trade history · Monastic path · Plantation aftershock · Regional scripts.
+4. **[Context & Ritual Psychology](modules/module-04/index.qmd):** Warmth & trust · Ritual & stress · Expectation & labels · Context dials map.
+5. **[Decisions & Choices](modules/module-05/index.qmd):** Dual-process · Risk & waiting · Trust games · Study protocols.
+
+Read in sequence, or use [Linkages](linkages.qmd) to follow connections between chapters. Tea basics and the label guide can be read before Chapter 1 or alongside it.
+:::
+
+## Keep these beside your cup
+
+- **Something tastes wrong?** [Kitchen troubleshoot](tea-troubleshoot.qmd) helps you choose one brewing adjustment.
+- **A headline sounds too good?** [Reading a tea study](tea-reading-studies.qmd) offers five questions to ask about the evidence.
+- **Looking for quantities?** [Cup reference](cup-reference.qmd) gathers estimates for a 250 mL mug. Treat them as orientation, not a measurement of your particular brew.
+- **Lost in terminology?** The [Glossary](glossary.qmd) gives short definitions; [Linkages](linkages.qmd) connects ideas across chapters.
+
+## Read a little, or go deeper
+
+You do not need a chemistry background or special teaware. Begin with an observation, follow the explanation, and use the optional **More detail** foldouts when you want to look closer. Footnotes lead to sources, and the [Bibliography](bibliography.qmd) brings the references together.
+
+As you read, keep three questions separate: **What changed in the cup? What did a study measure? What did I personally notice?** A finding about extracted compounds does not, by itself, establish an effect on mood or decisions. Learning to make those distinctions is part of the pleasure of understanding tea.
+
+::: {.callout-note collapse="true" title="More detail: using sources and reference pages"}
+Click a footnote number to jump to its source; use the return arrow to come back. In browsers that support it, hovering can also show a preview. Expand a **More detail** box to read its tables or explanation without leaving the lesson.
+
+When a number appears, check the preparation it describes. Tea, leaf amount, cup size, and steeping conditions can differ. The [Cup reference](cup-reference.qmd) gathers everyday estimates for a 250 mL cup; the [Bibliography](bibliography.qmd) helps you find the papers behind the claims. The [Glossary](glossary.qmd) is there for a quick definition.
+:::
+
+The companion is also available in [香港繁體中文](zh-hant-hk/index.qmd) and [简体中文](zh-hans/index.qmd).
+
+<!-- original-coverage:start -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Original discussion and sources — retained in full"}
+The original text and its citations are preserved below. The coverage audit records apparent contradictions for review; this section has not been silently fact-edited.
+
 ::: {.callout-tip title="Also in Chinese / 亦有中文版"}
 The whole site also has a [Hong Kong Traditional Chinese](zh-hant-hk/index.qmd) version and a [Simplified Chinese](zh-hans/index.qmd) version. Those versions include the home page, tea basics, tea labels, the five chapters, linkages, and the bibliography.
 :::
@@ -57,3 +150,7 @@ When you wonder how a brewing fact connects to mood, or how a warm mug connects 
 When you want the paper behind a name-and-year, or the note behind a footnote marker on a lesson page, click the footnote or open the [Bibliography](bibliography.qmd).
 
 Ready? Pour an imaginary cup. Start with [Tea basics](tea-basics.qmd) for a first mug. Open [Tea labels](tea-labels.qmd) if a box or menu name is still foggy. Open [Kitchen troubleshoot](tea-troubleshoot.qmd) if the mug already went wrong. Read [Reading a tea study](tea-reading-studies.qmd) before you trust a headline. Then open [Chapter 1: The Chemical Core](modules/module-01/index.qmd), or skim the [roadmap](modules/index.qmd) first.
+::::::::
+<!-- reading-fold:end -->
+
+<!-- original-coverage:end -->

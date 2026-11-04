@@ -4,6 +4,22 @@ title: "Section 3 · What you think the mug is"
 
 {{< include ../../_includes/lang-switcher/module-04-expectation-labels.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Imagine being given the same drink under two different descriptions. Before tasting, what would you expect? This lesson turns that simple thought experiment into questions about labels and study design.
+
+**As you read:** Invent two descriptions for an imaginary tea, then identify what would have to stay identical to test the descriptions rather than the liquid.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 4 · Section 3 of 4** — part of [Chapter 4 · Context & Ritual Psychology](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 3 · What you think the mug is"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. The foldouts hold denser sketches of expectancy, one infusion-label design, and pointer tables into Chapter 5 protocols. This lesson is a third context dial. It is not a second methods textbook.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Same liquid, different story
 
 [Section 1](01-warmth-trust.qmd) was the mug's **temperature**. [Section 2](02-ritual-stress.qmd) was the **script** in the hands. Expectation is the **name** on the experience: what you were told the liquid *is*, and what the vessel and the label ask you to believe before the first sip.
@@ -104,7 +121,7 @@ You now have three sibling lessons: warmth in the hands, a script in the brew, a
 - Point onward to Chapter 5 protocols and the Reading-studies door. Do not re-teach the parameter tables here.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Previous](02-ritual-stress.qmd) · [Next →](04-context-dials-map.qmd)
 

@@ -4,6 +4,22 @@ title: "Linkages"
 
 {{< include _includes/lang-switcher/linkages.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+The interesting questions often sit between chapters. How would a brewing observation connect to a study of people, or a historical custom to a modern experiment? Follow one connection at a time.
+
+**As you read:** Pick a bridge, identify the evidence on each side, and note which part of the connection is explanation, comparison, or a question still to test.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 The four chapters can be read as separate rooms. This page is the hallway between them: eleven bridges across the chapters, rewritten so you can *feel* why a brewing fact matters for mood, or why a warm mug shows up in a trust game.
 
 No new links were invented here, and the citations stay the same. Think of each bridge as a thread. Someone pulls it, and suddenly two chapters lean toward each other.
@@ -18,7 +34,7 @@ Each bridge is a hallway, not a new claim. Follow the plain connection into the 
 
 You do not have to memorize all eleven. Pick the question you actually have, such as “why wait after drinking?” or “does mug temperature matter?”, and follow that thread into the lessons and the bibliography.
 
----
+***
 
 ### 1. Why waiting after the first sip matters
 
@@ -124,8 +140,9 @@ Higher catechin levels in [*assamica*](glossary.qmd#assamica), about **25%–35%
 
 **Citations:** [Borchetia et al. (2009); Tanaka & Kouno (2003); Lakenbrink et al. (2000)](bibliography.qmd#plant-chemistry-and-brewing)
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## Compact checklist
 
 | From → To | Plain connection | Citations |

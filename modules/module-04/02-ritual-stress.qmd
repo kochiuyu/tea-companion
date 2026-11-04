@@ -4,6 +4,22 @@ title: "Section 2 · The brewing break as a stress reset"
 
 {{< include ../../_includes/lang-switcher/module-04-ritual-stress.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Measure, pour, wait, serve: a tea routine offers a sequence to examine. What belongs to the repeated actions, what belongs to expectation, and what belongs to the drink?
+
+**As you read:** Describe a familiar routine without explaining its effect. Then identify the comparison you would need to test one proposed explanation.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 4 · Section 2 of 4** — part of [Chapter 4 · Context & Ritual Psychology](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 2 · The brewing break as a stress reset"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, and the caret jumps back; if you hover, the note often pops open. The collapsed "More detail…" boxes hold the denser autonomic numbers, the ERN notes, and the distinction between mindfulness and scripting. One famous paper is **not** used as evidence. The caution box explains why.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Hands that know the script
 
 Before a hard exam or a tough meeting, you do the same three steps every time: boil, steep, sip. Your hands know the script. In these sources, that predictability is the point. The point is not "empty mysticism."
@@ -190,7 +207,7 @@ Open [Chapter 5](../module-05/index.qmd) when you want the decision games. If yo
 - Chemistry and choreography can rhyme. They are still different mechanisms. See [Chapter 2 · Body signals](../module-02/04-body-signals.qmd).
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Previous](01-warmth-trust.qmd) · [Next →](03-expectation-labels.qmd)
 

@@ -4,6 +4,22 @@ title: "Section 1 · Two plants, one species"
 
 {{< include ../../_includes/lang-switcher/module-01-plants.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Before comparing the cups, look back at the plants. A familiar tea name invites a useful question: how much does the plant explain, and how much depends on the garden and the maker?
+
+**As you read:** Choose two tea labels. Separate what they actually tell you about the plant from what you would still need to learn.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 1 · Section 1 of 4** — part of [Chapter 1 · The Chemical Core](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 1 · Two plants, one species"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 The superscript numbers are clickable footnotes. You jump to the source, the caret jumps back, and a hover often pops the note. The collapsed "More detail…" boxes hold the cultivar tables, the genome notes, and the garden dials, so the open page can stay in everyday language.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## A morning that starts with the wrong question
 
 You stand in a grocery aisle holding two boxes. One says *English Breakfast*, and the other says *sencha*. Both are called "tea," and both will wake you up a little. When you pour them, though, one runs dark and malty while the other stays pale and grassy, and the calm-focus side of the cup will not feel the same.
@@ -94,8 +111,12 @@ None of those label shortcuts replace reading the tin. They do keep the aisle fr
 
 ## Story in one minute
 
-The story fits in a minute once the pieces are in order. There is one species, and there are two everyday leaf personalities. Cool-hill bushes lean toward smaller leaves and, on average, more of the calm-focus amino acid. Warm-lowland plants lean toward larger leaves and, on average, more caffeine and more of the plant compounds that later make black tea bold. Your supermarket tin may ignore all of that and still taste wonderful, because gardens, plucking, shade, and blends rewrite the averages. The point of this sitting is not to memorize a passport for every leaf. It is to stop treating "tea" as one chemical object.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+The story fits in a minute once the pieces are in order. There is one species, and there are two everyday leaf personalities. Cool-hill bushes lean toward smaller leaves and, on average, more of the calm-focus amino acid. Warm-lowland plants lean toward larger leaves and, on average, more caffeine and more of the plant compounds that later make black tea bold. Your supermarket tin may ignore all of that and still taste wonderful, because gardens, plucking, shade, and blends rewrite the averages. The point of this sitting is not to memorize a passport for every leaf. It is to stop treating "tea" as one chemical object.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Almost all commercial tea is one plant species, and that species shows up as two everyday leaf personalities.
 - The averages lean Assam-higher for caffeine and for the plant compounds tied to bitterness and color, and they lean China-higher for calm-focus theanine, while the gardens rewrite the fine print.
@@ -124,7 +145,7 @@ The same word sits on the shelf ("tea"). The plant-style *tendencies* differ, an
 5. Then check the milligrams in the [Cup reference](../../cup-reference.qmd) before you carry a claim into Chapter 2.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 1 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-processing.qmd)
 

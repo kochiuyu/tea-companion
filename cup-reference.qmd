@@ -3,10 +3,27 @@ title: "Cup reference"
 ---
 {{< include _includes/lang-switcher/cup-reference.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A number is most useful when its cup has a size and its recipe has a method. Use this page beside the kettle or a research paper, with the preparation details in view.
+
+**As you read:** Find the entry closest to your tea, then compare water volume, leaf amount, and steeping conditions before comparing milligrams.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 Before Chapter 1 talks about plants and processing, and before Chapter 2 talks about how you *feel*, it helps to know what "a cup" even means. People say the phrase casually. A lab and a home kitchen can mean very different strengths. If you are still finding your way—what tea is, and how to pour one mug—skim [Tea basics](tea-basics.qmd) first. If the fog is a name, such as *sencha* versus *English Breakfast*, a grade, or a teapot, open [Tea labels](tea-labels.qmd). Then come back here for the milligrams.
 
 This page standardizes on a **250 mL** cup and lists the typical lab and consumer-brew ranges used on this site. Use it as a **map**, not a promise about your exact mug. When a chapter mentions "200 mg [L-theanine](glossary.qmd#l-theanine)," come back here and compare. That lab capsule is often much stronger than one ordinary mug. Tap a footnote marker to jump to the source, and the caret to jump back. Hover often shows a popup.
-
+::::::::
+<!-- reading-fold:end -->
 ## Why the numbers move
 
 Leaf quality, brand, and steep time all move the numbers. Green and black tea also differ because of processing (see [Chapter 1 · Brewing](modules/module-01/03-brewing.qmd) and [Compounds](modules/module-01/04-compounds.qmd)). Many catechins stay simple in green tea. In black tea, many of them are linked into darker pigments, so [EGCG](glossary.qmd#egcg) and total catechins in the cup are usually much lower [^1][^2].

@@ -4,6 +4,22 @@ title: "Section 3 · After the monopoly break — gardens, estates, cheap bags"
 
 {{< include ../../_includes/lang-switcher/module-03-plantation-aftershock.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+The journey from garden to inexpensive cup has a human side. This lesson asks you to look at the land, work, and institutions that can disappear behind a product on a shelf.
+
+**As you read:** Sketch the journey from growing to sale. At each step, ask whose labor is visible in the account and whose experience you would want to hear more about.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 3 · Section 3 of 4** — part of [Chapter 3 · History & Culture](index.qmd). If you are new here, start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 3 · After the monopoly break — gardens, estates, cheap bags"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, and the caret jumps back; hover often pops the note. The collapsed "More detail…" boxes hold the estate timelines, the labor routes, and the honesty fences, so the open page can stay a story.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## The bag's second half
 
 [Section 1](01-trade-history.qmd) explained why a cheap supermarket bag *exists* at all, once silver, war, and the transfer of the tea plant had done their work. This lesson asks a later question. Once Chinese monopoly leaf is no longer the only farm, what does an **estate** actually do? Who clears the jungle, who picks the flush, and how does that commodity form find its way into a British cupboard?
@@ -172,7 +189,7 @@ Chemistry still explains what is in the cup ([Chapter 1 · Plants](../module-01/
 - Next come the living regional scripts, not the psychology of lab ritual (that is Chapter 4).
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](02-monastic-path.qmd) · [Next →](04-regional-scripts.qmd)
 

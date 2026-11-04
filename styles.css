@@ -1,5 +1,23 @@
 /* Minimal site styles — no content. Expand only as needed for layout. */
 
+.reader-guide {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid #526b44;
+  background: #f4f7f0;
+  border-radius: 0 0.35rem 0.35rem 0;
+}
+
+.reader-guide p:last-child {
+  margin-bottom: 0;
+}
+
+/* Keep long source URLs readable on narrow screens without clipping them. */
+main.content p,
+main.content li {
+  overflow-wrap: anywhere;
+}
+
 body {
   /* intentionally sparse */
 }

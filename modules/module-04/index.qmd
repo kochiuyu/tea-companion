@@ -4,6 +4,22 @@ title: "Chapter 4 · Context & Ritual Psychology"
 
 {{< include ../../_includes/lang-switcher/module-04.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Imagine the same drink offered in two different rooms, with different words and different gestures. This chapter asks how to investigate everything around the liquid without confusing those influences with its chemistry.
+
+**As you read:** Follow warmth → ritual → expectation → the context map. Keep asking what a comparison holds constant and what it changes.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 Chemistry explains why a leaf can wake you. History explains why that leaf is cheap in your cupboard. This chapter asks what else rides along in the mug: **warmth**, **ritual**, and **expectation**.
 
 Hold three kitchen pictures. One is a cozy mug in the hand while you meet someone new. Another is a short, familiar brew sequence—measure, watch, wait—before a hard task. A third is a label or a vessel that says "specialty" versus "just bag." The same compounds can share the cup with all three. The effects are tints, not destiny, and replication humility stays on the page.
@@ -18,7 +34,8 @@ Hold three kitchen pictures. One is a cozy mug in the hand while you meet someon
 ::: {.callout-tip}
 **Read the story; open More detail boxes only when curious.** Context scenes stay open, and the denser lab tables live in foldouts.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## The four sections
 
 1. **[Warm hands, warmer judgments?](01-warmth-trust.qmd)** — thermal priming, kept together with the replication caveats.
@@ -32,6 +49,6 @@ Hold three kitchen pictures. One is a cozy mug in the hand while you meet someon
 
 If you take only one sentence into [Chapter 5](../module-05/index.qmd), take this one: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and [L-theanine](../../glossary.qmd#l-theanine). That is why careful decision studies lock mug temperature and bitterness, and why a headline that ignores them is incomplete.
 
----
+***
 
 **Navigate:** [← Chapters overview](../index.qmd) · [← Chapter 3 hub](../module-03/index.qmd) · [First lesson →](01-warmth-trust.qmd) · [Chapter 5 hub →](../module-05/index.qmd)

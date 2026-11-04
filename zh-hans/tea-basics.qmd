@@ -5,9 +5,26 @@ lang: zh-Hans
 
 {{< include ../_includes/lang-switcher/tea-basics.zh-hans.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**从一个问题开始**
+
+开始喝茶，不必先买齐一套茶具。拿出一款茶、一个杯子，问一个简单问题：怎样泡，会让你想再喝一杯？
+
+**阅读时试一试:** 选一款手边已有的茶，跟着第一杯的步骤做。记下一点想保留的地方，以及一点下次想调整的地方。
+
+[首页](index.qmd) · [章节地图](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首页](index.qmd) · [茶叶入门](tea-basics.qmd) · [茶叶标签](tea-labels.qmd) · [厨房排障](tea-troubleshoot.qmd) · [读懂茶研究](tea-reading-studies.qmd) · [杯量参考](cup-reference.qmd) · [词汇表](glossary.qmd) · [章节总览](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [联结桥梁](linkages.qmd) · [参考文献](bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有导读与阅读提示"}
+
+
+
 
 ::: {.callout-note}
 **核对数字与出处，以英文页为准。** 用页顶语言切换在英文／繁体／简体之间跳转。
@@ -36,8 +53,9 @@ lang: zh-Hans
 - **浸泡** — 让茶叶在热水里坐一会儿，颜色和味道才出来。
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## 杯子里是茶树，还是别的植物
 
 口语里，“茶”几乎可以指任何热水泡出来的东西。咖啡馆柜台这样讲没问题。本站所说的**真茶**，只指一种植物的叶，有时也包括芽：茶树（词汇表里的 [*Camellia sinensis*](glossary.qmd#sinensis)）。
@@ -50,7 +68,7 @@ lang: zh-Hans
 英语先把 *tea* 借来指茶树那杯，后来又拉到任何热浸泡。柜台这样讲没问题；放在这里就容易混——清醒和那一点安静，属于茶树，不属于每一盒写着“茶”的东西。
 :::
 
----
+***
 
 ## 同一株植物，不同的路
 
@@ -72,7 +90,7 @@ lang: zh-Hans
 乌龙是一个**范围**，不是一个固定的中点。所以这家咖啡馆的乌龙几乎像绿，那家几乎像红。仍是同一株植物。
 :::
 
----
+***
 
 ## 你的第一杯
 
@@ -85,7 +103,7 @@ lang: zh-Hans
 
 杯子不对劲——太苦或太淡——可看 [厨房排障](tea-troubleshoot.qmd)。想知道为什么温度和时间要紧，去 [第一章 · 第三节](modules/module-01/03-brewing.qmd)。茶壶、盖碗、茶筅这些有名器具，列在 [茶叶标签](tea-labels.qmd)。毫克数字在 [杯量参考](cup-reference.qmd)。
 
----
+***
 
 ## 清醒，又有一点安静
 
@@ -93,7 +111,7 @@ lang: zh-Hans
 
 数字在 [杯量参考](cup-reference.qmd)。“杯子里三位客人”的故事在 [第一章 · 第四节](modules/module-01/04-compounds.qmd)。
 
----
+***
 
 ## 先认三个名字
 
@@ -109,7 +127,7 @@ lang: zh-Hans
 
 中文名、日文名、西方咖啡馆名——连等级、花草和茶壶名称——都在 [茶叶标签](tea-labels.qmd)。
 
----
+***
 
 ## 下一步去哪里
 

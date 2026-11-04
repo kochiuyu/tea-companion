@@ -5,9 +5,26 @@ lang: zh-Hant-HK
 
 {{< include ../_includes/lang-switcher/tea-basics.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+開始喝茶，不必先買齊一套茶具。拿出一款茶、一隻杯，問一個簡單問題：怎樣沖，會令你想再喝一杯？
+
+**閱讀時試一試:** 選一款手邊已有的茶，跟着第一杯的步驟做。記下一點想保留的地方，以及一點下次想調整的地方。
+
+[首頁](index.qmd) · [章節地圖](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [茶葉標籤](tea-labels.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有導讀與閱讀提示"}
+
+
+
 
 ::: {.callout-note}
 **核對數字與出處，以英文頁為準。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
@@ -36,8 +53,9 @@ lang: zh-Hant-HK
 - **浸泡** — 讓茶葉在熱水裏坐一會兒，顏色和味道才出來。
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## 杯子裏是茶樹，還是別的植物
 
 口語裏，「茶」幾乎可以指任何熱水泡出來的東西。咖啡店櫃位這樣講沒問題。本站所說的**真茶**，只指一種植物的葉，有時也包括芽：茶樹（詞彙表裏的 [*Camellia sinensis*](glossary.qmd#sinensis)）。
@@ -50,7 +68,7 @@ lang: zh-Hant-HK
 英語先把 *tea* 借來指茶樹那杯，後來又拉到任何熱浸泡。櫃位這樣講沒問題；放在這裏就容易混——清醒和那一點安靜，屬於茶樹，不屬於每一盒寫着「茶」的東西。
 :::
 
----
+***
 
 ## 同一株植物，不同的路
 
@@ -72,7 +90,7 @@ lang: zh-Hant-HK
 烏龍是一個**範圍**，不是一個固定的中點。所以這家咖啡店的烏龍幾乎像綠，那家幾乎像紅。仍是同一株植物。
 :::
 
----
+***
 
 ## 你的第一杯
 
@@ -85,7 +103,7 @@ lang: zh-Hant-HK
 
 杯子不對勁——太苦或太淡——可看 [廚房排障](tea-troubleshoot.qmd)。想知道為甚麼温度和時間要緊，去 [第一章 · 第三節](modules/module-01/03-brewing.qmd)。茶壺、蓋碗、茶筅這些有名器具，列在 [茶葉標籤](tea-labels.qmd)。毫克數字在 [杯量參考](cup-reference.qmd)。
 
----
+***
 
 ## 清醒，又有一點安靜
 
@@ -93,7 +111,7 @@ lang: zh-Hant-HK
 
 數字在 [杯量參考](cup-reference.qmd)。“杯子裏三位客人”的故事在 [第一章 · 第四節](modules/module-01/04-compounds.qmd)。
 
----
+***
 
 ## 先認三個名字
 
@@ -109,7 +127,7 @@ lang: zh-Hant-HK
 
 中文名、日文名、西方咖啡店名——連等級、花草和茶壺名稱——都在 [茶葉標籤](tea-labels.qmd)。
 
----
+***
 
 ## 下一步去哪裏
 

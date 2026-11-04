@@ -4,6 +4,22 @@ title: "Section 4 · What the body quietly admits"
 
 {{< include ../../_includes/lang-switcher/module-02-body-signals.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Your description of a cup and an instrument's reading tell different parts of the story. Explore the body measures here with one question in mind: what would count as a meaningful change?
+
+**As you read:** Choose a measure and write down its units, comparison condition, and timing. Keep a change in the number separate from a conclusion about wellbeing.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 2 · Section 4 of 4** is part of [Chapter 2 · Body, Brain & Mood](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is waiting.
 :::
@@ -11,7 +27,8 @@ title: "Section 4 · What the body quietly admits"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold meter names (HRV, skin conductance), milligram doses, and µS / millisecond numbers, so the open page can stay in everyday language.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Numbers you cannot feel—but labs can
 
 Besides mood surveys, labs track signals you might never notice in yourself. This sitting closes Chapter 2's arc, from signaling to rhythms to stress chemistry to **quiet body meters**.
@@ -83,8 +100,12 @@ If you want the five-step dual story in one place, the [chapter hub](index.qmd) 
 
 ## Story in one minute
 
-Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Tea-linked L-theanine patterns often look like steadier control under load. Caffeine alone can look more "wired." Alcohol often worsens the control signals. These meters only mean something when dose, task, and timing are controlled, and Chapter 4's protocol sitting will return to that point.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Heart flexibility, pupils, and tiny stress sweat are quiet meters of balance. Tea-linked L-theanine patterns often look like steadier control under load. Caffeine alone can look more "wired." Alcohol often worsens the control signals. These meters only mean something when dose, task, and timing are controlled, and Chapter 4's protocol sitting will return to that point.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Heart-beat flexibility, tiny stress sweat, and pupils are quiet admissions the body makes, and labs can measure them.
 - Before you believe a headline that says "tea calms your nervous system," check **dose, design, rest-vs-load, timing**.
@@ -120,7 +141,7 @@ The caffeine-by-theanine designs from Rogers and colleagues matter twice. They m
 If Chapter 3 later talks about ritual and warmth, remember that skin and heart signals are already listening, even when your survey form says "I feel fine."
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Previous](03-stress-hormones.qmd) · [Next module →](../module-03/index.qmd)
 

@@ -4,6 +4,22 @@ title: "Section 2 · Losses that sting, tomorrows that fade"
 
 {{< include ../../_includes/lang-switcher/module-05-risk-waiting.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Would you take a smaller reward now, wait for more, or keep going for a chance at a larger gain? These choices make a useful doorway into the tasks in this lesson.
+
+**As you read:** Describe what each task rewards and what it risks. Keep a laboratory choice separate from a prediction about someone's career or finances.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 5 · Section 2 of 4** — part of [Chapter 5 · Decisions & Choices](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 2 · Losses that sting, tomorrows that fade"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" boxes hold λ, discounting *k*, the prospect and discounting formalism, and the BART pump numbers. We retell teaching figures. We do **not** invent a private theory of tea-and-markets.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Two everyday ideas that shape a lot of choices
 
 Chapter 5 · Section 1 watched how fast you answer. This lesson watches two quieter habits that shape money, waiting, and risk. You already recognize them from ordinary life, before anyone writes a Greek letter.
@@ -108,10 +125,14 @@ When the sources show caffeine softening loss sensitivity under a trading simula
 
 ## Present bias in kitchen language (one more pass)
 
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
+
 "One cookie now" versus "two cookies tomorrow" is the whole idea. Alcohol makes tomorrow fade, and the discounting snapshot is that fade with a number on it.[^7] Tea-pattern language in the sources points the other way: more patience, with present bias closer to stable. That language still does not license "buy green tea, become a long-term investor."
 
 Risk and patience are often measured alone. Trust and fairness need someone else in the room. That is the next sitting.
-
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 5 · Section 2"}
 1. The open story is losses that sting, together with tomorrows that fade. λ and *k* live in the foldouts.[^1][^7]
 2. BART asks "how far do you pump?" It is toy risk, not career advice.[^4]
@@ -123,15 +144,19 @@ Risk and patience are often measured alone. Trust and fairness need someone else
 
 ## Story in one minute
 
-Losing $10 often hurts more than finding $10 feels good. "One cookie now" often beats "two cookies tomorrow." Laboratories measure those ideas with balloons and with waiting tasks, and with numbers (λ, *k*) that stay in the foldouts. Alcohol makes tomorrow fade. Caffeine under pressure can soften how much losses sting. None of that licenses "green tea makes you a patient investor."
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Losing $10 often hurts more than finding $10 feels good. "One cookie now" often beats "two cookies tomorrow." Laboratories measure those ideas with balloons and with waiting tasks, and with numbers (λ, *k*) that stay in the foldouts. Alcohol makes tomorrow fade. Caffeine under pressure can soften how much losses sting. None of that licenses "green tea makes you a patient investor."
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Losses often sting more than equal gains please, and "one cookie now" often beats "two tomorrow."
 - Laboratory balloons and discount numbers live in the foldouts. They are toy risk, not career advice.
 - Overclaim fence: **no** "tea → patient investor."
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 5 hub](index.qmd) · [← Previous](01-dual-process.qmd) · [Next →](03-trust-games.qmd)
 

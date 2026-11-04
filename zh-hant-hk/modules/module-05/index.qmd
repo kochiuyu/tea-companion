@@ -5,6 +5,19 @@ lang: zh-Hant-HK
 
 {{< include ../../../_includes/lang-switcher/module-05.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+一個快答、一個冒險選擇、陌生人的提議：這些日常情境，在本章變成研究任務。先讀懂任務，才判斷結果能說明多少日常生活。
+
+**閱讀時試一試:** 依次讀判斷、風險與等待、社交博弈和研究程序。一路保留一個問題：憑甚麼把實驗結果推到實驗之外？
+
+[首頁](../../index.qmd) · [章節地圖](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [茶葉標籤](../../tea-labels.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
@@ -95,7 +108,7 @@ lang: zh-Hant-HK
 
 說到底，杯子平常，故事卻不平常。下一次你倒茶時，會多知道一點箇中原因。
 
----
+***
 
 **導航：** [← 章節總覽](../index.qmd) · [← 第四章入口](../module-04/index.qmd) · [第一節 →](01-dual-process.qmd)
 

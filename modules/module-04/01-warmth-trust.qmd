@@ -4,6 +4,22 @@ title: "Section 1 · Warm hands, warmer judgments?"
 
 {{< include ../../_includes/lang-switcher/module-04-warmth-trust.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Someone hands you a warm mug before a conversation. It is an appealing scene for a psychological experiment—and a useful test of how carefully we read surprising findings.
+
+**As you read:** Read the initial result and the replication discussion together. Ask what each experiment tested before deciding how widely the claim should travel.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 4 · Section 1 of 4** — part of [Chapter 4 · Context & Ritual Psychology](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 1 · Warm hands, warmer judgments?"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, and the caret jumps back; if you hover, the note often pops open. The collapsed "More detail…" boxes hold the denser effect sizes, Trust Game figures, and replication caveats, so the open story can stay readable.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## The mug is not psychologically invisible
 
 You meet someone while holding a cozy mug, and you meet someone else while holding an icy can. In some lab setups, that feeling in the body spills over into how "warm" or trustworthy the person seems.[^1][^2] Holding something warm can bias a first impression. Effects on real choices do show up in some studies. They are not magic, though, and they are not always easy to replicate.
@@ -175,7 +192,7 @@ Chabris and colleagues' later reports likewise lean near-zero for the original w
 - Passive warmth (you hold a mug) is not the same thing as active ritual (you make the tea). That difference is the next lesson.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 4 hub](index.qmd) · [← Chapter 3 hub](../module-03/index.qmd) · [Next →](02-ritual-stress.qmd)
 

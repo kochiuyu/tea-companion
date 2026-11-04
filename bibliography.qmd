@@ -4,6 +4,22 @@ title: "Bibliography"
 
 {{< include _includes/lang-switcher/bibliography.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Behind each concise explanation sits a longer trail of evidence. This is the place to follow that trail from a name or date to the source itself.
+
+**As you read:** Choose one claim you care about. Find its reference, check what kind of source it is, and compare its scope with the wording of the claim.
+
+[Home](index.qmd) · [Chapter map](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 **Footnotes live on the lesson pages.** Click the number to jump to the source, then the caret to return. This page is the master map, arranged by theme. If you want the story first, start from a [chapter hub](modules/index.qmd).
 
 Every claim on this site should leave a trail.
@@ -22,7 +38,8 @@ For this site:
 **How to use this page.** Spot a name and a year on a chapter page, for example Nobre et al., 2008. Find that entry in the section below. If you need the full methods, open the paper itself. This list is a map, not a reprint.
 
 When you are done hunting for a source, the [Chapters overview](modules/index.qmd) will take you back into the story.
-
+::::::::
+<!-- reading-fold:end -->
 ## Plant chemistry and brewing
 
 Ashihara, H., Sano, H., & Suzuki, T. (2008). An update on caffeine biosynthesis in tea plants of *Camellia sinensis*. *Natural Product Communications, 3*(8), 1369–1378.

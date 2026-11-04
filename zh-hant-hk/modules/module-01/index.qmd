@@ -5,9 +5,26 @@ lang: zh-Hant-HK
 
 {{< include ../../../_includes/lang-switcher/module-01.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+兩個包裝都寫着茶，沖出來卻像兩回事。這一章沿着茶樹到注水的過程，逐步問：差別在哪一步出現？
+
+**閱讀時試一試:** 依次讀茶樹、加工、沖泡與成分。一路想着一款你熟悉的茶，看看每節能替它補上甚麼背景。
+
+[首頁](../../index.qmd) · [章節地圖](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](../../index.qmd) · [茶葉入門](../../tea-basics.qmd) · [茶葉標籤](../../tea-labels.qmd) · [杯量參考](../../cup-reference.qmd) · [詞彙表](../../glossary.qmd) · [章節總覽](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [連結橋樑](../../linkages.qmd) · [參考文獻](../../bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有導讀與閱讀提示"}
+
+
+
 
 ::: {.callout-note}
 **核對數字與出處，以英文頁為準。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
@@ -50,7 +67,8 @@ lang: zh-Hant-HK
 
 兩者都不會添加任何事實。它們只改變一件事：正文上擺出多少細節。
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## 四節內容
 
 這裏的每一節，就是本章的一個主題。正文保持淺白；想看化學有多深，再打開摺疊方框。
@@ -103,7 +121,7 @@ lang: zh-Hant-HK
 - 實驗用的膠囊（例如 100–200 毫克 茶氨酸）不等於超市茶包泡出來的一杯。請查[杯量參考](../../cup-reference.qmd)。[^3][^4]
 :::
 
----
+***
 
 **導航：** [← 章節總覽](../index.qmd) · [第一節 →](01-plants.qmd) · [第二章入口 →](../module-02/index.qmd)
 

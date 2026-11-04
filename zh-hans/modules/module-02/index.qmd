@@ -5,9 +5,26 @@ lang: zh-Hans
 
 {{< include ../../../_includes/lang-switcher/module-02.zh-hans.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**从一个问题开始**
+
+茶已离开水壶，问题开始贴近身体。喝下去之后，研究者能测量什么？这些数据又怎样对应饮茶者自己的感受？
+
+**阅读时试一试:** 阅读时分开三栏：提出的机制、实际测量的结果，以及个人感受。依次读脑部作用、脑波、压力激素和身体信号。
+
+[首页](../../index.qmd) · [章节地图](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [茶叶标签](../../tea-labels.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [章节总览](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有导读与阅读提示"}
+
+
+
 
 ::: {.callout-note}
 **核对数字和出处，以英文页为准。** 用页顶语言切换栏在英文／繁体／简体之间跳转。
@@ -33,7 +50,8 @@ lang: zh-Hans
 ::: {.callout-note collapse="true" title="怎样读本章（脚注＋折叠）"}
 上标数字是可以点的脚注：点一下跳到来源，箭头再把你跳回来，鼠标悬停也常常弹出摘要。折叠起来的“更多详情…”方框里，收着较密的研究快照——受体名、波段、激素表、毫克数——好让打开的页面仍然像一个故事。
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## 四节内容
 
 这里的每一坐，就是本章的一节。打开的页面保持白话；想看科学有多深，再打开折叠。
@@ -76,7 +94,7 @@ lang: zh-Hans
 
 准备好了，就打开 [第三章：历史与文化](../module-03/index.qmd)。这片叶子即将离开实验室，走进人类的历史。
 
----
+***
 
 **导航：** [← 章节总览](../index.qmd) · [← 第一章入口](../module-01/index.qmd) · [第一节 →](01-brain-action.qmd) · [第三章入口 →](../module-03/index.qmd)
 

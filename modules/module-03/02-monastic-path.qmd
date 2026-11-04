@@ -4,6 +4,22 @@ title: "Section 2 · From medicine soup to monastery to tea room"
 
 {{< include ../../_includes/lang-switcher/module-03-monastic-path.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Tea's past contains texts, practices, and memorable legends. The pleasure of reading them together is learning what kind of story each source can tell.
+
+**As you read:** Choose one episode and label the evidence: historical text, later interpretation, or folklore. Notice how that changes the question you ask of it.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 3 · Section 2 of 4** is part of [Chapter 3 · History & Culture](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is set out before the sections begin.
 :::
@@ -11,7 +27,8 @@ title: "Section 2 · From medicine soup to monastery to tea room"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers on this page are clickable footnotes. Follow one to jump to the source, then use the caret to jump back; a hover often pops the note open beside the sentence you were reading. The collapsed "More detail…" boxes hold the denser text dates, the monastic timetable notes, and the folklore checks, so the open page can stay a story.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Three human jobs for one leaf family
 
 The sources describe a pathway in plain words: medicinal drink (Han) → focus aid in Chan/Zen monasteries (Tang/Song) → highly ritualized social practice (Japan's *chado*). Cultural historians such as James Benn trace how tea moved through Chinese religious and medical worlds before it became a global grocery staple.[^1]
@@ -232,7 +249,7 @@ The romance to refuse is the habit of treating Okakura's 1906 English essay as i
 - The old phrase "nourishes the heart" can rhyme with modern measures of heart-beat flexibility, without turning into an fMRI claim. Chapter 4 owns the lab bridges.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](01-trade-history.qmd) · [Next →](03-plantation-aftershock.qmd)
 

@@ -5,9 +5,26 @@ lang: zh-Hant-HK
 
 {{< include ../_includes/lang-switcher/tea-troubleshoot.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+這杯茶不太對勁。先別同時換茶、換水，又改時間；用幾個字說清楚問題，下一杯才比較容易找出原因。
+
+**閱讀時試一試:** 先找最接近的症狀，只選一項調整。記下結果，再決定是否改下一項。
+
+[首頁](index.qmd) · [章節地圖](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [茶葉標籤](tea-labels.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有導讀與閱讀提示"}
+
+
+
 
 ::: {.callout-note}
 **核對數字與出處，以英文頁為準。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
@@ -34,8 +51,9 @@ lang: zh-Hant-HK
 - **第二泡。** 用原葉的時候，早走的客人先離開，後面幾泡往往感覺不同。碎茶包的等級把這出戲壓成一幕快的。
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## 症狀 → 旋鈕對照表
 
 從這裏開始。這是一張緊湊的轉介表，只用廚房裏的話。這裏沒有新的數字。*為甚麼*，點一下就能到。
@@ -51,7 +69,7 @@ lang: zh-Hant-HK
 
 若你真正想問的是「為甚麼水溫會改變你之後感覺到的那一杯」，可以走這條可選的走廊：[連結橋樑 · 第 3 道橋——水溫怎樣改變你喝到的那一杯](linkages.qmd)。
 
----
+***
 
 ## 一次只扭一顆
 
@@ -70,7 +88,7 @@ lang: zh-Hant-HK
 若本頁把第一章的旋鈕表、平日的水壺程序和溶解度摺疊再寫一遍，你就會有兩堂沖泡課在搶同一份工。本站的規矩很簡單：**每個工作只留一個深講的房間**。廚房排障負責把人轉過去。第一章負責教。杯量參考負責畫出毫克的地圖。
 :::
 
----
+***
 
 ## 冷泡和其他迷思（薄寫）
 
@@ -82,7 +100,7 @@ lang: zh-Hant-HK
 這扇門不新增冷泡的食譜，不新增要泡幾個小時，也不新增毫克上的說法。若第一章或杯量參考已經寫了某個數字，就跟着連結走。若沒有，本頁寧可甚麼都不說，也不去編一段廚房裏的傳聞。
 :::
 
----
+***
 
 ## 這一頁怎樣接上入門、標籤和第一章
 
@@ -96,7 +114,7 @@ lang: zh-Hant-HK
 
 若真正的問題是「為甚麼我這杯對不上標題裏的數字」，那不是水壺上的旋鈕。請改去看 [讀懂茶研究](tea-reading-studies.qmd)。
 
----
+***
 
 ## 下一步去哪裏
 

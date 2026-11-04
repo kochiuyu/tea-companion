@@ -5,9 +5,26 @@ lang: zh-Hant-HK
 
 {{< include ../_includes/lang-switcher/cup-reference.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+數字要放回杯子和沖法裏，才容易理解。你可以把這頁放在水壺旁，也可以在讀論文時用它核對製備條件。
+
+**閱讀時試一試:** 先找最接近你那款茶的項目，再比較水量、茶葉量和浸泡條件，最後才比較毫克數。
+
+[首頁](index.qmd) · [章節地圖](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [茶葉標籤](tea-labels.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-04/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有導讀與閱讀提示"}
+
+
+
 
 ::: {.callout-note}
 **核對數字與出處時，以英文頁為準。** 要換語言，用頁頂的語言切換列，在英文、繁體和簡體之間跳轉。
@@ -16,7 +33,8 @@ lang: zh-Hant-HK
 第一章講植物和加工，第二章講喝茶之後*感覺*如何。在這兩者之前，不妨先弄清楚：「一杯」究竟是多少。大家隨口就說「一杯茶」。實驗室和家裏廚房泡出來的濃度，卻可以差得很遠。如果仍在認路，想知道茶是甚麼、怎樣倒一杯，不妨先掃一眼[茶葉入門](tea-basics.qmd)。如果模糊的是一個名字，例如煎茶對英式早餐茶、等級或茶壺，就打開[茶葉標籤](tea-labels.qmd)。然後再回到這裏看毫克數。
 
 本頁一律以 **250 毫升** 為一杯，列出實驗室和家用沖泡的一般範圍。請當它是一張**地圖**，不是你手上那一杯的保證。某一課提到「[茶氨酸（L-theanine）](glossary.qmd#l-theanine)200 毫克」時，回來對一下。實驗用的膠囊，往往比普通一杯濃得多。點一下腳註，可以跳到出處，再點箭頭回來。滑鼠停住的時候，多數也會彈出摘要。
-
+::::::::
+<!-- reading-fold:end -->
 ## 數字為甚麼會變
 
 茶葉的質素、牌子和浸泡時間，都會令數字上落。綠茶和紅茶也因為加工不同而有分別（見[第一章 · 沖泡](modules/module-01/03-brewing.qmd)和[化合物](modules/module-01/04-compounds.qmd)）。綠茶裏，不少兒茶素仍保持簡單的形態；紅茶裏，很多兒茶素卻連成了較深色的色素，所以杯中的[表沒食子兒茶素沒食子酸酯（EGCG）](glossary.qmd#egcg)和兒茶素總量，通常低得多 [^1][^2]。

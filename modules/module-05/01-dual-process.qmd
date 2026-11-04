@@ -4,6 +4,22 @@ title: "Section 1 · Fast blurts and careful checks"
 
 {{< include ../../_includes/lang-switcher/module-05-dual-process.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+Think of an answer you gave too quickly and later reconsidered. This lesson uses that familiar experience to introduce research tasks about responding quickly and checking an answer.
+
+**As you read:** For each task, separate speed, accuracy, and the kind of error. Ask which outcome a claim about better thinking actually refers to.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 5 · Section 1 of 4** — part of [Chapter 5 · Decisions & Choices](index.qmd). New here? Start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 1 · Fast blurts and careful checks"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" boxes hold the formal dual-process labels, the CRT, Stroop, and RVIP dose tables, and the study snapshots, so the open page can stay a story. The page is not a claim that drinks flip a genius switch.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Quiz-show speed and homework patience
 
 You already know two speeds of thinking, even if nobody has given them laboratory names.
@@ -136,15 +153,19 @@ Drinks nudge where the dimmer sits under load. They do not install a new persona
 
 ## Story in one minute
 
-Quiz-show speed is the fast blurt, and homework patience is the careful check. Tea-plus-caffeine designs in the sources more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure, and alcohol shrinks the spotlight to the immediate. Formal [System 1 / System 2](../../glossary.qmd#dual-process-theory) labels and dose tables live behind the click.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Quiz-show speed is the fast blurt, and homework patience is the careful check. Tea-plus-caffeine designs in the sources more often help sustained attention than they install a new personality. Pure caffeine can speed you into reflection traps under pressure, and alcohol shrinks the spotlight to the immediate. Formal [System 1 / System 2](../../glossary.qmd#dual-process-theory) labels and dose tables live behind the click.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Everyday idea: a quiz-show blurt versus homework patience, with the formal System 1/2 labels living in the foldouts.
 - In the cited designs, a tea combo lines up with sustained attention, and that pattern is not "wiser about everything."
 - Ask about the task, the dose, the timing, and the contrast before you believe a headline.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 5 hub](index.qmd) · [← Hub](index.qmd) · [Next →](02-risk-waiting.qmd)
 

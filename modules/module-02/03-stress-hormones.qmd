@@ -4,6 +4,22 @@ title: "Section 3 · When the fire alarm rings"
 
 {{< include ../../_includes/lang-switcher/module-02-stress-hormones.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A difficult morning and a laboratory stress test both use the word stress. This lesson asks how researchers turn that broad experience into a timed measurement.
+
+**As you read:** Trace the sequence: drink, waiting period, task, sample, result. Note whether the claim concerns an immediate response, recovery, or repeated use.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 2 · Section 3 of 4** is part of [Chapter 2 · Body, Brain & Mood](index.qmd). If you are new here, start at the [chapter hub](index.qmd), where the full chapter map is waiting.
 :::
@@ -11,7 +27,8 @@ title: "Section 3 · When the fire alarm rings"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, the caret jumps back, and a hover often pops the note. Collapsed "More detail…" boxes hold hormone-loop names, dose tables, and paper-by-paper honesty notes, so the open page can stay in everyday language.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## Stress has a chemistry too
 
 Brain signaling ([2.1](01-brain-action.qmd)) and brain rhythms ([2.2](02-brainwaves.qmd)) are two windows on tea's dual story. This sitting opens a third window: **what happens in the body when the day itself is noisy**.
@@ -63,8 +80,12 @@ Hormones are still somewhat invisible. The next question is what you can see on 
 
 ## Story in one minute
 
-Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caffeine can push that loop, and habitual intake blunts caffeine-driven spikes only incompletely. L-theanine is studied for keeping heart rate, blood pressure, stress enzymes, and subjective stress nearer baseline under load. Secondary tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here. Yoto is blood pressure and mood. Lovallo is caffeine–cortisol adaptation.
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
+Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caffeine can push that loop, and habitual intake blunts caffeine-driven spikes only incompletely. L-theanine is studied for keeping heart rate, blood pressure, stress enzymes, and subjective stress nearer baseline under load. Secondary tables that mis-attribute cortisol numbers to Yoto 2012 are corrected here. Yoto is blood pressure and mood. Lovallo is caffeine–cortisol adaptation.
+::::::::
+<!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Stress has a chemistry: a fire-alarm hormone story, not only a mood word.
 - Caffeine can raise the siren. Drinks linked with L-theanine more often keep markers nearer baseline in the cited designs.
@@ -97,7 +118,7 @@ Keeping each question matched to its paper is how this course stays honest when 
 5. Next come body meters you can measure without a hormone assay.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 2 hub](index.qmd) · [← Previous](02-brainwaves.qmd) · [Next →](04-body-signals.qmd)
 

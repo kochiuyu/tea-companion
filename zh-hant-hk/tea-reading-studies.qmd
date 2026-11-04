@@ -5,9 +5,26 @@ lang: zh-Hant-HK
 
 {{< include ../_includes/lang-switcher/tea-reading-studies.zh-hant-hk.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**由一個問題開始**
+
+想像你喝早茶時看到一則標題：某種飲品改善專注、減輕壓力，或改變決策。先不急着相信或否定，問問研究究竟比較了甚麼。
+
+**閱讀時試一試:** 選站內一個主張，或一則新聞標題，逐一回答下面五個問題。分清研究實際量度的結果，以及你會怎樣向朋友轉述。
+
+[首頁](index.qmd) · [章節地圖](modules/index.qmd)
+:::
+<!-- reader-guide:end -->
 ::: {.zh-door-nav}
 **本站中文入口：** [首頁](index.qmd) · [茶葉入門](tea-basics.qmd) · [茶葉標籤](tea-labels.qmd) · [廚房排障](tea-troubleshoot.qmd) · [讀懂茶研究](tea-reading-studies.qmd) · [杯量參考](cup-reference.qmd) · [詞彙表](glossary.qmd) · [章節總覽](modules/index.qmd) · [第一章](modules/module-01/index.qmd) · [第二章](modules/module-02/index.qmd) · [第三章](modules/module-03/index.qmd) · [第四章](modules/module-05/index.qmd) · [第五章](modules/module-05/index.qmd) · [連結橋樑](linkages.qmd) · [參考文獻](bibliography.qmd)
 :::
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="原有導讀與閱讀提示"}
+
+
+
 
 ::: {.callout-note}
 **核對數字與出處，以英文頁為準。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
@@ -36,8 +53,9 @@ lang: zh-Hant-HK
 - **劑量對普通杯。** 研究裏寫的毫克，可以是膠囊，也可以是濃茶湯。家裏用的基準，在杯量參考。
 :::
 
----
-
+***
+::::::::
+<!-- reading-fold:end -->
 ## 讀標題的五個問題
 
 第四章第四節已經把這些收成一則細心閱讀的摺疊。這扇門只負責養成一個**習慣**：看見「這種飲品能改善決策」，先把五個問題問完，再把標題轉發出去。
@@ -60,7 +78,7 @@ lang: zh-Hant-HK
 若這扇門把第四章的洗脫時鐘、杯子的溫度、示例用的膠囊劑量都貼上來，你就會有兩頁程序在搶同一份工。本站的規矩很簡單：**本頁教你問甚麼；第四章第四節用出處告訴你答案。** 需要數字的時候，去打開那裏的摺疊。
 :::
 
----
+***
 
 ## 「一杯」不是研究劑量
 
@@ -76,7 +94,7 @@ lang: zh-Hant-HK
 
 活性劑量的例子在 [第五章 · 第四節](modules/module-05/04-study-protocols.qmd)。
 
----
+***
 
 ## 期望穿上白袍（薄橋）
 
@@ -94,7 +112,7 @@ lang: zh-Hant-HK
 第四章指出：無咖啡因的茶仍殘留着咖啡因和植物裏的成分；想在不改氣味、不改外觀的情況下，把澀味和鮮味也配成一樣，並不容易。難，正是要點所在。對照做得嚴，溫和的說法才站得住。完整的那段誠實說明，請打開第四節。不要把這一則摺疊當成一張新的方法表。
 :::
 
----
+***
 
 ## 通往連結橋樑和第四章各課的走廊
 
@@ -113,7 +131,7 @@ lang: zh-Hant-HK
 
 這裏不另外發明新的橋。連結橋樑早已把各章縫在一起。
 
----
+***
 
 ## 這一頁怎樣接上杯量參考和第四章
 
@@ -127,7 +145,7 @@ lang: zh-Hant-HK
 
 若讀者真正卡住的是一杯苦茶或一杯淡茶，請把人送到 [廚房排障](tea-troubleshoot.qmd)。那種投訴不歸這一頁。
 
----
+***
 
 ## 下一步去哪裏
 

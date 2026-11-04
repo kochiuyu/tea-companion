@@ -4,6 +4,22 @@ title: "Section 4 · One leaf, many scripts — how regions stage the cup"
 
 {{< include ../../_includes/lang-switcher/module-03-regional-scripts.en.qmd >}}
 
+<!-- reader-guide:start -->
+::: {.reader-guide}
+**A question to start with**
+
+A tea counter, a shared table, a carefully arranged serving: each scene gives you something different to notice. Read these portraits as situated practices, with people and places in view.
+
+**As you read:** Compare two portraits using the same questions: who prepares, who serves, what equipment appears, and what the occasion asks of the participants.
+
+[Home](../../index.qmd) · [Chapter map](../../modules/index.qmd)
+:::
+<!-- reader-guide:end -->
+
+<!-- reading-fold:start -->
+:::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
+
+
 ::: {.callout-tip}
 **Chapter 3 · Section 4 of 4** — part of [Chapter 3 · History & Culture](index.qmd). If you are new here, start at the [chapter hub](index.qmd) for the full chapter map.
 :::
@@ -11,7 +27,8 @@ title: "Section 4 · One leaf, many scripts — how regions stage the cup"
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
 Superscript numbers are clickable footnotes. A click jumps to the source, and the caret jumps back; hover often pops the note. The collapsed "More detail…" boxes hold the denser implements, the dated chronologies, and the fences between folklore and chronicle, so the open page can stay a story of living scripts. It is not a world tour, and it is not a lab-ritual lesson.
 :::
-
+::::::::
+<!-- reading-fold:end -->
 ## After the tea-room doorway
 
 [Section 2](02-monastic-path.qmd) ended with monastery timetables and with the leveling inside a Japanese tea room. This lesson asks a different question. What other **scripts** does the leaf wear when the room is a Chaoshan table, a Taiwan tea-art gathering, or a Hong Kong milk-tea counter?
@@ -147,7 +164,7 @@ One bridge sentence only. Predictable shared steps show up again as ritual and a
 - The next chapter treats context as part of the dose. It does not claim that every regional practice is lab ritual.
 :::
 
----
+***
 
 **Navigate:** [↑ Chapter 3 hub](index.qmd) · [← Previous](03-plantation-aftershock.qmd) · [Chapter 4 hub →](../module-04/index.qmd)
 
