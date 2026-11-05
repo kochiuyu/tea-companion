@@ -442,162 +442,952 @@
   ]
 ];
 
+  Object.assign(ui, {
+  "intro": {
+    "en": "Try five randomly picked labels, one small question at a time. Tap a meaning or ask to see the explanation. No typing or score.",
+    "zh-hant-hk": "隨機抽五張標籤，每張回答一個小問題。點選意思，或直接看解說。不用打字，也不計分。",
+    "zh-hans": "随机抽五张标签，每张回答一个小问题。点选意思，或直接看解说。不用打字，也不计分。"
+  },
+  "choose": {
+    "en": "Choose a specific label ({total} to explore)",
+    "zh-hant-hk": "選一張指定標籤（共 {total} 張）",
+    "zh-hans": "选一张指定标签（共 {total} 张）"
+  },
+  "progress": {
+    "en": "Explore · Label {label} of {total} · Word {word} of {count}",
+    "zh-hant-hk": "自由探索 · 第 {label} 張／{total} 張 · 第 {word} 個詞／{count} 個",
+    "zh-hans": "自由探索 · 第 {label} 张／{total} 张 · 第 {word} 个词／{count} 个"
+  },
+  "roundProgress": {
+    "en": "Round {round} · Label {label} of {count}",
+    "zh-hant-hk": "第 {round} 回合 · 第 {label} 張／{count} 張",
+    "zh-hans": "第 {round} 回合 · 第 {label} 张／{count} 张"
+  },
+  "noRepeats": {
+    "en": "Each label appears once before a new mix. You can stop after any round or choose a particular label below.",
+    "zh-hant-hk": "抽完全部標籤前不會重複。每回合後都可以停下來，也可以在下面選指定標籤。",
+    "zh-hans": "抽完全部标签前不会重复。每回合后都可以停下来，也可以在下面选指定标签。"
+  },
+  "explorePause": {
+    "en": "Your round is saved. Explore any word here, then return when you like.",
+    "zh-hant-hk": "你的回合已保留。可以在這裏看看任何一個詞，隨時返回。",
+    "zh-hans": "你的回合已保留。可以在这里看看任何一个词，随时返回。"
+  },
+  "returnRound": {
+    "en": "Back to my round",
+    "zh-hant-hk": "返回我的回合",
+    "zh-hans": "返回我的回合"
+  },
+  "otherWords": {
+    "en": "Explore other words on this label",
+    "zh-hant-hk": "看看這張標籤的其他詞",
+    "zh-hans": "看看这张标签的其他词"
+  },
+  "previousRound": {
+    "en": "← Previous label",
+    "zh-hant-hk": "← 上一張標籤",
+    "zh-hans": "← 上一张标签"
+  },
+  "nextRound": {
+    "en": "Next label →",
+    "zh-hant-hk": "下一張標籤 →",
+    "zh-hans": "下一张标签 →"
+  },
+  "finishRound": {
+    "en": "See my five clues →",
+    "zh-hant-hk": "看看這五個線索 →",
+    "zh-hans": "看看这五个线索 →"
+  },
+  "finishShort": {
+    "en": "See my {count} clues →",
+    "zh-hant-hk": "看看這 {count} 個線索 →",
+    "zh-hans": "看看这 {count} 个线索 →"
+  },
+  "answerFirst": {
+    "en": "Tap a meaning or “Not sure?” to unlock the next label.",
+    "zh-hant-hk": "點選一個意思或「不確定？」，就可以看下一張。",
+    "zh-hans": "点选一个意思或“不确定？”，就可以看下一张。"
+  },
+  "summaryTitle": {
+    "en": "{count} labels explored. A good place to pause.",
+    "zh-hant-hk": "看過 {count} 張標籤，可以先歇一歇。",
+    "zh-hans": "看过 {count} 张标签，可以先歇一歇。"
+  },
+  "summaryIntro": {
+    "en": "Here are the clues you just read. They help you read a packet, not predict a drink’s taste or effects.",
+    "zh-hant-hk": "回顧一下剛才的線索。它們幫你讀懂包裝，不是預測茶的味道或功效。",
+    "zh-hans": "回顾一下刚才的线索。它们帮你读懂包装，不是预测茶的味道或功效。"
+  },
+  "poolProgress": {
+    "en": "You have explored {seen} of {total} labels in this mix.",
+    "zh-hant-hk": "這一輪抽選已看過 {total} 張中的 {seen} 張。",
+    "zh-hans": "这一轮抽选已看过 {total} 张中的 {seen} 张。"
+  },
+  "more": {
+    "en": "Try five more →",
+    "zh-hant-hk": "再試五張 →",
+    "zh-hans": "再试五张 →"
+  },
+  "moreShort": {
+    "en": "Try the last {count} →",
+    "zh-hant-hk": "試試剩下的 {count} 張 →",
+    "zh-hans": "试试剩下的 {count} 张 →"
+  },
+  "exhausted": {
+    "en": "You have seen every label in this mix. A new mix starts fresh and may include familiar labels.",
+    "zh-hant-hk": "這一輪的標籤全部看過了。重新抽選會開始新一輪，可能再遇到熟悉的標籤。",
+    "zh-hans": "这一轮的标签全部看过了。重新抽选会开始新一轮，可能再遇到熟悉的标签。"
+  },
+  "reshuffle": {
+    "en": "Start a new mix",
+    "zh-hant-hk": "重新抽選",
+    "zh-hans": "重新抽选"
+  },
+  "reviewRound": {
+    "en": "← Review this round",
+    "zh-hant-hk": "← 重溫這一回合",
+    "zh-hans": "← 重温这一回合"
+  },
+  "saved": {
+    "en": "Your round and exploration choices stay while this page is open. Exploring a specific label does not change your random round. Reloading starts a new mix.",
+    "zh-hant-hk": "只要這頁仍開着，就會保留回合和探索時的選擇。查看指定標籤不會改動隨機回合；重新載入頁面會重新抽選。",
+    "zh-hans": "只要这页仍开着，就会保留回合和探索时的选择。查看指定标签不会改动随机回合；重新加载页面会重新抽选。"
+  }
+});
+
+  const additionalLabels = [
+  {
+    "name": {
+      "en": "08 · Jasmine tea packet",
+      "zh-hant-hk": "08 · 茉莉茶包裝",
+      "zh-hans": "08 · 茉莉茶包装"
+    },
+    "context": {
+      "en": "Fictional packet: Jasmine-scented · Green tea. Ingredients: green tea scented with jasmine blossoms.",
+      "zh-hant-hk": "虛構包裝：茉莉花香 · 綠茶。成分：以茉莉花窨香的綠茶。",
+      "zh-hans": "虚构包装：茉莉花香 · 绿茶。成分：以茉莉花窨香的绿茶。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "Jasmine-scented",
+          "zh-hant-hk": "茉莉花香",
+          "zh-hans": "茉莉花香"
+        },
+        "answers": [
+          "blend"
+        ],
+        "why": {
+          "en": "Here the words tell you about scent added to the tea. The ingredient list confirms a green-tea base, not a drink made only from flowers.",
+          "zh-hant-hk": "這裏說的是茶加入了甚麼香氣。成分表確認底子是綠茶，不是只用花沖成的飲品。",
+          "zh-hans": "这里说的是茶加入了什么香气。成分表确认底子是绿茶，不是只用花冲成的饮品。"
+        },
+        "limit": {
+          "en": "The wording does not say whether any blossoms remain in the packet, or how strong the aroma will be.",
+          "zh-hant-hk": "這些字沒有交代包裝內是否留有花朵，也不能確定香氣有多濃。",
+          "zh-hans": "这些字没有交代包装内是否留有花朵，也不能确定香气有多浓。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "blend",
+            "tier"
+          ],
+          "hint": {
+            "en": "Check both the front wording and the ingredient list.",
+            "zh-hant-hk": "看看正面的字和成分表。",
+            "zh-hans": "看看正面的字和成分表。"
+          },
+          "source": "#label-chinese-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Green tea",
+          "zh-hant-hk": "綠茶",
+          "zh-hans": "绿茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Green tea is one of the six manufactured tea types. A named style or added ingredient can sit alongside that type.",
+          "zh-hant-hk": "綠茶是六大成品茶類之一；包裝可以同時寫出做法名或加入的材料。",
+          "zh-hans": "绿茶是六大成品茶类之一；包装可以同时写出做法名或加入的材料。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "09 · Hojicha leaf packet",
+      "zh-hant-hk": "09 · 焙茶茶葉包裝",
+      "zh-hans": "09 · 焙茶茶叶包装"
+    },
+    "context": {
+      "en": "Fictional packet: Hojicha (Houjicha) · Green tea. No caffeine measurement is given.",
+      "zh-hant-hk": "虛構包裝：焙茶（Hojicha／Houjicha）· 綠茶。未提供咖啡因實測數據。",
+      "zh-hans": "虚构包装：焙茶（Hojicha／Houjicha）· 绿茶。未提供咖啡因实测数据。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "Hojicha",
+          "zh-hant-hk": "焙茶",
+          "zh-hans": "焙茶"
+        },
+        "answers": [
+          "style"
+        ],
+        "why": {
+          "en": "Hojicha names roasted Japanese green tea. Roasting describes treatment of the tea, rather than a separate seventh tea type.",
+          "zh-hant-hk": "焙茶指經烘焙的日本綠茶。烘焙說的是茶的處理方法，不是第七種茶類。",
+          "zh-hans": "焙茶指经烘焙的日本绿茶。烘焙说的是茶的处理方法，不是第七种茶类。"
+        },
+        "limit": {
+          "en": "Roasted does not mean decaffeinated or caffeine-free. The name also does not specify how heavily the tea was roasted.",
+          "zh-hant-hk": "烘焙不等於去咖啡因或無咖啡因；這個名字也沒有交代焙火有多深。",
+          "zh-hans": "烘焙不等于去咖啡因或无咖啡因；这个名字也没有交代焙火有多深。"
+        },
+        "guide": {
+          "choices": [
+            "tier",
+            "style",
+            "origin"
+          ],
+          "hint": {
+            "en": "The packet gives two names for the same product and a separate tea-type word.",
+            "zh-hant-hk": "包裝以兩種寫法標出同一產品，另外也寫了茶類。",
+            "zh-hans": "包装以两种写法标出同一产品，另外也写了茶类。"
+          },
+          "source": "#label-japanese-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Green tea",
+          "zh-hant-hk": "綠茶",
+          "zh-hans": "绿茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Green tea is one of the six manufactured tea types. A named style or added ingredient can sit alongside that type.",
+          "zh-hant-hk": "綠茶是六大成品茶類之一；包裝可以同時寫出做法名或加入的材料。",
+          "zh-hans": "绿茶是六大成品茶类之一；包装可以同时写出做法名或加入的材料。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "10 · Genmaicha pouch",
+      "zh-hant-hk": "10 · 玄米茶茶袋",
+      "zh-hans": "10 · 玄米茶茶袋"
+    },
+    "context": {
+      "en": "Fictional pouch: Genmaicha · Green tea. Ingredients: green tea, roasted rice. No proportions are listed.",
+      "zh-hant-hk": "虛構茶袋：玄米茶 · 綠茶。成分：綠茶、炒米。未列比例。",
+      "zh-hans": "虚构茶袋：玄米茶 · 绿茶。成分：绿茶、炒米。未列比例。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "Genmaicha",
+          "zh-hant-hk": "玄米茶",
+          "zh-hans": "玄米茶"
+        },
+        "answers": [
+          "blend"
+        ],
+        "why": {
+          "en": "Genmaicha is green tea mixed with roasted rice. This packet’s ingredients confirm that mixture, rather than a rice-only drink.",
+          "zh-hant-hk": "玄米茶是綠茶加炒米。這張成分表確認兩者都有，不是只用米做的飲品。",
+          "zh-hans": "玄米茶是绿茶加炒米。这张成分表确认两者都有，不是只用米做的饮品。"
+        },
+        "limit": {
+          "en": "The name does not specify the tea-to-rice ratio, the green-tea style, or the caffeine in a serving.",
+          "zh-hant-hk": "這個名字沒有交代茶與米的比例、綠茶的做法或每份飲品的咖啡因含量。",
+          "zh-hans": "这个名字没有交代茶与米的比例、绿茶的做法或每份饮品的咖啡因含量。"
+        },
+        "guide": {
+          "choices": [
+            "particle",
+            "origin",
+            "blend"
+          ],
+          "hint": {
+            "en": "Look at the ingredients; no amounts are printed.",
+            "zh-hant-hk": "看看成分；包裝沒有列出份量。",
+            "zh-hans": "看看成分；包装没有列出分量。"
+          },
+          "source": "#label-japanese-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Green tea",
+          "zh-hant-hk": "綠茶",
+          "zh-hans": "绿茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Green tea is one of the six manufactured tea types. A named style or added ingredient can sit alongside that type.",
+          "zh-hant-hk": "綠茶是六大成品茶類之一；包裝可以同時寫出做法名或加入的材料。",
+          "zh-hans": "绿茶是六大成品茶类之一；包装可以同时写出做法名或加入的材料。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "11 · Tieguanyin tin",
+      "zh-hant-hk": "11 · 鐵觀音茶罐",
+      "zh-hans": "11 · 铁观音茶罐"
+    },
+    "context": {
+      "en": "Fictional tin: Tieguanyin · Oolong tea. No grower, plant variety, or roasting details are given.",
+      "zh-hant-hk": "虛構茶罐：鐵觀音 · 烏龍茶。沒有種植者、茶樹品種或烘焙詳情。",
+      "zh-hans": "虚构茶罐：铁观音 · 乌龙茶。没有种植者、茶树品种或烘焙详情。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "Tieguanyin",
+          "zh-hant-hk": "鐵觀音",
+          "zh-hans": "铁观音"
+        },
+        "answers": [
+          "style"
+        ],
+        "why": {
+          "en": "Here Tieguanyin names an oolong tradition on a finished-tea packet. The separate “Oolong tea” wording gives the manufactured type.",
+          "zh-hant-hk": "在這張成品茶包裝上，鐵觀音是烏龍茶的傳統做法名；旁邊的「烏龍茶」則寫出成品茶類。",
+          "zh-hans": "在这张成品茶包装上，铁观音是乌龙茶的传统做法名；旁边的“乌龙茶”则写出成品茶类。"
+        },
+        "limit": {
+          "en": "The name alone cannot verify origin, cultivar, oxidation level, or roast level. Producers differ.",
+          "zh-hant-hk": "單靠名字不能核實產地、品種、氧化程度或焙火程度；不同生產者的做法會有差別。",
+          "zh-hans": "单靠名字不能核实产地、品种、氧化程度或焙火程度；不同生产者的做法会有差别。"
+        },
+        "guide": {
+          "choices": [
+            "type",
+            "style",
+            "tier"
+          ],
+          "hint": {
+            "en": "Read this as wording on a finished-tea tin, alongside “Oolong tea.”",
+            "zh-hant-hk": "把它當作成品茶罐上的字，和「烏龍茶」一起看。",
+            "zh-hans": "把它当作成品茶罐上的字，和“乌龙茶”一起看。"
+          },
+          "source": "#label-chinese-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Oolong tea",
+          "zh-hant-hk": "烏龍茶",
+          "zh-hans": "乌龙茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Oolong is one of the six manufactured types, with partial oxidation. It includes different traditions rather than one fixed level of oxidation.",
+          "zh-hant-hk": "烏龍是六大成品茶類之一，經過部分氧化。它包含多種傳統做法，不是固定在某一個氧化程度。",
+          "zh-hans": "乌龙是六大成品茶类之一，经过部分氧化。它包含多种传统做法，不是固定在某一个氧化程度。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "12 · Ripe Pu-erh wrapper",
+      "zh-hant-hk": "12 · 熟普洱茶包裝",
+      "zh-hans": "12 · 熟普洱茶包装"
+    },
+    "context": {
+      "en": "Fictional wrapper: Pu-erh · Shou (ripe) · Dark tea. No production year is printed.",
+      "zh-hant-hk": "虛構包裝：普洱 · 熟茶 · 黑茶。未印生產年份。",
+      "zh-hans": "虚构包装：普洱 · 熟茶 · 黑茶。未印生产年份。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "Shou (ripe)",
+          "zh-hant-hk": "熟茶",
+          "zh-hans": "熟茶"
+        },
+        "answers": [
+          "style"
+        ],
+        "why": {
+          "en": "Shou identifies the ripe processing method for Pu-erh, distinct from sheng (raw). It is a way the tea is made, not a statement of its age.",
+          "zh-hant-hk": "熟茶指出普洱的熟茶製法，與生茶不同。它說的是製茶方法，不是茶的年齡。",
+          "zh-hans": "熟茶指出普洱的熟茶制法，与生茶不同。它说的是制茶方法，不是茶的年龄。"
+        },
+        "limit": {
+          "en": "“Ripe” does not tell you the production year, storage conditions, quality rank, or health effects.",
+          "zh-hant-hk": "「熟」沒有告訴你生產年份、儲存情況、品質等級或健康功效。",
+          "zh-hans": "“熟”没有告诉你生产年份、储存情况、品质等级或健康功效。"
+        },
+        "guide": {
+          "choices": [
+            "tier",
+            "origin",
+            "style"
+          ],
+          "hint": {
+            "en": "There is no year beside this word. Read it with “Pu-erh.”",
+            "zh-hant-hk": "這個詞旁邊沒有年份。把它和「普洱」一起看。",
+            "zh-hans": "这个词旁边没有年份。把它和“普洱”一起看。"
+          },
+          "source": "#label-chinese-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Dark tea",
+          "zh-hant-hk": "黑茶",
+          "zh-hans": "黑茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Dark tea is the manufactured-type label used here for ripe Pu-erh. It includes microbial fermentation and is different from English “black tea,” which is 紅茶.",
+          "zh-hant-hk": "這裏以黑茶標出熟普洱的成品茶類，製作涉及微生物發酵。黑茶的英文是 dark tea，不是指紅茶的 black tea。",
+          "zh-hans": "这里以黑茶标出熟普洱的成品茶类，制作涉及微生物发酵。黑茶的英文是 dark tea，不是指红茶的 black tea。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "13 · Ceylon tea packet",
+      "zh-hant-hk": "13 · 錫蘭茶包裝",
+      "zh-hans": "13 · 锡兰茶包装"
+    },
+    "context": {
+      "en": "Fictional packet: Ceylon · Black tea. No estate, district, or harvest is listed.",
+      "zh-hant-hk": "虛構包裝：錫蘭 · 紅茶。未列茶園、產區或採收資料。",
+      "zh-hans": "虚构包装：锡兰 · 红茶。未列茶园、产区或采收信息。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "Ceylon",
+          "zh-hant-hk": "錫蘭",
+          "zh-hans": "锡兰"
+        },
+        "answers": [
+          "origin"
+        ],
+        "why": {
+          "en": "In tea trade, Ceylon is an origin name for Sri Lanka. The separate “Black tea” wording tells you the type.",
+          "zh-hant-hk": "在茶葉貿易中，錫蘭是指斯里蘭卡的產地名；旁邊的「紅茶」才說明茶類。",
+          "zh-hans": "在茶叶贸易中，锡兰是指斯里兰卡的产地名；旁边的“红茶”才说明茶类。"
+        },
+        "limit": {
+          "en": "The name alone does not verify origin or identify an estate, district, harvest, or quality rank.",
+          "zh-hant-hk": "單靠名字不能核實產地，也不能辨認茶園、產區、採收批次或品質等級。",
+          "zh-hans": "单靠名字不能核实产地，也不能辨认茶园、产区、采收批次或品质等级。"
+        },
+        "guide": {
+          "choices": [
+            "blend",
+            "origin",
+            "type"
+          ],
+          "hint": {
+            "en": "Read the two words separately; the packet gives no further details.",
+            "zh-hant-hk": "把兩個詞分開看；包裝沒有提供更多詳情。",
+            "zh-hans": "把两个词分开看；包装没有提供更多详情。"
+          },
+          "source": "#label-western-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Black tea",
+          "zh-hant-hk": "紅茶",
+          "zh-hans": "红茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Black tea is one of the six manufactured types. In Chinese it is 紅茶, distinct from 黑茶 (dark tea).",
+          "zh-hant-hk": "紅茶是六大成品茶類之一，英文是 black tea；它與黑茶（dark tea）不同。",
+          "zh-hans": "红茶是六大成品茶类之一，英文是 black tea；它与黑茶（dark tea）不同。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "14 · Sencha leaf packet",
+      "zh-hant-hk": "14 · 煎茶茶葉包裝",
+      "zh-hans": "14 · 煎茶茶叶包装"
+    },
+    "context": {
+      "en": "Fictional packet: Sencha · Green tea. No steaming time or growing location is listed.",
+      "zh-hant-hk": "虛構包裝：煎茶 · 綠茶。未列蒸製時間或種植地點。",
+      "zh-hans": "虚构包装：煎茶 · 绿茶。未列蒸制时间或种植地点。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "Sencha",
+          "zh-hant-hk": "煎茶",
+          "zh-hans": "煎茶"
+        },
+        "answers": [
+          "style"
+        ],
+        "why": {
+          "en": "Sencha is a Japanese green-tea style. The leaves are typically steamed, then rolled and dried; the name is not a leaf-size grade.",
+          "zh-hant-hk": "煎茶是日本綠茶的一種做法，茶葉通常先蒸，再揉捻和乾燥；這個名字不是茶葉大小的等級。",
+          "zh-hans": "煎茶是日本绿茶的一种做法，茶叶通常先蒸，再揉捻和干燥；这个名字不是茶叶大小的等级。"
+        },
+        "limit": {
+          "en": "The name does not give the steaming duration, verify where the leaves grew, or promise a particular taste.",
+          "zh-hant-hk": "這個名字沒有交代蒸製時間，不能核實種植地點，也不保證某一種味道。",
+          "zh-hans": "这个名字没有交代蒸制时间，不能核实种植地点，也不保证某一种味道。"
+        },
+        "guide": {
+          "choices": [
+            "style",
+            "particle",
+            "origin"
+          ],
+          "hint": {
+            "en": "This word is printed separately from “Green tea.”",
+            "zh-hant-hk": "這個詞和「綠茶」分開印在包裝上。",
+            "zh-hans": "这个词和“绿茶”分开印在包装上。"
+          },
+          "source": "#label-japanese-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Green tea",
+          "zh-hant-hk": "綠茶",
+          "zh-hans": "绿茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Green tea is one of the six manufactured tea types. A named style or added ingredient can sit alongside that type.",
+          "zh-hant-hk": "綠茶是六大成品茶類之一；包裝可以同時寫出做法名或加入的材料。",
+          "zh-hans": "绿茶是六大成品茶类之一；包装可以同时写出做法名或加入的材料。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  },
+  {
+    "name": {
+      "en": "15 · English Breakfast box",
+      "zh-hant-hk": "15 · 英式早餐茶盒",
+      "zh-hans": "15 · 英式早餐茶盒"
+    },
+    "context": {
+      "en": "Fictional box: English Breakfast · Black tea. Ingredients: a blend of black teas. No origins or proportions are given.",
+      "zh-hant-hk": "虛構茶盒：英式早餐茶 · 紅茶。成分：多款紅茶拼配。未列產地或比例。",
+      "zh-hans": "虚构茶盒：英式早餐茶 · 红茶。成分：多款红茶拼配。未列产地或比例。"
+    },
+    "clues": [
+      {
+        "word": {
+          "en": "English Breakfast",
+          "zh-hant-hk": "英式早餐茶",
+          "zh-hans": "英式早餐茶"
+        },
+        "answers": [
+          "blend"
+        ],
+        "why": {
+          "en": "English Breakfast usually names a black-tea blend. This ingredient list confirms a mixture, not that the leaves were grown in England or must be drunk at breakfast.",
+          "zh-hant-hk": "英式早餐茶通常是紅茶拼配名。這張成分表確認用了混合茶葉，不是說茶在英格蘭種植，也不是說只能早餐時喝。",
+          "zh-hans": "英式早餐茶通常是红茶拼配名。这张成分表确认用了混合茶叶，不是说茶在英格兰种植，也不是说只能早餐时喝。"
+        },
+        "limit": {
+          "en": "There is no single fixed recipe. The name alone does not identify the origins, proportions, or strength of a brewed cup.",
+          "zh-hant-hk": "它沒有單一固定配方。單靠名字不能知道產地、比例或沖出來有多濃。",
+          "zh-hans": "它没有单一固定配方。单靠名字不能知道产地、比例或冲出来有多浓。"
+        },
+        "guide": {
+          "choices": [
+            "preparation",
+            "blend",
+            "origin"
+          ],
+          "hint": {
+            "en": "Read the name together with the ingredients on this box.",
+            "zh-hant-hk": "把名字和茶盒上的成分一起看。",
+            "zh-hans": "把名字和茶盒上的成分一起看。"
+          },
+          "source": "#label-western-names"
+        }
+      },
+      {
+        "word": {
+          "en": "Black tea",
+          "zh-hant-hk": "紅茶",
+          "zh-hans": "红茶"
+        },
+        "answers": [
+          "type"
+        ],
+        "why": {
+          "en": "Black tea is one of the six manufactured types. In Chinese it is 紅茶, distinct from 黑茶 (dark tea).",
+          "zh-hant-hk": "紅茶是六大成品茶類之一，英文是 black tea；它與黑茶（dark tea）不同。",
+          "zh-hans": "红茶是六大成品茶类之一，英文是 black tea；它与黑茶（dark tea）不同。"
+        },
+        "limit": {
+          "en": "A tea type does not give the leaf dose, brewing method, or measured caffeine in your cup.",
+          "zh-hant-hk": "茶類名沒有交代茶葉用量、沖泡方法或杯中咖啡因的實測含量。",
+          "zh-hans": "茶类名没有交代茶叶用量、冲泡方法或杯中咖啡因的实测含量。"
+        },
+        "guide": {
+          "choices": [
+            "origin",
+            "type",
+            "preparation"
+          ],
+          "hint": {
+            "en": "Read this alongside the other words on the packet.",
+            "zh-hant-hk": "把這個詞和包裝上的其他字一起看。",
+            "zh-hans": "把这个词和包装上的其他字一起看。"
+          },
+          "source": "#type-map"
+        }
+      }
+    ]
+  }
+];
+  labels.push(...additionalLabels);
+  guides.push(...additionalLabels.map(label => label.clues.map(item => item.guide)));
+  const featuredClues = [1, 2, 0, 0, 0, 2, 1];
+
   let instance = 0;
   function mount(host) {
     if (host.dataset.teaDetectiveReady) return;
     const locale = Object.hasOwn(categories.origin, host.dataset.locale) ? host.dataset.locale : 'en';
     const t = value => value[locale];
+    const fill = (value, values) => Object.entries(values).reduce((text, [key, replacement]) => text.replaceAll(`{${key}}`, String(replacement)), t(value));
     const id = `tea-detective-${++instance}`;
-    let labelIndex = 0;
     const positions = labels.map(() => 0);
-    const answers = labels.map(label => label.clues.map(() => ({ choice: '', checked: false })));
+    const freshAnswer = () => ({ choice: '', checked: false });
+    const answers = labels.map(label => label.clues.map(freshAnswer));
+    let deck = [], round = [], roundAnswers = [], roundPosition = 0, roundNumber = 0;
+    let labelIndex = 0, mode = 'round', resumeMode = 'round', roundComplete = false;
+    const featured = index => Math.min(featuredClues[index] || 0, labels[index].clues.length - 1);
+    function mix() {
+      deck = labels.map((_, index) => index);
+      for (let index = deck.length - 1; index > 0; index--) {
+        const other = Math.floor(Math.random() * (index + 1));
+        [deck[index], deck[other]] = [deck[other], deck[index]];
+      }
+      roundNumber = 0;
+    }
+    function deal() {
+      round = deck.splice(0, 5);
+      roundAnswers = round.map(freshAnswer);
+      roundPosition = 0; roundNumber++; roundComplete = false; mode = 'round';
+    }
+    mix(); deal();
     const el = (tag, text, className) => {
       const node = document.createElement(tag);
       if (text !== undefined) node.textContent = text;
       if (className) node.className = className;
       return node;
     };
-    const button = (text, handler) => {
+    const button = (text, handler, action) => {
       const node = el('button', text, 'tea-lab-button');
       node.type = 'button';
+      if (action) node.dataset.action = action;
       node.addEventListener('click', handler);
       return node;
     };
     const root = el('section', undefined, 'tea-lab-detective');
     root.lang = locale === 'zh-hant-hk' ? 'zh-Hant-HK' : locale === 'zh-hans' ? 'zh-Hans' : 'en';
-    const title = el('h3', t(ui.title));
-    title.id = `${id}-title`;
+    const title = el('h3', t(ui.title)); title.id = `${id}-title`;
     root.setAttribute('aria-labelledby', title.id);
-    root.append(title, el('p', t(ui.intro)), el('p', t(ui.shortDisclosure), 'tea-lab-detective-note'));
+    root.append(title, el('p', t(ui.intro)), el('p', t(ui.noRepeats), 'tea-lab-detective-note'));
     const picker = el('details', undefined, 'tea-lab-detective-picker');
-    picker.append(el('summary', t(ui.choose)));
+    picker.append(el('summary', fill(ui.choose, { total: labels.length })));
     const labelChoices = el('div', undefined, 'tea-lab-detective-labels');
+    function explore(index) { if (mode !== 'explore') resumeMode = mode; labelIndex = index; mode = 'explore'; picker.open = false; render(true); }
     const labelButtons = labels.map((item, index) => {
-      const choice = button(t(item.name), () => {
-        labelIndex = index;
-        picker.open = false;
-        render(true);
-      });
-      choice.dataset.labelIndex = String(index);
-      labelChoices.append(choice);
-      return choice;
+      const choice = button(t(item.name), () => explore(index));
+      choice.dataset.labelIndex = String(index); labelChoices.append(choice); return choice;
     });
     picker.append(labelChoices);
+    const returnBar = el('div', undefined, 'tea-lab-detective-return');
+    returnBar.append(el('p', t(ui.explorePause), 'tea-lab-detective-note'), button(t(ui.returnRound), () => {
+      mode = resumeMode; render(true);
+    }, 'return-round'));
     const panel = el('div', undefined, 'tea-lab-detective-panel');
-    // The persistent live region announces feedback after each answer tap.
     const status = el('p', '', 'tea-lab-detective-status');
-    status.setAttribute('role', 'status');
-    status.setAttribute('aria-atomic', 'true');
-    root.append(picker, panel, status);
+    status.setAttribute('role', 'status'); status.setAttribute('aria-atomic', 'true');
+    root.append(picker, returnBar, panel, status);
     const about = el('details', undefined, 'tea-lab-detective-about');
-    about.append(el('summary', t(ui.about)), el('p', t(ui.disclosure)), el('p', t(ui.uncertainty)), el('p', t(ui.saved)));
+    about.append(el('summary', t(ui.about)), el('p', t(ui.shortDisclosure)), el('p', t(ui.disclosure)), el('p', t(ui.uncertainty)), el('p', t(ui.saved)));
     root.append(about);
     const references = el('p', t(ui.references), 'tea-lab-detective-note');
     [['#type-map', ui.map], ['#grades', ui.grades]].forEach(([href, text], index) => {
       if (index) references.append(document.createTextNode(' · '));
-      const link = el('a', t(text));
-      link.href = href;
-      references.append(link);
-    });
-    root.append(references);
-
+      const link = el('a', t(text)); link.href = href; references.append(link);
+    }); root.append(references);
+    function renderSummary(moveFocus) {
+      const summary = el('div', undefined, 'tea-lab-detective-summary');
+      const summaryRound = roundNumber;
+      const heading = el('h4', fill(ui.summaryTitle, { count: round.length })); heading.tabIndex = -1;
+      summary.append(heading, el('p', t(ui.summaryIntro)));
+      const list = el('ol');
+      round.forEach(index => {
+        const item = labels[index].clues[featured(index)];
+        const row = el('li');
+        row.append(el('strong', t(item.word) + ': ' + item.answers.map(key => t(categories[key])).join(' / ')), el('p', t(item.why)));
+        list.append(row);
+      }); summary.append(list, el('p', fill(ui.poolProgress, { seen: labels.length - deck.length, total: labels.length }), 'tea-lab-detective-note'));
+      const actions = el('div', undefined, 'tea-lab-detective-actions');
+      actions.append(button(t(ui.reviewRound), () => { mode = 'round'; roundPosition = 0; render(true); }, 'review-round'));
+      if (deck.length) {
+        actions.append(button(deck.length >= 5 ? t(ui.more) : fill(ui.moreShort, { count: deck.length }), () => {
+          if (mode !== 'summary' || !roundComplete || summaryRound !== roundNumber || !deck.length) return;
+          deal(); render(true);
+        }, 'more'));
+      } else {
+        summary.append(el('p', t(ui.exhausted), 'tea-lab-detective-note'));
+        actions.append(button(t(ui.reshuffle), () => { if (mode !== 'summary' || !roundComplete || summaryRound !== roundNumber) return; mix(); deal(); render(true); }, 'reshuffle'));
+      }
+      summary.append(actions); panel.replaceChildren(summary);
+      if (moveFocus) heading.focus();
+    }
     function render(moveFocus) {
-      status.textContent = '';
-      labelButtons.forEach((choice, index) => choice.setAttribute('aria-pressed', String(index === labelIndex)));
-      const packet = labels[labelIndex];
-      const clueIndex = positions[labelIndex];
+      status.textContent = ''; panel.dataset.mode = mode; returnBar.hidden = mode !== 'explore';
+      const activeIndex = mode === 'round' ? round[roundPosition] : labelIndex;
+      labelButtons.forEach((choice, index) => choice.setAttribute('aria-pressed', String(mode !== 'summary' && index === activeIndex)));
+      if (mode === 'summary') { delete panel.dataset.labelIndex; delete panel.dataset.clueIndex; renderSummary(moveFocus); return; }
+      const packet = labels[activeIndex];
+      const clueIndex = mode === 'round' ? featured(activeIndex) : positions[activeIndex];
       const current = packet.clues[clueIndex];
-      const state = answers[labelIndex][clueIndex];
-      const support = guides[labelIndex][clueIndex];
+      const state = mode === 'round' ? roundAnswers[roundPosition] : answers[activeIndex][clueIndex];
+      const support = guides[activeIndex][clueIndex];
+      panel.dataset.labelIndex = String(activeIndex); panel.dataset.clueIndex = String(clueIndex);
       const content = document.createDocumentFragment();
-      const progress = t(ui.progress).replace('{label}', String(labelIndex + 1)).replace('{word}', String(clueIndex + 1)).replace('{count}', String(packet.clues.length));
+      const progress = mode === 'round' ? fill(ui.roundProgress, { round: roundNumber, label: roundPosition + 1, count: round.length }) : fill(ui.progress, { label: activeIndex + 1, total: labels.length, word: clueIndex + 1, count: packet.clues.length });
       content.append(el('p', progress, 'tea-lab-detective-progress'), el('p', t(packet.context), 'tea-lab-detective-packet'));
-      const clues = el('fieldset', undefined, 'tea-lab-detective-clues');
-      clues.append(el('legend', t(ui.clues)));
-      packet.clues.forEach((item, index) => {
-        const choice = button(t(item.word), () => { positions[labelIndex] = index; render(true); });
-        choice.setAttribute('aria-pressed', String(index === clueIndex));
-        clues.append(choice);
-      });
-      content.append(clues);
-      const heading = el('h4', t(ui.question).replace('{word}', t(current.word)));
-      heading.id = `${id}-question`;
-      heading.tabIndex = -1;
+      if (mode === 'explore') {
+        const clues = el('fieldset', undefined, 'tea-lab-detective-clues'); clues.append(el('legend', t(ui.clues)));
+        packet.clues.forEach((item, index) => {
+          const choice = button(t(item.word), () => { positions[activeIndex] = index; render(true); });
+          choice.setAttribute('aria-pressed', String(index === clueIndex)); clues.append(choice);
+        }); content.append(clues);
+      }
+      const heading = el('h4', t(ui.question).replace('{word}', t(current.word))); heading.id = `${id}-question`; heading.tabIndex = -1;
       const hint = el('p', t(ui.hint) + t(support.hint), 'tea-lab-detective-hint'); hint.id = `${id}-hint`;
       content.append(heading, hint);
-      const classification = el('fieldset', undefined, 'tea-lab-detective-classification');
-      classification.append(el('legend', t(ui.classify)));
+      const classification = el('fieldset', undefined, 'tea-lab-detective-classification'); classification.append(el('legend', t(ui.classify)));
       classification.setAttribute('aria-labelledby', heading.id); classification.setAttribute('aria-describedby', hint.id);
       const categoryChoices = el('div', undefined, 'tea-lab-detective-categories');
       const categoryButtons = support.choices.map(value => {
-        const text = categories[value];
-        const choice = button(t(text), () => {
-          state.choice = value;
-          state.checked = true;
+        const choice = button(t(categories[value]), () => {
+          state.choice = value; state.checked = true;
           categoryButtons.forEach(item => item.setAttribute('aria-pressed', String(item.dataset.category === value)));
-          showFeedback();
-          status.textContent = announcement();
-        });
-        choice.dataset.category = value;
-        choice.setAttribute('aria-pressed', String(state.choice === value));
-        categoryChoices.append(choice);
-        return choice;
-      });
-      classification.append(categoryChoices);
-      const feedback = el('div', undefined, 'tea-lab-detective-feedback');
-      feedback.id = `${id}-feedback`;
+          showFeedback(); status.textContent = announcement();
+        }); choice.dataset.category = value; choice.setAttribute('aria-pressed', String(state.choice === value)); categoryChoices.append(choice); return choice;
+      }); classification.append(categoryChoices);
+      const feedback = el('div', undefined, 'tea-lab-detective-feedback'); feedback.id = `${id}-feedback`;
+      let nextRoundButton = null;
+      const unlockHint = el('p', t(ui.answerFirst), 'tea-lab-detective-note');
       function announcement() {
-        const title = !state.choice ? ui.revealed : current.answers.includes(state.choice) ? ui.match : ui.rethink;
-        return [t(title), t(ui.accepted), current.answers.map(key => t(categories[key])).join(' / '), t(current.why), t(ui.limits), t(current.limit)].join(' ');
+        const text = !state.choice ? ui.revealed : current.answers.includes(state.choice) ? ui.match : ui.rethink;
+        return [t(text), t(ui.accepted), current.answers.map(key => t(categories[key])).join(' / '), t(current.why), t(ui.limits), t(current.limit)].join(' ');
       }
       function showFeedback() {
-        feedback.replaceChildren();
-        retry.hidden = !state.checked; reveal.hidden = state.checked;
+        feedback.replaceChildren(); retry.hidden = !state.checked; reveal.hidden = state.checked;
+        if (nextRoundButton) nextRoundButton.disabled = !state.checked;
+        unlockHint.hidden = state.checked || mode !== 'round';
         if (!state.checked) return null;
-        const title = el('h5', t(!state.choice ? ui.revealed : current.answers.includes(state.choice) ? ui.match : ui.rethink)); title.tabIndex = -1;
+        const text = !state.choice ? ui.revealed : current.answers.includes(state.choice) ? ui.match : ui.rethink;
+        const feedbackTitle = el('h5', t(text)); feedbackTitle.tabIndex = -1;
         const source = el('a', t(ui.readMore)); source.href = support.source;
         const sourceLine = el('p'); sourceLine.append(source);
-        feedback.append(title, el('p', t(ui.accepted) + current.answers.map(key => t(categories[key])).join(' / ')),
-          el('p', t(current.why)), el('strong', t(ui.limits)), el('p', t(current.limit)), sourceLine);
-        return title;
+        feedback.append(feedbackTitle, el('p', t(ui.accepted) + current.answers.map(key => t(categories[key])).join(' / ')), el('p', t(current.why)), el('strong', t(ui.limits)), el('p', t(current.limit)), sourceLine);
+        return feedbackTitle;
       }
       const actions = el('div', undefined, 'tea-lab-detective-actions');
       const reveal = button(t(ui.unsure), () => {
-        state.choice = ''; state.checked = true;
-        categoryButtons.forEach(choice => choice.setAttribute('aria-pressed', 'false'));
+        state.choice = ''; state.checked = true; categoryButtons.forEach(choice => choice.setAttribute('aria-pressed', 'false'));
         const title = showFeedback(); status.textContent = announcement(); if (title) title.focus();
-      }); reveal.dataset.action = 'reveal';
+      }, 'reveal');
       const retry = button(t(ui.retry), () => {
-        state.choice = ''; state.checked = false;
-        categoryButtons.forEach(choice => choice.setAttribute('aria-pressed', 'false'));
+        state.choice = ''; state.checked = false; categoryButtons.forEach(choice => choice.setAttribute('aria-pressed', 'false'));
         status.textContent = ''; showFeedback(); categoryButtons[0].focus();
-      }); retry.dataset.action = 'retry'; retry.hidden = !state.checked;
-      actions.append(reveal, retry);
-      content.append(classification, feedback, actions);
+      }, 'retry'); retry.hidden = !state.checked;
+      actions.append(reveal, retry); content.append(classification, feedback, actions);
       const navigation = el('div', undefined, 'tea-lab-detective-actions');
-      function step(direction) {
-        let next = positions[labelIndex] + direction;
-        if (next >= labels[labelIndex].clues.length) {
-          labelIndex = (labelIndex + 1) % labels.length;
-          next = 0;
-        } else if (next < 0) {
-          labelIndex = (labelIndex - 1 + labels.length) % labels.length;
-          next = labels[labelIndex].clues.length - 1;
+      if (mode === 'round') {
+        const positionAtRender = roundPosition, roundAtRender = roundNumber;
+        const previous = button(t(ui.previousRound), () => { if (mode === 'round' && roundAtRender === roundNumber && positionAtRender === roundPosition && roundPosition > 0) { roundPosition--; render(true); } }, 'round-prev'); previous.disabled = roundPosition === 0;
+        const last = roundPosition === round.length - 1;
+        nextRoundButton = button(last ? fill(round.length === 5 ? ui.finishRound : ui.finishShort, { count: round.length }) : t(ui.nextRound), () => {
+          if (mode !== 'round' || roundAtRender !== roundNumber || positionAtRender !== roundPosition || !state.checked) return;
+          if (roundPosition < round.length - 1) roundPosition++;
+          else { roundComplete = true; mode = 'summary'; }
+          render(true);
+        }, 'round-next'); nextRoundButton.disabled = !state.checked;
+        navigation.append(previous, nextRoundButton); content.append(navigation, unlockHint);
+        const exploreAction = el('div', undefined, 'tea-lab-detective-extra');
+        exploreAction.append(button(t(ui.otherWords), () => { positions[activeIndex] = clueIndex; explore(activeIndex); }, 'explore-label')); content.append(exploreAction);
+      } else {
+        function step(direction) {
+          let next = positions[labelIndex] + direction;
+          if (next >= labels[labelIndex].clues.length) { labelIndex = (labelIndex + 1) % labels.length; next = 0; }
+          else if (next < 0) { labelIndex = (labelIndex - 1 + labels.length) % labels.length; next = labels[labelIndex].clues.length - 1; }
+          positions[labelIndex] = next; render(true);
         }
-        positions[labelIndex] = next;
-        render(true);
+        const previousText = clueIndex > 0 ? ui.previous : labelIndex > 0 ? ui.previousLabel : ui.lastLabel;
+        const nextText = clueIndex < packet.clues.length - 1 ? ui.next : labelIndex < labels.length - 1 ? ui.nextLabel : ui.firstLabel;
+        navigation.append(button(t(previousText), () => step(-1), 'explore-prev'), button(t(nextText), () => step(1), 'explore-next')); content.append(navigation);
       }
-      const previousText = clueIndex > 0 ? ui.previous : labelIndex > 0 ? ui.previousLabel : ui.lastLabel;
-      const nextText = clueIndex < packet.clues.length - 1 ? ui.next : labelIndex < labels.length - 1 ? ui.nextLabel : ui.firstLabel;
-      navigation.append(button(t(previousText), () => step(-1)), button(t(nextText), () => step(1)));
-      content.append(navigation);
-      panel.replaceChildren(content);
-      showFeedback();
-      if (moveFocus) heading.focus();
+      panel.replaceChildren(content); showFeedback(); if (moveFocus) heading.focus();
     }
-    render(false);
-    host.replaceChildren(root);
-    host.dataset.teaDetectiveReady = 'true';
+    render(false); host.replaceChildren(root); host.dataset.teaDetectiveReady = 'true';
   }
   function init() {
     document.querySelectorAll('[data-tea-detective]').forEach(host => {
