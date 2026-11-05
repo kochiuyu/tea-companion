@@ -16,6 +16,36 @@ lang: zh-Hans
 [首页](../../index.qmd) · [章节地图](../../modules/index.qmd)
 :::
 <!-- reader-guide:end -->
+
+<!-- tea-time-machine:start -->
+## 试一试：乘时光机看茶史 {#tea-time-machine}
+
+```{=html}
+<link rel="stylesheet" href="../../../assets/tea-time-machine.css">
+<script src="../../../assets/tea-time-machine-data.js" defer></script>
+<script src="../../../assets/tea-time-machine.js" defer></script>
+<div data-tea-time-machine data-locale="zh-hans">
+<h3>茶叶时光机</h3>
+<p>五个站、两个按钮，每次认识一个故事。神秘事件比已标日期的卡片更早，还是更晚？不用背年份，随时可以看提示或揭开故事。</p>
+<p>即使互动游戏无法载入，你仍可阅读下面的完整时间线。</p>
+<details class="tea-time-fallback"><summary>阅读全部八个故事与来源</summary>
+<ol>
+<li data-event-id="lu-yu"><p class="tea-time-date">约760–780年</p><h5>陆羽写《茶经》</h5><p>陆羽在唐代中国整理了茶与制茶、饮茶的知识。《茶经》的成书时间并非精确日期，这里采用约760至780年。这是茶书的重要里程碑，不是人类开始饮茶的时刻。</p><p class="tea-time-source">查看来源：<a href="https://www.educationaboutasia.org/article/id/861/print/">《Education About Asia》：世界史中的中国茶</a></p></li>
+<li data-event-id="eisai"><p class="tea-time-date">1191年</p><h5>荣西带茶种返回日本</h5><p>僧人荣西在1191年从中国带回茶种与饮茶知识。茶在此之前已传到日本。他的旅程是长期交流的一环，并非日本茶文化的起点。</p><p class="tea-time-source">查看来源：<a href="https://www.fivecolleges.edu/community/center-east-asian-studies/japanese-tea-ceremony/history-tea">五校联盟东亚研究中心：茶的历史</a> · <a href="https://www.educationaboutasia.org/article/id/861/print/">更早的日本茶交流</a></p></li>
+<li data-event-id="london-ad"><p class="tea-time-date">1658年</p><h5>伦敦报纸刊登茶广告</h5><p>1658年9月，《Mercurius Politicus》在伦敦刊登茶广告。广告的健康承诺反映当时的推销方式，不能当作医学证据。这个日期指的是一则广告，不是茶首次抵达欧洲。</p><p class="tea-time-source">查看来源：<a href="https://merl.reading.ac.uk/explore/online-exhibitions/tea-culture-in-our-collections/">英国乡村生活博物馆：馆藏中的茶文化</a></p></li>
+<li data-event-id="boston"><p class="tea-time-date">1773年12月16日</p><h5>波士顿港的茶被倒入海中</h5><p>抗议者把东印度公司的342箱茶倒入波士顿港，这件事后来被称为波士顿倾茶事件。茶牵涉的是税制、贸易与政治权力的争议，不只是口味。</p><p class="tea-time-source">查看来源：<a href="https://www.nps.gov/articles/000/boston-tea-party-in-real-time.htm">美国国家公园管理局：波士顿倾茶事件时间线</a></p></li>
+<li data-event-id="assam"><p class="tea-time-date">1839年1月10日</p><h5>阿萨姆茶在伦敦拍卖</h5><p>1838年从阿萨姆运出的八箱茶，在1839年1月于伦敦拍卖。景颇社群早已认识、制作和饮用当地茶。这个商业里程碑比福钧1848年的任务更早；两者都不是印度茶的起点。</p><p class="tea-time-source">查看来源：<a href="https://www.kkhsou.ac.in/web/teaworld/page-details-part.php?page=9d34bb5c4a06966fcf6ceb4bf">KKHSOU Tea World：阿萨姆茶，第七课</a></p></li>
+<li data-event-id="fortune"><p class="tea-time-date">1848年</p><h5>福钧展开赴华取茶任务</h5><p>东印度公司在1848年派福钧到中国，为英国管理的印度茶园取得茶种、茶苗与制茶知识。转移工作延续了数年，依靠中国技艺，也发生在印度已有茶业的背景下，并非把茶带到一片原本没有茶的土地。</p><p class="tea-time-source">查看来源：<a href="https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india">英国皇家植物园邱园：从中国到印度</a></p></li>
+<li data-event-id="cutty-sark"><p class="tea-time-date">1869年11月22日</p><h5>运茶快帆船卡蒂萨克号下水</h5><p>卡蒂萨克号在1869年于苏格兰下水，设计用途是中国与英国之间的茶叶运输。首航则在1870年。下水与首次载货是不同事件，看时间线时要留意日期指的是哪一步。</p><p class="tea-time-source">查看来源：<a href="https://nmmc.co.uk/2019/11/150-years-of-the-cutty-sark/">康沃尔国家海事博物馆：卡蒂萨克号150年</a></p></li>
+<li data-event-id="unesco"><p class="tea-time-date">2022年</p><h5>中国茶技艺与习俗列入联合国教科文组织非遗名录</h5><p>联合国教科文组织在2022年把“中国传统制茶技艺及其相关习俗”列入人类非物质文化遗产代表作名录。认可的是技艺与共同实践。这是列入名录的年份，不是传统诞生的年份，也不是茶文化排名。</p><p class="tea-time-source">查看来源：<a href="https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884">联合国教科文组织：传统制茶技艺及相关习俗</a></p></li>
+</ol>
+</details>
+<p>这只是几个路标，不是完整的世界茶史。先发生不等于造成后来的事。年份均为公元，约数会标明。不计分、不计时，也不储存答案。</p>
+</div>
+<span id="tea-time-reading"></span>
+```
+<!-- tea-time-machine:end -->
+
 ::: {.zh-door-nav}
 **本站中文入口：** [首页](../../index.qmd) · [茶叶入门](../../tea-basics.qmd) · [茶叶标签](../../tea-labels.qmd) · [杯量参考](../../cup-reference.qmd) · [词汇表](../../glossary.qmd) · [章节总览](../../modules/index.qmd) · [第一章](../module-01/index.qmd) · [第二章](../module-02/index.qmd) · [第三章](../module-03/index.qmd) · [第四章](../module-04/index.qmd) · [第五章](../module-05/index.qmd) · [联结桥梁](../../linkages.qmd) · [参考文献](../../bibliography.qmd)
 :::

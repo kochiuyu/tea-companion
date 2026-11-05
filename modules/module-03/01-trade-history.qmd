@@ -16,6 +16,36 @@ A modest tea bag is a good place to begin an immodest history. Follow the trade 
 :::
 <!-- reader-guide:end -->
 
+<!-- tea-time-machine:start -->
+## Try it: travel through tea history {#tea-time-machine}
+
+```{=html}
+<link rel="stylesheet" href="../../assets/tea-time-machine.css">
+<script src="../../assets/tea-time-machine-data.js" defer></script>
+<script src="../../assets/tea-time-machine.js" defer></script>
+<div data-tea-time-machine data-locale="en">
+<h3>Tea Time Machine</h3>
+<p>Five stops, two buttons, one story at a time. Did the mystery event happen earlier or later than the dated card? No dates to memorise: use a hint or reveal the story whenever you like.</p>
+<p>You can read the full timeline below even if the interactive game is unavailable.</p>
+<details class="tea-time-fallback"><summary>Read all eight stories and sources</summary>
+<ol>
+<li data-event-id="lu-yu"><p class="tea-time-date">c. 760–780</p><h5>Lu Yu writes The Classic of Tea</h5><p>Lu Yu gathered knowledge about tea and its preparation in Tang-dynasty China. The work is dated approximately, here to 760–780. This is a landmark in tea writing, not the moment people first drank tea.</p><p class="tea-time-source">Read the source: <a href="https://www.educationaboutasia.org/article/id/861/print/">Education About Asia: Chinese Tea in World History</a></p></li>
+<li data-event-id="eisai"><p class="tea-time-date">1191</p><h5>Eisai returns to Japan with tea seeds</h5><p>The monk Eisai returned from China with tea seeds and tea knowledge in 1191. Tea had reached Japan earlier. His journey was one step in a long exchange, not the invention of Japanese tea culture.</p><p class="tea-time-source">Read the source: <a href="https://www.fivecolleges.edu/community/center-east-asian-studies/japanese-tea-ceremony/history-tea">Five College Center for East Asian Studies: History of Tea</a> · <a href="https://www.educationaboutasia.org/article/id/861/print/">Earlier tea exchanges with Japan</a></p></li>
+<li data-event-id="london-ad"><p class="tea-time-date">1658</p><h5>A London newspaper advertises tea</h5><p>A September 1658 advertisement in Mercurius Politicus promoted tea in London. Its health promises show how tea was marketed; an old advertisement is not medical evidence. This date marks an advert, not tea’s first arrival in Europe.</p><p class="tea-time-source">Read the source: <a href="https://merl.reading.ac.uk/explore/online-exhibitions/tea-culture-in-our-collections/">Museum of English Rural Life: Tea culture in our collections</a></p></li>
+<li data-event-id="boston"><p class="tea-time-date">16 December 1773</p><h5>Tea is destroyed in Boston Harbor</h5><p>Protesters destroyed 342 chests of East India Company tea in Boston Harbor. The event became known as the Boston Tea Party. Tea was caught up in disputes over taxation, trade and political power, not just taste.</p><p class="tea-time-source">Read the source: <a href="https://www.nps.gov/articles/000/boston-tea-party-in-real-time.htm">U.S. National Park Service: Boston Tea Party Timeline</a></p></li>
+<li data-event-id="assam"><p class="tea-time-date">10 January 1839</p><h5>Assam tea is auctioned in London</h5><p>Eight chests shipped from Assam in 1838 were auctioned in London in January 1839. Singpho communities already knew, made and drank local tea. This commercial milestone came before Fortune’s 1848 mission; neither event was the beginning of tea in India.</p><p class="tea-time-source">Read the source: <a href="https://www.kkhsou.ac.in/web/teaworld/page-details-part.php?page=9d34bb5c4a06966fcf6ceb4bf">KKHSOU Tea World: Assam tea, Lesson 7</a></p></li>
+<li data-event-id="fortune"><p class="tea-time-date">1848</p><h5>Fortune begins his tea mission to China</h5><p>The East India Company sent Robert Fortune to China in 1848 to obtain plants and tea-making knowledge for British-run Indian plantations. The transfers unfolded over several years. They built on Chinese expertise and an existing Indian tea industry, rather than introducing tea to an empty landscape.</p><p class="tea-time-source">Read the source: <a href="https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india">Royal Botanic Gardens, Kew: From China to India</a></p></li>
+<li data-event-id="cutty-sark"><p class="tea-time-date">22 November 1869</p><h5>The tea clipper Cutty Sark is launched</h5><p>Cutty Sark was launched in Scotland in 1869, designed for the tea trade between China and Britain. Its first voyage followed in 1870. Launching a ship and carrying its first cargo are different events, so check which date a timeline names.</p><p class="tea-time-source">Read the source: <a href="https://nmmc.co.uk/2019/11/150-years-of-the-cutty-sark/">National Maritime Museum Cornwall: 150 Years of Cutty Sark</a></p></li>
+<li data-event-id="unesco"><p class="tea-time-date">2022</p><h5>Chinese tea practices enter UNESCO’s heritage list</h5><p>UNESCO inscribed traditional tea processing techniques and associated social practices in China in 2022. The recognition concerns skills and shared practices. It dates an inscription, not the birth of those traditions or a ranking of tea cultures.</p><p class="tea-time-source">Read the source: <a href="https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884">UNESCO: Traditional tea processing techniques and social practices</a></p></li>
+</ol>
+</details>
+<p>A few signposts, not a complete world history. Earlier does not mean “caused.” Dates are CE; approximate dates are marked. No score, timer or saved answers.</p>
+</div>
+<span id="tea-time-reading"></span>
+```
+<!-- tea-time-machine:end -->
+
+
 <!-- reading-fold:start -->
 :::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
 

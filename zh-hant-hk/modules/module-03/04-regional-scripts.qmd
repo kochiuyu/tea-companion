@@ -39,6 +39,54 @@ lang: zh-Hant-HK
 :::
 ::::::::
 <!-- reading-fold:end -->
+<!-- tea-table:start -->
+## 擺好茶席 {#set-the-tea-table}
+
+```{=html}
+<link rel="stylesheet" href="../../../assets/tea-table-game.css">
+<div data-tea-table data-locale="zh-hant-hk">
+<div class="tea-table-fallback">
+<p>沒有 JavaScript 也可比較以下三張示例茶桌。留意每個出處描述的器具、節奏和目的，不要把例子當成普遍規則。</p>
+<h3>潮汕日常茶桌</h3>
+<p>朋友圍着小壺而坐，茶泡了一輪又一輪，話題也繼續。試擺出 d’Abbs 田野研究中的日常場景。</p>
+<ul>
+<li><strong>桌上的器具:</strong> 小陶壺與小杯. 這幅圖景以小陶壺和小杯配合多次沖泡。台灣茶藝也會用相似器具，但器具相似不代表社交場合相同。</li>
+<li><strong>奉茶節奏:</strong> 多次短浸泡. 同一批茶葉反覆短浸，讓相聚繼續。這是在描述圖景，不是普遍適用的步驟或沖泡配方。</li>
+<li><strong>這個場合的重點:</strong> 交談與日常待客. d’Abbs 描述茶怎樣融入日常社交連繫。同一研究也談精緻修養和商業茶館休閒，所以日常待客只是其中一種框架。</li>
+</ul>
+<p>這個圖景的出處: <a href="https://doi.org/10.1080/14442213.2019.1611908">d’Abbs (2019)</a></p>
+<h3>香港奶茶櫃位</h3>
+<p>茶餐廳把製作奶茶放進每天的服務流程。試擺出本節的櫃位技藝圖景，而不是正式的小壺茶會。</p>
+<ul>
+<li><strong>桌上的器具:</strong> 細棉布濾袋與飲用杯. 香港記憶描述的是細棉布濾袋。茶染後的形狀和顏色帶來「絲襪」這個稱呼，並非真的用絲襪。這張簡化茶桌沒有列出完整配方。</li>
+<li><strong>奉茶節奏:</strong> 可重複的茶餐廳製作與奉茶. 本節着重可重複的櫃位技藝和茶餐廳服務。這是在比較場合，不是說香港每個人喝茶都很匆忙。</li>
+<li><strong>這個場合的重點:</strong> 茶餐廳櫃位的工作節奏. 這幅圖景追溯飲品在戰後食肆的本地化，以及後來普及於茶餐廳的過程。這裏着重服務流程；到茶餐廳仍然可以交談，也可以有其他意義。</li>
+</ul>
+<p>這個圖景的出處: <a href="https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html">Hong Kong Memory / 香港記憶 / 香港记忆</a></p>
+<h3>台灣茶藝聚會</h3>
+<p>主人為聚會安排茶席，留意動作、器具和氣氛。試擺出 Yu 和 Zhang 討論的茶藝圖景。</p>
+<ul>
+<li><strong>桌上的器具:</strong> 小壺、小杯與安排過的茶席. 這幅圖景的基本器具有工夫式小壺和小杯。安排過的「茶席」把空間設計帶進場合，但這不代表台灣所有喝茶場合都採用這套擺法。</li>
+<li><strong>奉茶節奏:</strong> 講究沖泡動作與器具安排. 出處把規範化的動作與安排視為茶藝的一部分，並沒有替每個聚會訂立同一套必須遵守的動作次序。</li>
+<li><strong>這個場合的重點:</strong> 感官與美感經過設計的茶會. Yu 描述香氣、光線、聲音、器具和氛圍組成感官場景。着重美感不等於排除待客，也不能等同台灣所有飲茶生活。</li>
+</ul>
+<p>這個圖景的出處: <a href="https://doi.org/10.1016/j.ajss.2022.08.007">Yu (2022)</a> · <a href="https://doi.org/10.1525/gfc.2016.16.1.53">Zhang (2016)</a></p>
+<p>這些是特定場合的教學例子，不是整個文化的規則。人物、場所和場合各有不同；插圖經過簡化，並非歷史復原圖。</p>
+</div>
+</div>
+<script src="../../../assets/tea-table-data.js" defer></script>
+<script src="../../../assets/tea-table-game.js" defer></script>
+```
+
+::: {.callout-note collapse="true" title="關於這些例子" #tea-table-notes}
+改編自本節三幅圖景：d’Abbs 的潮汕日常工夫茶、香港記憶的奶茶製作，以及 Yu 和 Zhang 的台灣茶藝研究。活動比較場合，不教授沖泡配方、判定正宗身份或訂立嚴格禮儀。任何選擇都不會儲存或傳送。
+:::
+
+```{=html}
+<div id="tea-table-reading"></div>
+```
+<!-- tea-table:end -->
+
 ## 茶室門口之後
 
 [第二節](02-monastic-path.qmd)停在寺院的作息，和日本茶室裏的「齊平」。這一節換一個問題：場面換成潮汕的桌子、台灣的茶藝聚會，或香港的奶茶櫃位時，這片葉子還要按甚麼**做法和場面**來喝？
