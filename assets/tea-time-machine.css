@@ -1,0 +1,44 @@
+/* All rules are scoped so the original reading pages stay unchanged. */
+.tea-time, .tea-time * { box-sizing: border-box; }
+.tea-time { min-width: 0; overflow-wrap: anywhere; border: 1px solid #9a956d; border-radius: 1.2rem; padding: clamp(1rem, 3vw, 1.8rem); margin-block: 1.5rem; background: #fbf7e9; color: #303d30; }
+.tea-time h3, .tea-time h4, .tea-time h5 { color: inherit; }
+.tea-time h3 { margin-top: 0; }
+.tea-time h5 { font-size: 1.08rem; line-height: 1.45; margin: .35rem 0 .75rem; }
+.tea-time [hidden] { display: none !important; }
+.tea-time-button { min-height: 44px; padding: .7rem 1rem; border: 1px solid #60734d; border-radius: .6rem; background: #fff; color: #303d30; font: inherit; line-height: 1.4; white-space: normal; cursor: pointer; }
+.tea-time-button:hover:not(:disabled):not([aria-disabled="true"]) { background: #eef2df; box-shadow: inset 0 0 0 1px currentColor; }
+.tea-time-button[data-action="start"], .tea-time-button[data-action="more"] { background: #365339; color: #fff; }
+.tea-time-button[data-action="start"]:hover, .tea-time-button[data-action="more"]:hover { background: #243e27; }
+.tea-time-button:disabled { opacity: .55; cursor: not-allowed; }
+.tea-time-button[aria-disabled="true"] { cursor: default; }
+.tea-time-button[aria-pressed="true"] { background: #365339; color: #fff; text-decoration: underline; text-underline-offset: .2em; }
+.tea-time :focus-visible, .tea-time h4:focus, .tea-time h5:focus { outline: 3px solid #985516; outline-offset: 4px; }
+.tea-time-progress { font-size: 1rem; margin-block: 1rem .5rem; }
+.tea-time progress { display: block; width: 100%; height: .5rem; margin-bottom: 1rem; accent-color: #486140; }
+.tea-time-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin-bottom: 1.25rem; }
+.tea-time-card { min-width: 0; padding: clamp(.8rem, 2vw, 1.2rem); border: 1px solid #a3ad90; border-radius: .8rem; background: #fffdf6; }
+.tea-time-anchor { background: #eaf0df; }
+.tea-time-mystery { border: 2px dashed #8f744e; }
+.tea-time-kicker { font-size: .85rem; font-weight: 650; margin: 0 0 .5rem; }
+.tea-time-date { font-size: clamp(1.25rem, 3vw, 1.7rem); font-weight: 750; line-height: 1.3; margin: .3rem 0 .8rem; color: #66431f; }
+.tea-time-choices { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .75rem; padding: 0; border: 0; min-width: 0; margin-bottom: .8rem; }
+.tea-time-choices legend { float: none; font-size: 1rem; font-weight: 650; margin-bottom: .7rem; }
+.tea-time-choices .tea-time-button { font-size: 1.1rem; font-weight: 650; min-height: 52px; }
+.tea-time-helpers, .tea-time-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-block: .8rem; }
+.tea-time-hint { border-left: 4px solid #a77a39; padding: .75rem 1rem; background: #fff; margin-block: 1rem; }
+.tea-time-feedback:not(:empty) { background: #fff; border: 1px solid #9aab8a; border-radius: .65rem; padding: 1rem; margin-block: 1rem; }
+.tea-time-order { font-weight: 650; }
+.tea-time-source, .tea-time-note { font-size: .9rem; line-height: 1.6; }
+.tea-time-source:last-child { margin-bottom: 0; }
+.tea-time a { color: #2c573b; text-decoration: underline; text-underline-offset: .15em; }
+.tea-time-note { margin: 1rem 0 0; }
+.tea-time-stories { border-top: 1px solid #c4c5a7; margin-top: 1.5rem; padding-top: .25rem; }
+.tea-time summary, .tea-time-fallback summary { min-height: 44px; padding-block: .7rem; cursor: pointer; font-weight: 650; }
+.tea-time-timeline { list-style: none; padding-inline-start: .8rem; margin-block: 1rem; }
+.tea-time-timeline li { border-inline-start: 3px solid #a4b48b; padding: 0 0 1.1rem 1.1rem; margin: 0; }
+.tea-time-timeline .tea-time-date { font-size: 1.08rem; margin-bottom: .35rem; }
+.tea-time-timeline p { margin-block: .4rem; }
+.tea-time-lesson { display: inline-block; min-height: 44px; padding-block: .7rem; }
+.tea-time-status { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+@media (max-width: 520px) { .tea-time-cards { grid-template-columns: minmax(0, 1fr); gap: .7rem; } .tea-time-card { padding: .9rem; } .tea-time-card .tea-time-date { margin-block: .3rem; } .tea-time-helpers .tea-time-button, .tea-time-actions .tea-time-button { flex: 1 1 100%; } }
+@media (forced-colors: active) { .tea-time-button[aria-pressed="true"] { outline: 2px solid Highlight; } .tea-time-card { border: 1px solid CanvasText; } }

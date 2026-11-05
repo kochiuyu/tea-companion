@@ -23,6 +23,16 @@ Make a decision and inspect its rules, or spot what a fictional study forgot to 
 :::
 <!-- thinking-games:end -->
 
+<!-- cultural-games:start -->
+::: {.tea-pilot-link}
+**Travel through tea history and culture**
+
+Compare moments from tea history, or set a tea table for a particular setting. Tap to explore the stories behind your choices.
+
+[Travel through tea history →](modules/module-03/01-trade-history.qmd#tea-time-machine) · [Set the Tea Table →](modules/module-03/04-regional-scripts.qmd#set-the-tea-table)
+:::
+<!-- cultural-games:end -->
+
 ## A better cup. A more curious mind.
 
 You pour water over leaves. A few minutes later, you have something fragrant, warming, and surprisingly complicated. Why does the same tea taste gentle one morning and bitter the next? What does a name on the packet actually tell you? And how much of a tea headline should you believe?

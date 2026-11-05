@@ -29,6 +29,54 @@ Superscript numbers are clickable footnotes. A click jumps to the source, and th
 :::
 ::::::::
 <!-- reading-fold:end -->
+<!-- tea-table:start -->
+## Set the Tea Table {#set-the-tea-table}
+
+```{=html}
+<link rel="stylesheet" href="../../assets/tea-table-game.css">
+<div data-tea-table data-locale="en">
+<div class="tea-table-fallback">
+<p>Without JavaScript, you can still compare the three example tables below. Ask which tools, rhythm, and purpose each source describes, rather than treating the examples as universal rules.</p>
+<h3>An everyday Chaoshan table</h3>
+<p>Friends gather around a small pot while conversation continues across repeated infusions. Set up the everyday scene described in d’Abbs’s fieldwork.</p>
+<ul>
+<li><strong>Tools on the table:</strong> Small clay pot + small cups. A small clay pot and small cups accompany repeated infusions in this portrait. Similar tools also appear in Taiwan tea art: the tools do not make the social context identical.</li>
+<li><strong>Serving rhythm:</strong> Repeated short infusions. Repeated short infusions let the gathering continue with the same leaf. This is a description of the portrait, not a universal sequence or a brewing recipe.</li>
+<li><strong>What this occasion emphasizes:</strong> Conversation and everyday hospitality. d’Abbs describes tea woven into everyday social connectedness. The same fieldwork also discusses refined cultivation and commercial tea-house leisure, so everyday hospitality is one frame, not the only one.</li>
+</ul>
+<p>Sources behind this portrait: <a href="https://doi.org/10.1080/14442213.2019.1611908">d’Abbs (2019)</a></p>
+<h3>A Hong Kong milk-tea counter</h3>
+<p>A café prepares milk tea as part of its daily service. Build the counter-craft portrait in this lesson, rather than a formal small-pot gathering.</p>
+<ul>
+<li><strong>Tools on the table:</strong> Fine cotton strainer + serving cup. Hong Kong Memory describes a fine cotton strainer. Its tea-stained shape inspired the “silk-stocking” nickname; it is not a literal stocking. This simplified table does not specify a full recipe.</li>
+<li><strong>Serving rhythm:</strong> Repeatable café preparation and service. The lesson emphasizes repeatable counter craft and café service. This is a contrast of settings, not a claim that everyone in Hong Kong drinks hurriedly.</li>
+<li><strong>What this occasion emphasizes:</strong> A café counter’s working routine. The portrait follows the drink’s postwar localization through eateries and its spread into cha chaan teng. Café service is the focus here; conversation and other meanings can still be part of a café visit.</li>
+</ul>
+<p>Sources behind this portrait: <a href="https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html">Hong Kong Memory / 香港記憶 / 香港记忆</a></p>
+<h3>A Taiwan tea-art gathering</h3>
+<p>The host arranges a tea setting for a gathering that pays attention to gesture, utensils, and atmosphere. Build the tea-art portrait discussed by Yu and Zhang.</p>
+<ul>
+<li><strong>Tools on the table:</strong> Small pot + cups on an arranged tea setting. A gongfu-style small pot and small cups are a basic set in this portrait. The arranged tea setting, or chaxi, makes spatial design part of the occasion. This does not mean all Taiwan tea drinking uses this setup.</li>
+<li><strong>Serving rhythm:</strong> Deliberate brewing gestures and arrangement. The sources discuss formalized movement and arrangement as part of tea art. They do not establish one mandatory gesture sequence for every gathering.</li>
+<li><strong>What this occasion emphasizes:</strong> A designed sensory and aesthetic gathering. Yu describes fragrance, light, sound, utensils, and atmosphere as a sensory setting. An aesthetic focus does not exclude hospitality, and it should not be equated with all tea drinking in Taiwan.</li>
+</ul>
+<p>Sources behind this portrait: <a href="https://doi.org/10.1016/j.ajss.2022.08.007">Yu (2022)</a> · <a href="https://doi.org/10.1525/gfc.2016.16.1.53">Zhang (2016)</a></p>
+<p>These are situated teaching examples, not rules for a whole culture. People, venues, and occasions vary; the drawings are simplified, not historical reconstructions.</p>
+</div>
+</div>
+<script src="../../assets/tea-table-data.js" defer></script>
+<script src="../../assets/tea-table-game.js" defer></script>
+```
+
+::: {.callout-note collapse="true" title="About these examples" #tea-table-notes}
+Adapted from the three portraits in this lesson: d’Abbs on everyday Chaoshan gongfu, Hong Kong Memory on milk-tea making, and Yu and Zhang on Taiwan tea art. This activity compares contexts, not brewing recipes, authentic identities, or strict etiquette. No choices are stored or sent anywhere.
+:::
+
+```{=html}
+<div id="tea-table-reading"></div>
+```
+<!-- tea-table:end -->
+
 ## After the tea-room doorway
 
 [Section 2](02-monastic-path.qmd) ended with monastery timetables and with the leveling inside a Japanese tea room. This lesson asks a different question. What other **scripts** does the leaf wear when the room is a Chaoshan table, a Taiwan tea-art gathering, or a Hong Kong milk-tea counter?

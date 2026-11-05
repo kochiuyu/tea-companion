@@ -1,0 +1,53 @@
+/* Scoped to the table builder; does not alter lesson or existing game styles. */
+.tea-table-game{--tt-ink:#263e35;--tt-leaf:#365946;--tt-paper:#faf8f0;--tt-line:#c8cfbc;color:var(--tt-ink);background:var(--tt-paper);border:1px solid var(--tt-line);border-radius:22px;padding:clamp(1rem,3vw,2rem);margin:1.2rem 0 2rem;font-size:1rem;line-height:1.6}
+.tea-table-game *{box-sizing:border-box}
+.tea-table-game h3{margin:.3rem 0 .8rem;color:var(--tt-ink);font-size:clamp(1.4rem,3vw,1.9rem);line-height:1.25}
+.tea-table-game h4{font-size:1.1rem;margin:0 0 .65rem;color:var(--tt-ink)}
+.tea-table-game h5{font-size:1rem;margin:0 0 .4rem;color:var(--tt-ink)}
+.tea-table-game a{color:#255b43;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.tea-table-badge{font-size:.8rem;letter-spacing:.04em;font-weight:700;text-transform:uppercase;color:#4f6653;margin-bottom:.6rem}
+.tea-table-lead{font-size:1.1rem;margin-bottom:.7rem}
+.tea-table-scope{font-size:.88rem;color:#526052;border-bottom:1px solid var(--tt-line);padding-bottom:1.1rem;margin-bottom:1.4rem}
+.tea-table-progress{font-size:.85rem;color:#5e624b;font-weight:700;margin:0 0 .5rem}
+.tea-table-setup{max-width:64ch}
+.tea-table-figure{margin:1.3rem 0;background:#f0eddf;border:1px solid #d0d2bf;border-radius:18px;overflow:hidden}
+.tea-table-art{display:block;width:100%;height:auto;max-height:290px}
+.tea-table-figure figcaption{padding:.8rem 1rem 1rem;color:var(--tt-ink);text-align:left;font-size:.88rem}
+.tea-table-figure figcaption strong{display:block;margin-bottom:.4rem}
+.tea-table-inventory{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.45rem;list-style:none;margin:0;padding:0}
+.tea-table-inventory li{background:#faf8f0;border-radius:7px;padding:.5rem .65rem;margin:0;font-size:.8rem;overflow-wrap:anywhere}
+.tea-table-instructions{font-weight:600;font-size:.95rem}
+.tea-table-group{margin:1.2rem 0}
+.tea-table-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.6rem}
+.tea-table-game .tea-table-button{font:inherit;font-size:.9rem;line-height:1.4;min-height:46px;padding:.7rem .9rem;border:1px solid #849780;border-radius:10px;background:#fffdf6;color:var(--tt-ink);cursor:pointer;text-align:center;white-space:normal;overflow-wrap:anywhere;transition:background-color .12s,border-color .12s}
+.tea-table-game .tea-table-button:hover:not(:disabled){background:#e9eedf;border-color:#365946}
+.tea-table-game .tea-table-button:disabled{color:#687263;background:#ecece2;border-color:#bdc4b7;cursor:default}
+.tea-table-game .tea-table-primary{background:var(--tt-leaf);color:#fff;border-color:var(--tt-leaf);font-weight:600}
+.tea-table-game .tea-table-primary:hover:not(:disabled){background:#264233;color:#fff}
+.tea-table-game .tea-table-choice{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:.3rem;padding:.5rem .6rem .8rem;min-height:128px;font-size:.85rem}
+.tea-table-choice svg{max-width:100%;flex-shrink:0}
+.tea-table-game .tea-table-choice[aria-pressed=true]{background:#e4ecd9;border:2px solid #365946;padding:calc(.5rem - 1px) calc(.6rem - 1px) calc(.8rem - 1px);font-weight:700}
+.tea-table-choice[aria-pressed=true]::after{content:'✓';position:absolute;top:4px;right:7px;color:#264233;font-size:1rem;font-weight:700}
+.tea-table-controls,.tea-table-nav{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin:1.2rem 0 0}
+.tea-table-nav{padding-top:1.2rem;border-top:1px solid var(--tt-line)}
+.tea-table-nav a{font-size:.85rem;padding:.4rem 0;margin-left:auto}
+.tea-table-feedback{border:1px solid #b5c7aa;border-radius:14px;background:#f2f5e9;padding:1rem;margin-top:1.2rem}
+.tea-table-context{padding:.7rem 0;border-bottom:1px solid #d2dbc9;font-size:.9rem}
+.tea-table-context p{margin:.3rem 0 .7rem}
+.tea-table-context .tea-table-your-choice{font-weight:600}
+.tea-table-match{font-style:italic;color:#4d614e}
+.tea-table-sources{font-size:.8rem;margin:.9rem 0 .5rem}
+.tea-table-feedback>a{font-size:.85rem}
+.tea-table-takeaway{padding:1rem;border-left:4px solid #627b52;background:#edf0e2}
+.tea-table-summary{display:grid;gap:1rem;margin:1.2rem 0}
+.tea-table-summary-card{border:1px solid var(--tt-line);padding:1rem;border-radius:14px;background:#fffdf6}
+.tea-table-summary-card .tea-table-art{border-radius:10px;margin:.5rem 0}
+.tea-table-summary-card ul{font-size:.9rem;margin-bottom:.5rem}
+.tea-table-sr{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+.tea-table-game [hidden]{display:none!important}
+.tea-table-game :focus-visible{outline:3px solid #a85b25;outline-offset:4px}
+.tea-table-game h3:focus{outline:2px solid #a85b25;outline-offset:4px}
+@media(max-width:520px){.tea-table-game{padding:1rem .75rem;border-radius:15px}.tea-table-inventory{grid-template-columns:1fr}.tea-table-options{gap:.4rem}.tea-table-game .tea-table-choice{font-size:.78rem;padding:.4rem .35rem .6rem;min-height:130px}.tea-table-game .tea-table-choice[aria-pressed=true]{padding:calc(.4rem - 1px) calc(.35rem - 1px) calc(.6rem - 1px)}.tea-table-nav a{width:100%;margin-left:0}.tea-table-controls .tea-table-button{flex:1 1 auto}.tea-table-feedback{padding:.8rem}.tea-table-summary-card{padding:.8rem}}
+@media(prefers-reduced-motion:reduce){.tea-table-game .tea-table-button{transition:none}}
+@media(forced-colors:active){.tea-table-game .tea-table-choice[aria-pressed=true]{border:3px solid Highlight}.tea-table-game .tea-table-primary{border:2px solid ButtonText}.tea-table-game .tea-table-button:focus-visible{outline:3px solid Highlight}}
+@media print{.tea-table-controls,.tea-table-nav,.tea-table-options,.tea-table-instructions{display:none}.tea-table-game{border:1px solid #777;break-inside:avoid}.tea-table-feedback{display:block!important}}

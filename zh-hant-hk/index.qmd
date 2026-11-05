@@ -25,6 +25,16 @@ lang: zh-Hant-HK
 :::
 <!-- thinking-games:end -->
 
+<!-- cultural-games:start -->
+::: {.tea-pilot-link}
+**走進茶的歷史與文化**
+
+比較茶歷史中的不同時刻，或為指定情境擺好茶桌。點選看看每個選擇背後的故事。
+
+[乘時光機看茶史 →](modules/module-03/01-trade-history.qmd#tea-time-machine) · [擺好茶席 →](modules/module-03/04-regional-scripts.qmd#set-the-tea-table)
+:::
+<!-- cultural-games:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **由一個問題開始**

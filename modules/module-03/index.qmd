@@ -16,6 +16,16 @@ Look beyond the cup and a larger cast comes into view: traders, growers, workers
 :::
 <!-- reader-guide:end -->
 
+<!-- cultural-games:start -->
+::: {.tea-pilot-link}
+**Travel through tea history and culture**
+
+Compare moments from tea history, or set a tea table for a particular setting. Tap to explore the stories behind your choices.
+
+[Travel through tea history →](01-trade-history.qmd#tea-time-machine) · [Set the Tea Table →](04-regional-scripts.qmd#set-the-tea-table)
+:::
+<!-- cultural-games:end -->
+
 <!-- reading-fold:start -->
 :::::::: {.callout-note collapse="true" title="Earlier introduction and reading notes"}
 
