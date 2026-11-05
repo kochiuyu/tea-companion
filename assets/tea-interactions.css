@@ -1,0 +1,44 @@
+/* Guessing-game styles stay scoped; the original lessons and detective are unchanged. */
+.tea-compare { --tea-ink:#233d35; --tea-paper:#fffef9; --tea-border:#bacbbb; color:var(--tea-ink); background:#f3f5e9; border:1px solid var(--tea-border); border-radius:1.25rem; padding:clamp(1rem,3vw,2rem); margin:1.25rem 0 2rem; line-height:1.6; overflow-wrap:anywhere; }
+.tea-compare *, .tea-compare *::before, .tea-compare *::after { box-sizing:border-box; }
+.tea-compare [hidden] { display:none !important; }
+.tea-compare h3, .tea-compare h4, .tea-compare h5 { color:inherit; border:0; }
+.tea-compare h3 { font-size:clamp(1.6rem,4vw,2.2rem); line-height:1.2; margin:.25rem 0 .8rem; }
+.tea-compare .tea-compare-eyebrow { text-transform:uppercase; letter-spacing:.12em; font-size:.75rem; font-weight:750; margin:0; }
+.tea-compare .tea-compare-intro { margin:0 0 1.5rem; max-width:60ch; }
+.tea-compare .tea-compare-progress { font-size:.88rem; color:#4b6054; margin:0 0 .5rem; font-weight:650; }
+.tea-compare .tea-compare-question { font-size:clamp(1.25rem,3vw,1.65rem); line-height:1.4; margin:0 0 1rem; }
+.tea-compare .tea-compare-pair { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem; margin:1rem 0; }
+.tea-compare button.tea-compare-option { font:inherit; color:inherit; cursor:pointer; background:var(--tea-paper); text-align:left; border:2px solid #91a78e; border-radius:.85rem; padding:1rem; min-height:145px; display:flex; flex-direction:column; align-items:flex-start; gap:.6rem; max-width:100%; }
+.tea-compare button.tea-compare-option:hover:not([aria-disabled="true"]) { background:#e7eddb; border-color:#2c5b40; }
+.tea-compare .tea-compare-letter { display:inline-flex; align-items:center; justify-content:center; width:2rem; height:2rem; background:#e6ecdf; border-radius:50%; font-size:.85rem; font-weight:750; flex-shrink:0; }
+.tea-compare .tea-compare-name { font-size:clamp(1.1rem,3vw,1.45rem); line-height:1.3; font-weight:750; }
+.tea-compare .tea-compare-mark { font-size:.8rem; font-weight:650; line-height:1.4; margin-top:auto; }
+.tea-compare button.tea-compare-option[data-result="correct"] { background:#dcebd4; border-color:#285439; }
+.tea-compare button.tea-compare-option[data-result="incorrect"] { border-style:dashed; background:#f5ede0; border-color:#8c663a; }
+.tea-compare button.tea-compare-option[aria-disabled="true"] { cursor:default; }
+.tea-compare .tea-compare-button { font:inherit; font-weight:650; line-height:1.4; min-height:44px; padding:.65rem 1rem; color:#fff; background:#285439; border:1px solid #285439; border-radius:.45rem; cursor:pointer; white-space:normal; max-width:100%; }
+.tea-compare .tea-compare-button:not(.tea-compare-option):not(.tea-compare-secondary):hover:not(:disabled) { background:#183e29; }
+.tea-compare .tea-compare-secondary { color:#285439; background:var(--tea-paper); }
+.tea-compare .tea-compare-secondary:hover:not(:disabled) { background:#e7eddb; }
+.tea-compare button:disabled { opacity:.55; cursor:not-allowed; }
+.tea-compare :is(button,a,summary):focus-visible { outline:3px solid #9a4a00; outline-offset:3px; }
+.tea-compare .tea-compare-question:focus, .tea-compare .tea-compare-summary h4:focus { outline:2px solid #91a78e; outline-offset:4px; }
+.tea-compare .tea-compare-feedback { background:var(--tea-paper); border-left:4px solid #4c7050; padding:1rem; margin-top:1rem; border-radius:0 .6rem .6rem 0; }
+.tea-compare .tea-compare-feedback:empty { display:none; }
+.tea-compare .tea-compare-feedback h5 { font-size:1.2rem; margin:0 0 .55rem; }
+.tea-compare .tea-compare-feedback p { margin:0 0 .7rem; }
+.tea-compare .tea-compare-takeaway { font-weight:650; }
+.tea-compare details { font-size:.9rem; margin:.6rem 0 0; }
+.tea-compare summary { min-height:44px; padding:.55rem 0; cursor:pointer; font-weight:650; }
+.tea-compare a { color:#23563b; text-decoration:underline; text-underline-offset:.15em; }
+.tea-compare .tea-compare-actions { display:flex; flex-wrap:wrap; gap:.6rem; margin-top:1.1rem; }
+.tea-compare .tea-compare-summary ol { padding-left:1.5rem; }
+.tea-compare .tea-compare-summary li { margin-bottom:.9rem; }
+.tea-compare .tea-compare-notice { color:#4b6054; font-size:.85rem; margin:1.5rem 0 0; }
+.tea-pilot-link { border:1px solid #c6d2c2; border-radius:.55rem; padding:.8rem 1rem; background:#f4f5eb; margin:1rem 0 1.5rem; }
+@media(max-width:420px) { .tea-compare button.tea-compare-option { padding:.75rem; min-height:145px; } .tea-compare .tea-compare-actions { display:grid; grid-template-columns:1fr; } .tea-compare .tea-compare-button { width:100%; } }
+@media(forced-colors:active) { .tea-compare button.tea-compare-option[data-result="correct"] { outline:3px solid Highlight; } }
+@media(prefers-reduced-motion:reduce) { .tea-compare * { scroll-behavior:auto !important; animation:none !important; transition:none !important; } }
+
+.tea-compare .tea-compare-clue { font-size:.94rem; line-height:1.55; color:#4b6054; margin:-.35rem 0 1rem; max-width:62ch; }

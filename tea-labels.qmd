@@ -3,6 +3,16 @@ title: "Tea labels"
 ---
 {{< include _includes/lang-switcher/tea-labels.en.qmd >}}
 
+<!-- interactive-pilot:start -->
+## Try the tea-label detective {#label-detective}
+
+```{=html}
+<div data-tea-detective data-locale="en">
+<p>The interactive detective needs JavaScript. Try the tables below instead: separate place, style, type, blend and grade words, and leave uncertain meanings open.</p>
+</div>
+```
+<!-- interactive-pilot:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **A question to start with**
@@ -48,6 +58,8 @@ Tap a footnote number to jump to the source, then the caret to jump back. Hover 
 ***
 ::::::::
 <!-- reading-fold:end -->
+<span id="label-reading"></span>
+
 ## How to read a tea label
 
 Labels mix five things:
@@ -61,6 +73,8 @@ Labels mix five things:
 The tables below are a **usual-meaning** sheet. Brands disagree, and recipes vary. When you want *why* green and black diverge chemically, open [Chapter 1 · Section 2 — Processing](modules/module-01/02-processing.qmd). When you want a first mug again, open [Tea basics](tea-basics.qmd).
 
 ***
+
+<span id="label-chinese-names"></span>
 
 ## Chinese names you will see
 
@@ -83,6 +97,8 @@ Gongfu as **everyday social staging** (a small pot, and many short pours) is a c
 
 ***
 
+<span id="label-japanese-names"></span>
+
 ## Japanese names you will see
 
 | Label you see | What it usually means | Bridge |
@@ -97,6 +113,8 @@ Gongfu as **everyday social staging** (a small pot, and many short pours) is a c
 Processing notes for sencha, matcha, and tencha match the Japanese industry type pages cited on Basics.[^4]
 
 ***
+
+<span id="label-western-names"></span>
 
 ## Western and cafe names you will see
 

@@ -5,6 +5,16 @@ lang: zh-Hant-HK
 
 {{< include ../_includes/lang-switcher/tea-labels.zh-hant-hk.qmd >}}
 
+<!-- interactive-pilot:start -->
+## 試做茶葉標籤偵探 {#label-detective}
+
+```{=html}
+<div data-tea-detective data-locale="zh-hant-hk">
+<p>互動偵探需要 JavaScript。你仍可用下方表格練習：分開產地、風格、茶類、調配及等級字眼；不能確定的意思，先保留疑問。</p>
+</div>
+```
+<!-- interactive-pilot:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **由一個問題開始**
@@ -58,6 +68,8 @@ lang: zh-Hant-HK
 ***
 ::::::::
 <!-- reading-fold:end -->
+<span id="label-reading"></span>
+
 ## 怎樣讀一張茶標籤
 
 一張標籤上，常常混着五樣東西：
@@ -71,6 +83,8 @@ lang: zh-Hant-HK
 下面各表寫的是**一般意思**。牌子會吵架，配方也不會處處一樣。想知道*為甚麼*綠茶和紅茶在化學上分了家，打開 [第一章 · 第二節——加工](modules/module-01/02-processing.qmd)。想再倒第一杯，回到 [茶葉入門](tea-basics.qmd)。
 
 ***
+
+<span id="label-chinese-names"></span>
 
 ## 常見中文名
 
@@ -93,6 +107,8 @@ lang: zh-Hant-HK
 
 ***
 
+<span id="label-japanese-names"></span>
+
 ## 常見日文名
 
 | 你看到的標籤 | 一般是甚麼意思 | 橋去哪 |
@@ -107,6 +123,8 @@ lang: zh-Hant-HK
 煎茶、抹茶和碾茶的做法說明，對應的是入門頁引用的那些日本行業類型頁。[^4]
 
 ***
+
+<span id="label-western-names"></span>
 
 ## 常見西方與咖啡店名
 

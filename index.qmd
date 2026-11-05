@@ -3,6 +3,16 @@ title: "Tea Companion"
 ---
 {{< include _includes/lang-switcher/home.en.qmd >}}
 
+<!-- interactive-pilot:start -->
+::: {.tea-pilot-link}
+**Play with tea**
+
+Two quick on-screen games. Guess the difference between two teas, or investigate a tea label. No equipment or typing needed.
+
+[Play the tea guessing game →](modules/module-01/03-brewing.qmd#two-cup-lab) · [Investigate a tea label →](tea-labels.qmd#label-detective)
+:::
+<!-- interactive-pilot:end -->
+
 ## A better cup. A more curious mind.
 
 You pour water over leaves. A few minutes later, you have something fragrant, warming, and surprisingly complicated. Why does the same tea taste gentle one morning and bitter the next? What does a name on the packet actually tell you? And how much of a tea headline should you believe?

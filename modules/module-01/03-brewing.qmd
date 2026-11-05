@@ -4,6 +4,16 @@ title: "Section 3 · What brewing actually does"
 
 {{< include ../../_includes/lang-switcher/module-01-brewing.en.qmd >}}
 
+<!-- interactive-pilot:start -->
+## Two teas. One guess. {#two-cup-lab}
+
+```{=html}
+<div data-tea-compare data-locale="en" data-root="../..">
+<p>The guessing game needs JavaScript. Which tea is usually allowed to darken more in the air before drying: green tea or black tea? Black tea. This change is called oxidation; green tea is heated early to limit it. This tells you how the tea is made, not its caffeine amount or guaranteed taste.</p>
+</div>
+```
+<!-- interactive-pilot:end -->
+
 **Chapter 1 · Section 3 of 4** · [The Chemical Core](index.qmd)
 
 ## Same leaves, different cup

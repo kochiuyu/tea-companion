@@ -5,6 +5,16 @@ lang: zh-Hant-HK
 
 {{< include ../../../_includes/lang-switcher/module-01-brewing.zh-hant-hk.qmd >}}
 
+<!-- interactive-pilot:start -->
+## 兩款茶，猜一猜。 {#two-cup-lab}
+
+```{=html}
+<div data-tea-compare data-locale="zh-hant-hk" data-root="../..">
+<p>猜猜看遊戲需要 JavaScript。綠茶和紅茶，哪一種在乾燥前，通常會讓茶葉接觸空氣、變色較多？答案是紅茶。這個變化叫「氧化」；綠茶會較早加熱，限制這個變化。這說明製作方法，不代表咖啡因份量或保證某種味道。</p>
+</div>
+```
+<!-- interactive-pilot:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **由一個問題開始**

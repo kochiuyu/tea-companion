@@ -162,9 +162,13 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css:
+      - styles.css
+      - assets/tea-interactions.css
+      - assets/tea-label-detective.css
     toc: true
     footnotes-hover: true
     reference-location: document
     include-after-body:
       - assets/lang-nav.html
+      - assets/tea-interactions.html
