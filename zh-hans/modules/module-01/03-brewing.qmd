@@ -5,6 +5,16 @@ lang: zh-Hans
 
 {{< include ../../../_includes/lang-switcher/module-01-brewing.zh-hans.qmd >}}
 
+<!-- interactive-pilot:start -->
+## 两款茶，猜一猜。 {#two-cup-lab}
+
+```{=html}
+<div data-tea-compare data-locale="zh-hans" data-root="../..">
+<p>猜猜看游戏需要 JavaScript。绿茶和红茶，哪一种在干燥前，通常会让茶叶接触空气、变色更多？答案是红茶。这个变化叫“氧化”；绿茶会较早加热，限制这个变化。这说明制作方法，不代表咖啡因含量或保证某种味道。</p>
+</div>
+```
+<!-- interactive-pilot:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **从一个问题开始**

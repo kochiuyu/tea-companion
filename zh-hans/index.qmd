@@ -5,6 +5,16 @@ lang: zh-Hans
 
 {{< include ../_includes/lang-switcher/home.zh-hans.qmd >}}
 
+<!-- interactive-pilot:start -->
+::: {.tea-pilot-link}
+**边玩边识茶**
+
+两个简短的屏幕小游戏：猜猜两款茶的区别，或调查茶叶标签。不用准备器具，也不用打字。
+
+[玩茶叶猜猜看 →](modules/module-01/03-brewing.qmd#two-cup-lab) · [调查一个茶叶标签 →](tea-labels.qmd#label-detective)
+:::
+<!-- interactive-pilot:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **从一个问题开始**
