@@ -39,3 +39,16 @@
 .tea-lab-detective-about summary { cursor: pointer; min-height: 44px; padding-block: .65rem; font-weight: 650; }
 .tea-lab-detective-feedback a { color: #23563b; text-decoration: underline; text-underline-offset: .15em; }
 .tea-lab-detective h4:focus, .tea-lab-detective h5:focus { outline: 3px solid #85521c; outline-offset: 4px; }
+
+/* Short random rounds, optional exploration and a clear stopping point. */
+.tea-lab-detective .tea-lab-button:disabled { opacity: .55; cursor: not-allowed; }
+.tea-lab-detective-return { border: 1px solid #8d9a85; padding: .85rem; border-radius: .5rem; margin-block: 1rem; }
+.tea-lab-detective-return p { margin-top: 0; }
+.tea-lab-detective-extra { margin-block: .75rem; }
+.tea-lab-detective-summary ol { padding-left: 1.4rem; }
+.tea-lab-detective-summary li { margin-bottom: 1rem; }
+.tea-lab-detective-summary li p { margin: .35rem 0 0; line-height: 1.6; }
+.tea-lab-detective-summary h4:focus { outline: 3px solid #85521c; outline-offset: 4px; }
+@media (max-width: 420px) {
+  .tea-lab-detective-return .tea-lab-button, .tea-lab-detective-extra .tea-lab-button { width: 100%; }
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-05",
+  "revision": "Fifteen-label detective with random five-label rounds",
+  "status": "release_validation_browser_blocked",
+  "baseline": "a08bb3fef35023336035eeb1d4c44f94d62559c2",
+  "labels": 15,
+  "clues": 33,
+  "original_labels_preserved": 7,
+  "original_clues_preserved": 17,
+  "passed": [
+    "297 classification cases and 99 ungraded reveals across three languages.",
+    "Full non-repeating fifteen-label cycles, seeded and boundary random values, and short final batches.",
+    "Next gates, stale double taps, separate explorer answers, exact round/summary returns, retry and answer retention.",
+    "All original clue text, explanations, limits and guide mappings unchanged.",
+    "All source anchors resolve in each language; no accounts, network requests or storage from the activity.",
+    "Unchanged comparison game passes 90 round/language/answer combinations.",
+    "Independent source, translation and scoped CSS review found no blocker.",
+    "Full Quarto render: 105 pages; 14,175 internal links/assets; all 210 original sources, 11,883 nonblank lines, 645 headings and 608 citation definitions preserved."
+  ],
+  "blocked": [
+    "Actual browser interactions and visual/mobile QA for this revision."
+  ],
+  "blocker": "One supported connection check returned desktop, tab inventory and tab refresh timeouts; no repeated retries.",
+  "not_tested": [
+    "Physical mobile devices",
+    "Safari/Firefox",
+    "Actual screen reader"
+  ]
+}

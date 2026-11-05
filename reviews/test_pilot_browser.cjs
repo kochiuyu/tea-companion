@@ -60,8 +60,12 @@ async function responsive(page, scope) {
 async function detective(page, url, localeIndex) {
   const locale = locales[localeIndex];
   const component = fs.readFileSync(path.resolve(__dirname, '../assets/tea-label-detective.js'), 'utf8');
-  const guides = JSON.parse(component.match(/const guides = (\[[\s\S]*?\n\]);/)[1]);
-  const accepted = [['origin','particle','type'],['style','type','tier'],['style','preparation'],['blend','type'],[['origin','style'],'type'],['blend','unknown','unknown'],[['preparation','blend'],'style']];
+  const fixtureContext = {};
+  require('node:vm').runInNewContext(component.slice(0,component.indexOf('  let instance = 0;')) + 'globalThis.fixture=JSON.stringify({labels,guides});})();', fixtureContext);
+  const {labels,guides}=JSON.parse(fixtureContext.fixture);
+  const accepted=labels.map(label=>label.clues.map(clue=>clue.answers));
+  const featured=[1,2,0,0,0,2,1,...Array(8).fill(0)];
+  assert.equal(labels.length,15);
   const rethink = ['Here is a more useful reading of this label.','這張標籤可以這樣理解。','这张标签可以这样理解。'][localeIndex];
   const neutral = ['Let’s read this word together.','一起看看這個詞。','一起看看这个词。'][localeIndex];
   await page.goto(url, { waitUntil: 'networkidle' });
@@ -91,12 +95,24 @@ async function detective(page, url, localeIndex) {
   assert.equal(await host.locator('select, input, textarea').count(), 0, 'No typing or dropdowns');
   assert.equal(await picker.evaluate(el => el.open), false);
   assert.equal(await host.locator('.tea-lab-detective-about').evaluate(el => el.open), false);
-  assert.equal(await picker.locator('[data-label-index]').count(), 7);
+  assert.equal(await picker.locator('[data-label-index]').count(), labels.length);
+  const panel=host.locator('.tea-lab-detective-panel');
+  const position=()=>panel.evaluate(el=>[Number(el.dataset.labelIndex),Number(el.dataset.clueIndex)]);
+  const initial=await position();
+  assert.equal(await panel.getAttribute('data-mode'),'round');
+  assert.equal(initial[1],featured[initial[0]]);
+  assert(await action('round-next').isDisabled());
+  assert(await action('round-prev').isDisabled());
+  await action('explore-label').click();assert.deepEqual(await position(),initial);
+  await action('return-round').click();assert.deepEqual(await position(),initial);
   assert.equal(await selected.count(), 0); assert.equal(await feedback.textContent(), '');
   assert(await action('retry').isHidden());
+  await action('reveal').click();
+  const originalRoundFeedback=await feedback.textContent();
   let count = 0, reveals = 0;
   for (let p = 0; p < accepted.length; p++) {
     await packet(p);
+    assert.equal(await panel.getAttribute('data-mode'),'explore');
     assert.equal(await host.locator('.tea-lab-detective-clues button').count(), accepted[p].length);
     for (let c = 0; c < accepted[p].length; c++) {
       await clue(c);
@@ -108,7 +124,7 @@ async function detective(page, url, localeIndex) {
       assert.equal(await group.getAttribute('aria-labelledby'), await question.getAttribute('id'));
       assert.equal(await group.getAttribute('aria-describedby'), await hint.getAttribute('id'));
       assert((await hint.textContent()).includes(guides[p][c].hint[locale]));
-      assert.deepEqual((await host.locator('.tea-lab-detective-progress').textContent()).match(/\d+/g).map(Number), [p+1,7,c+1,accepted[p].length]);
+      assert.deepEqual(await position(),[p,c]);
       for (const value of guides[p][c].choices) {
         await answer(value).focus(); await page.keyboard.press('Enter');
         assert(await answer(value).evaluate(el => document.activeElement === el), 'Answer retains focus');
@@ -128,33 +144,77 @@ async function detective(page, url, localeIndex) {
       const revealed = await feedback.textContent();
       await clue((c+1)%accepted[p].length); await clue(c);
       assert.equal(await feedback.textContent(), revealed);
-      await packet((p+1)%7); await packet(p);
+      await packet((p+1)%labels.length); await packet(p);
       assert.equal(await feedback.textContent(), revealed); assert.equal(await selected.count(), 0);
-      await retry(); await packet((p+1)%7); await packet(p);
+      await retry(); await packet((p+1)%labels.length); await packet(p);
       assert.equal(await feedback.textContent(), '');
       reveals++;
     }
   }
-  assert.equal(count, 51); assert.equal(reveals, 17);
+  assert.equal(count, 99); assert.equal(reveals, 33);
   await packet(0); await clue(0); await answer('origin').click();
   await clue(1); await action('reveal').click(); await retry();
   await clue(0); assert.equal(await selected.getAttribute('data-category'), 'origin', 'Retry clears only current clue');
   await packet(1); await packet(0); assert.equal(await selected.getAttribute('data-category'), 'origin');
   await retry();
-  const navigation = host.locator('.tea-lab-detective-actions').last().locator('button');
-  assert.equal(await navigation.first().textContent(), ['← Last label','← 最後一張標籤','← 最后一张标签'][localeIndex]);
-  await navigation.first().click();
-  assert.equal(await picker.locator('[aria-pressed="true"]').getAttribute('data-label-index'), '6');
-  assert.equal(await navigation.last().textContent(), ['Back to the first label →','返回第一張標籤 →','返回第一张标签 →'][localeIndex]);
-  await navigation.last().click();
-  assert.equal(await picker.locator('[aria-pressed="true"]').getAttribute('data-label-index'), '0');
+  assert.equal(await action('explore-prev').textContent(), ['← Last label','← 最後一張標籤','← 最后一张标签'][localeIndex]);
+  await action('explore-prev').click();
+  assert.deepEqual(await position(),[14,labels[14].clues.length-1]);
+  assert.equal(await action('explore-next').textContent(), ['Back to the first label →','返回第一張標籤 →','返回第一张标签 →'][localeIndex]);
+  await action('explore-next').click();
+  assert.deepEqual(await position(),[0,0]);
   // Running enhancement twice must preserve the same mounted nodes and state.
   await answer('origin').click();
   const mounted = await host.locator('.tea-lab-detective').elementHandle();
   await page.addScriptTag({content: component});
   assert(await mounted.evaluate(el => el.isConnected)); assert.equal(await selected.getAttribute('data-category'), 'origin');
+  await action('return-round').click();
+  assert.deepEqual(await position(),initial);
+  assert.equal(await feedback.textContent(),originalRoundFeedback,'Explore does not change round answers');
+  const seen=[];
+  for(let batch=0;batch<3;batch++){
+    const currentBatch=[];
+    for(let i=0;i<5;i++){
+      assert.equal(await panel.getAttribute('data-mode'),'round');
+      const current=await position();
+      assert(!seen.includes(current[0]),'No label repeats until pool exhausted');
+      assert.equal(current[1],featured[current[0]]);seen.push(current[0]);currentBatch.push(current[0]);
+      if(batch||i){
+        assert(await action('round-next').isDisabled());
+        await action('round-next').evaluate(el=>el.click());
+        assert.deepEqual(await position(),current,'Cannot skip unanswered label');
+      }
+      if(i){
+        await action('round-prev').evaluate(el=>{el.click();el.click();});assert.equal((await position())[0],currentBatch[i-1]);
+        assert(await action('round-next').isEnabled());await action('round-next').click();assert.deepEqual(await position(),current);
+      }
+      if(!batch&&!i) await retry();
+      if(i%2) {await answers.first().focus();await page.keyboard.press('Enter');}
+      else await action('reveal').click();
+      assert(await action('round-next').isEnabled());
+      const saved=await feedback.textContent();
+      await packet(current[0]);await action('return-round').click();
+      assert.deepEqual(await position(),current);assert.equal(await feedback.textContent(),saved);
+      await action('round-next').evaluate(el=>{el.click();el.click();});
+    }
+    assert.equal(await panel.getAttribute('data-mode'),'summary');
+    const summary=host.locator('.tea-lab-detective-summary');assert.equal(await summary.locator('li').count(),5);
+    for(const p of currentBatch) assert((await summary.textContent()).includes(labels[p].clues[featured[p]].why[locale]));
+    assert.equal(await action('round-next').count(),0);
+    assert.equal(await action('more').count(),batch<2?1:0);assert.equal(await action('reshuffle').count(),batch===2?1:0);
+    await responsive(page, `${locale} detective summary ${batch+1}`);
+    await packet(0);await action('return-round').click();assert.equal(await panel.getAttribute('data-mode'),'summary');
+    await action('review-round').click();await action('explore-label').click();await action('return-round').click();
+    assert.equal(await panel.getAttribute('data-mode'),'round');
+    for(const p of currentBatch){assert.equal((await position())[0],p);assert(await action('round-next').isEnabled());await action('round-next').click();}
+    assert.equal(await panel.getAttribute('data-mode'),'summary');
+    if(batch<2) await action('more').evaluate(el=>{el.click();el.click();});
+  }
+  assert.equal(new Set(seen).size,15);
+  await action('reshuffle').evaluate(el=>{el.click();el.click();});assert.equal(await panel.getAttribute('data-mode'),'round');
+  assert(await action('round-next').isDisabled());assert.equal(await feedback.textContent(),'');
   await responsive(page, `${locale} detective`);
-  report.results.push(`${locale}: 51 choice cases, 17 neutral reveals, all accepted alternatives, source anchors, focus, accessibility, retention/retry and duplicate init`);
+  report.results.push(`${locale}: 99 choice cases, 33 reveals, original alternatives, sources, focus, independent explore retention, full 15-label random cycle, three summaries and explicit reshuffle`);
 }
 async function cups(page, url, locale) {
   await page.goto(url, { waitUntil: 'networkidle' });
