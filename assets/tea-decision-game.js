@@ -308,6 +308,7 @@
       split.setAttribute('aria-label', t.offer);
       for (const [i, label] of [t.you, t.other].entries()) {
         const card = node('div', undefined, 'tea-decision-share');
+        if (typeof window !== 'undefined' && window.TeaGameFigures) card.append(window.TeaGameFigures.art('tokens', scenes[index].accept[i]));
         card.append(node('span', label), node('strong', `${scenes[index].accept[i]} ${t.tokens}`));
         split.append(card);
       }

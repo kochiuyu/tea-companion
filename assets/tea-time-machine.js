@@ -57,6 +57,7 @@
       const list = el('ol', undefined, 'tea-time-timeline');
       [...events].sort((a, b) => a.start - b.start).forEach(event => {
         const item = el('li'); item.dataset.eventId = event.id;
+        if (window.TeaGameFigures) item.append(window.TeaGameFigures.figure(event.icon, lang));
         item.append(el('p', t(event.date), 'tea-time-date'), el('h5', t(event.title)), el('p', t(event.story)), sources(event));
         list.append(item);
       });
@@ -72,6 +73,7 @@
       const panel = el('div', undefined, 'tea-time-panel'); panel.dataset.mode = mode;
       let heading;
       if (mode === 'welcome') {
+        if (window.TeaGameFigures) panel.append(window.TeaGameFigures.figure('journey', lang));
         panel.append(button(t(ui.start), 'start', safe(() => { mode = 'round'; render(true); })));
       } else if (mode === 'summary') {
         heading = el('h4', t(ui.summary)); heading.tabIndex = -1;
@@ -104,9 +106,11 @@
         panel.append(heading, progress);
         const cards = el('div', undefined, 'tea-time-cards');
         const known = el('div', undefined, 'tea-time-card tea-time-anchor');
+        if (window.TeaGameFigures) known.append(window.TeaGameFigures.figure(anchor.icon, lang));
         known.append(el('p', t(ui.known), 'tea-time-kicker'), el('p', t(anchor.date), 'tea-time-date'), el('h5', t(anchor.title)));
         const mystery = el('div', undefined, 'tea-time-card tea-time-mystery');
         const questionMark = el('p', '?', 'tea-time-date'); questionMark.setAttribute('aria-hidden', 'true');
+        if (window.TeaGameFigures) mystery.append(window.TeaGameFigures.figure(candidate.icon, lang));
         mystery.append(el('p', t(ui.mystery), 'tea-time-kicker'), questionMark, el('h5', t(candidate.title)));
         cards.append(known, mystery); panel.append(cards);
         const field = el('fieldset', undefined, 'tea-time-choices');

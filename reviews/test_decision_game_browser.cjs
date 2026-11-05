@@ -20,6 +20,7 @@ let browser, server;
   assert(fs.existsSync(path.join(root, 'index.html')), 'Render the Quarto site first.');
   server = http.createServer((req, res) => {
     const name = decodeURIComponent(new URL(req.url, 'http://localhost').pathname);
+    if (name === '/favicon.ico') { res.writeHead(204); res.end(); return; }
     const file = path.resolve(root, '.' + name);
     if (!file.startsWith(root + path.sep) || !fs.existsSync(file) || !fs.statSync(file).isFile()) { res.writeHead(404); res.end(); return; }
     res.setHeader('Content-Type', ({'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8'})[path.extname(file)] || 'application/octet-stream');
@@ -37,6 +38,9 @@ let browser, server;
     page.on('console', message => { if (message.type() === 'error') report.browserErrors.push({locale, error:message.text()}); });
     const url = base + (locale === 'en' ? '' : locale + '/') + 'modules/module-05/03-trust-games.html';
     await page.goto(url, { waitUntil:'networkidle' });
+    // Quarto's tabset module initializes this shell key lazily, including on reload.
+    const gameStorageKeys = () => [Object.keys(localStorage).filter(k => k !== 'quarto-persistent-tabsets-data').sort(), Object.keys(sessionStorage).sort()];
+    const storageBefore = await page.evaluate(gameStorageKeys);
     const host = page.locator('[data-tea-decision]');
     const game = host.locator('.tea-decision-game');
     await game.waitFor();
@@ -137,7 +141,7 @@ let browser, server;
     assert.equal(await stage.getAttribute('data-mode'),'play');
     assert.equal(await position(),'0');
     assert(await feedback.isHidden());
-    assert.deepEqual(await page.evaluate(() => [localStorage.length,sessionStorage.length]),[0,0]);
+    assert.deepEqual(await page.evaluate(gameStorageKeys),storageBefore,'The game adds no storage keys beyond the site shell');
     const ids = await page.locator('[id]').evaluateAll(nodes => nodes.map(n => n.id));
     assert.equal(new Set(ids).size,ids.length,'No duplicate IDs');
     report.results.push(`${locale}: 9 possible outcomes, keyboard, retry/revisit, mixed summary, restart/reload, repeated-click safety, 320/390/768px, 44px targets, forced colors`);

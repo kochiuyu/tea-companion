@@ -99,6 +99,7 @@
         panel.append(heading);
         const story = el('div', undefined, 'tea-study-case');
         story.append(el('p', t(ui.invented), 'tea-study-note'), el('p', t(c.headline), 'tea-study-headline'), el('p', t(c.story)));
+        if (window.TeaGameFigures) story.append(window.TeaGameFigures.figure(c.id, lang));
         panel.append(story);
         const question = el('p', t(c.question), 'tea-study-question'); question.id = `${id}-question`;
         panel.append(question);
