@@ -563,6 +563,7 @@
       const pair = el('div', '', 'tea-compare-pair'); pair.setAttribute('role', 'group'); pair.setAttribute('aria-labelledby', question.id); pair.setAttribute('aria-describedby', clue.id);
       const cards = content.options.map((name, index) => {
         const card = button('', () => reveal(index), 'tea-compare-option'); card.dataset.answer = String(index);
+        if (typeof window !== 'undefined' && window.TeaGameFigures) card.append(window.TeaGameFigures.art('cup'));
         card.append(el('span', index ? 'B' : 'A', 'tea-compare-letter'), el('span', name, 'tea-compare-name'));
         const mark = el('span', t.guess, 'tea-compare-mark'); card.append(mark); pair.append(card);
         return { card, mark };

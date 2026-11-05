@@ -1,0 +1,16 @@
+/* Shared palette and responsive sizing, matching Set the Tea Table. */
+.tea-game-figure { margin: .7rem 0 1rem; max-width: 30rem; }
+.tea-game-art { display: block; width: 100%; max-width: 22rem; height: auto; margin-inline: auto; }
+.tea-game-figure figcaption { margin-top: .35rem; font-size: .85rem; line-height: 1.45; color: #466356; text-align: center; }
+.tea-time-card .tea-game-art { max-width: 15rem; }
+.tea-time-timeline .tea-game-figure { max-width: 16rem; }
+.tea-compare-option > .tea-game-art { max-width: 10rem; margin-block: .4rem; }
+.tea-decision-split .tea-game-art { max-width: 16rem; }
+@media (max-width: 480px) {
+  .tea-game-art { max-width: 18rem; }
+  .tea-time-card .tea-game-art { max-width: 12rem; }
+}
+@media (forced-colors: active) {
+  .tea-game-art { border: 1px solid CanvasText; }
+  .tea-game-figure figcaption { color: CanvasText; }
+}

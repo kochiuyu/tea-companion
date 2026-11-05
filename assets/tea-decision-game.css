@@ -32,4 +32,4 @@
   .tea-decision-share { padding: .7rem; }
   .tea-decision-share strong { font-size: 1.15rem; }
 }
-@media (forced-colors: active) { .tea-decision-button[aria-pressed="true"] { outline: 3px solid Highlight; } }
+@media (forced-colors: active) { .tea-decision-game .tea-decision-button[aria-pressed="true"] { outline: 3px solid Highlight; } }

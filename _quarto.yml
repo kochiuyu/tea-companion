@@ -165,6 +165,7 @@ format:
     css:
       - styles.css
       - assets/tea-interactions.css
+      - assets/tea-game-figures.css
       - assets/tea-label-detective.css
     toc: true
     footnotes-hover: true
