@@ -15,6 +15,16 @@ lang: zh-Hant-HK
 :::
 <!-- interactive-pilot:end -->
 
+<!-- thinking-games:start -->
+::: {.tea-pilot-link}
+**再試兩個小遊戲**
+
+先作選擇，再看看規則；或找出一項虛構研究漏了哪個比較。兩個遊戲都用假設例子，不是研究結果。
+
+[玩一個決策 →](modules/module-05/03-trust-games.qmd#decision-rules-game) · [做研究偵探 →](tea-reading-studies.qmd#study-detective)
+:::
+<!-- thinking-games:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **由一個問題開始**

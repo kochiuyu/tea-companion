@@ -1,0 +1,35 @@
+/* Scoped to the decision game; no lesson typography overrides. */
+.tea-decision-game, .tea-decision-game * { box-sizing: border-box; }
+.tea-decision-game { color: #263b2b; background: #f8f8f1; border: 1px solid #8d9a85; border-radius: 1rem; padding: clamp(1rem, 3vw, 1.8rem); margin-block: 1.5rem; min-width: 0; overflow-wrap: anywhere; }
+.tea-decision-game [hidden] { display: none !important; }
+.tea-decision-game h3, .tea-decision-game h4 { color: inherit; }
+.tea-decision-badge, .tea-decision-progress { font-size: .92rem; font-weight: 650; }
+.tea-decision-scope, .tea-decision-limit { font-size: .93rem; line-height: 1.6; }
+.tea-decision-scope { border-bottom: 1px solid #b7c1b1; padding-bottom: 1rem; }
+.tea-decision-split, .tea-decision-options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .75rem; margin-block: 1rem; }
+.tea-decision-share { padding: 1rem; border: 1px solid #8d9a85; border-radius: .5rem; background: #fff; }
+.tea-decision-share span, .tea-decision-share strong, .tea-decision-options strong, .tea-decision-options span { display: block; }
+.tea-decision-share strong { font-size: 1.4rem; margin-top: .3rem; }
+.tea-decision-button { display: inline-block; min-height: 44px; font: inherit; line-height: 1.5; white-space: normal; text-align: start; border: 1px solid #64775e; border-radius: .45rem; padding: .7rem .9rem; background: #fff; color: #263b2b; cursor: pointer; }
+.tea-decision-options .tea-decision-button { width: 100%; }
+.tea-decision-options span { margin-top: .4rem; font-size: .94rem; }
+.tea-decision-game .tea-decision-button[aria-pressed="true"] { background: #294b34; color: #fff; border-color: #294b34; text-decoration: underline; text-underline-offset: .2em; }
+.tea-decision-button:hover:not(:disabled) { box-shadow: inset 0 0 0 1px currentColor; }
+.tea-decision-button:disabled { opacity: .55; cursor: not-allowed; }
+.tea-decision-game :focus-visible, .tea-decision-game h3:focus { outline: 3px solid #85521c; outline-offset: 4px; }
+.tea-decision-actions { display: flex; flex-wrap: wrap; gap: .65rem; margin-top: 1rem; }
+.tea-decision-feedback { margin-top: 1rem; background: #fff; border: 1px solid #8d9a85; border-radius: .5rem; padding: 1rem; }
+.tea-decision-chosen, .tea-decision-result { font-weight: 650; }
+.tea-decision-rules dt { margin-top: .8rem; }
+.tea-decision-rules dd { margin: .3rem 0 0; line-height: 1.6; }
+.tea-decision-game a { color: #23563b; text-underline-offset: .15em; }
+.tea-decision-summary { padding-left: 1.3rem; }
+.tea-decision-summary li { margin-bottom: 1.4rem; }
+.tea-decision-status { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+@media (max-width: 480px) {
+  .tea-decision-options { grid-template-columns: minmax(0, 1fr); }
+  .tea-decision-actions .tea-decision-button, .tea-decision-unsure { width: 100%; }
+  .tea-decision-share { padding: .7rem; }
+  .tea-decision-share strong { font-size: 1.15rem; }
+}
+@media (forced-colors: active) { .tea-decision-button[aria-pressed="true"] { outline: 3px solid Highlight; } }

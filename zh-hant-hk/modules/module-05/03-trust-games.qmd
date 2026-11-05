@@ -5,6 +5,28 @@ lang: zh-Hant-HK
 
 {{< include ../../../_includes/lang-switcher/module-05-trust-games.zh-hant-hk.qmd >}}
 
+<!-- decision-game:start -->
+## 先作選擇，再看清規則 {#decision-rules-game}
+
+```{=html}
+<link rel="stylesheet" href="../../../assets/tea-decision-game.css">
+<script src="../../../assets/tea-decision-game.js" defer></script>
+<div data-tea-decision data-locale="zh-hant-hk">
+<p>沒有 JavaScript 也可以比較以下三個例子。每次都由你決定接受或拒絕一個分配。所有數字都是虛構代幣，對方是例子中的角色，不是真人。</p>
+<ol><li><strong>你只得到較少的一份</strong><p>接受：你得到 2 枚；對方得到 8 枚。 拒絕：你得到 0 枚；對方得到 0 枚。</p><p>這是起始規則：接受就按提議分配；拒絕則雙方都得零。</p></li><li><strong>換一個提議</strong><p>接受：你得到 5 枚；對方得到 5 枚。 拒絕：你得到 0 枚；對方得到 0 枚。</p><p>只有提議變了：2 比 8 改成 5 比 5。拒絕仍然令雙方都得零。</p></li><li><strong>說「不」的規則改了</strong><p>接受：你得到 2 枚；對方得到 8 枚。 拒絕：你得到 1 枚；對方得到 1 枚。</p><p>跟第一個選擇相比，2 比 8 的提議不變，但拒絕由各得零改為各得 1 枚。未分配的代幣會消失。這是教學變式，不是標準最後通牒博弈。</p></li></ol>
+<p>接受和拒絕都沒有標準答案。留意提議或拒絕規則如何改變可選結果。這些例子不會測試性格、是否值得信任，或茶的影響。</p>
+</div>
+```
+
+::: {.callout-note collapse="true" title="這個遊戲從哪裏來？" #decision-game-notes}
+首兩個例子採用最後通牒博弈的接受或拒絕結構：接受便按提議分配；拒絕則雙方都得零。第三個例子改了拒絕後的結果，是教學變式，不是標準規則。提議是固定例子，不是研究結果。真實實驗可能涉及真人和金錢，所以點選這些選項不等於重做研究。
+
+[背景：Güth、Schmittberger 與 Schwarze（1982），見本節引文。](#fn1)
+
+這個遊戲沒有測試茶、溫度或任何飲品。要研究飲品的影響，需要有合適比較條件的受控研究。
+:::
+<!-- decision-game:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **由一個問題開始**

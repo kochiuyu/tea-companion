@@ -15,6 +15,16 @@ lang: zh-Hans
 :::
 <!-- interactive-pilot:end -->
 
+<!-- thinking-games:start -->
+::: {.tea-pilot-link}
+**再试两个小游戏**
+
+先作选择，再看看规则；或找出一项虚构研究漏了哪个比较。两个游戏都用假设例子，不是研究结果。
+
+[玩一个决策 →](modules/module-05/03-trust-games.qmd#decision-rules-game) · [做研究侦探 →](tea-reading-studies.qmd#study-detective)
+:::
+<!-- thinking-games:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **从一个问题开始**

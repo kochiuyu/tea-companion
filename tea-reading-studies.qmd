@@ -3,6 +3,100 @@ title: "Reading a tea study"
 ---
 {{< include _includes/lang-switcher/tea-reading-studies.en.qmd >}}
 
+<!-- study-detective:start -->
+## Spot the missing control {#study-detective}
+
+```{=html}
+<link rel="stylesheet" href="assets/tea-study-detective.css">
+<script src="assets/tea-study-detective-data.js" defer></script>
+<script src="assets/tea-study-detective.js" defer></script>
+<div data-tea-study-detective data-locale="en">
+<p>You can still play without JavaScript: read a case, make a guess, then open its explanation.</p>
+<p>Every headline and result in this game is invented for learning, not a report of a real study. Some cases lack a control; others overstate dose, timing or evidence. A missing detail is a reason to ask a better question, not proof that tea works or does not work. Your choices stay only while this page is open.</p>
+<details class="tea-study-fallback"><summary>Two very different cups</summary>
+<p><strong>“Tea makes people kinder”</strong></p>
+<p>One group holds a warm, fragrant tea in a ceramic mug. Another gets cold water in a plastic cup. The tea group gives more tokens to a stranger in a game.</p>
+<p>What makes the headline hard to support?</p>
+<ol>
+<li>Several parts of the cup experience changed together.</li>
+<li>The cups should both be larger.</li>
+<li>Giving more tokens always means a better decision.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>Several parts of the cup experience changed together.</strong></p><p>Temperature, aroma, taste and cup material all differ. Any of these could influence expectations or the experience, so the comparison cannot isolate tea chemistry. Match the cup experience as closely as practical and check whether people can guess their drink. Matching helps, but does not guarantee perfect blinding or prove that warmth caused the result.</p><p><a href="modules/module-05/04-study-protocols.html">Matched cups and study controls</a></p></details></details>
+<details class="tea-study-fallback"><summary>A name on the cup</summary>
+<p><strong>“A special tea ingredient creates calm”</strong></p>
+<p>Everyone receives the same drink. By random assignment, half see “calming tea” on the cup and half see “ordinary tea.” The first group reports feeling calmer.</p>
+<p>What did this comparison actually change?</p>
+<ol>
+<li>The amount of a special ingredient.</li>
+<li>The label and the expectations it may create.</li>
+<li>Nothing: reported feelings can never be studied.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>The label and the expectations it may create.</strong></p><p>The drink is identical; the label differs. This is a test of labeling in this setting, not of different ingredient doses. Self-reports can be useful outcomes, but expectations and how a question is asked can affect them. The finding would not establish a new chemical effect or show that everyone will feel calmer.</p><p><a href="modules/module-04/03-expectation-labels.html">Expectation and labels</a></p></details></details>
+<details class="tea-study-fallback"><summary>The missing usual morning</summary>
+<p><strong>“Tea raises attention above normal”</strong></p>
+<p>Regular caffeine users skip caffeine before a test. They are randomly given caffeinated tea or a matched drink without caffeine. The tea group performs better. No one measures withdrawal symptoms or performance on a usual caffeine day.</p>
+<p>What possibility should we check before saying “above normal”?</p>
+<ol>
+<li>Tea must work equally well for non-users.</li>
+<li>Skipping caffeine removes every possible bias.</li>
+<li>Some of the difference could be relief from withdrawal.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>Some of the difference could be relief from withdrawal.</strong></p><p>Abstinence can standardize recent intake, but habitual users may experience withdrawal. Caffeine could partly restore their usual performance rather than raise it above their usual level. Ask about habitual intake, symptoms and a suitable usual-intake comparison. This possibility does not by itself prove that the entire result is withdrawal relief.</p><p><a href="modules/module-05/04-study-protocols.html">Washout and study design</a></p></details></details>
+<details class="tea-study-fallback"><summary>A capsule becomes a mug</summary>
+<p><strong>“One ordinary cup gives the same result”</strong></p>
+<p>A fictional trial compares a capsule containing 200 mg L-theanine plus 100 mg caffeine with a placebo. A headline turns that capsule into “one ordinary cup of tea.”</p>
+<p>Which missing detail matters most for that translation?</p>
+<ol>
+<li>The actual amounts and form in the ordinary cup.</li>
+<li>Whether the capsule and mug have the same colour.</li>
+<li>The idea that anything called tea has one fixed dose.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>The actual amounts and form in the ordinary cup.</strong></p><p>A named capsule dose is not a measured grocery mug. Tea amounts vary with leaf, portion, water and brewing. The Cup reference separates ordinary-cup estimates from study doses. Even matching milligrams would not, on its own, demonstrate the same outcome in a different drink or setting. These example doses are not a drinking or supplement recommendation.</p><p><a href="cup-reference.html">Ordinary cups versus study doses</a></p></details></details>
+<details class="tea-study-fallback"><summary>People choose their own tea</summary>
+<p><strong>“Tea causes calmer days”</strong></p>
+<p>A survey finds that tea drinkers report less stress. They also report more sleep and exercise. People chose their own habits; no drink was randomly assigned.</p>
+<p>What can this survey alone tell us?</p>
+<ol>
+<li>Tea must be the cause because the groups differ.</li>
+<li>Tea drinking and lower reported stress occur together here.</li>
+<li>The result proves tea cannot affect stress.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>Tea drinking and lower reported stress occur together here.</strong></p><p>This is an association. Sleep, exercise, other differences or the direction of cause could help explain it. Statistical adjustment may address measured differences, but cannot guarantee that all confounding is removed. A suitable randomized comparison could strengthen a causal test. The survey neither proves a tea effect nor proves there is none.</p><p><a href="modules/module-05/04-study-protocols.html">Making a fair comparison</a></p></details></details>
+<details class="tea-study-fallback"><summary>One very early test</summary>
+<p><strong>“Tea can never affect attention”</strong></p>
+<p>A small trial finds no clear difference on one short attention task, two minutes after drinking. It does not test later or report how precise the estimate is.</p>
+<p>What is the safest reading?</p>
+<ol>
+<li>A later benefit is now guaranteed.</li>
+<li>Any early test is automatically worthless.</li>
+<li>The result is limited to this task, timing and uncertainty.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>The result is limited to this task, timing and uncertainty.</strong></p><p>Not finding a clear difference is not automatically evidence of no effect at every time or on every task. Check when testing happened, what it measured and the uncertainty around the estimate. Early testing can answer an early-time question; it does not answer every later-time question. Nor does this result establish that a later benefit exists.</p><p><a href="modules/module-05/04-study-protocols.html">Timing and the limits of a test</a></p></details></details>
+<details class="tea-study-fallback"><summary>From a game to real life</summary>
+<p><strong>“Tea makes all your decisions better”</strong></p>
+<p>In a controlled trial, one group pumps a virtual balloon fewer times in a risk-taking task. No daily-life decisions are measured.</p>
+<p>What is the headline adding beyond the measurement?</p>
+<ol>
+<li>That less pumping means better decisions in every setting.</li>
+<li>That researchers used a particular risk-taking task.</li>
+<li>That the groups behaved differently in that task.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>That less pumping means better decisions in every setting.</strong></p><p>A change in a task score is not automatically an improvement, and “less risk” is not always better. The Balloon Analogue Risk Task measures a specific pattern of choices under its rules. Transfer to work, money or relationships requires other evidence. Ask about effect size, uncertainty and replication before broadening even the task-specific claim.</p><p><a href="modules/module-05/02-risk-waiting.html">Risk tasks and their limits</a></p></details></details>
+<details class="tea-study-fallback"><summary>Two ingredients, one claim</summary>
+<p><strong>“Theanine alone caused the change”</strong></p>
+<p>A trial compares caffeine plus L-theanine against a matched placebo. It has no caffeine-only or theanine-only group. The combination group performs differently on an attention task.</p>
+<p>Which comparison is missing for separating the ingredients?</p>
+<ol>
+<li>Use a larger cup for the combination group.</li>
+<li>Compare each ingredient alone as well as together and placebo.</li>
+<li>Remove the placebo group.</li>
+</ol>
+<details><summary>Open the explanation</summary><p><strong>Compare each ingredient alone as well as together and placebo.</strong></p><p>A combination-versus-placebo comparison cannot assign the change to theanine alone. A suitable four-condition design can compare caffeine, theanine, their combination and placebo, with doses and other conditions matched. This can help test the separate contributions and interaction; a combination result alone is not proof of synergy.</p><p><a href="modules/module-05/04-study-protocols.html">Ingredient comparisons and cited studies</a></p></details></details>
+</div>
+```
+<!-- study-detective:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **A question to start with**

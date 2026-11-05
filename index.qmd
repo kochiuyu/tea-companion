@@ -13,6 +13,16 @@ Two quick on-screen games. Guess the difference between two teas, or investigate
 :::
 <!-- interactive-pilot:end -->
 
+<!-- thinking-games:start -->
+::: {.tea-pilot-link}
+**Try two more games**
+
+Make a decision and inspect its rules, or spot what a fictional study forgot to compare. Both use made-up examples, not research results.
+
+[Play a decision →](modules/module-05/03-trust-games.qmd#decision-rules-game) · [Be a study detective →](tea-reading-studies.qmd#study-detective)
+:::
+<!-- thinking-games:end -->
+
 ## A better cup. A more curious mind.
 
 You pour water over leaves. A few minutes later, you have something fragrant, warming, and surprisingly complicated. Why does the same tea taste gentle one morning and bitter the next? What does a name on the packet actually tell you? And how much of a tea headline should you believe?
