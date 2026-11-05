@@ -1,0 +1,37 @@
+/* Scoped to the game. Existing lesson layout is unchanged. */
+.tea-study, .tea-study * { box-sizing: border-box; }
+.tea-study { min-width: 0; overflow-wrap: anywhere; border: 1px solid #8d9a85; border-radius: 1rem; padding: clamp(1rem, 3vw, 1.8rem); margin-block: 1.5rem; background: #f8f8f1; color: #263b2b; }
+.tea-study h3, .tea-study h4, .tea-study h5 { color: inherit; }
+.tea-study h4 { margin-top: .6rem; }
+.tea-study h5 { font-size: 1.1rem; margin: 0 0 .7rem; }
+.tea-study [hidden] { display: none !important; }
+.tea-study-button { min-height: 44px; padding: .65rem .9rem; border: 1px solid #64775e; border-radius: .4rem; background: #fff; color: #263b2b; font: inherit; line-height: 1.45; cursor: pointer; white-space: normal; }
+.tea-study-button:hover { box-shadow: inset 0 0 0 1px currentColor; }
+.tea-study-button[aria-pressed="true"] { background: #294b34; color: #fff; border-color: #294b34; text-decoration: underline; text-underline-offset: .2em; }
+.tea-study-button:disabled { opacity: .55; cursor: not-allowed; }
+.tea-study :focus-visible, .tea-study h4:focus, .tea-study h5:focus { outline: 3px solid #85521c; outline-offset: 3px; }
+.tea-study-about, .tea-study-picker { margin-block: .75rem; }
+.tea-study summary, .tea-study-fallback summary { cursor: pointer; min-height: 44px; padding-block: .65rem; font-weight: 650; }
+.tea-study-picker-buttons { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem; }
+.tea-study-picker-buttons .tea-study-button { text-align: start; }
+.tea-study-case { background: #fff; border-left: 4px solid #6d7a44; padding: 1rem; margin-block: 1rem; }
+.tea-study-case p:last-child { margin-bottom: 0; }
+.tea-study-headline { font-weight: 700; font-size: 1.1rem; }
+.tea-study-note, .tea-study-progress { font-size: .9rem; line-height: 1.6; }
+.tea-study-progress { font-weight: 650; margin-bottom: .35rem; }
+.tea-study-question { font-weight: 650; }
+.tea-study-choices { display: grid; gap: .5rem; border: 0; min-width: 0; padding: 0; margin: 0 0 .8rem; }
+.tea-study-choices legend { font-size: 1rem; margin-bottom: .6rem; }
+.tea-study-choices .tea-study-button { width: 100%; text-align: start; }
+.tea-study-feedback:not(:empty) { border: 1px solid #8d9a85; border-radius: .5rem; padding: 1rem; margin-block: 1rem; background: #fff; }
+.tea-study-feedback p:last-child { margin-bottom: 0; }
+.tea-study-takeaway { font-weight: 650; }
+.tea-study a { color: #23563b; text-decoration: underline; text-underline-offset: .15em; }
+.tea-study-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-block: 1rem 0; }
+.tea-study-takeaways { padding-inline-start: 1.4rem; }
+.tea-study-takeaways li { margin-bottom: 1rem; }
+.tea-study-takeaways p { margin-block: .3rem; }
+.tea-study-status { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+.tea-study-fallback { margin-block: .5rem; }
+@media (max-width: 420px) { .tea-study-picker-buttons { grid-template-columns: minmax(0, 1fr); } .tea-study-actions .tea-study-button { flex: 1 1 100%; } }
+@media (forced-colors: active) { .tea-study-button[aria-pressed="true"] { outline: 2px solid Highlight; } }

@@ -4,6 +4,28 @@ title: "Section 3 · Games of trust, fairness, and cooperation"
 
 {{< include ../../_includes/lang-switcher/module-05-trust-games.en.qmd >}}
 
+<!-- decision-game:start -->
+## Play the decision, then inspect the rules {#decision-rules-game}
+
+```{=html}
+<link rel="stylesheet" href="../../assets/tea-decision-game.css">
+<script src="../../assets/tea-decision-game.js" defer></script>
+<div data-tea-decision data-locale="en">
+<p>Without JavaScript, compare the three examples below. In each, you choose whether to accept a proposed split. All numbers are fictional tokens. The other player is part of the example, not a real person.</p>
+<ol><li><strong>A small share for you</strong><p>Accept: you get 2; the other player gets 8. Reject: you get 0; the other player gets 0.</p><p>This is the starting rule: accepting carries out the split; rejecting gives both players zero.</p></li><li><strong>A different offer</strong><p>Accept: you get 5; the other player gets 5. Reject: you get 0; the other player gets 0.</p><p>Only the offer changed: 2–8 became 5–5. Rejecting still gives both players zero.</p></li><li><strong>A different rule for saying no</strong><p>Accept: you get 2; the other player gets 8. Reject: you get 1; the other player gets 1.</p><p>Compared with the first decision, the 2–8 offer is the same, but rejection now gives 1–1 instead of 0–0. Unallocated tokens disappear. This is a teaching variation, not the standard ultimatum game.</p></li></ol>
+<p>Neither accepting nor rejecting is marked correct. Notice how the offer or rejection rule changes your options. These examples do not test personality, trustworthiness, or any effect of tea.</p>
+</div>
+```
+
+::: {.callout-note collapse="true" title="Where this game comes from" #decision-game-notes}
+The first two examples use the accept-or-reject structure of ultimatum bargaining: accepting implements the offered split; rejecting gives both players zero. The third is a teaching variation with a different rejection outcome, not the standard game. The offers are fixed examples, not research results. Real experiments may use real people and payments, so these clicks do not reproduce a study.
+
+[Background: Güth, Schmittberger & Schwarze (1982), cited in this lesson.](#fn1)
+
+Nothing here tests tea, warmth, or any drink. A controlled study with suitable comparisons would be needed to investigate a drink effect.
+:::
+<!-- decision-game:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **A question to start with**

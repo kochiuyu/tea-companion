@@ -5,6 +5,100 @@ lang: zh-Hant-HK
 
 {{< include ../_includes/lang-switcher/tea-reading-studies.zh-hant-hk.qmd >}}
 
+<!-- study-detective:start -->
+## 找出漏掉的對照 {#study-detective}
+
+```{=html}
+<link rel="stylesheet" href="../assets/tea-study-detective.css">
+<script src="../assets/tea-study-detective-data.js" defer></script>
+<script src="../assets/tea-study-detective.js" defer></script>
+<div data-tea-study-detective data-locale="zh-hant-hk">
+<p>不用 JavaScript 也可以玩：讀案例、猜一猜，再打開解說。</p>
+<p>遊戲中的所有標題與結果都是教學虛構，並非真實研究報道。有些案例缺少對照，有些誇大了劑量、時間或證據。缺少細節，是提出更好問題的理由，不是茶有效或無效的證明。選擇只保留至關閉此頁。</p>
+<details class="tea-study-fallback"><summary>兩杯很不同的飲品</summary>
+<p><strong>「喝茶令人更友善」</strong></p>
+<p>一組人拿着陶瓷杯，喝溫暖而有香氣的茶；另一組用膠杯喝冷水。在遊戲中，喝茶的一組給陌生人更多代幣。</p>
+<p>甚麼令這個標題難以成立？</p>
+<ol>
+<li>喝茶體驗的幾個部分同時改變了。</li>
+<li>兩組都應該用更大的杯。</li>
+<li>給更多代幣，一定代表決策更好。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>喝茶體驗的幾個部分同時改變了。</strong></p><p>溫度、香氣、味道和杯的材質都不同。這些差別可能影響期望或體驗，因此不能單獨歸因於茶的化學成分。應盡量配對飲品與杯的感官體驗，並檢查參加者能否猜到自己喝的是甚麼。配對有幫助，但不保證完全盲法，也不證明結果由溫度造成。</p><p><a href="modules/module-05/04-study-protocols.html">配對杯與研究對照</a></p></details></details>
+<details class="tea-study-fallback"><summary>杯上的名稱</summary>
+<p><strong>「特殊茶成分令人平靜」</strong></p>
+<p>所有人喝的飲品相同。隨機分配後，一半人的杯上寫着「安神茶」，另一半寫着「普通茶」。第一組自評較平靜。</p>
+<p>這個比較實際改變了甚麼？</p>
+<ol>
+<li>特殊成分的份量。</li>
+<li>標籤，以及它可能帶來的期望。</li>
+<li>甚麼也沒有：自述感受不能用來研究。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>標籤，以及它可能帶來的期望。</strong></p><p>飲品一樣，標籤不同。這是測試此情境下的標籤影響，不是比較成分劑量。自述感受可以是有用的研究結果，但期望與提問方式可能影響回答。這不會證明新的化學作用，也不表示每個人都會更平靜。</p><p><a href="modules/module-04/03-expectation-labels.html">期望與標籤</a></p></details></details>
+<details class="tea-study-fallback"><summary>少了平常的早晨</summary>
+<p><strong>「喝茶令注意力超越平常」</strong></p>
+<p>平日有喝咖啡因飲品的人，測驗前暫停攝取咖啡因，再隨機喝含咖啡因的茶或不含咖啡因的配對飲品。喝茶的一組表現較好。研究沒有量度戒斷症狀，也沒有量度平常攝取咖啡因那天的表現。</p>
+<p>說「超越平常」之前，應檢查哪個可能性？</p>
+<ol>
+<li>茶對平日不攝取咖啡因的人一定同樣有效。</li>
+<li>停用咖啡因就會消除所有偏差。</li>
+<li>部分差異可能來自減輕戒斷反應。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>部分差異可能來自減輕戒斷反應。</strong></p><p>暫停攝取可統一近期攝取情況，但慣常使用者可能出現戒斷反應。咖啡因可能部分恢復平常表現，而不是令表現超越平常。應問慣常攝取量、症狀，以及有沒有合適的日常攝取情況比較。這個可能性本身，並不證明整個結果都是解除戒斷所致。</p><p><a href="modules/module-05/04-study-protocols.html">洗脫期與研究設計</a></p></details></details>
+<details class="tea-study-fallback"><summary>膠囊變成一杯茶</summary>
+<p><strong>「普通一杯茶就有同樣結果」</strong></p>
+<p>一項虛構試驗比較含 200 毫克茶氨酸及 100 毫克咖啡因的膠囊與安慰劑。標題把這顆膠囊說成「普通一杯茶」。</p>
+<p>要作出這種換算，最需要哪項資料？</p>
+<ol>
+<li>普通一杯茶的實際含量與形式。</li>
+<li>膠囊與杯的顏色是否相同。</li>
+<li>假設所有叫「茶」的東西，劑量都固定。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>普通一杯茶的實際含量與形式。</strong></p><p>已知劑量的膠囊，不等於量度過的家常一杯茶。含量會隨茶葉、用量、水及沖泡方式而變。杯量參考把日常杯量估計與研究劑量分開。即使毫克數相同，也不能單憑這一點證明不同飲品或情境有相同結果。這些示例劑量不是飲茶或補充劑建議。</p><p><a href="cup-reference.html">日常杯量與研究劑量</a></p></details></details>
+<details class="tea-study-fallback"><summary>人們自行選擇喝茶</summary>
+<p><strong>「茶令人每天更平靜」</strong></p>
+<p>問卷發現，喝茶的人自述壓力較少，也自述睡眠和運動較多。生活習慣由人們自行選擇，飲品並非隨機分配。</p>
+<p>單憑這份問卷，我們能知道甚麼？</p>
+<ol>
+<li>兩組有差別，所以茶一定是原因。</li>
+<li>在這份資料裏，喝茶與較低的自述壓力一起出現。</li>
+<li>結果證明茶不可能影響壓力。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>在這份資料裏，喝茶與較低的自述壓力一起出現。</strong></p><p>這是關聯。睡眠、運動、其他差異，或因果方向，都可能有助解釋結果。統計調整可處理已量度的差異，但不保證消除所有混雜因素。合適的隨機比較可加強因果測試。這份問卷既不證明茶有效，也不證明完全沒有效果。</p><p><a href="modules/module-05/04-study-protocols.html">建立公平的比較</a></p></details></details>
+<details class="tea-study-fallback"><summary>一個很早的測驗</summary>
+<p><strong>「茶絕不會影響注意力」</strong></p>
+<p>一項小型試驗在飲用後兩分鐘，做一次簡短注意力測驗，沒有找到明確差異。研究沒有測試較後時間，也沒有交代估計有多精確。</p>
+<p>怎樣理解最穩妥？</p>
+<ol>
+<li>之後有好處，已經可以肯定。</li>
+<li>凡是很早的測驗，都毫無價值。</li>
+<li>結果受限於這個任務、時間與不確定程度。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>結果受限於這個任務、時間與不確定程度。</strong></p><p>沒有找到明確差異，不自動等於在所有時間、所有任務都沒有效果。應看測驗何時進行、量度了甚麼，以及估計的不確定程度。早期測驗可以回答早期的問題，卻不能回答所有較後時間的問題；它也不證明之後一定有好處。</p><p><a href="modules/module-05/04-study-protocols.html">測驗時間與限制</a></p></details></details>
+<details class="tea-study-fallback"><summary>從遊戲跳到現實</summary>
+<p><strong>「茶令你所有決策更好」</strong></p>
+<p>在一項有對照的試驗裏，一組人在冒險任務中，替虛擬氣球充氣的次數較少。研究沒有量度日常決策。</p>
+<p>標題比實際量度多說了甚麼？</p>
+<ol>
+<li>把充氣較少說成在所有情境下決策更好。</li>
+<li>研究者使用了一個特定的冒險任務。</li>
+<li>兩組在這個任務中的行為不同。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>把充氣較少說成在所有情境下決策更好。</strong></p><p>任務分數改變，不自動等於改善；「較少冒險」也不一定較好。氣球類比風險任務是在特定規則下量度某種選擇模式。能否延伸到工作、金錢或人際關係，需要其他證據。即使只談此任務，也應先問效應大小、不確定性與能否重複驗證。</p><p><a href="modules/module-05/02-risk-waiting.html">冒險任務與限制</a></p></details></details>
+<details class="tea-study-fallback"><summary>兩種成分，一個主張</summary>
+<p><strong>「改變全由茶氨酸造成」</strong></p>
+<p>試驗比較咖啡因加茶氨酸與配對安慰劑，沒有單獨咖啡因或單獨茶氨酸組。混合組在注意力任務中的表現不同。</p>
+<p>要分開成分的影響，欠了哪種比較？</p>
+<ol>
+<li>混合組改用更大的杯。</li>
+<li>同時比較各成分單獨使用、混合使用與安慰劑。</li>
+<li>移除安慰劑組。</li>
+</ol>
+<details><summary>打開解說</summary><p><strong>同時比較各成分單獨使用、混合使用與安慰劑。</strong></p><p>混合成分對安慰劑的比較，不能把改變歸給茶氨酸一種成分。合適的四組設計可比較咖啡因、茶氨酸、兩者混合與安慰劑，並配對劑量及其他條件。這有助測試各自貢獻與交互作用；單憑混合組的結果，不能證明協同作用。</p><p><a href="modules/module-05/04-study-protocols.html">成分比較與引述研究</a></p></details></details>
+</div>
+```
+<!-- study-detective:end -->
+
 <!-- reader-guide:start -->
 ::: {.reader-guide}
 **由一個問題開始**
