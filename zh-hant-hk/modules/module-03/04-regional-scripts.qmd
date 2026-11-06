@@ -99,6 +99,15 @@ lang: zh-Hant-HK
 
 ## 肖像一——潮汕工夫：日常搭台
 
+<!-- history-illustration:chaoshan-table:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="chaoshan-table">
+  <img src="../../../assets/history-illustrations/chaoshan-table.svg" width="760" height="320" alt="人們圍着日常茶桌上的小茶壺與小杯相聚。" loading="lazy" decoding="async">
+  <figcaption><strong>小杯子，日常相聚</strong> 潮汕這一幅肖像裏，一泡又一泡為日常待客留出空間。這個虛構聚會用來說明情境，不是固定的全國茶禮，也不是每個家庭的規則。</figcaption>
+</figure>
+```
+<!-- history-illustration:chaoshan-table:end -->
+
 想象一張潮汕桌子：一把小砂壺，一簇小杯，葉子泡得很短，也倒得很勤。客人不是在等一次盛大的長泡。他們坐着，一遍遍衝，一邊說話——家裏人、朋友、做生意的——屋子就這樣轉下去。壺一次次回到同一把葉子上。杯子一直很小。沒有人需要一座舞台。在潮汕，也就是粵東，工夫茶最好當成**日常待客**來講，而不是博物館裏的「中國茶道」。[^1] 田野想說的是：喝茶怎樣織進每天的人情，而不是另演一出叫「茶藝」的戲。[^1]
 
 同一把葉子、同一套器具，可以換一種過法，傢俬卻不用換。有的場合仍是日常待客，桌子負責把人留住。有的場合則把辨味做細：看壺，看葉子，在意這杯落到嘴裏是甚麼味道，說話也輕。茶館把閒暇賣給付錢的客人。d'Abbs 的田野把這三種一起看：日常的做法、把品嚐做講究，以及茶館裏拿來賣的消閒。[^1] 正文先守住日常這一條，讓初學的人先遇見人，而不是一套打包好的課程。器具、「發明的傳統」這條界線，以及福建烏龍怎樣走進潮州、變成當地做法的那條有年份的線索，都放在摺頁裏。[^1][^2][^7]
@@ -169,6 +178,15 @@ Mak（2020）順着看奶茶的製作技藝怎樣在香港變成遺產，也變�
 :::
 
 ## 肖像三——台灣茶藝
+
+<!-- history-illustration:taiwan-tea-art:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="taiwan-tea-art">
+  <img src="../../../assets/history-illustrations/taiwan-tea-art.svg" width="760" height="320" alt="小茶壺、飲用杯、高身聞香杯與布席，佈置在茶空間中。" loading="lazy" decoding="async">
+  <figcaption><strong>布置也成為茶的一部分</strong> 台灣茶藝這一幅肖像着重動作、器具與設計過的茶空間。高身聞香杯是文中討論的一項特色，並非每次聚會的必備器物。</figcaption>
+</figure>
+```
+<!-- history-illustration:taiwan-tea-art:end -->
 
 台灣當代的*茶藝*（*cha yi*）聚會，用沖泡、身體的姿態、器具的佈置（*茶席*［*chaxi*］），以及設計過的茶空間，把雅緻擺出來。這是一種走感官、又有儀式感的審美，常被稱作文人茶。[^6] Yu 把公開的茶會寫成一片「感官上的風景」：香氣、光、聲音、器具和氣氛，一起劃出誰是「我們」、誰是「他們」。[^6] 工夫式的小壺和小杯是基本的一套。這幅肖像比潮汕那種靠桌子維繫人情多出來的，是把雅緻當成修養來演：姿態、衣着、茶席、空間的設計，於是房間本身也成了這杯茶的一部分。[^6] 它不再是舊稿裏「偏薄的第三幅」。在正文裏，台灣和潮汕、香港並肩。
 

@@ -57,6 +57,15 @@ Benn traces tea through Chinese religious and medical worlds, in the centuries b
 
 ## Stay awake for practice (Tang & Song monasteries)
 
+<!-- history-illustration:monastery-day:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="monastery-day">
+  <img src="../../assets/history-illustrations/monastery-day.svg" width="760" height="320" alt="A tea bowl, an open book and a bell beside a dawn window." loading="lazy" decoding="async">
+  <figcaption><strong>Tea belongs to the timetable</strong> The monastic-code discussion concerns shared schedules, seating and bowl etiquette. This illustrative scene is not an exact monastery interior, and it does not demonstrate a health effect.</figcaption>
+</figure>
+```
+<!-- history-illustration:monastery-day:end -->
+
 **Tang & Song monasteries (about 618–1279).** Chan monks used tea to stay awake through long meditation, without relying on harsher stimulants. Communal codes eventually wrote tea into the daily timetable.
 
 Monks in intensive *zazen* were expected to stay wakeful through long sits. Tea offered alertness without the tremor story that harsher stimulants carry in the sources' framing. That use is not "ancient energy drink marketing." It is a monastic logistics problem: how do you keep a community alert together, on a schedule, without collapsing the room into chaos?
@@ -98,6 +107,15 @@ The teaching sequence below comes from Benn's China history and from Sen's China
 :::
 
 ## Eisai, Lu Yu, and the Japanese tea room
+
+<!-- history-illustration:tea-room:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="tea-room">
+  <img src="../../assets/history-illustrations/tea-room.svg" width="760" height="320" alt="An imagined tea-room setting with people, bowls and a quiet shared space." loading="lazy" decoding="async">
+  <figcaption><strong>A room for shared attention</strong> Utensils, movement and space help stage a tea practice. This contemporary schematic is not a portrait of Eisai or Lu Yu, an architectural record, or proof of one unbroken tradition.</figcaption>
+</figure>
+```
+<!-- history-illustration:tea-room:end -->
 
 **Japan from Eisai onward (from 1191).** Eisai promoted tea after his contact with Song practice. Later tea rooms used *ichigo ichie* ("one time, one meeting"). Status was leveled on the tatami, which made the room useful for serious talks.[^2][^3]
 

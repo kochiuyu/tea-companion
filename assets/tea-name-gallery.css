@@ -1,0 +1,23 @@
+/* Static illustrated companions. Tables and interactive detective stay independent. */
+details.tea-name-gallery { margin: 1rem 0 1.6rem; border: 1px solid #c9d3c4; border-radius: 1rem; background: #f5f6ee; overflow: hidden; }
+details.tea-name-gallery > summary { padding: .85rem 1rem; color: #2d493c; font-size: .95rem; font-weight: 650; cursor: pointer; }
+details.tea-name-gallery > summary:hover { background: #e7eddf; }
+details.tea-name-gallery > summary:focus-visible { outline: 3px solid #426b50; outline-offset: -4px; border-radius: .75rem; }
+.tea-name-intro { margin: 0 1rem .8rem; font-size: .8rem; line-height: 1.5; color: #485a4f; }
+ul.tea-name-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem; padding: 0 .85rem .85rem; margin: 0; list-style: none; }
+.tea-name-grid > li { margin: 0; min-width: 0; padding: 0; }
+figure.tea-name-card { height: 100%; margin: 0; border: 1px solid #d9dfd1; border-radius: .75rem; overflow: hidden; background: #fffdf7; break-inside: avoid; }
+.tea-name-card > img { display: block; width: 100%; height: auto; aspect-ratio: 8 / 5; margin: 0; }
+.tea-name-card > figcaption { display: block; padding: .65rem .7rem .8rem; margin: 0; color: #30483a; text-align: start; overflow-wrap: anywhere; }
+.tea-name-title { display: block; font-size: .9rem; line-height: 1.35; font-weight: 700; }
+.tea-name-kind { display: block; margin-top: .35rem; color: #655335; font-size: .7rem; font-weight: 650; line-height: 1.4; }
+.tea-name-note { display: block; margin-top: .4rem; color: #48584e; font-size: .76rem; line-height: 1.5; }
+@media (max-width: 767.98px) { ul.tea-name-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; padding: 0 .65rem .65rem; } }
+@media (max-width: 359.98px) { ul.tea-name-grid { grid-template-columns: minmax(0, 1fr); } .tea-name-card > img { max-height: 155px; object-fit: contain; background: #e8ecdf; } }
+@media print { details.tea-name-gallery { background: none; } ul.tea-name-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } figure.tea-name-card { break-inside: avoid; } }
+@media (forced-colors: active) { details.tea-name-gallery, figure.tea-name-card { border-color: CanvasText; background: Canvas; } details.tea-name-gallery > summary, .tea-name-intro, .tea-name-card > figcaption, .tea-name-kind, .tea-name-note { color: CanvasText; } details.tea-name-gallery > summary:focus-visible { outline-color: Highlight; } }
+
+.tea-name-map-key { margin: -.15rem 1rem .9rem; font-size: .76rem; line-height: 1.5; color: #485a4f; }
+.tea-name-map-key a { color: #335c45; text-underline-offset: .15em; }
+.tea-name-map-key a:focus-visible { outline: 3px solid #426b50; outline-offset: 3px; }
+@media (forced-colors: active) { .tea-name-map-key { color: CanvasText; } .tea-name-map-key a { color: LinkText; } }

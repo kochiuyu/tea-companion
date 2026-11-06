@@ -17,6 +17,15 @@ lang: zh-Hant-HK
 :::
 <!-- reader-guide:end -->
 
+<!-- history-illustration:history-cabinet:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="history-cabinet">
+  <img src="../../../assets/history-illustrations/history-cabinet.svg" width="760" height="320" alt="一組描繪貿易、飲茶、種植與奉茶的插畫。" loading="lazy" decoding="async">
+  <figcaption><strong>許多人共同寫成的茶史</strong> 沿着茶葉，走過貿易、共同實踐、種植園勞動與日常茶桌。這些原創插畫介紹本章主題，並非歷史文物或現場復原。</figcaption>
+</figure>
+```
+<!-- history-illustration:history-cabinet:end -->
+
 <!-- cultural-games:start -->
 ::: {.tea-pilot-link}
 **走進茶的歷史與文化**

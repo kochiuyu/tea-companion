@@ -67,6 +67,15 @@ lang: zh-Hans
 
 ## 为修行而保持清醒（唐宋禅寺）
 
+<!-- history-illustration:monastery-day:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="monastery-day">
+  <img src="../../../assets/history-illustrations/monastery-day.svg" width="760" height="320" alt="黎明窗边的茶碗、翻开的书与钟。" loading="lazy" decoding="async">
+  <figcaption><strong>茶也在作息表里</strong> 清规的讨论关乎共同作息、座次与持碗礼仪。这幅示意场景不是特定寺院的内部复原，也不证明任何健康效果。</figcaption>
+</figure>
+```
+<!-- history-illustration:monastery-day:end -->
+
 **唐宋禅寺（约 618—1279 年）。** 禅僧用茶，在长时间的打坐里保持清醒，不必去依赖更猛烈的兴奋剂。后来，寺院的清规把喝茶正式写进了每天的作息表。
 
 专心坐禅的僧人，要在漫长的静坐里一直醒着。茶能提神，又不像更猛的兴奋剂在来源的说法里那样，让人手抖、心慌。这可不是“古代的功能饮料营销”。它是一道寺院里的管理题：怎样让一大群人按着钟点一起保持清醒，又不把禅堂搅成一团？
@@ -108,6 +117,15 @@ lang: zh-Hans
 :::
 
 ## 荣西、陆羽与日本茶室
+
+<!-- history-illustration:tea-room:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="tea-room">
+  <img src="../../../assets/history-illustrations/tea-room.svg" width="760" height="320" alt="想象的茶室场景，有人、茶碗与安静的共享空间。" loading="lazy" decoding="async">
+  <figcaption><strong>共同留心的一间茶室</strong> 器具、动作与空间，共同构成饮茶实践。这幅当代示意图不是荣西或陆羽的肖像，不是建筑记录，也不是单一传统从未中断的证据。</figcaption>
+</figure>
+```
+<!-- history-illustration:tea-room:end -->
 
 **荣西以后的日本（1191 年起）。** 荣西接触了宋代的做法之后，大力推广饮茶。后来的茶室讲究“一期一会”。人上了榻榻米，身份的高低被抹平，这对需要认真谈事情的场合很有用。[^2][^3]
 

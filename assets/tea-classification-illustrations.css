@@ -1,0 +1,56 @@
+/* Static, localized teaching figures. No scripts, filtering or game selectors. */
+.tea-classification-visual {
+  margin: 1.25rem 0 1.7rem; padding: 1.1rem;
+  border: 1px solid #c9d3c4; border-radius: 1rem; background: #faf8f1;
+  color: #30483a; overflow-wrap: anywhere;
+}
+.tea-classification-title { margin: 0 0 .45rem; font-size: 1.17rem; font-weight: 750; line-height: 1.35; }
+.tea-classification-intro { margin: 0 0 1rem; font-size: .88rem; line-height: 1.55; }
+.tea-classification-root { padding: .65rem .85rem; border: 1px solid #b8c6ad; border-radius: .65rem; background: #e8ecdf; text-align: center; font-size: .9rem; font-weight: 650; margin: 0 0 1rem; }
+.tea-classification-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .8rem; list-style: none; padding: 0; margin: 0; }
+.tea-classification-grid > li { padding: 0; margin: 0; min-width: 0; }
+.tea-classification-card { border: 1px solid #d6ddce; border-radius: .7rem; overflow: hidden; background: #fffdf7; margin: 0; height: 100%; break-inside: avoid; }
+.tea-classification-card img { display: block; width: 100%; height: auto; aspect-ratio: 15 / 8; margin: 0; }
+.tea-classification-card figcaption { margin: 0; padding: .7rem .8rem .85rem; color: #30483a; text-align: start; font-size: .83rem; line-height: 1.5; }
+.tea-classification-name { display: block; font-size: .95rem; font-weight: 700; line-height: 1.35; margin-bottom: .4rem; }
+.tea-classification-note { display: block; }
+.tea-classification-caution { margin: .9rem 0 0; padding: .65rem .8rem; border-left: 3px solid #a46a49; color: #534732; font-size: .81rem; line-height: 1.55; }
+.tea-classification-sources { margin: .85rem 0 0; font-size: .76rem; line-height: 1.6; }
+.tea-classification-visual a { color: #315c43; text-decoration: underline; text-underline-offset: .15em; }
+.tea-classification-visual a:focus-visible { outline: 3px solid #865030; outline-offset: 3px; border-radius: 2px; }
+.tea-grade-block { border: 1px solid #c9d3c4; border-radius: .8rem; padding: .85rem; background: #f1f3e8; margin-top: .9rem; }
+.tea-grade-title { font-weight: 750; font-size: 1rem; margin: 0 0 .3rem; }
+.tea-grade-question { font-size: .85rem; line-height: 1.5; margin: 0 0 .7rem; }
+.tea-grade-sizes { grid-template-columns: repeat(4,minmax(0,1fr)); gap: .5rem; }
+.tea-grade-sizes .tea-classification-card figcaption { padding: .55rem .5rem .65rem; font-size: .75rem; }
+.tea-grade-sizes .tea-classification-name { font-size: .79rem; }
+.tea-grade-methods .tea-classification-card { display: grid; grid-template-columns: minmax(0,.75fr) minmax(0,1.25fr); align-items: center; }
+.tea-grade-methods .tea-classification-card img { height: auto; }
+.tea-grade-methods .tea-classification-card figcaption { padding: .65rem; }
+.tea-grade-other { margin-top: .9rem; }
+.tea-grade-other .tea-classification-card img { max-height: 145px; object-fit: contain; background: #e8ecdf; }
+@media (min-width: 1200px) { .tea-type-grid { grid-template-columns: repeat(3,minmax(0,1fr)); } }
+@media (max-width: 767.98px) {
+ .tea-grade-sizes { grid-template-columns: repeat(2,minmax(0,1fr)); }
+ .tea-grade-methods { grid-template-columns: minmax(0,1fr); }
+}
+@media (max-width: 479.98px) {
+ .tea-classification-visual { padding: .7rem; }
+ .tea-type-grid, .tea-grade-other { grid-template-columns: minmax(0,1fr); gap: .65rem; }
+ .tea-type-grid .tea-classification-card img { max-height: 158px; object-fit: contain; background: #e8ecdf; }
+ .tea-grade-block { padding: .6rem; }
+ .tea-classification-title { font-size: 1.1rem; }
+}
+@media print {
+ .tea-classification-visual, .tea-grade-block, .tea-classification-card { background: none; }
+ .tea-classification-visual { break-inside: auto; }
+ .tea-classification-card { break-inside: avoid; }
+ .tea-classification-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+ .tea-grade-sizes { grid-template-columns: repeat(4,minmax(0,1fr)); }
+}
+@media (forced-colors: active) {
+ .tea-classification-visual, .tea-grade-block, .tea-classification-card, .tea-classification-root { background: Canvas; color: CanvasText; border-color: CanvasText; }
+ .tea-classification-card figcaption, .tea-classification-caution { color: CanvasText; border-color: CanvasText; }
+ .tea-classification-visual a { color: LinkText; }
+ .tea-classification-visual a:focus-visible { outline-color: Highlight; }
+}

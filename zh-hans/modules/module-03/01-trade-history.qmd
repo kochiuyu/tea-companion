@@ -71,6 +71,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 便宜茶包，昂贵的过去
 
+<!-- history-illustration:canton-exchange:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="canton-exchange">
+  <img src="../../../assets/history-illustrations/canton-exchange.svg" width="760" height="320" alt="茶箱、白银与商人书桌，旁边是示意港口。" loading="lazy" decoding="async">
+  <figcaption><strong>超市货架之前</strong> 茶箱与白银，把账房里的故事带到眼前。物件只是视觉提示，不是货单、数量比例或广州港的复原图。</figcaption>
+</figure>
+```
+<!-- history-illustration:canton-exchange:end -->
+
 先从货架上的小奇迹说起：一包便宜得几乎让人懒得看价的茶。可这份便宜，背后是一段地缘政治。茶还没有变成超市里的日用品之前，它是战略物资——用白银去换，用炮舰去争，最后又被搬到殖民地的种植园里去种，好让一个帝国不必永远依靠另一个帝国。
 
 不妨把两幅图并排放在一起看。一幅是十九世纪三十年代的英国商行：账房里眼看着白银运往广州，茶箱一箱箱运回本国。另一幅是你家的厨房：电水壶“咔嗒”一声跳闸，一包茶还不到一个三明治的价钱。这一节要走完的，就是这两幅图中间的那段路，而不是把茶包写成一出道德剧。路上的数字和条约条款，都来自下面点名的那些史书。
@@ -124,6 +133,15 @@ lang: zh-Hans
 
 ## 战争、条约与通商口岸
 
+<!-- history-illustration:treaty-ports:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="treaty-ports">
+  <img src="../../../assets/history-illustrations/treaty-ports.svg" width="760" height="320" alt="文件、港口建筑与船只的插画，把书面规则与海上力量并置。" loading="lazy" decoding="async">
+  <figcaption><strong>条约改写规则</strong> 战争与《南京条约》改变贸易权利、施加赔款，并割让香港岛。这是象征性场景，并非条约摹本或五口地图。</figcaption>
+</figure>
+```
+<!-- history-illustration:treaty-ports:end -->
+
 第一次鸦片战争（1839–1842）以英国获胜结束。双方签订**[《南京条约》](../../glossary.qmd#treaty-of-nanking)**（1842 年 8 月 29 日签订，1843 年 6 月 26 日批准）：五个通商口岸开放，香港岛被割让，公行的垄断被废除，另外还加上一大笔赔款。[^1][^3][^4]
 
 常被列出来的五口，是广州、厦门、福州、宁波和上海。[^3][^4] 赔款的数目很大——按教学统计，约 **2,100 万**银元。各部分怎么分、对应哪一条，都收在折叠里，因为条约原文和教学简写，并没有用同一种办法去标注每一笔。
@@ -169,6 +187,15 @@ lang: zh-Hans
 :::
 
 ## 纠正福琼的神话
+
+<!-- history-illustration:plant-knowledge:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="plant-knowledge">
+  <img src="../../../assets/history-illustrations/plant-knowledge.svg" width="760" height="320" alt="玻璃植物运输箱旁，两位制茶者在盘上处理茶叶。" loading="lazy" decoding="async">
+  <figcaption><strong>茶树与知识同行</strong> 在福琼后来的任务之前，Singhpho 社群早已认识并种植阿萨姆茶。玻璃箱与工具提示中国茶树及技艺的转移，并不代表印度茶史的起点。</figcaption>
+</figure>
+```
+<!-- history-illustration:plant-knowledge:end -->
 
 坊间常有一个特别干脆的起源故事：“福琼（Robert Fortune）在 1848 年第一次把茶带到印度。”真实的时间线比这一句丰富，也更值得看。
 
@@ -219,6 +246,15 @@ lang: zh-Hans
 
 ## 白银与鸦片的循环，四拍看完
 
+<!-- history-illustration:trade-loop:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="trade-loop">
+  <img src="../../../assets/history-illustrations/trade-loop.svg" width="760" height="320" alt="茶杯、白银、货箱、象征性的罂粟蒴果与文件，围成一圈。" loading="lazy" decoding="async">
+  <figcaption><strong>跟着货物与付款走</strong> 英国需求带动中国茶外销；英属印度的鸦片走私到中国出售，所得白银用来购茶。次序请看下方四步。插画不是航线图，也不表示茶是战争的唯一原因。</figcaption>
+</figure>
+```
+<!-- history-illustration:trade-loop:end -->
+
 教学统计（普里查德、马士）和条约的骨架放在这里，是为了让初学的人感受到白银外流有多大*规模*，不是为了让人回头去重估十九世纪的贸易弹性。可以按来源讲的那个循环，自己走一遍。
 
 1. **需求。** 英国想要茶，也想要丝绸和瓷器。
@@ -243,6 +279,15 @@ lang: zh-Hans
 
 
 ## 香港、通商口岸与余波
+
+<!-- history-illustration:port-afterlives:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="port-afterlives">
+  <img src="../../../assets/history-illustrations/port-afterlives.svg" width="760" height="320" alt="示意港口画旁，摆着日常茶杯与保温瓶。" loading="lazy" decoding="async">
+  <figcaption><strong>港口与日常一杯</strong> 本章把海上贸易与政治权力，连到日常的一杯茶。这个想象港口并不描绘香港任何特定年份的天际线。</figcaption>
+</figure>
+```
+<!-- history-illustration:port-afterlives:end -->
 
 对身在亚洲、尤其身在香港的读者来说，《南京条约》一点也不抽象。第三条写的割让香港岛，和五口通商、赔款的账单，并列在同一份条约里。[^3][^4]
 
