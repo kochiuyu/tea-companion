@@ -1,0 +1,81 @@
+{
+  "base_commit": "bd5e45def26652905fedc97a7ef3db2f9a40af72",
+  "page": "modules/module-01/04-compounds.qmd",
+  "entries": [
+    {
+      "id": "caffeine",
+      "formula": "C₈H₁₀N₄O₂",
+      "headings": {"en": "Caffeine — the familiar wake-up guest", "zh-hant-hk": "咖啡因：熟悉的提神客人", "zh-hans": "咖啡因 — 熟悉的提神客人"},
+      "text": {
+        "en": {
+          "title": "Caffeine: a place already taken",
+          "alt": "Symbolic receptor sketch: a caffeine token occupies a docking pocket; an adenosine token approaches but cannot dock there.",
+          "legend": [["Caffeine", "Occupies an adenosine receptor."], ["Adenosine", "Its signaling at this site is blocked."], ["Receptor", "Shown as a simplified docking pocket."]],
+          "note": "The shapes are symbols, not molecular structures. This sketch does not predict your alertness or how long it lasts."
+        },
+        "zh-hant-hk": {
+          "title": "咖啡因：位置已被佔用",
+          "alt": "受體示意圖：代表咖啡因的符號佔住一個結合位置；代表腺苷的符號靠近，卻不能在該處結合。",
+          "legend": [["咖啡因", "佔據腺苷受體。"], ["腺苷", "在這個位置的訊號傳遞受到阻擋。"], ["受體", "簡化畫成可容納符號的凹槽。"]],
+          "note": "圖形只是符號，並非分子結構。這幅示意圖不能預測你有多清醒，或能維持多久。"
+        },
+        "zh-hans": {
+          "title": "咖啡因：位置已被占用",
+          "alt": "受体示意图：代表咖啡因的符号占住一个结合位置；代表腺苷的符号靠近，却不能在该处结合。",
+          "legend": [["咖啡因", "占据腺苷受体。"], ["腺苷", "在这个位置的信号传递受到阻挡。"], ["受体", "简化画成可容纳符号的凹槽。"]],
+          "note": "图形只是符号，并非分子结构。这幅示意图不能预测你有多清醒，或能维持多久。"
+        }
+      }
+    },
+    {
+      "id": "l-theanine",
+      "formula": "C₇H₁₄N₂O₃",
+      "headings": {"en": "L-theanine — the calm-focus guest", "zh-hant-hk": "茶氨酸：令人平靜專注的客人", "zh-hans": "茶氨酸 — 平静专注客人"},
+      "text": {
+        "en": {
+          "title": "L-theanine: from ingredient to study question",
+          "alt": "Two study cards represent L-theanine and caffeine. A dotted arrow leads to a clipboard with an attention task, without showing a result.",
+          "legend": [["L-theanine", "An amino acid found in tea."], ["Caffeine", "Often studied alongside L-theanine."], ["Attention task", "Researchers measure performance."]],
+          "note": "The dotted link means “studied together,” not a guaranteed benefit. The tokens are symbols, and a study preparation is not automatically equivalent to a cup."
+        },
+        "zh-hant-hk": {
+          "title": "茶氨酸：由成分到研究問題",
+          "alt": "兩張研究卡分別代表茶氨酸和咖啡因。虛線箭頭指向注意力測驗板，沒有顯示測驗結果。",
+          "legend": [["茶氨酸", "茶裏的一種氨基酸。"], ["咖啡因", "常與茶氨酸一起接受研究。"], ["注意力測驗", "研究人員量度表現。"]],
+          "note": "虛線表示「一起研究」，並不保證有益處。圖形只是符號；研究使用的配方和劑量，不一定等同於日常一杯茶。"
+        },
+        "zh-hans": {
+          "title": "茶氨酸：从成分到研究问题",
+          "alt": "两张研究卡分别代表茶氨酸和咖啡因。虚线箭头指向注意力测验板，没有显示测验结果。",
+          "legend": [["茶氨酸", "茶里的一种氨基酸。"], ["咖啡因", "常与茶氨酸一起接受研究。"], ["注意力测验", "研究人员测量表现。"]],
+          "note": "虚线表示“一起研究”，并不保证有益处。图形只是符号；研究使用的配方和剂量，不一定等同于日常一杯茶。"
+        }
+      }
+    },
+    {
+      "id": "egcg",
+      "formula": "C₂₂H₁₈O₁₁",
+      "headings": {"en": "EGCG — the green-tea catechin guest", "zh-hant-hk": "EGCG：綠茶裏的兒茶素客人", "zh-hans": "EGCG — 绿茶儿茶素客人"},
+      "text": {
+        "en": {
+          "title": "EGCG: one compound in a mixture",
+          "alt": "A green tea leaf leads to a brewed cup. A magnifier highlights a symbolic EGCG token as one compound within the tea mixture.",
+          "legend": [["Tea leaf", "Contains a mixture of compounds."], ["Brewed cup", "Some compounds pass into water."], ["EGCG", "One catechin within that mixture."]],
+          "note": "The magnifier identifies a compound. It does not show a molecule’s real shape, the amount in your cup, absorption, or a health effect."
+        },
+        "zh-hant-hk": {
+          "title": "EGCG：混合物中的一種成分",
+          "alt": "綠色茶葉以虛線連向泡好的茶杯。放大鏡突出代表 EGCG 的符號，表示它是茶中混合物的一種成分。",
+          "legend": [["茶葉", "含有多種化合物。"], ["泡好的茶", "部分化合物進入水中。"], ["EGCG", "混合物中的一種兒茶素。"]],
+          "note": "放大鏡用來辨認成分，並非展示分子的真實形狀、杯中的含量、人體吸收或健康效果。"
+        },
+        "zh-hans": {
+          "title": "EGCG：混合物中的一种成分",
+          "alt": "绿色茶叶以虚线连向泡好的茶杯。放大镜突出代表 EGCG 的符号，表示它是茶中混合物的一种成分。",
+          "legend": [["茶叶", "含有多种化合物。"], ["泡好的茶", "部分化合物进入水中。"], ["EGCG", "混合物中的一种儿茶素。"]],
+          "note": "放大镜用来辨认成分，并非展示分子的真实形状、杯中的含量、人体吸收或健康效果。"
+        }
+      }
+    }
+  ]
+}

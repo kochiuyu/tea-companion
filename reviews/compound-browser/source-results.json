@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "base_commit": "bd5e45def26652905fedc97a7ef3db2f9a40af72",
+  "preserved_qmds": 213,
+  "existing_unmodified_files": 418,
+  "rendered_pages": 108,
+  "original_static_svgs": 3,
+  "localized_figures": 9,
+  "localized_legend_items": 27,
+  "existing_footnotes_per_lesson": 11,
+  "all_existing_prose_citations_sources_games_preserved": true,
+  "generators_idempotent": true
+}

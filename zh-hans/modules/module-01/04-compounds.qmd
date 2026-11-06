@@ -63,15 +63,66 @@ lang: zh-Hans
 
 ## 咖啡因 — 熟悉的提神客人
 
+<!-- tea-compound-illustration:caffeine:start -->
+```{=html}
+<figure class="tea-compound-figure" data-tea-compound="caffeine">
+  <img src="../../../assets/tea-compound-illustrations/caffeine.svg" width="720" height="340" alt="受体示意图：代表咖啡因的符号占住一个结合位置；代表腺苷的符号靠近，却不能在该处结合。" loading="lazy" decoding="async">
+  <figcaption>
+    <div class="tea-compound-heading"><strong>咖啡因：位置已被占用</strong><span class="tea-compound-formula">C₈H₁₀N₄O₂</span></div>
+    <ol class="tea-compound-legend" role="list">
+      <li><span class="tea-compound-key" aria-hidden="true">1</span><strong>咖啡因</strong><span>占据腺苷受体。</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">2</span><strong>腺苷</strong><span>在这个位置的信号传递受到阻挡。</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">3</span><strong>受体</strong><span>简化画成可容纳符号的凹槽。</span></li>
+    </ol>
+    <p class="tea-compound-note">图形只是符号，并非分子结构。这幅示意图不能预测你有多清醒，或能维持多久。</p>
+  </figcaption>
+</figure>
+```
+<!-- tea-compound-illustration:caffeine:end -->
+
 **咖啡因**帮人保持清醒。用白话说，它挡住大脑那个“你开始困了”的信号，好让你继续干活。血液里的典型故事是：它往往要待上**几小时**，不过人和人差得很多。[^1]
 
 最后那一句很要紧。朋友说“到了晚饭还兴奋着”，可以是生化上的事，不必是戏剧。想看分子式、半衰期的范围，以及这条差异背后的肝酶叫什么名字，打开下面的折叠就行。
 
 ## 茶氨酸 — 平静专注客人
 
+<!-- tea-compound-illustration:l-theanine:start -->
+```{=html}
+<figure class="tea-compound-figure" data-tea-compound="l-theanine">
+  <img src="../../../assets/tea-compound-illustrations/l-theanine.svg" width="720" height="340" alt="两张研究卡分别代表茶氨酸和咖啡因。虚线箭头指向注意力测验板，没有显示测验结果。" loading="lazy" decoding="async">
+  <figcaption>
+    <div class="tea-compound-heading"><strong>茶氨酸：从成分到研究问题</strong><span class="tea-compound-formula">C₇H₁₄N₂O₃</span></div>
+    <ol class="tea-compound-legend" role="list">
+      <li><span class="tea-compound-key" aria-hidden="true">1</span><strong>茶氨酸</strong><span>茶里的一种氨基酸。</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">2</span><strong>咖啡因</strong><span>常与茶氨酸一起接受研究。</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">3</span><strong>注意力测验</strong><span>研究人员测量表现。</span></li>
+    </ol>
+    <p class="tea-compound-note">虚线表示“一起研究”，并不保证有益处。图形只是符号；研究使用的配方和剂量，不一定等同于日常一杯茶。</p>
+  </figcaption>
+</figure>
+```
+<!-- tea-compound-illustration:l-theanine:end -->
+
 **茶氨酸**是茶里一种让人平静的氨基酸。用白话说，它轻轻拧低过量的“加油”声量，支持更平静、也更可控的注意力。它像一枚音量旋钮，不是安眠药。血液里的典型故事是：这只时钟比咖啡因**短**，常常以**数十分钟**到略超过一小时来衡量。[^2][^3]
 
 ## EGCG — 绿茶儿茶素客人
+
+<!-- tea-compound-illustration:egcg:start -->
+```{=html}
+<figure class="tea-compound-figure" data-tea-compound="egcg">
+  <img src="../../../assets/tea-compound-illustrations/egcg.svg" width="720" height="340" alt="绿色茶叶以虚线连向泡好的茶杯。放大镜突出代表 EGCG 的符号，表示它是茶中混合物的一种成分。" loading="lazy" decoding="async">
+  <figcaption>
+    <div class="tea-compound-heading"><strong>EGCG：混合物中的一种成分</strong><span class="tea-compound-formula">C₂₂H₁₈O₁₁</span></div>
+    <ol class="tea-compound-legend" role="list">
+      <li><span class="tea-compound-key" aria-hidden="true">1</span><strong>茶叶</strong><span>含有多种化合物。</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">2</span><strong>泡好的茶</strong><span>部分化合物进入水中。</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">3</span><strong>EGCG</strong><span>混合物中的一种儿茶素。</span></li>
+    </ol>
+    <p class="tea-compound-note">放大镜用来辨认成分，并非展示分子的真实形状、杯中的含量、人体吸收或健康效果。</p>
+  </figcaption>
+</figure>
+```
+<!-- tea-compound-illustration:egcg:end -->
 
 **EGCG** 是绿茶里一种主要的植物化合物，属于儿茶素。用第一章的日常说法，它就是 [第一章第三节](03-brewing.qmd) 里那位需要更多热、更多时间才肯离开叶子的客人。在研究文献里，它出现在关于炎症和细胞信号的讨论中。血液里的典型故事是：口服以后以**数小时**计，介乎咖啡因的长时间逗留和茶氨酸的较短时钟之间。[^4]
 

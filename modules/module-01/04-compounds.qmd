@@ -53,15 +53,66 @@ For the open story, you only need three plain clocks: **wake-up** (hours), **cal
 
 ## Caffeine — the familiar wake-up guest
 
+<!-- tea-compound-illustration:caffeine:start -->
+```{=html}
+<figure class="tea-compound-figure" data-tea-compound="caffeine">
+  <img src="../../assets/tea-compound-illustrations/caffeine.svg" width="720" height="340" alt="Symbolic receptor sketch: a caffeine token occupies a docking pocket; an adenosine token approaches but cannot dock there." loading="lazy" decoding="async">
+  <figcaption>
+    <div class="tea-compound-heading"><strong>Caffeine: a place already taken</strong><span class="tea-compound-formula">C₈H₁₀N₄O₂</span></div>
+    <ol class="tea-compound-legend" role="list">
+      <li><span class="tea-compound-key" aria-hidden="true">1</span><strong>Caffeine</strong><span>Occupies an adenosine receptor.</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">2</span><strong>Adenosine</strong><span>Its signaling at this site is blocked.</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">3</span><strong>Receptor</strong><span>Shown as a simplified docking pocket.</span></li>
+    </ol>
+    <p class="tea-compound-note">The shapes are symbols, not molecular structures. This sketch does not predict your alertness or how long it lasts.</p>
+  </figcaption>
+</figure>
+```
+<!-- tea-compound-illustration:caffeine:end -->
+
 **Caffeine** supports alertness. In plain terms, it blocks the brain's "you're getting sleepy" signal, so you keep working. The typical story in blood is that it often hangs around for **hours**, though people differ a lot.[^1]
 
 That last clause matters. Your friend's "still buzzing at dinner" can be biochemistry, and it need not be drama. Open the foldout below when you want the formula, the half-life range, and the liver-enzyme name behind that spread.
 
 ## L-theanine — the calm-focus guest
 
+<!-- tea-compound-illustration:l-theanine:start -->
+```{=html}
+<figure class="tea-compound-figure" data-tea-compound="l-theanine">
+  <img src="../../assets/tea-compound-illustrations/l-theanine.svg" width="720" height="340" alt="Two study cards represent L-theanine and caffeine. A dotted arrow leads to a clipboard with an attention task, without showing a result." loading="lazy" decoding="async">
+  <figcaption>
+    <div class="tea-compound-heading"><strong>L-theanine: from ingredient to study question</strong><span class="tea-compound-formula">C₇H₁₄N₂O₃</span></div>
+    <ol class="tea-compound-legend" role="list">
+      <li><span class="tea-compound-key" aria-hidden="true">1</span><strong>L-theanine</strong><span>An amino acid found in tea.</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">2</span><strong>Caffeine</strong><span>Often studied alongside L-theanine.</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">3</span><strong>Attention task</strong><span>Researchers measure performance.</span></li>
+    </ol>
+    <p class="tea-compound-note">The dotted link means “studied together,” not a guaranteed benefit. The tokens are symbols, and a study preparation is not automatically equivalent to a cup.</p>
+  </figcaption>
+</figure>
+```
+<!-- tea-compound-illustration:l-theanine:end -->
+
 **L-theanine** is a calming amino acid in tea. In plain terms, it gently turns down excess "go" chatter and supports calmer, more controlled attention. Think of a volume knob, not a sleeping pill. The typical story in blood is a **shorter** clock than caffeine, often measured in **tens of minutes** to a bit over an hour.[^2][^3]
 
 ## EGCG — the green-tea catechin guest
+
+<!-- tea-compound-illustration:egcg:start -->
+```{=html}
+<figure class="tea-compound-figure" data-tea-compound="egcg">
+  <img src="../../assets/tea-compound-illustrations/egcg.svg" width="720" height="340" alt="A green tea leaf leads to a brewed cup. A magnifier highlights a symbolic EGCG token as one compound within the tea mixture." loading="lazy" decoding="async">
+  <figcaption>
+    <div class="tea-compound-heading"><strong>EGCG: one compound in a mixture</strong><span class="tea-compound-formula">C₂₂H₁₈O₁₁</span></div>
+    <ol class="tea-compound-legend" role="list">
+      <li><span class="tea-compound-key" aria-hidden="true">1</span><strong>Tea leaf</strong><span>Contains a mixture of compounds.</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">2</span><strong>Brewed cup</strong><span>Some compounds pass into water.</span></li>
+      <li><span class="tea-compound-key" aria-hidden="true">3</span><strong>EGCG</strong><span>One catechin within that mixture.</span></li>
+    </ol>
+    <p class="tea-compound-note">The magnifier identifies a compound. It does not show a molecule’s real shape, the amount in your cup, absorption, or a health effect.</p>
+  </figcaption>
+</figure>
+```
+<!-- tea-compound-illustration:egcg:end -->
 
 **EGCG** is a major green-tea plant compound, a catechin. In everyday Chapter 1 talk, it is the guest that needed more heat and more time to leave the leaf in [Chapter 1 · Section 3](03-brewing.qmd). In the research literature it shows up in inflammatory and cell-signaling conversations. The typical story in blood is a **multi-hour** scale after oral doses, sitting between caffeine's long hang and L-theanine's shorter clock.[^4]
 
