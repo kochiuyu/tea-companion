@@ -24,6 +24,8 @@ lang: zh-Hans
 比较茶历史中的不同时刻，或为指定情境摆好茶桌。点选看看每个选择背后的故事。
 
 [乘时光机看茶史 →](01-trade-history.qmd#tea-time-machine) · [摆好茶席 →](04-regional-scripts.qmd#set-the-tea-table)
+
+[参观茶博物馆 →](../../tea-museum.qmd) 修正十二张有误的展品说明牌，发现更完整的故事。
 :::
 <!-- cultural-games:end -->
 

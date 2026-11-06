@@ -1,0 +1,56 @@
+/* Museum colors stay inside the game; existing lessons are unchanged. */
+.tea-museum, .tea-museum * { box-sizing: border-box; }
+.tea-museum { --museum-ink: #304c3e; min-width: 0; overflow-wrap: anywhere; margin-block: 1.5rem; padding: clamp(1rem, 3vw, 2rem); color: var(--museum-ink); background: #faf6e9; border: 1px solid #b8b39a; border-radius: 1.2rem; }
+.tea-museum [hidden] { display: none !important; }
+.tea-museum h2, .tea-museum h3, .tea-museum h4 { color: inherit; line-height: 1.35; }
+.tea-museum h2 { margin-top: 0; border: 0; font-size: clamp(1.6rem, 3vw, 2.2rem); }
+.tea-museum h4 { font-size: 1.15rem; margin-block: .4rem .75rem; }
+.tea-museum p { line-height: 1.6; }
+.tea-museum-intro { max-width: 44rem; }
+.tea-museum-building { margin: 1.5rem 0; }
+.tea-museum-building svg { display: block; width: 100%; max-width: 38rem; height: auto; margin: auto; }
+.tea-museum-building figcaption { font-size: .8rem; line-height: 1.5; max-width: 38rem; margin: .6rem auto; }
+.tea-museum-button { min-height: 48px; padding: .75rem 1rem; border: 1px solid #5b7156; border-radius: .6rem; background: #fffefa; color: var(--museum-ink); font: inherit; line-height: 1.5; cursor: pointer; white-space: normal; }
+.tea-museum-button:hover:not(:disabled):not([aria-disabled="true"]) { background: #e8efdd; box-shadow: inset 0 0 0 1px currentColor; }
+.tea-museum-button[data-action="start"], .tea-museum-button[data-action="next"], .tea-museum-button[data-action="restart"] { background: #365339; color: #fff; }
+.tea-museum-button[data-action="start"]:hover, .tea-museum-button[data-action="next"]:hover:not(:disabled), .tea-museum-button[data-action="restart"]:hover { background: #243e27; }
+.tea-museum-button:disabled { opacity: .55; cursor: not-allowed; }
+.tea-museum-button[aria-disabled="true"] { cursor: default; }
+.tea-museum :focus-visible, .tea-museum h3:focus, .tea-museum h4:focus { outline: 3px solid #985516; outline-offset: 4px; }
+.tea-museum-progress { font-size: 1.1rem; margin-bottom: .35rem; }
+.tea-museum-count { margin-bottom: .4rem; font-size: .9rem; }
+.tea-museum progress { width: 100%; display: block; height: .5rem; accent-color: #466356; margin-bottom: 1.2rem; }
+.tea-museum-display { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); align-items: center; gap: 1.2rem; margin-bottom: 1.5rem; }
+.tea-museum-object { min-width: 0; text-align: center; }
+.tea-museum-object .tea-game-figure { margin-bottom: .5rem; }
+.tea-museum-object .tea-game-figure figcaption { font-size: .8rem; }
+.tea-museum-plaque { background: #fffefa; border: 2px dashed #916441; border-radius: .2rem; padding: 1.15rem; box-shadow: 4px 5px 0 #e4deca; }
+.tea-museum-plaque > p:last-child { font-family: Georgia, "Noto Serif CJK TC", serif; font-size: 1.15rem; margin-bottom: 0; }
+.tea-museum-plaque[data-restored="true"] { border-style: solid; border-color: #466356; background: #edf2e5; }
+.tea-museum-kicker { font-size: .8rem; font-weight: 700; letter-spacing: .035em; margin-bottom: .5rem; }
+.tea-museum-choices { display: grid; gap: .65rem; min-width: 0; padding: 0; margin-bottom: 1rem; border: 0; }
+.tea-museum-choices legend { float: none; font-size: 1rem; font-weight: 700; margin-bottom: .8rem; }
+.tea-museum-choices .tea-museum-button { display: grid; grid-template-columns: 1.8rem minmax(0, 1fr); gap: .65rem; align-items: start; width: 100%; text-align: start; }
+.tea-museum-letter { display: grid; place-items: center; min-height: 1.8rem; border: 1px solid #829276; border-radius: 50%; font-size: .85rem; font-weight: 700; }
+.tea-museum-choice-tag { grid-column: 2; font-size: .8rem; font-weight: 700; text-decoration: underline; text-underline-offset: .2em; }
+.tea-museum-choices [data-correct="true"] { background: #e4edd9; border: 2px solid #466356; }
+.tea-museum-choices [aria-pressed="true"] { box-shadow: inset 0 0 0 1px #466356; }
+.tea-museum-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-block: 1rem; }
+.tea-museum-hint { padding: .8rem 1rem; background: #fffefa; border-left: 4px solid #ab7840; }
+.tea-museum-feedback:not(:empty) { margin-block: 1.2rem; padding: 1.15rem; border: 1px solid #a5b297; border-radius: .7rem; background: #fffefa; }
+.tea-museum-sources, .tea-museum-note { font-size: .88rem; line-height: 1.6; }
+.tea-museum-sources > a { display: inline-block; padding-block: .4rem; }
+.tea-museum a { color: #2c573b; text-decoration: underline; text-underline-offset: .15em; }
+.tea-museum summary, .tea-museum-fallback summary { min-height: 44px; padding-block: .65rem; cursor: pointer; font-weight: 650; }
+.tea-museum-sources details > summary { font-weight: 400; }
+.tea-museum-sources ul { padding-inline-start: 1.3rem; }
+.tea-museum-sources li { margin-block: .5rem; }
+.tea-museum-browse { border-top: 1px solid #c4c5a7; margin-top: 1.5rem; padding-top: .25rem; }
+.tea-museum-gallery { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 1rem; margin-block: 1rem; }
+.tea-museum-gallery > li { min-width: 0; padding: 1rem; background: #fffefa; border: 1px solid #b4bea4; border-radius: .65rem; }
+.tea-museum-gallery .tea-game-art { max-width: 12rem; }
+.tea-museum-restored { font-weight: 650; }
+.tea-museum-note { margin-top: 1.3rem; }
+.tea-museum-status { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+@media (max-width: 580px) { .tea-museum-display, .tea-museum-gallery { grid-template-columns: minmax(0,1fr); } .tea-museum-object .tea-game-art { max-width: 12rem; } .tea-museum-object .tea-game-figure { margin-top: 0; } .tea-museum-actions .tea-museum-button { flex: 1 1 100%; } }
+@media (forced-colors: active) { .tea-museum, .tea-museum-plaque, .tea-museum-gallery > li { border: 1px solid CanvasText; } .tea-museum-choices [data-correct="true"] { border: 3px solid Highlight; } }

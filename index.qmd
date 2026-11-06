@@ -30,6 +30,8 @@ Make a decision and inspect its rules, or spot what a fictional study forgot to 
 Compare moments from tea history, or set a tea table for a particular setting. Tap to explore the stories behind your choices.
 
 [Travel through tea history →](modules/module-03/01-trade-history.qmd#tea-time-machine) · [Set the Tea Table →](modules/module-03/04-regional-scripts.qmd#set-the-tea-table)
+
+[Visit the Tea Museum →](tea-museum.qmd) Restore twelve mixed-up museum labels and uncover the fuller stories.
 :::
 <!-- cultural-games:end -->
 
