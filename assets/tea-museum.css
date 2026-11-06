@@ -3,6 +3,7 @@
 .tea-museum { --museum-ink: #304c3e; min-width: 0; overflow-wrap: anywhere; margin-block: 1.5rem; padding: clamp(1rem, 3vw, 2rem); color: var(--museum-ink); background: #faf6e9; border: 1px solid #b8b39a; border-radius: 1.2rem; }
 .tea-museum [hidden] { display: none !important; }
 .tea-museum h2, .tea-museum h3, .tea-museum h4 { color: inherit; line-height: 1.35; }
+.tea-museum h3, .tea-museum h4 { scroll-margin-block-start: 6rem; }
 .tea-museum h2 { margin-top: 0; border: 0; font-size: clamp(1.6rem, 3vw, 2.2rem); }
 .tea-museum h4 { font-size: 1.15rem; margin-block: .4rem .75rem; }
 .tea-museum p { line-height: 1.6; }
@@ -12,8 +13,8 @@
 .tea-museum-building figcaption { font-size: .8rem; line-height: 1.5; max-width: 38rem; margin: .6rem auto; }
 .tea-museum-button { min-height: 48px; padding: .75rem 1rem; border: 1px solid #5b7156; border-radius: .6rem; background: #fffefa; color: var(--museum-ink); font: inherit; line-height: 1.5; cursor: pointer; white-space: normal; }
 .tea-museum-button:hover:not(:disabled):not([aria-disabled="true"]) { background: #e8efdd; box-shadow: inset 0 0 0 1px currentColor; }
-.tea-museum-button[data-action="start"], .tea-museum-button[data-action="next"], .tea-museum-button[data-action="restart"] { background: #365339; color: #fff; }
-.tea-museum-button[data-action="start"]:hover, .tea-museum-button[data-action="next"]:hover:not(:disabled), .tea-museum-button[data-action="restart"]:hover { background: #243e27; }
+.tea-museum-button[data-action="start"], .tea-museum-button[data-action="next"], .tea-museum-button[data-action="more"], .tea-museum-button[data-action="restart"] { background: #365339; color: #fff; }
+.tea-museum-button[data-action="start"]:hover, .tea-museum-button[data-action="next"]:hover:not(:disabled), .tea-museum-button[data-action="more"]:hover, .tea-museum-button[data-action="restart"]:hover { background: #243e27; }
 .tea-museum-button:disabled { opacity: .55; cursor: not-allowed; }
 .tea-museum-button[aria-disabled="true"] { cursor: default; }
 .tea-museum :focus-visible, .tea-museum h3:focus, .tea-museum h4:focus { outline: 3px solid #985516; outline-offset: 4px; }
@@ -45,7 +46,7 @@
 .tea-museum-sources details > summary { font-weight: 400; }
 .tea-museum-sources ul { padding-inline-start: 1.3rem; }
 .tea-museum-sources li { margin-block: .5rem; }
-.tea-museum-browse { border-top: 1px solid #c4c5a7; margin-top: 1.5rem; padding-top: .25rem; }
+.tea-museum-browse, .tea-museum-collection { border-top: 1px solid #c4c5a7; margin-top: 1.5rem; padding-top: .25rem; }
 .tea-museum-gallery { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 1rem; margin-block: 1rem; }
 .tea-museum-gallery > li { min-width: 0; padding: 1rem; background: #fffefa; border: 1px solid #b4bea4; border-radius: .65rem; }
 .tea-museum-gallery .tea-game-art { max-width: 12rem; }

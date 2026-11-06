@@ -1,6 +1,6 @@
 ---
 title: "Tea Museum: Fix the Label"
-description: "Restore 12 mixed-up museum labels and discover the evidence behind each correction."
+description: "Explore 3 random displays per short visit, with 12 sourced labels to discover."
 toc: false
 ---
 

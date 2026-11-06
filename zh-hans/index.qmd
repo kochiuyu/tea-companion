@@ -33,7 +33,7 @@ lang: zh-Hans
 
 [乘时光机看茶史 →](modules/module-03/01-trade-history.qmd#tea-time-machine) · [摆好茶席 →](modules/module-03/04-regional-scripts.qmd#set-the-tea-table)
 
-[参观茶博物馆 →](tea-museum.qmd) 修正十二张有误的展品说明牌，发现更完整的故事。
+[参观茶博物馆 →](tea-museum.qmd) 每趟短参观随机探索三件展品，逐步发现十二个故事。
 :::
 <!-- cultural-games:end -->
 

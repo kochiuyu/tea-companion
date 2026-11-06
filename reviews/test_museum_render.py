@@ -42,16 +42,30 @@ for lang in langs:
         assert target.exists(),(p,href)
     for rel in ['index.html','modules/module-03/index.html']:
         assert 'tea-museum.html' in (root/'_site'/prefix/rel).read_text()
-# Freeze the pre-museum baseline so this still verifies preservation after commit.
-# Do not use the older 82ac378 baseline used by legacy, unrelated review scripts.
-baseline='143dc71ba0d5d14116b5d3daf24aa3ed0eb5f117'
-changed=subprocess.check_output(['git','diff','--name-only','--diff-filter=CDMRTUXB',baseline,'--'],cwd=root,text=True).splitlines()
-allowed={'_quarto.yml'}|{prefix+name for prefix in ['','zh-hant-hk/','zh-hans/'] for name in ['index.qmd','modules/module-03/index.qmd']}
+# Freeze the publication immediately before the short-visit change. This keeps
+# the museum check independent of older illustrated-lesson release baselines.
+baseline='1630fed249450f4f18bb983a1df3b5a668583e66'
+entry_pages={prefix+name for prefix in ['', 'zh-hant-hk/', 'zh-hans/'] for name in ['index.qmd', 'modules/module-03/index.qmd']}
+museum_pages={prefix+'tea-museum.qmd' for prefix in ['', 'zh-hant-hk/', 'zh-hans/']}
+allowed=entry_pages|museum_pages|{
+    'assets/tea-museum.js', 'assets/tea-museum.css',
+    'reviews/sync_museum_pages.cjs', 'reviews/test_museum_dom.cjs',
+    'reviews/test_museum_render.py', 'reviews/short-museum-visits-review.md'
+}
+changed=subprocess.check_output(['git','diff','--name-only',baseline,'--'],cwd=root,text=True).splitlines()
 assert set(changed)<=allowed,changed
-for p in changed:
-    if p=='_quarto.yml':continue
-    before=subprocess.check_output(['git','show',baseline+':'+p],cwd=root,text=True)
-    after=(root/p).read_text()
-    cleaned=re.sub(r'\n\[([^\n]+)\]\((?:\.\./\.\./)?tea-museum.qmd\)[^\n]*\n','',after)
-    assert cleaned==before,('Existing content changed',p)
-print(json.dumps({'passed':True,'locales':langs,'exhibits':total,'preservation_baseline':baseline,'existing_lesson_content':'unchanged','fallback_and_sources':'passed'},indent=2))
+original_files=subprocess.check_output(['git','ls-tree','-r','--name-only',baseline],cwd=root,text=True).splitlines()
+for name in original_files:
+    if not name.endswith('.qmd'):continue
+    before=subprocess.check_output(['git','show',baseline+':'+name],cwd=root,text=True)
+    after=(root/name).read_text()
+    def normalize(text):
+        if name in entry_pages:
+            return re.sub(r'\n\[([^\n]+)\]\((?:\.\./\.\./)?tea-museum.qmd\)[^\n]*\n','',text)
+        if name in museum_pages:
+            return re.sub(r'^description:.*$','',text,flags=re.M)
+        return text
+    assert normalize(after)==normalize(before),('Existing content changed',name)
+for name in ['tea-museum.js','tea-museum.css','tea-museum-data.js','tea-museum-figures.js']:
+    assert (root/'assets'/name).read_bytes()==(root/'_site/assets'/name).read_bytes(),('Stale rendered asset',name)
+print(json.dumps({'passed':True,'locales':langs,'exhibits':total,'preservation_baseline':baseline,'existing_lesson_content':'unchanged','fallback_and_sources':'passed','rendered_assets':'exact'},indent=2))

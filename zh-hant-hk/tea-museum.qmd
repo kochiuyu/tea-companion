@@ -1,7 +1,7 @@
 ---
 title: "茶博物館：修正展品說明"
 lang: zh-Hant-HK
-description: "修正12張有誤的展品說明牌，發現每個修正背後的證據。"
+description: "每趟短參觀隨機探索3件展品，逐步發現12張有來源支持的說明牌。"
 toc: false
 ---
 
