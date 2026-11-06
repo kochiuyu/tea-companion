@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "baseline": "8a5950c4b7e3fd8222902bd03f09984a33513782",
+  "unchanged_existing_files": 400,
+  "additive_localized_pages": 3,
+  "rendered_pages": 108,
+  "original_svg_files": 6,
+  "localized_figures": 18,
+  "tables_per_label_page": 8,
+  "existing_sources_games_and_galleries_preserved": true,
+  "generators_idempotent": true
+}

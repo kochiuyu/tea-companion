@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - assets/tea-compound-illustrations/
+    - assets/tea-brewing-illustrations/
     - assets/lesson-illustrations/
     - assets/tea-classification-illustrations/
     - assets/history-illustrations/
@@ -173,6 +174,7 @@ format:
     theme: cosmo
     css:
       - assets/tea-compound-illustrations.css
+      - assets/tea-brewing-illustrations.css
       - styles.css
       - assets/tea-interactions.css
       - assets/tea-game-figures.css

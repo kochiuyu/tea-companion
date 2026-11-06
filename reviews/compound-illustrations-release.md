@@ -11,7 +11,7 @@ Each figure has localized alt text, a numbered HTML legend, an existing lesson f
 ## Checks
 
 - Complete Quarto render: 108 pages.
-- All existing content in 213 QMD files is preserved after removing the nine marked additive blocks; 400 other baseline files are unchanged.
+- All existing content in 213 QMD files is preserved after removing the nine marked additive blocks; 418 other baseline files are unchanged.
 - All 11 source footnote definitions in each locale remain intact. Existing prose, citations, clock illustration, tables, games, and other galleries are unchanged.
 - All three formulas, English and Chinese captions, and alternatives passed independent content review.
 - Text contrast: 6.0–9.5:1 for body, formulas, and caution notes.
@@ -30,4 +30,4 @@ python reviews/test_compound_illustrations.py
 git diff --check
 ```
 
-The test checks source preservation, SVG safety, all nine localized figures, rendered assets and footnotes, duplicate IDs, full-build page count, and generator idempotence. No new runtime dependency or JavaScript is introduced. The separate brewing draft is not part of this change.
+The test checks source preservation, SVG safety, all nine localized figures, rendered assets and footnotes, duplicate IDs, full-build page count, and generator idempotence. No new runtime dependency or JavaScript is introduced. The brewing illustrations merged in PR #51 are preserved byte-for-byte. The only shared configuration change retains both illustration resource and CSS registrations. The compound preservation baseline is the brewing merge commit bd5e45def26652905fedc97a7ef3db2f9a40af72.
