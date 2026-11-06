@@ -73,6 +73,15 @@ What it does *not* show is that every modern cafe ritual descends unbroken from 
 
 ## Song powder, then Eisai's Japan
 
+<!-- lesson-illustration:powdered-tea:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="powdered-tea">
+  <img src="../../assets/lesson-illustrations/song-powder.svg" width="240" height="136" alt="An open tea bowl beside a schematic whisk." loading="lazy" decoding="async">
+  <figcaption>A bowl and whisk introduce powdered-tea preparation. The tools are schematic, not a reconstruction of Song-period equipment.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:powdered-tea:end -->
+
 Before the story reaches Japan, there is one more China-side hinge. Tang boiled **cake tea** (Lu Yu's roast–grind–boil curriculum) was not the last elite form. In **Song** elite and monastic practice, powdered tea whisked in a bowl (*diancha* in teaching labels; often glossed beside early Japanese *mocha*-related practice) became a shared attention script. It was **not** a modern grocery-matcha barista lesson. [Tea basics](../../tea-basics.qmd) and [Chapter 1](../module-01/index.qmd) own the aisle matcha.[^1][^2] That Song form is part of what Eisai helps carry to Japan. The dates and the fences live in the foldout.
 
 ::: {.callout-note collapse="true" title="More detail: Tang cake boil → Song whisked powder (*diancha*)"}

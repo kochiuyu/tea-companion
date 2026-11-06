@@ -73,6 +73,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 從這裡開始
 
+<!-- lesson-illustration:welcome:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="welcome">
+  <img src="../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶葉、溫度計與計時器。" loading="lazy" decoding="async">
+  <figcaption>由一杯茶、一個問題開始。留意茶葉、水與時間。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:welcome:end -->
+
 | 想知道… | 請打開 |
 | --- | --- |
 | **第一杯**——茶是甚麼，真茶和花草有甚麼不同，以及怎樣倒一杯簡單的 | [茶葉入門](tea-basics.qmd) |

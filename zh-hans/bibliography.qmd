@@ -52,6 +52,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 植物化学与冲泡 {#plant-chemistry-and-brewing}
 
+<!-- lesson-illustration:source-library:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="source-library">
+  <img src="../assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="翻开的书本、书签、放大镜与笔记本。" loading="lazy" decoding="async">
+  <figcaption>在阅读桌前查核资料脉络：先从课文脚注找到所讨论的主张，再查阅引用文献及这里关于资料完整性的说明。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:source-library:end -->
+
 Ashihara, H., Sano, H., & Suzuki, T. (2008). An update on caffeine biosynthesis in tea plants of *Camellia sinensis*. *Natural Product Communications, 3*(8), 1369–1378.
 
 Ban, Q., et al. (2017). Comparative transcriptome analysis reveals key pathways for cold acclimation in *Camellia sinensis*. *Plant Physiology and Biochemistry, 118*, 441–453.

@@ -43,6 +43,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 詞條（淺白解釋）
 
+<!-- lesson-illustration:term-notes:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="term-notes">
+  <img src="../assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="翻開的書本、書籤、放大鏡與筆記簿。" loading="lazy" decoding="async">
+  <figcaption>把每個詞語當作返回課文的入口。簡短定義只是起點；連結的章節提供完整語境。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:term-notes:end -->
+
 | 詞條 | 淺白解釋 | 主要出現於 |
 | --- | --- | --- |
 | <span id="adenosine-receptors">腺苷受體（A1、A2A）</span> | 腦裏負責「慢下來、想睡」的感應器；咖啡因把它們擋住，你就保持清醒。 | [第二章](modules/module-02/index.qmd) |

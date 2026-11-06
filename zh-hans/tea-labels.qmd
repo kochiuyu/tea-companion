@@ -72,6 +72,15 @@ lang: zh-Hans
 
 ## 怎样读一张茶标签
 
+<!-- lesson-illustration:read-label:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="read-label">
+  <img src="../assets/lesson-illustrations/label.svg" width="240" height="136" alt="印刷标签旁有放大镜。" loading="lazy" decoding="async">
+  <figcaption>细看标签上的字：产地、风格、拼配、茶类与等级，各有不同作用。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:read-label:end -->
+
 一张标签上，常常混着五样东西：
 
 1. **地方。** 例如阿萨姆、大吉岭、云南。

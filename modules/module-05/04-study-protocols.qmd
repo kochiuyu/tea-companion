@@ -72,6 +72,15 @@ BART measures how far people push a risky balloon before it pops.[^1] IGT watche
 
 ## Expectation wears a lab coat if you let it
 
+<!-- lesson-illustration:unmatched-cups:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="unmatched-cups">
+  <img src="../../assets/lesson-illustrations/matched-cups.svg" width="240" height="136" alt="A handled mug beside a different, unhandled glass." loading="lazy" decoding="async">
+  <figcaption>These cups visibly differ. They illustrate a comparison to question, not properly matched study controls.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:unmatched-cups:end -->
+
 Suppose Arm A gets a fragrant, astringent, obviously-tea liquid in a clear glass. Arm B gets lukewarm water in a different cup. Whatever happens next, you have not isolated L-theanine. You have mixed pharmacology with theater.
 
 That is why careful studies obsess over opaque mugs, matched bitterness, matched temperature, and washout. Double-blind "sham tea" is hard, and the difficulty is the point.

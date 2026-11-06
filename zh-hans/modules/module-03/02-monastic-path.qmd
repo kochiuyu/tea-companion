@@ -83,6 +83,15 @@ lang: zh-Hans
 
 ## 宋代末茶，再传到荣西的日本
 
+<!-- lesson-illustration:powdered-tea:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="powdered-tea">
+  <img src="../../../assets/lesson-illustrations/song-powder.svg" width="240" height="136" alt="敞口茶碗旁有茶筅的示意图。" loading="lazy" decoding="async">
+  <figcaption>茶碗与茶筅带出末茶的调制。工具只是示意，并非宋代器具的复原。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:powdered-tea:end -->
+
 故事到日本之前，中国这边还有一个枢纽。唐代拿来煮的**饼茶**（陆羽那套炙—碾—煮的课程）并不是最后一种上层喝法。到了**宋代**，上层和寺院里的做法，是用筅在碗里击打末茶（教学标签常称*diancha*／点茶，也常跟早期日本相关的*mocha*说法放在一起）。那成了一套大家一起做的专注剧本，**不是**现代超市抹茶的咖啡师课。货架上的抹茶，归[茶叶入门](../../tea-basics.qmd)和[第一章](../module-01/index.qmd)。[^1][^2] 宋代的这种形态，正是荣西后来帮助带到日本的一部分。年份和边界，收在折叠里。
 
 ::: {.callout-note collapse="true" title="更多详情：唐饼煮 → 宋筅末（点茶）"}

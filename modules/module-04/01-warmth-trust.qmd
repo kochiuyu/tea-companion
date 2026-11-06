@@ -31,6 +31,15 @@ Superscript numbers are clickable footnotes. A click jumps to the source, and th
 <!-- reading-fold:end -->
 ## The mug is not psychologically invisible
 
+<!-- lesson-illustration:warmth-comparison:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="warmth-comparison">
+  <img src="../../assets/lesson-illustrations/warmth-evidence.svg" width="240" height="136" alt="A hand holding a mug beside comparison notes." loading="lazy" decoding="async">
+  <figcaption>Holding a warm mug is a sensory cue, not a guarantee of generosity or trust. Read the comparison conditions and replication discussion alongside the original claims.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:warmth-comparison:end -->
+
 You meet someone while holding a cozy mug, and you meet someone else while holding an icy can. In some lab setups, that feeling in the body spills over into how "warm" or trustworthy the person seems.[^1][^2] Holding something warm can bias a first impression. Effects on real choices do show up in some studies. They are not magic, though, and they are not always easy to replicate.
 
 It helps to picture a brain neighborhood that tracks **both** "my hand is warm" and "that person seems warm." Researchers often name that neighborhood the **[anterior insular cortex](../../glossary.qmd#anterior-insular-cortex)** (sometimes just "the insula"). The everyday idea, that a body state can lay a tint on social judgment, is what psychologists call **[embodied cognition](../../glossary.qmd#embodied-cognition)** when they want a lab label. You do not need either label to follow the open story.[^1][^2]

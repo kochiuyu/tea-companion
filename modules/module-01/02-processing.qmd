@@ -31,6 +31,15 @@ The superscript numbers are clickable footnotes. You jump to the source, the car
 <!-- reading-fold:end -->
 ## From bush to decision
 
+<!-- lesson-illustration:processing-tools:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="processing-tools">
+  <img src="../../assets/lesson-illustrations/processing.svg" width="240" height="136" alt="Tea leaves with schematic leaf-handling and heating tools." loading="lazy" decoding="async">
+  <figcaption>Handling leaves and applying heat shape the processing path. These motifs are not one universal sequence for every tea.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:processing-tools:end -->
+
 [Chapter 1 · Section 1](01-plants.qmd) left you with a leaf on a bush: a cool-hill or warm-lowland personality, some garden fine print, and a hint that Assam-type plant-compound richness loves black-tea processing. Now the leaf is picked. Someone in a factory, or in a small workshop, must choose. They can **stop the browning early**, or they can **let air rewrite the chemistry**.
 
 That choice, rather than a different species, is why the same tea plant can become green tea or black tea. The plant hunter Robert Fortune noticed the practical point in nineteenth-century China. Green and black came from the same bushes, and factory treatment decided the color.[^3]

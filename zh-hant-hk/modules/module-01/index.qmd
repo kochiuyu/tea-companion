@@ -71,6 +71,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 四節內容
 
+<!-- lesson-illustration:chemical-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="chemical-chapter">
+  <img src="../../../assets/lesson-illustrations/processing.svg" width="240" height="136" alt="茶葉與處理茶葉、加熱工具的示意圖。" loading="lazy" decoding="async">
+  <figcaption>從處理茶葉到沖泡，沿路看每項選擇。這些工場物件帶出問題，並非所有茶都適用的加工次序。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:chemical-chapter:end -->
+
 這裏的每一節，就是本章的一個主題。正文保持淺白；想看化學有多深，再打開摺疊方框。
 
 1. **[同一物種，兩種茶葉脾氣](01-plants.qmd)**——把[中國小葉種](../../glossary.qmd#sinensis)與[阿薩姆大葉種](../../glossary.qmd#assamica)當作日常的茶葉脾氣來看，並接上園藝上的細則，以及通向貨架的橋。

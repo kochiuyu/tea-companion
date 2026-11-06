@@ -31,6 +31,15 @@ Superscript numbers are clickable footnotes. Select one to jump to the source, a
 <!-- reading-fold:end -->
 ## Quiz-show speed and homework patience
 
+<!-- lesson-illustration:response-checking:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="response-checking">
+  <img src="../../assets/lesson-illustrations/reflection.svg" width="240" height="136" alt="A quiz buzzer beside a pencil and a checking worksheet." loading="lazy" decoding="async">
+  <figcaption>The buzzer and worksheet echo the lesson’s two scenes: answering quickly and checking a first guess. They are task metaphors, not separate parts of the brain.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:response-checking:end -->
+
 You already know two speeds of thinking, even if nobody has given them laboratory names.
 
 Picture a quiz show. The buzzer is live, a question flashes, and your mouth answers before your mind has finished checking. Sometimes that fast blurt is right. Sometimes it walks straight into a trap that rewards patience.

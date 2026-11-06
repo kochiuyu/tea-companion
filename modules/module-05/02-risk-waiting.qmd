@@ -49,6 +49,15 @@ Or imagine a small investment game on a screen. Wins feel pleasant, and losses f
 
 ## How far do you pump?
 
+<!-- lesson-illustration:balloon-task:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="balloon-task">
+  <img src="../../assets/lesson-illustrations/task.svg" width="240" height="136" alt="A balloon displayed on a computer screen." loading="lazy" decoding="async">
+  <figcaption>A virtual balloon illustrates the task described below. Performance in one task is not a prediction of a person’s real-life choices.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:balloon-task:end -->
+
 A balloon appears on a computer. Each pump adds a little money and a little danger. Stop too early and you leave money on the table. Push too far and a pop wipes the trial. Researchers ask how far people go on the balloons that have not just exploded.
 
 That toy world is useful because it turns "appetite for risk" into something you can count, without pretending the balloon is your career in a cup.[^4]

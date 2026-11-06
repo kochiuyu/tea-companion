@@ -37,6 +37,15 @@ Compare moments from tea history, or set a tea table for a particular setting. T
 
 ## A better cup. A more curious mind.
 
+<!-- lesson-illustration:welcome:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="welcome">
+  <img src="assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="A cup with tea leaves, a thermometer and a timer." loading="lazy" decoding="async">
+  <figcaption>Begin with a cup and a question. Notice the leaves, water and time.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:welcome:end -->
+
 You pour water over leaves. A few minutes later, you have something fragrant, warming, and surprisingly complicated. Why does the same tea taste gentle one morning and bitter the next? What does a name on the packet actually tell you? And how much of a tea headline should you believe?
 
 Start with the cup in front of you. Follow your curiosity from there.

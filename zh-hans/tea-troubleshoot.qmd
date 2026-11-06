@@ -73,6 +73,15 @@ lang: zh-Hans
 
 ## 一次只拧一颗
 
+<!-- lesson-illustration:adjust-brew:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="adjust-brew">
+  <img src="../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶叶、温度计与计时器。" loading="lazy" decoding="async">
+  <figcaption>选一个冲泡变量作调整，再比较下一杯。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:adjust-brew:end -->
+
 第一章已经教过家里这三颗旋钮。这里只留一个习惯：**先改一件事**，再尝一口，然后再决定要不要去读全文。
 
 - **时间。** 泡得久一些，水里的化合物通常就多一些，直到对你来说太苦。早走的客人（第一章那个故事里的咖啡因和 [茶氨酸（L-theanine）](glossary.qmd#l-theanine)）相对容易离开。苦味，以及走得较慢的客人，往往要晚一点才出现。

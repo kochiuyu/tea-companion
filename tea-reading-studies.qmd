@@ -166,6 +166,15 @@ If this door pasted Chapter 5’s washout clocks, mug temperatures, and example 
 
 ## “A cup” is not a study dose
 
+<!-- lesson-illustration:study-dose:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="study-dose">
+  <img src="assets/lesson-illustrations/dose.svg" width="240" height="136" alt="A capsule beside a cup." loading="lazy" decoding="async">
+  <figcaption>A capsule and a cup are different preparations. Check the study dose rather than assuming they are equivalent.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:study-dose:end -->
+
 When a paper or a headline quotes milligrams, or casually says “tea,” open the [Cup reference](cup-reference.qmd) and ask one question. Was this an ordinary **250 mL** home baseline, or a lab capsule or a formal tasting-strength liquor?
 
 The Cup reference already flags the beginner tip. Chapter 2–style study doses of L-theanine are often much stronger than one ordinary mug. Chapter 1 · Section 4 tells the cups-versus-capsules story in the compound lesson. Chapter 5 · Section 4 keeps the active-dose examples inside its protocol foldouts.

@@ -121,6 +121,15 @@ lang: zh-Hant-HK
 
 ## 便宜的一杯，誠實的界線
 
+<!-- lesson-illustration:tea-marketing:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="tea-marketing">
+  <img src="../../../assets/lesson-illustrations/notice.svg" width="240" height="136" alt="茶杯旁有一張示意印刷廣告。" loading="lazy" decoding="async">
+  <figcaption>生產也需要買家。這張示意廣告帶出推廣的故事，並非歷史廣告的複製品。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:tea-marketing:end -->
+
 大約到 **1890** 年，邱園的公開敘述說，印度供應了英國本土茶葉市場大約 **90%**。這條好讀的市場線索，說明英國的廚櫃為甚麼不必再像從前那樣靠廣州的茶箱。[^1] 超市裏的茶包在歷史上便宜，一部分是因為別人的園子變成了莊園，而莊園又按產量把人和日程排好。只有生產還不夠。還得有人說服喝茶的人：帝國的茶葉，配放進每天的杯子。
 
 這些都撐不起「單憑茶就造成了帝國」這種口號，也撐不起在本頁重估誰拿走了種植園利潤。邱園的網頁還寫道，印度「只獲准保留種植園利潤的 15%」。我們把這句話當成**邱園自己的敘述**，不是本站另行審過的帳本。[^1] 要看勞動有多深，優先讀夏爾馬。要一條好讀的市場和成本線索，看邱園。要公司怎樣成立的那個轉折，看安特羅布斯。[^3][^5][^6]

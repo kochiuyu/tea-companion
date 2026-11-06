@@ -39,6 +39,15 @@ None of those three is milligrams in the cup. Each can still color how the cup f
 
 ## Three dials
 
+<!-- lesson-illustration:context-dials:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="context-dials">
+  <img src="../../assets/lesson-illustrations/context.svg" width="240" height="136" alt="A cup with symbols for warmth, preparation and its description." loading="lazy" decoding="async">
+  <figcaption>Warmth, preparation ritual and expectations are three different questions. These are context cues, not measured effect sizes.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:context-dials:end -->
+
 | Dial | Plain job | Where we learned it | What it is *not* |
 | --- | --- | --- | --- |
 | **Warmth** | Body temperature tint on social judgment | [Section 1](01-warmth-trust.qmd) | A boardroom cheat code |

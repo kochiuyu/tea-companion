@@ -75,6 +75,15 @@ lang: zh-Hans
 
 ## 四节内容课
 
+<!-- lesson-illustration:decision-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="decision-chapter">
+  <img src="../../../assets/lesson-illustrations/reflection.svg" width="240" height="136" alt="抢答铃旁有铅笔与核对用的纸张。" loading="lazy" decoding="async">
+  <figcaption>快速反应与仔细核对各有适用的任务。本章问研究实际测量什么，而不是把饮品当作通往智慧的捷径。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:decision-chapter:end -->
+
 每一节对应一个主题。**正文一律用日常语言**，多花一些篇幅把主要的观点讲透；想看理论术语、剂量表，或实验的时间安排时，再打开折叠框。可以按顺序读，也可以跳着读。
 
 1. **[“脱口而出”与“再查一遍”](01-dual-process.qmd)** — 抢答节目的速度，对照做作业时的耐心；茶、咖啡带来的紧张，以及酒精，怎样移动注意力的“聚光灯”。

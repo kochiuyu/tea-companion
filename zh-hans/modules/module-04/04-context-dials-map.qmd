@@ -44,6 +44,15 @@ lang: zh-Hans
 
 ## 三个旋钮
 
+<!-- lesson-illustration:context-dials:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="context-dials">
+  <img src="../../../assets/lesson-illustrations/context.svg" width="240" height="136" alt="茶杯旁有温暖、冲泡步骤与饮品描述的图示。" loading="lazy" decoding="async">
+  <figcaption>温暖、冲泡仪式与预期，是三个不同的问题。图示表示情境线索，并非实测的效应大小。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:context-dials:end -->
+
 | 旋钮 | 白话工作 | 在哪学过 | 它*不是*什么 |
 | --- | --- | --- | --- |
 | **温暖** | 体温给社会判断添上一层影响 | [第一节](01-warmth-trust.qmd) | 会议室必胜秘技 |

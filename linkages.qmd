@@ -145,6 +145,15 @@ Higher catechin levels in [*assamica*](glossary.qmd#assamica), about **25%–35%
 <!-- reading-fold:end -->
 ## Compact checklist
 
+<!-- lesson-illustration:connection-notes:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="connection-notes">
+  <img src="assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="An open book, bookmark, magnifying glass and notebook." loading="lazy" decoding="async">
+  <figcaption>Follow each connection back to its source and study conditions. Putting two ideas beside each other is not, by itself, evidence of a causal chain.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:connection-notes:end -->
+
 | From → To | Plain connection | Citations |
 | --- | --- | --- |
 | L-theanine timing → calm brain waves | Blood levels peak about **35–50 min** later; alpha changes often appear **30–45 min** in | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |

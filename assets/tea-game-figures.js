@@ -23,7 +23,7 @@
     task: ['A virtual balloon task', '\u865b\u64ec\u6c23\u7403\u4efb\u52d9', '\u865a\u62df\u6c14\u7403\u4efb\u52a1'],
     ingredients: ['Ingredients considered together', '\u4e00\u8d77\u8003\u616e\u7684\u6210\u5206', '\u4e00\u8d77\u8003\u8651\u7684\u6210\u5206']
   };
-  function art(kind, count) {
+  function art(kind, count, scenario) {
     const node = (tag, attrs = {}) => {
       const n = document.createElementNS(ns, tag);
       Object.entries(attrs).forEach(([k, v]) => n.setAttribute(k, String(v)));
@@ -48,6 +48,54 @@
       leaf(112,81);
       if (kind === 'plant') path('M86 96 H140 L134 118 H93 Z',clay);
       else {circle(164,97,6,clay);circle(181,105,6,clay);circle(156,113,5,clay);}
+    } else if (kind === 'label' && Number.isInteger(scenario) && scenario >= 0 && scenario < 15) {
+      // Stable scenario artwork, never derived from the answer or selected clue.
+      // Packaging and abstract decoration only: no leaves, maps, ingredients,
+      // grades, preparation equipment, claims, or semantic color coding.
+      const packages = ['packet','gift','slim','tin','shelf','pouch','counter',
+        'packet','slim','pouch','tin','wrapper','packet','slim','box'];
+      const shape = packages[scenario];
+      const palettes = [sage, '#d9bea8', '#c7c9b7'];
+      const fill = palettes[scenario % palettes.length];
+      if (shape === 'packet' || shape === 'slim' || shape === 'pouch') {
+        const left = shape === 'slim' ? 82 : shape === 'pouch' ? 63 : 72;
+        const right = 240-left;
+        path(`M${left+7} 21 H${right-7} L${right} 112 H${left} Z`,fill);
+        path(`M${left+8} 29 H${right-8} M${left+2} 104 H${right-2}`);
+        if (shape === 'pouch') path(`M${left+7} 35 L${left+13} 97 M${right-7} 35 L${right-13} 97`,'none',ink,1.5);
+      } else if (shape === 'gift' || shape === 'box') {
+        path('M63 34 L78 23 H168 L182 34 V111 H63 Z',fill);
+        path('M63 34 H182 M168 35 V111 M168 23 V34');
+        if (shape === 'gift') {path('M88 35 V110 M94 35 V110','none',cream,3);}
+      } else if (shape === 'tin') {
+        rect(72,30,96,80,fill,8);
+        add('ellipse',{cx:120,cy:30,rx:48,ry:10,fill:cream,stroke:ink,'stroke-width':2});
+        path('M73 101 Q120 115 167 101');
+      } else if (shape === 'wrapper') {
+        circle(120,67,48,fill);
+        for (let i=0;i<12;i++) {
+          const angle=i*Math.PI/6;
+          path(`M${120+Math.cos(angle)*39} ${67+Math.sin(angle)*39} L${120+Math.cos(angle)*46} ${67+Math.sin(angle)*46}`,'none',ink,1.5);
+        }
+      } else if (shape === 'shelf') {
+        rect(49,38,142,62,fill,3);path('M37 108 H203 M60 101 V108 M180 101 V108');
+      } else if (shape === 'counter') {
+        path('M64 106 L79 27 H160 L180 106 Z',fill);path('M160 27 L151 106 H180');
+      }
+      // Fifteen distinct arrangements; the common blank label stays legible
+      // as a drawing, while the real practice wording remains HTML nearby.
+      const labelX = shape === 'counter' ? 83 : 91;
+      rect(labelX,46,58,43,cream,scenario % 3 === 0 ? 12 : 3);
+      const pattern = Math.floor(scenario / 3);
+      if (pattern === 0) path(`M${labelX+10} 58 H${labelX+46} M${labelX+10} 66 H${labelX+39} M${labelX+10} 78 H${labelX+46}`,'none',ink,2);
+      if (pattern === 1) {rect(labelX+9,55,12,24,fill,2);path(`M${labelX+29} 58 H${labelX+47} M${labelX+29} 67 H${labelX+44} M${labelX+29} 76 H${labelX+47}`,'none',ink,2);}
+      if (pattern === 2) {path(`M${labelX+8} 57 H${labelX+50} M${labelX+8} 78 H${labelX+50}`,'none',ink,2);for(let i=0;i<3;i++)circle(labelX+17+i*12,67,3,fill);}
+      if (pattern === 3) {rect(labelX+8,53,42,28,cream,2);path(`M${labelX+16} 61 H${labelX+42} M${labelX+16} 72 H${labelX+35}`,'none',ink,2);}
+      if (pattern === 4) {path(`M${labelX+10} 54 V81 M${labelX+17} 59 H${labelX+47} M${labelX+17} 68 H${labelX+39} M${labelX+17} 77 H${labelX+47}`,'none',ink,2);}
+      // A magnifier ties every package to the detective activity.
+      circle(185,89,17,cream);path('M198 102 L214 118','none',clay,7);
+      path('M177 85 H192 M177 93 H187','none',ink,2);
+      svg.setAttribute('data-label-art', String(scenario));
     } else if (kind === 'notice' || kind === 'label' || kind === 'expectation') {
       paper(64,26);
       if (kind === 'label') {circle(151,69,25,'#faf5e8');path('M170 88 L194 112', 'none',clay,9);path('M139 62 H163 M139 74 H158');}
@@ -85,11 +133,11 @@
   }
   window.TeaGameFigures = {
     art,
-    figure(kind, locale) {
+    figure(kind, locale, scenario) {
       const figure = document.createElement('figure'); figure.className = 'tea-game-figure';
       const caption = document.createElement('figcaption');
       caption.textContent = captions[kind][['en','zh-hant-hk','zh-hans'].indexOf(locale)] || captions[kind][0];
-      figure.append(art(kind), caption); return figure;
+      figure.append(art(kind, undefined, scenario), caption); return figure;
     }
   };
 })();

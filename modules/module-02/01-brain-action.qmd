@@ -31,6 +31,15 @@ Superscript numbers are clickable footnotes. A click jumps to the source, the ca
 <!-- reading-fold:end -->
 ## Why tea and coffee can feel different
 
+<!-- lesson-illustration:brain-observation:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brain-observation">
+  <img src="../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="A person beside a clock and an observation notebook." loading="lazy" decoding="async">
+  <figcaption>Separate what a person notices from what a study measures. This is an observation sketch, not a brain mechanism or a promised effect.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brain-observation:end -->
+
 Chapter 1 left three guests in your bloodstream. This sitting asks the question that makes people switch drinks, or defend that switch to a friend.
 
 *Why does tea so often feel awake and calmer, while coffee can feel like a jolt?*

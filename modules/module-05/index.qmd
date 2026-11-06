@@ -65,6 +65,15 @@ Footnotes are bidirectional: click the number and you go to the source, then the
 
 ## The four sections
 
+<!-- lesson-illustration:decision-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="decision-chapter">
+  <img src="../../assets/lesson-illustrations/reflection.svg" width="240" height="136" alt="A quiz buzzer beside a pencil and a checking worksheet." loading="lazy" decoding="async">
+  <figcaption>A quick response and a careful check suit different tasks. The chapter asks what a study actually measures, rather than treating a drink as a shortcut to wisdom.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:decision-chapter:end -->
+
 The **open pages stay everyday language** and take more time unpacking the main idea. Open a foldout when you want the theory labels, the dose tables, or the protocol clocks. You can read in order, or hop.
 
 1. **[Fast blurts and careful checks](01-dual-process.qmd)** — quiz-show speed set beside homework patience, and how tea, coffee-stress, and alcohol nudge the spotlight.

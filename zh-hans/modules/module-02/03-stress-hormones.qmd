@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 压力也有化学
 
+<!-- lesson-illustration:stress-records:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="stress-records">
+  <img src="../../../assets/lesson-illustrations/stress-observation.svg" width="240" height="136" alt="警铃旁有时钟与观察记录表。" loading="lazy" decoding="async">
+  <figcaption>警铃是课文用来比喻压力的物件。时钟与记录表提醒我们留意研究观察什么、何时观察；它们并非激素变化的测量结果。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:stress-records:end -->
+
 脑里的信号（[第二章第一节](01-brain-action.qmd)）和脑的节奏（[第二章第二节](02-brainwaves.qmd)），是看茶的双重故事的两扇窗。这一节打开第三扇：**日子本身嘈杂的时候，身体里发生什么**。
 
 人一旦紧张，身体就会跑一条化学上的火警回路。一个主要输出，是许多人听过的压力激素：**皮质醇**。另一个来得很快的“加油”信号，是肾上腺素。要跟上这个故事，不必先看完整的回路图，折叠里都有。

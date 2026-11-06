@@ -1,0 +1,712 @@
+{
+  "base_commit": "28d00d57d0fd3e38d540ac60ba231d26b894e3ab",
+  "art": {
+    "brewing": {
+      "source": "lesson",
+      "kind": "brewing",
+      "alt": {
+        "en": "A cup with tea leaves, a thermometer and a timer.",
+        "zh-hant-hk": "茶杯旁有茶葉、溫度計與計時器。",
+        "zh-hans": "茶杯旁有茶叶、温度计与计时器。"
+      }
+    },
+    "processing": {
+      "source": "lesson",
+      "kind": "processing",
+      "alt": {
+        "en": "Tea leaves with schematic leaf-handling and heating tools.",
+        "zh-hant-hk": "茶葉與處理茶葉、加熱工具的示意圖。",
+        "zh-hans": "茶叶与处理茶叶、加热工具的示意图。"
+      }
+    },
+    "body-signals": {
+      "source": "lesson",
+      "kind": "body-signals",
+      "alt": {
+        "en": "A person beside a clock and an observation notebook.",
+        "zh-hant-hk": "一個人旁邊有時鐘與觀察紀錄簿。",
+        "zh-hans": "一个人旁边有时钟与观察记录簿。"
+      }
+    },
+    "context": {
+      "source": "lesson",
+      "kind": "context",
+      "alt": {
+        "en": "A cup with symbols for warmth, preparation and its description.",
+        "zh-hant-hk": "茶杯旁有溫暖、沖泡步驟與飲品描述的圖示。",
+        "zh-hans": "茶杯旁有温暖、冲泡步骤与饮品描述的图示。"
+      }
+    },
+    "plant": {
+      "source": "game",
+      "kind": "plant",
+      "alt": {
+        "en": "A stylized tea plant in a pot.",
+        "zh-hant-hk": "盆栽茶樹的簡化圖。",
+        "zh-hans": "盆栽茶树的简化图。"
+      }
+    },
+    "label": {
+      "source": "game",
+      "kind": "label",
+      "alt": {
+        "en": "A magnifying glass beside a printed label.",
+        "zh-hant-hk": "印刷標籤旁有放大鏡。",
+        "zh-hans": "印刷标签旁有放大镜。"
+      }
+    },
+    "dose": {
+      "source": "game",
+      "kind": "dose",
+      "alt": {
+        "en": "A capsule beside a cup.",
+        "zh-hant-hk": "茶杯旁有一粒膠囊。",
+        "zh-hans": "茶杯旁有一粒胶囊。"
+      }
+    },
+    "timing": {
+      "source": "game",
+      "kind": "timing",
+      "alt": {
+        "en": "A clock beside a cup.",
+        "zh-hant-hk": "茶杯旁有時鐘。",
+        "zh-hans": "茶杯旁有时钟。"
+      }
+    },
+    "ship": {
+      "source": "game",
+      "kind": "ship",
+      "alt": {
+        "en": "A schematic sailing ship on water.",
+        "zh-hant-hk": "水上一艘帆船的示意圖。",
+        "zh-hans": "水上一艘帆船的示意图。"
+      }
+    },
+    "notice": {
+      "source": "game",
+      "kind": "notice",
+      "alt": {
+        "en": "A generic printed notice beside a cup.",
+        "zh-hant-hk": "茶杯旁有一張示意印刷廣告。",
+        "zh-hans": "茶杯旁有一张示意印刷广告。"
+      }
+    },
+    "expectation": {
+      "source": "game",
+      "kind": "expectation",
+      "alt": {
+        "en": "A written description beside a cup.",
+        "zh-hant-hk": "茶杯旁有文字描述。",
+        "zh-hans": "茶杯旁有文字描述。"
+      }
+    },
+    "task": {
+      "source": "game",
+      "kind": "task",
+      "alt": {
+        "en": "A balloon displayed on a computer screen.",
+        "zh-hant-hk": "電腦螢幕上顯示一個氣球。",
+        "zh-hans": "电脑屏幕上显示一个气球。"
+      }
+    },
+    "matched-cups": {
+      "source": "game",
+      "kind": "matched-cups",
+      "alt": {
+        "en": "A handled mug beside a different, unhandled glass.",
+        "zh-hant-hk": "有柄杯旁有一隻外形不同、沒有手柄的玻璃杯。",
+        "zh-hans": "有柄杯旁有一只外形不同、没有手柄的玻璃杯。"
+      }
+    },
+    "song-powder": {
+      "source": "museum",
+      "kind": "song-powder",
+      "alt": {
+        "en": "An open tea bowl beside a schematic whisk.",
+        "zh-hant-hk": "敞口茶碗旁有茶筅的示意圖。",
+        "zh-hans": "敞口茶碗旁有茶筅的示意图。"
+      }
+    },
+    "milk-tea-filter": {
+      "source": "museum",
+      "kind": "milk-tea-filter",
+      "alt": {
+        "en": "A hanging cloth filter beside a serving cup.",
+        "zh-hant-hk": "懸掛的布濾袋旁有飲用杯。",
+        "zh-hans": "悬挂的布滤袋旁有饮用杯。"
+      }
+    },
+    "stress-observation": {
+      "source": "lesson",
+      "kind": "stress-observation",
+      "alt": {
+        "en": "An alarm bell beside a clock and an observation sheet.",
+        "zh-hant-hk": "警鈴旁有時鐘與觀察紀錄表。",
+        "zh-hans": "警铃旁有时钟与观察记录表。"
+      }
+    },
+    "warmth-evidence": {
+      "source": "lesson",
+      "kind": "warmth-evidence",
+      "alt": {
+        "en": "A hand holding a mug beside comparison notes.",
+        "zh-hant-hk": "手握茶杯，旁邊有比較紀錄。",
+        "zh-hans": "手握茶杯，旁边有比较记录。"
+      }
+    },
+    "reflection": {
+      "source": "lesson",
+      "kind": "reflection",
+      "alt": {
+        "en": "A quiz buzzer beside a pencil and a checking worksheet.",
+        "zh-hant-hk": "搶答鈴旁有鉛筆與核對用的紙張。",
+        "zh-hans": "抢答铃旁有铅笔与核对用的纸张。"
+      }
+    },
+    "social-rules": {
+      "source": "lesson",
+      "kind": "social-rules",
+      "alt": {
+        "en": "Two players beside a token board and a rule card.",
+        "zh-hant-hk": "兩位玩家旁有代幣板與規則卡。",
+        "zh-hans": "两位玩家旁有代币板与规则卡。"
+      }
+    },
+    "source-notes": {
+      "source": "lesson",
+      "kind": "source-notes",
+      "alt": {
+        "en": "An open book, bookmark, magnifying glass and notebook.",
+        "zh-hant-hk": "翻開的書本、書籤、放大鏡與筆記簿。",
+        "zh-hans": "翻开的书本、书签、放大镜与笔记本。"
+      }
+    }
+  },
+  "placements": [
+    {
+      "id": "welcome",
+      "page": "index.qmd",
+      "art": "brewing",
+      "heading": {
+        "en": "A better cup. A more curious mind.",
+        "zh-hant-hk": "從這裡開始",
+        "zh-hans": "从这里开始"
+      },
+      "caption": {
+        "en": "Begin with a cup and a question. Notice the leaves, water and time.",
+        "zh-hant-hk": "由一杯茶、一個問題開始。留意茶葉、水與時間。",
+        "zh-hans": "从一杯茶、一个问题开始。留意茶叶、水与时间。"
+      }
+    },
+    {
+      "id": "first-mug",
+      "page": "tea-basics.qmd",
+      "art": "brewing",
+      "heading": {
+        "en": "Your first mug",
+        "zh-hant-hk": "你的第一杯",
+        "zh-hans": "你的第一杯"
+      },
+      "caption": {
+        "en": "A few simple tools are enough. Use the instructions below as a starting point, then taste and adjust.",
+        "zh-hant-hk": "簡單器具已經足夠。以下面的步驟作起點，再品嚐和調整。",
+        "zh-hans": "简单器具已经足够。以下面的步骤作起点，再品尝和调整。"
+      }
+    },
+    {
+      "id": "read-label",
+      "page": "tea-labels.qmd",
+      "art": "label",
+      "heading": {
+        "en": "How to read a tea label",
+        "zh-hant-hk": "怎樣讀一張茶標籤",
+        "zh-hans": "怎样读一张茶标签"
+      },
+      "caption": {
+        "en": "Look closely at the words: place, style, blend, type and grade do different jobs.",
+        "zh-hant-hk": "細看標籤上的字：產地、風格、拼配、茶類與等級，各有不同作用。",
+        "zh-hans": "细看标签上的字：产地、风格、拼配、茶类与等级，各有不同作用。"
+      }
+    },
+    {
+      "id": "adjust-brew",
+      "page": "tea-troubleshoot.qmd",
+      "art": "brewing",
+      "heading": {
+        "en": "One dial at a time",
+        "zh-hant-hk": "一次只扭一顆",
+        "zh-hans": "一次只拧一颗"
+      },
+      "caption": {
+        "en": "Choose one brewing variable to change, then compare the next cup.",
+        "zh-hant-hk": "選一個沖泡變項作調整，再比較下一杯。",
+        "zh-hans": "选一个冲泡变量作调整，再比较下一杯。"
+      }
+    },
+    {
+      "id": "study-dose",
+      "page": "tea-reading-studies.qmd",
+      "art": "dose",
+      "heading": {
+        "en": "“A cup” is not a study dose",
+        "zh-hant-hk": "「一杯」不是研究劑量",
+        "zh-hans": "“一杯”不是研究剂量"
+      },
+      "caption": {
+        "en": "A capsule and a cup are different preparations. Check the study dose rather than assuming they are equivalent.",
+        "zh-hant-hk": "膠囊與一杯茶是不同的製備方式。先核對研究劑量，不要假設兩者相等。",
+        "zh-hans": "胶囊与一杯茶是不同的制备方式。先核对研究剂量，不要假设两者相等。"
+      }
+    },
+    {
+      "id": "plant-origin",
+      "page": "modules/module-01/01-plants.qmd",
+      "art": "plant",
+      "heading": {
+        "en": "A morning that starts with the wrong question",
+        "zh-hant-hk": "超市貨架上，問題常問錯",
+        "zh-hans": "超市货架上，问题常问错"
+      },
+      "caption": {
+        "en": "Start with the tea plant. This simplified drawing does not distinguish its varieties or predict caffeine content.",
+        "zh-hant-hk": "先認識茶樹。這張簡化圖不區分變種，也不能預測咖啡因含量。",
+        "zh-hans": "先认识茶树。这张简化图不区分变种，也不能预测咖啡因含量。"
+      }
+    },
+    {
+      "id": "processing-tools",
+      "page": "modules/module-01/02-processing.qmd",
+      "art": "processing",
+      "heading": {
+        "en": "From bush to decision",
+        "zh-hant-hk": "由茶樹到抉擇",
+        "zh-hans": "从灌木到抉择"
+      },
+      "caption": {
+        "en": "Handling leaves and applying heat shape the processing path. These motifs are not one universal sequence for every tea.",
+        "zh-hant-hk": "處理茶葉與加熱會塑造加工路線。這些圖示並非所有茶都遵循的單一工序。",
+        "zh-hans": "处理茶叶与加热会塑造加工路线。这些图示并非所有茶都遵循的单一工序。"
+      }
+    },
+    {
+      "id": "brewing-variables",
+      "page": "modules/module-01/03-brewing.qmd",
+      "art": "brewing",
+      "heading": {
+        "en": "Same leaves, different cup",
+        "zh-hant-hk": "我們大多數人唯一擁有的實驗室",
+        "zh-hans": "我们多数人唯一拥有的实验室"
+      },
+      "caption": {
+        "en": "Leaf amount, water, temperature and time belong in the comparison. Change one variable at a time.",
+        "zh-hant-hk": "比較時要留意茶葉用量、水、溫度與時間。一次只改一個變項。",
+        "zh-hans": "比较时要留意茶叶用量、水、温度与时间。一次只改一个变量。"
+      }
+    },
+    {
+      "id": "compound-clocks",
+      "page": "modules/module-01/04-compounds.qmd",
+      "art": "timing",
+      "heading": {
+        "en": "Guests who arrive on different clocks",
+        "zh-hant-hk": "按不同時間表登場的客人",
+        "zh-hans": "按不同时钟到来的客人"
+      },
+      "caption": {
+        "en": "Timing matters when discussing compounds. The clock is a reminder, not an absorption curve or a precise timetable.",
+        "zh-hant-hk": "談成分時，時間很重要。時鐘只是提醒，並非吸收曲線或精確時間表。",
+        "zh-hans": "谈成分时，时间很重要。时钟只是提醒，并非吸收曲线或精确时间表。"
+      }
+    },
+    {
+      "id": "brain-observation",
+      "page": "modules/module-02/01-brain-action.qmd",
+      "art": "body-signals",
+      "heading": {
+        "en": "Why tea and coffee can feel different",
+        "zh-hant-hk": "茶和咖啡，為甚麼感覺不一樣",
+        "zh-hans": "为什么茶与咖啡可以感觉不同"
+      },
+      "caption": {
+        "en": "Separate what a person notices from what a study measures. This is an observation sketch, not a brain mechanism or a promised effect.",
+        "zh-hant-hk": "分清個人感受與研究量度的結果。這是觀察示意圖，並非腦部機制圖，也不保證任何效果。",
+        "zh-hans": "分清个人感受与研究测量的结果。这是观察示意图，并非脑部机制图，也不保证任何效果。"
+      }
+    },
+    {
+      "id": "brainwave-timing",
+      "page": "modules/module-02/02-brainwaves.qmd",
+      "art": "timing",
+      "heading": {
+        "en": "The kitchen clock still belongs here",
+        "zh-hant-hk": "廚房裏的時鐘，這裏仍然用得着",
+        "zh-hans": "厨房时钟仍属于这里"
+      },
+      "caption": {
+        "en": "When was the measurement taken? A cup and clock keep the timing question visible without drawing a made-up brainwave result.",
+        "zh-hant-hk": "在甚麼時候量度？茶杯與時鐘提醒我們留意時間，沒有繪出虛構的腦波結果。",
+        "zh-hans": "在什么时候测量？茶杯与时钟提醒我们留意时间，没有绘出虚构的脑波结果。"
+      }
+    },
+    {
+      "id": "body-measurement",
+      "page": "modules/module-02/04-body-signals.qmd",
+      "art": "body-signals",
+      "heading": {
+        "en": "Numbers you cannot feel—but labs can",
+        "zh-hant-hk": "你感覺不到、實驗室卻量得到的數字",
+        "zh-hans": "你感觉不到、实验室能量到的数字"
+      },
+      "caption": {
+        "en": "A person, a clock and a record: measurements need a method and a time. This sketch shows no measured change.",
+        "zh-hant-hk": "一個人、一個時鐘、一份紀錄：量度需要方法與時間。圖中沒有顯示任何實測變化。",
+        "zh-hans": "一个人、一个时钟、一份记录：测量需要方法与时间。图中没有显示任何实测变化。"
+      }
+    },
+    {
+      "id": "maritime-trade",
+      "page": "modules/module-03/01-trade-history.qmd",
+      "art": "ship",
+      "heading": {
+        "en": "Silver flowed east",
+        "zh-hant-hk": "白銀向東流",
+        "zh-hans": "白银向东流"
+      },
+      "caption": {
+        "en": "Maritime trade carried tea across borders. This is a generic ship, not a reconstruction of a named vessel, route or event.",
+        "zh-hant-hk": "海上貿易把茶帶到不同地方。這是一般帆船的示意圖，並非特定船隻、航線或事件的復原。",
+        "zh-hans": "海上贸易把茶带到不同地方。这是一般帆船的示意图，并非特定船只、航线或事件的复原。"
+      }
+    },
+    {
+      "id": "powdered-tea",
+      "page": "modules/module-03/02-monastic-path.qmd",
+      "art": "song-powder",
+      "heading": {
+        "en": "Song powder, then Eisai's Japan",
+        "zh-hant-hk": "宋代末茶，再傳到榮西的日本",
+        "zh-hans": "宋代末茶，再传到荣西的日本"
+      },
+      "caption": {
+        "en": "A bowl and whisk introduce powdered-tea preparation. The tools are schematic, not a reconstruction of Song-period equipment.",
+        "zh-hant-hk": "茶碗與茶筅帶出末茶的調製。工具只是示意，並非宋代器具的復原。",
+        "zh-hans": "茶碗与茶筅带出末茶的调制。工具只是示意，并非宋代器具的复原。"
+      }
+    },
+    {
+      "id": "tea-marketing",
+      "page": "modules/module-03/03-plantation-aftershock.qmd",
+      "art": "notice",
+      "heading": {
+        "en": "Cheap cup, honest fence",
+        "zh-hant-hk": "便宜的一杯，誠實的界線",
+        "zh-hans": "便宜的一杯，诚实的边界"
+      },
+      "caption": {
+        "en": "Production also needed buyers. This generic notice points to the marketing story; it is not a historical advertisement.",
+        "zh-hant-hk": "生產也需要買家。這張示意廣告帶出推廣的故事，並非歷史廣告的複製品。",
+        "zh-hans": "生产也需要买家。这张示意广告带出推广的故事，并非历史广告的复制品。"
+      }
+    },
+    {
+      "id": "milk-tea-tools",
+      "page": "modules/module-03/04-regional-scripts.qmd",
+      "art": "milk-tea-filter",
+      "heading": {
+        "en": "Portrait 2 — Hong Kong milk-tea counter",
+        "zh-hant-hk": "肖像二——香港奶茶櫃位",
+        "zh-hans": "肖像二——香港奶茶柜台"
+      },
+      "caption": {
+        "en": "A cloth filter and serving cup introduce the counter-craft portrait. The filter is not a literal stocking, and the drawing is not a full recipe.",
+        "zh-hant-hk": "布濾袋與飲用杯帶出奶茶櫃位的手藝。濾袋並非真正的絲襪，圖中也沒有列出完整配方。",
+        "zh-hans": "布滤袋与饮用杯带出奶茶柜台的手艺。滤袋并非真正的丝袜，图中也没有列出完整配方。"
+      }
+    },
+    {
+      "id": "ritual-actions",
+      "page": "modules/module-04/02-ritual-stress.qmd",
+      "art": "brewing",
+      "heading": {
+        "en": "Hands that know the script",
+        "zh-hant-hk": "雙手記得步驟",
+        "zh-hans": "手比脑子先记住流程"
+      },
+      "caption": {
+        "en": "Measure, watch, wait: familiar actions give this lesson a concrete starting point. The illustration makes no clinical promise.",
+        "zh-hant-hk": "量取、留意、等待：熟悉的動作是這一課的具體起點。插圖不作臨床效果的承諾。",
+        "zh-hans": "量取、留意、等待：熟悉的动作是这一课的具体起点。插图不作临床效果的承诺。"
+      }
+    },
+    {
+      "id": "label-expectation",
+      "page": "modules/module-04/03-expectation-labels.qmd",
+      "art": "expectation",
+      "heading": {
+        "en": "Same liquid, different story",
+        "zh-hant-hk": "同一液體，不同故事",
+        "zh-hans": "同一液体，不同故事"
+      },
+      "caption": {
+        "en": "The description travels with the cup. Keep the label and the liquid separate when thinking about expectations.",
+        "zh-hant-hk": "描述會隨着茶杯一起到來。思考期望時，記得分清標籤與杯中的液體。",
+        "zh-hans": "描述会随着茶杯一起来到。思考预期时，记得分清标签与杯中的液体。"
+      }
+    },
+    {
+      "id": "context-dials",
+      "page": "modules/module-04/04-context-dials-map.qmd",
+      "art": "context",
+      "heading": {
+        "en": "Three dials",
+        "zh-hant-hk": "三個旋鈕",
+        "zh-hans": "三个旋钮"
+      },
+      "caption": {
+        "en": "Warmth, preparation ritual and expectations are three different questions. These are context cues, not measured effect sizes.",
+        "zh-hant-hk": "溫暖、沖泡儀式與期望，是三個不同的問題。圖示表示情境線索，並非實測的效應大小。",
+        "zh-hans": "温暖、冲泡仪式与预期，是三个不同的问题。图示表示情境线索，并非实测的效应大小。"
+      }
+    },
+    {
+      "id": "balloon-task",
+      "page": "modules/module-05/02-risk-waiting.qmd",
+      "art": "task",
+      "heading": {
+        "en": "How far do you pump?",
+        "zh-hant-hk": "你會打多少下氣？",
+        "zh-hans": "你会把气球打到多大？"
+      },
+      "caption": {
+        "en": "A virtual balloon illustrates the task described below. Performance in one task is not a prediction of a person’s real-life choices.",
+        "zh-hant-hk": "虛擬氣球示意下文介紹的任務。單一任務的表現，不能預測一個人在現實生活中的選擇。",
+        "zh-hans": "虚拟气球示意下文介绍的任务。单一任务的表现，不能预测一个人在现实生活中的选择。"
+      }
+    },
+    {
+      "id": "unmatched-cups",
+      "page": "modules/module-05/04-study-protocols.qmd",
+      "art": "matched-cups",
+      "heading": {
+        "en": "Expectation wears a lab coat if you let it",
+        "zh-hant-hk": "你若放任，期望就會穿上白袍",
+        "zh-hans": "你一放松，心理预期就会冒充实验效果"
+      },
+      "caption": {
+        "en": "These cups visibly differ. They illustrate a comparison to question, not properly matched study controls.",
+        "zh-hant-hk": "這兩隻杯明顯不同。圖示提醒我們質疑比較條件，並非妥善匹配的研究對照。",
+        "zh-hans": "这两只杯明显不同。图示提醒我们质疑比较条件，并非妥善匹配的研究对照。"
+      }
+    },
+    {
+      "id": "cup-baseline",
+      "page": "cup-reference.qmd",
+      "art": "brewing",
+      "heading": {
+        "en": "Why the numbers move",
+        "zh-hant-hk": "數字為甚麼會變",
+        "zh-hans": "为什么数字会动"
+      },
+      "caption": {
+        "en": "Start with leaf amount, water volume, temperature and time. The table below states its baseline; a picture cannot specify the contents of an individual cup.",
+        "zh-hant-hk": "先看茶葉量、水量、溫度與時間。下表列明比較基準；插圖不能指出某一杯茶的實際成分含量。",
+        "zh-hans": "先看茶叶量、水量、温度与时间。下表列明比较基准；插图不能指出某一杯茶的实际成分含量。"
+      }
+    },
+    {
+      "id": "term-notes",
+      "page": "glossary.qmd",
+      "art": "source-notes",
+      "heading": {
+        "en": "Terms (simple definitions)",
+        "zh-hant-hk": "詞條（淺白解釋）",
+        "zh-hans": "词条（简易定义）"
+      },
+      "caption": {
+        "en": "Use each term as a doorway back to its lesson. A short definition is a starting point; the linked chapter supplies the context.",
+        "zh-hant-hk": "把每個詞語當作返回課文的入口。簡短定義只是起點；連結的章節提供完整語境。",
+        "zh-hans": "把每个词语当作返回课文的入口。简短定义只是起点；链接的章节提供完整语境。"
+      }
+    },
+    {
+      "id": "connection-notes",
+      "page": "linkages.qmd",
+      "art": "source-notes",
+      "heading": {
+        "en": "Compact checklist",
+        "zh-hant-hk": "簡明清單 {#compact-checklist}",
+        "zh-hans": "简明清单 {#compact-checklist}"
+      },
+      "caption": {
+        "en": "Follow each connection back to its source and study conditions. Putting two ideas beside each other is not, by itself, evidence of a causal chain.",
+        "zh-hant-hk": "沿着每項連結查看來源與研究條件。把兩個想法並列，本身並不能證明因果鏈。",
+        "zh-hans": "沿着每项链接查看来源与研究条件。把两个想法并列，本身并不能证明因果链。"
+      }
+    },
+    {
+      "id": "source-library",
+      "page": "bibliography.qmd",
+      "art": "source-notes",
+      "heading": {
+        "en": "Plant chemistry and brewing",
+        "zh-hant-hk": "植物化學與沖泡 {#plant-chemistry-and-brewing}",
+        "zh-hans": "植物化学与冲泡 {#plant-chemistry-and-brewing}"
+      },
+      "caption": {
+        "en": "A reading desk for checking the trail: use the lesson footnotes for the claim being discussed, then consult the cited work and any completeness notes here.",
+        "zh-hant-hk": "在閱讀桌前查核資料脈絡：先從課文註腳找到所討論的主張，再查閱引用文獻及這裏關於資料完整性的說明。",
+        "zh-hans": "在阅读桌前查核资料脉络：先从课文脚注找到所讨论的主张，再查阅引用文献及这里关于资料完整性的说明。"
+      }
+    },
+    {
+      "id": "chapter-itinerary",
+      "page": "modules/index.qmd",
+      "art": "source-notes",
+      "heading": {
+        "en": "The itinerary (five hubs)",
+        "zh-hant-hk": "行程（五個章節目錄）",
+        "zh-hans": "行程（五個章节目錄）"
+      },
+      "caption": {
+        "en": "Five chapters, one reading route: the leaf and cup, the body, history, context, then decisions. Choose a question and follow the links into its evidence.",
+        "zh-hant-hk": "五個章節，一條閱讀路線：茶葉與茶杯、身體、歷史、情境，再到決策。選一個問題，循連結走進相關證據。",
+        "zh-hans": "五个章节，一条阅读路线：茶叶与茶杯、身体、历史、情境，再到决策。选一个问题，循链接走进相关证据。"
+      }
+    },
+    {
+      "id": "chemical-chapter",
+      "page": "modules/module-01/index.qmd",
+      "art": "processing",
+      "heading": {
+        "en": "The four sections",
+        "zh-hant-hk": "四節內容",
+        "zh-hans": "四节内容"
+      },
+      "caption": {
+        "en": "Follow the choices from leaf handling to brewing. These workshop objects introduce the questions; they are not a universal processing sequence.",
+        "zh-hant-hk": "從處理茶葉到沖泡，沿路看每項選擇。這些工場物件帶出問題，並非所有茶都適用的加工次序。",
+        "zh-hans": "从处理茶叶到冲泡，沿路看每项选择。这些工场物件带出问题，并非所有茶都适用的加工次序。"
+      }
+    },
+    {
+      "id": "body-chapter",
+      "page": "modules/module-02/index.qmd",
+      "art": "body-signals",
+      "heading": {
+        "en": "The four sections",
+        "zh-hant-hk": "四節內容",
+        "zh-hans": "四节内容"
+      },
+      "caption": {
+        "en": "Keep the proposed mechanism, the measured result and the drinker’s experience separate. The notebook and clock stand for observation, not a promised effect.",
+        "zh-hant-hk": "把提出的機制、測得的結果與飲用者的感受分開看。筆記簿與時鐘代表觀察，並非效果保證。",
+        "zh-hans": "把提出的机制、测得的结果与饮用者的感受分开看。笔记本与时钟代表观察，并非效果保证。"
+      }
+    },
+    {
+      "id": "history-chapter",
+      "page": "modules/module-03/index.qmd",
+      "art": "ship",
+      "heading": {
+        "en": "The four sections",
+        "zh-hant-hk": "四節內容",
+        "zh-hans": "四节内容"
+      },
+      "caption": {
+        "en": "The chapter follows trade, institutions and regional practices. This ship is a general visual cue for travel, not a reconstruction of a particular vessel or voyage.",
+        "zh-hant-hk": "本章沿着貿易、制度與地區習慣展開。這艘船只是旅程的概括圖示，並非重現某一艘船或某一次航程。",
+        "zh-hans": "本章沿着贸易、制度与地区习惯展开。这艘船只是旅程的概括图示，并非重现某一艘船或某一次航程。"
+      }
+    },
+    {
+      "id": "context-chapter",
+      "page": "modules/module-04/index.qmd",
+      "art": "context",
+      "heading": {
+        "en": "The four sections",
+        "zh-hant-hk": "四節內容",
+        "zh-hans": "四节内容"
+      },
+      "caption": {
+        "en": "Warmth, preparation and expectations are separate questions. Keep the setting in view, along with comparison conditions and replication cautions.",
+        "zh-hant-hk": "溫暖、沖泡過程與期望是不同的問題。留意情境，也要留意比較條件與重複驗證的限制。",
+        "zh-hans": "温暖、冲泡过程与期望是不同的问题。留意情境，也要留意比较条件与重复验证的限制。"
+      }
+    },
+    {
+      "id": "decision-chapter",
+      "page": "modules/module-05/index.qmd",
+      "art": "reflection",
+      "heading": {
+        "en": "The four sections",
+        "zh-hant-hk": "四節內容",
+        "zh-hans": "四节内容课"
+      },
+      "caption": {
+        "en": "A quick response and a careful check suit different tasks. The chapter asks what a study actually measures, rather than treating a drink as a shortcut to wisdom.",
+        "zh-hant-hk": "快速反應與仔細核對各有適用的任務。本章問研究實際測量甚麼，而不是把飲品當作通往智慧的捷徑。",
+        "zh-hans": "快速反应与仔细核对各有适用的任务。本章问研究实际测量什么，而不是把饮品当作通往智慧的捷径。"
+      }
+    },
+    {
+      "id": "stress-records",
+      "page": "modules/module-02/03-stress-hormones.qmd",
+      "art": "stress-observation",
+      "heading": {
+        "en": "Stress has a chemistry too",
+        "zh-hant-hk": "壓力也有它的化學",
+        "zh-hans": "压力也有化学"
+      },
+      "caption": {
+        "en": "The alarm is the lesson’s metaphor for stress. The clock and record sheet point to what researchers observe and when; they do not show a measured hormone change.",
+        "zh-hant-hk": "警鈴是課文用來比喻壓力的物件。時鐘與紀錄表提醒我們留意研究觀察甚麼、何時觀察；它們並非荷爾蒙變化的測量結果。",
+        "zh-hans": "警铃是课文用来比喻压力的物件。时钟与记录表提醒我们留意研究观察什么、何时观察；它们并非激素变化的测量结果。"
+      }
+    },
+    {
+      "id": "warmth-comparison",
+      "page": "modules/module-04/01-warmth-trust.qmd",
+      "art": "warmth-evidence",
+      "heading": {
+        "en": "The mug is not psychologically invisible",
+        "zh-hant-hk": "手上的杯子，在心理上並不透明",
+        "zh-hans": "手里的杯子，并不是“隐形”的"
+      },
+      "caption": {
+        "en": "Holding a warm mug is a sensory cue, not a guarantee of generosity or trust. Read the comparison conditions and replication discussion alongside the original claims.",
+        "zh-hant-hk": "握着暖杯是一種感官線索，並非慷慨或信任的保證。閱讀原有主張時，也要一起看比較條件與重複驗證的討論。",
+        "zh-hans": "握着暖杯是一种感官线索，并非慷慨或信任的保证。阅读原有主张时，也要一起看比较条件与重复验证的讨论。"
+      }
+    },
+    {
+      "id": "response-checking",
+      "page": "modules/module-05/01-dual-process.qmd",
+      "art": "reflection",
+      "heading": {
+        "en": "Quiz-show speed and homework patience",
+        "zh-hant-hk": "搶答節目的速度，做功課的耐性",
+        "zh-hans": "抢答节目的速度，做作业的耐心"
+      },
+      "caption": {
+        "en": "The buzzer and worksheet echo the lesson’s two scenes: answering quickly and checking a first guess. They are task metaphors, not separate parts of the brain.",
+        "zh-hant-hk": "搶答鈴與紙張呼應課文的兩個場景：快速回答，以及核對最初的猜測。它們比喻任務，並非兩個不同的腦部區域。",
+        "zh-hans": "抢答铃与纸张呼应课文的两个场景：快速回答，以及核对最初的猜测。它们比喻任务，并非两个不同的脑部区域。"
+      }
+    },
+    {
+      "id": "players-and-rules",
+      "page": "modules/module-05/03-trust-games.qmd",
+      "art": "social-rules",
+      "heading": {
+        "en": "When someone else is in the room",
+        "zh-hant-hk": "當房間裏有另一個人",
+        "zh-hans": "当房间里还有另一个人"
+      },
+      "caption": {
+        "en": "Two players need more than a mood: who moves first, what each knows, and the payoff rules shape the decision. These abstract tokens do not prescribe a fair or correct move.",
+        "zh-hant-hk": "兩位玩家面對的不只是心情：誰先行動、各自知道甚麼，以及報酬規則，都影響決定。這些抽象代幣並沒有指定哪一步才公平或正確。",
+        "zh-hans": "两位玩家面对的不只是心情：谁先行动、各自知道什么，以及报酬规则，都影响决定。这些抽象代币并没有指定哪一步才公平或正确。"
+      }
+    }
+  ]
+}

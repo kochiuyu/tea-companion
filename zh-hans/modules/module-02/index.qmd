@@ -54,6 +54,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 四节内容
 
+<!-- lesson-illustration:body-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="body-chapter">
+  <img src="../../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="一个人旁边有时钟与观察记录簿。" loading="lazy" decoding="async">
+  <figcaption>把提出的机制、测得的结果与饮用者的感受分开看。笔记本与时钟代表观察，并非效果保证。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:body-chapter:end -->
+
 这里的每一坐，就是本章的一节。打开的页面保持白话；想看科学有多深，再打开折叠。
 
 1. **[油门、刹车与一条热闹的路](01-brain-action.qmd)** — 咖啡因为什么让你醒过来，茶氨酸怎样把那条边缘软化，以及酒精为什么是另一个故事。

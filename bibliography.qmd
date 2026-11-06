@@ -42,6 +42,15 @@ When you are done hunting for a source, the [Chapters overview](modules/index.qm
 <!-- reading-fold:end -->
 ## Plant chemistry and brewing
 
+<!-- lesson-illustration:source-library:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="source-library">
+  <img src="assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="An open book, bookmark, magnifying glass and notebook." loading="lazy" decoding="async">
+  <figcaption>A reading desk for checking the trail: use the lesson footnotes for the claim being discussed, then consult the cited work and any completeness notes here.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:source-library:end -->
+
 Ashihara, H., Sano, H., & Suzuki, T. (2008). An update on caffeine biosynthesis in tea plants of *Camellia sinensis*. *Natural Product Communications, 3*(8), 1369–1378.
 
 Ban, Q., et al. (2017). Comparative transcriptome analysis reveals key pathways for cold acclimation in *Camellia sinensis*. *Plant Physiology and Biochemistry, 118*, 441–453.

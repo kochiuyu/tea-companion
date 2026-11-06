@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 同一液体，不同故事
 
+<!-- lesson-illustration:label-expectation:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="label-expectation">
+  <img src="../../../assets/lesson-illustrations/expectation.svg" width="240" height="136" alt="茶杯旁有文字描述。" loading="lazy" decoding="async">
+  <figcaption>描述会随着茶杯一起来到。思考预期时，记得分清标签与杯中的液体。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:label-expectation:end -->
+
 [第一节](01-warmth-trust.qmd)讲的是杯子的**温度**。[第二节](02-ritual-stress.qmd)讲的是双手的**步骤**。预期则是体验上的**名字**：别人告诉你这液体*是*什么，以及器皿和标签在你喝下第一口之前，要你相信什么。
 
 先想厨房里的同一壶茶，再把它分成四杯。叶子不变，只改名字：“精品”、“茶包”、“只是热水”、“药用”。水里并没有多溶进什么。变了的，是一路跟着走的故事，也就是那个让大脑**先想起哪一套说法**的线索。价签、瓷器对着纸杯、咖啡馆菜单上的一行字、盒子上的养生说法，都可以当作“名字”。第一节的温度旋钮仍然可以暖手。第二节的仪式旋钮仍然可以给泡茶定下节奏。这两颗旋钮都不是杯上那个*名字*。叶子里的化学仍然重要（[第一章 · 化合物](../module-01/04-compounds.qmd)）。身体的状态仍然重要（[第二章](../module-02/index.qmd)）。别人*告诉*你什么，以及器皿和标签看起来怎样，也可以一起进来，成为第三层影响。后面几章也是这个调子：**有点影响，不是定局。**

@@ -26,6 +26,15 @@ This page standardizes on a **250 mL** cup and lists the typical lab and consume
 <!-- reading-fold:end -->
 ## Why the numbers move
 
+<!-- lesson-illustration:cup-baseline:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="cup-baseline">
+  <img src="assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="A cup with tea leaves, a thermometer and a timer." loading="lazy" decoding="async">
+  <figcaption>Start with leaf amount, water volume, temperature and time. The table below states its baseline; a picture cannot specify the contents of an individual cup.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:cup-baseline:end -->
+
 Leaf quality, brand, and steep time all move the numbers. Green and black tea also differ because of processing (see [Chapter 1 · Brewing](modules/module-01/03-brewing.qmd) and [Compounds](modules/module-01/04-compounds.qmd)). Many catechins stay simple in green tea. In black tea, many of them are linked into darker pigments, so [EGCG](glossary.qmd#egcg) and total catechins in the cup are usually much lower [^1][^2].
 
 The table uses a common everyday baseline: **2 g dry leaf per 250 mL**, one bag or a modest spoonful. Formal tasting (ISO 3103) uses about **2 g per 100 mL** (about **5 g per 250 mL**), which is stronger than many home cups.

@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 手上的杯子，在心理上並不透明
 
+<!-- lesson-illustration:warmth-comparison:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="warmth-comparison">
+  <img src="../../../assets/lesson-illustrations/warmth-evidence.svg" width="240" height="136" alt="手握茶杯，旁邊有比較紀錄。" loading="lazy" decoding="async">
+  <figcaption>握着暖杯是一種感官線索，並非慷慨或信任的保證。閱讀原有主張時，也要一起看比較條件與重複驗證的討論。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:warmth-comparison:end -->
+
 同樣是第一次見面。一次，你手捧一杯暖烘烘的熱飲；另一次，你握着一罐冰凍的汽水。在某些實驗設計裏，手上的冷暖會滲進你的判斷，影響你覺得對方有多「溫暖」、多可信。[^1][^2] 握着暖的東西，有時會把第一印象輕輕帶向一邊。有些研究也看到，它會影響到真實的選擇。這不是魔法，結果也未必容易重現。
 
 可以這樣想：大腦裏有一個「街區」，**同時**負責「我的手很暖」和「那個人看來很溫暖」。研究人員常把這個街區叫做**[前島葉皮質](../../glossary.qmd#anterior-insular-cortex)**（有時簡稱「島葉」）。身體狀態會替社交判斷添上一層影響，這本來是個日常想法；心理學家要在實驗室裏給它起名時，就叫它**[具身認知](../../glossary.qmd#embodied-cognition)**。這兩個名字不記也沒有關係，正文一樣看得懂。[^1][^2]

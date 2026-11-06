@@ -61,6 +61,15 @@ Neither trick invents facts. Each one only changes how much detail sits on the o
 <!-- reading-fold:end -->
 ## The four sections
 
+<!-- lesson-illustration:chemical-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="chemical-chapter">
+  <img src="../../assets/lesson-illustrations/processing.svg" width="240" height="136" alt="Tea leaves with schematic leaf-handling and heating tools." loading="lazy" decoding="async">
+  <figcaption>Follow the choices from leaf handling to brewing. These workshop objects introduce the questions; they are not a universal processing sequence.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:chemical-chapter:end -->
+
 Each sitting is one section of the chapter. The open pages stay lay-friendly, and you open a foldout when you want the chemistry depth.
 
 1. **[Two plants, one species](01-plants.qmd)** — China-type and Assam-type as everyday leaf personalities, together with garden fine print and aisle bridges.

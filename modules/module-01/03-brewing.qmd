@@ -18,6 +18,15 @@ title: "Section 3 · What brewing actually does"
 
 ## Same leaves, different cup
 
+<!-- lesson-illustration:brewing-variables:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brewing-variables">
+  <img src="../../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="A cup with tea leaves, a thermometer and a timer." loading="lazy" decoding="async">
+  <figcaption>Leaf amount, water, temperature and time belong in the comparison. Change one variable at a time.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brewing-variables:end -->
+
 You make a cup of tea, get distracted, and return to a brew that tastes quite different from yesterday's. The packet has not changed. The kettle has not changed. But the leaves have spent longer in the water.
 
 That ordinary kitchen moment contains this lesson's question: **what are you changing when you change the way you brew?**

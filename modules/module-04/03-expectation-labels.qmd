@@ -31,6 +31,15 @@ Superscript numbers are clickable footnotes. The foldouts hold denser sketches o
 <!-- reading-fold:end -->
 ## Same liquid, different story
 
+<!-- lesson-illustration:label-expectation:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="label-expectation">
+  <img src="../../assets/lesson-illustrations/expectation.svg" width="240" height="136" alt="A written description beside a cup." loading="lazy" decoding="async">
+  <figcaption>The description travels with the cup. Keep the label and the liquid separate when thinking about expectations.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:label-expectation:end -->
+
 [Section 1](01-warmth-trust.qmd) was the mug's **temperature**. [Section 2](02-ritual-stress.qmd) was the **script** in the hands. Expectation is the **name** on the experience: what you were told the liquid *is*, and what the vessel and the label ask you to believe before the first sip.
 
 Picture one kitchen pot of the same brew. Split it into four mugs and rename them without changing the leaf: "specialty," "bag," "just hot water," "medicinal." Nothing new dissolved in the water. What changed is the story riding along, the cue that tells your brain which template to open. A price tag, porcelain versus a paper cup, a line on a cafe menu, a wellness claim on a box: any of those can act as a name. The temperature dial from Section 1 can still warm the hands. The ritual dial from Section 2 can still pace the brew. Neither dial is the *name* on the mug. Chemistry in the leaf still matters ([Chapter 1 · Compounds](../module-01/04-compounds.qmd)). Body state still matters ([Chapter 2](../module-02/index.qmd)). What you were *told*, and what the vessel and the label look like, can ride along as a third tint. Keep the warmth lesson's voice: **tint, not destiny.**

@@ -51,6 +51,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 我们多数人唯一拥有的实验室
 
+<!-- lesson-illustration:brewing-variables:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brewing-variables">
+  <img src="../../../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶叶、温度计与计时器。" loading="lazy" decoding="async">
+  <figcaption>比较时要留意茶叶用量、水、温度与时间。一次只改一个变量。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brewing-variables:end -->
+
 植物你已经认识了（[第一章第一节](01-plants.qmd)），厂房里的分叉也讲过了（[第一章第二节](02-processing.qmd)）。现在叶子在*你*手里。冲泡不是魔法，也不是“只是等一等”。说到底，它是**热（或冷）水在做一件有选择的萃取**：有些客人早早、轻易地离开叶子；有一位却需要更多的热和更多的时间。茶包把杯子一点点染浑，就是这个过程。
 
 经典的浸泡研究，把冲泡当成一件可以测量的事：咖啡因和相关化合物多快离开叶子，水温又怎样改变那些速率。[^1][^2]

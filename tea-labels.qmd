@@ -62,6 +62,15 @@ Tap a footnote number to jump to the source, then the caret to jump back. Hover 
 
 ## How to read a tea label
 
+<!-- lesson-illustration:read-label:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="read-label">
+  <img src="assets/lesson-illustrations/label.svg" width="240" height="136" alt="A magnifying glass beside a printed label." loading="lazy" decoding="async">
+  <figcaption>Look closely at the words: place, style, blend, type and grade do different jobs.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:read-label:end -->
+
 Labels mix five things:
 
 1. **Place.** Examples include Assam, Darjeeling, and Yunnan.

@@ -155,6 +155,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 简明清单 {#compact-checklist}
 
+<!-- lesson-illustration:connection-notes:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="connection-notes">
+  <img src="../assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="翻开的书本、书签、放大镜与笔记本。" loading="lazy" decoding="async">
+  <figcaption>沿着每项链接查看来源与研究条件。把两个想法并列，本身并不能证明因果链。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:connection-notes:end -->
+
 | 从 → 到 | 白话联结 | 引文 |
 | --- | --- | --- |
 | 茶氨酸起效时间 → 平静的脑电波 | 大约 **35–50 分钟**达到高峰；阿尔法波的变化常常在约 **30–45 分钟**时出现 | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |

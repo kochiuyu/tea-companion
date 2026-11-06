@@ -94,6 +94,15 @@ lang: zh-Hant-HK
 
 ## 你的第一杯
 
+<!-- lesson-illustration:first-mug:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="first-mug">
+  <img src="../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶葉、溫度計與計時器。" loading="lazy" decoding="async">
+  <figcaption>簡單器具已經足夠。以下面的步驟作起點，再品嚐和調整。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:first-mug:end -->
+
 本站說的一隻普通家用杯，大約是 **2 克**乾葉——一包茶，或一小匙——配大約 **250 毫升**熱水。這就是 [杯量參考](cup-reference.qmd) 談毫克時用的日常基準。[^6]
 
 - **紅茶**常常用接近沸騰的水，泡幾分鐘。

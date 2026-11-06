@@ -155,6 +155,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 簡明清單 {#compact-checklist}
 
+<!-- lesson-illustration:connection-notes:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="connection-notes">
+  <img src="../assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="翻開的書本、書籤、放大鏡與筆記簿。" loading="lazy" decoding="async">
+  <figcaption>沿着每項連結查看來源與研究條件。把兩個想法並列，本身並不能證明因果鏈。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:connection-notes:end -->
+
 | 從 → 到 | 白話的連結 | 出處（英文文獻） |
 | --- | --- | --- |
 | 茶氨酸的時間 → 平靜的腦波 | 約 **35–50 分鐘**達到高峰；阿法腦波的變化多在約 **30–45 分鐘**出現 | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |

@@ -1,0 +1,43 @@
+<!doctype html><meta charset="utf-8"><title>Tea illustration browser checks</title><style>body{font:16px/1.5 system-ui;margin:24px}pre{white-space:pre-wrap}iframe{height:900px;border:1px solid #777}#viewport{overflow:auto;max-width:100%}</style><h1>Tea illustration browser checks</h1><p id="status">Preparing checks…</p><pre id="results"></pre><div id="viewport"></div><script>
+const DATA=__DATA__;
+const results={status:'running',passed:false,cases:[],errors:[],modes:['JavaScript enabled desktop','Scripts disabled 320px','Extra 390/768px layout checks']};
+const display=()=>{document.querySelector('#status').textContent=`${results.status}: ${results.cases.length} checks completed`;document.querySelector('#results').textContent=JSON.stringify(results,null,2)};
+const assert=(ok,why)=>{if(!ok)throw Error(why)};
+async function check(item,locale,width,js){
+ const route=(locale==='en'?'':locale+'/')+item.page.replace('.qmd','.html');
+ const frame=document.createElement('iframe');frame.title=`${locale} ${item.id} at ${width}px`;frame.style.width=width+'px';
+ if(!js)frame.setAttribute('sandbox','allow-same-origin');
+ document.querySelector('#viewport').replaceChildren(frame);
+ await new Promise((resolve,reject)=>{const timer=setTimeout(()=>reject(Error('load timeout '+route)),20000);frame.onload=()=>{clearTimeout(timer);resolve()};frame.src=route});
+ const doc=frame.contentDocument,win=frame.contentWindow;
+ const figure=doc.querySelector(`[data-lesson-illustration="${item.id}"]`);
+ assert(figure,route+' missing figure');
+ const image=figure.querySelector('img');image.loading='eager';await image.decode();
+ const cap=figure.querySelector('figcaption');
+ assert(image.alt===DATA.art[item.art].alt[locale],route+' alt');
+ assert(cap.textContent===item.caption[locale],route+' caption');
+ const b=figure.getBoundingClientRect(),ib=image.getBoundingClientRect(),cb=cap.getBoundingClientRect();
+ assert(b.width>0 && b.left>=-1 && b.right<=width+1,route+' figure outside viewport');
+ assert(figure.scrollWidth<=figure.clientWidth+1,route+' figure overflow');
+ assert(ib.width>0 && ib.right<=b.right+1 && ib.left>=b.left-1,route+' image overflow');
+ assert(cb.width>0 && cb.right<=b.right+1 && cb.bottom<=b.bottom+1,route+' caption overflow');
+ assert(image.naturalWidth>0 && image.naturalHeight>0,route+' image broken');
+ assert(!figure.querySelector('button,a,input,[tabindex]'),route+' unwanted focusable figure');
+ assert(!doc.querySelector('script[src*="tea-lesson-figures"]'),route+' extra runtime art script');
+ const allImages=[...doc.querySelectorAll('.tea-lesson-figure img')];assert(allImages.length===1,route+' figure count');
+ if(js){for(const host of doc.querySelectorAll('[data-tea-compare],[data-tea-detective],[data-tea-study-detective],[data-tea-time-machine],[data-tea-table]'))assert(host.querySelector('button'),route+' game failed to mount');}
+ const figureStyle=win.getComputedStyle(figure);
+ assert(figureStyle.display==='grid',route+' theme overrides grid display');
+ if(width>=768)assert(cb.left>ib.left && Math.abs(cb.top-ib.top)<Math.max(cb.height,ib.height),route+' expected side-by-side layout');
+ if(width<=390)assert(cb.top>=ib.bottom-1,route+' expected stacked layout');
+ results.cases.push({page:route,width,javascript:js,figure:item.id,figureWidth:b.width,columns:figureStyle.gridTemplateColumns,documentWidth:doc.documentElement.scrollWidth});display();
+}
+(async()=>{
+ try{
+  for(const [js,width] of [[false,320],[true,1280]])for(const locale of ['en','zh-hant-hk','zh-hans'])for(const item of DATA.placements)await check(item,locale,width,js);
+  for(const locale of ['en','zh-hant-hk','zh-hans'])for(const id of ['processing-tools','brewing-variables','body-measurement','context-dials','stress-records','warmth-comparison','response-checking','players-and-rules','source-library'])for(const width of [390,768])await check(DATA.placements.find(i=>i.id===id),locale,width,true);
+  results.passed=true;results.status='passed';
+ }catch(e){results.status='failed';results.errors.push(e.message)}
+ display();document.title='Tea illustration checks: '+results.status;
+})();
+</script>

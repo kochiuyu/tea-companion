@@ -1320,7 +1320,7 @@
       }
       const heading = el('h4', t(ui.question).replace('{word}', t(current.word))); heading.id = `${id}-question`; heading.tabIndex = -1;
       const hint = el('p', t(ui.hint) + t(support.hint), 'tea-lab-detective-hint'); hint.id = `${id}-hint`;
-      if (typeof window !== 'undefined' && window.TeaGameFigures) content.append(window.TeaGameFigures.figure('label', locale));
+      if (typeof window !== 'undefined' && window.TeaGameFigures) content.append(window.TeaGameFigures.figure('label', locale, activeIndex));
       content.append(heading, hint);
       const classification = el('fieldset', undefined, 'tea-lab-detective-classification'); classification.append(el('legend', t(ui.classify)));
       classification.setAttribute('aria-labelledby', heading.id); classification.setAttribute('aria-describedby', hint.id);

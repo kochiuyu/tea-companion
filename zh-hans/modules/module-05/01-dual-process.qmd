@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 抢答节目的速度，做作业的耐心
 
+<!-- lesson-illustration:response-checking:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="response-checking">
+  <img src="../../../assets/lesson-illustrations/reflection.svg" width="240" height="136" alt="抢答铃旁有铅笔与核对用的纸张。" loading="lazy" decoding="async">
+  <figcaption>抢答铃与纸张呼应课文的两个场景：快速回答，以及核对最初的猜测。它们比喻任务，并非两个不同的脑部区域。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:response-checking:end -->
+
 你其实早就熟悉两种思考的速度，哪怕从来没有人给它们起过学术名字。
 
 想象一场抢答节目。抢答器已经亮了，题目一闪而过，你脑子还没核对完，嘴巴已经先答了。有时候这样脱口而出是对的。有时候，它正好一脚踩进那个专门奖励耐心的陷阱。

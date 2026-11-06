@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 搶答節目的速度，做功課的耐性
 
+<!-- lesson-illustration:response-checking:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="response-checking">
+  <img src="../../../assets/lesson-illustrations/reflection.svg" width="240" height="136" alt="搶答鈴旁有鉛筆與核對用的紙張。" loading="lazy" decoding="async">
+  <figcaption>搶答鈴與紙張呼應課文的兩個場景：快速回答，以及核對最初的猜測。它們比喻任務，並非兩個不同的腦部區域。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:response-checking:end -->
+
 即使從來沒有人告訴你實驗室怎樣稱呼它們，你其實早已認識兩種思考速度。
 
 想像一個搶答節目。搶答掣已經開啟，題目一閃出現，你的嘴巴比腦袋更快作答。有時衝口而出的答案是對的。有時卻正好踩中一個專門獎勵耐性的陷阱。

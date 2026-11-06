@@ -176,6 +176,15 @@ lang: zh-Hant-HK
 
 ## 「一杯」不是研究劑量
 
+<!-- lesson-illustration:study-dose:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="study-dose">
+  <img src="../assets/lesson-illustrations/dose.svg" width="240" height="136" alt="茶杯旁有一粒膠囊。" loading="lazy" decoding="async">
+  <figcaption>膠囊與一杯茶是不同的製備方式。先核對研究劑量，不要假設兩者相等。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:study-dose:end -->
+
 論文或標題報出了毫克，或者隨口說了一句「茶」，請打開 [杯量參考](cup-reference.qmd)，先問一句。這是家裏普通的 **250 毫升** 基準，還是實驗室的膠囊，或正式品評時那種濃度的茶湯？
 
 杯量參考已經提醒過初學的人：第二章那種茶氨酸研究用的劑量，往往比普通的一杯濃得多。第一章第四節在化合物那一課裏，講杯子和膠囊不是一回事。第四章第四節把活性劑量的例子收在程序的摺疊裏。

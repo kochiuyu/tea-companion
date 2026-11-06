@@ -69,6 +69,15 @@ If Chapter 1 asked *what plant is in the cup*, this lesson asks *who controlled 
 
 ## Silver flowed east
 
+<!-- lesson-illustration:maritime-trade:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="maritime-trade">
+  <img src="../../assets/lesson-illustrations/ship.svg" width="240" height="136" alt="A schematic sailing ship on water." loading="lazy" decoding="async">
+  <figcaption>Maritime trade carried tea across borders. This is a generic ship, not a reconstruction of a named vessel, route or event.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:maritime-trade:end -->
+
 In the **[Canton System](../../glossary.qmd#canton-system)** era (1757–1842), Western maritime trade with Qing China was funneled through Canton (Guangzhou). Buyers who wanted Chinese tea, silk, and porcelain paid for them largely in **physical silver**. Britain wanted tea. Qing China wanted little that Britain made in return. Silver flowed east, and British merchants, together with the East India Company, looked for a way to reverse the drain.[^1][^2]
 
 Historical tallies put the early strain in hard numbers. Between **1710 and 1759**, the Company exported about **£26.5 million** in silver bullion to Canton—over **90%** of its outbound export value to China in that window (Pritchard, 1936 source). That sum is not a metaphor for "trade imbalance." It is bullion on ships.

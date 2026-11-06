@@ -63,6 +63,15 @@ There is an optional hallway for when the real question is “why does heat chan
 
 ## One dial at a time
 
+<!-- lesson-illustration:adjust-brew:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="adjust-brew">
+  <img src="assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="A cup with tea leaves, a thermometer and a timer." loading="lazy" decoding="async">
+  <figcaption>Choose one brewing variable to change, then compare the next cup.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:adjust-brew:end -->
+
 Chapter 1 already taught the three home dials. Here the habit is only a pointer. **Change one thing**, taste again, then decide whether you need the full lesson.
 
 - **Time.** A longer steep usually means more compounds in the water, until the taste turns too bitter for you. The early guests (caffeine and [L-theanine](glossary.qmd#l-theanine) in the Chapter 1 story) leave relatively easily. Bitterness and the slower guests often show up later.

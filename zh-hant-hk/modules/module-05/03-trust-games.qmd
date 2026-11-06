@@ -63,6 +63,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 當房間裏有另一個人
 
+<!-- lesson-illustration:players-and-rules:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="players-and-rules">
+  <img src="../../../assets/lesson-illustrations/social-rules.svg" width="240" height="136" alt="兩位玩家旁有代幣板與規則卡。" loading="lazy" decoding="async">
+  <figcaption>兩位玩家面對的不只是心情：誰先行動、各自知道甚麼，以及報酬規則，都影響決定。這些抽象代幣並沒有指定哪一步才公平或正確。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:players-and-rules:end -->
+
 第 4.1 和 4.2 課，大多看的是一個人獨自作選擇：衝口而出還是細心覆核、替氣球打氣，或者等待明天。這一節加入第二個人。信任、公平與合作，都是社交上的事。經典的實驗室博弈之所以重要，是因為它們把「你會公平嗎？」變成可以點算的東西，而不假裝一杯暖茶就能改寫整宗交易。
 
 在認識任何正式名稱之前，先在腦中過三幕戲。

@@ -63,6 +63,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 当房间里还有另一个人
 
+<!-- lesson-illustration:players-and-rules:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="players-and-rules">
+  <img src="../../../assets/lesson-illustrations/social-rules.svg" width="240" height="136" alt="两位玩家旁有代币板与规则卡。" loading="lazy" decoding="async">
+  <figcaption>两位玩家面对的不只是心情：谁先行动、各自知道什么，以及报酬规则，都影响决定。这些抽象代币并没有指定哪一步才公平或正确。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:players-and-rules:end -->
+
 第 4.1 和 4.2 课看的，大多是一个人独自做决定：脱口而出还是再查一遍，给气球打气，或者等待明天。这一节加入了第二个人。信任、公平与合作都是社会性的。经典的实验室博弈之所以有用，是因为它们把“你会公平吗？”变成可以计数的东西，又不假装一只热杯子就能改写整笔交易。
 
 在接触任何正式名称之前，先在脑子里过三场戏。

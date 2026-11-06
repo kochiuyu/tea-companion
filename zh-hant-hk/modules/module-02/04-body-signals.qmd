@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 你感覺不到、實驗室卻量得到的數字
 
+<!-- lesson-illustration:body-measurement:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="body-measurement">
+  <img src="../../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="一個人旁邊有時鐘與觀察紀錄簿。" loading="lazy" decoding="async">
+  <figcaption>一個人、一個時鐘、一份紀錄：量度需要方法與時間。圖中沒有顯示任何實測變化。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:body-measurement:end -->
+
 除了問卷上的心情，實驗室還會追蹤一些你自己未必察覺的訊號。這一節為第二章收尾：由訊號傳遞，到腦節奏，到壓力化學，再到**不易察覺的身體指標**。
 
 打開的正文裏，有三個指標要緊。

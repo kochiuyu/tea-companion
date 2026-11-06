@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 由茶樹到抉擇
 
+<!-- lesson-illustration:processing-tools:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="processing-tools">
+  <img src="../../../assets/lesson-illustrations/processing.svg" width="240" height="136" alt="茶葉與處理茶葉、加熱工具的示意圖。" loading="lazy" decoding="async">
+  <figcaption>處理茶葉與加熱會塑造加工路線。這些圖示並非所有茶都遵循的單一工序。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:processing-tools:end -->
+
 [第一章第一節](01-plants.qmd) 留給你的，是茶樹上的一片葉子：涼山或暖地的脾氣、園藝上的細則，還有一句提示。[阿薩姆大葉種](../../glossary.qmd#assamica)裏較豐富的植物成分，特別適合走紅茶加工。現在葉子已經摘下來了。工廠裏的人，或者小作坊裏的人，必須做個選擇：是**及早停住褐變**，還是**讓空氣去改寫它的化學**。
 
 說到底，讓同一株茶樹既能做成綠茶、也能做成紅茶的，正是這個選擇，而不是換成了另一個物種。十九世紀在中國採茶的植物採集家羅伯特·福瓊（Robert Fortune）注意到了這個實用要點。綠茶和紅茶來自同一批茶樹；工廠怎麼處理，顏色就跟着變。[^3]

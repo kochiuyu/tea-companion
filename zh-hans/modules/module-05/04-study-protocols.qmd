@@ -82,6 +82,15 @@ lang: zh-Hans
 
 ## 你一放松，心理预期就会冒充实验效果
 
+<!-- lesson-illustration:unmatched-cups:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="unmatched-cups">
+  <img src="../../../assets/lesson-illustrations/matched-cups.svg" width="240" height="136" alt="有柄杯旁有一只外形不同、没有手柄的玻璃杯。" loading="lazy" decoding="async">
+  <figcaption>这两只杯明显不同。图示提醒我们质疑比较条件，并非妥善匹配的研究对照。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:unmatched-cups:end -->
+
 假设甲组拿到的是装在透明玻璃杯里、香气扑鼻、涩味明显、一看就是茶的液体，乙组拿到的是装在另一种杯子里的温吞水。不管接下来发生什么，你都没有把茶氨酸的作用分离出来。你是把药理和“演戏”混在了一起。
 
 这就是为什么研究会在不透明的杯子、配平的苦味、一致的温度和洗脱期上这么较真。双盲的“假茶”很难做，而难，恰恰是重点。

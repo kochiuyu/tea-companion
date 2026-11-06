@@ -59,6 +59,15 @@ lang: zh-Hans
 
 ## 你会把气球打到多大？
 
+<!-- lesson-illustration:balloon-task:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="balloon-task">
+  <img src="../../../assets/lesson-illustrations/task.svg" width="240" height="136" alt="电脑屏幕上显示一个气球。" loading="lazy" decoding="async">
+  <figcaption>虚拟气球示意下文介绍的任务。单一任务的表现，不能预测一个人在现实生活中的选择。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:balloon-task:end -->
+
 电脑上出现一只气球。每打一次气，就多一点钱，也多一点危险。停得太早，钱就白白留在桌上。打得太猛，气球一爆，这一轮全部清零。研究者要看的是：在那些还没爆的气球上，人们会打到多大。
 
 这个“玩具世界”之所以有用，是因为它把“对风险的胃口”变成了可以计数的东西，又不假装这就是装在杯子里的你的职业生涯。[^4]

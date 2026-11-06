@@ -84,6 +84,15 @@ Oolong is a **range**, not one midpoint—so one cafe oolong can taste almost gr
 
 ## Your first mug
 
+<!-- lesson-illustration:first-mug:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="first-mug">
+  <img src="assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="A cup with tea leaves, a thermometer and a timer." loading="lazy" decoding="async">
+  <figcaption>A few simple tools are enough. Use the instructions below as a starting point, then taste and adjust.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:first-mug:end -->
+
 A simple home cup on this site is about **2 g** of dry leaf—one bag, or a modest spoon—in about **250 mL** of hot water. That is the everyday baseline the [Cup reference](cup-reference.qmd) uses when it talks about milligrams.[^6]
 
 - **Black** tea is often made with water near boiling, for a few minutes.

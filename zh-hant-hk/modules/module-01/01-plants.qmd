@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 超市貨架上，問題常問錯
 
+<!-- lesson-illustration:plant-origin:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="plant-origin">
+  <img src="../../../assets/lesson-illustrations/plant.svg" width="240" height="136" alt="盆栽茶樹的簡化圖。" loading="lazy" decoding="async">
+  <figcaption>先認識茶樹。這張簡化圖不區分變種，也不能預測咖啡因含量。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:plant-origin:end -->
+
 熱水還沒倒進杯子，先在貨架前停一下。你手上是兩盒茶，一盒英式早餐茶，一盒煎茶。盒子上都寫着「茶」，喝下去也都能提一點神。可真倒出來，兩邊完全不是一回事：一邊顏色深褐，帶着麥芽香；一邊顏色淺綠，帶着青草味。喝完以後那股清醒的感覺，也不走同一條路。
 
 多數人一開口就問：「哪個牌子更好？」更值得先問的，其實是一個更安靜的問題：**這片葉子本來是甚麼脾氣，工廠後來又對它做了甚麼？** 這一節只回答植物這一半。加工、沖泡，還有杯裏那三位常客，留到後面幾課。貨架上的名字如果還看不明白，不妨先翻 **[茶葉入門](../../tea-basics.qmd)**，再回到這裏。
