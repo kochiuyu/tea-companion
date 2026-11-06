@@ -1,0 +1,95 @@
+---
+title: "Tea Museum: Fix the Label"
+description: "Restore 12 mixed-up museum labels and discover the evidence behind each correction."
+toc: false
+---
+
+[English](tea-museum.qmd) · [繁體中文（香港）](zh-hant-hk/tea-museum.qmd) · [简体中文](zh-hans/tea-museum.qmd)
+
+```{=html}
+<link rel="stylesheet" href="assets/tea-museum.css">
+<script src="assets/tea-game-figures.js" defer></script>
+<script src="assets/tea-museum-figures.js" defer></script>
+<script src="assets/tea-museum-data.js" defer></script>
+<script src="assets/tea-museum.js" defer></script>
+<div data-tea-museum data-locale="en">
+<div class="tea-museum-fallback">
+<p>The interactive museum is loading. If JavaScript is unavailable, all 12 corrected labels and their sources remain below.</p>
+<details><summary>Plants with a longer story</summary>
+<p><strong>India already had Assam tea before Fortune’s missions.</strong></p>
+<p>Singpho communities already knew and made Assam tea. Assam tea reached a London auction in 1839, before Fortune’s mission began in 1848. His transfers brought Chinese plants, skilled workers and processing knowledge to British-run Indian plantations. This was a colonial transfer of expertise, not the beginning of tea in India.</p>
+<p><a href="modules/module-03/01-trade-history.html#the-fortune-myth-corrected">Full story and references</a></p>
+<ul><li><a href="https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india">Royal Botanic Gardens, Kew: From China to India</a></li><li><a href="https://www.kkhsou.ac.in/web/teaworld/page-details-part.php?page=9d34bb5c4a06966fcf6ceb4bf">KKHSOU Tea World: Assam tea, Lesson 7</a></li></ul>
+</details>
+<details><summary>A Tang tea handbook</summary>
+<p><strong>Roast, grind and sieve cake tea, then boil the powder.</strong></p>
+<p>Lu Yu’s Tang-dynasty Classic of Tea describes cake tea roasted, ground and sieved before its powder enters the boil. At the second boil, the reader reserves a scoop of water and adds tea to a stirred whirlpool. At the third, the reserved water calms the boil. This is a historical preparation method, not a modern tea-bag recipe.</p>
+<p><a href="modules/module-03/02-monastic-path.html#eisai-lu-yu-and-the-japanese-tea-room">Full story and references</a></p>
+<ul><li><a href="https://zh.wikisource.org/wiki/%E8%8C%B6%E7%B6%93/%E4%BA%94%E4%B9%8B%E7%85%AE">Lu Yu: Cha Jing, Chapter 5 (Chinese text)</a></li></ul>
+</details>
+<details><summary>A Song tea bowl</summary>
+<p><strong>Powdered tea whisked in a bowl.</strong></p>
+<p>In the Song elite and monastic practices discussed in this lesson, powdered tea was whisked in a bowl. This differs from Lu Yu’s Tang method of adding powder to boiling water, and from steeping whole loose leaves. Benn and Sen provide the lesson’s historical account. It does not mean every Song drinker used one method, or that diancha was identical to a modern matcha café routine.</p>
+<p><a href="modules/module-03/02-monastic-path.html#song-powder-then-eisais-japan">Full story and references</a></p>
+</details>
+<details><summary>A treaty’s exact words</summary>
+<p><strong>Hong Kong Island, as named in Article III.</strong></p>
+<p>Article III of the 1842 Treaty of Nanking names Hong Kong Island. Do not silently expand that wording to all of present-day Hong Kong. The treaty also opened five ports and abolished the Cohong monopoly. Tea belonged to this trade history, but tea alone did not cause the war: opium, silver, sovereignty and coercive diplomacy were intertwined.</p>
+<p><a href="modules/module-03/01-trade-history.html#war-treaty-and-open-ports">Full story and references</a></p>
+<ul><li><a href="https://china.usc.edu/node/20462">USC U.S.–China Institute: Treaty of Nanking, English transcription</a></li></ul>
+</details>
+<details><summary>The “silk stocking” strainer</summary>
+<p><strong>A fine cotton strainer resembles a stocking.</strong></p>
+<p>The Hong Kong Memory account describes a fine-mesh cotton strainer. Its shape and tea-brown stain evoke a stocking, giving the drink its nickname. The wider story is postwar localization: stronger tea, milk and the craft of the counter. A memorable name is not a literal recipe or proof of one invention date.</p>
+<p><a href="modules/module-03/04-regional-scripts.html#portrait-2-hong-kong-milk-tea-counter">Full story and references</a></p>
+<ul><li><a href="https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html">Hong Kong Memory: The History of Hong Kong-style Milk Tea</a></li></ul>
+</details>
+<details><summary>A date on a heritage label</summary>
+<p><strong>2022 dates UNESCO recognition of living traditions.</strong></p>
+<p>In 2022 UNESCO inscribed “Traditional tea processing techniques and associated social practices in China” on its Representative List of the Intangible Cultural Heritage of Humanity. The date marks recognition of skills and shared practices, not their invention. The listing is not a ranking of tea cultures or a claim that only one country has tea traditions.</p>
+<p><a href="modules/module-03/01-trade-history.html#tea-time-machine">Full story and references</a></p>
+<ul><li><a href="https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884">UNESCO: Traditional tea processing techniques and associated social practices in China</a></li></ul>
+</details>
+<details><summary>Seeds on a return journey</summary>
+<p><strong>He helped an exchange that had already begun.</strong></p>
+<p>Eisai returned from China with tea seeds and knowledge in 1191, but tea had reached Japan earlier. His journey helped promote tea within a longer history of exchange. It was neither tea’s first arrival nor the invention of Japanese tea culture.</p>
+<p><a href="modules/module-03/01-trade-history.html#tea-time-machine">Full story and references</a></p>
+<ul><li><a href="https://www.fivecolleges.edu/community/center-east-asian-studies/japanese-tea-ceremony/history-tea">Five College Center for East Asian Studies: History of Tea</a></li><li><a href="https://www.educationaboutasia.org/article/id/861/print/">Education About Asia: Chinese Tea in World History</a></li></ul>
+</details>
+<details><summary>A promise in print</summary>
+<p><strong>It shows how tea was promoted in London.</strong></p>
+<p>A September 1658 advertisement in Mercurius Politicus promoted tea in London. It is evidence about marketing and historical health claims, not a medical test establishing those claims. The date belongs to this advertisement, not to tea’s first arrival in Europe.</p>
+<p><a href="modules/module-03/01-trade-history.html#tea-time-machine">Full story and references</a></p>
+<ul><li><a href="https://merl.reading.ac.uk/explore/online-exhibitions/tea-culture-in-our-collections/">Museum of English Rural Life: Tea culture in our collections</a></li></ul>
+</details>
+<details><summary>A tea chest in Boston</summary>
+<p><strong>Lower prices did not end disputes over tax and power.</strong></p>
+<p>The National Park Service explains that the Tea Act made East India Company tea cheaper than smuggled Dutch tea. Taxation, the Company’s privileged trade and Parliament’s authority remained disputed. In December 1773, protesters destroyed 342 chests in Boston Harbor. The story concerns political power as well as prices.</p>
+<p><a href="modules/module-03/01-trade-history.html#tea-time-machine">Full story and references</a></p>
+<ul><li><a href="https://www.nps.gov/articles/000/boston-tea-party-in-real-time.htm">U.S. National Park Service: Boston Tea Party Timeline</a></li></ul>
+</details>
+<details><summary>Two dates for one ship</summary>
+<p><strong>Launched in 1869; first voyage in 1870.</strong></p>
+<p>Cutty Sark was launched in Scotland on 22 November 1869 for the China–Britain tea trade. Its first voyage followed in 1870. A ship’s launch date does not automatically date its first voyage or cargo: always check which event a label names.</p>
+<p><a href="modules/module-03/01-trade-history.html#tea-time-machine">Full story and references</a></p>
+<ul><li><a href="https://nmmc.co.uk/2019/11/150-years-of-the-cutty-sark/">National Maritime Museum Cornwall: 150 Years of Cutty Sark</a></li></ul>
+</details>
+<details><summary>Two tins of tea</summary>
+<p><strong>Leaves from the same tea plant can become green or black tea.</strong></p>
+<p>Green and black tea can both come from Camellia sinensis. Green-tea makers heat leaves early to inactivate enzymes and limit oxidation. Black-tea processing allows oxidation to develop before drying. Cultivars and growing conditions still matter, but the categories do not require different species.</p>
+<p><a href="modules/module-01/02-processing.html#from-bush-to-decision">Full story and references</a></p>
+<ul><li><a href="https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india">Royal Botanic Gardens, Kew: From China to India</a></li></ul>
+</details>
+<details><summary>A table with room for conversation</summary>
+<p><strong>A living social practice, with different settings and purposes.</strong></p>
+<p>In d’Abbs’s Chaoshan fieldwork, gongfu tea helps people connect through everyday hospitality. Small pots, small cups and repeated infusions accompany conversation. The account also distinguishes refined cultivation and commercial tea-house leisure. These varied settings should not be flattened into one compulsory national ceremony.</p>
+<p><a href="modules/module-03/04-regional-scripts.html#portrait-1-chaoshan-gongfu-as-everyday-staging">Full story and references</a></p>
+<ul><li><a href="https://doi.org/10.1080/14442213.2019.1611908">d’Abbs (2019): Tea art as everyday practice</a></li></ul>
+</details>
+</div>
+</div>
+```
+
+## Keep exploring
+
+[Tea Time Machine](modules/module-03/01-trade-history.qmd#tea-time-machine) · [Set the Tea Table](modules/module-03/04-regional-scripts.qmd#set-the-tea-table) · [History & Culture](modules/module-03/index.qmd)

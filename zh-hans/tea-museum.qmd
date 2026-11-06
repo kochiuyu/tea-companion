@@ -1,0 +1,96 @@
+---
+title: "茶博物馆：修正展品说明"
+lang: zh-Hans
+description: "修正12张有误的展品说明牌，发现每个修正背后的证据。"
+toc: false
+---
+
+[English](../tea-museum.qmd) · [繁體中文（香港）](../zh-hant-hk/tea-museum.qmd) · [简体中文](../zh-hans/tea-museum.qmd)
+
+```{=html}
+<link rel="stylesheet" href="../assets/tea-museum.css">
+<script src="../assets/tea-game-figures.js" defer></script>
+<script src="../assets/tea-museum-figures.js" defer></script>
+<script src="../assets/tea-museum-data.js" defer></script>
+<script src="../assets/tea-museum.js" defer></script>
+<div data-tea-museum data-locale="zh-hans">
+<div class="tea-museum-fallback">
+<p>互动博物馆正在载入。如无法使用JavaScript，下方仍可阅读12张修正后的说明牌及其来源。</p>
+<details><summary>茶树背后的长故事</summary>
+<p><strong>福琼出发前，印度已有阿萨姆茶。</strong></p>
+<p>景颇（Singpho）社群早已认识和制作阿萨姆茶。阿萨姆茶在1839年于伦敦拍卖，比福琼1848年开始的任务更早。他把中国茶树、熟练工人与制茶知识转移到英国管理的印度茶园。这是殖民背景下的技艺转移，不是印度茶的起点。</p>
+<p><a href="modules/module-03/01-trade-history.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india">Royal Botanic Gardens, Kew: From China to India</a></li><li><a href="https://www.kkhsou.ac.in/web/teaworld/page-details-part.php?page=9d34bb5c4a06966fcf6ceb4bf">KKHSOU Tea World: Assam tea, Lesson 7</a></li></ul>
+</details>
+<details><summary>唐代制茶手册</summary>
+<p><strong>炙烤、碾磨、筛过饼茶，再把茶末加入煮水。</strong></p>
+<p>陆羽的唐代《茶经》描述先炙烤、碾磨、筛过饼茶，再把茶末加入煮水。二沸时先舀出一瓢水，搅出漩涡，再投茶末；三沸时把预留的水倒回，止住沸腾。这是历史上的煮茶方法，不是现代茶包食谱。</p>
+<p><a href="modules/module-03/02-monastic-path.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://zh.wikisource.org/wiki/%E8%8C%B6%E7%B6%93/%E4%BA%94%E4%B9%8B%E7%85%AE">Lu Yu: Cha Jing, Chapter 5 (Chinese text)</a></li></ul>
+</details>
+<details><summary>宋代茶碗</summary>
+<p><strong>在碗中击拂茶末。</strong></p>
+<p>本课讨论的宋代士人与寺院实践，是在碗中击拂茶末。这既不同于陆羽唐代把茶末加入煮水的方法，也不同于浸泡完整散茶。本课的历史叙述依据Benn与Sen的著作，并不是说每位宋代饮茶者都用同一方法，或点茶等同现代抹茶咖啡店的做法。</p>
+<p><a href="modules/module-03/02-monastic-path.html">完整故事与参考资料</a></p>
+</details>
+<details><summary>条约的准确字眼</summary>
+<p><strong>第三条所指的香港岛。</strong></p>
+<p>1842年《南京条约》第三条指的是香港岛，不应把这个字眼扩大成今日香港的全部范围。条约亦开放五个通商口岸，并废除公行垄断。茶是这段贸易史的一部分，但不是战争的唯一原因；鸦片、白银、主权与强制外交交织在一起。</p>
+<p><a href="modules/module-03/01-trade-history.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://china.usc.edu/node/20462">USC U.S.–China Institute: Treaty of Nanking, English transcription</a></li></ul>
+</details>
+<details><summary>“丝袜”茶滤</summary>
+<p><strong>细密棉布茶滤的样子像丝袜。</strong></p>
+<p>“香港记忆”的记述指出，茶滤是细密棉布。它的形状与染茶后的棕色令人联想到丝袜，于是成为奶茶的别名。更大的故事是战后本地化：更浓的茶、奶与柜台制茶技艺。好记的名称不是字面食谱，也不能证明某个单一发明日期。</p>
+<p><a href="modules/module-03/04-regional-scripts.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://www.hkmemory.hk/en/collections-ichhk_ii-hong_kong_style_milk_tea_making_technique-history_hong_kong_style_milk_tea.html">Hong Kong Memory: The History of Hong Kong-style Milk Tea</a></li></ul>
+</details>
+<details><summary>文化遗产标签上的年份</summary>
+<p><strong>2022年是联合国教科文组织认可活态传统的年份。</strong></p>
+<p>联合国教科文组织在2022年把“中国传统制茶技艺及其相关习俗”列入人类非物质文化遗产代表作名录。年份标示对技艺与共同实践的认可，不是它们的诞生。列入名录不是茶文化排名，也不是说只有一个国家有茶传统。</p>
+<p><a href="modules/module-03/01-trade-history.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884">UNESCO: Traditional tea processing techniques and associated social practices in China</a></li></ul>
+</details>
+<details><summary>归途上的茶种</summary>
+<p><strong>他推动了早已开始的交流。</strong></p>
+<p>荣西在1191年从中国带回茶种与茶知识，但茶在此之前已传到日本。他的旅程在长期交流中推动了茶的传播，既不是茶首次抵达日本，也不是日本茶文化的诞生。</p>
+<p><a href="modules/module-03/01-trade-history.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://www.fivecolleges.edu/community/center-east-asian-studies/japanese-tea-ceremony/history-tea">Five College Center for East Asian Studies: History of Tea</a></li><li><a href="https://www.educationaboutasia.org/article/id/861/print/">Education About Asia: Chinese Tea in World History</a></li></ul>
+</details>
+<details><summary>印在纸上的承诺</summary>
+<p><strong>它反映伦敦当时怎样推销茶。</strong></p>
+<p>1658年9月，《Mercurius Politicus》在伦敦刊登茶广告。它是研究推销方式与历史健康宣称的证据，不是验证那些宣称的医学试验。这个日期属于该则广告，不是茶首次抵达欧洲的日期。</p>
+<p><a href="modules/module-03/01-trade-history.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://merl.reading.ac.uk/explore/online-exhibitions/tea-culture-in-our-collections/">Museum of English Rural Life: Tea culture in our collections</a></li></ul>
+</details>
+<details><summary>波士顿的一箱茶</summary>
+<p><strong>公司茶较便宜，仍有税制与权力争议。</strong></p>
+<p>美国国家公园管理局指出，《茶叶法》使东印度公司的茶比走私荷兰茶更便宜。但税制、公司的贸易特权与英国议会的权力仍有争议。1773年12月，抗议者在波士顿港销毁342箱茶。这个故事不只关乎价格，也关乎政治权力。</p>
+<p><a href="modules/module-03/01-trade-history.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://www.nps.gov/articles/000/boston-tea-party-in-real-time.htm">U.S. National Park Service: Boston Tea Party Timeline</a></li></ul>
+</details>
+<details><summary>一艘船，两个日期</summary>
+<p><strong>1869年下水，1870年首航。</strong></p>
+<p>卡蒂萨克号在1869年11月22日于苏格兰下水，设计用途是中国与英国之间的茶叶运输。首航则在1870年。船的下水日期不会自动等于首航或首次载货日期，要留意标签说的是哪件事。</p>
+<p><a href="modules/module-03/01-trade-history.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://nmmc.co.uk/2019/11/150-years-of-the-cutty-sark/">National Maritime Museum Cornwall: 150 Years of Cutty Sark</a></li></ul>
+</details>
+<details><summary>两罐不同的茶</summary>
+<p><strong>同一种茶树可经不同加工制成绿茶或红茶。</strong></p>
+<p>绿茶与红茶都可以来自茶树（Camellia sinensis）。制绿茶时会较早加热，使酶失去活性并限制氧化；制红茶则让氧化在干燥前发展。品种与生长环境仍然重要，但这两个茶类不需要由不同物种制成。</p>
+<p><a href="modules/module-01/02-processing.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india">Royal Botanic Gardens, Kew: From China to India</a></li></ul>
+</details>
+<details><summary>一张可以聊天的茶桌</summary>
+<p><strong>活生生的社交实践，场合与目的各有不同。</strong></p>
+<p>在d’Abbs的潮汕田野研究中，工夫茶通过日常待客维系人际关系。小壶、小杯与反复冲泡伴随交谈。研究亦区分讲究品味的修养与商业茶馆休闲。这些不同场合不应被简化为一套人人必须遵守的全国仪式。</p>
+<p><a href="modules/module-03/04-regional-scripts.html">完整故事与参考资料</a></p>
+<ul><li><a href="https://doi.org/10.1080/14442213.2019.1611908">d’Abbs (2019): Tea art as everyday practice</a></li></ul>
+</details>
+</div>
+</div>
+```
+
+## 继续探索
+
+[茶时光机](modules/module-03/01-trade-history.qmd#tea-time-machine) · [摆好一张茶桌](modules/module-03/04-regional-scripts.qmd#set-the-tea-table) · [历史与文化](modules/module-03/index.qmd)

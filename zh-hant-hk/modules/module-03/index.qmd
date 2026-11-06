@@ -24,6 +24,8 @@ lang: zh-Hant-HK
 比較茶歷史中的不同時刻，或為指定情境擺好茶桌。點選看看每個選擇背後的故事。
 
 [乘時光機看茶史 →](01-trade-history.qmd#tea-time-machine) · [擺好茶席 →](04-regional-scripts.qmd#set-the-tea-table)
+
+[參觀茶博物館 →](../../tea-museum.qmd) 修正十二張有誤的展品說明牌，發現更完整的故事。
 :::
 <!-- cultural-games:end -->
 

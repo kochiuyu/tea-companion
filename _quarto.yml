@@ -7,6 +7,7 @@ project:
     - tea-labels.qmd
     - tea-troubleshoot.qmd
     - tea-reading-studies.qmd
+    - tea-museum.qmd
     - modules/index.qmd
     - modules/module-01/index.qmd
     - modules/module-01/01-plants.qmd
@@ -42,6 +43,7 @@ project:
     - zh-hant-hk/tea-labels.qmd
     - zh-hant-hk/tea-troubleshoot.qmd
     - zh-hant-hk/tea-reading-studies.qmd
+    - zh-hant-hk/tea-museum.qmd
     - zh-hant-hk/cup-reference.qmd
     - zh-hant-hk/glossary.qmd
     - zh-hans/index.qmd
@@ -49,6 +51,7 @@ project:
     - zh-hans/tea-labels.qmd
     - zh-hans/tea-troubleshoot.qmd
     - zh-hans/tea-reading-studies.qmd
+    - zh-hans/tea-museum.qmd
     - zh-hans/cup-reference.qmd
     - zh-hans/glossary.qmd
     - zh-hant-hk/modules/index.qmd
