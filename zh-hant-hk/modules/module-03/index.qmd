@@ -25,7 +25,7 @@ lang: zh-Hant-HK
 
 [乘時光機看茶史 →](01-trade-history.qmd#tea-time-machine) · [擺好茶席 →](04-regional-scripts.qmd#set-the-tea-table)
 
-[參觀茶博物館 →](../../tea-museum.qmd) 修正十二張有誤的展品說明牌，發現更完整的故事。
+[參觀茶博物館 →](../../tea-museum.qmd) 每趟短參觀隨機探索三件展品，逐步發現十二個故事。
 :::
 <!-- cultural-games:end -->
 

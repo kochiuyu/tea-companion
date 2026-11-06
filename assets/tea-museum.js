@@ -6,13 +6,17 @@
   if (!data || !Array.isArray(data.exhibits) || !data.exhibits.length) return;
   const copy = {
     title: ['The mixed-up collection', '待修正的展覽', '待修正的展览'],
-    intro: ['{total} displays. {total} mixed-up labels. You are the guest curator: choose the better label, then discover the evidence behind it.', '{total}件展品，{total}張有誤的說明牌。你是客席策展人：選出較準確的說明，再看看背後的證據。', '{total}件展品，{total}张有误的说明牌。你是客席策展人：选出较准确的说明，再看看背后的证据。'],
+    intro: ['A short visit: {size} random displays from a collection of {total}. Fix a few labels, then stop or explore more.', '短短一趟參觀：從{total}件館藏隨機選出{size}件。修正幾張說明牌，便可休息或繼續探索。', '短短一趟参观：从{total}件馆藏随机选出{size}件。修正几张说明牌，便可休息或继续探索。'],
     invitation: ['A little curiosity is all you need.', '帶一點好奇心就夠了。', '带一点好奇心就够了。'],
-    start: ['Enter the museum', '進入博物館', '进入博物馆'],
+    start: ['Explore {size} displays', '探索{size}件展品', '探索{size}件展品'],
     how: ['Tap a replacement label. No timer, no typing, and hints are welcome.', '點選一張替代說明牌。不限時、不用打字，也可以查看提示。', '点选一张替代说明牌。不限时、不用打字，也可以查看提示。'],
     illustration: ['An imagined museum, with a tea plant, a book and a cup. Illustrations are symbolic, not reconstructions of historical objects.', '想像中的博物館，展出茶樹、書本和茶杯。插圖只作示意，並非歷史文物的重現。', '想象中的博物馆，展出茶树、书本和茶杯。插图只作示意，并非历史文物的重现。'],
-    progress: ['Display {n} of {total}', '第 {n} 件展品，共 {total} 件', '第 {n} 件展品，共 {total} 件'],
-    repaired: ['{n} of {total} labels restored', '已修正 {n}／{total} 張說明牌', '已修正 {n}／{total} 张说明牌'],
+    progress: ['Display {n} of {visit}', '第 {n} 件展品，本次共 {visit} 件', '第 {n} 件展品，本次共 {visit} 件'],
+    repaired: ['{n} of {visit} labels restored this visit', '本次已修正 {n}／{visit} 張說明牌', '本次已修正 {n}／{visit} 张说明牌'],
+    collection: ['Your restored collection · {n} of {total}', '已修正的館藏 · {n}／{total}', '已修正的馆藏 · {n}／{total}'],
+    more: ['Explore {next} more displays', '再探索{next}件展品', '再探索{next}件展品'],
+    remaining: ['{remaining} displays still to discover. The next visit only picks displays you have not seen yet.', '還有{remaining}件展品等你發現。下一趟只會選出尚未看過的展品。', '还有{remaining}件展品等你发现。下一趟只会选出尚未看过的展品。'],
+    saved: ['Your choices stay in this page only and are not saved. Reloading starts a new collection.', '你的選擇只暫留於本頁，不會儲存。重新載入網頁後，館藏進度會重新開始。', '你的选择只暂留于本页，不会保存。重新载入网页后，馆藏进度会重新开始。'],
     mixed: ['Mixed-up label · needs a correction', '有誤的說明牌 · 待修正', '有误的说明牌 · 待修正'],
     fixed: ['Restored label', '修正後的說明牌', '修正后的说明牌'],
     question: ['Which label belongs in the museum?', '哪張說明牌較適合放在博物館？', '哪张说明牌较适合放在博物馆？'],
@@ -26,12 +30,14 @@
     answer: ['Supported by the evidence', '有證據支持', '有证据支持'],
     previous: ['Previous display', '上一件展品', '上一件展品'],
     next: ['Next display', '下一件展品', '下一件展品'],
-    finish: ['Open the restored gallery', '看看修正後的展覽', '看看修正后的展览'],
-    summary: ['The labels are back in place.', '展品說明已修正。', '展品说明已修正。'],
-    summaryIntro: ['You have restored all {total} labels. History becomes more interesting when the missing people, methods and context come back into view.', '你已修正{total}張說明牌。把被忽略的人物、方法和背景放回故事，歷史就更有意思。', '你已修正{total}张说明牌。把被忽略的人物、方法和背景放回故事，历史就更有意思。'],
-    review: ['Revisit the displays', '重看各件展品', '重看各件展品'],
-    restart: ['Start a fresh visit', '重新參觀', '重新参观'],
-    resetNote: ['A fresh visit clears your choices and shuffles the labels. Nothing is saved after you leave or reload this page.', '重新參觀會清除本次選擇，並打亂選項次序。離開或重新載入網頁後，進度不會保留。', '重新参观会清除本次选择，并打乱选项次序。离开或重新载入网页后，进度不会保留。'],
+    finish: ['Finish this short visit', '完成這趟短參觀', '完成这趟短参观'],
+    summary: ['A good place to pause.', '來到一個可以歇歇腳的地方。', '来到一个可以歇歇脚的地方。'],
+    complete: ['The whole collection is restored.', '整個館藏的說明已修正。', '整个馆藏的说明已修正。'],
+    summaryIntro: ['You have restored {visit} labels. Your short visit is complete.', '你已修正{visit}張說明牌，完成這趟短參觀。', '你已修正{visit}张说明牌，完成这趟短参观。'],
+    completeIntro: ['You have explored all {total} displays, a few at a time. Your restored collection and its sources are below.', '你已一點一點地探索全部{total}件展品。下方可以重看已修正的館藏及其來源。', '你已一点一点地探索全部{total}件展品。下方可以重看已修正的馆藏及其来源。'],
+    review: ['Revisit these {visit} displays', '重看本次{visit}件展品', '重看本次{visit}件展品'],
+    restart: ['Shuffle the collection and start again', '打亂館藏次序，重新開始', '打乱馆藏次序，重新开始'],
+    resetNote: ['Starting again clears your choices and reshuffles all displays and labels.', '重新開始會清除你的選擇，並重新打亂所有展品及選項次序。', '重新开始会清除你的选择，并重新打乱所有展品及选项次序。'],
     browse: ['Prefer to read? Browse all {total} corrected labels', '想直接閱讀？瀏覽{total}張修正後的說明牌', '想直接阅读？浏览{total}张修正后的说明牌'],
     story: ['Read the fuller story', '閱讀完整故事', '阅读完整故事'],
     sources: ['Sources used in the lesson', '本課引用的來源', '本课引用的来源'],
@@ -84,7 +90,9 @@
   function mount(host) {
     if (host.dataset.museumReady) return;
     const lang = locales.includes(host.dataset.locale) ? host.dataset.locale : 'en';
-    const ix = locales.indexOf(lang), t = key => copy[key][ix].replaceAll('{total}',data.exhibits.length), l = item => item[lang];
+    const ix = locales.indexOf(lang), visitSize = Math.min(3, data.exhibits.length);
+    const t = (key, values = {}) => Object.entries({total:data.exhibits.length, size:visitSize, visit:visit.length, ...values}).reduce((text,[name,value])=>text.replaceAll(`{${name}}`,String(value)),copy[key][ix]);
+    const l = item => item[lang];
     const uid = `tea-museum-${++instances}`;
     const figure = exhibit => window.TeaMuseumFigures?.figure(exhibit.id,lang) || window.TeaGameFigures?.figure(exhibit.icon,lang);
     for (const e of data.exhibits) {
@@ -92,9 +100,13 @@
     }
     let position = 0, mode = 'welcome', generation = 0;
     let answers = new Map(), hints = new Set(), orders;
+    let queue = shuffle(data.exhibits), visit = [];
+    const remaining = () => queue.filter(e=>!answers.has(e.id));
+    const visitCount = () => visit.filter(e=>answers.has(e.id)).length;
+    const beginVisit = () => { visit=remaining().slice(0,visitSize);position=0;mode='exhibit';render(true); };
     const setOrders = () => { orders = new Map(data.exhibits.map(e => [e.id,shuffle(e.choices)])); };
     setOrders();
-    const textCount = (key,n) => t(key).replace('{n}',n).replace('{total}',data.exhibits.length);
+    const textCount = (key,n) => t(key,{n});
     const button = (text,action,fn) => {
       const b = el('button',text,'tea-museum-button'); b.type='button'; b.dataset.action=action; b.addEventListener('click',fn); return b;
     };
@@ -115,35 +127,47 @@
       }
       return block;
     }
-    function gallery() {
+    function gallery(exhibits=data.exhibits) {
       const list=el('ol',undefined,'tea-museum-gallery');
-      data.exhibits.forEach(exhibit => {
+      exhibits.forEach(exhibit => {
         const item=el('li'); item.dataset.galleryId=exhibit.id;
         const heading=el('h4',l(exhibit.title));
         const art=figure(exhibit); if(art)item.append(art);
         item.append(heading,el('p',l(exhibit.choices.find(c=>c.id===exhibit.correct).label),'tea-museum-restored'),el('p',l(exhibit.explanation)),sources(exhibit)); list.append(item);
       }); return list;
     }
+    const collection=el('details',undefined,'tea-museum-collection');
+    const collectionTitle=el('summary');collection.append(collectionTitle);
     const browse=el('details',undefined,'tea-museum-browse'); browse.append(el('summary',t('browse')),gallery());
-    wrap.append(browse,el('p',t('note'),'tea-museum-note'));
+    wrap.append(collection,browse,el('p',t('saved'),'tea-museum-note'),el('p',t('note'),'tea-museum-note'));
+    function updateCollection() {
+      collection.hidden=answers.size===0;
+      collectionTitle.textContent=textCount('collection',answers.size);
+      collection.replaceChildren(collectionTitle,gallery(queue.filter(e=>answers.has(e.id))));
+    }
     function render(focus=false) {
       const turn=++generation, safe=fn=>()=>{if(turn===generation)fn();};
       const panel=el('div',undefined,'tea-museum-panel'); panel.dataset.mode=mode;
       let heading; status.textContent='';
-      browse.hidden=mode==='summary';
+      updateCollection();
       if(mode==='welcome') {
-        panel.append(museumArt(t('illustration')),el('h3',t('invitation')),el('p',t('how')),button(t('start'),'start',safe(()=>{mode='exhibit';render(true);}))); 
+        panel.append(museumArt(t('illustration')),el('h3',t('invitation')),el('p',t('how')),button(t('start'),'start',safe(beginVisit)));
       } else if(mode==='summary') {
-        heading=el('h3',t('summary')); heading.tabIndex=-1;
-        panel.append(heading,el('p',t('summaryIntro')),el('p',textCount('repaired',answers.size),'tea-museum-count'),gallery());
+        const unseen=remaining().length;
+        heading=el('h3',t(unseen?'summary':'complete')); heading.tabIndex=-1;
+        panel.append(heading,el('p',t(unseen?'summaryIntro':'completeIntro')),el('p',textCount('repaired',visitCount()),'tea-museum-count'));
+        if(unseen)panel.append(el('p',t('remaining',{remaining:unseen})));
         const actions=el('div',undefined,'tea-museum-actions');
-        actions.append(button(t('review'),'review',safe(()=>{position=0;mode='exhibit';render(true);})),button(t('restart'),'restart',safe(()=>{answers=new Map();hints=new Set();setOrders();position=0;mode='exhibit';render(true);})));
-        panel.append(actions,el('p',t('resetNote'),'tea-museum-note'));
+        if(unseen)actions.append(button(t('more',{next:Math.min(visitSize,unseen)}),'more',safe(beginVisit)));
+        actions.append(button(t('review'),'review',safe(()=>{position=0;mode='exhibit';render(true);})));
+        if(!unseen)actions.append(button(t('restart'),'restart',safe(()=>{answers=new Map();hints=new Set();queue=shuffle(data.exhibits);setOrders();beginVisit();})));
+        panel.append(actions);
+        if(!unseen)panel.append(el('p',t('resetNote'),'tea-museum-note'));
       } else {
-        const exhibit=data.exhibits[position]; panel.dataset.exhibitId=exhibit.id;
+        const exhibit=visit[position]; panel.dataset.exhibitId=exhibit.id;
         heading=el('h3',textCount('progress',position+1),'tea-museum-progress'); heading.tabIndex=-1;
         const count=el('p',undefined,'tea-museum-count');
-        const progress=el('progress');progress.max=data.exhibits.length;progress.setAttribute('aria-label',t('title'));
+        const progress=el('progress');progress.max=visit.length;progress.setAttribute('aria-label',t('title'));
         panel.append(heading,count,progress);
         const display=el('div',undefined,'tea-museum-display');
         const object=el('div',undefined,'tea-museum-object');
@@ -167,7 +191,7 @@
             tag.hidden=!answered||(c.id!==answer&&c.id!==exhibit.correct);
             tag.textContent=c.id===exhibit.correct?t('answer'):t('selection');
           });
-          count.textContent=textCount('repaired',answers.size);progress.value=answers.size;
+          count.textContent=textCount('repaired',visitCount());progress.value=visitCount();updateCollection();
           hint.hidden=!hints.has(exhibit.id);hintButton.setAttribute('aria-expanded',String(!hint.hidden));
           hintButton.hidden=answered;reveal.hidden=answered;next.disabled=!answered;
           plaque.dataset.restored=String(answered);plaqueTitle.textContent=t(answered?'fixed':'mixed');
@@ -189,10 +213,11 @@
         const helpers=el('div',undefined,'tea-museum-actions');helpers.append(hintButton,reveal);
         const nav=el('div',undefined,'tea-museum-actions');
         const previous=button(t('previous'),'previous',safe(()=>{if(position>0){position--;render(true);}}));previous.disabled=position===0;
-        next=button(t(position===data.exhibits.length-1?'finish':'next'),'next',safe(()=>{if(!answers.has(exhibit.id))return;if(position===data.exhibits.length-1)mode='summary';else position++;render(true);}));
+        next=button(t(position===visit.length-1?'finish':'next'),'next',safe(()=>{if(!answers.has(exhibit.id))return;if(position===visit.length-1)mode='summary';else position++;render(true);}));
         nav.append(previous,next);panel.append(field,helpers,hint,feedback,nav);update(false);
       }
-      content.replaceChildren(panel);if(focus&&heading)heading.focus();
+      content.replaceChildren(panel);
+      if(focus&&heading){heading.focus({preventScroll:true});heading.scrollIntoView({block:'start',behavior:'instant'});}
     }
     render();host.replaceChildren(wrap);host.dataset.museumReady='true';
   }
