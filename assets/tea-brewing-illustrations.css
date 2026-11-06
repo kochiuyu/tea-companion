@@ -1,0 +1,17 @@
+/* Native disclosure and static figures work without JavaScript. */
+details.tea-brewing-gallery { margin: 1rem 0 1.4rem; border: 1px solid #c9d3c4; border-radius: .9rem; background: #f7f7ef; overflow: hidden; }
+details.tea-brewing-gallery > summary { padding: .8rem 1rem; color: #304c3c; font-weight: 650; font-size: .95rem; cursor: pointer; }
+details.tea-brewing-gallery > summary:hover { background: #e7eddf; }
+details.tea-brewing-gallery > summary:focus-visible { outline: 3px solid #426b50; outline-offset: -4px; border-radius: .7rem; }
+.tea-brewing-intro { margin: 0 1rem .85rem; color: #4c5e51; font-size: .8rem; line-height: 1.5; }
+ul.tea-brewing-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: .7rem; list-style: none; padding: 0 .85rem .85rem; margin: 0; }
+.tea-brewing-grid > li { padding: 0; margin: 0; min-width: 0; }
+figure.tea-brewing-card { height: 100%; margin: 0; border: 1px solid #d5ddcc; border-radius: .65rem; background: #fffdf7; overflow: hidden; break-inside: avoid; }
+.tea-brewing-card > img { display: block; width: 100%; height: auto; aspect-ratio: 9 / 5; margin: 0; }
+.tea-brewing-card > figcaption { margin: 0; padding: .65rem .7rem .75rem; text-align: start; overflow-wrap: anywhere; }
+.tea-brewing-name { display: block; color: #30483a; font-size: .86rem; line-height: 1.4; }
+.tea-brewing-note { display: block; margin-top: .35rem; color: #4e5c50; font-size: .76rem; line-height: 1.5; }
+@media (max-width: 767.98px) { ul.tea-brewing-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: .6rem; } }
+@media (max-width: 479.98px) { ul.tea-brewing-grid { grid-template-columns: minmax(0,1fr); padding: 0 .65rem .65rem; } .tea-brewing-card > img { max-height: 160px; object-fit: contain; background: #f0f1e5; } }
+@media print { details.tea-brewing-gallery { background: none; } ul.tea-brewing-grid { grid-template-columns: repeat(3,minmax(0,1fr)); } figure.tea-brewing-card { break-inside: avoid; } }
+@media (forced-colors: active) { details.tea-brewing-gallery, figure.tea-brewing-card { border-color: CanvasText; background: Canvas; } details.tea-brewing-gallery > summary, .tea-brewing-intro, .tea-brewing-name, .tea-brewing-note { color: CanvasText; } details.tea-brewing-gallery > summary:focus-visible { outline-color: Highlight; } }
