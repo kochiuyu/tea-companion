@@ -111,6 +111,15 @@ Indenture made the industry largely independent of local labor, but local people
 
 ## Cheap cup, honest fence
 
+<!-- lesson-illustration:tea-marketing:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="tea-marketing">
+  <img src="../../assets/lesson-illustrations/notice.svg" width="240" height="136" alt="A generic printed notice beside a cup." loading="lazy" decoding="async">
+  <figcaption>Production also needed buyers. This generic notice points to the marketing story; it is not a historical advertisement.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:tea-marketing:end -->
+
 By about **1890**, Kew's public history says that India supplied roughly **90%** of Britain's domestic tea market. That is the readable market trail for why a British cupboard no longer needed Canton chests the way it once did.[^1] The grocery bag is historically cheap partly because someone else's garden became an estate, and because that estate was staffed and scheduled for volume. Production alone does not finish the story. Someone still had to persuade drinkers that empire leaf belonged in the everyday cup.
 
 None of that licenses a slogan such as "tea alone caused empire," or a homemade re-estimate of who kept the plantation profits. Kew's page also says that India was "only allowed to keep 15 percent of plantation profits." We treat that line as **Kew's narrative phrasing**, not as an independently re-audited ledger on this site.[^1] Prefer Sharma when the question is labor in depth. Keep Kew for the readable market-and-cost trail. Keep Antrobus for the hinge of company formation.[^3][^5][^6]

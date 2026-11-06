@@ -31,6 +31,15 @@ The superscript numbers are clickable footnotes. You jump to the source, the car
 <!-- reading-fold:end -->
 ## Guests who arrive on different clocks
 
+<!-- lesson-illustration:compound-clocks:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="compound-clocks">
+  <img src="../../assets/lesson-illustrations/timing.svg" width="240" height="136" alt="A clock beside a cup." loading="lazy" decoding="async">
+  <figcaption>Timing matters when discussing compounds. The clock is a reminder, not an absorption curve or a precise timetable.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:compound-clocks:end -->
+
 Most everyday talk about tea chemistry centers on three names. Meet them as guests who arrive at different speeds and leave at different times, after the plant ([1.1](01-plants.qmd)), the factory fork ([1.2](02-processing.qmd)), and the kettle ([1.3](03-brewing.qmd)) have already done their work.
 
 For the open story, you only need three plain clocks: **wake-up** (hours), **calm-focus** (tens of minutes), and **green-tea plant compound** (in between). The molecular formulas, the half-life tables, the liver-enzyme names, and the receptor detail live in the foldouts.

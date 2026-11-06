@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 手比脑子先记住流程
 
+<!-- lesson-illustration:ritual-actions:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="ritual-actions">
+  <img src="../../../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶叶、温度计与计时器。" loading="lazy" decoding="async">
+  <figcaption>量取、留意、等待：熟悉的动作是这一课的具体起点。插图不作临床效果的承诺。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:ritual-actions:end -->
+
 大考之前，或者一场难缠的会议之前，你每次都做同样的三件事：烧水、泡茶、喝一口。双手已经把这套流程记住了。在这些资料看来，要紧的正是这份可以预料，而不是什么玄而又玄的说法。
 
 一段短而熟悉的流程，能给头脑一件具体的事做。你量茶叶，看水，再等一等。这样可以打断焦虑的来回打转，让身体稍微静一点；等你回到下一件难事，头脑也清楚一些。

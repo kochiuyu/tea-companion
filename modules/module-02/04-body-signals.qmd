@@ -31,6 +31,15 @@ Superscript numbers are clickable footnotes. A click jumps to the source, the ca
 <!-- reading-fold:end -->
 ## Numbers you cannot feel—but labs can
 
+<!-- lesson-illustration:body-measurement:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="body-measurement">
+  <img src="../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="A person beside a clock and an observation notebook." loading="lazy" decoding="async">
+  <figcaption>A person, a clock and a record: measurements need a method and a time. This sketch shows no measured change.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:body-measurement:end -->
+
 Besides mood surveys, labs track signals you might never notice in yourself. This sitting closes Chapter 2's arc, from signaling to rhythms to stress chemistry to **quiet body meters**.
 
 Three meters matter for the open story.

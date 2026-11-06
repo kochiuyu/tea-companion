@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 手里的杯子，并不是“隐形”的
 
+<!-- lesson-illustration:warmth-comparison:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="warmth-comparison">
+  <img src="../../../assets/lesson-illustrations/warmth-evidence.svg" width="240" height="136" alt="手握茶杯，旁边有比较记录。" loading="lazy" decoding="async">
+  <figcaption>握着暖杯是一种感官线索，并非慷慨或信任的保证。阅读原有主张时，也要一起看比较条件与重复验证的讨论。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:warmth-comparison:end -->
+
 同样是第一次见面。一次，你手里捧着一杯热乎乎的饮料；另一次，你握着一罐冰镇饮料。在一些实验设计里，这种身体上的冷暖会渗进你对对方的判断，让你觉得这个人更“温暖”，也更值得信任。[^1][^2] 手里拿着暖的东西，有时会把第一印象轻轻带向一边。有些研究还看到，它会影响到实际的选择。这不是魔法，而且并不总能复现。
 
 可以这么想：大脑里有一个“街区”，**既**管“我的手是暖的”，**也**管“那个人看起来很暖”。研究者通常把这个街区叫作**[前岛叶皮层](../../glossary.qmd#anterior-insular-cortex)**（有时就简称“岛叶”）。身体状态会给社会判断添上一层影响，这本来是个日常的想法；心理学家要在实验室里给它起名时，叫作**[具身认知](../../glossary.qmd#embodied-cognition)**。这两个名字不记也没关系，下面的故事照样读得懂。[^1][^2]

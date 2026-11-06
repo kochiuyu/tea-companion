@@ -1,0 +1,41 @@
+/* Reading-page illustrations are separate from the interactive game layout. */
+figure.tea-lesson-figure {
+  display: grid;
+  grid-template-columns: minmax(0, 15rem) minmax(0, 1fr);
+  align-items: center;
+  gap: 1.25rem;
+  margin: 1.25rem 0 1.6rem;
+  padding: 1rem;
+  border: 1px solid #d6ddce;
+  border-radius: 1rem;
+  background: #faf8f1;
+  break-inside: avoid;
+}
+figure.tea-lesson-figure > img {
+  display: block;
+  width: 100%;
+  max-width: 15rem;
+  height: auto;
+  border-radius: .75rem;
+  margin: 0 auto;
+}
+figure.tea-lesson-figure > figcaption {
+  margin: 0;
+  color: #395448;
+  font-size: .9rem;
+  line-height: 1.6;
+  text-align: start;
+  overflow-wrap: anywhere;
+}
+@media (max-width: 575.98px) {
+  figure.tea-lesson-figure { grid-template-columns: minmax(0, 1fr); gap: .8rem; padding: .85rem; }
+  figure.tea-lesson-figure > img { max-width: 17rem; }
+}
+@media print {
+  figure.tea-lesson-figure { background: none; border-color: #879487; }
+  figure.tea-lesson-figure > figcaption { color: #25382f; }
+}
+@media (forced-colors: active) {
+  figure.tea-lesson-figure { background: Canvas; border-color: CanvasText; }
+  figure.tea-lesson-figure > figcaption { color: CanvasText; }
+}

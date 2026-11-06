@@ -53,6 +53,15 @@ Warmth priming and ritual-stress psychology used to share this chapter. They now
 <!-- reading-fold:end -->
 ## The four sections
 
+<!-- lesson-illustration:history-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="history-chapter">
+  <img src="../../assets/lesson-illustrations/ship.svg" width="240" height="136" alt="A schematic sailing ship on water." loading="lazy" decoding="async">
+  <figcaption>The chapter follows trade, institutions and regional practices. This ship is a general visual cue for travel, not a reconstruction of a particular vessel or voyage.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:history-chapter:end -->
+
 1. **[Silver, ships, and who controlled the leaf](01-trade-history.qmd)** — Canton silver, opium, Nanking, and the Fortune myth corrected.
 2. **[From medicine soup to monastery to tea room](02-monastic-path.qmd)** — the path from Han medicine → Chan code → Eisai / *chado*.
 3. **[After the monopoly break — gardens, estates, cheap bags](03-plantation-aftershock.qmd)** — the Assam land and labor aftershock, the Kew market trail, and the Ceylon foldout.

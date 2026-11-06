@@ -31,6 +31,15 @@ The superscript numbers are clickable footnotes. You jump to the source, the car
 <!-- reading-fold:end -->
 ## A morning that starts with the wrong question
 
+<!-- lesson-illustration:plant-origin:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="plant-origin">
+  <img src="../../assets/lesson-illustrations/plant.svg" width="240" height="136" alt="A stylized tea plant in a pot." loading="lazy" decoding="async">
+  <figcaption>Start with the tea plant. This simplified drawing does not distinguish its varieties or predict caffeine content.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:plant-origin:end -->
+
 You stand in a grocery aisle holding two boxes. One says *English Breakfast*, and the other says *sencha*. Both are called "tea," and both will wake you up a little. When you pour them, though, one runs dark and malty while the other stays pale and grassy, and the calm-focus side of the cup will not feel the same.
 
 Most people ask, "Which brand is better?" A quieter first question gets you further: **which leaf personality am I holding—and what did the factory do to it?** This section answers the plant half of that question. Processing, brewing, and the three named guests come in the sittings that follow. If the aisle labels still feel foggy, skim **[Tea basics](../../tea-basics.qmd)** first, then come back.

@@ -44,6 +44,15 @@ Superscript numbers are clickable footnotes: a click jumps to the source, the ca
 <!-- reading-fold:end -->
 ## The four sections
 
+<!-- lesson-illustration:body-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="body-chapter">
+  <img src="../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="A person beside a clock and an observation notebook." loading="lazy" decoding="async">
+  <figcaption>Keep the proposed mechanism, the measured result and the drinker’s experience separate. The notebook and clock stand for observation, not a promised effect.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:body-chapter:end -->
+
 Each sitting is one section of the chapter. The open pages stay lay-friendly, and you open a foldout when you want the science depth.
 
 1. **[Gas pedals, brakes, and a busy road](01-brain-action.qmd)** — why caffeine wakes you, how L-theanine softens the edge, and why alcohol is a different story.

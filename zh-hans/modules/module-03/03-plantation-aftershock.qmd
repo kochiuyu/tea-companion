@@ -121,6 +121,15 @@ lang: zh-Hans
 
 ## 便宜的一杯，诚实的边界
 
+<!-- lesson-illustration:tea-marketing:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="tea-marketing">
+  <img src="../../../assets/lesson-illustrations/notice.svg" width="240" height="136" alt="茶杯旁有一张示意印刷广告。" loading="lazy" decoding="async">
+  <figcaption>生产也需要买家。这张示意广告带出推广的故事，并非历史广告的复制品。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:tea-marketing:end -->
+
 大约到 **1890** 年，邱园的公开叙述说，印度供应了英国本土茶叶市场大约 **90%**。这条好读的市场线索，说明英国的橱柜为什么不必再像从前那样靠广州的茶箱。[^1] 超市里的茶包在历史上便宜，一部分是因为别人的园子变成了庄园，而庄园又按产量把人和日程排好。只有生产还不够。还得有人说服喝茶的人：帝国的茶叶，配放进每天的杯子。
 
 这些都撑不起“单凭茶就造成了帝国”这种口号，也撑不起在本页重估谁拿走了种植园利润。邱园的网页还写道，印度“只获准保留种植园利润的 15%”。我们把这句话当成**邱园自己的叙述**，不是本站另行审过的账本。[^1] 要看劳动有多深，优先读夏尔马。要一条好读的市场和成本线索，看邱园。要公司怎样成立的那个转折，看安特罗布斯。[^3][^5][^6]

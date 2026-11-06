@@ -1,0 +1,39 @@
+<!doctype html><meta charset="utf-8"><title>Detective artwork browser checks</title><style>body{font:16px/1.5 system-ui;margin:24px}pre{white-space:pre-wrap}iframe{height:900px;border:1px solid #777}#viewport{overflow:auto;max-width:100%}</style><h1>Detective artwork browser checks</h1><p id="status">Preparing…</p><pre id="results"></pre><div id="viewport"></div><script>
+const results={status:'running',passed:false,cases:[],fallbacks:[],galleryLinks:[],errors:[]};
+const assert=(v,s)=>{if(!v)throw Error(s)};
+const display=()=>{document.querySelector('#status').textContent=`${results.status}: ${results.cases.length} game cases, ${results.galleryLinks.length} links`;document.querySelector('#results').textContent=JSON.stringify(results,null,2)};
+async function load(route,width,js=true){const f=document.createElement('iframe');f.title='Local site test';f.style.width=width+'px';if(!js)f.setAttribute('sandbox','allow-same-origin');document.querySelector('#viewport').replaceChildren(f);await new Promise((r,j)=>{const t=setTimeout(()=>j(Error('timeout '+route)),20000);f.onload=()=>{clearTimeout(t);r()};f.src=route});return f.contentDocument;}
+(async()=>{try{
+ const signatures=[];
+ for(const locale of ['en','zh-hant-hk','zh-hans']){
+  const prefix=locale==='en'?'':locale+'/';
+  for(const width of [320,390,1280]){
+   const doc=await load(prefix+'tea-labels.html',width),seen=new Set();
+   assert(doc.querySelectorAll('button[data-label-index]').length===15,'15 label choices');
+   for(let i=0;i<15;i++){
+    const picker=doc.querySelector('.tea-lab-detective-picker');if(!picker.open)picker.querySelector('summary').click();
+    doc.querySelector(`button[data-label-index="${i}"]`).click();
+    const get=()=>doc.querySelector('[data-tea-detective] svg.tea-game-art');
+    const svg=get(),signature=svg.innerHTML;seen.add(signature);
+    assert(svg.getAttribute('data-label-art')===String(i),'wrong stable identity');
+    assert(svg.getAttribute('aria-hidden')==='true'&&svg.getAttribute('focusable')==='false','decorative a11y');
+    assert(!svg.querySelector('text,image,script,a,foreignObject'),'non-neutral SVG content');
+    assert(svg.parentElement.querySelector('figcaption').textContent.trim(),'missing real caption');
+    if(locale==='en'&&width===320)signatures.push(signature);else assert(signature===signatures[i],'locale/width changed design');
+    const clues=doc.querySelectorAll('.tea-lab-detective-clues button');clues[clues.length-1].click();assert(get().innerHTML===signature,'clue changed design');
+    doc.querySelector('[data-action="reveal"]').click();assert(get().innerHTML===signature,'answer changed design');
+    doc.querySelector('[data-action="retry"]').click();assert(get().innerHTML===signature,'retry changed design');
+    assert(doc.activeElement===doc.querySelector('.tea-lab-detective-categories button'),'retry focus');
+    const game=doc.querySelector('.tea-lab-detective'),b=get().getBoundingClientRect();
+    assert(game.scrollWidth<=game.clientWidth+1,'game overflow');assert(b.width>0&&b.left>=-1&&b.right<=width+1,'art overflow');
+    results.cases.push({locale,width,scenario:i,stable:true,accessible:true});display();
+   }
+   assert(seen.size===15,'duplicate artworks');
+  }
+  const nojs=await load(prefix+'tea-labels.html',320,false);assert(!nojs.querySelector('[data-tea-detective] button'),'scripts not disabled');assert(nojs.querySelector('[data-tea-detective]').textContent.trim().length>20,'fallback missing');results.fallbacks.push(locale);
+  const gallery=await load(prefix+'illustration-review.html',1280);assert(gallery.querySelectorAll('.card').length===12,'gallery cards missing');const links=[...gallery.querySelectorAll('.card a, a[href*="#label-detective"]')].map(a=>a.getAttribute('href'));
+  for(const href of links){const doc=await load(prefix+href,390);const anchor=decodeURIComponent(href.split('#')[1]);assert(doc.getElementById(anchor),'broken review anchor '+href);for(const image of doc.querySelectorAll('.tea-lesson-figure img')){image.loading='eager';await image.decode();assert(image.naturalWidth>0,'broken review image')}results.galleryLinks.push({locale,href});display();}
+ }
+ results.passed=true;results.status='passed';
+}catch(e){results.status='failed';results.errors.push(e.message)}display();document.title='Detective artwork checks: '+results.status;})();
+</script>

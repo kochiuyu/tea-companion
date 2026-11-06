@@ -72,6 +72,15 @@ lang: zh-Hant-HK
 
 ## 怎樣讀一張茶標籤
 
+<!-- lesson-illustration:read-label:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="read-label">
+  <img src="../assets/lesson-illustrations/label.svg" width="240" height="136" alt="印刷標籤旁有放大鏡。" loading="lazy" decoding="async">
+  <figcaption>細看標籤上的字：產地、風格、拼配、茶類與等級，各有不同作用。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:read-label:end -->
+
 一張標籤上，常常混着五樣東西：
 
 1. **地方。** 例如阿薩姆、大吉嶺、雲南。

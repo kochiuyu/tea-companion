@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/lesson-illustrations/
   render:
     - index.qmd
     - tea-basics.qmd
@@ -169,6 +171,7 @@ format:
       - styles.css
       - assets/tea-interactions.css
       - assets/tea-game-figures.css
+      - assets/tea-lesson-figures.css
       - assets/tea-label-detective.css
     toc: true
     footnotes-hover: true

@@ -37,6 +37,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 數字為甚麼會變
 
+<!-- lesson-illustration:cup-baseline:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="cup-baseline">
+  <img src="../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶葉、溫度計與計時器。" loading="lazy" decoding="async">
+  <figcaption>先看茶葉量、水量、溫度與時間。下表列明比較基準；插圖不能指出某一杯茶的實際成分含量。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:cup-baseline:end -->
+
 茶葉的質素、牌子和浸泡時間，都會令數字上落。綠茶和紅茶也因為加工不同而有分別（見[第一章 · 沖泡](modules/module-01/03-brewing.qmd)和[化合物](modules/module-01/04-compounds.qmd)）。綠茶裏，不少兒茶素仍保持簡單的形態；紅茶裏，很多兒茶素卻連成了較深色的色素，所以杯中的[表沒食子兒茶素沒食子酸酯（EGCG）](glossary.qmd#egcg)和兒茶素總量，通常低得多 [^1][^2]。
 
 下表用一個常見的日常基準：**每 250 毫升 用 2 克 乾茶葉**，也就是一個茶包，或一小匙。正式品評（ISO 3103 標準）大約用**每 100 毫升 2 克**（即**每 250 毫升 約 5 克**），比很多家用茶濃。

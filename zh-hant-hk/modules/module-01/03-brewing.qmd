@@ -51,6 +51,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 我們大多數人唯一擁有的實驗室
 
+<!-- lesson-illustration:brewing-variables:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brewing-variables">
+  <img src="../../../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶葉、溫度計與計時器。" loading="lazy" decoding="async">
+  <figcaption>比較時要留意茶葉用量、水、溫度與時間。一次只改一個變項。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brewing-variables:end -->
+
 植物你已經認識了（[第一章第一節](01-plants.qmd)），工廠裏的分岔也講過了（[第一章第二節](02-processing.qmd)）。現在，茶葉到了*你*手上。沖泡不是魔法，也不是「乾等」。說到底，它是**熱水（或冷水）在做一件有選擇的萃取**：有些客人很早、很輕易就離開茶葉；有一位卻要更高的溫度和更多的時間。茶包放進杯裏，茶色一絲絲散開，就是這個過程。
 
 早期經典的浸泡研究，把泡茶當成一件可以量度的事：咖啡因和相關成分離開茶葉有多快，水溫又怎樣改變這些速度。[^1][^2]

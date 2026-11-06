@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 按不同时钟到来的客人
 
+<!-- lesson-illustration:compound-clocks:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="compound-clocks">
+  <img src="../../../assets/lesson-illustrations/timing.svg" width="240" height="136" alt="茶杯旁有时钟。" loading="lazy" decoding="async">
+  <figcaption>谈成分时，时间很重要。时钟只是提醒，并非吸收曲线或精确时间表。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:compound-clocks:end -->
+
 日常谈茶的化学，多半绕着三个名字转。不妨把他们想成三位客人：到达的速度不同，离开的时间也不同。在他们出场之前，植物（[第一章第一节](01-plants.qmd)）、厂房里的分叉（[第一章第二节](02-processing.qmd)）和水壶（[第一章第三节](03-brewing.qmd)）都已经做完各自的工作。
 
 正文先记住三个白话时钟就够：**提神**（以小时计）、**平静专注**（以数十分钟计），以及**绿茶里的植物化合物**（介乎两者之间）。分子式、半衰期表、肝酶的名字和受体的细节，全收在折叠里。

@@ -79,6 +79,15 @@ lang: zh-Hant-HK
 
 ## 白銀向東流
 
+<!-- lesson-illustration:maritime-trade:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="maritime-trade">
+  <img src="../../../assets/lesson-illustrations/ship.svg" width="240" height="136" alt="水上一艘帆船的示意圖。" loading="lazy" decoding="async">
+  <figcaption>海上貿易把茶帶到不同地方。這是一般帆船的示意圖，並非特定船隻、航線或事件的復原。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:maritime-trade:end -->
+
 在**[廣州貿易制度](../../glossary.qmd#canton-system)**（一口通商，1757–1842）那段日子，西方跟清朝的海上貿易全部集中在廣州。洋商要買中國的茶葉、絲綢、瓷器，大多得用**實實在在的白銀**來付。英國想要茶；英國拿得出來換的貨，清朝卻沒多大興趣。白銀於是不斷向東流。英國商人和東印度公司，千方百計想把這個缺口扭轉過來。[^1][^2]
 
 歷史統計把早期的壓力化成了實數。**1710 至 1759 年**間，東印度公司運往廣州的銀條，約值 **2,650 萬英鎊**，佔同期公司對華出口總值的 **90%** 以上（普里查德［Pritchard］，1936）。這不是「貿易失衡」的一句比喻，而是一船船真金白銀。

@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 雙手記得步驟
 
+<!-- lesson-illustration:ritual-actions:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="ritual-actions">
+  <img src="../../../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶葉、溫度計與計時器。" loading="lazy" decoding="async">
+  <figcaption>量取、留意、等待：熟悉的動作是這一課的具體起點。插圖不作臨床效果的承諾。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:ritual-actions:end -->
+
 大考之前，或者一場難纏的會議之前，你每次都做同樣的三步：煲水、泡茶、啜一口。雙手早已把這套步驟記熟。在這些資料裏，要緊的正是這份可以預料，而不是「空洞的神秘主義」。
 
 一段短而熟悉的程序，讓腦袋有些具體的事可做。你量茶葉，看水，再等一等。這樣可以打斷腦中焦慮的兜圈，讓身體稍為平靜下來；應付下一件難事時，頭腦也清醒一些。

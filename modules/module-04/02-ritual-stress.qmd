@@ -31,6 +31,15 @@ Superscript numbers are clickable footnotes. A click jumps to the source, and th
 <!-- reading-fold:end -->
 ## Hands that know the script
 
+<!-- lesson-illustration:ritual-actions:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="ritual-actions">
+  <img src="../../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="A cup with tea leaves, a thermometer and a timer." loading="lazy" decoding="async">
+  <figcaption>Measure, watch, wait: familiar actions give this lesson a concrete starting point. The illustration makes no clinical promise.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:ritual-actions:end -->
+
 Before a hard exam or a tough meeting, you do the same three steps every time: boil, steep, sip. Your hands know the script. In these sources, that predictability is the point. The point is not "empty mysticism."
 
 A short, familiar sequence gives the mind something concrete to do. You measure the leaves, you watch the water, and you wait. That sequence can cut anxious looping, calm the body a bit, and leave you clearer for the next hard task.

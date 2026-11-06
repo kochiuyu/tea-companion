@@ -44,6 +44,15 @@ lang: zh-Hant-HK
 
 ## 四節內容
 
+<!-- lesson-illustration:history-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="history-chapter">
+  <img src="../../../assets/lesson-illustrations/ship.svg" width="240" height="136" alt="水上一艘帆船的示意圖。" loading="lazy" decoding="async">
+  <figcaption>本章沿着貿易、制度與地區習慣展開。這艘船只是旅程的概括圖示，並非重現某一艘船或某一次航程。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:history-chapter:end -->
+
 1. **[白銀、商船，以及誰掌握了茶葉](01-trade-history.qmd)** — 從廣州的白銀、鴉片和《南京條約》說起，並更正關於福鈞的說法。
 2. **[從藥湯到禪寺，再到茶室](02-monastic-path.qmd)** — 一路從漢代的藥用，走到禪院清規，再到榮西與茶道。
 3. **[壟斷打破之後——莊園、勞工與平價茶包](03-plantation-aftershock.qmd)** — 阿薩姆在土地和勞工上的餘波，邱園留下的市場線索，以及錫蘭摺頁。

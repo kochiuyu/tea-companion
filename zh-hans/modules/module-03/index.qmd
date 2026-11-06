@@ -44,6 +44,15 @@ lang: zh-Hans
 
 ## 四节内容
 
+<!-- lesson-illustration:history-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="history-chapter">
+  <img src="../../../assets/lesson-illustrations/ship.svg" width="240" height="136" alt="水上一艘帆船的示意图。" loading="lazy" decoding="async">
+  <figcaption>本章沿着贸易、制度与地区习惯展开。这艘船只是旅程的概括图示，并非重现某一艘船或某一次航程。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:history-chapter:end -->
+
 1. **[白银、商船，以及谁掌握了茶叶](01-trade-history.qmd)** — 从广州的白银、鸦片和《南京条约》说起，并纠正关于福琼的说法。
 2. **[从药汤到禅寺，再到茶室](02-monastic-path.qmd)** — 一路从汉代的药用，走到禅院清规，再到荣西与茶道。
 3. **[垄断打破之后——庄园、劳工与平价茶包](03-plantation-aftershock.qmd)** — 阿萨姆在土地和劳工上的余波，邱园留下的市场线索，以及锡兰折叠。

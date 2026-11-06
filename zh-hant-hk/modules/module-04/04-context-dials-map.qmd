@@ -44,6 +44,15 @@ lang: zh-Hant-HK
 
 ## 三個旋鈕
 
+<!-- lesson-illustration:context-dials:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="context-dials">
+  <img src="../../../assets/lesson-illustrations/context.svg" width="240" height="136" alt="茶杯旁有溫暖、沖泡步驟與飲品描述的圖示。" loading="lazy" decoding="async">
+  <figcaption>溫暖、沖泡儀式與期望，是三個不同的問題。圖示表示情境線索，並非實測的效應大小。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:context-dials:end -->
+
 | 旋鈕 | 白話工作 | 在哪學過 | 它*不是*甚麼 |
 | --- | --- | --- | --- |
 | **溫暖** | 體溫替社交判斷添上一層影響 | [第一節](01-warmth-trust.qmd) | 會議室必勝秘技 |

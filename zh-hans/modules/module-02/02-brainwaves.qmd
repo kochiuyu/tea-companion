@@ -88,6 +88,15 @@ lang: zh-Hans
 
 ## 厨房时钟仍属于这里
 
+<!-- lesson-illustration:brainwave-timing:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brainwave-timing">
+  <img src="../../../assets/lesson-illustrations/timing.svg" width="240" height="136" alt="茶杯旁有时钟。" loading="lazy" decoding="async">
+  <figcaption>在什么时候测量？茶杯与时钟提醒我们留意时间，没有绘出虚构的脑波结果。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brainwave-timing:end -->
+
 还记得第一章里关于时间的那条笔记吗？茶氨酸常常在喝下之后的几十分钟才在血液里达到高峰，清晰的平静专注节奏变化也常常在相近的窗口里被报告，不是第一口。[^3] 组合剂量的认知测验，常常安排在喝下之后一小时或更久。[^6] 正因为这段滞后对得上，厨房里的时钟和实验室才属于同一个故事，也正因为如此，“我刚喝了一口”和“我感到专注”不是同一时刻。
 
 ::: {.callout-tip collapse="true" title="更多详情：时机时钟，以及怎样读脑电图茶标题"}

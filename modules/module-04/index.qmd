@@ -38,6 +38,15 @@ Hold three kitchen pictures. One is a cozy mug in the hand while you meet someon
 <!-- reading-fold:end -->
 ## The four sections
 
+<!-- lesson-illustration:context-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="context-chapter">
+  <img src="../../assets/lesson-illustrations/context.svg" width="240" height="136" alt="A cup with symbols for warmth, preparation and its description." loading="lazy" decoding="async">
+  <figcaption>Warmth, preparation and expectations are separate questions. Keep the setting in view, along with comparison conditions and replication cautions.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:context-chapter:end -->
+
 1. **[Warm hands, warmer judgments?](01-warmth-trust.qmd)** — thermal priming, kept together with the replication caveats.
 2. **[The brewing break as a stress reset](02-ritual-stress.qmd)** — ritual psychology, with Brooks 2016 not used as evidence.
 3. **[What you think the mug is](03-expectation-labels.qmd)** — belief and labels, treated as a third dial.

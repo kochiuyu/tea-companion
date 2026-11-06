@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 按不同時間表登場的客人
 
+<!-- lesson-illustration:compound-clocks:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="compound-clocks">
+  <img src="../../../assets/lesson-illustrations/timing.svg" width="240" height="136" alt="茶杯旁有時鐘。" loading="lazy" decoding="async">
+  <figcaption>談成分時，時間很重要。時鐘只是提醒，並非吸收曲線或精確時間表。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:compound-clocks:end -->
+
 日常談到茶的化學，多半圍繞三個名字轉。不妨把它們想成三位客人：到達的速度不同，離開的時間也不同。在他們出場之前，植物（[第一章第一節](01-plants.qmd)）、工廠裏的分岔（[第一章第二節](02-processing.qmd)）和水煲（[第一章第三節](03-brewing.qmd)）都已經做完各自的工作。
 
 正文先記住三個白話時鐘就夠：**提神**（以小時計）、**平靜專注**（以數十分鐘計），以及**綠茶裏的植物成分**（介乎兩者之間）。化學式、半衰期表、肝臟酵素的名稱和受體的細節，全收在摺疊裏。

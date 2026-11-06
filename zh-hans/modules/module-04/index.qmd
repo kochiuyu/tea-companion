@@ -30,6 +30,15 @@ lang: zh-Hans
 
 ## 四节内容
 
+<!-- lesson-illustration:context-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="context-chapter">
+  <img src="../../../assets/lesson-illustrations/context.svg" width="240" height="136" alt="茶杯旁有温暖、冲泡步骤与饮品描述的图示。" loading="lazy" decoding="async">
+  <figcaption>温暖、冲泡过程与期望是不同的问题。留意情境，也要留意比较条件与重复验证的限制。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:context-chapter:end -->
+
 1. **[手暖了，看人也更暖？](01-warmth-trust.qmd)** — 温度启动，并附上复现研究的保留意见。
 2. **[泡茶时的停顿，帮你重新定神](02-ritual-stress.qmd)** — 仪式心理学；这里不把 Brooks 2016 当作证据。
 3. **[你以为杯里是什么](03-expectation-labels.qmd)** — 信念与标签，被看成第三颗旋钮。

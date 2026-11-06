@@ -30,6 +30,15 @@ lang: zh-Hant-HK
 
 ## 四節內容
 
+<!-- lesson-illustration:context-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="context-chapter">
+  <img src="../../../assets/lesson-illustrations/context.svg" width="240" height="136" alt="茶杯旁有溫暖、沖泡步驟與飲品描述的圖示。" loading="lazy" decoding="async">
+  <figcaption>溫暖、沖泡過程與期望是不同的問題。留意情境，也要留意比較條件與重複驗證的限制。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:context-chapter:end -->
+
 1. **[手暖了，看人也會暖一點？](01-warmth-trust.qmd)** — 溫度效應，並附上重做研究的保留意見。
 2. **[泡茶時的停頓，幫你重新定神](02-ritual-stress.qmd)** — 儀式心理學；這裏不把 Brooks 2016 當作證據。
 3. **[你以為杯裏是甚麼](03-expectation-labels.qmd)** — 信念與標籤，被看成第三顆旋鈕。

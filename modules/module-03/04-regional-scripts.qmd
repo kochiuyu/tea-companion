@@ -122,6 +122,15 @@ Liu (2023) offers a department-bulletin chronology for how Chaozhou kungfu pract
 
 ## Portrait 2 — Hong Kong milk-tea counter
 
+<!-- lesson-illustration:milk-tea-tools:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="milk-tea-tools">
+  <img src="../../assets/lesson-illustrations/milk-tea-filter.svg" width="240" height="136" alt="A hanging cloth filter beside a serving cup." loading="lazy" decoding="async">
+  <figcaption>A cloth filter and serving cup introduce the counter-craft portrait. The filter is not a literal stocking, and the drawing is not a full recipe.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:milk-tea-tools:end -->
+
 For readers in Asia, and for readers in Hong Kong, the milk-tea counter is the local living script. Locals nickname it **silk-stocking** milk tea, after a fine cotton strainer. The mesh stains tea-brown with use, and the shape and the color evoke stockings. With that strainer come strong leaf, condensed milk, and a postwar localization through *bing sutt* and *dai pai dong* that later settled into the ubiquity of the *cha chaan teng*.[^4] This is not the social glue of a Chaoshan sitting room, and it is not Taiwan's cultivated *chaxi*. It is a counter craft: fast, repeatable, and built for a city that needed calories and smoothness on a schedule.
 
 The story starts earlier than the café. After **1842**, British administration brought Western-style tea—fine Ceylon leaf, milk, and sugar—into elite Western restaurants, where it stayed mild, expensive, and socially gated.[^4] That cup was too gentle, and too costly, for popular Hong Kong taste. After World War II, a population boom and a wave of licences for basic eateries rebuilt the drink into a working-class script: a fine cotton strainer for smoothness, **lower-grade** leaf used to **strengthen** flavour at lower cost, and **condensed milk** in place of fresh milk, for calories and for cost under physical labour.[^4] The dated table, from the colonial introduction to the elite mild cup, then to localization in the 1950s, then to the shift in venues, lives in the foldout. The open story only needs the hinge. Empire's mild cup was the wrong register, so the city reinvented the drink.[^4]

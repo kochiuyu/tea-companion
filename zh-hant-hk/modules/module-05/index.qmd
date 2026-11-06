@@ -70,6 +70,15 @@ lang: zh-Hant-HK
 
 ## 四節內容
 
+<!-- lesson-illustration:decision-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="decision-chapter">
+  <img src="../../../assets/lesson-illustrations/reflection.svg" width="240" height="136" alt="搶答鈴旁有鉛筆與核對用的紙張。" loading="lazy" decoding="async">
+  <figcaption>快速反應與仔細核對各有適用的任務。本章問研究實際測量甚麼，而不是把飲品當作通往智慧的捷徑。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:decision-chapter:end -->
+
 每一節對應一個主題，分法仍是原先的四分結構。**正文保持日常語言**，多花一些篇幅把主要概念講透；想看理論名稱、劑量表或實驗時間表，就打開摺疊。可以按次序讀，也可以直接跳到想看的一課。
 
 1. **[衝口而出與細心覆核](01-dual-process.qmd)** — 搶答節目的速度，對照做功課時的耐性；茶、咖啡帶來的壓力，以及酒精，怎樣移動注意力的射燈。

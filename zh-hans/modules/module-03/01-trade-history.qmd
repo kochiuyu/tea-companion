@@ -79,6 +79,15 @@ lang: zh-Hans
 
 ## 白银向东流
 
+<!-- lesson-illustration:maritime-trade:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="maritime-trade">
+  <img src="../../../assets/lesson-illustrations/ship.svg" width="240" height="136" alt="水上一艘帆船的示意图。" loading="lazy" decoding="async">
+  <figcaption>海上贸易把茶带到不同地方。这是一般帆船的示意图，并非特定船只、航线或事件的复原。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:maritime-trade:end -->
+
 在**[广州贸易制度](../../glossary.qmd#canton-system)**（俗称“一口通商”，1757–1842）之下，西方与清朝的海上贸易被集中到广州一口。要买中国的茶叶、丝绸、瓷器，主要付的是**实打实的白银**。英国想要茶，清朝却几乎不需要英国造的东西。于是白银一船船往东流。英国商人和东印度公司开始想办法，要止住这种失血。[^1][^2]
 
 历史统计把早期的压力写成了硬数字。**1710 至 1759 年**，东印度公司向广州输出约 **2,650 万英镑**银锭，占同期公司对华出口总值的 **90%** 以上（普里查德［Pritchard］，1936）。这不是“贸易失衡”的一句比喻，而是船上那一锭锭白银。

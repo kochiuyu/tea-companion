@@ -30,6 +30,15 @@ lang: zh-Hant-HK
 
 ## 行程（五個章節目錄）
 
+<!-- lesson-illustration:chapter-itinerary:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="chapter-itinerary">
+  <img src="../../assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="翻開的書本、書籤、放大鏡與筆記簿。" loading="lazy" decoding="async">
+  <figcaption>五個章節，一條閱讀路線：茶葉與茶杯、身體、歷史、情境，再到決策。選一個問題，循連結走進相關證據。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:chapter-itinerary:end -->
+
 | 站 | 往前帶的問題 | 打開 |
 | --- | --- | --- |
 | 1. 化學核心 | 同一種植物泡出的兩杯茶，為甚麼味道和感覺差那麼遠？ | [第一章](module-01/index.qmd) |

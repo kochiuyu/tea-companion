@@ -29,6 +29,15 @@ Nothing here requires a science degree. Each section opens with a hook and walks
 <!-- reading-fold:end -->
 ## The itinerary (five hubs)
 
+<!-- lesson-illustration:chapter-itinerary:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="chapter-itinerary">
+  <img src="../assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="An open book, bookmark, magnifying glass and notebook." loading="lazy" decoding="async">
+  <figcaption>Five chapters, one reading route: the leaf and cup, the body, history, context, then decisions. Choose a question and follow the links into its evidence.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:chapter-itinerary:end -->
+
 | Stop | The question that pulls you forward | Open |
 | --- | --- | --- |
 | 1. The Chemical Core | Why do two cups from the same plant taste—and feel—so different? | [Chapter 1 hub](module-01/index.qmd) |

@@ -43,6 +43,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 词条（简易定义）
 
+<!-- lesson-illustration:term-notes:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="term-notes">
+  <img src="../assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="翻开的书本、书签、放大镜与笔记本。" loading="lazy" decoding="async">
+  <figcaption>把每个词语当作返回课文的入口。简短定义只是起点；链接的章节提供完整语境。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:term-notes:end -->
+
 | 词条 | 简易定义 | 出现位置 |
 | --- | --- | --- |
 | <span id="adenosine-receptors">腺苷受体（A1、A2A）</span> | 脑里“慢下来／想睡”的感应器；咖啡因挡住它们，让你保持清醒。 | [第二章](modules/module-02/index.qmd) |

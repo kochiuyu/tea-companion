@@ -78,6 +78,15 @@ One habit prevents most beginner misunderstandings. **Ask whether the recording 
 
 ## The kitchen clock still belongs here
 
+<!-- lesson-illustration:brainwave-timing:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brainwave-timing">
+  <img src="../../assets/lesson-illustrations/timing.svg" width="240" height="136" alt="A clock beside a cup." loading="lazy" decoding="async">
+  <figcaption>When was the measurement taken? A cup and clock keep the timing question visible without drawing a made-up brainwave result.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brainwave-timing:end -->
+
 Remember Chapter 1's timing note? L-theanine often peaks in the blood tens of minutes after drinking, and clear calm-focus rhythm changes are often reported in a similar window, not at the first sip.[^3] Combined-dose cognitive tests commonly sit around an hour or more after drinking.[^6] That matching lag is why the kitchen clock and the lab belong in the same story, and why "I just sipped" is not the same moment as "I feel focused."
 
 ::: {.callout-tip collapse="true" title="More detail: timing clocks and how to read an EEG tea headline"}

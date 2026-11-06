@@ -37,6 +37,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 为什么数字会动
 
+<!-- lesson-illustration:cup-baseline:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="cup-baseline">
+  <img src="../assets/lesson-illustrations/brewing.svg" width="240" height="136" alt="茶杯旁有茶叶、温度计与计时器。" loading="lazy" decoding="async">
+  <figcaption>先看茶叶量、水量、温度与时间。下表列明比较基准；插图不能指出某一杯茶的实际成分含量。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:cup-baseline:end -->
+
 茶叶的质量、品牌和浸泡时间，都会让数字上下移动。绿茶和红茶也会因为加工而不同（见[第一章 · 冲泡](modules/module-01/03-brewing.qmd)与[化合物](modules/module-01/04-compounds.qmd)）。许多儿茶素在绿茶里仍比较“简单”；到了红茶里，许多儿茶素连成了颜色更深的色素，所以杯中的 [EGCG](glossary.qmd#egcg) 和总儿茶素通常少得多 [^1][^2]。
 
 下表用的是常见的家用基准：**每 250 毫升 约 2 克 干叶**，也就是一包茶包或一小匙。正式品评（ISO 3103）大约用 **每 100 毫升 2 克**（约等于 **每 250 毫升 5 克**），比许多家里的杯子更浓。

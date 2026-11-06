@@ -71,6 +71,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 四节内容
 
+<!-- lesson-illustration:chemical-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="chemical-chapter">
+  <img src="../../../assets/lesson-illustrations/processing.svg" width="240" height="136" alt="茶叶与处理茶叶、加热工具的示意图。" loading="lazy" decoding="async">
+  <figcaption>从处理茶叶到冲泡，沿路看每项选择。这些工场物件带出问题，并非所有茶都适用的加工次序。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:chemical-chapter:end -->
+
 这里的每一坐，就是本章的一节。打开的页面保持白话；想看化学有多深，再打开折叠。
 
 1. **[同一物种，两种茶叶脾气](01-plants.qmd)** — 把[中国小叶种](../../glossary.qmd#sinensis)与[阿萨姆大叶种](../../glossary.qmd#assamica)当作日常的叶脾气来看，并接上园艺细则和货架上的桥梁。

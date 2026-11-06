@@ -82,6 +82,15 @@ lang: zh-Hant-HK
 
 ## 你若放任，期望就會穿上白袍
 
+<!-- lesson-illustration:unmatched-cups:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="unmatched-cups">
+  <img src="../../../assets/lesson-illustrations/matched-cups.svg" width="240" height="136" alt="有柄杯旁有一隻外形不同、沒有手柄的玻璃杯。" loading="lazy" decoding="async">
+  <figcaption>這兩隻杯明顯不同。圖示提醒我們質疑比較條件，並非妥善匹配的研究對照。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:unmatched-cups:end -->
+
 假設甲組用透明玻璃杯，喝一杯香氣濃、帶澀味、一看就知道是茶的液體；乙組則用另一種杯子喝溫吞吞的清水。不論之後發生甚麼，你都沒有分離出茶氨酸的作用。你只是把藥理和舞台效果混在一起。
 
 這就是為甚麼研究執着於不透明的杯子、配對的苦味、配對的溫度和洗脫期。雙盲的「假茶」很難做，而困難正是重點。

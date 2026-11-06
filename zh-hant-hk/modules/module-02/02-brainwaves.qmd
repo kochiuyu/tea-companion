@@ -88,6 +88,15 @@ lang: zh-Hant-HK
 
 ## 廚房裏的時鐘，這裏仍然用得着
 
+<!-- lesson-illustration:brainwave-timing:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brainwave-timing">
+  <img src="../../../assets/lesson-illustrations/timing.svg" width="240" height="136" alt="茶杯旁有時鐘。" loading="lazy" decoding="async">
+  <figcaption>在甚麼時候量度？茶杯與時鐘提醒我們留意時間，沒有繪出虛構的腦波結果。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brainwave-timing:end -->
+
 還記得第一章關於時間的那條提醒嗎？茶氨酸往往在喝完數十分鐘後才到達血液高峰，明顯的平靜專注節奏變化也常在差不多的時段才有報告，不是第一口。[^3] 合併劑量的認知測試，一般在喝完大約一小時或更久之後進行。[^6] 正因為這段時間對得上，廚房的時鐘和實驗室才屬於同一個故事，也正因如此，「我剛喝了一口」和「我覺得專注了」並不是同一刻。
 
 ::: {.callout-tip collapse="true" title="更多詳情：時間表，以及怎樣讀一則「茶與腦波」新聞"}

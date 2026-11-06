@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 你感觉不到、实验室能量到的数字
 
+<!-- lesson-illustration:body-measurement:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="body-measurement">
+  <img src="../../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="一个人旁边有时钟与观察记录簿。" loading="lazy" decoding="async">
+  <figcaption>一个人、一个时钟、一份记录：测量需要方法与时间。图中没有显示任何实测变化。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:body-measurement:end -->
+
 除了心情问卷，实验室还追踪一些你自己可能永远注意不到的信号。这一节把第二章的弧线收束起来：从信号，到节奏，到压力的化学，再到**安静的身体计量表**。
 
 打开的正文里，有三只计量表要紧。

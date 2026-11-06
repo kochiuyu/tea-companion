@@ -41,6 +41,15 @@ lang: zh-Hans
 <!-- reading-fold:end -->
 ## 为什么茶与咖啡可以感觉不同
 
+<!-- lesson-illustration:brain-observation:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="brain-observation">
+  <img src="../../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="一个人旁边有时钟与观察记录簿。" loading="lazy" decoding="async">
+  <figcaption>分清个人感受与研究测量的结果。这是观察示意图，并非脑部机制图，也不保证任何效果。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:brain-observation:end -->
+
 第一章结束的时候，血流里还留着三位客人。很多人因此改喝茶，也有人要向朋友解释自己为什么改。这一节问的就是这件事。
 
 *为什么茶常常既清醒又更平静，咖啡却可以像被猛地推了一把？*

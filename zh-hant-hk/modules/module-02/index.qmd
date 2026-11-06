@@ -54,6 +54,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 四節內容
 
+<!-- lesson-illustration:body-chapter:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="body-chapter">
+  <img src="../../../assets/lesson-illustrations/body-signals.svg" width="240" height="136" alt="一個人旁邊有時鐘與觀察紀錄簿。" loading="lazy" decoding="async">
+  <figcaption>把提出的機制、測得的結果與飲用者的感受分開看。筆記簿與時鐘代表觀察，並非效果保證。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:body-chapter:end -->
+
 這裏的每一節，就是本章的一個主題。正文保持淺白；想看科學有多深，再打開摺疊方框。
 
 1. **[油門、煞車，與一條繁忙的路](01-brain-action.qmd)**——咖啡因為何令你醒神，茶氨酸怎樣把那份尖銳感磨圓，以及酒精為何是另一回事。

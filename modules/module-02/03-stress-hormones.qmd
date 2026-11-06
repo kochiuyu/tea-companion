@@ -31,6 +31,15 @@ Superscript numbers are clickable footnotes. A click jumps to the source, the ca
 <!-- reading-fold:end -->
 ## Stress has a chemistry too
 
+<!-- lesson-illustration:stress-records:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="stress-records">
+  <img src="../../assets/lesson-illustrations/stress-observation.svg" width="240" height="136" alt="An alarm bell beside a clock and an observation sheet." loading="lazy" decoding="async">
+  <figcaption>The alarm is the lesson’s metaphor for stress. The clock and record sheet point to what researchers observe and when; they do not show a measured hormone change.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:stress-records:end -->
+
 Brain signaling ([2.1](01-brain-action.qmd)) and brain rhythms ([2.2](02-brainwaves.qmd)) are two windows on tea's dual story. This sitting opens a third window: **what happens in the body when the day itself is noisy**.
 
 When you are stressed, the body runs a chemical fire-alarm loop. One main output is a stress hormone many people have heard of, **cortisol**. Another fast "go" signal is adrenaline. You do not need the full loop diagram to follow the story. The foldouts hold that diagram.

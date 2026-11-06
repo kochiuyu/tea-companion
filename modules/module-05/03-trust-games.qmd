@@ -53,6 +53,15 @@ Superscript numbers are clickable footnotes. Select one to jump to the source, a
 <!-- reading-fold:end -->
 ## When someone else is in the room
 
+<!-- lesson-illustration:players-and-rules:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="players-and-rules">
+  <img src="../../assets/lesson-illustrations/social-rules.svg" width="240" height="136" alt="Two players beside a token board and a rule card." loading="lazy" decoding="async">
+  <figcaption>Two players need more than a mood: who moves first, what each knows, and the payoff rules shape the decision. These abstract tokens do not prescribe a fair or correct move.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:players-and-rules:end -->
+
 Lessons 4.1 and 4.2 mostly watched one brain choosing alone: blurting versus checking, pumping a balloon, waiting for tomorrow. This lesson adds a second person. Trust, fairness, and cooperation are social. That is why classic laboratory games matter. They turn "will you be fair?" into something you can count, without pretending a warm mug rewrites the whole deal.
 
 Play three scenes in your head before any formal names.

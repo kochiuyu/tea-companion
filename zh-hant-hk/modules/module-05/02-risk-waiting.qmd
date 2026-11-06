@@ -59,6 +59,15 @@ lang: zh-Hant-HK
 
 ## 你會打多少下氣？
 
+<!-- lesson-illustration:balloon-task:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="balloon-task">
+  <img src="../../../assets/lesson-illustrations/task.svg" width="240" height="136" alt="電腦螢幕上顯示一個氣球。" loading="lazy" decoding="async">
+  <figcaption>虛擬氣球示意下文介紹的任務。單一任務的表現，不能預測一個人在現實生活中的選擇。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:balloon-task:end -->
+
 電腦上出現一個氣球。每打一下氣，就多賺一點錢，也多一分危險。太早停手，錢就白白留在枱面。打過了頭，氣球一爆，這一輪全部清零。研究人員看的是：在那些沒有爆破的氣球上，人會打到多大。
 
 這個玩具世界之所以有用，是因為它把「對風險的胃口」變成可以點算的東西，卻不假裝這杯茶就是你的事業。[^4]

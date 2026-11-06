@@ -41,6 +41,15 @@ lang: zh-Hant-HK
 <!-- reading-fold:end -->
 ## 壓力也有它的化學
 
+<!-- lesson-illustration:stress-records:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="stress-records">
+  <img src="../../../assets/lesson-illustrations/stress-observation.svg" width="240" height="136" alt="警鈴旁有時鐘與觀察紀錄表。" loading="lazy" decoding="async">
+  <figcaption>警鈴是課文用來比喻壓力的物件。時鐘與紀錄表提醒我們留意研究觀察甚麼、何時觀察；它們並非荷爾蒙變化的測量結果。</figcaption>
+</figure>
+```
+<!-- lesson-illustration:stress-records:end -->
+
 大腦的訊號（[第二章第一節](01-brain-action.qmd)）和腦節奏（[第二章第二節](02-brainwaves.qmd)），是看茶的雙線故事的兩扇窗。這一節打開第三扇：**日子本身吵鬧的時候，身體裏發生甚麼事**。
 
 人一旦受壓，身體就會啟動一條化學上的火警迴路。其中一個主要產物，是不少人都聽過的壓力荷爾蒙：**皮質醇**。另一個來得很快的「行動」訊號，是腎上腺素。要跟上這個故事，不必先看完整的迴路圖，摺疊裏都有。

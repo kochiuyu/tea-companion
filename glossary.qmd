@@ -33,6 +33,15 @@ For a first mug, and for true tea versus herbal drinks, use **[Tea basics](tea-b
 <!-- reading-fold:end -->
 ## Terms (simple definitions)
 
+<!-- lesson-illustration:term-notes:start -->
+```{=html}
+<figure class="tea-lesson-figure" data-lesson-illustration="term-notes">
+  <img src="assets/lesson-illustrations/source-notes.svg" width="240" height="136" alt="An open book, bookmark, magnifying glass and notebook." loading="lazy" decoding="async">
+  <figcaption>Use each term as a doorway back to its lesson. A short definition is a starting point; the linked chapter supplies the context.</figcaption>
+</figure>
+```
+<!-- lesson-illustration:term-notes:end -->
+
 
 | Term | Simple definition | Where it shows up |
 | --- | --- | --- |
