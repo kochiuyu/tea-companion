@@ -416,6 +416,23 @@ lang: zh-Hant-HK
 
 這裏只講器具的**名稱**，也就是它一般是甚麼。沒有萃取動力學，沒有儀式的步驟表，也沒有第二張排障矩陣。
 
+<!-- tea-brewing-illustrations:start -->
+```{=html}
+<details class="tea-brewing-gallery" open>
+<summary>認識茶具 · 六組圖解</summary>
+<p class="tea-brewing-intro">把名稱對上器具的模樣。圖中只是例子，不是固定款式或沖泡步驟；各圖並非按同一比例繪製。</p>
+<ul class="tea-brewing-grid">
+<li><figure class="tea-brewing-card" data-tea-brewing="mug"><img src="../assets/tea-brewing-illustrations/mug.svg" width="360" height="200" alt="兩隻杯的剖面示意，一隻放着帶線的茶包，另一隻放着盛茶葉的網狀濾籃。" loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">杯 + 茶包／濾籃</strong><span class="tea-brewing-note">茶包或可取出的濾籃。剖面示意讓你看見杯內。</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="western-pot"><img src="../assets/tea-brewing-illustrations/western-pot.svg" width="360" height="200" alt="圓身茶壺有壺蓋、壺嘴和把手，旁邊放着兩隻杯。" loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">英式／西式茶壺</strong><span class="tea-brewing-note">較大的有蓋茶壺，一壺可分着喝。</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="gaiwan"><img src="../assets/tea-brewing-illustrations/gaiwan.svg" width="360" height="200" alt="沒有把手的碗，碗口外撇，碗蓋提起，下方有碟托。" loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">蓋碗</strong><span class="tea-brewing-note">帶蓋的碗；圖中配有碟托。</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="gongfu-kit"><img src="../assets/tea-brewing-illustrations/gongfu-kit.svg" width="360" height="200" alt="一把紅褐色小陶壺和一把淺色小瓷壺，各自配有小杯。" loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">小壺 · 工夫茶用具</strong><span class="tea-brewing-note">小壺配小杯；圖示陶壺和瓷壺。</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="grandpa-style"><img src="../assets/tea-brewing-illustrations/grandpa-style.svg" width="360" height="200" alt="高身玻璃杯裏可見散茶葉，一隻小水壺正往杯內注水。" loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">爺爺杯（grandpa style）</strong><span class="tea-brewing-note">續水時，散茶葉仍留在玻璃杯裏。</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="matcha-whisk"><img src="../assets/tea-brewing-illustrations/matcha-whisk.svg" width="360" height="200" alt="一隻寬口茶碗盛着綠色抹茶，旁邊是帶有細竹絲的茶筅。" loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">茶碗 + 茶筅（抹茶）</strong><span class="tea-brewing-note">用來攪拌茶粉的茶碗和竹茶筅。</span></figcaption></figure></li>
+</ul>
+</details>
+```
+<!-- tea-brewing-illustrations:end -->
+
 | 器具／方法 | 白話意思 | 接着打開… |
 | --- | --- | --- |
 | **杯 + 茶包／濾籃** | 日常的預設喝法：一杯，浸一次 | 第一杯看 [茶葉入門](tea-basics.qmd)。覺得不對勁，去 [廚房排障](tea-troubleshoot.qmd) |

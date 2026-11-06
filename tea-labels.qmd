@@ -406,6 +406,23 @@ They sit outside the chemical core of Chapter 1. The short lesson on true tea ve
 
 These are kit **names** only: what the gear usually is. There are no extraction kinetics, no ceremonial step lists, and no second Troubleshoot matrix.
 
+<!-- tea-brewing-illustrations:start -->
+```{=html}
+<details class="tea-brewing-gallery" open>
+<summary>Recognise the kit · six illustrated examples</summary>
+<p class="tea-brewing-intro">Match the names to the shapes. These are examples, not fixed designs or a brewing sequence; drawings are not to scale.</p>
+<ul class="tea-brewing-grid">
+<li><figure class="tea-brewing-card" data-tea-brewing="mug"><img src="assets/tea-brewing-illustrations/mug.svg" width="360" height="200" alt="Cutaway views of two mugs, one with a tea bag and string, the other with a mesh basket holding leaves." loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">Mug + bag / basket</strong><span class="tea-brewing-note">A tea bag or a removable basket. Cutaway views show the inside.</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="western-pot"><img src="assets/tea-brewing-illustrations/western-pot.svg" width="360" height="200" alt="A rounded teapot with a lid, spout and handle, beside two cups." loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">English / Western teapot</strong><span class="tea-brewing-note">A larger lidded pot for sharing.</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="gaiwan"><img src="assets/tea-brewing-illustrations/gaiwan.svg" width="360" height="200" alt="A handleless bowl with a flared rim, a raised lid and a saucer beneath." loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">Gaiwan</strong><span class="tea-brewing-note">A bowl with a lid; shown with a saucer.</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="gongfu-kit"><img src="assets/tea-brewing-illustrations/gongfu-kit.svg" width="360" height="200" alt="A small reddish-brown clay pot and a pale porcelain pot, each paired with small cups." loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">Small pot · gongfu-style kit</strong><span class="tea-brewing-note">Small pots and cups: clay and porcelain examples.</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="grandpa-style"><img src="assets/tea-brewing-illustrations/grandpa-style.svg" width="360" height="200" alt="Loose leaves are visible in a tall glass while a small jug pours water into it." loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">Grandpa style</strong><span class="tea-brewing-note">Loose leaves stay in the glass as water is added.</span></figcaption></figure></li>
+<li><figure class="tea-brewing-card" data-tea-brewing="matcha-whisk"><img src="assets/tea-brewing-illustrations/matcha-whisk.svg" width="360" height="200" alt="A wide bowl of green matcha beside a bamboo whisk with many fine tines." loading="lazy" decoding="async"><figcaption><strong class="tea-brewing-name">Matcha bowl + whisk</strong><span class="tea-brewing-note">A bowl and bamboo whisk for powdered tea.</span></figcaption></figure></li>
+</ul>
+</details>
+```
+<!-- tea-brewing-illustrations:end -->
+
 | Kit / method | Plain meaning | Then open… |
 | --- | --- | --- |
 | **Mug + bag / basket** | The everyday default: one steep in a cup | The first mug on [Tea basics](tea-basics.qmd). If the cup is off, open [Kitchen troubleshoot](tea-troubleshoot.qmd). |

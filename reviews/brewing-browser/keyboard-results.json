@@ -1,0 +1,98 @@
+[
+  {
+    "locale": "en",
+    "scripts": true,
+    "closed": true,
+    "reopened": true,
+    "focus": {
+      "focused": true,
+      "outline": "solid",
+      "width": "3px"
+    },
+    "next": {
+      "href": "http://127.0.0.1:4173/tea-basics.html",
+      "tag": "A"
+    },
+    "passed": true
+  },
+  {
+    "locale": "en",
+    "scripts": false,
+    "closed": true,
+    "reopened": true,
+    "focus": {
+      "focused": true,
+      "outline": "solid",
+      "width": "3px"
+    },
+    "next": {
+      "href": "./tea-basics.html",
+      "tag": "A"
+    },
+    "passed": true
+  },
+  {
+    "locale": "zh-hant-hk",
+    "scripts": true,
+    "closed": true,
+    "reopened": true,
+    "focus": {
+      "focused": true,
+      "outline": "solid",
+      "width": "3px"
+    },
+    "next": {
+      "href": "http://127.0.0.1:4173/zh-hant-hk/tea-basics.html",
+      "tag": "A"
+    },
+    "passed": true
+  },
+  {
+    "locale": "zh-hant-hk",
+    "scripts": false,
+    "closed": true,
+    "reopened": true,
+    "focus": {
+      "focused": true,
+      "outline": "solid",
+      "width": "3px"
+    },
+    "next": {
+      "href": "../zh-hant-hk/tea-basics.html",
+      "tag": "A"
+    },
+    "passed": true
+  },
+  {
+    "locale": "zh-hans",
+    "scripts": true,
+    "closed": true,
+    "reopened": true,
+    "focus": {
+      "focused": true,
+      "outline": "solid",
+      "width": "3px"
+    },
+    "next": {
+      "href": "http://127.0.0.1:4173/zh-hans/tea-basics.html",
+      "tag": "A"
+    },
+    "passed": true
+  },
+  {
+    "locale": "zh-hans",
+    "scripts": false,
+    "closed": true,
+    "reopened": true,
+    "focus": {
+      "focused": true,
+      "outline": "solid",
+      "width": "3px"
+    },
+    "next": {
+      "href": "../zh-hans/tea-basics.html",
+      "tag": "A"
+    },
+    "passed": true
+  }
+]

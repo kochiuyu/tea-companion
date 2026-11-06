@@ -1,0 +1,67 @@
+=== reviews/test_pilot_compare_dom.cjs
+Primary hover selector exclusions: PASS (static CSS source check, not browser verification).
+en: all ten rounds × correct/wrong/unsure, repeated guesses, navigation, five-clue checkpoint, ten-clue summary, both restart paths, duplicate init, delayed boot, failure fallback and localized source paths: PASS
+zh-hant-hk: all ten rounds × correct/wrong/unsure, repeated guesses, navigation, five-clue checkpoint, ten-clue summary, both restart paths, duplicate init, delayed boot, failure fallback and localized source paths: PASS
+zh-hans: all ten rounds × correct/wrong/unsure, repeated guesses, navigation, five-clue checkpoint, ten-clue summary, both restart paths, duplicate init, delayed boot, failure fallback and localized source paths: PASS
+90 round/locale/answer combinations passed. Mock DOM only; rendered browser QA is separate.
+=== reviews/test_pilot_detective_dom.cjs
+en: 99 choices, 33 reveals, all original alternatives, sources, retention/retry, explore isolation and duplicate init: PASS (fake DOM)
+zh-hant-hk: 99 choices, 33 reveals, all original alternatives, sources, retention/retry, explore isolation and duplicate init: PASS (fake DOM)
+zh-hans: 99 choices, 33 reveals, all original alternatives, sources, retention/retry, explore isolation and duplicate init: PASS (fake DOM)
+Full 15-label decks, RNG boundaries, seed repeatability, previous/retry, summary return, explicit exhaustion and short rounds: PASS (fake DOM)
+Detached enhancement failure, deferred boot, locale fallback, independent instances: PASS (fake DOM, not browser)
+=== reviews/test_decision_game_dom.cjs
+{
+  "passed": true,
+  "method": "Minimal DOM shim; not a browser or visual audit",
+  "outcomes": 27,
+  "summaries": 81,
+  "results": [
+    "en: all outcomes, neutral unsure, focus, back/retry, no-skip guards, repeat mount, stale controls and all 27 summary combinations passed",
+    "zh-hant-hk: all outcomes, neutral unsure, focus, back/retry, no-skip guards, repeat mount, stale controls and all 27 summary combinations passed",
+    "zh-hans: all outcomes, neutral unsure, focus, back/retry, no-skip guards, repeat mount, stale controls and all 27 summary combinations passed"
+  ]
+}
+=== reviews/test_study_detective.cjs
+en: 24 tap choices, 8 reveals/retries, source paths, retention, round isolation, focus contracts and duplicate init PASS
+zh-hant-hk: 24 tap choices, 8 reveals/retries, source paths, retention, round isolation, focus contracts and duplicate init PASS
+zh-hans: 24 tap choices, 8 reveals/retries, source paths, retention, round isolation, focus contracts and duplicate init PASS
+Eight-case decks, seeded shuffle, RNG boundaries, previous/retry, summary/explore return, exhaustion, fresh reset and render-failure fallback PASS
+=== reviews/test_tea_table_dom.cjs
+{
+  "passed": true,
+  "combinations": 243,
+  "results": [
+    {
+      "locale": "en",
+      "combinations": 81,
+      "navigation": true,
+      "keyboardFocusModel": true,
+      "restart": true,
+      "missingDataFallback": true,
+      "duplicateMount": true
+    },
+    {
+      "locale": "zh-hant-hk",
+      "combinations": 81,
+      "navigation": true,
+      "keyboardFocusModel": true,
+      "restart": true,
+      "missingDataFallback": true,
+      "duplicateMount": true
+    },
+    {
+      "locale": "zh-hans",
+      "combinations": 81,
+      "navigation": true,
+      "keyboardFocusModel": true,
+      "restart": true,
+      "missingDataFallback": true,
+      "duplicateMount": true
+    }
+  ]
+}
+=== reviews/test_time_machine_with_history_figures.cjs
+PASS: three languages; ten unique comparisons; hints, reveal, wrong/correct, retry, previous, review, restart, stale clicks, focus contracts, source dates, fallback, randomization and exact original-content preservation.
+=== reviews/test_museum_dom.cjs
+PASS: 12 exhibits × 3 locales × every answer path; 3-display randomized visits; no repeats until exhausted; short summaries; cumulative collapsed history; all-label reading gallery; preserved choices and hints; stale and repeated controls; reset; partial visits; fallback; localized accessible figures.

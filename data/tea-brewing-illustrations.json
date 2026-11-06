@@ -1,0 +1,62 @@
+{
+  "summary": {
+    "en": "Recognise the kit · six illustrated examples",
+    "zh-hant-hk": "認識茶具 · 六組圖解",
+    "zh-hans": "认识茶具 · 六组图解"
+  },
+  "intro": {
+    "en": "Match the names to the shapes. These are examples, not fixed designs or a brewing sequence; drawings are not to scale.",
+    "zh-hant-hk": "把名稱對上器具的模樣。圖中只是例子，不是固定款式或沖泡步驟；各圖並非按同一比例繪製。",
+    "zh-hans": "把名称对上器具的模样。图中只是例子，不是固定款式或冲泡步骤；各图并非按同一比例绘制。"
+  },
+  "entries": [
+    {
+      "id": "mug",
+      "text": {
+        "en": {"name": "Mug + bag / basket", "caption": "A tea bag or a removable basket. Cutaway views show the inside.", "alt": "Cutaway views of two mugs, one with a tea bag and string, the other with a mesh basket holding leaves."},
+        "zh-hant-hk": {"name": "杯 + 茶包／濾籃", "caption": "茶包或可取出的濾籃。剖面示意讓你看見杯內。", "alt": "兩隻杯的剖面示意，一隻放着帶線的茶包，另一隻放着盛茶葉的網狀濾籃。"},
+        "zh-hans": {"name": "杯 + 茶包／滤篮", "caption": "茶包或可取出的滤篮。剖面示意让你看见杯内。", "alt": "两只杯的剖面示意，一只放着带线的茶包，另一只放着盛茶叶的网状滤篮。"}
+      }
+    },
+    {
+      "id": "western-pot",
+      "text": {
+        "en": {"name": "English / Western teapot", "caption": "A larger lidded pot for sharing.", "alt": "A rounded teapot with a lid, spout and handle, beside two cups."},
+        "zh-hant-hk": {"name": "英式／西式茶壺", "caption": "較大的有蓋茶壺，一壺可分着喝。", "alt": "圓身茶壺有壺蓋、壺嘴和把手，旁邊放着兩隻杯。"},
+        "zh-hans": {"name": "英式／西式茶壶", "caption": "较大的有盖茶壶，一壶可分着喝。", "alt": "圆身茶壶有壶盖、壶嘴和把手，旁边放着两只杯。"}
+      }
+    },
+    {
+      "id": "gaiwan",
+      "text": {
+        "en": {"name": "Gaiwan", "caption": "A bowl with a lid; shown with a saucer.", "alt": "A handleless bowl with a flared rim, a raised lid and a saucer beneath."},
+        "zh-hant-hk": {"name": "蓋碗", "caption": "帶蓋的碗；圖中配有碟托。", "alt": "沒有把手的碗，碗口外撇，碗蓋提起，下方有碟托。"},
+        "zh-hans": {"name": "盖碗", "caption": "带盖的碗；图中配有碟托。", "alt": "没有把手的碗，碗口外撇，碗盖提起，下方有碟托。"}
+      }
+    },
+    {
+      "id": "gongfu-kit",
+      "text": {
+        "en": {"name": "Small pot · gongfu-style kit", "caption": "Small pots and cups: clay and porcelain examples.", "alt": "A small reddish-brown clay pot and a pale porcelain pot, each paired with small cups."},
+        "zh-hant-hk": {"name": "小壺 · 工夫茶用具", "caption": "小壺配小杯；圖示陶壺和瓷壺。", "alt": "一把紅褐色小陶壺和一把淺色小瓷壺，各自配有小杯。"},
+        "zh-hans": {"name": "小壶 · 工夫茶用具", "caption": "小壶配小杯；图示陶壶和瓷壶。", "alt": "一把红褐色小陶壶和一把浅色小瓷壶，各自配有小杯。"}
+      }
+    },
+    {
+      "id": "grandpa-style",
+      "text": {
+        "en": {"name": "Grandpa style", "caption": "Loose leaves stay in the glass as water is added.", "alt": "Loose leaves are visible in a tall glass while a small jug pours water into it."},
+        "zh-hant-hk": {"name": "爺爺杯（grandpa style）", "caption": "續水時，散茶葉仍留在玻璃杯裏。", "alt": "高身玻璃杯裏可見散茶葉，一隻小水壺正往杯內注水。"},
+        "zh-hans": {"name": "爷爷杯（grandpa style）", "caption": "续水时，散茶叶仍留在玻璃杯里。", "alt": "高身玻璃杯里可见散茶叶，一只小水壶正往杯内注水。"}
+      }
+    },
+    {
+      "id": "matcha-whisk",
+      "text": {
+        "en": {"name": "Matcha bowl + whisk", "caption": "A bowl and bamboo whisk for powdered tea.", "alt": "A wide bowl of green matcha beside a bamboo whisk with many fine tines."},
+        "zh-hant-hk": {"name": "茶碗 + 茶筅（抹茶）", "caption": "用來攪拌茶粉的茶碗和竹茶筅。", "alt": "一隻寬口茶碗盛着綠色抹茶，旁邊是帶有細竹絲的茶筅。"},
+        "zh-hans": {"name": "茶碗 + 茶筅（抹茶）", "caption": "用来搅拌茶粉的茶碗和竹茶筅。", "alt": "一只宽口茶碗盛着绿色抹茶，旁边是带有细竹丝的茶筅。"}
+      }
+    }
+  ]
+}
