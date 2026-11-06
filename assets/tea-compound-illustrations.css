@@ -1,0 +1,91 @@
+/* Static compound schematics. Text and numbered legends remain readable without JS. */
+figure.tea-compound-figure {
+  margin: 1.1rem 0 1.5rem;
+  background: #fafaf3;
+  border: 1px solid #cbd8c9;
+  border-radius: 1rem;
+  overflow: hidden;
+  break-inside: avoid;
+}
+.tea-compound-figure > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 36 / 17;
+  margin: 0;
+}
+.tea-compound-figure > figcaption {
+  margin: 0;
+  padding: 1rem 1.15rem 1.1rem;
+  color: #294b43;
+  text-align: start;
+  font-size: .9rem;
+  line-height: 1.55;
+  border-top: 1px solid #cbd8c9;
+}
+.tea-compound-heading {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: .25rem .75rem;
+}
+.tea-compound-heading > strong { font-size: 1.02rem; }
+.tea-compound-formula {
+  font-size: .86rem;
+  font-weight: 600;
+  color: #516459;
+  white-space: nowrap;
+}
+.tea-compound-legend {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .7rem 1rem;
+  margin: .9rem 0;
+  padding: 0;
+  list-style: none;
+}
+.tea-compound-legend > li {
+  display: grid;
+  grid-template-columns: 1.5rem minmax(0, 1fr);
+  align-content: start;
+  column-gap: .4rem;
+  margin: 0;
+}
+.tea-compound-legend .tea-compound-key {
+  display: grid;
+  place-items: center;
+  height: 1.35rem;
+  width: 1.35rem;
+  margin-top: .08rem;
+  border-radius: 50%;
+  background: #294b43;
+  color: #fffdf7;
+  font: 700 .78rem/1 system-ui, sans-serif;
+  grid-row: span 2;
+}
+.tea-compound-legend strong { display: block; font-size: .88rem; }
+.tea-compound-legend span { display: block; font-size: .83rem; }
+.tea-compound-note {
+  margin: .8rem 0 0;
+  padding-top: .8rem;
+  border-top: 1px solid #dbe2d5;
+  color: #465e51;
+  font-size: .83rem;
+}
+@media (max-width: 575.98px) {
+  figure.tea-compound-figure { border-radius: .75rem; }
+  .tea-compound-figure > figcaption { padding: .85rem .9rem 1rem; }
+  .tea-compound-legend { grid-template-columns: 1fr; gap: .65rem; }
+}
+@media print {
+  figure.tea-compound-figure { border-color: #6e7e6c; background: none; }
+  .tea-compound-figure > figcaption { color: #182c24; }
+}
+@media (forced-colors: active) {
+  figure.tea-compound-figure,
+  .tea-compound-figure > figcaption,
+  .tea-compound-note { background: Canvas; color: CanvasText; border-color: CanvasText; }
+  .tea-compound-formula { color: CanvasText; }
+  .tea-compound-legend .tea-compound-key { border: 1px solid CanvasText; color: CanvasText; background: Canvas; }
+}
