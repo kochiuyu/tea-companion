@@ -87,6 +87,66 @@ The tables below are a **usual-meaning** sheet. Brands disagree, and recipes var
 
 ## Chinese names you will see
 
+<!-- tea-name-gallery:chinese:start -->
+```{=html}
+<details class="tea-name-gallery" data-tea-name-gallery="chinese" open>
+  <summary>Picture shelf · 12 Chinese names</summary>
+  <p class="tea-name-intro">Original schematic examples, not an identification key. Shapes and colours vary; drawings are not to scale. Names, processing and label details matter more than appearance.</p>
+  <p class="tea-name-map-key">Maps are north-up and use different scales. Dots locate origins approximately, not estates or growing-area boundaries. Coastlines: <a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a>.</p>
+<ul class="tea-name-grid" role="list">
+  <li><figure class="tea-name-card" data-tea-name="longjing">
+    <img src="assets/tea-name-illustrations/longjing.svg" width="240" height="150" loading="lazy" decoding="async" alt="Long, flat green tea leaves on a shallow dish.">
+    <figcaption><strong class="tea-name-title">Longjing / Dragon Well</strong><span class="tea-name-kind">Style · green tea</span><span class="tea-name-note">A typical flat-leaf example. Shape and colour vary.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="jasmine-green">
+    <img src="assets/tea-name-illustrations/jasmine-green.svg" width="240" height="150" loading="lazy" decoding="async" alt="Green leaves on a dish, with a jasmine blossom shown separately.">
+    <figcaption><strong class="tea-name-title">Jasmine green</strong><span class="tea-name-kind">Scented tea · green base</span><span class="tea-name-note">The separate flower is an aroma cue. Blossoms need not remain.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="gunpowder">
+    <img src="assets/tea-name-illustrations/gunpowder.svg" width="240" height="150" loading="lazy" decoding="async" alt="Small green rolled tea pellets scattered on a dish.">
+    <figcaption><strong class="tea-name-title">Gunpowder</strong><span class="tea-name-kind">Style · green tea</span><span class="tea-name-note">Small rolled pellets, shown before brewing.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="tieguanyin">
+    <img src="assets/tea-name-illustrations/tieguanyin.svg" width="240" height="150" loading="lazy" decoding="async" alt="Irregular, tightly rolled greenish tea leaves.">
+    <figcaption><strong class="tea-name-title">Tieguanyin</strong><span class="tea-name-kind">Style · oolong</span><span class="tea-name-note">One rolled-leaf example. Roast and oxidation vary.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="baozhong">
+    <img src="assets/tea-name-illustrations/baozhong.svg" width="240" height="150" loading="lazy" decoding="async" alt="Loose, long, curled green-coloured tea leaves on a dish.">
+    <figcaption><strong class="tea-name-title">Baozhong</strong><span class="tea-name-kind">Style · oolong</span><span class="tea-name-note">A loose, curled strip-leaf example, not tight balls.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="da-hong-pao">
+    <img src="assets/tea-name-illustrations/da-hong-pao.svg" width="240" height="150" loading="lazy" decoding="async" alt="Long, dark twisted tea leaves on a shallow dish.">
+    <figcaption><strong class="tea-name-title">Da Hong Pao</strong><span class="tea-name-kind">Style · oolong</span><span class="tea-name-note">A dark, twisted-leaf example of Wuyi rock oolong.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="keemun">
+    <img src="assets/tea-name-illustrations/keemun.svg" width="240" height="150" loading="lazy" decoding="async" alt="Slender, dark curled leaves on a dish.">
+    <figcaption><strong class="tea-name-title">Keemun</strong><span class="tea-name-kind">Style · black tea</span><span class="tea-name-note">A fine, twisted dry-leaf example. Black tea is 紅茶.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="yunnan">
+    <img src="assets/tea-name-illustrations/yunnan.svg" width="240" height="150" loading="lazy" decoding="async" alt="North-up schematic map with a dot locating Yunnan in southwestern China; no political boundaries.">
+    <figcaption><strong class="tea-name-title">Yunnan (black tea)</strong><span class="tea-name-kind">Origin / style label · black tea</span><span class="tea-name-note">Yunnan, southwestern China. The map locates the region, not a specific tea garden.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="lapsang-souchong">
+    <img src="assets/tea-name-illustrations/lapsang-souchong.svg" width="240" height="150" loading="lazy" decoding="async" alt="Dark leaves with separate curling lines suggesting smoke aroma.">
+    <figcaption><strong class="tea-name-title">Lapsang Souchong</strong><span class="tea-name-kind">Style · black tea</span><span class="tea-name-note">A smoked-style example. Unsmoked versions also exist.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="puerh-dark">
+    <img src="assets/tea-name-illustrations/puerh-dark.svg" width="240" height="150" loading="lazy" decoding="async" alt="A small compressed tea cake beside loose leaves.">
+    <figcaption><strong class="tea-name-title">Pu-erh / dark tea</strong><span class="tea-name-kind">Named family / tea type</span><span class="tea-name-note">Loose and compressed examples. Sheng and shou differ; dark tea is 黑茶.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="white-tea">
+    <img src="assets/tea-name-illustrations/white-tea.svg" width="240" height="150" loading="lazy" decoding="async" alt="Pale downy-looking buds mixed with larger green-brown leaves.">
+    <figcaption><strong class="tea-name-title">White tea</strong><span class="tea-name-kind">Tea type · white</span><span class="tea-name-note">Buds and leaves are shown. White tea is not always all buds.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="yellow-tea">
+    <img src="assets/tea-name-illustrations/yellow-tea.svg" width="240" height="150" loading="lazy" decoding="async" alt="Slender olive-green buds and leaves on a dish.">
+    <figcaption><strong class="tea-name-title">Yellow tea</strong><span class="tea-name-kind">Tea type · yellow</span><span class="tea-name-note">One loose-leaf example. Processing, not colour, defines the type.</span></figcaption>
+  </figure></li>
+  </ul>
+</details>
+```
+<!-- tea-name-gallery:chinese:end -->
+
 | Label you see | What it usually means | Bridge |
 | --- | --- | --- |
 | **Longjing / Dragon Well** | A well-known **pan-fired Chinese green** style name, the kind that shows up on many menus | It sits on **green** in the map below. See [Chapter 1](modules/module-01/index.qmd). |
@@ -110,6 +170,41 @@ Gongfu as **everyday social staging** (a small pot, and many short pours) is a c
 
 ## Japanese names you will see
 
+<!-- tea-name-gallery:japanese:start -->
+```{=html}
+<details class="tea-name-gallery" data-tea-name-gallery="japanese" open>
+  <summary>Picture shelf · 6 Japanese names</summary>
+  <p class="tea-name-intro">Original schematic examples, not an identification key. Shapes and colours vary; drawings are not to scale. Names, processing and label details matter more than appearance.</p>
+  <ul class="tea-name-grid" role="list">
+  <li><figure class="tea-name-card" data-tea-name="sencha">
+    <img src="assets/tea-name-illustrations/sencha.svg" width="240" height="150" loading="lazy" decoding="async" alt="Narrow green needle-like tea leaves.">
+    <figcaption><strong class="tea-name-title">Sencha</strong><span class="tea-name-kind">Style · green tea</span><span class="tea-name-note">A typical rolled, needle-like leaf example.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="matcha">
+    <img src="assets/tea-name-illustrations/matcha.svg" width="240" height="150" loading="lazy" decoding="async" alt="A mound of green powder beside a bowl of whisked green tea.">
+    <figcaption><strong class="tea-name-title">Matcha</strong><span class="tea-name-kind">Powdered green tea</span><span class="tea-name-note">Fine powder and a whisked bowl. The leaf is drunk, not strained out.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="gyokuro">
+    <img src="assets/tea-name-illustrations/gyokuro.svg" width="240" height="150" loading="lazy" decoding="async" alt="Fine dark-green needle-like tea leaves.">
+    <figcaption><strong class="tea-name-title">Gyokuro</strong><span class="tea-name-kind">Style · green tea</span><span class="tea-name-note">Shade-grown leaves for steeping. Needles alone do not prove the growing method.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="tencha">
+    <img src="assets/tea-name-illustrations/tencha.svg" width="240" height="150" loading="lazy" decoding="async" alt="Thin, irregular green leaf flakes on a dish.">
+    <figcaption><strong class="tea-name-title">Tencha</strong><span class="tea-name-kind">Style · green tea</span><span class="tea-name-note">Unrolled leaf flakes before milling into matcha.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="genmaicha">
+    <img src="assets/tea-name-illustrations/genmaicha.svg" width="240" height="150" loading="lazy" decoding="async" alt="Green tea leaves mixed with tan roasted rice grains.">
+    <figcaption><strong class="tea-name-title">Genmaicha</strong><span class="tea-name-kind">Blend · green tea + rice</span><span class="tea-name-note">Green tea with roasted rice. The rice is an ingredient.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="houjicha">
+    <img src="assets/tea-name-illustrations/houjicha.svg" width="240" height="150" loading="lazy" decoding="async" alt="Brown roasted leaves with short tan stems.">
+    <figcaption><strong class="tea-name-title">Houjicha</strong><span class="tea-name-kind">Roasted style · green tea</span><span class="tea-name-note">A roasted leaf-and-stem example. Brown does not make it black tea.</span></figcaption>
+  </figure></li>
+  </ul>
+</details>
+```
+<!-- tea-name-gallery:japanese:end -->
+
 | Label you see | What it usually means | Bridge |
 | --- | --- | --- |
 | **Sencha** | Everyday Japanese **green**. The leaves are typically **steamed**, then rolled and dried | The **green** map row, and the Basics mini-sheet.[^4] |
@@ -127,6 +222,58 @@ Processing notes for sencha, matcha, and tencha match the Japanese industry type
 
 ## Western and cafe names you will see
 
+<!-- tea-name-gallery:western:start -->
+```{=html}
+<details class="tea-name-gallery" data-tea-name-gallery="western" open>
+  <summary>Picture shelf · 10 Western and cafe names</summary>
+  <p class="tea-name-intro">Original schematic examples, not an identification key. Shapes and colours vary; drawings are not to scale. Names, processing and label details matter more than appearance.</p>
+  <p class="tea-name-map-key">Maps are north-up and use different scales. Dots locate origins approximately, not estates or growing-area boundaries. Coastlines: <a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a>.</p>
+<ul class="tea-name-grid" role="list">
+  <li><figure class="tea-name-card" data-tea-name="english-breakfast">
+    <img src="assets/tea-name-illustrations/english-breakfast.svg" width="240" height="150" loading="lazy" decoding="async" alt="A mix of dark twisted leaves and smaller tea pieces.">
+    <figcaption><strong class="tea-name-title">English Breakfast</strong><span class="tea-name-kind">Blend · usually black tea</span><span class="tea-name-note">A black-tea blend example. Leaf size and recipe vary.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="earl-grey">
+    <img src="assets/tea-name-illustrations/earl-grey.svg" width="240" height="150" loading="lazy" decoding="async" alt="Dark tea leaves with a bergamot citrus fruit shown separately.">
+    <figcaption><strong class="tea-name-title">Earl Grey</strong><span class="tea-name-kind">Flavoured tea · usually black</span><span class="tea-name-note">Bergamot is an aroma cue here. Peel need not be in the tea.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="assam">
+    <img src="assets/tea-name-illustrations/assam.svg" width="240" height="150" loading="lazy" decoding="async" alt="North-up schematic map with a dot locating Assam in northeastern India; no political boundaries.">
+    <figcaption><strong class="tea-name-title">Assam</strong><span class="tea-name-kind">Origin name</span><span class="tea-name-note">Assam, northeast India. A regional locator, not an estate.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="darjeeling">
+    <img src="assets/tea-name-illustrations/darjeeling.svg" width="240" height="150" loading="lazy" decoding="async" alt="North-up schematic map locating Darjeeling in northern West Bengal, India, west of Assam; no political boundaries.">
+    <figcaption><strong class="tea-name-title">Darjeeling</strong><span class="tea-name-kind">Origin name</span><span class="tea-name-note">Darjeeling, northern West Bengal, India. West of Assam, in the Himalayan foothills.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="ceylon-kenyan">
+    <img src="assets/tea-name-illustrations/ceylon-kenyan.svg" width="240" height="150" loading="lazy" decoding="async" alt="Two separately labeled north-up locator maps: Sri Lanka on the left and Kenya in East Africa on the right. Each has an approximate dot; no political boundaries or route.">
+    <figcaption><strong class="tea-name-title">Ceylon / Kenyan</strong><span class="tea-name-kind">Origin name</span><span class="tea-name-note">Left: Sri Lanka (Ceylon). Right: Kenya, East Africa. Two separate origins.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="nilgiri">
+    <img src="assets/tea-name-illustrations/nilgiri.svg" width="240" height="150" loading="lazy" decoding="async" alt="North-up schematic map with a dot locating the Nilgiri Hills in southern India; no political boundaries.">
+    <figcaption><strong class="tea-name-title">Nilgiri</strong><span class="tea-name-kind">Origin name</span><span class="tea-name-note">The Nilgiri Hills in southern India. A regional locator, not an estate.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="masala-chai">
+    <img src="assets/tea-name-illustrations/masala-chai.svg" width="240" height="150" loading="lazy" decoding="async" alt="A cup of tan milk tea with cinnamon and cardamom beside it.">
+    <figcaption><strong class="tea-name-title">Masala chai / chai latte</strong><span class="tea-name-kind">Prepared drink · recipe family</span><span class="tea-name-note">One milky, spiced version. Ingredients and proportions vary.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="milk-tea">
+    <img src="assets/tea-name-illustrations/milk-tea.svg" width="240" height="150" loading="lazy" decoding="async" alt="A ceramic cup and saucer holding caramel-coloured milk tea.">
+    <figcaption><strong class="tea-name-title">Milk tea / Hong Kong style</strong><span class="tea-name-kind">Prepared drink · milk tea</span><span class="tea-name-note">An example cup of black tea with milk. Recipes and colour vary.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="boba">
+    <img src="assets/tea-name-illustrations/boba.svg" width="240" height="150" loading="lazy" decoding="async" alt="A clear glass of milk tea with dark pearls and a wide straw.">
+    <figcaption><strong class="tea-name-title">Bubble / boba tea</strong><span class="tea-name-kind">Prepared drink · toppings</span><span class="tea-name-note">A milk-tea-and-pearls example. Other bases and toppings exist.</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="decaf">
+    <img src="assets/tea-name-illustrations/decaf.svg" width="240" height="150" loading="lazy" decoding="async" alt="An unmarked tea packet beside a generic sample of loose leaves.">
+    <figcaption><strong class="tea-name-title">Decaf tea</strong><span class="tea-name-kind">Treatment · reduced caffeine</span><span class="tea-name-note">You cannot see decaffeination. Check the label; decaf does not mean caffeine-free.</span></figcaption>
+  </figure></li>
+  </ul>
+</details>
+```
+<!-- tea-name-gallery:western:end -->
+
 | Label you see | What it usually means | Bridge |
 | --- | --- | --- |
 | **English Breakfast** | A **blend** of black teas for a strong morning cup. It often uses Assam and/or other robust blacks, and recipes vary | Usually the **black** path. The Cup page has everyday caffeine ranges.[^1] |
@@ -143,6 +290,19 @@ Processing notes for sencha, matcha, and tencha match the Japanese industry type
 ***
 
 ## Six manufactured types (the classification map) {#type-map}
+
+<!-- tea-classification:types:start -->
+```{=html}
+<section class="tea-classification-visual" data-tea-classification="types" aria-labelledby="tea-type-visual-title">
+<p id="tea-type-visual-title" class="tea-classification-title">One plant, six processing families</p>
+<p class="tea-classification-intro">Read these as parallel paths, not one oxidation scale. Each sketch highlights a distinguishing step, not a complete factory recipe.</p>
+<p class="tea-classification-root">Tea plant · Camellia sinensis</p>
+<ul class="tea-classification-grid tea-type-grid"><li><figure class="tea-classification-card" data-tea-classification-card="green"><img src="assets/tea-classification-illustrations/green.svg" width="300" height="160" alt="Leaves in a heated pan, one example of early heat fixation." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Green</strong><span class="tea-classification-note">Early heat limits enzymatic oxidation; shaping and drying finish the tea.</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="yellow"><img src="assets/tea-classification-illustrations/yellow.svg" width="300" height="160" alt="A heated pan leads to a covered bundle, representing yellowing after fixation." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Yellow</strong><span class="tea-classification-note">Early heat, then warm, moist yellowing and drying. The extra yellowing step matters.</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="white"><img src="assets/tea-classification-illustrations/white.svg" width="300" height="160" alt="Leaf laid out on a tray with airflow, representing withering and drying." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">White</strong><span class="tea-classification-note">Wither, then dry. Some oxidation occurs; this is not green tea’s early-heat path.</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="oolong"><img src="assets/tea-classification-illustrations/oolong.svg" width="300" height="160" alt="Leaves move in a basket; a leaf inset has marked edges to suggest bruising and oxidation." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Oolong</strong><span class="tea-classification-note">Bruising and partial oxidation, then heat and drying. The extent varies by style.</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="black"><img src="assets/tea-classification-illustrations/black.svg" width="300" height="160" alt="A rolling tool leads to a tray of leaves exposed to air." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Black · hong cha</strong><span class="tea-classification-note">Rolling or cutting allows extensive enzymatic oxidation; drying finishes the process.</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="dark"><img src="assets/tea-classification-illustrations/dark.svg" width="300" height="160" alt="A covered leaf pile beside an enlarged, symbolic view of microbes." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Dark · hei cha</strong><span class="tea-classification-note">Microbial fermentation and aging are important here. Ripe Pu-erh is a clear example.</span></figcaption></figure></li></ul>
+<p class="tea-classification-caution">Schematic, not a color key or a quality ranking. Raw (sheng) Pu-erh follows a different route from ripe (shou); it changes during storage, and its classification needs that context.</p>
+<p class="tea-classification-sources">Sources for this visual guide: <a href="https://www.iso.org/standard/75419.html">ISO tea classification</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8605308/">processing review</a> · <a href="https://cnafun.moa.gov.cn/zt/gjcr/202005/t20200513_6343917.html">raw / ripe Pu-erh</a></p>
+</section>
+```
+<!-- tea-classification:types:end -->
 
 These teas come from the same plant. Factories stop the browning at different points. Trade lists and standards work often name **six** manufactured types: green, yellow, white, oolong, black, and dark.[^3] The UK Tea & Infusions Association puts the everyday split simply. How long oxidation runs during processing, or whether it runs at all, is what separates black, green, oolong, and white character.[^1]
 
@@ -172,6 +332,26 @@ Standards and processing overviews sort tea by **how it was made**, not by cafe 
 ***
 
 ## Grade languages: particle size and quality-tier words {#grades}
+
+<!-- tea-classification:grades:start -->
+```{=html}
+<section class="tea-classification-visual" data-tea-classification="grades" aria-labelledby="tea-grade-visual-title">
+<p id="tea-grade-visual-title" class="tea-classification-title">Which kind of word is on the packet?</p>
+<p class="tea-classification-intro">Size words and quality tiers answer different questions. Keep manufacturing methods and style names separate too.</p>
+<div class="tea-grade-block">
+<p class="tea-grade-title">Particle-size words</p><p class="tea-grade-question">What form are the sorted leaf particles?</p>
+<ul class="tea-classification-grid tea-grade-sizes"><li><figure class="tea-classification-card" data-tea-classification-card="op"><img src="assets/tea-classification-illustrations/op.svg" width="300" height="160" alt="A dish of long, twisted leaves." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">OP · Orange Pekoe</strong><span class="tea-classification-note">Whole-leaf grade word</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="bop"><img src="assets/tea-classification-illustrations/bop.svg" width="300" height="160" alt="A dish of broken leaf fragments." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">BOP · Broken Orange Pekoe</strong><span class="tea-classification-note">Broken-leaf pieces</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="fannings"><img src="assets/tea-classification-illustrations/fannings.svg" width="300" height="160" alt="A dish of very small leaf fragments." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Fannings</strong><span class="tea-classification-note">Small leaf particles</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="dust"><img src="assets/tea-classification-illustrations/dust.svg" width="300" height="160" alt="A dish of fine brown tea particles, not green matcha powder." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Dust</strong><span class="tea-classification-note">Very fine particles</span></figcaption></figure></li></ul>
+<p class="tea-classification-caution">Illustrative shapes, not universal sieve sizes. Larger does not automatically mean better; finer particles often infuse faster.</p>
+</div>
+<div class="tea-grade-block">
+<p class="tea-grade-title">Manufacturing methods, not size grades</p>
+<ul class="tea-classification-grid tea-grade-methods"><li><figure class="tea-classification-card" data-tea-classification-card="orthodox"><img src="assets/tea-classification-illustrations/orthodox.svg" width="300" height="160" alt="A rolling tool above twisted tea leaves." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Orthodox</strong><span class="tea-classification-note">Rolling can yield whole leaf, broken leaf, fannings and dust after sorting.</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="ctc"><img src="assets/tea-classification-illustrations/ctc.svg" width="300" height="160" alt="Two mechanical rollers above small tea granules." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">CTC · crush, tear, curl</strong><span class="tea-classification-note">A different mechanical method produces granules, which are also sorted by size.</span></figcaption></figure></li></ul>
+</div>
+<ul class="tea-classification-grid tea-grade-other"><li><figure class="tea-classification-card" data-tea-classification-card="tiers"><img src="assets/tea-classification-illustrations/tiers.svg" width="300" height="160" alt="A tea packet with a plain printed label, without medals or ranking symbols." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Quality-tier labels</strong><span class="tea-classification-note">Examples: 特級 / 一級 / 二級. Read the particular tea’s stated standard or grading scheme; these labels do not translate into OP or BOP.</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="shade"><img src="assets/tea-classification-illustrations/shade.svg" width="300" height="160" alt="Tea shoots growing under a shade canopy." loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Style + shade names</strong><span class="tea-classification-note">Gyokuro, tencha and matcha describe shaded growing and finishing styles. They are not OP grades; matcha powder is not the black-tea dust grade.</span></figcaption></figure></li></ul>
+<p class="tea-classification-sources">Sources for this visual guide: <a href="https://teasrilanka.org/tea-grade">Sri Lankan grade examples</a> · <a href="https://www.upasitearesearch.org/orthodox/">orthodox manufacture</a> · <a href="https://www.forestry.gov.cn/c/www/yltl/592556.jhtml">tea-specific quality standards</a> · <a href="https://www.ujicha.or.jp/en/knowledge/kinds/">Japanese tea styles</a></p>
+</section>
+```
+<!-- tea-classification:grades:end -->
 
 Shelf “grade” mixes at least **two** languages. If you separate them, you will not fall for the false story that OP beats BOP “because better,” or that 特級 is a universal quality score that matches Orange Pekoe codes across countries. None of these words is a different species, and none is a moral “best tea” ranking.
 

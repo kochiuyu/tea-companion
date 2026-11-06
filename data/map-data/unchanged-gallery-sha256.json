@@ -1,0 +1,94 @@
+{
+  "longjing": {
+    "content_sha256": "47bf526f8235438f9414924e7a29f9a820851391e12d199b0ccae3024b08a9b7",
+    "art_sha256": "530e645dfa83f6ca98aae70cb59ddf43e7f1a8a4c67d1f7821e24128aa4edab8"
+  },
+  "jasmine-green": {
+    "content_sha256": "6ec35b79f274b64de4485a140ba851b02d8cefe767abc7b77febc866778daaea",
+    "art_sha256": "876c5682c9d6680404294ee65e7e34f63307fc91330790fa5b649ffad6ac2d3d"
+  },
+  "gunpowder": {
+    "content_sha256": "8bb11f7238a224d8b5233103ca9c68681ffc72502c767abe171592e8e5f43e39",
+    "art_sha256": "e1227f74b29e2dbea0cb97e67d17cd168fe586c6de23fe53e2185c8a21358991"
+  },
+  "tieguanyin": {
+    "content_sha256": "722d68de158ef48e2038965d47ade35509300e89231d0f6d09fd76b8e5188b99",
+    "art_sha256": "f02fe01ba850c634f325d11ad118eda3d71b5aa3db0fd5373ef952322ed92e13"
+  },
+  "baozhong": {
+    "content_sha256": "b31806967fe896af2371bd09c252d8d6ec10b2b2b908b12af5b8770e7a67702d",
+    "art_sha256": "f327307e38743ca722f0b20eae44178fe79db093afea564dc3a814889097d93d"
+  },
+  "da-hong-pao": {
+    "content_sha256": "1770ad80959605c001a6f3653fefbf7d23aa4d85c268b36f44dc641ee4af5529",
+    "art_sha256": "fd1eece4a74a43756b0ab2d67fe4afa9d4dc47df38d165be15b405ea34248367"
+  },
+  "keemun": {
+    "content_sha256": "5e8b5279cfcc7cd8c05ca905ed055ee6263012083c4d6d4f8ed8d59445d666a9",
+    "art_sha256": "02c12757119260f0b2a3a176ab8c0940c8c932799479e9f3f60630bcc8cd9153"
+  },
+  "lapsang-souchong": {
+    "content_sha256": "343caaf60f8599ee28d93b85645577be4ca56b51c125bc2fc60838204217239c",
+    "art_sha256": "049423517142033ac7d6fbc1d7c762a7941236ba5514a2aea1d11f8feb5efc10"
+  },
+  "puerh-dark": {
+    "content_sha256": "433a600a69ccba924e239a8c1d28cc1c8941a9e36a719c0ca8a5e8fd3eee1a40",
+    "art_sha256": "603069e2e66076e65ac2e6617563b264e367d404da2491477d62dd0943d56fcc"
+  },
+  "white-tea": {
+    "content_sha256": "e7ee190ff0a725a811b1bb319c50fea1b900aefffa03cd6f61f28a0a2d45f48a",
+    "art_sha256": "379087d1416f0fcbdaf04dae6e3417d0a70265c9bac7c372f7261a41b62b2c18"
+  },
+  "yellow-tea": {
+    "content_sha256": "ed060e1bed0b946a93d50a46418bb676c21af928383eada234f2f04e8553f46a",
+    "art_sha256": "b5ccf262532d0e9055bace598e571bec71fd4c0544451cf0fc4dfcef1d283b2b"
+  },
+  "sencha": {
+    "content_sha256": "36506e0118e0b18c85d611825b35bff09154e7f2c9a46e38dfaa07272eab21ba",
+    "art_sha256": "304e43a45756e96ea8a8bf17f33323f7ba06666039ea4492c76d4d78e61ca256"
+  },
+  "matcha": {
+    "content_sha256": "22139334458cce81def9354f2761ff4f6905ce25f81ef47b4a243280acf44b5d",
+    "art_sha256": "69d25207af3e92f433caebba16e5a1ab80f0515dd78e746d4caa156ee00d125d"
+  },
+  "gyokuro": {
+    "content_sha256": "9792ed51dacb26c55322e86418f669407d76478422e978b9602252ec16d81ad5",
+    "art_sha256": "e49df8aff9c2828d6adc7c4c041ae7b87b18e0798434202676a62add202c97e7"
+  },
+  "tencha": {
+    "content_sha256": "a89bebb9592ea2684d3437cfad06c7dc6d3d7241a6e552ad0cdda9393a324ff3",
+    "art_sha256": "e95f73d2a48d3b72e000e6eafb9af2406adcd82f0819908158308116f4da2bad"
+  },
+  "genmaicha": {
+    "content_sha256": "01f4aab02b377dcb8c89fe1bc0bf766bd68f718579a56da3fb22109b3bf7795f",
+    "art_sha256": "b4e5ef0a4fabecbd0c12d55a4f345c6fb083feaa717c5bd17da9f00f7473b25d"
+  },
+  "houjicha": {
+    "content_sha256": "34398fa629198ebcb020cfe9e89ce175beb17f4e93cd972eeefaa01d8f12bc0f",
+    "art_sha256": "3839082f205e1d7629410e6b464c544bb2d1077e074002b7c0e6492b777f9a05"
+  },
+  "english-breakfast": {
+    "content_sha256": "beed58eb3de0af8fa5008e0297e5b9ed4d736743f5d0befc5cf5f268405f1459",
+    "art_sha256": "6795ed6a6724f0f18267794b551bc863f78028706790d7ec8af6a44fa30ca359"
+  },
+  "earl-grey": {
+    "content_sha256": "eb8528ebe7242a6fcff57915f78187fb68a628d6b1b8b9968774984829a9c873",
+    "art_sha256": "6ccc102a5521840c22e8cf98b28d928428e340aae2a2901a0c345e754d4feecc"
+  },
+  "masala-chai": {
+    "content_sha256": "c300fa44c4494c97ea13488acfbefc3e0a3d51cc6b7dc480e5db082190bfdcc8",
+    "art_sha256": "bda5cd909e7ea0e69208dedfef496c5b75587c3ae9d4cbd5ee934d07fb62aaf8"
+  },
+  "milk-tea": {
+    "content_sha256": "7d5f293ba6b3bfbc3b86a858591ea2c56bc93be5d11232551550f725dd798463",
+    "art_sha256": "9e735fa5c709495a7a4cb717ec49bb208995e8e592f231547f94188374e3043d"
+  },
+  "boba": {
+    "content_sha256": "e5e6841be81e774f458eed166a8cf3d47afb5864d663ff94de5da977ad6a4716",
+    "art_sha256": "87355ddc2cd8c3e07e2c3e3d5563e25b2f9858e1605a6b0126d627d0f9e0858c"
+  },
+  "decaf": {
+    "content_sha256": "dab6a51c48803231fde62ac011fa332b19eb433b876b09a4dd5bbfd77c67ac2f",
+    "art_sha256": "6573af513a3a6306547b290687800a335bd924d23cc34b70ace7588095240e61"
+  }
+}

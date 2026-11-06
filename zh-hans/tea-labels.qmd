@@ -97,6 +97,66 @@ lang: zh-Hans
 
 ## 常见中文名
 
+<!-- tea-name-gallery:chinese:start -->
+```{=html}
+<details class="tea-name-gallery" data-tea-name-gallery="chinese" open>
+  <summary>图像茶架 · 12 个中文名</summary>
+  <p class="tea-name-intro">原创示意图，不是鉴别图鉴。形状与颜色会有差别，图像不按比例；茶名、工序与标签资料比外观更重要。</p>
+  <p class="tea-name-map-key">地图上北下南，各图比例不同。圆点只标产地的大致位置，不代表茶园或产区边界。海岸线资料：<a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a>.</p>
+<ul class="tea-name-grid" role="list">
+  <li><figure class="tea-name-card" data-tea-name="longjing">
+    <img src="../assets/tea-name-illustrations/longjing.svg" width="240" height="150" loading="lazy" decoding="async" alt="浅碟上的扁长绿茶叶。">
+    <figcaption><strong class="tea-name-title">龙井（Longjing）</strong><span class="tea-name-kind">做法 · 绿茶</span><span class="tea-name-note">常见的扁平叶形示例；形状与颜色会有差别。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="jasmine-green">
+    <img src="../assets/tea-name-illustrations/jasmine-green.svg" width="240" height="150" loading="lazy" decoding="async" alt="碟上的绿茶叶，旁边另画一朵茉莉花。">
+    <figcaption><strong class="tea-name-title">茉莉绿茶</strong><span class="tea-name-kind">窨香茶 · 绿茶底</span><span class="tea-name-note">旁边的花只提示香气；成茶不一定留有花朵。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="gunpowder">
+    <img src="../assets/tea-name-illustrations/gunpowder.svg" width="240" height="150" loading="lazy" decoding="async" alt="散在碟上的绿色小茶珠。">
+    <figcaption><strong class="tea-name-title">珠茶（Gunpowder）</strong><span class="tea-name-kind">做法 · 绿茶</span><span class="tea-name-note">冲泡前，揉成小珠粒的叶子。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="tieguanyin">
+    <img src="../assets/tea-name-illustrations/tieguanyin.svg" width="240" height="150" loading="lazy" decoding="async" alt="形状不一、揉得紧实的青绿色茶叶。">
+    <figcaption><strong class="tea-name-title">铁观音</strong><span class="tea-name-kind">做法 · 乌龙茶</span><span class="tea-name-note">揉成球状的一例；焙火与氧化程度各有不同。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="baozhong">
+    <img src="../assets/tea-name-illustrations/baozhong.svg" width="240" height="150" loading="lazy" decoding="async" alt="碟上松卷而细长的绿色茶叶。">
+    <figcaption><strong class="tea-name-title">包种</strong><span class="tea-name-kind">做法 · 乌龙茶</span><span class="tea-name-note">松卷条形的叶子示例，不是紧实球形。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="da-hong-pao">
+    <img src="../assets/tea-name-illustrations/da-hong-pao.svg" width="240" height="150" loading="lazy" decoding="async" alt="浅碟上深色而扭卷的长茶叶。">
+    <figcaption><strong class="tea-name-title">大红袍</strong><span class="tea-name-kind">做法 · 乌龙茶</span><span class="tea-name-note">武夷岩茶的一例：色深、扭卷的条索。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="keemun">
+    <img src="../assets/tea-name-illustrations/keemun.svg" width="240" height="150" loading="lazy" decoding="async" alt="碟上纤细而深色的卷曲茶叶。">
+    <figcaption><strong class="tea-name-title">祁门（Keemun）</strong><span class="tea-name-kind">做法 · 红茶</span><span class="tea-name-note">细条卷曲的干叶示例；英文 black tea 是红茶。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="yunnan">
+    <img src="../assets/tea-name-illustrations/yunnan.zh-hans.svg" width="240" height="150" loading="lazy" decoding="async" alt="上北下南的示意地图，以圆点标出中国西南部云南的大致位置，不画政治边界。">
+    <figcaption><strong class="tea-name-title">云南（作红茶词用时）</strong><span class="tea-name-kind">产地／做法名 · 红茶</span><span class="tea-name-note">中国西南部的云南。地图标示大致位置，不是特定茶园。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="lapsang-souchong">
+    <img src="../assets/tea-name-illustrations/lapsang-souchong.svg" width="240" height="150" loading="lazy" decoding="async" alt="深色茶叶旁另有卷曲线条，提示烟熏香气。">
+    <figcaption><strong class="tea-name-title">正山小种（Lapsang Souchong）</strong><span class="tea-name-kind">做法 · 红茶</span><span class="tea-name-note">这里示意烟熏型；也有不经烟熏的版本。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="puerh-dark">
+    <img src="../assets/tea-name-illustrations/puerh-dark.svg" width="240" height="150" loading="lazy" decoding="async" alt="小茶饼与散茶并列。">
+    <figcaption><strong class="tea-name-title">普洱／黑茶</strong><span class="tea-name-kind">茶名／茶类</span><span class="tea-name-note">散茶与紧压茶示例；生、熟茶不同。Dark tea 是黑茶。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="white-tea">
+    <img src="../assets/tea-name-illustrations/white-tea.svg" width="240" height="150" loading="lazy" decoding="async" alt="浅色绒芽与较大的绿褐色叶子。">
+    <figcaption><strong class="tea-name-title">白茶</strong><span class="tea-name-kind">茶类 · 白茶</span><span class="tea-name-note">图中有芽也有叶；白茶不一定全是芽。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="yellow-tea">
+    <img src="../assets/tea-name-illustrations/yellow-tea.svg" width="240" height="150" loading="lazy" decoding="async" alt="碟上细长、橄榄绿色的芽叶。">
+    <figcaption><strong class="tea-name-title">黄茶</strong><span class="tea-name-kind">茶类 · 黄茶</span><span class="tea-name-note">一份散茶示例；分类看工序，不只看颜色。</span></figcaption>
+  </figure></li>
+  </ul>
+</details>
+```
+<!-- tea-name-gallery:chinese:end -->
+
 | 你看到的标签 | 一般是什么意思 | 桥去哪 |
 | --- | --- | --- |
 | **龙井（Longjing / Dragon Well）** | 许多菜单上都能见到的**炒青中国绿茶**做法名 | 落在下面地图的**绿**。见 [第一章](modules/module-01/index.qmd) |
@@ -120,6 +180,41 @@ lang: zh-Hans
 
 ## 常见日文名
 
+<!-- tea-name-gallery:japanese:start -->
+```{=html}
+<details class="tea-name-gallery" data-tea-name-gallery="japanese" open>
+  <summary>图像茶架 · 6 个日文名</summary>
+  <p class="tea-name-intro">原创示意图，不是鉴别图鉴。形状与颜色会有差别，图像不按比例；茶名、工序与标签资料比外观更重要。</p>
+  <ul class="tea-name-grid" role="list">
+  <li><figure class="tea-name-card" data-tea-name="sencha">
+    <img src="../assets/tea-name-illustrations/sencha.svg" width="240" height="150" loading="lazy" decoding="async" alt="细窄如针的绿色茶叶。">
+    <figcaption><strong class="tea-name-title">煎茶（Sencha）</strong><span class="tea-name-kind">做法 · 绿茶</span><span class="tea-name-note">常见的揉卷针形茶叶示例。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="matcha">
+    <img src="../assets/tea-name-illustrations/matcha.svg" width="240" height="150" loading="lazy" decoding="async" alt="一小堆绿色茶粉，旁边是一碗搅拌好的绿茶。">
+    <figcaption><strong class="tea-name-title">抹茶（Matcha）</strong><span class="tea-name-kind">粉末绿茶</span><span class="tea-name-note">细粉与搅拌后的一碗茶；叶粉一起喝下，不滤走。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="gyokuro">
+    <img src="../assets/tea-name-illustrations/gyokuro.svg" width="240" height="150" loading="lazy" decoding="async" alt="细长、深绿色的针形茶叶。">
+    <figcaption><strong class="tea-name-title">玉露（Gyokuro）</strong><span class="tea-name-kind">做法 · 绿茶</span><span class="tea-name-note">遮荫后制成的冲泡茶叶；针形本身不能证明种植方法。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="tencha">
+    <img src="../assets/tea-name-illustrations/tencha.svg" width="240" height="150" loading="lazy" decoding="async" alt="碟上薄而形状不一的绿色叶片。">
+    <figcaption><strong class="tea-name-title">碾茶（Tencha）</strong><span class="tea-name-kind">做法 · 绿茶</span><span class="tea-name-note">磨成抹茶之前、未经揉捻的片状茶叶。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="genmaicha">
+    <img src="../assets/tea-name-illustrations/genmaicha.svg" width="240" height="150" loading="lazy" decoding="async" alt="绿茶叶与黄褐色炒米混合。">
+    <figcaption><strong class="tea-name-title">玄米茶（Genmaicha）</strong><span class="tea-name-kind">拼配 · 绿茶＋米</span><span class="tea-name-note">绿茶加炒米；这里的米确实是配料。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="houjicha">
+    <img src="../assets/tea-name-illustrations/houjicha.svg" width="240" height="150" loading="lazy" decoding="async" alt="褐色焙茶叶，混有短短的浅褐色茶梗。">
+    <figcaption><strong class="tea-name-title">焙茶（Houjicha）</strong><span class="tea-name-kind">焙火做法 · 绿茶</span><span class="tea-name-note">焙过的叶与茶梗示例；褐色不等于红茶。</span></figcaption>
+  </figure></li>
+  </ul>
+</details>
+```
+<!-- tea-name-gallery:japanese:end -->
+
 | 你看到的标签 | 一般是什么意思 | 桥去哪 |
 | --- | --- | --- |
 | **煎茶（Sencha）** | 日本人日常喝的**绿茶**。叶子多半先**蒸**，然后再揉，再烘干 | 地图上的**绿**那一行。入门页还有一张迷你表[^4] |
@@ -137,6 +232,58 @@ lang: zh-Hans
 
 ## 常见西方与咖啡馆名
 
+<!-- tea-name-gallery:western:start -->
+```{=html}
+<details class="tea-name-gallery" data-tea-name-gallery="western" open>
+  <summary>图像茶架 · 10 个西方与咖啡馆常见茶饮名称</summary>
+  <p class="tea-name-intro">原创示意图，不是鉴别图鉴。形状与颜色会有差别，图像不按比例；茶名、工序与标签资料比外观更重要。</p>
+  <p class="tea-name-map-key">地图上北下南，各图比例不同。圆点只标产地的大致位置，不代表茶园或产区边界。海岸线资料：<a href="https://www.naturalearthdata.com/about/terms-of-use/">Natural Earth</a>.</p>
+<ul class="tea-name-grid" role="list">
+  <li><figure class="tea-name-card" data-tea-name="english-breakfast">
+    <img src="../assets/tea-name-illustrations/english-breakfast.svg" width="240" height="150" loading="lazy" decoding="async" alt="深色条形叶与较小碎茶的混合。">
+    <figcaption><strong class="tea-name-title">英式早餐茶（English Breakfast）</strong><span class="tea-name-kind">拼配 · 通常是红茶</span><span class="tea-name-note">红茶拼配示例；叶片大小和配方会不同。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="earl-grey">
+    <img src="../assets/tea-name-illustrations/earl-grey.svg" width="240" height="150" loading="lazy" decoding="async" alt="深色茶叶，旁边另画一颗佛手柑果实。">
+    <figcaption><strong class="tea-name-title">伯爵茶（Earl Grey）</strong><span class="tea-name-kind">调香茶 · 通常是红茶</span><span class="tea-name-note">佛手柑只提示香气；茶里不一定有果皮。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="assam">
+    <img src="../assets/tea-name-illustrations/assam.zh-hans.svg" width="240" height="150" loading="lazy" decoding="async" alt="上北下南的示意地图，以圆点标出印度东北部阿萨姆的大致位置，不画政治边界。">
+    <figcaption><strong class="tea-name-title">阿萨姆（Assam）</strong><span class="tea-name-kind">产地名</span><span class="tea-name-note">印度东北部的阿萨姆。只标大致位置，不是茶园。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="darjeeling">
+    <img src="../assets/tea-name-illustrations/darjeeling.zh-hans.svg" width="240" height="150" loading="lazy" decoding="async" alt="上北下南的示意地图，标出印度西孟加拉邦北部、阿萨姆以西的大吉岭，不画政治边界。">
+    <figcaption><strong class="tea-name-title">大吉岭（Darjeeling）</strong><span class="tea-name-kind">产地名</span><span class="tea-name-note">印度西孟加拉邦北部的大吉岭，在阿萨姆以西、喜马拉雅山麓。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="ceylon-kenyan">
+    <img src="../assets/tea-name-illustrations/ceylon-kenyan.zh-hans.svg" width="240" height="150" loading="lazy" decoding="async" alt="两幅分别标名、上北下南的示意地图：左边是斯里兰卡，右边是东非肯尼亚；各有大致位置圆点，不画政治边界或路线。">
+    <figcaption><strong class="tea-name-title">锡兰／肯尼亚（Ceylon / Kenyan）</strong><span class="tea-name-kind">产地名</span><span class="tea-name-note">左：斯里兰卡（锡兰）。右：东非肯尼亚。这是两个不同产地。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="nilgiri">
+    <img src="../assets/tea-name-illustrations/nilgiri.zh-hans.svg" width="240" height="150" loading="lazy" decoding="async" alt="上北下南的示意地图，以圆点标出印度南部尼尔吉里山区的大致位置，不画政治边界。">
+    <figcaption><strong class="tea-name-title">尼尔吉里（Nilgiri）</strong><span class="tea-name-kind">产地名</span><span class="tea-name-note">印度南部的尼尔吉里山区。只标大致位置，不是茶园。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="masala-chai">
+    <img src="../assets/tea-name-illustrations/masala-chai.svg" width="240" height="150" loading="lazy" decoding="async" alt="一杯浅褐色奶茶，旁边放着肉桂与豆蔻。">
+    <figcaption><strong class="tea-name-title">马萨拉茶／印度奶茶拿铁</strong><span class="tea-name-kind">调制饮品 · 配方家族</span><span class="tea-name-note">加奶与香料的一例；材料与比例各有不同。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="milk-tea">
+    <img src="../assets/tea-name-illustrations/milk-tea.svg" width="240" height="150" loading="lazy" decoding="async" alt="陶瓷杯碟，杯里是焦糖色的奶茶。">
+    <figcaption><strong class="tea-name-title">奶茶／港式奶茶</strong><span class="tea-name-kind">调制饮品 · 奶茶</span><span class="tea-name-note">红茶加奶的一杯示例；配方与颜色会不同。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="boba">
+    <img src="../assets/tea-name-illustrations/boba.svg" width="240" height="150" loading="lazy" decoding="async" alt="透明杯中的奶茶、深色珍珠与粗吸管。">
+    <figcaption><strong class="tea-name-title">珍珠奶茶／波霸</strong><span class="tea-name-kind">调制饮品 · 加配料</span><span class="tea-name-note">奶茶加珍珠的一例；也有其他茶底与配料。</span></figcaption>
+  </figure></li>
+  <li><figure class="tea-name-card" data-tea-name="decaf">
+    <img src="../assets/tea-name-illustrations/decaf.svg" width="240" height="150" loading="lazy" decoding="async" alt="无字茶包装旁的一份示意散茶。">
+    <figcaption><strong class="tea-name-title">低因茶（Decaf）</strong><span class="tea-name-kind">处理方式 · 减少咖啡因</span><span class="tea-name-note">外观看不出低因处理；要读标签，也不代表零咖啡因。</span></figcaption>
+  </figure></li>
+  </ul>
+</details>
+```
+<!-- tea-name-gallery:western:end -->
+
 | 你看到的标签 | 一般是什么意思 | 桥去哪 |
 | --- | --- | --- |
 | **英式早餐茶（English Breakfast）** | 为浓口早茶配的**红茶拼配**。里面常有阿萨姆等红茶，配方则因牌子而不同 | 通常走**红**这条路线。日常的咖啡因范围，看杯量参考[^1] |
@@ -153,6 +300,19 @@ lang: zh-Hans
 ***
 
 ## 六大成品茶类（分类地图） {#type-map}
+
+<!-- tea-classification:types:start -->
+```{=html}
+<section class="tea-classification-visual" data-tea-classification="types" aria-labelledby="tea-type-visual-title">
+<p id="tea-type-visual-title" class="tea-classification-title">同一种茶树，六类加工路线</p>
+<p class="tea-classification-intro">把它们看成并列路线，不是一条氧化刻度。每幅图只突出关键工序，不是完整制茶流程。</p>
+<p class="tea-classification-root">茶树 · Camellia sinensis</p>
+<ul class="tea-classification-grid tea-type-grid"><li><figure class="tea-classification-card" data-tea-classification-card="green"><img src="../assets/tea-classification-illustrations/green.svg" width="300" height="160" alt="叶子在加热的锅中，示意早期杀青的一种方式。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">绿茶</strong><span class="tea-classification-note">先加热抑制酶促氧化，再经整形、干燥等工序。</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="yellow"><img src="../assets/tea-classification-illustrations/yellow.svg" width="300" height="160" alt="加热锅连到包裹的茶叶，示意杀青后闷黄。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">黄茶</strong><span class="tea-classification-note">先杀青，再闷黄、干燥。重点是多了温热湿润的闷黄工序。</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="white"><img src="../assets/tea-classification-illustrations/white.svg" width="300" height="160" alt="茶叶摊放在托盘上，气流表示萎凋与干燥。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">白茶</strong><span class="tea-classification-note">萎凋后干燥，当中会有一定氧化；不是绿茶先杀青的路线。</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="oolong"><img src="../assets/tea-classification-illustrations/oolong.svg" width="300" height="160" alt="茶叶在篮中翻动，旁边放大的叶缘标示碰伤与氧化。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">乌龙茶</strong><span class="tea-classification-note">做青、部分氧化，再杀青、干燥。氧化程度因做法而异。</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="black"><img src="../assets/tea-classification-illustrations/black.svg" width="300" height="160" alt="揉捻工具连到接触空气的茶叶托盘。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">红茶 · black tea</strong><span class="tea-classification-note">揉捻或切碎后充分酶促氧化，最后干燥。</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="dark"><img src="../assets/tea-classification-illustrations/dark.svg" width="300" height="160" alt="一堆覆盖的茶叶，旁边以放大示意图表示微生物。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">黑茶 · dark tea</strong><span class="tea-classification-note">这一支重视微生物发酵与陈化；熟普洱是清楚的例子。</span></figcaption></figure></li></ul>
+<p class="tea-classification-caution">示意图不是靠颜色认茶的图鉴，也不是品质排名。生普洱与熟普洱的加工路线不同；生茶会在储存中变化，分类时须交代这个背景。</p>
+<p class="tea-classification-sources">本图解资料来源： <a href="https://www.iso.org/standard/75419.html">ISO 茶叶分类</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8605308/">加工综述</a> · <a href="https://cnafun.moa.gov.cn/zt/gjcr/202005/t20200513_6343917.html">生／熟普洱</a></p>
+</section>
+```
+<!-- tea-classification:types:end -->
 
 这些茶来自同一种植物。工厂在不同的节点让褐变停下来。贸易名单和标准方面的工作，常常会点出**六类**成品：绿、黄、白、乌龙、红、黑。[^3] 英国茶与浸泡饮协会把日常的分法说得很直白。加工的时候氧化走了多久，或者根本没有走，就把红茶、绿茶、乌龙和白茶的杯感分开了。[^1]
 
@@ -182,6 +342,26 @@ lang: zh-Hans
 ***
 
 ## 等级用语：颗粒大小与品质档次词 {#grades}
+
+<!-- tea-classification:grades:start -->
+```{=html}
+<section class="tea-classification-visual" data-tea-classification="grades" aria-labelledby="tea-grade-visual-title">
+<p id="tea-grade-visual-title" class="tea-classification-title">包装上的词，属于哪一种？</p>
+<p class="tea-classification-intro">大小词与品质档次回答的是不同问题；制法和做法名称也要分开。</p>
+<div class="tea-grade-block">
+<p class="tea-grade-title">颗粒大小用语</p><p class="tea-grade-question">筛分后的茶叶颗粒，是什么形态？</p>
+<ul class="tea-classification-grid tea-grade-sizes"><li><figure class="tea-classification-card" data-tea-classification-card="op"><img src="../assets/tea-classification-illustrations/op.svg" width="300" height="160" alt="一碟长而卷曲的茶叶。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">OP · 橙白毫</strong><span class="tea-classification-note">全叶类等级词</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="bop"><img src="../assets/tea-classification-illustrations/bop.svg" width="300" height="160" alt="一碟碎茶叶片。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">BOP · 碎橙白毫</strong><span class="tea-classification-note">碎叶片</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="fannings"><img src="../assets/tea-classification-illustrations/fannings.svg" width="300" height="160" alt="一碟细小的碎茶颗粒。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Fannings · 碎茶</strong><span class="tea-classification-note">细小茶叶颗粒</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="dust"><img src="../assets/tea-classification-illustrations/dust.svg" width="300" height="160" alt="一碟细小的褐色茶叶颗粒，不是绿色抹茶粉。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">Dust · 末茶</strong><span class="tea-classification-note">很细的茶叶颗粒</span></figcaption></figure></li></ul>
+<p class="tea-classification-caution">形状只作示意，不代表通用筛孔尺寸。较大不一定较好；较细的颗粒往往浸出较快。</p>
+</div>
+<div class="tea-grade-block">
+<p class="tea-grade-title">制法，不是颗粒等级</p>
+<ul class="tea-classification-grid tea-grade-methods"><li><figure class="tea-classification-card" data-tea-classification-card="orthodox"><img src="../assets/tea-classification-illustrations/orthodox.svg" width="300" height="160" alt="揉捻工具下方是卷曲的茶叶。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">传统制法 · Orthodox</strong><span class="tea-classification-note">揉捻后再筛分，可以得到全叶、碎叶、碎茶及末茶。</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="ctc"><img src="../assets/tea-classification-illustrations/ctc.svg" width="300" height="160" alt="两个机械滚筒下方是细小茶颗粒。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">CTC · 切碎揉捻</strong><span class="tea-classification-note">另一种机械加工路线形成颗粒，之后同样会按大小筛分。</span></figcaption></figure></li></ul>
+</div>
+<ul class="tea-classification-grid tea-grade-other"><li><figure class="tea-classification-card" data-tea-classification-card="tiers"><img src="../assets/tea-classification-illustrations/tiers.svg" width="300" height="160" alt="带有普通标签的茶包装，没有奖章或排名符号。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">品质档次标签</strong><span class="tea-classification-note">例如：特级／一级／二级。要看该茶所用的标准或分级方法；这些词不能换算成 OP 或 BOP。</span></figcaption></figure></li><li><figure class="tea-classification-card" data-tea-classification-card="shade"><img src="../assets/tea-classification-illustrations/shade.svg" width="300" height="160" alt="遮荫棚下生长的茶梢。" loading="lazy" decoding="async"><figcaption><strong class="tea-classification-name">做法＋遮荫名称</strong><span class="tea-classification-note">玉露、碾茶、抹茶描述遮荫栽培与加工做法，不是 OP 等级；抹茶粉也不是红茶的末茶等级。</span></figcaption></figure></li></ul>
+<p class="tea-classification-sources">本图解资料来源： <a href="https://teasrilanka.org/tea-grade">斯里兰卡分级例子</a> · <a href="https://www.upasitearesearch.org/orthodox/">传统制法</a> · <a href="https://www.forestry.gov.cn/c/www/yltl/592556.jhtml">个别茶类的品质标准</a> · <a href="https://www.ujicha.or.jp/en/knowledge/kinds/">日本茶做法</a></p>
+</section>
+```
+<!-- tea-classification:grades:end -->
 
 货架上的“等级”，至少混着**两套**说法。先把它们分开，才不会误以为橙白毫一定胜过碎橙白毫，理由只是“因为更好”；也不会把特级当成各国通用的品质分数，拿去跟橙白毫的代码对照。这些词都不是另一个物种，也不是道德意义上的“最好茶”排名。
 

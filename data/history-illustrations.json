@@ -1,0 +1,295 @@
+{
+  "base_commit": "9a2cba35fb4173270dd02948bb60c006a7a76556",
+  "width": 760,
+  "height": 320,
+  "placements": [
+    {
+      "id": "history-cabinet",
+      "page": "modules/module-03/index.qmd",
+      "anchor": {
+        "en": "<!-- reader-guide:end -->",
+        "zh-hant-hk": "<!-- reader-guide:end -->",
+        "zh-hans": "<!-- reader-guide:end -->"
+      },
+      "title": {
+        "en": "A history made by many people",
+        "zh-hant-hk": "許多人共同寫成的茶史",
+        "zh-hans": "许多人共同写成的茶史"
+      },
+      "alt": {
+        "en": "An illustrated collection of trade, tea practice, growing and serving objects.",
+        "zh-hant-hk": "一組描繪貿易、飲茶、種植與奉茶的插畫。",
+        "zh-hans": "一组描绘贸易、饮茶、种植与奉茶的插画。"
+      },
+      "caption": {
+        "en": "Follow the leaf through trade, shared practice, plantation work and everyday tables. These original illustrations introduce the chapter’s themes; they are not historical artifacts or reconstructions.",
+        "zh-hant-hk": "沿着茶葉，走過貿易、共同實踐、種植園勞動與日常茶桌。這些原創插畫介紹本章主題，並非歷史文物或現場復原。",
+        "zh-hans": "沿着茶叶，走过贸易、共同实践、种植园劳动与日常茶桌。这些原创插画介绍本章主题，并非历史文物或现场复原。"
+      }
+    },
+    {
+      "id": "canton-exchange",
+      "page": "modules/module-03/01-trade-history.qmd",
+      "anchor": {
+        "en": "## A cheap bag with an expensive past",
+        "zh-hant-hk": "## 便宜的茶包，昂貴的過去",
+        "zh-hans": "## 便宜茶包，昂贵的过去"
+      },
+      "title": {
+        "en": "Before the supermarket shelf",
+        "zh-hant-hk": "超市貨架之前",
+        "zh-hans": "超市货架之前"
+      },
+      "alt": {
+        "en": "Tea chests, silver and a merchant’s desk beside a schematic harbor.",
+        "zh-hant-hk": "茶箱、白銀與商人書桌，旁邊是示意港口。",
+        "zh-hans": "茶箱、白银与商人书桌，旁边是示意港口。"
+      },
+      "caption": {
+        "en": "Tea chests and silver bring the counting-house story into view. The objects are visual cues, not an inventory, a scale comparison or a reconstruction of Canton.",
+        "zh-hant-hk": "茶箱與白銀，把帳房裏的故事帶到眼前。物件只是視覺提示，不是貨單、數量比例或廣州港的復原圖。",
+        "zh-hans": "茶箱与白银，把账房里的故事带到眼前。物件只是视觉提示，不是货单、数量比例或广州港的复原图。"
+      }
+    },
+    {
+      "id": "treaty-ports",
+      "page": "modules/module-03/01-trade-history.qmd",
+      "anchor": {
+        "en": "## War, treaty, and open ports",
+        "zh-hant-hk": "## 戰爭、條約與通商口岸",
+        "zh-hans": "## 战争、条约与通商口岸"
+      },
+      "title": {
+        "en": "A treaty changes the rules",
+        "zh-hant-hk": "條約改寫規則",
+        "zh-hans": "条约改写规则"
+      },
+      "alt": {
+        "en": "An illustrated document, harbor buildings and a ship, bringing written rules and maritime power together.",
+        "zh-hant-hk": "文件、港口建築與船隻的插畫，把書面規則與海上力量並置。",
+        "zh-hans": "文件、港口建筑与船只的插画，把书面规则与海上力量并置。"
+      },
+      "caption": {
+        "en": "War and the Treaty of Nanking changed trading rights, imposed an indemnity and ceded Hong Kong Island. This symbolic scene is neither a treaty facsimile nor a map of the five ports.",
+        "zh-hant-hk": "戰爭與《南京條約》改變貿易權利、施加賠款，並割讓香港島。這是象徵性場景，並非條約摹本或五口地圖。",
+        "zh-hans": "战争与《南京条约》改变贸易权利、施加赔款，并割让香港岛。这是象征性场景，并非条约摹本或五口地图。"
+      }
+    },
+    {
+      "id": "plant-knowledge",
+      "page": "modules/module-03/01-trade-history.qmd",
+      "anchor": {
+        "en": "## The Fortune myth, corrected",
+        "zh-hant-hk": "## 更正福鈞的神話",
+        "zh-hans": "## 纠正福琼的神话"
+      },
+      "title": {
+        "en": "Plants travel with knowledge",
+        "zh-hant-hk": "茶樹與知識同行",
+        "zh-hans": "茶树与知识同行"
+      },
+      "alt": {
+        "en": "A glass plant-transport case beside two tea makers working with leaves on a tray.",
+        "zh-hant-hk": "玻璃植物運輸箱旁，兩位製茶者在盤上處理茶葉。",
+        "zh-hans": "玻璃植物运输箱旁，两位制茶者在盘上处理茶叶。"
+      },
+      "caption": {
+        "en": "Singhpho communities already knew and grew Assam tea before Fortune’s later missions. The glass case and tools evoke the transfer of Chinese plants and skilled knowledge, not the beginning of tea in India.",
+        "zh-hant-hk": "在福鈞後來的任務之前，Singhpho 社群早已認識並種植阿薩姆茶。玻璃箱與工具提示中國茶樹及技藝的轉移，並不代表印度茶史的起點。",
+        "zh-hans": "在福琼后来的任务之前，Singhpho 社群早已认识并种植阿萨姆茶。玻璃箱与工具提示中国茶树及技艺的转移，并不代表印度茶史的起点。"
+      }
+    },
+    {
+      "id": "trade-loop",
+      "page": "modules/module-03/01-trade-history.qmd",
+      "anchor": {
+        "en": "## The silver–opium loop, in four beats",
+        "zh-hant-hk": "## 白銀與鴉片的循環，四拍看完",
+        "zh-hans": "## 白银与鸦片的循环，四拍看完"
+      },
+      "title": {
+        "en": "Follow the goods and the payment",
+        "zh-hant-hk": "跟着貨物與付款走",
+        "zh-hans": "跟着货物与付款走"
+      },
+      "alt": {
+        "en": "A tea cup, silver, a cargo chest, a symbolic poppy pod and a document arranged in a circle.",
+        "zh-hant-hk": "茶杯、白銀、貨箱、象徵性的罌粟蒴果與文件，圍成一圈。",
+        "zh-hans": "茶杯、白银、货箱、象征性的罂粟蒴果与文件，围成一圈。"
+      },
+      "caption": {
+        "en": "British demand drew tea from China; opium from British India was smuggled into China and sold for silver that helped pay for tea. Read the four steps below for the sequence. The drawing is not a route map or a claim that tea alone caused war.",
+        "zh-hant-hk": "英國需求帶動中國茶外銷；英屬印度的鴉片走私到中國出售，所得白銀用來購茶。次序請看下方四步。插畫不是航線圖，也不表示茶是戰爭的唯一原因。",
+        "zh-hans": "英国需求带动中国茶外销；英属印度的鸦片走私到中国出售，所得白银用来购茶。次序请看下方四步。插画不是航线图，也不表示茶是战争的唯一原因。"
+      }
+    },
+    {
+      "id": "port-afterlives",
+      "page": "modules/module-03/01-trade-history.qmd",
+      "anchor": {
+        "en": "## Hong Kong, ports, and aftershocks",
+        "zh-hant-hk": "## 香港、通商口岸與餘波",
+        "zh-hans": "## 香港、通商口岸与余波"
+      },
+      "title": {
+        "en": "The harbor and the everyday cup",
+        "zh-hant-hk": "港口與日常一杯",
+        "zh-hans": "港口与日常一杯"
+      },
+      "alt": {
+        "en": "A schematic harbor picture beside an everyday cup and a vacuum flask.",
+        "zh-hant-hk": "示意港口畫旁，擺着日常茶杯與保溫瓶。",
+        "zh-hans": "示意港口画旁，摆着日常茶杯与保温瓶。"
+      },
+      "caption": {
+        "en": "The chapter connects maritime trade and political power with an ordinary drink. This imagined harbor does not depict Hong Kong’s skyline in any particular year.",
+        "zh-hant-hk": "本章把海上貿易與政治權力，連到日常的一杯茶。這個想像港口並不描繪香港任何特定年份的天際線。",
+        "zh-hans": "本章把海上贸易与政治权力，连到日常的一杯茶。这个想象港口并不描绘香港任何特定年份的天际线。"
+      }
+    },
+    {
+      "id": "monastery-day",
+      "page": "modules/module-03/02-monastic-path.qmd",
+      "anchor": {
+        "en": "## Stay awake for practice (Tang & Song monasteries)",
+        "zh-hant-hk": "## 為修行保持清醒（唐宋禪寺）",
+        "zh-hans": "## 为修行而保持清醒（唐宋禅寺）"
+      },
+      "title": {
+        "en": "Tea belongs to the timetable",
+        "zh-hant-hk": "茶也在作息表裏",
+        "zh-hans": "茶也在作息表里"
+      },
+      "alt": {
+        "en": "A tea bowl, an open book and a bell beside a dawn window.",
+        "zh-hant-hk": "黎明窗邊的茶碗、翻開的書與鐘。",
+        "zh-hans": "黎明窗边的茶碗、翻开的书与钟。"
+      },
+      "caption": {
+        "en": "The monastic-code discussion concerns shared schedules, seating and bowl etiquette. This illustrative scene is not an exact monastery interior, and it does not demonstrate a health effect.",
+        "zh-hant-hk": "禪院清規的討論關乎共同作息、座次與持碗禮儀。這幅示意場景不是特定寺院的內部復原，也不證明任何健康效果。",
+        "zh-hans": "清规的讨论关乎共同作息、座次与持碗礼仪。这幅示意场景不是特定寺院的内部复原，也不证明任何健康效果。"
+      }
+    },
+    {
+      "id": "tea-room",
+      "page": "modules/module-03/02-monastic-path.qmd",
+      "anchor": {
+        "en": "## Eisai, Lu Yu, and the Japanese tea room",
+        "zh-hant-hk": "## 榮西、陸羽與日本茶室",
+        "zh-hans": "## 荣西、陆羽与日本茶室"
+      },
+      "title": {
+        "en": "A room for shared attention",
+        "zh-hant-hk": "共同留心的一間茶室",
+        "zh-hans": "共同留心的一间茶室"
+      },
+      "alt": {
+        "en": "An imagined tea-room setting with people, bowls and a quiet shared space.",
+        "zh-hant-hk": "想像的茶室場景，有人、茶碗與安靜的共享空間。",
+        "zh-hans": "想象的茶室场景，有人、茶碗与安静的共享空间。"
+      },
+      "caption": {
+        "en": "Utensils, movement and space help stage a tea practice. This contemporary schematic is not a portrait of Eisai or Lu Yu, an architectural record, or proof of one unbroken tradition.",
+        "zh-hant-hk": "器具、動作與空間，共同構成飲茶實踐。這幅當代示意圖不是榮西或陸羽的肖像，不是建築記錄，也不是單一傳統從未中斷的證據。",
+        "zh-hans": "器具、动作与空间，共同构成饮茶实践。这幅当代示意图不是荣西或陆羽的肖像，不是建筑记录，也不是单一传统从未中断的证据。"
+      }
+    },
+    {
+      "id": "estate-land",
+      "page": "modules/module-03/03-plantation-aftershock.qmd",
+      "anchor": {
+        "en": "## Gardens that remake a frontier",
+        "zh-hant-hk": "## 重塑邊疆的茶園",
+        "zh-hans": "## 重塑边疆的茶园"
+      },
+      "title": {
+        "en": "A landscape organized for tea",
+        "zh-hant-hk": "為茶葉而重整的土地",
+        "zh-hans": "为茶叶而重整的土地"
+      },
+      "alt": {
+        "en": "Cultivated tea rows, paths and an estate building set within a larger landscape.",
+        "zh-hant-hk": "茶樹行列、道路與種植園建築，置於更廣闊的地景中。",
+        "zh-hans": "茶树行列、道路与种植园建筑，置于更广阔的地景中。"
+      },
+      "caption": {
+        "en": "Plantations organized land and work for a mass market. The surrounding account describes frontier clearance and its costs; this imagined landscape is not a map, an acreage estimate or a measured before-and-after view.",
+        "zh-hant-hk": "種植園為大眾市場組織土地與勞動。正文交代邊疆開墾及其代價；這片想像地景不是地圖、面積估算或經量度的前後對照。",
+        "zh-hans": "种植园为大众市场组织土地与劳动。正文交代边疆开垦及其代价；这片想象地景不是地图、面积估算或经测量的前后对照。"
+      }
+    },
+    {
+      "id": "estate-labor",
+      "page": "modules/module-03/03-plantation-aftershock.qmd",
+      "anchor": {
+        "en": "## Who works the garden",
+        "zh-hant-hk": "## 誰在茶園裏做工",
+        "zh-hans": "## 谁在茶园里做工"
+      },
+      "title": {
+        "en": "Keep the workers in the picture",
+        "zh-hant-hk": "讓工人留在畫面裏",
+        "zh-hans": "让工人留在画面里"
+      },
+      "alt": {
+        "en": "Illustrated workers with harvested leaf, baskets and a weighing station.",
+        "zh-hant-hk": "工人與採下的茶葉、籃子及秤重處的插畫。",
+        "zh-hans": "工人与采下的茶叶、篮子及称重处的插画。"
+      },
+      "caption": {
+        "en": "The leaf reached the market through people’s labor. The text describes migration and coercive indenture in Assam; this schematic does not turn that history into a claim of fair pay, free choice or a cheerful harvest.",
+        "zh-hant-hk": "茶葉靠人的勞動進入市場。正文記述阿薩姆的移民與強制契約勞動；這幅示意圖不把那段歷史說成公平報酬、自由選擇或歡樂採收。",
+        "zh-hans": "茶叶靠人的劳动进入市场。正文记述阿萨姆的移民与强制契约劳动；这幅示意图不把那段历史说成公平报酬、自由选择或欢乐采收。"
+      }
+    },
+    {
+      "id": "chaoshan-table",
+      "page": "modules/module-03/04-regional-scripts.qmd",
+      "anchor": {
+        "en": "## Portrait 1 — Chaoshan gongfu as everyday staging",
+        "zh-hant-hk": "## 肖像一——潮汕工夫：日常搭台",
+        "zh-hans": "## 肖像一——潮汕工夫：日常搭台"
+      },
+      "title": {
+        "en": "Small cups, everyday company",
+        "zh-hant-hk": "小杯子，日常相聚",
+        "zh-hans": "小杯子，日常相聚"
+      },
+      "alt": {
+        "en": "People gathering around a small teapot and cups on an everyday table.",
+        "zh-hant-hk": "人們圍着日常茶桌上的小茶壺與小杯相聚。",
+        "zh-hans": "人们围着日常茶桌上的小茶壶与小杯相聚。"
+      },
+      "caption": {
+        "en": "Repeated pours make room for everyday hospitality in the Chaoshan portrait. This invented gathering illustrates the setting, not a fixed national ceremony or a rule for every household.",
+        "zh-hant-hk": "潮汕這一幅肖像裏，一泡又一泡為日常待客留出空間。這個虛構聚會用來說明情境，不是固定的全國茶禮，也不是每個家庭的規則。",
+        "zh-hans": "潮汕这一幅肖像里，一泡又一泡为日常待客留出空间。这个虚构聚会用来说明情境，不是固定的全国茶礼，也不是每个家庭的规则。"
+      }
+    },
+    {
+      "id": "taiwan-tea-art",
+      "page": "modules/module-03/04-regional-scripts.qmd",
+      "anchor": {
+        "en": "## Portrait 3 — Taiwan tea art",
+        "zh-hant-hk": "## 肖像三——台灣茶藝",
+        "zh-hans": "## 肖像三——台湾茶艺"
+      },
+      "title": {
+        "en": "The setting becomes part of the cup",
+        "zh-hant-hk": "布置也成為茶的一部分",
+        "zh-hans": "布置也成为茶的一部分"
+      },
+      "alt": {
+        "en": "A small pot, drinking cups, a tall aroma cup and a textile arranged in a tea space.",
+        "zh-hant-hk": "小茶壺、飲用杯、高身聞香杯與布席，佈置在茶空間中。",
+        "zh-hans": "小茶壶、饮用杯、高身闻香杯与布席，布置在茶空间中。"
+      },
+      "caption": {
+        "en": "The Taiwan tea-art portrait pays attention to gesture, utensils and the designed tea space. The tall aroma cup is one discussed feature, not a required object in every gathering.",
+        "zh-hant-hk": "台灣茶藝這一幅肖像着重動作、器具與設計過的茶空間。高身聞香杯是文中討論的一項特色，並非每次聚會的必備器物。",
+        "zh-hans": "台湾茶艺这一幅肖像着重动作、器具与设计过的茶空间。高身闻香杯是文中讨论的一项特色，并非每次聚会的必备器物。"
+      }
+    }
+  ]
+}

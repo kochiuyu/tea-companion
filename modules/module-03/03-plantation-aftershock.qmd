@@ -67,6 +67,15 @@ The botanical networks that moved crops, Kew and the colonial gardens, mostly st
 
 ## Gardens that remake a frontier
 
+<!-- history-illustration:estate-land:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="estate-land">
+  <img src="../../assets/history-illustrations/estate-land.svg" width="760" height="320" alt="Cultivated tea rows, paths and an estate building set within a larger landscape." loading="lazy" decoding="async">
+  <figcaption><strong>A landscape organized for tea</strong> Plantations organized land and work for a mass market. The surrounding account describes frontier clearance and its costs; this imagined landscape is not a map, an acreage estimate or a measured before-and-after view.</figcaption>
+</figure>
+```
+<!-- history-illustration:estate-land:end -->
+
 Picture Upper Assam not as a tidy English farm but as jungle cleared for rows. Forest is cut, land is scheduled to a flush calendar, and leaf moves by steamer, and later by rail, toward a British market that wanted volume more than craft romance.[^1][^3] An estate is a timetable as much as a place. When the flush comes, the leaf must be plucked, withered, and fired on schedule, then graded for chests that can travel. That commodity rhythm is what turns a frontier garden into something a counting house can price.
 
 Kew's public history is blunt about the human and animal cost of that clearance. Coolies and elephants appear in the making of the gardens, and so does **Maniram Datta Barua**, who had first told Robert Bruce about Assam leaf and who was executed after the 1857 uprising.[^1] The open story keeps those names as notes on cost, not as a homemade body count. Kew supplies the readable trail, and this page does not invent mortality percentages beside it.
@@ -84,6 +93,15 @@ Sharma's *Empire's Garden* is the scholarly spine for this part of the story: ho
 :::
 
 ## Who works the garden
+
+<!-- history-illustration:estate-labor:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="estate-labor">
+  <img src="../../assets/history-illustrations/estate-labor.svg" width="760" height="320" alt="Illustrated workers with harvested leaf, baskets and a weighing station." loading="lazy" decoding="async">
+  <figcaption><strong>Keep the workers in the picture</strong> The leaf reached the market through people’s labor. The text describes migration and coercive indenture in Assam; this schematic does not turn that history into a claim of fair pay, free choice or a cheerful harvest.</figcaption>
+</figure>
+```
+<!-- history-illustration:estate-labor:end -->
 
 Planters and officials did not treat Assamese peasants as a ready workforce. By the **1850s**, labor was already the chief obstacle. The industry leaned on a racialized ideology of "lazy natives," and it turned toward **displaced migrants** from other parts of British India.[^6][^3] The garden needed hands on a schedule the planters claimed locals would not keep, so the empire moved people instead of rewriting the timetable.
 

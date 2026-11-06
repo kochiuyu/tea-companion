@@ -61,6 +61,15 @@ Superscript numbers on this page are clickable footnotes. Follow one to jump to 
 <!-- reading-fold:end -->
 ## A cheap bag with an expensive past
 
+<!-- history-illustration:canton-exchange:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="canton-exchange">
+  <img src="../../assets/history-illustrations/canton-exchange.svg" width="760" height="320" alt="Tea chests, silver and a merchant’s desk beside a schematic harbor." loading="lazy" decoding="async">
+  <figcaption><strong>Before the supermarket shelf</strong> Tea chests and silver bring the counting-house story into view. The objects are visual cues, not an inventory, a scale comparison or a reconstruction of Canton.</figcaption>
+</figure>
+```
+<!-- history-illustration:canton-exchange:end -->
+
 Start with a grocery-shelf miracle: a cheap bag of tea. The price is easy to overlook, but that cheapness has a geopolitical past. Before tea was a supermarket staple, it was a strategic commodity—paid for in silver, fought over with gunboats, and eventually grown on colonial plantations so that one empire would not depend forever on another.
 
 Hold two pictures side by side. In one, a British counting house in the 1830s watches silver leave for Canton while tea chests come home. In the other, your kitchen kettle clicks off and a bag costs less than a sandwich. This lesson walks the road between those two pictures, without turning a tea bag into a morality play. The numbers along that road, and the treaty clauses that fix them in place, come from the named histories below.
@@ -114,6 +123,15 @@ That is why a "cheap bag" story that starts in 1842 is already late. For decades
 
 ## War, treaty, and open ports
 
+<!-- history-illustration:treaty-ports:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="treaty-ports">
+  <img src="../../assets/history-illustrations/treaty-ports.svg" width="760" height="320" alt="An illustrated document, harbor buildings and a ship, bringing written rules and maritime power together." loading="lazy" decoding="async">
+  <figcaption><strong>A treaty changes the rules</strong> War and the Treaty of Nanking changed trading rights, imposed an indemnity and ceded Hong Kong Island. This symbolic scene is neither a treaty facsimile nor a map of the five ports.</figcaption>
+</figure>
+```
+<!-- history-illustration:treaty-ports:end -->
+
 The First Opium War (1839–1842) ended with British victory and the **[Treaty of Nanking](../../glossary.qmd#treaty-of-nanking)** (29 August 1842; ratified 26 June 1843). Five treaty ports opened, Hong Kong Island was ceded, the Cohong monopoly was abolished, and a large indemnity was imposed.[^1][^3][^4]
 
 The ports often listed include Canton, Amoy, Foochow, Ningpo, and Shanghai.[^3][^4] The indemnity was large—on the order of **21 million** silver dollars in the sources' teaching tallies. The dollar slices and the article-number fine print live in the foldouts, because the treaty text and the teaching shorthand do not label every slice the same way.
@@ -159,6 +177,15 @@ The same pages still do not claim that tea alone caused the war.[^5][^6]
 :::
 
 ## The Fortune myth, corrected
+
+<!-- history-illustration:plant-knowledge:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="plant-knowledge">
+  <img src="../../assets/history-illustrations/plant-knowledge.svg" width="760" height="320" alt="A glass plant-transport case beside two tea makers working with leaves on a tray." loading="lazy" decoding="async">
+  <figcaption><strong>Plants travel with knowledge</strong> Singhpho communities already knew and grew Assam tea before Fortune’s later missions. The glass case and tools evoke the transfer of Chinese plants and skilled knowledge, not the beginning of tea in India.</figcaption>
+</figure>
+```
+<!-- history-illustration:plant-knowledge:end -->
 
 People sometimes tell a tidy origin myth: "Robert Fortune first brought tea to India in 1848." The timeline is richer than that sentence, and more interesting.
 
@@ -209,6 +236,15 @@ Chemistry, in Chapter 1, still explains why the bag tastes the way it does. This
 
 ## The silver–opium loop, in four beats
 
+<!-- history-illustration:trade-loop:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="trade-loop">
+  <img src="../../assets/history-illustrations/trade-loop.svg" width="760" height="320" alt="A tea cup, silver, a cargo chest, a symbolic poppy pod and a document arranged in a circle." loading="lazy" decoding="async">
+  <figcaption><strong>Follow the goods and the payment</strong> British demand drew tea from China; opium from British India was smuggled into China and sold for silver that helped pay for tea. Read the four steps below for the sequence. The drawing is not a route map or a claim that tea alone caused war.</figcaption>
+</figure>
+```
+<!-- history-illustration:trade-loop:end -->
+
 The tallies (Pritchard; Morse) and the treaty skeletons are here so that beginners can feel the *scale* of the drain. They are not here so that anyone can re-estimate nineteenth-century trade elasticities. Try the loop as the sources tell it.
 
 1. **Demand.** Britain wants tea, and it also wants silk and porcelain.
@@ -233,6 +269,15 @@ If the aisle words still feel slippery, start at [Tea basics](../../tea-basics.q
 
 
 ## Hong Kong, ports, and aftershocks
+
+<!-- history-illustration:port-afterlives:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="port-afterlives">
+  <img src="../../assets/history-illustrations/port-afterlives.svg" width="760" height="320" alt="A schematic harbor picture beside an everyday cup and a vacuum flask." loading="lazy" decoding="async">
+  <figcaption><strong>The harbor and the everyday cup</strong> The chapter connects maritime trade and political power with an ordinary drink. This imagined harbor does not depict Hong Kong’s skyline in any particular year.</figcaption>
+</figure>
+```
+<!-- history-illustration:port-afterlives:end -->
 
 For readers in Asia, and in Hong Kong especially, the Treaty of Nanking is not an abstract document. Article III's cession of Hong Kong Island sits beside the five treaty ports and the indemnity bill.[^3][^4]
 

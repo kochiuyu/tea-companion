@@ -77,6 +77,15 @@ lang: zh-Hant-HK
 
 ## 重塑邊疆的茶園
 
+<!-- history-illustration:estate-land:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="estate-land">
+  <img src="../../../assets/history-illustrations/estate-land.svg" width="760" height="320" alt="茶樹行列、道路與種植園建築，置於更廣闊的地景中。" loading="lazy" decoding="async">
+  <figcaption><strong>為茶葉而重整的土地</strong> 種植園為大眾市場組織土地與勞動。正文交代邊疆開墾及其代價；這片想像地景不是地圖、面積估算或經量度的前後對照。</figcaption>
+</figure>
+```
+<!-- history-illustration:estate-land:end -->
+
 不要把上阿薩姆想成整齊的英國農場。那是為了一排排茶樹而砍開的叢林：森林倒下，土地按發芽的季節排程，葉子先走輪船，後來走鐵路，運往一個更要產量、少談手藝情調的英國市場。[^1][^3] 莊園既是一個地方，也是一張時間表。芽葉一到，就得按時採摘、萎凋、殺青或炒焙，再分級裝箱，運出去。正是這種商品的節奏，讓邊疆上的茶園變成帳房可以開價的東西。
 
 邱園的公開敘述把開墾的人和牲畜的代價說得很直。闢園靠苦力和大象，也提到**馬尼拉姆·杜塔·巴魯阿**（Maniram Datta Barua）：最早把阿薩姆葉告訴羅伯特·布魯斯的那個人，在 1857 年起義之後被處決。[^1] 正文只把這些名字留作代價的註記，不在這裏另編一套死亡數字。可讀的線索由邱園給出；旁邊的死亡率百分比，我們不憑空寫。
@@ -94,6 +103,15 @@ lang: zh-Hant-HK
 :::
 
 ## 誰在茶園裏做工
+
+<!-- history-illustration:estate-labor:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="estate-labor">
+  <img src="../../../assets/history-illustrations/estate-labor.svg" width="760" height="320" alt="工人與採下的茶葉、籃子及秤重處的插畫。" loading="lazy" decoding="async">
+  <figcaption><strong>讓工人留在畫面裏</strong> 茶葉靠人的勞動進入市場。正文記述阿薩姆的移民與強制契約勞動；這幅示意圖不把那段歷史說成公平報酬、自由選擇或歡樂採收。</figcaption>
+</figure>
+```
+<!-- history-illustration:estate-labor:end -->
 
 種植園主和官員並不把阿薩姆農民當成現成的人手。到**1850 年代**，人手已經是最大的難處。產業靠一套帶種族眼光的說法——「懶惰的土著」——轉向英屬印度其他地方被連根拔起的**流離移工**。[^6][^3] 茶園要的是種植園主口中本地人守不住的那份日程。帝國於是去搬人，而不去改時間表。
 

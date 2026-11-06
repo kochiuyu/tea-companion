@@ -89,6 +89,15 @@ Predictable shared steps will return in [Chapter 4 · Section 2](../module-04/02
 
 ## Portrait 1 — Chaoshan gongfu as everyday staging
 
+<!-- history-illustration:chaoshan-table:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="chaoshan-table">
+  <img src="../../assets/history-illustrations/chaoshan-table.svg" width="760" height="320" alt="People gathering around a small teapot and cups on an everyday table." loading="lazy" decoding="async">
+  <figcaption><strong>Small cups, everyday company</strong> Repeated pours make room for everyday hospitality in the Chaoshan portrait. This invented gathering illustrates the setting, not a fixed national ceremony or a rule for every household.</figcaption>
+</figure>
+```
+<!-- history-illustration:chaoshan-table:end -->
+
 Picture a Chaoshan table: a small clay pot, a cluster of small cups, and leaf poured short and often. Guests do not wait for a single grand steeping. They sit through repeated infusions while talk—family, friends, business associates—keeps the room moving. The pot comes back to the same leaf again and again. The cups stay small. Nobody needs a stage. In Chaoshan, in north-eastern Guangdong, gongfu tea is best taught as that **everyday social practice**, not as a museum piece called a "Chinese tea ceremony."[^1] The point of the ethnography is the nourishing of social connectedness, woven into day-to-day life, rather than the performance of a separate "tea art."[^1]
 
 The same leaf and the same tools can shift mode without changing the furniture. Some sittings stay everyday hospitality, with the table as social glue. Some refine discernment: teapots, an appreciation of the leaf, and the quiet work of taste among people who care how the cup lands. Tea-houses commercialize leisure for paying guests. d'Abbs's fieldwork keeps those three frames in view: everyday practice, refined cultivation, and commercialised tea-house leisure.[^1] The open story keeps the everyday spine, so that beginners meet people first, not a packaged syllabus. The implements, the invented-tradition fence, and a dated trail from Fujian oolong into Chaozhou practice all live in the foldouts.[^1][^2][^7]
@@ -159,6 +168,15 @@ At the level of the abstract, the honesty about meaning is this. An official nar
 :::
 
 ## Portrait 3 — Taiwan tea art
+
+<!-- history-illustration:taiwan-tea-art:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="taiwan-tea-art">
+  <img src="../../assets/history-illustrations/taiwan-tea-art.svg" width="760" height="320" alt="A small pot, drinking cups, a tall aroma cup and a textile arranged in a tea space." loading="lazy" decoding="async">
+  <figcaption><strong>The setting becomes part of the cup</strong> The Taiwan tea-art portrait pays attention to gesture, utensils and the designed tea space. The tall aroma cup is one discussed feature, not a required object in every gathering.</figcaption>
+</figure>
+```
+<!-- history-illustration:taiwan-tea-art:end -->
 
 Taiwan's contemporary *cha yi* (tea art) gatherings stage elegance through brewing, through bodily gesture, through the arrangement of utensils (*chaxi*), and through a designed tea space. It is a sensory, ritualized aesthetic practice, often called literati tea.[^6] Yu describes public tea gatherings as a "sense-scape": fragrance, light, sound, utensils, and atmosphere, organizing who "we" are and who "they" are.[^6] A gongfu-style small pot and small cups appear as a basic set. What this portrait adds, beyond Chaoshan's everyday social glue, is the cultivated performance of elegance—gesture, costume, *chaxi*, and spatial design—so that the room itself becomes part of the cup.[^6] This is no longer the "thinner third" of an earlier draft. Taiwan sits at open-story parity with Chaoshan and with Hong Kong.
 

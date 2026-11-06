@@ -1,0 +1,46 @@
+/* Original chapter scenes: full-width, readable without scripts. */
+figure.tea-history-figure {
+  display: block;
+  margin: 1.2rem 0 1.8rem;
+  border: 1px solid #d6ddce;
+  border-radius: 1rem;
+  overflow: hidden;
+  background: #faf8f1;
+  break-inside: avoid;
+}
+figure.tea-history-figure > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 19 / 8;
+  margin: 0;
+}
+figure.tea-history-figure > figcaption {
+  padding: .95rem 1.2rem 1.05rem;
+  margin: 0;
+  border-top: 1px solid #d6ddce;
+  color: #395448;
+  font-size: .9rem;
+  line-height: 1.6;
+  text-align: start;
+  overflow-wrap: anywhere;
+}
+figure.tea-history-figure > figcaption > strong {
+  display: block;
+  margin-bottom: .25rem;
+  color: #294438;
+  font-size: 1rem;
+}
+@media (max-width: 575.98px) {
+  figure.tea-history-figure { border-radius: .75rem; }
+  figure.tea-history-figure > figcaption { padding: .8rem .9rem .9rem; }
+}
+@media print {
+  figure.tea-history-figure { background: none; border-color: #879487; }
+  figure.tea-history-figure > figcaption { color: #25382f; }
+}
+@media (forced-colors: active) {
+  figure.tea-history-figure { background: Canvas; border-color: CanvasText; }
+  figure.tea-history-figure > figcaption { color: CanvasText; border-color: CanvasText; }
+  figure.tea-history-figure > figcaption > strong { color: CanvasText; }
+}

@@ -77,6 +77,15 @@ lang: zh-Hans
 
 ## 重塑边疆的茶园
 
+<!-- history-illustration:estate-land:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="estate-land">
+  <img src="../../../assets/history-illustrations/estate-land.svg" width="760" height="320" alt="茶树行列、道路与种植园建筑，置于更广阔的地景中。" loading="lazy" decoding="async">
+  <figcaption><strong>为茶叶而重整的土地</strong> 种植园为大众市场组织土地与劳动。正文交代边疆开垦及其代价；这片想象地景不是地图、面积估算或经测量的前后对照。</figcaption>
+</figure>
+```
+<!-- history-illustration:estate-land:end -->
+
 不要把上阿萨姆想成整齐的英国农场。那是为了一排排茶树而砍开的丛林：森林倒下，土地按发芽的季节排程，叶子先走轮船，后来走铁路，运往一个更要产量、少谈手艺情调的英国市场。[^1][^3] 庄园既是一个地方，也是一张时间表。芽叶一到，就得按时采摘、萎凋、杀青或炒焙，再分级装箱，运出去。正是这种商品的节奏，让边疆上的茶园变成账房可以开价的东西。
 
 邱园的公开叙述把开垦的人和牲畜的代价说得很直。辟园靠苦力和大象，也提到**马尼拉姆·杜塔·巴鲁阿**（Maniram Datta Barua）：最早把阿萨姆叶告诉罗伯特·布鲁斯的那个人，在 1857 年起义之后被处决。[^1] 正文只把这些名字留作代价的注记，不在这里另编一套死亡数字。可读的线索由邱园给出；旁边的死亡率百分比，我们不凭空写。
@@ -94,6 +103,15 @@ lang: zh-Hans
 :::
 
 ## 谁在茶园里做工
+
+<!-- history-illustration:estate-labor:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="estate-labor">
+  <img src="../../../assets/history-illustrations/estate-labor.svg" width="760" height="320" alt="工人与采下的茶叶、篮子及称重处的插画。" loading="lazy" decoding="async">
+  <figcaption><strong>让工人留在画面里</strong> 茶叶靠人的劳动进入市场。正文记述阿萨姆的移民与强制契约劳动；这幅示意图不把那段历史说成公平报酬、自由选择或欢乐采收。</figcaption>
+</figure>
+```
+<!-- history-illustration:estate-labor:end -->
 
 种植园主和官员并不把阿萨姆农民当成现成的人手。到**1850 年代**，人手已经是最大的难处。产业靠一套带种族眼光的说法——“懒惰的土著”——转向英属印度其他地方被连根拔起的**流离移民**。[^6][^3] 茶园要的是种植园主口中本地人守不住的那份日程。帝国于是去搬人，而不去改时间表。
 

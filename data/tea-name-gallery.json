@@ -1,0 +1,757 @@
+{
+  "groups": [
+    {
+      "id": "chinese",
+      "count": 12,
+      "text": {
+        "en": [
+          "Picture shelf · 12 Chinese names",
+          "Original schematic examples, not an identification key. Shapes and colours vary; drawings are not to scale. Names, processing and label details matter more than appearance."
+        ],
+        "zh-hant-hk": [
+          "圖像茶架 · 12 個中文名",
+          "原創示意圖，不是鑑別圖鑑。形狀與顏色會有差別，圖像不按比例；茶名、工序與標籤資料比外觀更重要。"
+        ],
+        "zh-hans": [
+          "图像茶架 · 12 个中文名",
+          "原创示意图，不是鉴别图鉴。形状与颜色会有差别，图像不按比例；茶名、工序与标签资料比外观更重要。"
+        ]
+      },
+      "map_note": {
+        "en": "Maps are north-up and use different scales. Dots locate origins approximately, not estates or growing-area boundaries. Coastlines: ",
+        "zh-hant-hk": "地圖上北下南，各圖比例不同。圓點只標產地的大致位置，不代表茶園或產區邊界。海岸線資料：",
+        "zh-hans": "地图上北下南，各图比例不同。圆点只标产地的大致位置，不代表茶园或产区边界。海岸线资料："
+      }
+    },
+    {
+      "id": "japanese",
+      "count": 6,
+      "text": {
+        "en": [
+          "Picture shelf · 6 Japanese names",
+          "Original schematic examples, not an identification key. Shapes and colours vary; drawings are not to scale. Names, processing and label details matter more than appearance."
+        ],
+        "zh-hant-hk": [
+          "圖像茶架 · 6 個日文名",
+          "原創示意圖，不是鑑別圖鑑。形狀與顏色會有差別，圖像不按比例；茶名、工序與標籤資料比外觀更重要。"
+        ],
+        "zh-hans": [
+          "图像茶架 · 6 个日文名",
+          "原创示意图，不是鉴别图鉴。形状与颜色会有差别，图像不按比例；茶名、工序与标签资料比外观更重要。"
+        ]
+      }
+    },
+    {
+      "id": "western",
+      "count": 10,
+      "text": {
+        "en": [
+          "Picture shelf · 10 Western and cafe names",
+          "Original schematic examples, not an identification key. Shapes and colours vary; drawings are not to scale. Names, processing and label details matter more than appearance."
+        ],
+        "zh-hant-hk": [
+          "圖像茶架 · 10 個西方與咖啡店常見茶飲名稱",
+          "原創示意圖，不是鑑別圖鑑。形狀與顏色會有差別，圖像不按比例；茶名、工序與標籤資料比外觀更重要。"
+        ],
+        "zh-hans": [
+          "图像茶架 · 10 个西方与咖啡馆常见茶饮名称",
+          "原创示意图，不是鉴别图鉴。形状与颜色会有差别，图像不按比例；茶名、工序与标签资料比外观更重要。"
+        ]
+      },
+      "map_note": {
+        "en": "Maps are north-up and use different scales. Dots locate origins approximately, not estates or growing-area boundaries. Coastlines: ",
+        "zh-hant-hk": "地圖上北下南，各圖比例不同。圓點只標產地的大致位置，不代表茶園或產區邊界。海岸線資料：",
+        "zh-hans": "地图上北下南，各图比例不同。圆点只标产地的大致位置，不代表茶园或产区边界。海岸线资料："
+      }
+    }
+  ],
+  "entries": [
+    {
+      "id": "longjing",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Longjing / Dragon Well",
+          "kind": "Style · green tea",
+          "note": "A typical flat-leaf example. Shape and colour vary.",
+          "alt": "Long, flat green tea leaves on a shallow dish."
+        },
+        "zh-hant-hk": {
+          "name": "龍井（Longjing）",
+          "kind": "做法 · 綠茶",
+          "note": "常見的扁平葉形示例；形狀與顏色會有差別。",
+          "alt": "淺碟上的扁長綠茶葉。"
+        },
+        "zh-hans": {
+          "name": "龙井（Longjing）",
+          "kind": "做法 · 绿茶",
+          "note": "常见的扁平叶形示例；形状与颜色会有差别。",
+          "alt": "浅碟上的扁长绿茶叶。"
+        }
+      }
+    },
+    {
+      "id": "jasmine-green",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Jasmine green",
+          "kind": "Scented tea · green base",
+          "note": "The separate flower is an aroma cue. Blossoms need not remain.",
+          "alt": "Green leaves on a dish, with a jasmine blossom shown separately."
+        },
+        "zh-hant-hk": {
+          "name": "茉莉綠茶",
+          "kind": "窨香茶 · 綠茶底",
+          "note": "旁邊的花只提示香氣；成茶不一定留有花朵。",
+          "alt": "碟上的綠茶葉，旁邊另畫一朵茉莉花。"
+        },
+        "zh-hans": {
+          "name": "茉莉绿茶",
+          "kind": "窨香茶 · 绿茶底",
+          "note": "旁边的花只提示香气；成茶不一定留有花朵。",
+          "alt": "碟上的绿茶叶，旁边另画一朵茉莉花。"
+        }
+      }
+    },
+    {
+      "id": "gunpowder",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Gunpowder",
+          "kind": "Style · green tea",
+          "note": "Small rolled pellets, shown before brewing.",
+          "alt": "Small green rolled tea pellets scattered on a dish."
+        },
+        "zh-hant-hk": {
+          "name": "珠茶（Gunpowder）",
+          "kind": "做法 · 綠茶",
+          "note": "沖泡前，揉成小珠粒的葉子。",
+          "alt": "散在碟上的綠色小茶珠。"
+        },
+        "zh-hans": {
+          "name": "珠茶（Gunpowder）",
+          "kind": "做法 · 绿茶",
+          "note": "冲泡前，揉成小珠粒的叶子。",
+          "alt": "散在碟上的绿色小茶珠。"
+        }
+      }
+    },
+    {
+      "id": "tieguanyin",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Tieguanyin",
+          "kind": "Style · oolong",
+          "note": "One rolled-leaf example. Roast and oxidation vary.",
+          "alt": "Irregular, tightly rolled greenish tea leaves."
+        },
+        "zh-hant-hk": {
+          "name": "鐵觀音",
+          "kind": "做法 · 烏龍茶",
+          "note": "揉成球狀的一例；焙火與氧化程度各有不同。",
+          "alt": "形狀不一、揉得緊實的青綠色茶葉。"
+        },
+        "zh-hans": {
+          "name": "铁观音",
+          "kind": "做法 · 乌龙茶",
+          "note": "揉成球状的一例；焙火与氧化程度各有不同。",
+          "alt": "形状不一、揉得紧实的青绿色茶叶。"
+        }
+      }
+    },
+    {
+      "id": "baozhong",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Baozhong",
+          "kind": "Style · oolong",
+          "note": "A loose, curled strip-leaf example, not tight balls.",
+          "alt": "Loose, long, curled green-coloured tea leaves on a dish."
+        },
+        "zh-hant-hk": {
+          "name": "包種",
+          "kind": "做法 · 烏龍茶",
+          "note": "鬆捲條形的葉子示例，不是緊實球形。",
+          "alt": "碟上鬆捲而細長的綠色茶葉。"
+        },
+        "zh-hans": {
+          "name": "包种",
+          "kind": "做法 · 乌龙茶",
+          "note": "松卷条形的叶子示例，不是紧实球形。",
+          "alt": "碟上松卷而细长的绿色茶叶。"
+        }
+      }
+    },
+    {
+      "id": "da-hong-pao",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Da Hong Pao",
+          "kind": "Style · oolong",
+          "note": "A dark, twisted-leaf example of Wuyi rock oolong.",
+          "alt": "Long, dark twisted tea leaves on a shallow dish."
+        },
+        "zh-hant-hk": {
+          "name": "大紅袍",
+          "kind": "做法 · 烏龍茶",
+          "note": "武夷岩茶的一例：色深、扭捲的條索。",
+          "alt": "淺碟上深色而扭捲的長茶葉。"
+        },
+        "zh-hans": {
+          "name": "大红袍",
+          "kind": "做法 · 乌龙茶",
+          "note": "武夷岩茶的一例：色深、扭卷的条索。",
+          "alt": "浅碟上深色而扭卷的长茶叶。"
+        }
+      }
+    },
+    {
+      "id": "keemun",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Keemun",
+          "kind": "Style · black tea",
+          "note": "A fine, twisted dry-leaf example. Black tea is 紅茶.",
+          "alt": "Slender, dark curled leaves on a dish."
+        },
+        "zh-hant-hk": {
+          "name": "祁門（Keemun）",
+          "kind": "做法 · 紅茶",
+          "note": "細條捲曲的乾葉示例；英文 black tea 是紅茶。",
+          "alt": "碟上纖細而深色的捲曲茶葉。"
+        },
+        "zh-hans": {
+          "name": "祁门（Keemun）",
+          "kind": "做法 · 红茶",
+          "note": "细条卷曲的干叶示例；英文 black tea 是红茶。",
+          "alt": "碟上纤细而深色的卷曲茶叶。"
+        }
+      }
+    },
+    {
+      "id": "yunnan",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Yunnan (black tea)",
+          "kind": "Origin / style label · black tea",
+          "note": "Yunnan, southwestern China. The map locates the region, not a specific tea garden.",
+          "alt": "North-up schematic map with a dot locating Yunnan in southwestern China; no political boundaries.",
+          "image": "yunnan.svg"
+        },
+        "zh-hant-hk": {
+          "name": "雲南（作紅茶詞用時）",
+          "kind": "產地／做法名 · 紅茶",
+          "note": "中國西南部的雲南。地圖標示大致位置，不是特定茶園。",
+          "alt": "上北下南的示意地圖，以圓點標出中國西南部雲南的大致位置，不畫政治邊界。",
+          "image": "yunnan.zh-hant-hk.svg"
+        },
+        "zh-hans": {
+          "name": "云南（作红茶词用时）",
+          "kind": "产地／做法名 · 红茶",
+          "note": "中国西南部的云南。地图标示大致位置，不是特定茶园。",
+          "alt": "上北下南的示意地图，以圆点标出中国西南部云南的大致位置，不画政治边界。",
+          "image": "yunnan.zh-hans.svg"
+        }
+      }
+    },
+    {
+      "id": "lapsang-souchong",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Lapsang Souchong",
+          "kind": "Style · black tea",
+          "note": "A smoked-style example. Unsmoked versions also exist.",
+          "alt": "Dark leaves with separate curling lines suggesting smoke aroma."
+        },
+        "zh-hant-hk": {
+          "name": "正山小種（Lapsang Souchong）",
+          "kind": "做法 · 紅茶",
+          "note": "這裏示意煙燻型；也有不經煙燻的版本。",
+          "alt": "深色茶葉旁另有捲曲線條，提示煙燻香氣。"
+        },
+        "zh-hans": {
+          "name": "正山小种（Lapsang Souchong）",
+          "kind": "做法 · 红茶",
+          "note": "这里示意烟熏型；也有不经烟熏的版本。",
+          "alt": "深色茶叶旁另有卷曲线条，提示烟熏香气。"
+        }
+      }
+    },
+    {
+      "id": "puerh-dark",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Pu-erh / dark tea",
+          "kind": "Named family / tea type",
+          "note": "Loose and compressed examples. Sheng and shou differ; dark tea is 黑茶.",
+          "alt": "A small compressed tea cake beside loose leaves."
+        },
+        "zh-hant-hk": {
+          "name": "普洱／黑茶",
+          "kind": "茶名／茶類",
+          "note": "散茶與緊壓茶示例；生、熟茶不同。Dark tea 是黑茶。",
+          "alt": "小茶餅與散茶並列。"
+        },
+        "zh-hans": {
+          "name": "普洱／黑茶",
+          "kind": "茶名／茶类",
+          "note": "散茶与紧压茶示例；生、熟茶不同。Dark tea 是黑茶。",
+          "alt": "小茶饼与散茶并列。"
+        }
+      }
+    },
+    {
+      "id": "white-tea",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "White tea",
+          "kind": "Tea type · white",
+          "note": "Buds and leaves are shown. White tea is not always all buds.",
+          "alt": "Pale downy-looking buds mixed with larger green-brown leaves."
+        },
+        "zh-hant-hk": {
+          "name": "白茶",
+          "kind": "茶類 · 白茶",
+          "note": "圖中有芽也有葉；白茶不一定全是芽。",
+          "alt": "淺色絨芽與較大的綠褐色葉子。"
+        },
+        "zh-hans": {
+          "name": "白茶",
+          "kind": "茶类 · 白茶",
+          "note": "图中有芽也有叶；白茶不一定全是芽。",
+          "alt": "浅色绒芽与较大的绿褐色叶子。"
+        }
+      }
+    },
+    {
+      "id": "yellow-tea",
+      "group": "chinese",
+      "text": {
+        "en": {
+          "name": "Yellow tea",
+          "kind": "Tea type · yellow",
+          "note": "One loose-leaf example. Processing, not colour, defines the type.",
+          "alt": "Slender olive-green buds and leaves on a dish."
+        },
+        "zh-hant-hk": {
+          "name": "黃茶",
+          "kind": "茶類 · 黃茶",
+          "note": "一份散茶示例；分類看工序，不只看顏色。",
+          "alt": "碟上細長、橄欖綠色的芽葉。"
+        },
+        "zh-hans": {
+          "name": "黄茶",
+          "kind": "茶类 · 黄茶",
+          "note": "一份散茶示例；分类看工序，不只看颜色。",
+          "alt": "碟上细长、橄榄绿色的芽叶。"
+        }
+      }
+    },
+    {
+      "id": "sencha",
+      "group": "japanese",
+      "text": {
+        "en": {
+          "name": "Sencha",
+          "kind": "Style · green tea",
+          "note": "A typical rolled, needle-like leaf example.",
+          "alt": "Narrow green needle-like tea leaves."
+        },
+        "zh-hant-hk": {
+          "name": "煎茶（Sencha）",
+          "kind": "做法 · 綠茶",
+          "note": "常見的揉捲針形茶葉示例。",
+          "alt": "細窄如針的綠色茶葉。"
+        },
+        "zh-hans": {
+          "name": "煎茶（Sencha）",
+          "kind": "做法 · 绿茶",
+          "note": "常见的揉卷针形茶叶示例。",
+          "alt": "细窄如针的绿色茶叶。"
+        }
+      }
+    },
+    {
+      "id": "matcha",
+      "group": "japanese",
+      "text": {
+        "en": {
+          "name": "Matcha",
+          "kind": "Powdered green tea",
+          "note": "Fine powder and a whisked bowl. The leaf is drunk, not strained out.",
+          "alt": "A mound of green powder beside a bowl of whisked green tea."
+        },
+        "zh-hant-hk": {
+          "name": "抹茶（Matcha）",
+          "kind": "粉末綠茶",
+          "note": "細粉與攪拌後的一碗茶；葉粉一起喝下，不濾走。",
+          "alt": "一小堆綠色茶粉，旁邊是一碗攪拌好的綠茶。"
+        },
+        "zh-hans": {
+          "name": "抹茶（Matcha）",
+          "kind": "粉末绿茶",
+          "note": "细粉与搅拌后的一碗茶；叶粉一起喝下，不滤走。",
+          "alt": "一小堆绿色茶粉，旁边是一碗搅拌好的绿茶。"
+        }
+      }
+    },
+    {
+      "id": "gyokuro",
+      "group": "japanese",
+      "text": {
+        "en": {
+          "name": "Gyokuro",
+          "kind": "Style · green tea",
+          "note": "Shade-grown leaves for steeping. Needles alone do not prove the growing method.",
+          "alt": "Fine dark-green needle-like tea leaves."
+        },
+        "zh-hant-hk": {
+          "name": "玉露（Gyokuro）",
+          "kind": "做法 · 綠茶",
+          "note": "遮蔭後製成的沖泡茶葉；針形本身不能證明種植方法。",
+          "alt": "細長、深綠色的針形茶葉。"
+        },
+        "zh-hans": {
+          "name": "玉露（Gyokuro）",
+          "kind": "做法 · 绿茶",
+          "note": "遮荫后制成的冲泡茶叶；针形本身不能证明种植方法。",
+          "alt": "细长、深绿色的针形茶叶。"
+        }
+      }
+    },
+    {
+      "id": "tencha",
+      "group": "japanese",
+      "text": {
+        "en": {
+          "name": "Tencha",
+          "kind": "Style · green tea",
+          "note": "Unrolled leaf flakes before milling into matcha.",
+          "alt": "Thin, irregular green leaf flakes on a dish."
+        },
+        "zh-hant-hk": {
+          "name": "碾茶（Tencha）",
+          "kind": "做法 · 綠茶",
+          "note": "磨成抹茶之前、未經揉捻的片狀茶葉。",
+          "alt": "碟上薄而形狀不一的綠色葉片。"
+        },
+        "zh-hans": {
+          "name": "碾茶（Tencha）",
+          "kind": "做法 · 绿茶",
+          "note": "磨成抹茶之前、未经揉捻的片状茶叶。",
+          "alt": "碟上薄而形状不一的绿色叶片。"
+        }
+      }
+    },
+    {
+      "id": "genmaicha",
+      "group": "japanese",
+      "text": {
+        "en": {
+          "name": "Genmaicha",
+          "kind": "Blend · green tea + rice",
+          "note": "Green tea with roasted rice. The rice is an ingredient.",
+          "alt": "Green tea leaves mixed with tan roasted rice grains."
+        },
+        "zh-hant-hk": {
+          "name": "玄米茶（Genmaicha）",
+          "kind": "拼配 · 綠茶＋米",
+          "note": "綠茶加炒米；這裏的米確實是配料。",
+          "alt": "綠茶葉與黃褐色炒米混合。"
+        },
+        "zh-hans": {
+          "name": "玄米茶（Genmaicha）",
+          "kind": "拼配 · 绿茶＋米",
+          "note": "绿茶加炒米；这里的米确实是配料。",
+          "alt": "绿茶叶与黄褐色炒米混合。"
+        }
+      }
+    },
+    {
+      "id": "houjicha",
+      "group": "japanese",
+      "text": {
+        "en": {
+          "name": "Houjicha",
+          "kind": "Roasted style · green tea",
+          "note": "A roasted leaf-and-stem example. Brown does not make it black tea.",
+          "alt": "Brown roasted leaves with short tan stems."
+        },
+        "zh-hant-hk": {
+          "name": "焙茶（Houjicha）",
+          "kind": "焙火做法 · 綠茶",
+          "note": "焙過的葉與茶梗示例；褐色不等於紅茶。",
+          "alt": "褐色焙茶葉，混有短短的淺褐色茶梗。"
+        },
+        "zh-hans": {
+          "name": "焙茶（Houjicha）",
+          "kind": "焙火做法 · 绿茶",
+          "note": "焙过的叶与茶梗示例；褐色不等于红茶。",
+          "alt": "褐色焙茶叶，混有短短的浅褐色茶梗。"
+        }
+      }
+    },
+    {
+      "id": "english-breakfast",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "English Breakfast",
+          "kind": "Blend · usually black tea",
+          "note": "A black-tea blend example. Leaf size and recipe vary.",
+          "alt": "A mix of dark twisted leaves and smaller tea pieces."
+        },
+        "zh-hant-hk": {
+          "name": "英式早餐茶（English Breakfast）",
+          "kind": "拼配 · 通常是紅茶",
+          "note": "紅茶拼配示例；葉片大小和配方會不同。",
+          "alt": "深色條形葉與較小碎茶的混合。"
+        },
+        "zh-hans": {
+          "name": "英式早餐茶（English Breakfast）",
+          "kind": "拼配 · 通常是红茶",
+          "note": "红茶拼配示例；叶片大小和配方会不同。",
+          "alt": "深色条形叶与较小碎茶的混合。"
+        }
+      }
+    },
+    {
+      "id": "earl-grey",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Earl Grey",
+          "kind": "Flavoured tea · usually black",
+          "note": "Bergamot is an aroma cue here. Peel need not be in the tea.",
+          "alt": "Dark tea leaves with a bergamot citrus fruit shown separately."
+        },
+        "zh-hant-hk": {
+          "name": "伯爵茶（Earl Grey）",
+          "kind": "調香茶 · 通常是紅茶",
+          "note": "佛手柑只提示香氣；茶裏不一定有果皮。",
+          "alt": "深色茶葉，旁邊另畫一顆佛手柑果實。"
+        },
+        "zh-hans": {
+          "name": "伯爵茶（Earl Grey）",
+          "kind": "调香茶 · 通常是红茶",
+          "note": "佛手柑只提示香气；茶里不一定有果皮。",
+          "alt": "深色茶叶，旁边另画一颗佛手柑果实。"
+        }
+      }
+    },
+    {
+      "id": "assam",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Assam",
+          "kind": "Origin name",
+          "note": "Assam, northeast India. A regional locator, not an estate.",
+          "alt": "North-up schematic map with a dot locating Assam in northeastern India; no political boundaries.",
+          "image": "assam.svg"
+        },
+        "zh-hant-hk": {
+          "name": "阿薩姆（Assam）",
+          "kind": "產地名",
+          "note": "印度東北部的阿薩姆。只標大致位置，不是茶園。",
+          "alt": "上北下南的示意地圖，以圓點標出印度東北部阿薩姆的大致位置，不畫政治邊界。",
+          "image": "assam.zh-hant-hk.svg"
+        },
+        "zh-hans": {
+          "name": "阿萨姆（Assam）",
+          "kind": "产地名",
+          "note": "印度东北部的阿萨姆。只标大致位置，不是茶园。",
+          "alt": "上北下南的示意地图，以圆点标出印度东北部阿萨姆的大致位置，不画政治边界。",
+          "image": "assam.zh-hans.svg"
+        }
+      }
+    },
+    {
+      "id": "darjeeling",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Darjeeling",
+          "kind": "Origin name",
+          "note": "Darjeeling, northern West Bengal, India. West of Assam, in the Himalayan foothills.",
+          "alt": "North-up schematic map locating Darjeeling in northern West Bengal, India, west of Assam; no political boundaries.",
+          "image": "darjeeling.svg"
+        },
+        "zh-hant-hk": {
+          "name": "大吉嶺（Darjeeling）",
+          "kind": "產地名",
+          "note": "印度西孟加拉邦北部的大吉嶺，在阿薩姆以西、喜馬拉雅山麓。",
+          "alt": "上北下南的示意地圖，標出印度西孟加拉邦北部、阿薩姆以西的大吉嶺，不畫政治邊界。",
+          "image": "darjeeling.zh-hant-hk.svg"
+        },
+        "zh-hans": {
+          "name": "大吉岭（Darjeeling）",
+          "kind": "产地名",
+          "note": "印度西孟加拉邦北部的大吉岭，在阿萨姆以西、喜马拉雅山麓。",
+          "alt": "上北下南的示意地图，标出印度西孟加拉邦北部、阿萨姆以西的大吉岭，不画政治边界。",
+          "image": "darjeeling.zh-hans.svg"
+        }
+      }
+    },
+    {
+      "id": "ceylon-kenyan",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Ceylon / Kenyan",
+          "kind": "Origin name",
+          "note": "Left: Sri Lanka (Ceylon). Right: Kenya, East Africa. Two separate origins.",
+          "alt": "Two separately labeled north-up locator maps: Sri Lanka on the left and Kenya in East Africa on the right. Each has an approximate dot; no political boundaries or route.",
+          "image": "ceylon-kenyan.svg"
+        },
+        "zh-hant-hk": {
+          "name": "錫蘭／肯雅（Ceylon / Kenyan）",
+          "kind": "產地名",
+          "note": "左：斯里蘭卡（錫蘭）。右：東非肯雅。這是兩個不同產地。",
+          "alt": "兩幅分別標名、上北下南的示意地圖：左邊是斯里蘭卡，右邊是東非肯雅；各有大致位置圓點，不畫政治邊界或路線。",
+          "image": "ceylon-kenyan.zh-hant-hk.svg"
+        },
+        "zh-hans": {
+          "name": "锡兰／肯尼亚（Ceylon / Kenyan）",
+          "kind": "产地名",
+          "note": "左：斯里兰卡（锡兰）。右：东非肯尼亚。这是两个不同产地。",
+          "alt": "两幅分别标名、上北下南的示意地图：左边是斯里兰卡，右边是东非肯尼亚；各有大致位置圆点，不画政治边界或路线。",
+          "image": "ceylon-kenyan.zh-hans.svg"
+        }
+      }
+    },
+    {
+      "id": "nilgiri",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Nilgiri",
+          "kind": "Origin name",
+          "note": "The Nilgiri Hills in southern India. A regional locator, not an estate.",
+          "alt": "North-up schematic map with a dot locating the Nilgiri Hills in southern India; no political boundaries.",
+          "image": "nilgiri.svg"
+        },
+        "zh-hant-hk": {
+          "name": "尼爾吉里（Nilgiri）",
+          "kind": "產地名",
+          "note": "印度南部的尼爾吉里山區。只標大致位置，不是茶園。",
+          "alt": "上北下南的示意地圖，以圓點標出印度南部尼爾吉里山區的大致位置，不畫政治邊界。",
+          "image": "nilgiri.zh-hant-hk.svg"
+        },
+        "zh-hans": {
+          "name": "尼尔吉里（Nilgiri）",
+          "kind": "产地名",
+          "note": "印度南部的尼尔吉里山区。只标大致位置，不是茶园。",
+          "alt": "上北下南的示意地图，以圆点标出印度南部尼尔吉里山区的大致位置，不画政治边界。",
+          "image": "nilgiri.zh-hans.svg"
+        }
+      }
+    },
+    {
+      "id": "masala-chai",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Masala chai / chai latte",
+          "kind": "Prepared drink · recipe family",
+          "note": "One milky, spiced version. Ingredients and proportions vary.",
+          "alt": "A cup of tan milk tea with cinnamon and cardamom beside it."
+        },
+        "zh-hant-hk": {
+          "name": "馬薩拉茶／印度奶茶拿鐵",
+          "kind": "調製飲品 · 配方家族",
+          "note": "加奶與香料的一例；材料與比例各有不同。",
+          "alt": "一杯淺褐色奶茶，旁邊放着肉桂與豆蔻。"
+        },
+        "zh-hans": {
+          "name": "马萨拉茶／印度奶茶拿铁",
+          "kind": "调制饮品 · 配方家族",
+          "note": "加奶与香料的一例；材料与比例各有不同。",
+          "alt": "一杯浅褐色奶茶，旁边放着肉桂与豆蔻。"
+        }
+      }
+    },
+    {
+      "id": "milk-tea",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Milk tea / Hong Kong style",
+          "kind": "Prepared drink · milk tea",
+          "note": "An example cup of black tea with milk. Recipes and colour vary.",
+          "alt": "A ceramic cup and saucer holding caramel-coloured milk tea."
+        },
+        "zh-hant-hk": {
+          "name": "奶茶／港式奶茶",
+          "kind": "調製飲品 · 奶茶",
+          "note": "紅茶加奶的一杯示例；配方與顏色會不同。",
+          "alt": "陶瓷杯碟，杯裏是焦糖色的奶茶。"
+        },
+        "zh-hans": {
+          "name": "奶茶／港式奶茶",
+          "kind": "调制饮品 · 奶茶",
+          "note": "红茶加奶的一杯示例；配方与颜色会不同。",
+          "alt": "陶瓷杯碟，杯里是焦糖色的奶茶。"
+        }
+      }
+    },
+    {
+      "id": "boba",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Bubble / boba tea",
+          "kind": "Prepared drink · toppings",
+          "note": "A milk-tea-and-pearls example. Other bases and toppings exist.",
+          "alt": "A clear glass of milk tea with dark pearls and a wide straw."
+        },
+        "zh-hant-hk": {
+          "name": "珍珠奶茶／波霸",
+          "kind": "調製飲品 · 加配料",
+          "note": "奶茶加珍珠的一例；也有其他茶底與配料。",
+          "alt": "透明杯中的奶茶、深色珍珠與粗飲管。"
+        },
+        "zh-hans": {
+          "name": "珍珠奶茶／波霸",
+          "kind": "调制饮品 · 加配料",
+          "note": "奶茶加珍珠的一例；也有其他茶底与配料。",
+          "alt": "透明杯中的奶茶、深色珍珠与粗吸管。"
+        }
+      }
+    },
+    {
+      "id": "decaf",
+      "group": "western",
+      "text": {
+        "en": {
+          "name": "Decaf tea",
+          "kind": "Treatment · reduced caffeine",
+          "note": "You cannot see decaffeination. Check the label; decaf does not mean caffeine-free.",
+          "alt": "An unmarked tea packet beside a generic sample of loose leaves."
+        },
+        "zh-hant-hk": {
+          "name": "低因茶（Decaf）",
+          "kind": "處理方式 · 減少咖啡因",
+          "note": "外觀看不出低因處理；要讀標籤，也不代表零咖啡因。",
+          "alt": "無字茶包裝旁的一份示意散茶。"
+        },
+        "zh-hans": {
+          "name": "低因茶（Decaf）",
+          "kind": "处理方式 · 减少咖啡因",
+          "note": "外观看不出低因处理；要读标签，也不代表零咖啡因。",
+          "alt": "无字茶包装旁的一份示意散茶。"
+        }
+      }
+    }
+  ]
+}

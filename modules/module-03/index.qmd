@@ -16,6 +16,15 @@ Look beyond the cup and a larger cast comes into view: traders, growers, workers
 :::
 <!-- reader-guide:end -->
 
+<!-- history-illustration:history-cabinet:start -->
+```{=html}
+<figure class="tea-history-figure" data-history-illustration="history-cabinet">
+  <img src="../../assets/history-illustrations/history-cabinet.svg" width="760" height="320" alt="An illustrated collection of trade, tea practice, growing and serving objects." loading="lazy" decoding="async">
+  <figcaption><strong>A history made by many people</strong> Follow the leaf through trade, shared practice, plantation work and everyday tables. These original illustrations introduce the chapter’s themes; they are not historical artifacts or reconstructions.</figcaption>
+</figure>
+```
+<!-- history-illustration:history-cabinet:end -->
+
 <!-- cultural-games:start -->
 ::: {.tea-pilot-link}
 **Travel through tea history and culture**

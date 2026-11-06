@@ -1,0 +1,378 @@
+{
+  "base_commit": "9a2cba35fb4173270dd02948bb60c006a7a76556",
+  "type_title": {
+    "en": "One plant, six processing families",
+    "zh-hant-hk": "同一種茶樹，六類加工路線",
+    "zh-hans": "同一种茶树，六类加工路线"
+  },
+  "type_intro": {
+    "en": "Read these as parallel paths, not one oxidation scale. Each sketch highlights a distinguishing step, not a complete factory recipe.",
+    "zh-hant-hk": "把它們看成並列路線，不是一條氧化刻度。每幅圖只突出關鍵工序，不是完整製茶流程。",
+    "zh-hans": "把它们看成并列路线，不是一条氧化刻度。每幅图只突出关键工序，不是完整制茶流程。"
+  },
+  "plant_label": {
+    "en": "Tea plant · Camellia sinensis",
+    "zh-hant-hk": "茶樹 · Camellia sinensis",
+    "zh-hans": "茶树 · Camellia sinensis"
+  },
+  "types": [
+    {
+      "id": "green",
+      "name": {
+        "en": "Green",
+        "zh-hant-hk": "綠茶",
+        "zh-hans": "绿茶"
+      },
+      "note": {
+        "en": "Early heat limits enzymatic oxidation; shaping and drying finish the tea.",
+        "zh-hant-hk": "先加熱抑制酶促氧化，再經整形、乾燥等工序。",
+        "zh-hans": "先加热抑制酶促氧化，再经整形、干燥等工序。"
+      },
+      "alt": {
+        "en": "Leaves in a heated pan, one example of early heat fixation.",
+        "zh-hant-hk": "葉子在加熱的鍋中，示意早期殺青的一種方式。",
+        "zh-hans": "叶子在加热的锅中，示意早期杀青的一种方式。"
+      }
+    },
+    {
+      "id": "yellow",
+      "name": {
+        "en": "Yellow",
+        "zh-hant-hk": "黃茶",
+        "zh-hans": "黄茶"
+      },
+      "note": {
+        "en": "Early heat, then warm, moist yellowing and drying. The extra yellowing step matters.",
+        "zh-hant-hk": "先殺青，再悶黃、乾燥。重點是多了溫熱濕潤的悶黃工序。",
+        "zh-hans": "先杀青，再闷黄、干燥。重点是多了温热湿润的闷黄工序。"
+      },
+      "alt": {
+        "en": "A heated pan leads to a covered bundle, representing yellowing after fixation.",
+        "zh-hant-hk": "加熱鍋連到包裹的茶葉，示意殺青後悶黃。",
+        "zh-hans": "加热锅连到包裹的茶叶，示意杀青后闷黄。"
+      }
+    },
+    {
+      "id": "white",
+      "name": {
+        "en": "White",
+        "zh-hant-hk": "白茶",
+        "zh-hans": "白茶"
+      },
+      "note": {
+        "en": "Wither, then dry. Some oxidation occurs; this is not green tea’s early-heat path.",
+        "zh-hant-hk": "萎凋後乾燥，當中會有一定氧化；不是綠茶先殺青的路線。",
+        "zh-hans": "萎凋后干燥，当中会有一定氧化；不是绿茶先杀青的路线。"
+      },
+      "alt": {
+        "en": "Leaf laid out on a tray with airflow, representing withering and drying.",
+        "zh-hant-hk": "茶葉攤放在托盤上，氣流表示萎凋與乾燥。",
+        "zh-hans": "茶叶摊放在托盘上，气流表示萎凋与干燥。"
+      }
+    },
+    {
+      "id": "oolong",
+      "name": {
+        "en": "Oolong",
+        "zh-hant-hk": "烏龍茶",
+        "zh-hans": "乌龙茶"
+      },
+      "note": {
+        "en": "Bruising and partial oxidation, then heat and drying. The extent varies by style.",
+        "zh-hant-hk": "做青、部分氧化，再殺青、乾燥。氧化程度因做法而異。",
+        "zh-hans": "做青、部分氧化，再杀青、干燥。氧化程度因做法而异。"
+      },
+      "alt": {
+        "en": "Leaves move in a basket; a leaf inset has marked edges to suggest bruising and oxidation.",
+        "zh-hant-hk": "茶葉在籃中翻動，旁邊放大的葉緣標示碰傷與氧化。",
+        "zh-hans": "茶叶在篮中翻动，旁边放大的叶缘标示碰伤与氧化。"
+      }
+    },
+    {
+      "id": "black",
+      "name": {
+        "en": "Black · hong cha",
+        "zh-hant-hk": "紅茶 · black tea",
+        "zh-hans": "红茶 · black tea"
+      },
+      "note": {
+        "en": "Rolling or cutting allows extensive enzymatic oxidation; drying finishes the process.",
+        "zh-hant-hk": "揉捻或切碎後充分酶促氧化，最後乾燥。",
+        "zh-hans": "揉捻或切碎后充分酶促氧化，最后干燥。"
+      },
+      "alt": {
+        "en": "A rolling tool leads to a tray of leaves exposed to air.",
+        "zh-hant-hk": "揉捻工具連到接觸空氣的茶葉托盤。",
+        "zh-hans": "揉捻工具连到接触空气的茶叶托盘。"
+      }
+    },
+    {
+      "id": "dark",
+      "name": {
+        "en": "Dark · hei cha",
+        "zh-hant-hk": "黑茶 · dark tea",
+        "zh-hans": "黑茶 · dark tea"
+      },
+      "note": {
+        "en": "Microbial fermentation and aging are important here. Ripe Pu-erh is a clear example.",
+        "zh-hant-hk": "這一支重視微生物發酵與陳化；熟普洱是清楚的例子。",
+        "zh-hans": "这一支重视微生物发酵与陈化；熟普洱是清楚的例子。"
+      },
+      "alt": {
+        "en": "A covered leaf pile beside an enlarged, symbolic view of microbes.",
+        "zh-hant-hk": "一堆覆蓋的茶葉，旁邊以放大示意圖表示微生物。",
+        "zh-hans": "一堆覆盖的茶叶，旁边以放大示意图表示微生物。"
+      }
+    }
+  ],
+  "type_note": {
+    "en": "Schematic, not a color key or a quality ranking. Raw (sheng) Pu-erh follows a different route from ripe (shou); it changes during storage, and its classification needs that context.",
+    "zh-hant-hk": "示意圖不是靠顏色認茶的圖鑑，也不是品質排名。生普洱與熟普洱的加工路線不同；生茶會在儲存中變化，分類時須交代這個背景。",
+    "zh-hans": "示意图不是靠颜色认茶的图鉴，也不是品质排名。生普洱与熟普洱的加工路线不同；生茶会在储存中变化，分类时须交代这个背景。"
+  },
+  "grade_title": {
+    "en": "Which kind of word is on the packet?",
+    "zh-hant-hk": "包裝上的詞，屬於哪一種？",
+    "zh-hans": "包装上的词，属于哪一种？"
+  },
+  "grade_intro": {
+    "en": "Size words and quality tiers answer different questions. Keep manufacturing methods and style names separate too.",
+    "zh-hant-hk": "大小詞與品質檔次回答的是不同問題；製法和做法名稱也要分開。",
+    "zh-hans": "大小词与品质档次回答的是不同问题；制法和做法名称也要分开。"
+  },
+  "size_title": {
+    "en": "Particle-size words",
+    "zh-hant-hk": "顆粒大小用語",
+    "zh-hans": "颗粒大小用语"
+  },
+  "size_question": {
+    "en": "What form are the sorted leaf particles?",
+    "zh-hant-hk": "篩分後的茶葉顆粒，是甚麼形態？",
+    "zh-hans": "筛分后的茶叶颗粒，是什么形态？"
+  },
+  "sizes": [
+    {
+      "id": "op",
+      "name": {
+        "en": "OP · Orange Pekoe",
+        "zh-hant-hk": "OP · 橙白毫",
+        "zh-hans": "OP · 橙白毫"
+      },
+      "note": {
+        "en": "Whole-leaf grade word",
+        "zh-hant-hk": "全葉類等級詞",
+        "zh-hans": "全叶类等级词"
+      },
+      "alt": {
+        "en": "A dish of long, twisted leaves.",
+        "zh-hant-hk": "一碟長而卷曲的茶葉。",
+        "zh-hans": "一碟长而卷曲的茶叶。"
+      }
+    },
+    {
+      "id": "bop",
+      "name": {
+        "en": "BOP · Broken Orange Pekoe",
+        "zh-hant-hk": "BOP · 碎橙白毫",
+        "zh-hans": "BOP · 碎橙白毫"
+      },
+      "note": {
+        "en": "Broken-leaf pieces",
+        "zh-hant-hk": "碎葉片",
+        "zh-hans": "碎叶片"
+      },
+      "alt": {
+        "en": "A dish of broken leaf fragments.",
+        "zh-hant-hk": "一碟碎茶葉片。",
+        "zh-hans": "一碟碎茶叶片。"
+      }
+    },
+    {
+      "id": "fannings",
+      "name": {
+        "en": "Fannings",
+        "zh-hant-hk": "Fannings · 碎茶",
+        "zh-hans": "Fannings · 碎茶"
+      },
+      "note": {
+        "en": "Small leaf particles",
+        "zh-hant-hk": "細小茶葉顆粒",
+        "zh-hans": "细小茶叶颗粒"
+      },
+      "alt": {
+        "en": "A dish of very small leaf fragments.",
+        "zh-hant-hk": "一碟細小的碎茶顆粒。",
+        "zh-hans": "一碟细小的碎茶颗粒。"
+      }
+    },
+    {
+      "id": "dust",
+      "name": {
+        "en": "Dust",
+        "zh-hant-hk": "Dust · 末茶",
+        "zh-hans": "Dust · 末茶"
+      },
+      "note": {
+        "en": "Very fine particles",
+        "zh-hant-hk": "很細的茶葉顆粒",
+        "zh-hans": "很细的茶叶颗粒"
+      },
+      "alt": {
+        "en": "A dish of fine brown tea particles, not green matcha powder.",
+        "zh-hant-hk": "一碟細小的褐色茶葉顆粒，不是綠色抹茶粉。",
+        "zh-hans": "一碟细小的褐色茶叶颗粒，不是绿色抹茶粉。"
+      }
+    }
+  ],
+  "size_note": {
+    "en": "Illustrative shapes, not universal sieve sizes. Larger does not automatically mean better; finer particles often infuse faster.",
+    "zh-hant-hk": "形狀只作示意，不代表通用篩孔尺寸。較大不一定較好；較細的顆粒往往浸出較快。",
+    "zh-hans": "形状只作示意，不代表通用筛孔尺寸。较大不一定较好；较细的颗粒往往浸出较快。"
+  },
+  "method_title": {
+    "en": "Manufacturing methods, not size grades",
+    "zh-hant-hk": "製法，不是顆粒等級",
+    "zh-hans": "制法，不是颗粒等级"
+  },
+  "methods": [
+    {
+      "id": "orthodox",
+      "name": {
+        "en": "Orthodox",
+        "zh-hant-hk": "傳統製法 · Orthodox",
+        "zh-hans": "传统制法 · Orthodox"
+      },
+      "note": {
+        "en": "Rolling can yield whole leaf, broken leaf, fannings and dust after sorting.",
+        "zh-hant-hk": "揉捻後再篩分，可以得到全葉、碎葉、碎茶及末茶。",
+        "zh-hans": "揉捻后再筛分，可以得到全叶、碎叶、碎茶及末茶。"
+      },
+      "alt": {
+        "en": "A rolling tool above twisted tea leaves.",
+        "zh-hant-hk": "揉捻工具下方是卷曲的茶葉。",
+        "zh-hans": "揉捻工具下方是卷曲的茶叶。"
+      }
+    },
+    {
+      "id": "ctc",
+      "name": {
+        "en": "CTC · crush, tear, curl",
+        "zh-hant-hk": "CTC · 切碎揉捻",
+        "zh-hans": "CTC · 切碎揉捻"
+      },
+      "note": {
+        "en": "A different mechanical method produces granules, which are also sorted by size.",
+        "zh-hant-hk": "另一種機械加工路線形成顆粒，之後同樣會按大小篩分。",
+        "zh-hans": "另一种机械加工路线形成颗粒，之后同样会按大小筛分。"
+      },
+      "alt": {
+        "en": "Two mechanical rollers above small tea granules.",
+        "zh-hant-hk": "兩個機械滾筒下方是細小茶顆粒。",
+        "zh-hans": "两个机械滚筒下方是细小茶颗粒。"
+      }
+    }
+  ],
+  "other": [
+    {
+      "id": "tiers",
+      "name": {
+        "en": "Quality-tier labels",
+        "zh-hant-hk": "品質檔次標籤",
+        "zh-hans": "品质档次标签"
+      },
+      "note": {
+        "en": "Examples: 特級 / 一級 / 二級. Read the particular tea’s stated standard or grading scheme; these labels do not translate into OP or BOP.",
+        "zh-hant-hk": "例如：特級／一級／二級。要看該茶所用的標準或分級方法；這些詞不能換算成 OP 或 BOP。",
+        "zh-hans": "例如：特级／一级／二级。要看该茶所用的标准或分级方法；这些词不能换算成 OP 或 BOP。"
+      },
+      "alt": {
+        "en": "A tea packet with a plain printed label, without medals or ranking symbols.",
+        "zh-hant-hk": "帶有普通標籤的茶包裝，沒有獎章或排名符號。",
+        "zh-hans": "带有普通标签的茶包装，没有奖章或排名符号。"
+      }
+    },
+    {
+      "id": "shade",
+      "name": {
+        "en": "Style + shade names",
+        "zh-hant-hk": "做法＋遮蔭名稱",
+        "zh-hans": "做法＋遮荫名称"
+      },
+      "note": {
+        "en": "Gyokuro, tencha and matcha describe shaded growing and finishing styles. They are not OP grades; matcha powder is not the black-tea dust grade.",
+        "zh-hant-hk": "玉露、碾茶、抹茶描述遮蔭栽培與加工做法，不是 OP 等級；抹茶粉也不是紅茶的末茶等級。",
+        "zh-hans": "玉露、碾茶、抹茶描述遮荫栽培与加工做法，不是 OP 等级；抹茶粉也不是红茶的末茶等级。"
+      },
+      "alt": {
+        "en": "Tea shoots growing under a shade canopy.",
+        "zh-hant-hk": "遮蔭棚下生長的茶梢。",
+        "zh-hans": "遮荫棚下生长的茶梢。"
+      }
+    }
+  ],
+  "source_label": {
+    "en": "Sources for this visual guide:",
+    "zh-hant-hk": "本圖解資料來源：",
+    "zh-hans": "本图解资料来源："
+  },
+  "type_sources": [
+    {
+      "url": "https://www.iso.org/standard/75419.html",
+      "label": {
+        "en": "ISO tea classification",
+        "zh-hant-hk": "ISO 茶葉分類",
+        "zh-hans": "ISO 茶叶分类"
+      }
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8605308/",
+      "label": {
+        "en": "processing review",
+        "zh-hant-hk": "加工綜述",
+        "zh-hans": "加工综述"
+      }
+    },
+    {
+      "url": "https://cnafun.moa.gov.cn/zt/gjcr/202005/t20200513_6343917.html",
+      "label": {
+        "en": "raw / ripe Pu-erh",
+        "zh-hant-hk": "生／熟普洱",
+        "zh-hans": "生／熟普洱"
+      }
+    }
+  ],
+  "grade_sources": [
+    {
+      "url": "https://teasrilanka.org/tea-grade",
+      "label": {
+        "en": "Sri Lankan grade examples",
+        "zh-hant-hk": "斯里蘭卡分級例子",
+        "zh-hans": "斯里兰卡分级例子"
+      }
+    },
+    {
+      "url": "https://www.upasitearesearch.org/orthodox/",
+      "label": {
+        "en": "orthodox manufacture",
+        "zh-hant-hk": "傳統製法",
+        "zh-hans": "传统制法"
+      }
+    },
+    {
+      "url": "https://www.forestry.gov.cn/c/www/yltl/592556.jhtml",
+      "label": {
+        "en": "tea-specific quality standards",
+        "zh-hant-hk": "個別茶類的品質標準",
+        "zh-hans": "个别茶类的品质标准"
+      }
+    },
+    {
+      "url": "https://www.ujicha.or.jp/en/knowledge/kinds/",
+      "label": {
+        "en": "Japanese tea styles",
+        "zh-hant-hk": "日本茶做法",
+        "zh-hans": "日本茶做法"
+      }
+    }
+  ]
+}
