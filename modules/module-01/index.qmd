@@ -87,7 +87,7 @@ Before you leave the chemical core, here is a short field guide, the kind of thi
 
 **If you want malt and body:** choose black tea. You are choosing the "let it brown" factory path on purpose, because the darker pigments are the mouthfeel makers.[^2]
 
-**If you are reading claims about L-theanine and attention or mood:** remember that ordinary cups deliver **tens of milligrams**, not the **100–200 mg** doses used in many lab trials.[^3][^4] Amounts vary with tea and preparation, and they do not predict a specific feeling. See the [Cup reference](../../cup-reference.qmd) before comparing a drink with an isolated dose.
+**If you are reading claims about L-theanine and attention or mood:** Keenan's measured **200 mL** cups averaged **7.9 mg** for green tea and **24.2 mg** for black tea, below the **100–200 mg** doses used in many lab trials.[^3][^4] Amounts vary with tea and preparation, and they do not predict a specific feeling. See the [Cup reference](../../cup-reference.qmd) before comparing a drink with an isolated dose.
 
 **If someone says cold brew is caffeine-free:** smile, then remember the clock. Cold only slows the exit of caffeine from the leaf.[^5] Time is the variable that actually matters.
 
