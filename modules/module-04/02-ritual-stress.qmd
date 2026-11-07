@@ -44,7 +44,7 @@ Before a hard exam or a tough meeting, you do the same three steps every time: b
 
 A short, familiar sequence gives the mind something concrete to do. You measure the leaves, watch the water, and wait. It may offer an attention anchor before the next hard task; the studies below do not test a tea-brewing break or show that it lowers your heart rate.
 
-Countable acts matter here. You measure the same leaf amount, you watch whether the water is ready, and you wait out the steep. Each step has a right answer *in the moment*, so anxious rehearsal of the exam or the email has less room to keep looping. That is an attention anchor. It is not a clinical protocol, and it is not a personality makeover. The three-step teaching sketch stays in the foldout below when you want the poster. The open story only needs the idea that a fixed script interrupts circular worry with acts you can finish.
+Countable acts matter here. You measure the leaves, watch whether the water is ready, and wait out the steep. Those steps could serve as an attention anchor before an exam or a difficult email. That possibility is a teaching idea, not a tested tea protocol; a comparison study would need to measure any effect on worry.
 
 Warmth, in the previous lesson, was mostly passive: you hold a mug. Ritual here is active: you *make* the tea. This lesson treats that difference seriously.
 
@@ -52,8 +52,8 @@ Warmth, in the previous lesson, was mostly passive: you hold a mug. Ritual here 
 
 Three linked claims show up again and again.
 
-1. **Attention anchor.** A high-stress task tends to trigger circular worry. The physical steps of a tea ritual demand focused attention, and that demand can interrupt the loop. You measure leaves, you monitor water temperature, and you watch the leaves unfurl.
-2. **Body signals need a separate test.** Lang and colleagues found that induced anxiety was followed by more repetitive and rigid movements; a rise in heart rate predicted those movements.[^2] They did not find that performing a ritual lowered heart rate, skin stress signals, or [HRV](../../glossary.qmd#hrv).
+1. **Attention anchor.** The physical steps of brewing demand attention: measuring leaves, monitoring water, and watching the steep. Whether they interrupt anxious looping has not been tested in the studies cited here.
+2. **Body signals need a separate test.** Lang and colleagues found that induced anxiety was followed by more repetitive and rigid movements; a rise in heart rate predicted those movements.[^2] The study did not test whether performing a ritual lowers heart rate, skin stress signals, or [HRV](../../glossary.qmd#hrv).
 3. **Mental stamina.** A brief step back from hard analysis can reduce fatigue before you return to the problem. The hope is to preserve careful thinking, rather than grind it down.
 
 Integrative reviews of ritual psychology describe rituals as structured, repetitive, symbolic sequences of action. Those sequences can reduce anxiety and restore a sense of control, especially when the next task feels high-stakes.[^1] Hobson and colleagues organize the functions of ritual around emotion regulation, performance goal states, and social connection.[^1]
@@ -162,7 +162,7 @@ You *can* brew mindfully, or follow a fixed sequence. The cited experiment teste
 
 A brewing sequence is a cultural practice; the L-theanine study cited here tested a compound during arithmetic, not a brewing ritual or HRV.[^3] That distinction matters for [Chapter 2 · Body signals](../module-02/04-body-signals.qmd) and for Chapter 5's decision games: any effect of ritual on decisions would need its own test.
 
-Say the rhyme carefully. [L-theanine](../../glossary.qmd#l-theanine) in Chapter 2 is a chemistry story: a guest in the leaf that can calm stress markers during hard arithmetic, in the designs that are cited.[^3] A brewing script is a choreography story: predictable steps that can blunt anxious looping and the error alarm. Both can leave you clearer for the next hard task. They are still different mechanisms. One rides in the cup, and one rides in the hands. Do not collapse them into a single "tea calm" switch, and do not invent new Kimura numbers here. Body signals still owns the chemistry depth.
+Say the rhyme carefully. [L-theanine](../../glossary.qmd#l-theanine) in Chapter 2 is a chemistry story: the cited study tested stress responses to an administered compound during arithmetic.[^3] A brewing script is a possible attention story, but these papers did not test whether it calms rumination or changes the error signal. One intervention involves a compound, the other would involve actions; their effects must be tested separately.
 
 Context is part of the dose. Temperature, ritual, and expectation ride along with caffeine and L-theanine. That is the sentence to carry into [Chapter 5](../module-05/index.qmd). The three-dial map in [Section 4](04-context-dials-map.qmd) will hold warmth, script, and name together, without stealing this lesson's job.
 
