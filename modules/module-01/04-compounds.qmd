@@ -42,13 +42,13 @@ The superscript numbers are clickable footnotes. You jump to the source, the car
 
 Most everyday talk about tea chemistry centers on three names. Meet them as guests who arrive at different speeds and leave at different times, after the plant ([1.1](01-plants.qmd)), the factory fork ([1.2](02-processing.qmd)), and the kettle ([1.3](03-brewing.qmd)) have already done their work.
 
-For the open story, you only need three plain clocks: **wake-up** (hours), **calm-focus** (tens of minutes), and **green-tea plant compound** (in between). The molecular formulas, the half-life tables, the liver-enzyme names, and the receptor detail live in the foldouts.
+For the open story, keep one distinction in mind: a blood-concentration timeline is not a schedule for a feeling. Amounts and timing vary with tea and preparation; measured details and mechanisms live in the foldouts.
 
 ::: {.callout-tip title="Everyday words for this sitting"}
 - **Wake-up guest** is caffeine, and it blocks the "time for sleep" feeling.
-- **Calm-focus guest** is [L-theanine](../../glossary.qmd#l-theanine), which softens noisy chatter so attention feels less panicky.
+- **Research question:** L-theanine is an amino acid in tea that has been studied for possible effects on attention and mood. A cup does not guarantee a calming effect.[^8][^10][^11]
 - **Green-tea plant-compound guest** is [EGCG](../../glossary.qmd#egcg), the standout catechin in green tea.
-- **Not instant Zen** means the peak effects sit tens of minutes after drinking, and not at the first sip.
+- **Not instant Zen** reminds us that study timings describe specific measurements, not a guaranteed moment when a cup will feel calming.
 :::
 
 ## Caffeine — the familiar wake-up guest
@@ -74,7 +74,7 @@ For the open story, you only need three plain clocks: **wake-up** (hours), **cal
 
 That last clause matters. Your friend's "still buzzing at dinner" can be biochemistry, and it need not be drama. Open the foldout below when you want the formula, the half-life range, and the liver-enzyme name behind that spread.
 
-## L-theanine — the calm-focus guest
+## L-theanine — an amino acid under study
 
 <!-- tea-compound-illustration:l-theanine:start -->
 ```{=html}
@@ -93,7 +93,7 @@ That last clause matters. Your friend's "still buzzing at dinner" can be biochem
 ```
 <!-- tea-compound-illustration:l-theanine:end -->
 
-**L-theanine** is a calming amino acid in tea. In plain terms, it gently turns down excess "go" chatter and supports calmer, more controlled attention. Think of a volume knob, not a sleeping pill. The typical story in blood is a **shorter** clock than caffeine, often measured in **tens of minutes** to a bit over an hour.[^2][^3]
+**L-theanine** is an amino acid found in tea. Researchers have studied it, alone and with caffeine, for possible effects on attention and mood. Those studies do not establish a reliable calming effect from an everyday cup: tea varies in composition and preparation, while some trials use purified, measured doses.[^8][^10][^11] Human blood measurements give L-theanine a shorter time course than caffeine, but that does not predict how a person will feel.[^5][^6]
 
 ## EGCG — the green-tea catechin guest
 
@@ -118,17 +118,17 @@ That last clause matters. Your friend's "still buzzing at dinner" can be biochem
 
 ## Why "I drank tea an hour ago" is three stories
 
-"Half-life," in everyday clothes, means roughly how long until the amount in blood falls by about half. It does not mean "gone completely." That matters because "I drank tea an hour ago" is not the same story for each compound. Caffeine often hangs around for hours. L-theanine's plasma clock is shorter. EGCG sits in between. Human time-course work shows oral peaks on the order of tens of minutes to a couple of hours, depending on the compound and the dose form.[^5][^6]
+"Half-life," in everyday clothes, means roughly how long until the amount in blood falls by about half. It does not mean "gone completely." That matters because "I drank tea an hour ago" is not the same story for each compound. Caffeine often hangs around for hours. L-theanine's plasma clock is shorter. EGCG sits in between. Human time-course studies measure blood concentrations, but those measurements do not predict when or how someone will feel an effect from tea.[^5][^6]
 
-So what should you expect when you drink? You can expect alertness from caffeine, and a calmer-focus contribution from L-theanine, but not "instant Zen" at the first sip. Peak blood levels for L-theanine are often around **35–50 minutes** after drinking. Clear brain-wave changes tied to L-theanine are usually reported about **30–45 minutes** after ingestion.[^7] Combined L-theanine-plus-caffeine drinks in volunteer studies often show attention benefits around the one-hour mark.[^8][^10]
+Blood concentration, brain-wave recordings, task scores, and subjective feelings are different measurements. Studies report outcomes after specific doses and protocols; those results do not give a dependable timetable for how an ordinary cup will feel. Keep the preparation, dose, participant group, and measured outcome in view.[^5][^6][^8][^10]
 
-That last point answers a popular story, the claim that "Tea gives instant Zen focus." L-theanine does reach the brain, but the timing above is what the sources report, and that timing is not the first sip.
+"Tea gives instant Zen focus" goes beyond what these studies show. Results from controlled doses and measured tasks do not establish that every cup produces a calming or focused feeling.[^8][^10][^11]
 
 ::: {.callout-note collapse="true" title="More detail: formulas, half-lives, and why people differ"}
 | Guest | Formula | Approx. molecular weight | Typical plasma half-life | Everyday role |
 | --- | --- | --- | --- | --- |
 | Caffeine | C₈H₁₀N₄O₂ | 194.19 g/mol | About **3–7 hours** | Blocks adenosine "sleepy" receptors |
-| L-Theanine | C₇H₁₄N₂O₃ | 174.20 g/mol | About **50–80 minutes** | Softens excess excitatory chatter; supports calm focus |
+| L-Theanine | C₇H₁₄N₂O₃ | 174.20 g/mol | About **50–80 minutes** | Studied for possible effects on attention and mood; a cup does not guarantee an effect |
 | EGCG | C₂₂H₁₈O₁₁ | 458.37 g/mol | About **2–5 hours** | Major green-tea catechin; inflammatory / cell-signaling research |
 
 Half-life means "about how long until blood levels fall by half," and it does not mean "gone completely." Caffeine often hangs around for hours, L-theanine's plasma clock is shorter, and EGCG sits in between.[^1][^4][^5]
@@ -137,7 +137,7 @@ Half-life means "about how long until blood levels fall by half," and it does no
 
 **Receptor and pathway labels (for Chapter 2 cross-links).** Caffeine's everyday action is adenosine-receptor antagonism.[^1] L-theanine can weakly compete at certain glutamate receptor sites (AMPA, kainate, and NMDA-related), far less potently than glutamate itself, which fits the "turn down the noisy chatter" picture.[^2][^3] EGCG appears in NF-κB-related and other cell-signaling talk in the sources. Chapter 1 only needs the timing and the green-tea identity.[^4]
 
-Human time-course work shows oral peaks on the order of tens of minutes to a couple of hours, depending on the compound and the dose form.[^5][^6] Clear alpha-wave changes tied to L-theanine are often reported about **30–45 minutes** after ingestion, and combined L-theanine-plus-caffeine attention benefits often show around the one-hour mark.[^7][^8]
+Cognition trials measure separate outcomes under particular protocols; they do not provide a precise timetable for how someone will feel after an ordinary cup.[^8][^10]
 :::
 
 ::: {.callout-note collapse="true" title="More detail: lab milligrams vs grocery mug"}
@@ -158,29 +158,23 @@ Once you are done with the three guests, the [chapter hub](index.qmd) keeps a sh
 <!-- reading-fold:start -->
 :::::::: {.callout-note collapse="true" title="Recap when you need it"}
 
-Three named guests share the cup. Caffeine blocks sleepiness signals, and it can linger for hours. L-theanine supports calmer focus on a shorter plasma clock. EGCG is the standout green-tea plant compound, and it sits on a multi-hour scale. None of them peak at the first sip. Lab capsules and grocery bags are different worlds.
+Three compounds raise different questions: caffeine and alertness, L-theanine and possible attention or mood effects, and EGCG and green-tea catechin chemistry. Their measured time courses differ, but blood levels do not translate into a precise schedule for a subjective effect. Lab doses and tea cups are not interchangeable.
 ::::::::
 <!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
-- Three guests run on different clocks: wake-up (caffeine), calm-focus (L-theanine), and the green-tea plant compound (EGCG).
+- These compounds raise different research questions: caffeine and alertness, L-theanine and possible attention or mood effects, and EGCG and catechin chemistry.
 - Cups deliver **tens of mg**, while many lab trials use **100–200 mg** capsules, so do not confuse the two.
-- "Not instant Zen": calm-focus often trails the first sip by tens of minutes.
+- "Not instant Zen": study timings do not predict the exact moment, or whether, one person will notice a difference from a cup.
 :::
 
 ::: {.callout-note collapse="true" title="More detail: what this means when you drink tea"}
-- Plan attention for the **30–60+ minute** window if you care about L-theanine-linked calm focus, and not for the first swallow.[^7][^8]
+- Keep timing claims tied to a study's dose and measured outcome; they are not a schedule for your attention after tea.[^8][^10]
 - Do not compare your tea bag to a 200 mg theanine capsule without the [Cup reference](../../cup-reference.qmd).
 - Remember that people clear caffeine differently. Your friend's "still buzzing" can be biochemistry, and it need not be drama.[^9]
 :::
 
-::: {.callout-note collapse="true" title="More detail: three clocks on one timeline"}
-Imagine you drink at 9:00.
-
-- **~9:30–9:45** is when many L-theanine alpha and early cognitive windows open in the literature.[^7]
-- **~10:00–10:30** is when combined caffeine-plus-theanine attention tests often sit.[^8][^10]
-- **Afternoon** is when caffeine may still be hanging around (a half-life measured in hours), while L-theanine's plasma story has largely moved on.[^1]
-
-That staggered timeline is why Chapter 2 can talk about "awake but calmer" without promising magic at sip zero.
+::: {.callout-note collapse="true" title="More detail: reading study timelines"}
+Each study starts its clock from a particular dose and preparation. Blood concentrations, brain measurements, and task scores are different outcomes, and none is a reliable timetable for how an everyday cup will feel. Check what participants took, who took it, and what researchers measured before applying a result to tea drinking.[^5][^6][^8][^10]
 :::
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 1 · Section 4"}
@@ -197,7 +191,7 @@ That staggered timeline is why Chapter 2 can talk about "awake but calmer" witho
 Chapter 2's dual story only works if you remember who is in the bloodstream.
 
 1. **Caffeine** keeps the sleepy signal from parking as easily, and that can last for hours in many people.[^1]
-2. **L-theanine** arrives on a shorter clock and is studied for calmer attention and for stress-buffering, not as a first-sip spell.[^7][^8]
+2. **L-theanine** has been studied for possible attention and mood effects; results from isolated doses do not establish what an ordinary cup will feel like.[^8][^10][^11]
 3. **EGCG** is the green-tea catechin headline compound. It matters for what was extracted ([Chapter 1 · Section 3](03-brewing.qmd)), even when Chapter 2 spends more words on caffeine and theanine together.
 
 If you skip dose and timing, Chapter 2 turns into a slogan. If you keep them, Chapter 2 becomes a map.
@@ -228,7 +222,6 @@ The [Cup reference](../../cup-reference.qmd) exists for that translation.
 
 [^6]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake and metabolism in healthy humans (cited *Journal of Nutrition* entry).
 
-[^7]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
 
 [^8]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
 
