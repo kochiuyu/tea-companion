@@ -69,14 +69,14 @@ lang: zh-Hans
 
 制茶的人，要在两条大路里选一条。
 
-**第一条路：用热早点停住褐变。** 把叶子加热到够热，让叶子变褐的酶就被永久关掉。简单的植物化合物仍然保持简单。这就是**绿茶**的化学基础。叶子仍偏绿，是因为那些化合物没有得到机会连成深色色素。[^1]
+**第一条路：用热早点停住褐变。** 及早加热叶子，让褐变酶在大量氧化发生前失去活性。简单的植物化合物仍然保持简单。这就是**绿茶**的化学基础。叶子仍偏绿，是因为那些化合物没有得到机会连成深色色素。[^1]
 
 **第二条路：让酶在空气里干活。** 酶保持活跃，简单的植物化合物就连成更大、带着颜色的分子。先是明亮的金红，然后再变成更深、体感更厚的颜色。这条路通向**红茶**。[^2]
 
 不妨想一想烤面包。停得早，得到的是浅色吐司；放得久一点，颜色就深了。绿茶对红茶，并不完全等于烤面包。不过，**是早点停住变化，还是让它跑完**，确实是同一类选择。
 
 ::: {.callout-note collapse="true" title="更多详情：多酚氧化酶、热杀，以及为什么“发酵”让人糊涂"}
-细胞被压碎的时候，大部分褐变工作是两种叶酶在做：**多酚氧化酶（PPO）**和**过氧化物酶（POD）**。[^1] 把叶子加热到约 **82℃–85℃** 以上，多酚氧化酶就被永久失活。这把化学锁，保住了绿茶的儿茶素仍然是单体。[^1] 如果让酶在空气中保持活跃，简单的儿茶素就会耦合成**茶黄素**（明亮金红的二聚体），再进一步变成**茶红素**（更深、体感更厚的聚合物）。[^2]
+细胞被压碎的时候，大部分褐变工作是两种叶酶在做：**多酚氧化酶（PPO）**和**过氧化物酶（POD）**。[^1] 杀青时加热会降低多酚氧化酶的活性，帮助绿茶保留儿茶素。一项研究测量茶叶多酚氧化酶提取物，发现失活程度取决于温度和加热时间，不同部分的酶耐热性也不同；**82℃–85℃ 并不是通用的开关**。[^5] 如果让酶在空气中保持活跃，简单的儿茶素就会耦合成**茶黄素**（明亮金红的二聚体），再进一步变成**茶红素**（更深、体感更厚的聚合物）。[^2]
 
 本站把第一步大致写成：
 
@@ -157,7 +157,7 @@ lang: zh-Hans
 
 ::: {.callout-tip collapse="true" title="点开更多详情：第一章第二节带走清单"}
 1. 多酚氧化酶、过氧化物酶，再加上空气，就是褐变的化学。[^1]
-2. 大约 82–85℃ 的热杀，把绿路径锁上。[^1]
+2. 及早加热可降低多酚氧化酶的活性，效果取决于温度和时间。[^5]
 3. 茶黄素走向茶红素，这些色素标出红路径。[^2]
 4. 乌龙是故意停在半路上的部分氧化。
 5. 葡萄酒所说的“发酵”，并不是普通红茶的氧化。
@@ -168,10 +168,13 @@ lang: zh-Hans
 
 **导航：** [↑ 第一章入口](index.qmd) · [← 上一节](01-plants.qmd) · [下一节 →](03-brewing.qmd)
 
-[^1]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Enzymatic browning in tea: Polyphenol oxidase and peroxidase. *Journal of the Science of Food and Agriculture, 79*(11), 1431–1436.
+[^1]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Role of polyphenol oxidase and peroxidase in the generation of black tea theaflavins. *Journal of Agricultural and Food Chemistry, 47*(7), 2571–2578. https://doi.org/10.1021/jf981042y
 
 [^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205.
 
 [^3]: Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
 
 [^4]: Tang, M.-G., Zhang, S., Xiong, L.-G., Zhou, J.-H., Huang, J.-A., Zhao, A.-Q., Liu, Z.-H., & Liu, A.-L. (2023). A comprehensive review of polyphenol oxidase in tea (*Camellia sinensis*): Physiological characteristics, oxidation manufacturing, and biosynthesis of functional constituents. *Comprehensive Reviews in Food Science and Food Safety*. https://doi.org/10.1111/1541-4337.13146
+
+
+[^5]: Venkatesh, P., Gupta, P., Mamtani, K., Singh, G., & Guttapadu, S. (2014). Thermal inactivation kinetics of polyphenol oxidase in tea (*Camellia sinensis*). *International Journal of Tea Science, 10*(3–4), 70–77. https://doi.org/10.20425/ijts.v10i3and4.4744
