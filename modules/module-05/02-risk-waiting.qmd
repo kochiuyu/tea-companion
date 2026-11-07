@@ -126,9 +126,9 @@ The sources describe tea-associated states as often keeping loss sensitivity in 
 - The next lesson's games add *other people*. Trust and fairness are not solo balloon pumps.
 :::
 
-## From Chapter 2 stress to Chapter 4 risk
+## From Chapter 2 stress to Chapter 5 risk
 
-Chapter 2 tracked cortisol and autonomic arousal under load. Chapter 4 asks what happens to *choices* when arousal and pharmacology shift how much losses sting. The Coates & Herbert trading-floor study is a reminder that endogenous chemistry already moves risk-taking in the wild, before any experimental cup is poured.[^5]
+Chapter 2 tracked cortisol and autonomic arousal under load. Chapter 5 asks what happens to *choices* when arousal and pharmacology shift how much losses sting. The Coates & Herbert trading-floor study is a reminder that endogenous chemistry already moves risk-taking in the wild, before any experimental cup is poured.[^5]
 
 When the sources show caffeine softening loss sensitivity under a trading simulation, read that shift beside stress.[^8] The shift does not stand in for stress. High-caffeine / high-cortisol "coffee pattern" language in the qualitative table is teaching shorthand for that cluster. It is not a claim that every latte destroys prudence.
 
@@ -148,7 +148,7 @@ Risk and patience are often measured alone. Trust and fairness need someone else
 3. In the study snapshots, alcohol lines up with more pumps and a cheaper tomorrow.[^4][^7]
 4. The caffeine-under-pressure λ shift sits beside stress chemistry. It does not replace that chemistry.[^5][^8]
 5. Overclaim fence: **no** "tea → patient investor."
-6. Next come trust, fairness, and cooperation, with the Chapter 3 warmth caveats intact.
+6. Next come trust, fairness, and cooperation, with the Chapter 4 warmth caveats intact.
 :::
 
 ## Story in one minute
