@@ -31,7 +31,7 @@ Superscript numbers are clickable footnotes. A click jumps to the source, and th
 <!-- reading-fold:end -->
 ## The bag's second half
 
-[Section 1](01-trade-history.qmd) explained why a cheap supermarket bag *exists* at all, once silver, war, and the transfer of the tea plant had done their work. This lesson asks a later question. Once Chinese monopoly leaf is no longer the only farm, what does an **estate** actually do? Who clears the jungle, who picks the flush, and how does that commodity form find its way into a British cupboard?
+[Section 1](01-trade-history.qmd) traced how silver, war, and tea-plant transfers ended Britain's dependence on Chinese tea. This lesson asks a later question. Once Chinese monopoly leaf is no longer the only farm, what does an **estate** actually do? Who clears the jungle, who picks the flush, and how does that commodity form find its way into a British cupboard?
 
 It helps to hold two pictures side by side. In the first, Fortune's packing cases and the identification of Assam tea finish the road *to* the monopoly break. In the second, the forest has been cleared, migrant labor runs on a schedule, and late-nineteenth-century Britain no longer depends on Canton chests. The chemistry of the cup still lives in [Chapter 1](../module-01/index.qmd). The words on the aisle still live in [Tea basics](../../tea-basics.qmd). Here the story turns to the **aftershock**: how land, labor, marketing, and the estate system helped make tea a low-cost mass commodity.
 
@@ -142,7 +142,7 @@ By about **1890**, Kew's public history says that India supplied roughly **90%**
 
 None of that licenses a slogan such as "tea alone caused empire," or a homemade re-estimate of who kept the plantation profits. Kew's page also says that India was "only allowed to keep 15 percent of plantation profits." We treat that line as **Kew's narrative phrasing**, not as an independently re-audited ledger on this site.[^1] Prefer Sharma when the question is labor in depth. Keep Kew for the readable market-and-cost trail. Keep Antrobus for the hinge of company formation.[^3][^5][^6]
 
-Your grocery bag is cheap partly because someone else's garden became an estate. That sentence is history. It is not a morality play with invented villains, and it is not the Assam-versus-*sinensis* tasting lesson that belongs to Chapter 1.
+The estate system helped make tea a mass-market commodity. The sources here do not measure how much that history contributes to the price of a tea bag today. The Assam-versus-*sinensis* tasting lesson belongs to Chapter 1.
 
 Assam is the spine. Another empire garden, Ceylon (today's Sri Lanka), switched from coffee to tea when rust hit. The dated beats stay in the foldout.[^4] Empire leaf still needed buyers. Planters sold "British" tea against an older preference for China leaf, and that marketing is part of why the cheap bag becomes everyday.[^7]
 
@@ -210,7 +210,7 @@ Chemistry still explains what is in the cup ([Chapter 1 · Plants](../module-01/
 ::: {.callout-tip title="You can stop here"}
 - After the monopoly break, the Assam Company and the Assam-style estates remade land and labor into a mass commodity.
 - Indenture (1860s–1920s) and the racialized "coolie" category are labor history. Teach the category. Do not revive the slur.
-- Kew's ~1890 trail for the British market helps explain the cheap bag, with a fence around the human cost, and with Kew's own "15% profits" phrasing left as Kew narrative.
+- Kew's ~1890 figure shows Indian tea's share of the British market, not the price of a tea bag today. Its account of human costs and "15% profits" phrasing remain Kew's narrative.
 - Sharma is the longer trail through Assam land and labor. Antrobus names the company hinge. Rappaport covers the selling of empire tea. Ceylon's switch from coffee to tea is optional depth.
 - Next come the living regional scripts, not the psychology of lab ritual (that is Chapter 4).
 :::
