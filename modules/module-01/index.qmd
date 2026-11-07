@@ -75,7 +75,7 @@ Each sitting is one section of the chapter. The open pages stay lay-friendly, an
 1. **[Two plants, one species](01-plants.qmd)** — China-type and Assam-type as everyday leaf personalities, together with garden fine print and aisle bridges.
 2. **[The fork in the road: stop the browning, or let it run](02-processing.qmd)** — the kitchen contrast of "stop browning" and "let it brown," the oolong middle path, and the fermentation myth.
 3. **[What brewing actually does](03-brewing.qmd)** — hot water as a selective extractor, along with time, temperature, leaf amount, and bag versus loose intuition.
-4. **[Three compounds in the cup]
+4. **[Three compounds in the cup](04-compounds.qmd)** — caffeine, L-theanine, and EGCG; what lab measurements and doses can (and cannot) tell you about a cup.
 
 **Start with section 1:** [Two plants, one species](01-plants.qmd)
 
@@ -108,7 +108,7 @@ None of that is medical advice. It is plant chemistry meeting a kettle, and the 
 
 ## Looking ahead
 
-You now know how a plant becomes a cup, and which compounds researchers measure in the cup and body.
+You now know how a plant becomes a cup, and which compounds researchers measure in the cup and body. Next, Chapter 2 asks why tea and coffee can feel different, and what brain-wave, stress-hormone, and body-signal studies actually show.
 
 Open [Chapter 2: Body, Brain & Mood](../module-02/index.qmd) when you are ready. The compounds have already started their trip.
 
