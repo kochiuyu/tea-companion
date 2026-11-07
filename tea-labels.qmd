@@ -52,7 +52,7 @@ Tap a footnote number to jump to the source, then the caret to jump back. Hover 
 - **Blend / flavor recipe.** A house mix or aroma add-on (English Breakfast, Earl Grey).
 - **Origin label.** A place name on the box (Assam, Darjeeling, Ceylon…).
 - **Type-name.** Which of the six manufactured types (green, yellow, white, oolong, black, dark) the box sits under.[^3]
-- **Grade language.** It may mean **(a)** particle or size words (OP, BOP, fannings, dust; orthodox versus CTC) or **(b)** quality-tier labels (e.g. 特級 / 一級 on some Chinese packs). Neither is a different species, and neither is a shopping “best of” list.
+- **Grade language.** It may mean **(a)** particle or size words (OP, BOP, fannings, dust) or **(b)** quality-tier labels (e.g. 特級 / 一級 on some Chinese packs). Neither is a different species, and neither is a shopping “best of” list.
 :::
 
 ***
@@ -359,12 +359,12 @@ Shelf “grade” mixes at least **two** languages. If you separate them, you wi
 
 **Bag versus loose** is mostly about **portion and particle size**, not a different plant. A bag is a pre-measured serving. Loose leaf is the same plant sold by weight. Bags often use smaller particles so that color and strength appear quickly. Tea basics and the Cup reference use a common everyday baseline of about **2 g** dry leaf per **250 mL**.[^6]
 
-**Orthodox versus CTC** is a **black-tea factory** distinction. It describes how the leaf is broken, not a green-tea rule.[^7]
+**Orthodox versus CTC** names **black-tea manufacturing methods**, not leaf-size grades. Orthodox rolling and CTC machinery process the leaf differently; finished tea is then sorted into size grades.[^7]
 
 | | **Orthodox** | **CTC** (crush, tear, curl) |
 | --- | --- | --- |
-| Leaf form | Larger pieces of twisted or broken leaf | Small, uniform granules |
-| Brew habit | Slower, and often more layered | Fast, strong, and deep in color. Common in bags and milk tea |
+| Typical leaf form | Twisted whole or broken leaf, later sorted by size | Small granules, also sorted by size |
+| Brewing note | Extraction depends on the finished particle size and brewing conditions | Small granules often infuse quickly; common in bags and milk tea |
 
 **Orange Pekoe (OP), BOP, fannings, and dust** are **particle and size words** in many black-tea trades. They are not separate species, and they are not a moral ranking. Finer grades often brew fast and look strong in a short mug steep.
 
@@ -383,7 +383,8 @@ Some packs use a **different** grade language: quality-tier *labels*. That langu
 ::: {.callout-note collapse="true" title="Why “grade” confuses shoppers"}
 | Language | Examples | What it is *not* |
 | --- | --- | --- |
-| **Particle / size** | OP, BOP, fannings, dust; orthodox versus CTC | Not a different species, and not “morally better” |
+| **Particle / size** | OP, BOP, fannings, dust | Not a different species, and not “morally better” |
+| **Manufacturing method** | Orthodox, CTC | Not a leaf-size grade |
 | **Quality-tier label** | 特級 / 一級… on some Chinese packs | Not OP codes, and not a universal world ranking on this site |
 | **Style + shade name** | Gyokuro, matcha, tencha | Not an OP ladder. Still usually **green**-path leaf |
 
