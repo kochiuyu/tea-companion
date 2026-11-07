@@ -59,14 +59,14 @@ When you cut an apple and leave it on the counter, it browns. Tea leaves do some
 
 Tea makers then choose one of two big paths.
 
-**Path one: stop the browning early with heat.** Heat the leaf hot enough, and the browning enzymes are permanently shut off. The simple plant compounds stay simple. That is the chemical basis of **green tea**. The leaf stays greener because those compounds were not allowed to link into dark pigments.[^1]
+**Path one: stop the browning early with heat.** Heat the leaf early enough, and the browning enzymes lose activity before much oxidation occurs. The simple plant compounds stay simple. That is the chemical basis of **green tea**. The leaf stays greener because those compounds were not allowed to link into dark pigments.[^1]
 
 **Path two: let the enzymes work with air.** Leave the enzymes active, and the simple plant compounds link into larger colored ones. They turn bright golden-red first, and then darker and fuller-bodied. That path leads toward **black tea**.[^2]
 
 Think of toasting bread. Stop early and you have pale toast; leave it longer and it darkens. Green versus black tea is not exactly toasting, but the idea of **stopping a change early versus letting it run** is the same kind of choice.
 
 ::: {.callout-note collapse="true" title="More detail: PPO, heat kill, and why 'fermentation' confuses people"}
-Two leaf enzymes do most of the browning work when cells are crushed: **polyphenol oxidase (PPO)** and **peroxidase (POD)**.[^1] Heat the leaf above about **82°C–85°C**, and PPO is permanently inactivated. That heat is the chemical lock that keeps green tea's catechins monomeric.[^1] Leave the enzymes active in air, and simple catechins couple into **theaflavins** (bright golden-red dimers) and then further into **thearubigins** (darker, fuller-bodied polymers).[^2]
+Two leaf enzymes do most of the browning work when cells are crushed: **polyphenol oxidase (PPO)** and **peroxidase (POD)**.[^1] Heating during fixation reduces PPO activity and helps preserve catechins in green tea. A study of tea-leaf PPO extracts found that inactivation depends on both temperature and exposure time, with fractions of the enzyme differing in heat resistance; **82°C–85°C is not a universal switch**.[^5] Leave the enzymes active in air, and simple catechins couple into **theaflavins** (bright golden-red dimers) and then further into **thearubigins** (darker, fuller-bodied polymers).[^2]
 
 The chemistry writes the first step roughly as:
 
@@ -148,7 +148,7 @@ Robert Fortune's nineteenth-century collecting work for British interests is fam
 
 ::: {.callout-tip collapse="true" title="Click for more detail: take-home checklist for Chapter 1 · Section 2"}
 1. PPO and POD, plus air, are the browning chemistry.[^1]
-2. A heat kill around ~82–85°C locks the green path.[^1]
+2. Early heat treatment reduces PPO activity; its effect depends on temperature and time.[^5]
 3. Theaflavins lead on toward thearubigins, and those pigments mark the black path.[^2]
 4. Oolong is partial oxidation, done on purpose.
 5. Wine "fermentation" is not the same thing as ordinary black-tea oxidation.
@@ -159,10 +159,12 @@ Robert Fortune's nineteenth-century collecting work for British interests is fam
 
 **Navigate:** [↑ Chapter 1 hub](index.qmd) · [← Previous](01-plants.qmd) · [Next →](03-brewing.qmd)
 
-[^1]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Enzymatic browning in tea: Polyphenol oxidase and peroxidase. *Journal of the Science of Food and Agriculture, 79*(11), 1431–1436.
+[^1]: Subramanian, N., Venkatesh, P., Ganguli, S., & Sinkar, V. P. (1999). Role of polyphenol oxidase and peroxidase in the generation of black tea theaflavins. *Journal of Agricultural and Food Chemistry, 47*(7), 2571–2578. https://doi.org/10.1021/jf981042y
 
 [^2]: Tanaka, T., & Kouno, I. (2003). Oxidation of tea catechins: Chemical structures and formation mechanisms of theaflavins and related products. *Annals of Nutrition and Metabolism, 47*(5), 200–205.
 
 [^3]: Royal Botanic Gardens, Kew. (2015). The history of tea: From China to India. https://www.kew.org/read-and-watch/the-history-of-tea-from-china-to-india
 
 [^4]: Tang, M.-G., Zhang, S., Xiong, L.-G., Zhou, J.-H., Huang, J.-A., Zhao, A.-Q., Liu, Z.-H., & Liu, A.-L. (2023). A comprehensive review of polyphenol oxidase in tea (*Camellia sinensis*): Physiological characteristics, oxidation manufacturing, and biosynthesis of functional constituents. *Comprehensive Reviews in Food Science and Food Safety*. https://doi.org/10.1111/1541-4337.13146
+
+[^5]: Venkatesh, P., Gupta, P., Mamtani, K., Singh, G., & Guttapadu, S. (2014). Thermal inactivation kinetics of polyphenol oxidase in tea (*Camellia sinensis*). *International Journal of Tea Science, 10*(3–4), 70–77. https://doi.org/10.20425/ijts.v10i3and4.4744
