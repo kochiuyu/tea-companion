@@ -167,6 +167,24 @@ Mak (2020) follows how the technique of making milk tea became an object of heri
 At the level of the abstract, the honesty about meaning is this. An official narrative can support a vision of a harmonious society with **docile labor**. Younger readers may treat milk tea as an icon of **rebelliousness**. That is a widening gap under rapid political change.[^5] The open story keeps the counter script: the strainer, the strength, the condensed milk, and the *cha chaan teng*. Heritage politics stay in the foldout, so this page does not become a city-branding essay or a label table from Tea basics.
 :::
 
+## Beyond the milk-tea counter: herbal tea and yum cha
+
+Hong Kong’s tea history has more than one kind of cup. Herbal-tea shops sold simmered plant mixtures as decoctions, a different drink from an infusion of *Camellia sinensis*. Hong Kong Memory says the start of the commercial trade is hard to date; some family-run brands have histories of more than a century. Early shops could combine a street-front counter with a brewing kitchen behind it.[^10][^11]
+
+A colonial-era record gives a glimpse of how these practices travelled with people. A 1869 ordinance required ships carrying Chinese labourers overseas to carry medicinal herbs in proportion to their passengers, so herbal tea could be prepared for people who became ill on the voyage.[^10] This is evidence of a maritime rule, not a measure of how often every household drank herbal tea or proof of a medical effect. In the 1950s and 1960s, herbal-tea shops also became inexpensive neighbourhood places to meet, listen to music and watch television. Later, businesses adapted with instant, canned and bottled products as Western medicine became more popular.[^10]
+
+Tea also belongs to the shared meal. In yum cha, tea is served with dim sum in teahouses and restaurants. A University of Hong Kong thesis studies yum cha as a whole food practice—covering preparation, provision and eating—rather than treating dim sum making as the whole tradition.[^12] A study of Hong Kong tea cafés likewise describes their hybrid foods and spaces in relation to migration and colonial history.[^13] Taken together, these histories show several local scripts: a medicinal shop, a shared meal, and a quick café cup. They overlap in the city, but they are not one unchanging tradition.
+
+::: {.callout-note collapse="true" title="More detail: herbal tea, shops and shared meals"}
+| Window | What the sources describe | What to keep in view |
+| --- | --- | --- |
+| **Dating the trade** | Hong Kong Memory says there is no exact timeline for when herbal tea became a commercial business; some family brands have histories of over a century.[^11] | Do not assign a single founding date to the whole trade. |
+| **1869** | A colonial ordinance required ships carrying Chinese labourers overseas to carry medicinal herbs for preparing herbal tea during long voyages.[^10] | A shipping regulation is not a record of every passenger’s experience. |
+| **1950s–60s** | Neighbourhood herbal-tea shops offered a low-cost place to drink, talk, listen to music and watch television.[^10] | The shop was also a social space. |
+| **Later adaptations** | Shops and producers adopted instant, canned and bottled products as the business changed.[^10] | Continuity included commercial change. |
+| **Yum cha** | Tea and dim sum form a shared practice in teahouses and restaurants; scholarship examines the whole foodway, not only a single craft.[^12] | A meal practice is wider than a recipe or drink. |
+:::
+
 ## Portrait 3 — Taiwan tea art
 
 <!-- history-illustration:taiwan-tea-art:start -->
@@ -255,6 +273,12 @@ One bridge sentence only. Predictable shared steps show up again as ritual and a
 8. Jiang, H. (2024). Commodity, nature, and taste: The making of Taiwan's high-mountain tea. *Geographical Review*. https://doi.org/10.1080/00167428.2024.2319255
 9. 劉智鵬、黃君健、盧惠玲 (2023). 《港式奶茶製作技藝》. 香港：中華書局. ISBN 9789888860357. (Bibliographic pointer only—no page-mined steps on this site yet.)
 
+10. Hong Kong Memory. Development of the Herbal Tea Culture in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-development.html
+11. Hong Kong Memory. History of Herbal Tea in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-herbal_tea.html
+12. Lau, H. C. D. (2017). *More than a craft: the food practice of yum cha as an intangible cultural heritage of Hong Kong* (Undergraduate thesis, University of Hong Kong). https://hub.hku.hk/handle/10722/350593
+13. Chan, S. C. (2019). Tea cafés and the Hong Kong identity: Food culture and hybridity. *China Information, 33*(3), 311–328. https://doi.org/10.1177/0920203X18773409
+
+
 [^1]: d'Abbs, P. H. (2019). Tea art as everyday practice: Gongfu tea in Chaoshan, Guangdong, today. *The Asia Pacific Journal of Anthropology, 20*(3), 213–231. https://doi.org/10.1080/14442213.2019.1611908
 
 [^2]: d'Abbs, P. H. N. (2018). *Art as everyday practice: A study of gongfu tea in Chaoshan, China* (Master's thesis, University of New England). https://hdl.handle.net/1959.11/23092
@@ -270,3 +294,11 @@ One bridge sentence only. Predictable shared steps show up again as ritual and a
 [^7]: Liu, Changyun (劉嫦雲). (2023). A Study of the Creation of Chaozhou Kungfu Tea Practice / 潮州工夫茶の成立に関する考察. *比較日本文化学研究*, 16, 23–43. https://doi.org/10.15027/53587
 
 [^8]: Jiang, H. (2024). Commodity, nature, and taste: The making of Taiwan's high-mountain tea. *Geographical Review*. https://doi.org/10.1080/00167428.2024.2319255
+
+[^10]: Hong Kong Memory. Development of the Herbal Tea Culture in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-development.html
+
+[^11]: Hong Kong Memory. History of Herbal Tea in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-herbal_tea.html
+
+[^12]: Lau, H. C. D. (2017). *More than a craft: the food practice of yum cha as an intangible cultural heritage of Hong Kong* (Undergraduate thesis, University of Hong Kong). https://hub.hku.hk/handle/10722/350593
+
+[^13]: Chan, S. C. (2019). Tea cafés and the Hong Kong identity: Food culture and hybridity. *China Information, 33*(3), 311–328. https://doi.org/10.1177/0920203X18773409
