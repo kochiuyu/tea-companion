@@ -81,7 +81,7 @@ The beat about cultural limits matters for a beginner. U.S. participants in the 
 
 ## "Told what the drink does"
 
-Some beverage designs go one step further than photographs of teaware. They **label** an unfamiliar infusion "relaxing" or "activating," and then they ask how people feel. Kuenzel and colleagues (2012) did that with an unfamiliar **herbal** infusion, not *Camellia* tea.[^4] When people were unaware of the manipulation, relaxation ratings shifted with the label, and liking rose with positive labels versus control. Awareness changed the placebo pattern for feeling relaxed, but not for liking. The full design, and the fence that herbal infusion is not *Camellia*, live in the foldout. Use the hinge here only as "told what the drink does," not as a tea RCT.
+Some beverage designs go one step further than photographs of teaware. They **label** an unfamiliar infusion "relaxing" or "activating," and then they ask how people feel. Kuenzel and colleagues (2012) did that with an unfamiliar **herbal** infusion, not *Camellia* tea.[^4] When people were unaware of the manipulation, relaxation ratings shifted with the label, and liking rose with positive labels versus control. The authors reported only a trend suggesting awareness might alter the relaxation effect; liking was higher under both positive labels than under the control label regardless of awareness. The full design, and the fence that herbal infusion is not *Camellia*, live in the foldout. Use the hinge here only as "told what the drink does," not as a tea RCT.
 
 ::: {.callout-note collapse="true" title="More detail: infusion label & awareness (Kuenzel 2012)"}
 **Design (teaching sketch).** Participants tasted an unfamiliar **herbal** infusion under labels that framed it as activating versus relaxing, plus the control-style comparisons in the paper. The drink was not *Camellia sinensis* tea.[^4]
@@ -92,7 +92,7 @@ Some beverage designs go one step further than photographs of teaware. They **la
 | --- | --- |
 | Relaxation ratings shifted with activating vs relaxing labels when people were **unaware** of the manipulation | Herbal infusion ≠ *Camellia* tea |
 | Liking rose with positive labels vs control | Not a tea-leaf pharmacology result |
-| **Awareness** changed placebo effects for feeling relaxed, but **not** for liking (title claim) | Do not invent % effect sizes beyond the paper |
+| The authors reported a **trend**, not firm evidence, that awareness influenced the relaxation effect; the liking increase did **not** depend on awareness | Do not present a trend as a confirmed effect |
 
 **Why it sits here.** It is the closest peer-reviewed "told what the drink does" beverage design in the Chapter 4 research pack. It teaches label-as-dial beside Shiv (price and efficacy) and Li (teaware and taste expectations), with a louder honesty fence than either, because the liquid itself is herbal, not tea leaf.
 
