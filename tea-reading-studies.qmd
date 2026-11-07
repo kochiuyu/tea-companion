@@ -193,21 +193,21 @@ Active-dose examples live in [Chapter 5 · Section 4](modules/module-05/04-study
 
 If one arm gets a fragrant, bitter, obviously-tea liquid in a clear glass, and the other gets lukewarm water in a different cup, you have not isolated L-theanine. You have mixed chemistry with theater. Careful designs try to make the cups *feel* alike. Chapter 5 · Section 4 owns that lesson.
 
-Warmth can also confound decision studies. Chapter 3 showed that a warm mug can nudge social judgments, so Chapter 4 treats matched mug temperature as a controlled constant. This door only points. It does not re-teach warmth psychology.
+Warmth can also confound decision studies. Chapter 4 examines how physical warmth might affect social judgments; Chapter 5 treats matched mug temperature as a controlled condition in study design. This door only points. It does not re-teach warmth psychology.
 
 Open [Chapter 5 · Section 4 — Expectation wears a lab coat…](modules/module-05/04-study-protocols.qmd).
 
-Optional: [Chapter 3 · Warmth & trust](modules/module-04/01-warmth-trust.qmd).
+Optional: [Chapter 4 · Warmth & trust](modules/module-04/01-warmth-trust.qmd).
 
 Optional hallways: [Linkages · bridge 2 — warm hands / trust](linkages.qmd); [bridge 1 — waiting after the first sip](linkages.qmd).
 
 ::: {.callout-note collapse="true" title="More detail: what ‘decaf ≠ magic placebo’ is gesturing at"}
-Chapter 4 notes that decaf still carries leftover caffeine and plant compounds, and that matching astringency and umami without changing smell or look is hard. The difficulty is the point. Hard controls are how soft claims get earned. Open Section 4 for the full honesty block. Do not treat this foldout as a new methods table.
+Chapter 5 notes that decaf still carries leftover caffeine and plant compounds, and that matching astringency and umami without changing smell or look is hard. The difficulty is the point. Hard controls are how soft claims get earned. Open Section 4 for the full honesty block. Do not treat this foldout as a new methods table.
 :::
 
 ***
 
-## Hallways into Linkages and Chapter 4 games
+## Hallways into Linkages and Chapter 5 games
 
 You do not need all eleven [Linkages](linkages.qmd) bridges. Pick the question the headline actually asked.
 
@@ -215,10 +215,10 @@ You do not need all eleven [Linkages](linkages.qmd) bridges. Pick the question t
 | --- | --- |
 | Waiting after the sip, or peak timing | [Linkages · bridge 1](linkages.qmd) · [Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd) |
 | Brew heat reshaping the cup | [Linkages · bridge 3](linkages.qmd) · [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) |
-| Warmth and trust | [Linkages · bridge 2](linkages.qmd) · [Chapter 4 · Section 3](modules/module-05/03-trust-games.qmd) |
-| Fast versus careful thinking | [Chapter 4 · Section 1 — Dual-process](modules/module-05/01-dual-process.qmd) |
-| Risk, waiting, and patience | [Chapter 4 · Section 2](modules/module-05/02-risk-waiting.qmd) |
-| Trust games and first sends | [Chapter 4 · Section 3](modules/module-05/03-trust-games.qmd) |
+| Warmth and trust | [Linkages · bridge 2](linkages.qmd) · [Chapter 5 · Section 3](modules/module-05/03-trust-games.qmd) |
+| Fast versus careful thinking | [Chapter 5 · Section 1 — Dual-process](modules/module-05/01-dual-process.qmd) |
+| Risk, waiting, and patience | [Chapter 5 · Section 2](modules/module-05/02-risk-waiting.qmd) |
+| Trust games and first sends | [Chapter 5 · Section 3](modules/module-05/03-trust-games.qmd) |
 
 The methods home for every headline above is [Chapter 5 · Section 4](modules/module-05/04-study-protocols.qmd).
 
@@ -226,7 +226,7 @@ No new bridges are invented here. Linkages already sews the chapters together.
 
 ***
 
-## How this door sits next to Cup reference and Chapter 4
+## How this door sits next to Cup reference and Chapter 5
 
 Nested maps, for questions that have the shape of a study:
 
