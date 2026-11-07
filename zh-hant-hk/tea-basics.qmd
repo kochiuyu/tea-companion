@@ -82,7 +82,7 @@ lang: zh-Hant-HK
 
 做茶的人常把由綠轉紅叫「發酵」。說到普通綠茶、烏龍、紅茶，他們多半是指葉子裏的酶加上空氣。真正靠微生物陳化的，主要是普洱這類黑茶。[^4]
 
-茶包對散茶，以及紅茶工廠說的「傳統製法」和「切碎揉捻（CTC）」，講的是**顆粒**，不是新植物。碎一點，杯子往往上色更快。等級表在 [茶葉標籤](tea-labels.qmd)。
+茶包和散茶說的是茶怎樣出售。紅茶工廠說的「傳統製法」和「切碎、撕裂、捲曲（CTC）」，則是兩種處理萎凋後茶葉的方法：前者揉捻，後者切碎、撕裂並捲曲。CTC 通常做出更細的茶葉，泡得更快；兩種方法都不是新植物。[^7] 等級表在 [茶葉標籤](tea-labels.qmd)。
 
 ::: {.callout-note collapse="true" title="更多詳情：六大茶類這個名字"}
 行業名單有時列出**六類**成品：綠茶、黃茶、白茶、烏龍、紅茶、黑茶。黃茶在中國以外少見。進第一章之前不必先弄懂它。[^5]
@@ -157,3 +157,5 @@ lang: zh-Hant-HK
 [^5]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark)—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
 [^6]: Everyday baseline on the [Cup reference](cup-reference.qmd): about 2 g dry leaf per 250 mL. Formal tasting strength under ISO 3103:2019 is stronger (about 2 g per 100 mL)—https://www.iso.org/standard/73224.html—and that comparison stays on the Cup page.
+
+[^7]: UK Tea & Infusions Association. Creating the Perfect Blend. https://www.tea.co.uk/tea-processing-and-blending (Orthodox rolling and CTC cutting, tearing, and curling are manufacturing methods; CTC makes smaller particles suited to quicker brewing.)
