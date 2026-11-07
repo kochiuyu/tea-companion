@@ -52,7 +52,7 @@ Why does this lesson open Chapter 4's Context & Ritual Psychology track? Chapter
 
 Williams and Bargh (2008) reported that people who briefly held a warm cup of coffee rated a stranger as having a "warmer" personality than people who held an iced cup. They also reported that holding a warm (versus cold) therapeutic pad raised the chance of choosing a gift for a friend rather than for oneself.[^1]
 
-Follow-on imaging work linked physical and social "warmth" in that same hand-warmth / social-warmth brain neighborhood. Activation overlapped when people experienced warm pads and when they read warm, supportive social messages.[^2] Kang and colleagues reported that physical temperature also shifted responses to fairness and trust allocations in bargaining settings.[^3]
+Follow-on imaging work linked physical and social warmth: activation overlapped when people experienced warm pads and read supportive messages.[^2] In a separate trust game, Kang and colleagues found that participants who briefly held a warm therapeutic pack invested more than those who held a cold pack in Study 1; Study 2 did not find a significant difference in investment.[^3]
 
 In the work cited here, a warm cup can nudge a first impression and the opening moment of trust. It does not guarantee that generosity will last. The lab numbers, the condition tables, and the effect sizes live in the foldouts below. Open them when you want the poster detail.
 
@@ -61,13 +61,13 @@ In the work cited here, a warm cup can nudge a first impression and the opening 
 | --- | --- | --- | --- |
 | Warm prime | Warm insulated cup / hot coffee briefly held | Partners rated warmer/more trustworthy; more friend-oriented gift choice in original Study 2 | Williams & Bargh (2008) [^1] |
 | Cold prime | Iced cup / cold pad | Partners framed as colder/distant; more self-oriented choice | Williams & Bargh (2008); Inagaki & Eisenberger (2013) [^1][^2] |
-| Warm mug in Trust / fairness settings | Warm ~60°C mug (narrative of Kang et al.) | Higher first-mover investment / fairness sensitivity in cited designs | Kang et al. (2011) [^3] |
+| Trust game after a therapeutic pack | Warm pack (41°C) versus cold pack (15°C) | Higher average investment after warmth in Study 1; no significant investment difference in Study 2 | Kang et al. (2011) [^3] |
 
 | Measure | Warm | Cold / control | Trail |
 | --- | --- | --- | --- |
 | Personality "warmth" (1–7) | M ≈ **5.63** | M ≈ **4.04** | Williams & Bargh (2008) [^1] |
 | Gift for friend vs self | **54%** friend | **75%** self | Williams & Bargh Study 2 [^1] |
-| Trust / fairness first send | ~**+24.8%** vs cold (~$7.85 vs $6.29 of $10) | Cold pad ~10°C | Kang et al. (2011 source) [^3] |
+| Trust-game investment per trial | $0.66 after warm pack | $0.46 after cold pack | Kang et al. (2011), Study 1 (30 participants) [^3] |
 | fMRI overlap | Bilateral anterior insula cluster during warm pad + supportive messages | — | Inagaki & Eisenberger (2013) [^2] |
 
 Read these figures as **lab snapshots**, not as personality transplants. The original Williams & Bargh behavioral effect size was remarkably large (*d* ≈ 1.69 in one reading of Study 1). It was large enough that later replications treated it as a claim that needed a hard check.
@@ -90,9 +90,9 @@ Lynott et al. (2014) did not replicate Williams & Bargh's Study 2 gift-choice ef
 
 **More durable (neural overlap claim).** Inagaki & Eisenberger (2013) report shared anterior insula responses to physical warmth and to social warmth cues.[^2]
 
-**Still useful as a methods warning.** If thermal primes can shift *some* social and fairness behaviors in *some* designs,[^3] then a decision study that ignores cup temperature risks mixing chemistry with warmth. That is why [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd) specify opaque mugs near **60°C ± 2°C**.
+**Still useful as a methods warning.** If thermal primes can shift *some* trust-game decisions in *some* designs,[^3] then a decision study that ignores cup temperature risks mixing chemistry with warmth. That is why [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd) specify opaque mugs near **60°C ± 2°C**.
 
-This warmth thread reappears in [Chapter 5 · Section 3 Trust games](../module-05/03-trust-games.qmd). The same first-mover figure is one of the bridges on [Linkages](../../linkages.qmd).
+This warmth thread reappears in [Chapter 5 · Section 3 Trust games](../module-05/03-trust-games.qmd). The trust-game comparison is also discussed on [Linkages](../../linkages.qmd).
 :::
 
 ## Passive warmth vs active ritual
@@ -127,13 +127,13 @@ Inagaki and Eisenberger (2013) used fMRI to look for overlap between physical wa
 :::
 
 ::: {.callout-note collapse="true" title="More detail: reading Kang beside Lynott"}
-Kang et al. (2011) report temperature effects on fairness and trust-related allocations, including the cited ~**+24.8%** first-mover story at ~**60°C** versus cold.[^3]
+Kang et al. (2011) report higher average trust-game investment after a 41°C pack than after a 15°C pack in Study 1 ($0.66 versus $0.46 per trial). Study 2 found no significant investment difference between conditions.[^3]
 
 Lynott et al. (2014) fail to replicate Williams & Bargh's *gift-choice* Study 2 at high power.[^4]
 
 On a careful teaching site, both of those statements can stand together:
 
-- Some thermal designs show shifts in social and fairness behavior.
+- Kang's first trust-game study found a difference in investment after warm versus cold packs; its second study did not.[^3]
 - The most famous prosocial-gift headline did not survive a hard replication check.
 - Cite warmth, then, as **interesting and contested**, and as a **methods confound**. Do not cite it as a permanent generosity switch.
 :::
@@ -146,7 +146,7 @@ Three papers do different jobs. Keeping them in one table stops a common slide, 
 | Williams & Bargh (2008) Study 1 | Brief warm vs cold cup | Personality "warmth" rating (1–7) | M ≈ **5.63** vs **4.04**; *d* ≈ **1.69** | Original claim—very large [^1] |
 | Williams & Bargh (2008) Study 2 | Warm vs cold therapeutic pad | Gift for friend vs self | Warm **54%** friend; cold **75%** self | Original claim [^1] |
 | Lynott et al. (2014) | Preregistered multi-lab repeat of Study 2 | Same gift-choice logic | **No support** at any site; combined **N = 861** | **Failed replication**—keep prominent [^4] |
-| Kang et al. (2011) | Physical temperature around fairness/trust tasks | Fairness / first-mover style allocations | Cited narrative ~**+24.8%** first send at ~**60°C** vs cold | Separate design—not a Lynott rematch [^3] |
+| Kang et al. (2011) | Brief contact with 41°C versus 15°C therapeutic packs | Trust-game investment, not fairness | Study 1: $0.66 versus $0.46 per trial; Study 2: no significant difference | Separate design—not a Lynott rematch [^3] |
 | Inagaki & Eisenberger (2013) | Warm pad + supportive messages | fMRI overlap in anterior insula | Shared insula cluster | Neural-overlap bridge [^2] |
 
 **Teaching sentence.** The famous prosocial-gift headline is **contested**. The insula overlap is **more durable** in the sources' framing. Kang is a **different** thermal-bargaining story, and Chapter 4 still treats it as a reason to lock mug temperature, not as a boardroom cheat code.[^3][^4][^6]
@@ -163,10 +163,10 @@ When temperature is left unlocked, the confound is easy to picture. If two cups 
 ::: {.callout-note collapse="true" title="More detail: why the matched mug sits near 60°C"}
 Chapter 5's study-protocol lesson specifies drinks in identical opaque mugs held near **60°C ± 2°C**, with bitterness matched (for example with food-grade quinine in controls), so that *temperature and taste* do not quietly become the experiment.[^6]
 
-Here is why that number shows up in the sources' warmth narrative:
+Here is how Chapter 5's protocol choice relates to this warmth research:
 
-- Kang et al.'s temperature manipulations are taught here with a warm condition near **~60°C** versus a cold pad, so locking the mug near that band is a methods rhyme, not a mystical tea temperature.[^3]
-- If thermal priming can shift *some* social or fairness behaviors in *some* designs, then an unlocked mug temperature confounds pharmacology with warmth.[^3]
+- Kang et al. used warm packs near **41°C** and cold packs near **15°C**, not 60°C mugs. Chapter 5's 60°C mug target is its own protocol choice, not a temperature borrowed from Kang.[^3][^6]
+- If thermal priming can shift *some* trust-game decisions in *some* designs, then an unlocked mug temperature confounds pharmacology with warmth.[^3]
 - Opacity and matched bitterness attack a different confound: people guessing which cup is "the real tea."
 
 **Not claimed:** that 60°C is the one true serving temperature for every tea style, or that locking temperature *creates* trust. It *controls* a variable this lesson made visible.
@@ -209,19 +209,19 @@ Chabris and colleagues' later reports likewise lean near-zero for the original w
 
 1. Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
 2. Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. https://doi.org/10.1177/0956797613491965
-3. Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness. *PLOS ONE, 6*(1), e15836. https://doi.org/10.1371/journal.pone.0015836
+3. Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature effects on trust behavior: The role of insula. *Social Cognitive and Affective Neuroscience, 6*(4), 507–515. https://doi.org/10.1093/scan/nsq077
 4. Lynott, D., Corker, K. S., Wortman, J., Connell, L., Donnellan, M. B., Lucas, R. E., & O'Brien, K. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
 5. Chabris, C. F., et al. (2018 preprint / later reports). Failures to replicate Williams and Bargh (2008) warmth priming in field settings. https://doi.org/10.31234/osf.io/mvn9b
-6. See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd); Chapter 4 verification note on equilibrium vs priming: opening trust (+15% to +25% in cited work) often fades if the other side defects in later rounds.
+6. See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd) for the proposed matched-mug design. Kang et al. measured investment in a trust game, not lasting trust across negotiations.
 
 [^1]: Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607. https://doi.org/10.1126/science.1162548
 
 [^2]: Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280. https://doi.org/10.1177/0956797613491965
 
-[^3]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness. *PLOS ONE, 6*(1), e15836. https://doi.org/10.1371/journal.pone.0015836
+[^3]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature effects on trust behavior: The role of insula. *Social Cognitive and Affective Neuroscience, 6*(4), 507–515. https://doi.org/10.1093/scan/nsq077
 
 [^4]: Lynott, D., Corker, K. S., Wortman, J., Connell, L., Donnellan, M. B., Lucas, R. E., & O'Brien, K. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
 
 [^5]: Chabris, C. F., et al. (2018 preprint / later reports). Failures to replicate Williams and Bargh (2008) warmth priming in field settings. https://doi.org/10.31234/osf.io/mvn9b
 
-[^6]: See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd); Chapter 4 verification note on equilibrium vs priming: opening trust (+15% to +25% in cited work) often fades if the other side defects in later rounds.
+[^6]: See [Chapter 5 · Section 4 · Study protocols](../module-05/04-study-protocols.qmd) for the proposed matched-mug design. Kang et al. measured investment in a trust game, not lasting trust across negotiations.
