@@ -33,9 +33,6 @@ lang: zh-Hant-HK
 <!-- reading-fold:start -->
 :::::::: {.callout-note collapse="true" title="原有導讀與閱讀提示"}
 
-
-
-
 ::: {.callout-note}
 **核對數字與出處，以英文頁為準。** 用頁頂語言切換列在英文／繁體／簡體之間跳轉。
 :::
@@ -130,8 +127,6 @@ lang: zh-Hant-HK
 
 **導航：** [↑ 第一章入口](index.qmd) · [← 上一節](02-processing.qmd) · [下一節 →](04-compounds.qmd)
 
-
-
 [^3]: Keenan, E. K., et al. (2011). How much theanine in a cup of tea? Effects of tea type and method of preparation. *Food Chemistry, 125*(2), 588–594. https://doi.org/10.1016/j.foodchem.2010.08.071
 
 [^4]: Perva-Uzunalić, A., et al. (2006). Extraction of active ingredients from green tea (*Camellia sinensis*): Extraction efficiency of major catechins and caffeine. *Food Chemistry, 96*(4), 597–605. https://doi.org/10.1016/j.foodchem.2005.03.015
@@ -139,7 +134,7 @@ lang: zh-Hant-HK
 [^5]: International Organization for Standardization. (2019). *ISO 3103:2019 — Tea — Preparation of liquor for use in sensory tests*. https://www.iso.org/standard/73224.html
 
 
-[^kinetics]: Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion. Part 3.—Rotating-disc experiments interpreted by a steady-state model. *Journal of the Chemical Society, Faraday Transactions 1, 78*, 295–305. https://doi.org/10.1039/F19827800295. The original lesson's Spiro–Jago reference had mismatched title, journal, and pages; this is the verified 1982 paper by those authors.
+[^kinetics]: Spiro, M., & Jago, D. S. (1982). Kinetics and equilibria of tea infusion. Part 3.—Rotating-disc experiments interpreted by a steady-state model. *Journal of the Chemical Society, Faraday Transactions 1, 78*, 295–305. https://doi.org/10.1039/F19827800295.
 
 [^particles]: Price, W. E., & Spiro, M. (1985). Kinetics and equilibria of tea infusion: Rates of extraction of theaflavin, caffeine and theobromine from several whole teas and sieved fractions. *Journal of the Science of Food and Agriculture, 36*, 1309–1314. https://doi.org/10.1002/jsfa.2740361216
 
