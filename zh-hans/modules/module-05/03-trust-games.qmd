@@ -57,7 +57,7 @@ lang: zh-Hans
 :::
 
 ::: {.callout-note collapse="true" title="怎样读这一节（脚注＋折叠）"}
-上标数字是可以点的脚注。点一下就跳到出处，再点小箭头回到正文；鼠标停在数字上，多数时候也会弹出摘要。折叠起来的“更多详情……”里，放的是博弈的正式名称、百分比速写，以及关于均衡的讨论。开局时的信任不等于永远的信任。第四章关于温暖研究复现失败的提醒，在这里依然适用。
+上标数字是可以点的脚注。点一下就跳到出处，再点小箭头回到正文；鼠标停在数字上，多数时候也会弹出摘要。折叠起来的“更多详情……”说明三种博弈各有什么证据。开局时的信任不等于永远的信任。第四章关于温暖研究复现失败的提醒，在这里依然适用。
 :::
 ::::::::
 <!-- reading-fold:end -->
@@ -120,7 +120,7 @@ lang: zh-Hans
 
 在重复博弈中，如果参与者得到反馈，并预期还会再次相遇，互惠策略就可能支持合作。[^3] 所引研究没有证明热饮能改变这些激励。
 
-所以，当有人说“上一壶茶，会议室就会变成双赢”时，可以这样理解：*也许开局会更好*。*这并不是一套新的博弈论*。
+本文引用的博弈研究没有测试奉茶能否改善开局。
 
 ## 不要混淆不同的博弈
 
@@ -151,7 +151,6 @@ lang: zh-Hans
 [^4]: Morewedge, C. K., Krishnamurti, T., & Ariely, D. (2014). Focused on fairness: Alcohol intoxication increases the costly rejection of inequitable rewards. *Journal of Experimental Social Psychology, 50*, 15–20. https://doi.org/10.1016/j.jesp.2013.08.006 (Also discussed in *Journal of Behavioral Decision Making* source citations.)
 
 [^5]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature effects on trust behavior: the role of insula. *Social Cognitive and Affective Neuroscience, 6*(4), 507–515. https://doi.org/10.1093/scan/nsq077
-
 
 [^7]: Lynott, D., et al. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
 

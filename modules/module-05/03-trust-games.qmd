@@ -47,7 +47,7 @@ An offer can feel generous, unfair, or risky depending on the rules around it. S
 :::
 
 ::: {.callout-note collapse="true" title="How to read this section (footnotes + foldouts)"}
-Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" boxes hold the formal game names, the percent snapshots, and the equilibrium talk. Opening trust is not forever trust, and the warmth replication caveats from Chapter 4 still apply.
+Superscript numbers are clickable footnotes. Select one to jump to the source, and the caret jumps back; hovering often pops the note. The collapsed "More detail…" box distinguishes the three games and their evidence. Opening trust is not forever trust, and the warmth replication caveats from Chapter 4 still apply.
 :::
 ::::::::
 <!-- reading-fold:end -->
@@ -110,7 +110,7 @@ This small laboratory result cannot establish that serving tea improves negotiat
 
 In repeated games, reciprocity can support cooperation when players receive feedback and expect to meet again.[^3] A warm drink has not been shown by the cited studies to change those incentives.
 
-When someone says "serve tea and the boardroom becomes win–win," translate the sentence this way: *maybe a better opening*; *not a new game theory*.
+Serving tea has not been tested as a way to improve the opening move in these cited game studies.
 
 ## Keep the games separate
 
@@ -141,7 +141,6 @@ Fairness, initial trust, and repeated cooperation are different decisions. The c
 [^4]: Morewedge, C. K., Krishnamurti, T., & Ariely, D. (2014). Focused on fairness: Alcohol intoxication increases the costly rejection of inequitable rewards. *Journal of Experimental Social Psychology, 50*, 15–20. https://doi.org/10.1016/j.jesp.2013.08.006 (Also discussed in *Journal of Behavioral Decision Making* source citations.)
 
 [^5]: Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature effects on trust behavior: the role of insula. *Social Cognitive and Affective Neuroscience, 6*(4), 507–515. https://doi.org/10.1093/scan/nsq077
-
 
 [^7]: Lynott, D., et al. (2014). Replication of "Experiencing physical warmth promotes interpersonal warmth" by Williams and Bargh (2008). *Social Psychology, 45*(3), 216–222. https://doi.org/10.1027/1864-9335/a000187
 
