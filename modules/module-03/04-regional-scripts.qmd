@@ -237,24 +237,28 @@ Jiang (2024) tracks Taiwan high-mountain tea (*gaoshancha*) as a commodity whose
 **Hard fence:** no tables of altitude and milligrams; no TRES flavor-wheel as a primary citation; no re-teaching of the plants in Chapter 1.
 :::
 
-## How the scripts talk to each other
+## Compare the settings
 
-Three sittings, three jobs. Chaoshan everyday gongfu glues social life together with small pots and repeated pours: hospitality first, and the packaging of ceremony later.[^1] Hong Kong milk tea is an industrial counter craft—strainer, strength, condensed milk—localized after empire's mild cup proved the wrong register for popular taste.[^4] Taiwan *cha yi* cultivates elegance as a performance: gesture, *chaxi*, a designed space, and a sense-scape.[^6] It is the same leaf family, and different work of staging. Continuity myths that collapse all three into one ancient national ceremony, or into a Chan monastic timetable, get the same folklore-versus-chronicle fence as Section 2.[^2][^3]
+These examples share tea, but not one script. The table highlights what each source helps us notice; it is a guide to these portraits, not a checklist for every household or venue.
+
+| Setting | What happens | What it can help us notice |
+| --- | --- | --- |
+| **Chaoshan gongfu** | Small pots, repeated pours, and conversation around an everyday table[^1] | Hospitality and social connection; the same practice can also include refined tasting and commercial tea-house leisure |
+| **Hong Kong milk-tea counter** | A cotton strainer, strong tea, condensed milk, and café service[^4] | How local craft adapted an imported drink to postwar tastes and working routines |
+| **Hong Kong herbal-tea shop** | Herbs are simmered into decoctions and sold in neighborhood shops[^10][^11] | A local drink tradition distinct from steeped *Camellia sinensis* tea |
+| **Hong Kong yum cha** | Tea accompanies dim sum as part of a shared meal in teahouses and restaurants[^12] | Tea as one part of a wider food practice |
+| **Taiwan tea-art gathering** | Utensils, gestures, and a designed tea setting shape the occasion[^6] | How aesthetics and sensory attention can organize a gathering |
+
+The sources describe particular practices and moments in time. They do not define what everyone in Chaoshan, Hong Kong, or Taiwan does. They also show why it helps to keep local practice, later branding, and claims of ancient continuity separate.[^2][^3]
 
 ## Chapter close — and a bridge into psychology
 
-The history spine on this site runs like this: who controlled the leaf, then how practice entered daily life, then the plantation aftershock, then **many living scripts**. Psychology starts next. Warmth, ritual, and expectation sit there as context dials beside the chemistry.
-
-Chapter 4 examines how predictable shared actions can relate to ritual and context effects. These cultural practices are not, by themselves, evidence that ritual reduces anxiety.
+This chapter followed tea through trade, religious and social life, plantation production, and regional practice. Chapter 4 turns to a different question: how warmth, ritual, and expectation may shape experience. Cultural traditions provide context; by themselves, they do not show that ritual reduces anxiety.
 
 ::: {.callout-tip title="You can stop here"}
-- Chaoshan gongfu is everyday social staging, in three modes (everyday, refined, and the tea-house), not a museum ceremony.[^1]
-- The formation chronology (Liu) and the invented-tradition fence stay as foldout honesty beside the picture of the table.[^7][^2]
-- Hong Kong milk tea is a counter script with a documented postwar localization: the silk-stocking strainer, stronger leaf, condensed milk, and the *cha chaan teng*.[^4]
-- Mak’s research follows how Hong Kong milk tea became a heritage symbol and how different groups give that craft meaning.[^5]
-- Taiwan tea art treats utensil, gesture, and space as a cultivated aesthetic practice. Zhang's transmission hinge runs through the 1970s–1980s. High-mountain leaf is a related place-taste commodity.[^6][^3][^8]
-- Continuity myths get the same folklore-versus-chronicle fence as Section 2.
-- The next chapter treats context as part of the dose. It does not claim that every regional practice is lab ritual.
+- Tea practices reflect their setting: an everyday gathering, a café counter, a herbal-tea shop, a shared meal, or a designed tea-art occasion.
+- Local customs change over time. Later heritage stories and national labels do not make every practice ancient or universal.[^2][^3][^5]
+- Chapter 4 studies context and ritual effects; it does not treat every cultural practice as a laboratory ritual.
 :::
 
 ***
