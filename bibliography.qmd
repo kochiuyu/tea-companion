@@ -173,7 +173,7 @@ Hobson, N. M., et al. (2018). The psychology of rituals: An integrative review a
 
 Inagaki, T. K., & Eisenberger, N. I. (2013). Shared neural mechanisms underlying social warmth and physical warmth. *Psychological Science, 24*(11), 2272–2280.
 
-Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature affects response to fairness in the Ultimatum Game. *PLOS ONE, 6*(1), e15836.
+Kang, Y., Williams, L. E., Clark, M. S., Gray, J. R., & Bargh, J. A. (2011). Physical temperature effects on trust behavior: The role of insula. *Social Cognitive and Affective Neuroscience, 6*(4), 507–515. https://doi.org/10.1093/scan/nsq077
 
 Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology, 15*(3), 169–182.
 
@@ -211,7 +211,7 @@ Bechara, A., Damasio, A. R., Damasio, H., & Anderson, S. W. (1994). Insensitivit
 
 Berg, J., Dickhaut, J., & McCabe, K. (1995). Trust, reciprocity, and social history. *Games and Economic Behavior, 10*(1), 122–142.
 
-Brunyé, T. T., et al. (2012). *Cognition, 123*(2), 221–236. (Cited in Chapter 4 additions for Cognitive Reflection Test under caffeine.)
+Brunyé, T. T., et al. (2012). Caffeine enhances real-world language processing: Evidence from a proofreading task. *Journal of Experimental Psychology: Applied, 18*(1), 95–108. https://doi.org/10.1037/a0025851
 
 Coates, J. M., & Herbert, J. (2008). Endogenous steroids and financial risk taking on a London trading floor. *Proceedings of the National Academy of Sciences, 105*(16), 6167–6172.
 
