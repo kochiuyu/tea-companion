@@ -26,7 +26,7 @@ No new links were invented here, and the citations stay the same. Think of each 
 
 For fuller citations, with URLs and DOIs, open each chapter and use its **clickable footnotes**. Tap the number, then the caret to return. Hover often shows a popup. Denser side-detail sits in collapsed "More detail…" foldouts.
 
-**Warmth caveat (from Chapter 4's fact-check):** the opening-trust nudge from a warm mug is real in some cited designs. Large replications of the classic gift-choice warmth effect have often failed, so treat bridge 2 as a careful hint, not a negotiation trick.
+**Warmth caveat (from Chapter 4's fact-check):** one trust-game study found higher investment after a warm therapeutic pack, while a second study found no significant difference. A large replication also failed to reproduce the classic gift-choice effect. Treat bridge 2 as a limited lab finding, not a negotiation trick.
 
 ::: {.callout-note collapse="true" title="Click for more detail: how to use these eleven bridges"}
 Each bridge is a hallway, not a new claim. Follow the plain connection into the named modules, then use the chapter footnotes for the DOIs and URLs. Where older materials still listed Brooks et al. (2016) on ritual anxiety, this page now points to Hobson reviews instead. The Brooks article was **retracted in 2024**.
@@ -46,7 +46,7 @@ You do not have to memorize all eleven. Pick the question you actually have, suc
 
 ### 2. From warm hands to first trust
 
-Chapter 4’s warmth studies and Chapter 5’s Trust Game meet here. In the cited work, holding a warm cup (about **60°C**) can raise first-mover trust allocations by about **+24.8%**. The sources link that change to a warmth–trust overlap in the insula, the brain area that handles both temperature and social feelings. A cozy mug is not a negotiation strategy forever, but it can change the opening move.
+Chapter 4’s warmth studies and Chapter 5’s Trust Game meet here. Kang et al. (2011) compared brief contact with a **41°C therapeutic pack** against a **15°C pack**, not a tea mug. Participants invested more after the warm pack in Study 1, but Study 2 found no significant investment difference. Separate imaging work found overlapping responses to physical and social warmth in the anterior insula. These findings invite a question about temperature as a study condition; they do not show that serving warm tea reliably increases trust.
 
 **Open:** [Chapter 4 · Section 1 Warmth & trust](modules/module-04/01-warmth-trust.qmd) · [Chapter 5 · Section 3 Trust games](modules/module-05/03-trust-games.qmd)
 
@@ -157,7 +157,7 @@ Higher catechin levels in [*assamica*](glossary.qmd#assamica), about **25%–35%
 | From → To | Plain connection | Citations |
 | --- | --- | --- |
 | L-theanine timing → calm brain waves | Blood levels peak about **35–50 min** later; alpha changes often appear **30–45 min** in | van der Pijl et al. (2010); Nobre et al. (2008); Scheid et al. (2012) |
-| Warm cup → trust-game sending | A warm cup (about **60°C**); about **+24.8%** first-mover trust in the cited work | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
+| Warmth cue → trust-game investment | Kang used 41°C and 15°C therapeutic packs: higher investment after warmth in Study 1, no significant difference in Study 2 | Williams & Bargh (2008); Kang et al. (2011); Inagaki & Eisenberger (2013) |
 | Brew temperature → EGCG in the cup | Water well below **80°C** tends to lower the EGCG-to-caffeine ratio | Spiro & Siddique (1981); Perva-Uzunalić et al. (2006); Del Rio et al. (2004) |
 | Stress cortisol → risk taking | Under pressure, losses can sting less and risk can rise (λ snapshot in the bridge fold) | Coates & Herbert (2008); Yoto et al. (2012); Rogers et al. (2013) |
 | Brewing ritual → calmer heart rhythm | Higher heart-beat flexibility (the +ms detail sits in the bridge fold) | Hobson et al. (2018); Lang et al. (2015); Kimura et al. (2007) |
