@@ -158,5 +158,4 @@ lang: zh-Hant-HK
 
 [^6]: Everyday baseline on the [Cup reference](cup-reference.qmd): about 2 g dry leaf per 250 mL. Formal tasting strength under ISO 3103:2019 is stronger (about 2 g per 100 mL)—https://www.iso.org/standard/73224.html—and that comparison stays on the Cup page.
 
-
 [^7]: UK Tea & Infusions Association. Creating the Perfect Blend. https://www.tea.co.uk/tea-processing-and-blending (Orthodox rolling and CTC cutting, tearing, and curling are manufacturing methods; CTC makes smaller particles suited to quicker brewing.)
