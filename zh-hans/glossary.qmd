@@ -36,7 +36,7 @@ lang: zh-Hans
 
 不必把整张表背下来。开始新的一章时，扫一眼页底的“按章”清单就够了。极冷门的实验室常数和扩散方程式，这里刻意略过。若要原始论文，见[参考文献](bibliography.qmd)。
 
-把这里想成四章的口袋小词典，不是第二本教科书。
+把这里想成五章的口袋小词典，不是第二本教科书。
 
 想看第一杯，以及真茶和花草的分别，请看 **[茶叶入门](tea-basics.qmd)**。想看较长的名称表，包括中文、日文、西方标签、等级和茶壶，请看 **[茶叶标签](tea-labels.qmd)**。本词汇表只收课文里的章节术语。
 ::::::::
@@ -56,25 +56,25 @@ lang: zh-Hans
 | --- | --- | --- |
 | <span id="adenosine-receptors">腺苷受体（A1、A2A）</span> | 脑里“慢下来／想睡”的感应器；咖啡因挡住它们，让你保持清醒。 | [第二章](modules/module-02/index.qmd) |
 | <span id="alpha-brainwaves">阿尔法脑波（Alpha）</span> | 较慢的平静专注脑节奏（约 8–12 赫兹），常与茶氨酸相关。 | [第二章](modules/module-02/index.qmd) |
-| <span id="anterior-insular-cortex">前岛叶皮层</span> | 同时处理体温与信任、同理等感受的脑区。 | [第三章](modules/module-03/index.qmd) |
-| <span id="bart">气球类比风险任务（BART）</span> | 以虚拟气球打气多远来量风险承担的电脑游戏。 | [第四章](modules/module-04/index.qmd) |
+| <span id="anterior-insular-cortex">前岛叶皮层</span> | 同时处理体温与信任、同理等感受的脑区。 | [第四章](modules/module-04/index.qmd) |
+| <span id="bart">气球类比风险任务（BART）</span> | 以虚拟气球打气多远来量风险承担的电脑游戏。 | [第五章](modules/module-05/index.qmd) |
 | <span id="beta-brainwaves">贝塔脑波（Beta）</span> | 较快的警觉（或焦虑）脑节奏（约 12–30 赫兹），常随咖啡因上升。 | [第二章](modules/module-02/index.qmd) |
-| <span id="assamica">阿萨姆大叶种（var. *assamica*）</span> | 大叶、偏热带的茶树类型；往往咖啡因较高、苦味较强。 | [第一章](modules/module-01/index.qmd) |
-| <span id="sinensis">中国小叶种（var. *sinensis*）</span> | 小叶、较耐寒的中国型；往往茶氨酸与香气较丰富。 | [第一章](modules/module-01/index.qmd) |
+| <span id="assamica">阿萨姆大叶种（var. *assamica*）</span> | 大叶、偏热带的茶树类型；所调查的干茶叶咖啡因平均较高，但品种之间的范围有重叠。 | [第一章](modules/module-01/index.qmd) |
+| <span id="sinensis">中国小叶种（var. *sinensis*）</span> | 小叶、较耐寒的中国型；茶氨酸往往较高，但种植条件也很重要。 | [第一章](modules/module-01/index.qmd) |
 | <span id="canton-system">广州贸易制度（一口通商）</span> | 清朝（1757–1842）规定西方贸易集中广州、并要求以白银结算的制度。 | [第三章](modules/module-03/index.qmd) |
 | <span id="chanyuan-qinggui">《禅苑清规》</span> | 禅宗寺院规约（1103），为纪律与清醒订下正式茶务常规。 | [第三章](modules/module-03/index.qmd) |
-| <span id="dual-process-theory">双加工理论</span> | 决策同时用快速直觉思考（系统一）与慢速仔细思考（系统二）的想法。 | [第四章](modules/module-04/index.qmd) |
+| <span id="dual-process-theory">双加工理论</span> | 决策同时用快速直觉思考（系统一）与慢速仔细思考（系统二）的想法。 | [第五章](modules/module-05/index.qmd) |
 | <span id="egcg">EGCG</span> | 绿茶中最突出的儿茶素；占绿茶多酚很大一部分。 | [第一章](modules/module-01/index.qmd) |
-| <span id="embodied-cognition">具身认知</span> | 主张身体感受（如温暖）可以塑造社会判断。 | [第三章](modules/module-03/index.qmd) |
-| <span id="ern">错误相关负波（ERN）</span> | 犯错后很快的脑部“哎呀”信号；仪式可令它变钝。 | [第三章](modules/module-03/index.qmd) |
+| <span id="embodied-cognition">具身认知</span> | 主张身体感受（如温暖）可以塑造社会判断。 | [第四章](modules/module-04/index.qmd) |
+| <span id="ern">错误相关负波（ERN）</span> | 犯错后很快的脑部“哎呀”信号；仪式可令它变钝。 | [第四章](modules/module-04/index.qmd) |
 | <span id="hrv">心率变异性（HRV）</span> | 心跳间隔变动有多大；较高往往代表较平静的调控。 | [第二章](modules/module-02/index.qmd) |
 | <span id="hpa-axis">下丘脑–垂体–肾上腺轴（HPA 轴）</span> | 身体主要的压力激素回路（脑 → 垂体 → 肾上腺）。 | [第二章](modules/module-02/index.qmd) |
-| <span id="igt">爱荷华赌博任务（IGT）</span> | 测试从长期得失中学习的纸牌游戏。 | [第四章](modules/module-04/index.qmd) |
+| <span id="igt">爱荷华赌博任务（IGT）</span> | 测试从长期得失中学习的纸牌游戏。 | [第五章](modules/module-05/index.qmd) |
 | <span id="kissa-yojoki">《吃茶养生记》</span> | 荣西 1211 年提倡饮茶以养生与提神的短论。 | [第三章](modules/module-03/index.qmd) |
-| <span id="loss-aversion-lambda">损失厌恶系数（λ）</span> | 损失比同等收益“痛”多少；大于 1 表示厌恶损失。 | [第四章](modules/module-04/index.qmd) |
+| <span id="loss-aversion-lambda">损失厌恶系数（λ）</span> | 损失比同等收益“痛”多少；大于 1 表示厌恶损失。 | [第五章](modules/module-05/index.qmd) |
 | <span id="l-theanine">茶氨酸（L-theanine）</span> | 茶中一种有助放松专注的氨基酸。 | [第一章](modules/module-01/index.qmd) |
 | <span id="ppo">多酚氧化酶（PPO）</span> | 叶中酶，通过氧化儿茶素使压碎的茶叶变深（红茶关键）。 | [第一章](modules/module-01/index.qmd) |
-| <span id="present-bias">现时偏误参数</span> | 某人多强烈地偏好*现在*的奖励，胜过稍后更好的奖励。 | [第四章](modules/module-04/index.qmd) |
+| <span id="present-bias">现时偏误参数</span> | 某人多强烈地偏好*现在*的奖励，胜过稍后更好的奖励。 | [第五章](modules/module-05/index.qmd) |
 | <span id="scr">皮肤电导反应（SCR）</span> | 追踪压力与唤起的微小出汗变化。 | [第二章](modules/module-02/index.qmd) |
 | <span id="theaflavins">茶黄素</span> | 红茶氧化时形成的明亮金红色色素。 | [第一章](modules/module-01/index.qmd) |
 | <span id="thearubigins">茶红素</span> | 较深、较大的色素，赋予红茶体感与颜色。 | [第一章](modules/module-01/index.qmd) |
@@ -87,6 +87,8 @@ lang: zh-Hans
 
 **[第二章 — 身与心](modules/module-02/index.qmd)：** [腺苷受体](#adenosine-receptors)、[阿尔法](#alpha-brainwaves)／[贝塔](#beta-brainwaves)／[西塔](#theta-brainwaves)脑波、[心率变异性](#hrv)、[HPA 轴](#hpa-axis)、[皮肤电导](#scr) 
 
-**[第三章 — 历史与仪式](modules/module-03/index.qmd)：** [广州贸易制度](#canton-system)、[《禅苑清规》](#chanyuan-qinggui)、[具身认知](#embodied-cognition)、[错误相关负波](#ern)、[岛叶皮层](#anterior-insular-cortex)、[《吃茶养生记》](#kissa-yojoki)、[《南京条约》](#treaty-of-nanking) 
+**[第三章 — 历史与仪式](modules/module-03/index.qmd)：** [广州贸易制度](#canton-system)、[《禅苑清规》](#chanyuan-qinggui)、[《吃茶养生记》](#kissa-yojoki)、[《南京条约》](#treaty-of-nanking)
 
-**[第四章 — 决策](modules/module-04/index.qmd)：** [气球类比风险任务](#bart)、[双加工理论](#dual-process-theory)、[爱荷华赌博任务](#igt)、[损失厌恶系数](#loss-aversion-lambda)、[现时偏误参数](#present-bias) 
+**[第四章 — 情境与仪式心理学](modules/module-04/index.qmd)：** [具身认知](#embodied-cognition)、[错误相关负波](#ern)、[岛叶皮层](#anterior-insular-cortex) 
+
+**[第五章 — 决策](modules/module-05/index.qmd)：** [气球类比风险任务](#bart)、[双加工理论](#dual-process-theory)、[爱荷华赌博任务](#igt)、[损失厌恶系数](#loss-aversion-lambda)、[现时偏误参数](#present-bias) 

@@ -26,7 +26,7 @@ This page unpacks those suitcases. When a chapter uses a technical word, look it
 
 You do not need to memorize the whole table. When you start a new chapter, skim the “By chapter” list at the bottom. Ultra-niche lab constants and diffusion equations are left out on purpose. If you need the primary papers, see the [Bibliography](bibliography.qmd).
 
-Think of this as a pocket phrasebook for the four chapters—not a second textbook.
+Think of this as a pocket phrasebook for the five chapters—not a second textbook.
 
 For a first mug, and for true tea versus herbal drinks, use **[Tea basics](tea-basics.qmd)**. For the longer name sheet—Chinese, Japanese, and Western labels, grades, and teapot words—use **[Tea labels](tea-labels.qmd)**. This glossary stays with chapter jargon only.
 ::::::::
@@ -50,8 +50,8 @@ For a first mug, and for true tea versus herbal drinks, use **[Tea basics](tea-b
 | <span id="anterior-insular-cortex">Anterior insular cortex</span> | Brain area that handles both body temperature and feelings like trust or empathy. | [Chapter 4](modules/module-04/index.qmd) |
 | <span id="bart">Balloon Analogue Risk Task (BART)</span> | Computer game that measures risk-taking by how far people pump a virtual balloon. | [Chapter 5](modules/module-05/index.qmd) |
 | <span id="beta-brainwaves">Beta brainwaves</span> | Faster alert (or anxious) brain rhythms (about 12–30 Hz), often up with caffeine. | [Chapter 2](modules/module-02/index.qmd) |
-| <span id="assamica">*Camellia sinensis* var. *assamica*</span> | Large-leaf, tropical tea type; often higher caffeine and stronger bitterness. | [Chapter 1](modules/module-01/index.qmd) |
-| <span id="sinensis">*Camellia sinensis* var. *sinensis*</span> | Small-leaf, cold-hardier China type; often richer in L-theanine and aroma. | [Chapter 1](modules/module-01/index.qmd) |
+| <span id="assamica">*Camellia sinensis* var. *assamica*</span> | Large-leaf, tropical tea type; higher caffeine on average in surveyed dry leaves, with overlapping cultivar ranges. | [Chapter 1](modules/module-01/index.qmd) |
+| <span id="sinensis">*Camellia sinensis* var. *sinensis*</span> | Small-leaf, cold-hardier China type; often higher in L-theanine, though growing conditions also matter. | [Chapter 1](modules/module-01/index.qmd) |
 | <span id="canton-system">Canton System</span> | Qing rule (1757–1842) that funneled Western trade through Canton and demanded silver payment. | [Chapter 3](modules/module-03/index.qmd) |
 | <span id="chanyuan-qinggui">*Chanyuan Qinggui*</span> | Chan monastic rulebook (1103) that set formal tea routines for discipline and wakefulness. | [Chapter 3](modules/module-03/index.qmd) |
 | <span id="dual-process-theory">Dual-process theory</span> | Idea that decisions use fast gut thinking (System 1) and slow careful thinking (System 2). | [Chapter 5](modules/module-05/index.qmd) |
