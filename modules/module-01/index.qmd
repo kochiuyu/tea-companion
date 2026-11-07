@@ -28,7 +28,7 @@ You buy two boxes, and both of them say "tea." One pours pale and grassy. The ot
 **New to tea?** [Tea basics](../../tea-basics.qmd) is a first mug, and [Tea labels](../../tea-labels.qmd) is the shelf-name sheet. Read those, then come back here for the chemistry.
 :::
 
-This chapter answers that question in order, and it answers it in plain kitchen language. First you meet the **tea plant** behind almost all commercial tea: one species, with two everyday leaf personalities. Then you watch what happens after picking, when makers either **stop** the leaf from browning (green tea) or **let** it brown in air (black tea). Then you watch hot water act like a selective extractor. Some guests leave the leaf early, and one of them needs more heat and time. Finally you meet three named guests who arrive on different clocks: **caffeine** (wake-up), **[L-theanine](../../glossary.qmd#l-theanine)** (calm focus), and **[EGCG](../../glossary.qmd#egcg) (the standout green-tea plant compound)**.
+This chapter answers that question in order, and it answers it in plain kitchen language. First you meet the **tea plant** behind almost all commercial tea: one species, with two everyday leaf personalities. Then you watch what happens after picking, when makers either **stop** the leaf from browning (green tea) or **let** it brown in air (black tea). Then you watch hot water act like a selective extractor. Some guests leave the leaf early, and one of them needs more heat and time. Finally you meet three compounds often discussed in tea chemistry: **caffeine**, **[L-theanine](../../glossary.qmd#l-theanine)**, and **[EGCG](../../glossary.qmd#egcg) (a prominent green-tea catechin)**. Their amounts in a cup vary with the tea and preparation; study findings do not predict how a particular cup will feel.
 
 **Read the story; open More detail boxes only when curious.** To follow the open story, you do **not** need Latin variety names, enzyme labels, molecular formulas, or dense dose tables. Those details live in the collapsed **More detail** boxes. Tap a footnote marker to jump to the source, then tap the caret to jump back. A hover often shows a popup too.
 
@@ -38,7 +38,7 @@ By the end, you will know why "what's in my mug?" is not one number. You will al
 - **Tea plant** — the bush behind almost all commercial tea, with the lab name waiting in the foldout.
 - **Stop browning / let it brown** — the factory fork that makes green versus black from the same leaf.
 - **Extraction** — hot (or cold) water pulling compounds out of the leaf and into your mug.
-- **Three guests** — wake-up (caffeine), calm focus (L-theanine), and the standout green-tea plant compound (EGCG).
+- **Three compounds** — caffeine (a stimulant), L-theanine (an amino acid studied for possible attention and mood effects), and EGCG (a green-tea catechin). Research labels are not promises about a cup.
 :::
 
 ::: {.callout-tip collapse="true" title="More detail: lab words you may meet in foldouts"}
@@ -75,7 +75,7 @@ Each sitting is one section of the chapter. The open pages stay lay-friendly, an
 1. **[Two plants, one species](01-plants.qmd)** — China-type and Assam-type as everyday leaf personalities, together with garden fine print and aisle bridges.
 2. **[The fork in the road: stop the browning, or let it run](02-processing.qmd)** — the kitchen contrast of "stop browning" and "let it brown," the oolong middle path, and the fermentation myth.
 3. **[What brewing actually does](03-brewing.qmd)** — hot water as a selective extractor, along with time, temperature, leaf amount, and bag versus loose intuition.
-4. **[Three characters in the cup](04-compounds.qmd)** — three guests on different clocks, cups set beside capsules, and the reminder that this is "not instant Zen."
+4. **[Three compounds in the cup]
 
 **Start with section 1:** [Two plants, one species](01-plants.qmd)
 
@@ -87,7 +87,7 @@ Before you leave the chemical core, here is a short field guide, the kind of thi
 
 **If you want malt and body:** choose black tea. You are choosing the "let it brown" factory path on purpose, because the darker pigments are the mouthfeel makers.[^2]
 
-**If you care about calm focus as well as wake-up:** remember that ordinary cups deliver **tens of milligrams** of L-theanine, not the **100–200 mg** capsules used in many lab trials.[^3][^4] A matcha or a shaded green can climb higher. A quick black bag is usually lower on theanine and higher on the "familiar caffeine" side (see the [Cup reference](../../cup-reference.qmd)).
+**If you are reading claims about L-theanine and attention or mood:** remember that ordinary cups deliver **tens of milligrams**, not the **100–200 mg** doses used in many lab trials.[^3][^4] Amounts vary with tea and preparation, and they do not predict a specific feeling. See the [Cup reference](../../cup-reference.qmd) before comparing a drink with an isolated dose.
 
 **If someone says cold brew is caffeine-free:** smile, then remember the clock. Cold only slows the exit of caffeine from the leaf.[^5] Time is the variable that actually matters.
 
@@ -108,7 +108,7 @@ None of that is medical advice. It is plant chemistry meeting a kettle, and the 
 
 ## Looking ahead
 
-You now know how a plant becomes a cup, and which three characters usually steal the scene. The next chapter picks up exactly where this one leaves off: **after you swallow**. Why does tea so often feel different from coffee, and what do brain waves, stress hormones, and body signals actually show?
+You now know how a plant becomes a cup, and which compounds researchers measure in the cup and body.
 
 Open [Chapter 2: Body, Brain & Mood](../module-02/index.qmd) when you are ready. The compounds have already started their trip.
 
@@ -116,7 +116,7 @@ Open [Chapter 2: Body, Brain & Mood](../module-02/index.qmd) when you are ready.
 - The same species holds two main plant styles. China-type and Assam-type averages differ, and gardens decide the fine print.[^8][^6]
 - Green versus black is mostly a **processing fork** (kill browning enzymes with heat, or let oxidation run), not a different plant in ordinary commercial tea.[^9][^2][^10]
 - Brewing is extraction. Caffeine and L-theanine come out easily, while EGCG wants more heat and time and can degrade if you overcook it.[^5][^3][^1]
-- Three guests arrive on three clocks: caffeine over hours, L-theanine over tens of minutes, and EGCG in between. That is why "I just sipped" ≠ peak effect.[^11][^12][^13]
+- Blood concentrations of caffeine, L-theanine, and EGCG follow different time courses. A blood measurement is not a schedule for when a person will feel a peak effect.[^11][^12][^13]
 - Lab capsules (e.g. 100–200 mg L-theanine) are not grocery-bag cups. Check the [Cup reference](../../cup-reference.qmd).[^3][^4]
 :::
 
