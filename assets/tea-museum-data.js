@@ -59,8 +59,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/01-trade-history.html#the-fortune-myth-corrected",
-        "zh-hant-hk": "modules/module-03/01-trade-history.html",
-        "zh-hans": "modules/module-03/01-trade-history.html"
+        "zh-hant-hk": "modules/module-03/01-trade-history.html#更正福鈞的神話",
+        "zh-hans": "modules/module-03/01-trade-history.html#纠正福琼的神话"
       },
       "citations": [
         {
@@ -130,8 +130,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/02-monastic-path.html#eisai-lu-yu-and-the-japanese-tea-room",
-        "zh-hant-hk": "modules/module-03/02-monastic-path.html",
-        "zh-hans": "modules/module-03/02-monastic-path.html"
+        "zh-hant-hk": "modules/module-03/02-monastic-path.html#榮西陸羽與日本茶室",
+        "zh-hans": "modules/module-03/02-monastic-path.html#荣西陆羽与日本茶室"
       },
       "citations": [
         {
@@ -197,8 +197,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/02-monastic-path.html#song-powder-then-eisais-japan",
-        "zh-hant-hk": "modules/module-03/02-monastic-path.html",
-        "zh-hans": "modules/module-03/02-monastic-path.html"
+        "zh-hant-hk": "modules/module-03/02-monastic-path.html#宋代末茶再傳到榮西的日本",
+        "zh-hans": "modules/module-03/02-monastic-path.html#宋代末茶再传到荣西的日本"
       },
       "citations": []
     },
@@ -259,8 +259,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/01-trade-history.html#war-treaty-and-open-ports",
-        "zh-hant-hk": "modules/module-03/01-trade-history.html",
-        "zh-hans": "modules/module-03/01-trade-history.html"
+        "zh-hant-hk": "modules/module-03/01-trade-history.html#戰爭條約與通商口岸",
+        "zh-hans": "modules/module-03/01-trade-history.html#战争条约与通商口岸"
       },
       "citations": [
         {
@@ -326,8 +326,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/04-regional-scripts.html#portrait-2-hong-kong-milk-tea-counter",
-        "zh-hant-hk": "modules/module-03/04-regional-scripts.html",
-        "zh-hans": "modules/module-03/04-regional-scripts.html"
+        "zh-hant-hk": "modules/module-03/04-regional-scripts.html#肖像二香港奶茶櫃位",
+        "zh-hans": "modules/module-03/04-regional-scripts.html#肖像二香港奶茶柜台"
       },
       "citations": [
         {
@@ -393,8 +393,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/01-trade-history.html#tea-time-machine",
-        "zh-hant-hk": "modules/module-03/01-trade-history.html",
-        "zh-hans": "modules/module-03/01-trade-history.html"
+        "zh-hant-hk": "modules/module-03/01-trade-history.html#tea-time-machine",
+        "zh-hans": "modules/module-03/01-trade-history.html#tea-time-machine"
       },
       "citations": [
         {
@@ -460,8 +460,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/01-trade-history.html#tea-time-machine",
-        "zh-hant-hk": "modules/module-03/01-trade-history.html",
-        "zh-hans": "modules/module-03/01-trade-history.html"
+        "zh-hant-hk": "modules/module-03/01-trade-history.html#tea-time-machine",
+        "zh-hans": "modules/module-03/01-trade-history.html#tea-time-machine"
       },
       "citations": [
         {
@@ -531,8 +531,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/01-trade-history.html#tea-time-machine",
-        "zh-hant-hk": "modules/module-03/01-trade-history.html",
-        "zh-hans": "modules/module-03/01-trade-history.html"
+        "zh-hant-hk": "modules/module-03/01-trade-history.html#tea-time-machine",
+        "zh-hans": "modules/module-03/01-trade-history.html#tea-time-machine"
       },
       "citations": [
         {
@@ -598,8 +598,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/01-trade-history.html#tea-time-machine",
-        "zh-hant-hk": "modules/module-03/01-trade-history.html",
-        "zh-hans": "modules/module-03/01-trade-history.html"
+        "zh-hant-hk": "modules/module-03/01-trade-history.html#tea-time-machine",
+        "zh-hans": "modules/module-03/01-trade-history.html#tea-time-machine"
       },
       "citations": [
         {
@@ -665,8 +665,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/01-trade-history.html#tea-time-machine",
-        "zh-hant-hk": "modules/module-03/01-trade-history.html",
-        "zh-hans": "modules/module-03/01-trade-history.html"
+        "zh-hant-hk": "modules/module-03/01-trade-history.html#tea-time-machine",
+        "zh-hans": "modules/module-03/01-trade-history.html#tea-time-machine"
       },
       "citations": [
         {
@@ -732,8 +732,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-01/02-processing.html#from-bush-to-decision",
-        "zh-hant-hk": "modules/module-01/02-processing.html",
-        "zh-hans": "modules/module-01/02-processing.html"
+        "zh-hant-hk": "modules/module-01/02-processing.html#由茶樹到抉擇",
+        "zh-hans": "modules/module-01/02-processing.html#从灌木到抉择"
       },
       "citations": [
         {
@@ -799,8 +799,8 @@ window.TeaMuseumData = {
       },
       "source": {
         "en": "modules/module-03/04-regional-scripts.html#portrait-1-chaoshan-gongfu-as-everyday-staging",
-        "zh-hant-hk": "modules/module-03/04-regional-scripts.html",
-        "zh-hans": "modules/module-03/04-regional-scripts.html"
+        "zh-hant-hk": "modules/module-03/04-regional-scripts.html#肖像一潮汕工夫日常搭台",
+        "zh-hans": "modules/module-03/04-regional-scripts.html#肖像一潮汕工夫日常搭台"
       },
       "citations": [
         {
