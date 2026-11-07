@@ -81,7 +81,7 @@ Adapted from the three portraits in this lesson: d’Abbs on everyday Chaoshan g
 
 [Section 2](02-monastic-path.qmd) ended with monastery timetables and with the leveling inside a Japanese tea room. This lesson asks a different question. What other **scripts** does the leaf wear when the room is a Chaoshan table, a Taiwan tea-art gathering, or a Hong Kong milk-tea counter?
 
-A script, here, means a way of **staging** the drink: the tools, the sequence, and the social roles. It is not a shopping label from [Tea basics](../../tea-basics.qmd), and it is not an extraction dial from [Chapter 1](../module-01/03-brewing.qmd). Commodity leaf from [Section 3](03-plantation-aftershock.qmd) can travel anywhere. Local scripts decide how people actually sit with it. The estate aftershock explains why a bag can be historically cheap. This sitting asks how three living rooms stage the same leaf family differently.
+A **script** is how people stage a drink: the tools, sequence, and social roles. These portraits compare how local histories and social settings shape tea practices. They are examples, not rules for whole cultures. The idea differs from a shopping label in [Tea basics](../../tea-basics.qmd) or a brewing variable in [Chapter 1](../module-01/03-brewing.qmd).
 
 ::: {.callout-caution title="Not lab ritual"}
 Predictable shared steps will return in [Chapter 4 · Section 2](../module-04/02-ritual-stress.qmd), where they are treated as *context psychology*. This page does **not** teach Hobson, heart-rate buffering, or error-related negativity. Culture comes first. The psychology waits for the next chapter.
