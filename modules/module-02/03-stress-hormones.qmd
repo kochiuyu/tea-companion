@@ -97,7 +97,7 @@ Stress runs a chemical fire-alarm loop toward cortisol and related signals. Caff
 <!-- reading-fold:end -->
 ::: {.callout-tip title="You can stop here"}
 - Stress has a chemistry: a fire-alarm hormone story, not only a mood word.
-- Caffeine can raise the siren. Drinks linked with L-theanine more often keep markers nearer baseline in the cited designs.
+- Caffeine can raise the siren. In the cited studies, L-theanine given in water or tablets sometimes reduced stress-related responses compared with placebo; they did not test brewed tea.[^1][^3][^4]
 - Before you believe a stress headline, check **dose, task, timing, contrast**. That is the same literacy as Chapter 2.2.
 :::
 
