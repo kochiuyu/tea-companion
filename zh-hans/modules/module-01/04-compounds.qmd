@@ -231,7 +231,6 @@ lang: zh-Hans
 
 [^6]: Scheid, L., et al. (2012). Kinetics of L-theanine uptake and metabolism in healthy humans (cited *Journal of Nutrition* entry).
 
-[^7]: Nobre, A. C., Rao, A., & Owen, G. N. (2008). L-theanine, a natural constituent in tea, and its effect on mental state. *Asia Pacific Journal of Clinical Nutrition, 17*(S1), 167–168. https://pubmed.ncbi.nlm.nih.gov/18296328/
 
 [^8]: Owen, G. N., et al. (2008). The combined effects of L-theanine and caffeine on cognitive performance and mood. *Nutritional Neuroscience, 11*(4), 193–198. https://doi.org/10.1179/147683008X301513
 
