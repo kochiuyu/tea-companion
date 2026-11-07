@@ -72,7 +72,7 @@ Green and black tea usually come from the same plant. What changes is the **fact
 
 Tea makers often say "fermentation" for the green-to-black change. For ordinary green, oolong, and black tea they usually mean leaf enzymes plus air. True microbial aging shows up mainly in dark teas such as Pu-erh.[^4]
 
-Bag versus loose leaf, and the black-tea factory words *orthodox* and *CTC*, are about **particle size**—not a new plant. Smaller pieces often color the mug faster. The grade table lives on [Tea labels](tea-labels.qmd).
+Bag versus loose leaf describes how tea is sold. The black-tea factory words *orthodox* and *CTC* name different ways of breaking the withered leaf: rolling it, or cutting, tearing, and curling it. CTC usually makes smaller pieces that brew faster. Neither method means a new plant.[^7] The grade table lives on [Tea labels](tea-labels.qmd).
 
 ::: {.callout-note collapse="true" title="More detail: six type-names"}
 Trade lists sometimes name **six** manufactured types (green, yellow, white, oolong, black, dark). Yellow tea is rare outside China. You do not need it before Chapter 1.[^5]
@@ -147,3 +147,6 @@ Chinese, Japanese, and Western cafe lists—grades, herbals, and teapot names in
 [^5]: Processing overviews commonly list six manufactured types (green, yellow, white, oolong, black, dark)—e.g. the tea-processing chapter in *Food Reviews International* (https://doi.org/10.1080/87559129509541052) and ISO tea-type classification work (ISO 20715:2023).
 
 [^6]: Everyday baseline on the [Cup reference](cup-reference.qmd): about 2 g dry leaf per 250 mL. Formal tasting strength under ISO 3103:2019 is stronger (about 2 g per 100 mL)—https://www.iso.org/standard/73224.html—and that comparison stays on the Cup page.
+
+
+[^7]: UK Tea & Infusions Association. Creating the Perfect Blend. https://www.tea.co.uk/tea-processing-and-blending (Orthodox rolling and CTC cutting, tearing, and curling are manufacturing methods; CTC makes smaller particles suited to quicker brewing.)
