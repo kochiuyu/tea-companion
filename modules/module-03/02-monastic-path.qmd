@@ -211,7 +211,7 @@ The monastic codes, and Eisai's essay with them, are **prescriptions and promoti
 
 What this lesson does *not* claim is that every modern cafe ritual descends unbroken from Chan, or that *ichigo ichie* causes cooperation in Trust Games. Those are later bridges, and they are set out on [Linkages](../../linkages.qmd).
 
-Eisai's 1211 phrase about tea nourishing the heart sits, in the sources, beside modern findings that tea compounds can raise calming parasympathetic (HRV) tone. See [Chapter 2 · Body signals](../module-02/04-body-signals.qmd). That meeting is a historical phrase beside a modern measure. It is not proof that Eisai ran an HRV lab.
+Eisai's 1211 phrase about tea nourishing the heart can be set beside a modern measure, but it does not predict a result. [Kimura et al. (2007)](https://doi.org/10.1016/j.biopsycho.2006.06.006) measured heart-rate variability (HRV) after giving participants L-theanine in water; the reported overall HRV tests were not significant. See [Chapter 2 · Body signals](../module-02/04-body-signals.qmd). Eisai's medical language is not evidence that tea raises HRV.
 :::
 
 Ritual uses of tea, and focus uses of tea, are old. Modern talk of "calm alertness" sits beside that long cultural history. It does not stand in its place.
@@ -239,7 +239,7 @@ The overclaim to avoid is larger. Tea rooms do not "cause" peace treaties, and *
 
 ## How this lesson talks to Chapters 2 and 4–5
 
-Eisai's "nourishes the heart" line can sit *beside* modern **heart-beat flexibility** ([HRV](../../glossary.qmd#hrv)) findings, as a rhyme rather than as proof that 1211 knew laboratory measures ([Chapter 2 · Section 4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)). Monastic **shared timing** may foreshadow Chapter 4's ritual lesson, and a single sentence is enough to point there. **Chapter 4** owns the brewing-break protocols, Hobson, and the ERN scaffolding. This page does not teach them.
+Eisai's "nourishes the heart" line can sit *beside* modern **heart-beat flexibility** ([HRV](../../glossary.qmd#hrv)) measurements. The cited experiment did not find a significant overall HRV effect; the historical phrase cannot establish one ([Chapter 2 · Section 4 Body signals](../module-02/04-body-signals.qmd); [Linkages](../../linkages.qmd)). Monastic **shared timing** may foreshadow Chapter 4's ritual lesson, and a single sentence is enough to point there. **Chapter 4** owns the brewing-break protocols, Hobson, and the ERN scaffolding. This page does not teach them.
 
 
 
@@ -273,7 +273,7 @@ The romance to refuse is the habit of treating Okakura's 1906 English essay as i
 - Tea moved from medicine soup to the monastery timetable, then to Song powder and Eisai, and then to tea-room practice, with Rikyū in the later reception.
 - Lu Yu taught people to notice the boil. Chan codes wrote tea into shared schedules. Eisai argued that tea nourishes, and that it works against lethargy.
 - The folklore of Bodhidharma's eyelids is color, and it is not primary history. Keep it labeled.
-- The old phrase "nourishes the heart" can rhyme with modern measures of heart-beat flexibility, without turning into an fMRI claim. Chapter 4 owns the lab bridges.
+- The old phrase "nourishes the heart" can be compared with modern HRV measurements, but the cited experiment did not find a significant overall HRV effect. Chapter 4 owns the lab bridges.
 :::
 
 ***
