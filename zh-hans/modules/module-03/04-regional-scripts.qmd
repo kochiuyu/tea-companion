@@ -177,6 +177,24 @@ Mak（2020）顺着看奶茶的制作技艺怎样在香港变成遗产，也变�
 就摘要这一层，意思上要诚实：官方的叙述可以支撑一种和谐社会、**劳动很驯顺**的想象；更年轻的读者则可能把奶茶看成**反叛**的标志。政治变得很快的时候，这两种读法会拉开。[^5] 正文守住柜台的做法：滤网、浓度、炼乳、茶餐厅。遗产政治留在折叠里，免得这一页变成城市品牌的文章，或变成茶叶入门那种标签表。
 :::
 
+## 奶茶柜台之外：凉茶与饮茶
+
+香港的茶史不止一种茶。“凉茶铺”把植物材料煎煮成饮品，和冲泡 *Camellia sinensis* 茶叶是不同的做法。香港记忆指出，凉茶何时成为商业生意并无确切年代；有些家族经营的老字号已有逾百年历史。早期店铺可以是前铺后厂：前面售茶，后面设厨房煎煮。[^10][^11]
+
+殖民时期的一项记录，让我们看到这些做法如何随人远行。1869 年一项法例要求运送华工出洋的船只，按乘客人数携带中药材，以便航程中有人患病时煎煮凉茶。[^10] 这是海上规定的证据，并不能说明每个家庭喝凉茶的频率，也不是疗效证明。1950 至 60 年代，凉茶铺也成为街坊聚脚的廉价场所，人们可以见面聊天、听音乐和看电视。随着西医普及，生意后来发生变化；即冲、罐装和瓶装产品都是商家适应市场的方式。[^10]
+
+茶也属于共享的一餐。“饮茶”是在茶楼或餐馆一边喝茶、一边吃点心。香港大学的一篇论文把饮茶视为整体饮食实践，涵盖准备、供应和进食，而非把点心制作当成整个传统。[^12] 另一篇研究则从移民与殖民历史，分析香港茶餐厅的混合菜式和空间。[^13] 这些故事呈现几种本地茶文化场景：凉茶铺、共享的一餐，以及方便快捷的茶餐厅饮品。它们在香港并存，但并非一种从未改变的传统。
+
+::: {.callout-note collapse="true" title="更多资料：凉茶、店铺与共享的一餐"}
+| 时段 | 来源记载 | 阅读时要留意 |
+| --- | --- | --- |
+| **商业年代** | 香港记忆指出，凉茶何时成为商业生意并无确切年代；有些家族老字号已有逾百年历史。[^11] | 不要替整个行业定下一个创办年份。 |
+| **1869 年** | 殖民政府法规要求运送华工出洋的船只携带中药材，以便长途航程中煎煮凉茶。[^10] | 船上规定不等于每位乘客的实际经历。 |
+| **1950 至 60 年代** | 街坊凉茶铺提供廉价地方，让人喝茶、聊天、听音乐和看电视。[^10] | 店铺同时是社交场所。 |
+| **后来的适应** | 随着生意变化，商家和生产者改做即冲、罐装和瓶装产品。[^10] | 传承之中也包括商业转型。 |
+| **饮茶** | 茶楼与餐馆把喝茶和点心组成共享实践；研究把整个饮食方式纳入讨论，而非只谈一项手艺。[^12] | 一餐的文化比食谱或饮品更广。 |
+:::
+
 ## 肖像三——台湾茶艺
 
 <!-- history-illustration:taiwan-tea-art:start -->
@@ -265,6 +283,12 @@ Jiang（2024）追踪台湾高山茶（*gaoshancha*）。那是一种商品，�
 8. Jiang, H. (2024). Commodity, nature, and taste: The making of Taiwan's high-mountain tea. *Geographical Review*. https://doi.org/10.1080/00167428.2024.2319255
 9. 劉智鵬、黃君健、盧惠玲 (2023). 《港式奶茶製作技藝》. 香港：中華書局. ISBN 9789888860357. (Bibliographic pointer only—no page-mined steps on this site yet.)
 
+10. Hong Kong Memory. Development of the Herbal Tea Culture in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-development.html
+11. Hong Kong Memory. History of Herbal Tea in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-herbal_tea.html
+12. Lau, H. C. D. (2017). *More than a craft: the food practice of yum cha as an intangible cultural heritage of Hong Kong* (Undergraduate thesis, University of Hong Kong). https://hub.hku.hk/handle/10722/350593
+13. Chan, S. C. (2019). Tea cafés and the Hong Kong identity: Food culture and hybridity. *China Information, 33*(3), 311–328. https://doi.org/10.1177/0920203X18773409
+
+
 [^1]: d'Abbs, P. H. (2019). Tea art as everyday practice: Gongfu tea in Chaoshan, Guangdong, today. *The Asia Pacific Journal of Anthropology, 20*(3), 213–231. https://doi.org/10.1080/14442213.2019.1611908
 
 [^2]: d'Abbs, P. H. N. (2018). *Art as everyday practice: A study of gongfu tea in Chaoshan, China* (Master's thesis, University of New England). https://hdl.handle.net/1959.11/23092
@@ -280,3 +304,11 @@ Jiang（2024）追踪台湾高山茶（*gaoshancha*）。那是一种商品，�
 [^7]: Liu, Changyun (劉嫦雲). (2023). A Study of the Creation of Chaozhou Kungfu Tea Practice / 潮州工夫茶の成立に関する考察. *比較日本文化学研究*, 16, 23–43. https://doi.org/10.15027/53587
 
 [^8]: Jiang, H. (2024). Commodity, nature, and taste: The making of Taiwan's high-mountain tea. *Geographical Review*. https://doi.org/10.1080/00167428.2024.2319255
+
+[^10]: Hong Kong Memory. Development of the Herbal Tea Culture in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-development.html
+
+[^11]: Hong Kong Memory. History of Herbal Tea in Hong Kong (The Oral Legacies (I) – Intangible Cultural Heritage of Hong Kong). https://www.hkmemory.hk/en/collections-ichhk-herbal_tea-herbal_tea.html
+
+[^12]: Lau, H. C. D. (2017). *More than a craft: the food practice of yum cha as an intangible cultural heritage of Hong Kong* (Undergraduate thesis, University of Hong Kong). https://hub.hku.hk/handle/10722/350593
+
+[^13]: Chan, S. C. (2019). Tea cafés and the Hong Kong identity: Food culture and hybridity. *China Information, 33*(3), 311–328. https://doi.org/10.1177/0920203X18773409
