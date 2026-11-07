@@ -92,7 +92,7 @@ Lynott et al. (2014) did not replicate Williams & Bargh's Study 2 gift-choice ef
 
 **Still useful as a methods warning.** If thermal primes can shift *some* trust-game decisions in *some* designs,[^3] then a decision study that ignores cup temperature risks mixing chemistry with warmth. That is why [Chapter 5 · Section 4 Study protocols](../module-05/04-study-protocols.qmd) specify opaque mugs near **60°C ± 2°C**.
 
-This warmth thread reappears in [Chapter 5 · Section 3 Trust games](../module-05/03-trust-games.qmd). The same first-mover figure is one of the bridges on [Linkages](../../linkages.qmd).
+This warmth thread reappears in [Chapter 5 · Section 3 Trust games](../module-05/03-trust-games.qmd). The trust-game comparison is also discussed on [Linkages](../../linkages.qmd).
 :::
 
 ## Passive warmth vs active ritual
@@ -163,7 +163,7 @@ When temperature is left unlocked, the confound is easy to picture. If two cups 
 ::: {.callout-note collapse="true" title="More detail: why the matched mug sits near 60°C"}
 Chapter 5's study-protocol lesson specifies drinks in identical opaque mugs held near **60°C ± 2°C**, with bitterness matched (for example with food-grade quinine in controls), so that *temperature and taste* do not quietly become the experiment.[^6]
 
-Here is why that number shows up in the sources' warmth narrative:
+Here is how Chapter 5's protocol choice relates to this warmth research:
 
 - Kang et al. used warm packs near **41°C** and cold packs near **15°C**, not 60°C mugs. Chapter 5's 60°C mug target is its own protocol choice, not a temperature borrowed from Kang.[^3][^6]
 - If thermal priming can shift *some* trust-game decisions in *some* designs, then an unlocked mug temperature confounds pharmacology with warmth.[^3]
