@@ -50,9 +50,9 @@ Start here. This is one compact routing sheet, written in kitchen language only.
 
 | If the cup feels… | First dial to try | Then open… |
 | --- | --- | --- |
-| **Bitter / harsh** | Shorter time, cooler water, or both (especially for greens). Treat bitterness as your brake | [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) (heat and time also pull bitter material; [EGCG](glossary.qmd#egcg) wants more heat) |
+| **Bitter / harsh** | Try a shorter steep first; if it is still harsh, try cooler water on the next cup (especially for greens). Change one dial at a time | [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd) (heat and time also pull bitter material; [EGCG](glossary.qmd#egcg) wants more heat) |
 | **Flat / pale / weak** | A longer time, hotter water (with the style in mind), or more leaf | The dials in [Chapter 1 · Section 3](modules/module-01/03-brewing.qmd). Open the [Cup reference](cup-reference.qmd) when you want a home baseline strength map. |
-| **Cloudy / muddy look** | Often fine particles or a bag grade, plus a short hot dunk. This is not a new plant | [Tea labels · grades](tea-labels.qmd#grades), and the Chapter 1 · Section 3 foldout on particle size and surface area. |
+| **Cloudy / muddy look** | If you can see fine leaf particles, let them settle or strain the tea. A cloudy look alone does not identify a leaf grade; check the cup before changing a brewing dial | [Tea labels · grades](tea-labels.qmd#grades), and the Chapter 1 · Section 3 foldout on particle size and surface area. |
 | **Second steep different** | Expected with whole leaf. The early guests leave first, and bag grades compress the drama | [Chapter 1 · Section 3 — A second cup…](modules/module-01/03-brewing.qmd) |
 
 **This page owns** the sheet that routes a complaint to a dial. **It does not own** extraction kinetics, solubility tables, or lab-versus-home strength tables. Those stay in Chapter 1 · Section 3 and the Cup reference.
