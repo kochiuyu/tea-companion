@@ -33,7 +33,7 @@ Superscript numbers are clickable footnotes. A click jumps to the source, and th
 
 [Section 1](01-trade-history.qmd) explained why a cheap supermarket bag *exists* at all, once silver, war, and the transfer of the tea plant had done their work. This lesson asks a later question. Once Chinese monopoly leaf is no longer the only farm, what does an **estate** actually do? Who clears the jungle, who picks the flush, and how does that commodity form find its way into a British cupboard?
 
-It helps to hold two pictures side by side. In the first, Fortune's packing cases and the identification of Assam tea finish the road *to* the monopoly break. In the second, the forest has been cleared, migrant labor runs on a schedule, and late-nineteenth-century Britain no longer depends on Canton chests. The chemistry of the cup still lives in [Chapter 1](../module-01/index.qmd). The words on the aisle still live in [Tea basics](../../tea-basics.qmd). This sitting owns the **aftershock**: the land, the labor, the marketing, and the estate form that makes the bag historically cheap.
+It helps to hold two pictures side by side. In the first, Fortune's packing cases and the identification of Assam tea finish the road *to* the monopoly break. In the second, the forest has been cleared, migrant labor runs on a schedule, and late-nineteenth-century Britain no longer depends on Canton chests. The chemistry of the cup still lives in [Chapter 1](../module-01/index.qmd). The words on the aisle still live in [Tea basics](../../tea-basics.qmd). Here the story turns to the **aftershock**: how land, labor, marketing, and the estate system helped make tea a low-cost mass commodity.
 
 ::: {.callout-note collapse="true" title="More detail: what Section 1 already said vs what this section adds"}
 | Section 1 still owns | This section owns |
@@ -42,7 +42,7 @@ It helps to hold two pictures side by side. In the first, Fortune's packing case
 | Fortune myth correction; Bruce–Wallich timing | The Assam Company boom; the remaking of land and labor (Sharma); Kew's market aftershock |
 | One-sentence hinge into estates | The Ceylon coffee→tea foldout; selling empire tea to buyers (Rappaport) |
 
-Section 1's aftershock paragraphs were thinned on purpose, so the estate story would not be told twice.
+
 :::
 
 ## From plant transfer to industrial crop
@@ -51,7 +51,7 @@ Botany and politics opened the door. Estates walked through it.
 
 Assam tea had already been identified and validated decades before Fortune's missions to China. What Fortune added was a layer of Chinese *sinensis* cultivars, makers, and know-how, set onto an industry that was already underway. That hinge lives in Section 1.[^1][^2] What followed was not a few experimental plots. It was a commercial vehicle, and then a landscape of gardens: frontier clearance, labor brought in and managed, and commodity schedules that could feed a mass market.[^3][^5]
 
-On **12 February 1839**, merchants met in London at 6 Great Winchester Street and formed a Provisional Committee. Their aim was to pursue Assam tea cultivation and manufacture as a private enterprise, after the East India Company's experimental gardens had already shown that the plant could work.[^5] The **Assam Company** that grew from that meeting is the standard first commercial tea company for Assam gardens, the bridge from a government experiment to a shareholder estate. The named timeline—formation, the early Chinese skilled recruits, then the turn toward migrant labor—lives in the foldout below. The open story only needs the hinge. Once Chinese monopoly leaf was optional, capital organized the garden.[^5][^6]
+On **12 February 1839**, merchants met in London at 6 Great Winchester Street and formed a Provisional Committee. Their aim was to pursue Assam tea cultivation and manufacture as a private enterprise, after the East India Company's experimental gardens had already shown that the plant could work.[^5] The **Assam Company** that grew from that meeting is the standard first commercial tea company for Assam gardens, the bridge from a government experiment to a shareholder estate. The timeline below follows the company’s formation, early Chinese skilled recruits, and the later turn toward migrant labor. Once Chinese monopoly leaf was no longer the only source, capital organized commercial tea gardens.[^5][^6][^5][^6]
 
 ::: {.callout-note collapse="true" title="More detail: Assam Company & early garden boom (named timeline)"}
 | Beat | What the sources support | Fence |
@@ -62,7 +62,7 @@ On **12 February 1839**, merchants met in London at 6 Great Winchester Street an
 | **Scale color (foldout only)** | Sharma cites gazetteer-linked figures: by **1901**, colonial tea enterprise on the order of **164 plantations / 244,653 acres** in the Sibsagar-context discussion[^6] | An order of magnitude from a secondary citation. Prefer the foldout, and do not do acreage arithmetic in the open story |
 | **Acreage grants** | Waste Land Rules grant tallies, for example the early land-administration figures | **Skipped.** The Assam.gov land-administration page was unavailable at research time, so no acres are invented here |
 
-The botanical networks that moved crops, Kew and the colonial gardens, mostly stay with Section 1's plant-transfer beat. One bridge sentence is enough: botany enabled estates, and estates remade society.[^2]
+Section 1 traced the movement of tea plants and botanical knowledge. Here the focus shifts to the effects of commercial cultivation in Assam: land use, labor, and settlement.[^2]
 :::
 
 ## Gardens that remake a frontier
@@ -78,9 +78,9 @@ The botanical networks that moved crops, Kew and the colonial gardens, mostly st
 
 Picture Upper Assam not as a tidy English farm but as jungle cleared for rows. Forest is cut, land is scheduled to a flush calendar, and leaf moves by steamer, and later by rail, toward a British market that wanted volume more than craft romance.[^1][^3] An estate is a timetable as much as a place. When the flush comes, the leaf must be plucked, withered, and fired on schedule, then graded for chests that can travel. That commodity rhythm is what turns a frontier garden into something a counting house can price.
 
-Kew's public history is blunt about the human and animal cost of that clearance. Coolies and elephants appear in the making of the gardens, and so does **Maniram Datta Barua**, who had first told Robert Bruce about Assam leaf and who was executed after the 1857 uprising.[^1] The open story keeps those names as notes on cost, not as a homemade body count. Kew supplies the readable trail, and this page does not invent mortality percentages beside it.
+Kew’s public history describes the use of coolie labor and elephants in making the gardens. It also recounts that **Maniram Datta Barua**, who had first told Robert Bruce about Assam leaf, was executed after the 1857 uprising. The account does not provide a mortality total, so none is inferred here.[^1]
 
-Sharma's *Empire's Garden* is the scholarly spine for this part of the story: how the British remade a jungle-laden frontier into cultivated estates, and then reshaped the region's social landscape through migrant settlement.[^3] Duke University Press summarizes her argument as the settlement of more than one million migrants changing Assam's social landscape. We treat that sentence as the publisher's framing of Sharma's thesis, not as a fresh census counted on this page.[^3] It is a history of land and people, not a spreadsheet of colonial profit shares invented here. Darjeeling appears in Section 1's four-era hinge as another late-nineteenth-century Raj garden name. This sitting keeps Assam as the spine and leaves Darjeeling as a pointer, unless a dedicated monograph is added later.
+Sharma's *Empire's Garden* is the scholarly spine for this part of the story: how the British remade a jungle-laden frontier into cultivated estates, and then reshaped the region's social landscape through migrant settlement.[^3] Duke University Press summarizes Sharma’s argument as describing more than one million migrants who changed Assam’s social landscape. This is the publisher’s summary of her thesis, not a new census.[^3] The sources trace land and labor, but they do not provide a complete ledger of who retained plantation profits. Darjeeling, another important late-nineteenth-century tea region, appears in the four-era overview in Section 1; the detailed case study here focuses on Assam.
 
 ::: {.callout-note collapse="true" title="More detail: Assam / Darjeeling estate sketch (named trails only)"}
 | Place / trail | What the sources support | Fence |
@@ -107,7 +107,7 @@ Planters and officials did not treat Assamese peasants as a ready workforce. By 
 
 From the **1860s until the 1920s**, Assam plantations recruited laborers under a **penal and indentured** regime. Beginning with the **Transport of Native Labourers Act, 1863**, the colonial state passed a run of laws that facilitated recruitment and control.[^6] Men, women, and children were sent from **Central India**—Chotanagpur laborers were especially prized by the late nineteenth century—by steamer, by road, and later by railway, into the jungles and gardens of Upper Assam.[^6] Sharma cites a contemporary order-of-magnitude estimate of roughly **700,000–750,000** recruits to Assam tea between **1870 and 1900**, about **250,000** of them from Chotanagpur. She sets that estimate beside *Times* propaganda about "prosperity and peace," not as proof that indenture was welfare.[^6] The foldout keeps the attribution and the fence. The open story only needs the scale of the migration.
 
-The word **"coolie"** needs to be taught carefully. Historically it named low-rung wage labor around the Indian Ocean. Under Assam recruitment it gained a **specific racial attribution**, tied to Central Indian and Chotanagpur migrants and to planter rankings of who supposedly suited estate work. Planters contrasted supposedly "docile" migrant hill laborers with locals cast as lazy or opium-sodden. That contrast was an ideological labor strategy, not a neutral ethnography.[^6] Sharma's larger argument is that this racialized construction of the tea laborer later fed Assamese elite identity politics, with the burden pushed onto tribals and migrant laborers. One foldout sentence is enough. This is not a nationalism lesson.[^3][^6]
+The word **"coolie"** needs to be taught carefully. Historically it named low-rung wage labor around the Indian Ocean. Under Assam recruitment it gained a **specific racial attribution**, tied to Central Indian and Chotanagpur migrants and to planter rankings of who supposedly suited estate work. Planters contrasted supposedly "docile" migrant hill laborers with locals cast as lazy or opium-sodden. That contrast was an ideological labor strategy, not a neutral ethnography.[^6] Sharma argues that this racialized construction of tea labor later shaped Assamese elite identity politics, with costs borne by tribal communities and migrant laborers.[^3][^6]
 
 Indenture made the industry largely independent of local labor, but local people still appear in niches, for example as Kachari seasonal workers. After the 1861 Phulaguri context, planter views of Kachari labor soured further.[^6] Early Chinese skilled recruits had been tried while the gardens still hoped for craft know-how from China. By the 1860s they had largely been abandoned: too costly, with too many deaths and desertions, relative to the controlled migrant stream that followed.[^6]
 
@@ -138,7 +138,7 @@ Indenture made the industry largely independent of local labor, but local people
 ```
 <!-- lesson-illustration:tea-marketing:end -->
 
-By about **1890**, Kew's public history says that India supplied roughly **90%** of Britain's domestic tea market. That is the readable market trail for why a British cupboard no longer needed Canton chests the way it once did.[^1] The grocery bag is historically cheap partly because someone else's garden became an estate, and because that estate was staffed and scheduled for volume. Production alone does not finish the story. Someone still had to persuade drinkers that empire leaf belonged in the everyday cup.
+By about **1890**, Kew's public history says that India supplied roughly **90%** of Britain's domestic tea market. That is the readable market trail for why a British cupboard no longer needed Canton chests the way it once did.[^1] A low-priced tea bag can hide the history of land clearance, labor control, and estate production. Price alone cannot tell us how profits were divided or describe every worker’s experience. Empire leaf also needed marketing before it became part of an everyday cup.
 
 None of that licenses a slogan such as "tea alone caused empire," or a homemade re-estimate of who kept the plantation profits. Kew's page also says that India was "only allowed to keep 15 percent of plantation profits." We treat that line as **Kew's narrative phrasing**, not as an independently re-audited ledger on this site.[^1] Prefer Sharma when the question is labor in depth. Keep Kew for the readable market-and-cost trail. Keep Antrobus for the hinge of company formation.[^3][^5][^6]
 
@@ -146,14 +146,13 @@ Your grocery bag is cheap partly because someone else's garden became an estate.
 
 Assam is the spine. Another empire garden, Ceylon (today's Sri Lanka), switched from coffee to tea when rust hit. The dated beats stay in the foldout.[^4] Empire leaf still needed buyers. Planters sold "British" tea against an older preference for China leaf, and that marketing is part of why the cheap bag becomes everyday.[^7]
 
-::: {.callout-caution title="Honesty fence"}
-- This page refuses to re-estimate colonial profit shares.
-- It also refuses the "tea alone caused…" claims that Section 1 has already fenced.
-- Kew's ~1890 / ~90% line for the British market, the notes on human cost, and the **"15% of plantation profits"** line are **Kew narrative**. They give context for the cheap bag. They are not a new econometric model.[^1]
-- Do not quote planter praise, or *Times* praise, of indenture as if it were factual welfare.[^6]
-- Do not invent wage rates, passage mortality, or a series of Waste Land grant acreages.
-- The chemistry of the cup still lives in Chapter 1. Shopping labels live in Tea basics.
-:::
+::: {.callout-caution title="Source limits"}
+- The cited sources do not support a new estimate of colonial profit shares or the claim that tea alone caused empire and its conflicts.
+- Kew’s c. 1890 figure for India’s share of the British market, its account of human costs, and its “15% of plantation profits” statement are Kew’s narrative, not an independently audited economic model.[^1]
+- Treat planter and *Times* praise of indenture as interested claims, not neutral evidence of workers’ welfare.[^6]
+- The sources cited here do not establish wage rates, passage mortality, or a complete series of Waste Land grant acreages, so this lesson does not estimate them.
+- The chemistry of the cup is in Chapter 1; shopping labels are in Tea basics.
+::
 
 ::: {.callout-note collapse="true" title="More detail: Ceylon — coffee rust → tea (Taylor / Loolecondera)"}
 McCarthy and Devine's *Tea and Empire* reconstructs the Victorian planter life of James Taylor from letters and from plantation evidence. The chapters include **"The rise and fall of 'King Coffee'"** and **"Transition to tea"**—and the book flags the dark side of planting, the violence and the oppression, not only the celebration.[^4]
