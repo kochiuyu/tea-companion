@@ -33,7 +33,7 @@ Superscript numbers are clickable footnotes. Select one to jump to the source, a
 
 If you read a headline such as "tea improves decisions!", ask how the trial was built. Good trials try to separate the drug effect from expectation, temperature, and bitter taste.
 
-Lessons 4.1–4.3 showed *what* gets measured: fast blurts, balloon pumps, unfair splits, first sends, and the rest. This lesson shows *how* careful studies try not to fool themselves. Without a caffeine-free weekend, matched mugs, and timed testing, you may be measuring "this feels like tea" as much as chemistry.
+Lessons 5.1–5.3 showed *what* gets measured: fast blurts, balloon pumps, unfair splits, first sends, and the rest. This lesson shows *how* careful studies try not to fool themselves. Without a caffeine-free weekend, matched mugs, and timed testing, you may be measuring "this feels like tea" as much as chemistry.
 
 Holding temperature constant also matters, because Chapter 4 showed that mere warmth can nudge social judgments. A decision study that forgets mug temperature may mix pharmacology with thermal priming.[^4][^5]
 
@@ -107,8 +107,8 @@ If those answers are missing, treat the claim as marketing until the methods sho
 
 ## How this lesson polices the rest of Chapter 5
 
-- For a dual-process headline, ask about dose, task, and timing ([4.1](01-dual-process.qmd)).
-- For a risk or patience headline, ask whether the dose was ethanol or caffeine capsules, or a grocery mug ([4.2](02-risk-waiting.qmd)).
+- For a dual-process headline, ask about dose, task, and timing ([5.1](01-dual-process.qmd)).
+- For a risk or patience headline, ask whether the dose was ethanol or caffeine capsules, or a grocery mug ([5.2](02-risk-waiting.qmd)).
 - For a trust or tea-service headline, ask about warmth controls and replication history ([5.3](03-trust-games.qmd); [4.1](../module-04/01-warmth-trust.qmd)).
 
 Methods are how this chapter stays honest without stretching beyond the evidence.
@@ -155,7 +155,7 @@ Careful protocols are not bureaucracy for its own sake. They are how you keep Ch
 1. The open story is the matched mug, the wait for the peak, and the reminder that decaf is not a magic placebo.
 2. Washout, **60°C**, the quinine match, **+40 min**, and the **200+100** dose live in the foldouts.[^3][^6][^7]
 3. The warmth confound from Chapter 4 is why temperature is controlled, rather than left cozy.[^4][^5]
-4. Methods police the 4.1–4.3 headlines.
+4. Methods police the 5.1–5.3 headlines.
 5. There is no invented economics here, only shared tools.
 6. Return to the [chapter hub](index.qmd) or the [Cup reference](../../cup-reference.qmd) when you want the numbers.
 :::
