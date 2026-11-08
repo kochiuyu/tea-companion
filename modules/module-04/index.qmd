@@ -56,7 +56,7 @@ Hold three kitchen pictures. One is a cozy mug in the hand while you meet someon
 
 ## Carry-forward into Decisions
 
-If you take only one sentence into [Chapter 5](../module-05/index.qmd), take this one: **context is part of the dose.** Temperature, ritual, and expectation ride along with caffeine and [L-theanine](../../glossary.qmd#l-theanine). That is why careful decision studies lock mug temperature and bitterness, and why a headline that ignores them is incomplete.
+If you take only one sentence into [Chapter 5](../module-05/index.qmd), take this one: **context can shape how a given dose is experienced.** Temperature, ritual, and expectation may influence a response alongside caffeine and [L-theanine](../../glossary.qmd#l-theanine). When they could affect the outcome, decision studies should measure or control factors such as cup temperature and bitterness, and headlines should say what was actually held constant.
 
 ***
 
