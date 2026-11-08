@@ -69,7 +69,7 @@ By the end of the four lessons, the dual story should feel less like a slogan an
 1. Caffeine lifts the sleepy brake, so the mental road stays busy.[^1]  
 2. L-theanine gently turns down excess "go" chatter and supports a calmer attentional style.[^2][^3]  
 3. At rest, that often shows up as a calmer brain rhythm. Under hard work, it shows up as better selective attention rather than sleepy blankness.[^4][^5]  
-4. Under stress, L-theanine-linked drinks more often keep heart rate, sweat, and stress markers nearer baseline than caffeine alone.[^6][^7]  
+4. In an acute stress task, isolated L-theanine reduced heart-rate and salivary immune responses versus placebo; another trial found that it attenuated caffeine's blood-pressure rise. These results do not establish the same effect for brewed tea.[^6][^7]  
 5. Alcohol, by contrast, floods the "slow everything down" side and weakens the careful monitoring you need for hard choices.[^8][^9][^10]
 
 Why does that matter for a smart high-school or early-college reader? It explains a familiar experience without magic. Tea is not "coffee minus the bad parts" by advertising. It is usually **less caffeine than a large coffee**, plus **a second compound coffee does not share**, arriving on a **delayed clock**. Chapter 1's 30–50 minute lag is not trivia. It is why "I just sipped" and "I feel focused" are different moments.
@@ -80,7 +80,7 @@ One more honesty check is worth keeping nearby. Most cognitive trials use purifi
 1. Caffeine ≈ adenosine-receptor antagonism, which lifts the sleepy brake.[^1]
 2. L-theanine ≈ weak glutamate antagonism plus calmer attention, and it is not a direct GABA agonist.[^2][^3]
 3. At rest → more alpha. Under load → better selective attention, not sleepy blankness.[^4][^5]
-4. Under stress → heart rate, sweat, and stress markers nearer baseline than caffeine alone, in the cited designs.[^6][^7]
+4. Lab stress task → isolated L-theanine reduced heart-rate and salivary immune responses versus placebo; a separate trial found less caffeine-related blood-pressure rise. Neither result tested brewed tea.[^6][^7]
 5. Alcohol ≈ more GABA_A inhibition plus less NMDA function, which floods careful monitoring.[^8][^9][^10]
 6. Lab milligrams ≠ grocery mug, so use the [Cup reference](../../cup-reference.qmd).
 :::
